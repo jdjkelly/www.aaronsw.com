@@ -1,0 +1,261 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Completely Outrageous (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001230.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001229" title="I Hate Books" />	<link rel="next" href="001234" title="Brown and Goodridge" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Completely Outrageous</h1>
+</div>
+
+<div class="content">
+<p>Bush <a href="http://factcheck.org/article.aspx?docID=177">runs an ad</a> which says that Kerry voted against &#8220;Apache Helicopters, Tomahawk Cruise Missiles,&#8221; as well as &#8220;Bradley Fighting Vehicles, Patriot Missiles, B-2 Stealth Bombers, F-18 Fighter Jets and more.&#8221;</p>
+
+<p>The truth is that <strong>Kerry did no such thing</strong>, he just voted against general Pentagon spending bills 3 times out of 19 years. Kerry did say he opposed the AH-64 Apache helicopter&#8230;when he ran for Senate in 1984. But when he was elected, he did not oppose the weapons. </p>
+
+<p>However, <strong>Dick Cheney did!</strong> Then Secretary of Defense under the first Bush, he said: &#8220;I recommended that we cancel the AH-64 program two years out.&#8221; He also specifically proposed eliminating the Bradley Fighting Vehicle, the F-14, and the F-16 aircraft (compare with Kerry&#8217;s vague votes against Pentagon spending).</p>
+
+<p><strong>No newspaper mentioned this.</strong></p>
+
+<p>But <strong>the New York Times lied to make Kerry look bad</strong>. Commenting on the ads, Jim Rutenberg wrote that &#8220;Mr. Kerry has said many defense bills he voted against later were ridden with pork. Still, although he has complained that Mr. Bush’s campaign has taken his votes out of context, he told The Boston Globe last year that some of his stances were &#8216;stupid in the context of the world we find ourselves in right now and the things that I&#8217;ve learned since then.&#8217;&#8221; It sure sounds like Kerry is regretting a 2000 or 2001 vote in light of 9/11 and the war in Iraq.</p>
+
+<p>Nope, Kerry was talking about 1984 campaign proposals!</p>
+
+<p><strong>To sum up:</strong> Bush/Cheney says Kerry did X. Kerry did not-X, Cheney did X. Newspapers don&#8217;t mention it. The New York Times lies and says Kerry feels bad about doing X.</p>
+
+<p>Completely outrageous!</p>
+
+<p class="posted">posted May 12, 2004 05:59 PM (<a class="category" href="cat_politics">Politics</a>) (<a href="#comments">12 comments</a>) <a href="001230" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001229" title="I Hate Books">&laquo; prev</a> | <a href="./">up</a> | <a href="001234" title="Brown and Goodridge">next &raquo;</a></p>
+
+<p><a href="001224">Misreading Jefferson is Sinful and Tyrannical</a><br />
+<a href="001225">[REDACTED]</a><br />
+<a href="001226">All News is Bad News</a><br />
+<a href="001228">Big Bad Bundle Blog</a><br />
+<a href="001229">I Hate Books</a><br />
+<strong>Completely Outrageous</strong><br />
+<a href="001234">Brown and Goodridge</a><br />
+<a href="001244">Conservative Losers</a><br />
+<a href="001269">Miller and Brock</a><br />
+<a href="001313">Film Recommendation: Brazil</a><br />
+<a href="001314">Brazil: The Sucky Story of Sid Sheinberg</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1062">
+
+<p>Once every four years your blog becomes unreadable&#8230;. <em>chuckle</em></p>
+
+<p>The democrats may have had a chance if they had selected Clark or Edwards to carry the swing voters, but Kerry??  Come on, forget it.  Bush gave the poor people a lot of money in tax breaks&#8230; and I would almost bet $$ that Bin Laden will be capture a week or two before the elections.  Kerry won&#8217;t have a chance. </p>
+
+<p>It is sad, especially for a voter like me (neither Republican nor Democrat), who isn&#8217;t given a real choice on election day.  While I don&#8217;t  dislike all of Bush&#8217;s policies, I&#8217;m not a zealot for him either. I wasn&#8217;t going to vote for him in the coming elections due to his support of the Patriot Act, but I can&#8217;t see Kerry as the president.   Nor can I see switching leaders while our troops are under so much pressure in Iraq - that is begging for another Vietnam. </p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.breakingrobots.net" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=1062">Austin</a> at May 12, 2004 06:24 PM <a href="#c1062">#</a></p>
+
+</div><div id="c1063">
+
+<p>My outrage is at the media. I don&#8217;t think things would be that much better under Kerry.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=1063">Aaron Swartz</a> at May 12, 2004 07:21 PM <a href="#c1063">#</a></p>
+
+</div><div id="c1064">
+
+<p>See, this is the strange thing.  Edwards really wasn&#8217;t that much less liberal than Kerry; his biggest campaign tactic in the primaries was populist protectionism.  About the only thing that made him a moderate was having a southern accent.  And Clark couldn&#8217;t come up with a coherent policy position to save his life; his candidacy pretty much consisted of, &#8220;Hey, he&#8217;s a general, so he&#8217;s <i>gotta</i> be good!&#8221;  Plus, he got endorsed by Michael Moore, which doesn&#8217;t exactly give you aces in the centrist department.</p>
+
+<p>Though I guess this is a pretty good description of the state of our political discourse.  Edwards looks good on TV, ergo he was the strongest candidate.  Woo.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.mechapencil.net/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=1064">Erik Owomoyela</a> at May 12, 2004 07:44 PM <a href="#c1064">#</a></p>
+
+</div><div id="c1066">
+
+<p>Eh, saying &#8220;Kerry did no such thing&#8221; is over the edge.  He did vote against those things when he voted against those general spending bills.  It&#8217;s a fact, Jack, that he voted against those items.  It&#8217;s also a fact that saying he voted against those items is deceptive (given the context).</p>
+
+<p>I am not justifying the deception, but it isn&#8217;t like this is only with Bush.  Just tonight I heard Kerry talking about how Bush said he would work to get health care for everyone who couldn&#8217;t afford it, and that time is running out for him to accomplish that, and that Kerry would introduce legislation to accomplish that as soon as he took office.</p>
+
+<p>What Kerry doesn&#8217;t mention is that the President does not introduce legislation and that he, as a Senator, could introduce that legislation <em>right now.</em>  Why won&#8217;t he?  Because he knows it will be picked apart and people will see the cost and he will look bad and it will hurt his chances at election in November.</p>
+
+<p>Bleah.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://slashdot.org/~pudge/journal" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=1066">pudge</a> at May 12, 2004 09:02 PM <a href="#c1066">#</a></p>
+
+</div><div id="c1067">
+
+<p>Erik, I agree with you, Clark was a horrible candidate.  I think Dean sucked too.  Edwards was OK, but  I think Kerry is the best candidate for the Democrats.  Of course, I said that before Iowa, so I am gonna stick with it now.  :-)</p>
+
+<p>(Actually, I think Biden would have been the best, but he chose to not run.)</p>
+
+<p>Edwards was a decent candidate, but he was just too inexperienced.  Of course, we see what experience gets you: a record that your opponent can distort!  I think either Edwards or Kerry would&#8217;ve been about the same, but I think Kerry was overall stronger: a more experienced campaigner, a stronger presence, a touch of Dean-like anger.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://slashdot.org/~pudge/journal" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=1067">pudge</a> at May 12, 2004 09:07 PM <a href="#c1067">#</a></p>
+
+</div><div id="c1069">
+
+<p>Specious comments and ads aren&#8217;t liberal or conservative, Republican or Democrat.</p>
+
+<p>They are ubiquitous and depend on fuzzy-thinking fog to exist. The degree to which it will ever change is the degree to which you recognize it, label it for what it is, and laugh at it.</p>
+
+<p>Visit <a href="spinsanity.org">Spinsanity: Countering Rhetoric with reason</a>.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://blogs.rny.com/sbw/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=1069">sbw</a> at May 13, 2004 08:21 AM <a href="#c1069">#</a></p>
+
+</div><div id="c1071">
+
+<p>Read the article at http://www.spectacle.org/0504/buck.html for an explanation of how people can say/do whatever they like because they are shielded from accountability.</p>
+
+<p class="posted">posted by jcw at May 13, 2004 10:06 AM <a href="#c1071">#</a></p>
+
+</div><div id="c1072">
+
+<p>Yeah, Kerry&#8217;s health care ad seems pretty bizarre to me. I mean, I don&#8217;t recall health care being a major campaign promise, and it appears that Kerry has only the one instance where Bush ever said it. But this claim is new so people haven&#8217;t looked into the details yet. We&#8217;ll see if the newspapers live up to their right-wing bias and correct Kerry&#8217;s ad but not Bush&#8217;s.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=1072">Aaron Swartz</a> at May 13, 2004 10:13 AM <a href="#c1072">#</a></p>
+
+</div><div id="c1081">
+
+<p>The first commenter said Bush gave the poor people a lot of tax breaks. Well, well, another case of bad information. How can someone claim such a thing when Bush did exactly the opposite.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://radio.weblogs.com/0116902/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=1081">Hetty</a> at May 14, 2004 03:23 AM <a href="#c1081">#</a></p>
+
+</div><div id="c2277">
+
+<p>I was about to say that I think there should be a rule stating that Congress and the President should always be from different parties.  But then I remebered that then, NOTHING gets done because everything has to be watered down to please one or the other.</p>
+
+<p>And on health care - I hope we all realize that the day we&#8217;re going to have to pony up for socialized medicine is rapidly approaching.  Time to join the rest of the world.</p>
+
+<p>As for Bush and Kerry&#8230;.  Who could possibly vote for Bush again after the foreign policy debacles he&#8217;s created?  Honestly?</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronramey.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2277">Aaron</a> at May 25, 2004 12:37 AM <a href="#c2277">#</a></p>
+
+</div><div id="c3064">
+
+<p><a href="http://www.female-products-reviewed.com">Female Enhancer Products Reviewed</a>
+<a href="http://www.good-health-info.com">Health Products Reviewed</a></p>
+
+<p class="posted">posted by jake at October 15, 2004 10:11 AM <a href="#c3064">#</a></p>
+
+</div><div id="c3931">
+
+<p>What is outrageous is that an obvious traitor like Kerry, who should have been hanged in 1972 or so, should be considered eligible for any high office in America.  Now THAT is outrageous.  Impeach and charge him NOW.</p>
+
+<p class="posted">posted by Jeff White at February  8, 2005 02:32 PM <a href="#c3931">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001230.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1230" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Making More Wikipedians (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Making More Wikipedians</h1>
+
+<div class="wikivote">
+<p class="head"><strong>Wikimedia 2006 Elections</strong></p>
+
+<p>
+Part 1: <a href="wikiroads">Wikimedia at the Crossroads</a><br />
+Part 2: <a href="whowriteswikipedia">Who Writes Wikipedia?</a><br />
+Part 3: <a href="whorunswikipedia">Who Runs Wikipedia?</a><br />
+Part 4: <strong>Making More Wikipedians</strong><br />
+Part 5: <a href="morewikipedias">Making More Wikipedias</a><br />
+Part 6: <a href="wikicodeislaw">Code, and Other Laws</a><br />
+</p>
+
+<p>If you translate this essay, please <a href="mailto:me@aaronsw.com">contact me</a>.</p>
+
+<p><strong><a href="http://en.wikipedia.org/wiki/User:AaronSw/Election">Vote for me</a></strong> in the election for the Wikimedia Foundation&#8217;s Board of Directors.</p>
+</div>
+
+<p>Wikipedia, the Vice President of the <em>World Book</em> told us, is now recognized by ten percent of Americans. He presented this in a tone of congratulation: with no marketing budget or formal organization, a free online-only encyclopedia written by volunteers had achieved a vast amount of attention. But I took it a different way. &#8220;Only ten percent?&#8221; I thought. &#8220;That means we have ninety percent to go!&#8221;</p>
+
+<p>Wikipedia is one of the few things that pretty much everyone finds useful. So how do we get all of them to use it? The first task, it appears, is telling them it exists. An ad campaign or PR blitz doesn&#8217;t quite seem appropriate for the job, though. Instead, our promotion should work the same way way the rest of Wikipedia works: let the community do it.</p>
+
+<p>Wikipedia&#8217;s users come from all over society: different cultures, different countries, different places, different fields of study. The physics grad students who contribute heavily to physics articles are in a much better position to promote it to physicists than a promotional flack from the head office. The Pokemon fan maintaining the Pokemon articles probably knows how to reach other Pokemaniacs than any marketing expert.</p>
+
+<p>Sure, you might say, but isn&#8217;t the whole question of marketing Wikipedia somewhat silly? After all, you obviously know about Wikipedia, and your friends probably all seem to as well. But things are a lot thinner than you might expect: as noted above, only one in ten Americans even knows what Wikipedia is, and most of those don&#8217;t truly understand it.</p>
+
+<p>It&#8217;s shocking to discover how even smart, technically-minded people can&#8217;t figure out how to actually edit Wikipedia. Dave Winer wrote some of the first software to have an &#8220;Edit This Page&#8221; button (indeed, he operated editthispage.com for many years) and yet he at first complained that he couldn&#8217;t figure out how to edit a page on Wikipedia. Michael Arrington reviews advanced Web 2.0 websites daily, yet <a href="http://www.techcrunch.com/2005/07/12/profile-wikipedia/">he noted</a> that &#8220;Many people don&#8217;t realize how easy it is for anyone to add content to wikipedia (I’ve done it several times)&#8221;. If prominent technologists have trouble, imagine the rest of the world.</p>
+
+<p>Obviously, this has implications for the software side: we need to work hard on making Wikipedia&#8217;s interface clearer and more usable. But there&#8217;s also a task here for the community: giving talks and tutorials to groups that you know about, explaining the core ideas behind Wikipedia, and giving demonstrations of how to get involved in it. The best interface in the world is no substitute for real instruction and even the clearest document explaining our principles will be ignored in a way that a personal presentation won&#8217;t.</p>
+
+<p>But beyond simply giving people the ability to contribute, we need to work to make contributing more rewarding. <a href="whowritescomments">As I previously noted</a>, many people decide to dive into writing for Wikipedia, only to watch their contributions be summarily reverted. Many people create a new article, only to see it get deleted after an AfD discussion where random Wikipedians try to think up negative things to say about it. For someone who thought they were donating their time to help the project, neither response is particularly encouraging.</p>
+
+<p>I&#8217;m not saying that we should change our policies or automatically keep everything a newcomer decides to add so we don&#8217;t hurt their feelings. But we do need to think more about how to enforce policies without turning valuable newcomers away, how we can educate them instead of alienating them.</p>
+
+<p>At Wikimania, no less an authority than Richard Stallman (who himself long ago <a href="http://www.gnu.org/encyclopedia/">suggested the idea</a> of a free online encyclopedia) wandered around the conference complaining about a problem he&#8217;d discovered with a particular Wikipedia article. He could try to fix it himself, he noted, but it would take an enormous amount of his time and the word would probably just get reverted. He&#8217;s not the only one &#8212; I constantly hear tales from experts about problems they encounter on Wikipedia, but are too complicated for them to fix alone. What if we could collect these complaints on the site, instead of having these people make them at parties?</p>
+
+<p>One way to do that would be to have some sort of complaint-tracking system for articles, like the discussion system of talk pages. Instead of simply complaining about an article in public, Stallman could follow a link from it to file a complaint. The complaint would be tracked and stored with the article. More dedicated Wikipedians would go through the list of complaints, trying to address them and letting the submitter know when they were done. Things like POV allegations could be handled in a similar way: a notice saying neutrality was disputed could appear on the top of the page until the complaint was properly closed.</p>
+
+<p>This is just one idea, of course, but it&#8217;s an example of the kinds of things we need to think about. Wikipedia is visited by millions each day; how do get them to contribute back their thoughts on the article instead of muttering them under their breath or airing them to their friends?</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">September 11, 2006</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>While your intentions are good, I don&#8217;t see where you&#8217;ve addressed the core problem.</p>
+
+<p>Problem: It&#8217;s not worth an expert&#8217;s time to argue with bureaucrats.</p>
+
+<p>&#8220;Instead of simply complaining about an article in public, Stallman could follow a link from it to file a complaint. The complaint would be tracked and stored with the article. More dedicated Wikipedians would go through &#8230;&#8221;</p>
+
+<p>In other words, the expert gets to deal with MORE BUREAUCRATS.</p>
+
+<p>How does this help? Are the upper-level admins (so much for anarchy) going to be easier to deal with? Maybe. It still seems to me that the basic issue, of having to waste a lot of time pleading a case to non-experts, remains unresolved. Perhaps it can be made to work with sufficient resources (which brings us back to the money I keep mentioning &#8230;).</p>
+
+<p>I have my own dissatifications with certain articles. And again, it&#8217;s just not worth it for me to have a big argument over it. I&#8217;ve done edit-wars a few times, and it wasn&#8217;t fun.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://sethf.com/">Seth Finkelstein</a>
+ on September 11, 2006 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>Actually, after thinking about it a little, maybe this does help, and I&#8217;ve answered my own question.</p>
+
+<p>Restated: Let&#8217;s create a class of &#8220;assistant editors&#8221; in charge of expert contributions. The function of the &#8220;assistant editor&#8221; is to shield the expert from having to deal with the frustration of battling the freelancers who will trash the expert&#8217;s work out of ignorance, or even for thrills in lording it over the expert. The assistant editor will indicate that the expert&#8217;s contribution is under the protection of the Wikipedia <em>capos</em>, and thus should not be challenged lightly, and definitely not for status-games.</p>
+
+<p>You could probably get people to do this mostly for free, for the emotional satisifaction of helping real experts against the hordes. It&#8217;s kind of a good-cop/bad-cop result, but that does work.</p>
+
+<p>It&#8217;s still dealing with bureaucrats, so it has that barrier. But it could be an improvement.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://sethf.com/">Seth Finkelstein</a>
+ on September 11, 2006 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>Seth: I don&#8217;t think Aaron was saying the complaints should only be viewable by admins.</p>
+
+<p>In fact, I think in practice they could be shunted off to the discussion page &#8212; the complaint mechanism would just be an alternate interface to article:talk, one that&#8217;s not hidden outside the main content frame and doesn&#8217;t seem to be asking whether you have time to get involved in a debate.  (Honestly, the &#8220;discussion&#8221; tab is a really interface element &#8212; it doesn&#8217;t even make clear that it&#8217;s discussion about the article, not about the topic.)</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://wikip.blogspot.com">Ben Yates</a>
+ on September 12, 2006 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>Where did the 10% number come from? How does that compare to other &#8220;common&#8221; knowledge:</p>
+
+<p>What percentage of Americans know what World Book is?</p>
+
+<p>What percentage of Americans know that it takes one year for Spaceship Earth to go around the sun?</p>
+
+<p>What percentage of Americans know that the leader of North Korea is Kim Jong Il?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://nielsolson.us/">Niels Olson</a>
+ on September 12, 2006 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>As someone who has tried to edit and add Wikipedia articles only to see my contributions summarily deleted with little explanation, I think you&#8217;ve done a great job of identifying a problem, but I&#8217;m not so convinced about any of the solutions here.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://weblog.randomchaos.com/">Scott Reynen</a>
+ on September 12, 2006 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c6">
+<p>Ben, I know it wasn&#8217;t intended to be admin eyes-only. I was just unclear as to the benefits of dealing with admins. And then I realized they could serve the useful function of running interference between the experts and the sometimes not-so-smart mobs.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://sethf.com/">Seth Finkelstein</a>
+ on September 12, 2006 <a href="#c6" rel="bookmark">#</a></p>
+</div>
+<div id="c7">
+<p>I remember kind of suggested that &#8220;discussion system of talk pages&#8221; for Infogami while ago - directly to AaronSW&#8230;Well, that&#8217;s okay it&#8217;s just a system which not only leaves the &#8216;end product&#8217; (entries, articles) but how &#8216;messy&#8217; (or beautiful and even touching) co-editing process, and discussion process can be. (Only if we had all the videos of how all the gorgeous artworks are made, tried - how painters and sculptors wondered and tried and so on. Then we have better things to do than just walking around dead end products hanging in the museum&#8230;&#8217;Result only&#8217; is a kind of Platonist perversion West :-P - and many human civilizations and cultures are now stuck with.)</p>
+
+<p>How much suggested - such &#8216;complaint&#8217; system would work can be tested with test cases, probably. Wikipedia, considering from its standing and spirit, should be able to accommodate such monitored, tracked, and analyzed experiments - maybe all the time, over other kind of ideas and visions even.</p>
+
+<p>But they might say they tried such ideas, or they had experience in Nupedia - enough and - I don&#8217;t know they just verbally &#8216;say&#8217; it - or they can show some analysis, written stuff with evidences or not.</p>
+
+<p>Even they say they tried and didn&#8217;t work, it can be retried and reworked. On several different kind of entries, AaronSW (and his associates, friends), or anyone, can try working on.</p>
+
+<p>I remember doing a team project on conflict in Sierra Leone, and I remember more about how each of team member came up with new ideas and inspirations - day to day, over weeks than the result. That experience gave me something really unforgettable, always telling me, recalling me something about human potentials, &#8216;Don&#8217;t ignore, Don&#8217;t underestimate&#8217; - any of us got talents - can work as mediator, moderator, cheer leader, surprise giver, etc.</p>
+
+<p>How the end product was&#8230;I don&#8217;t remember about it much. I only remember the video clips of long discussions the team had - stored in my head.</p>
+
+<p>We are all alive and kicking and so on, and we need to do something about that too. And if Wikipedia fails to document such process, or &#8216;don&#8217;t care&#8217; about those processes, then it&#8217;s not for humans who are interested in other humans.</p>
+
+<p class="posted">posted by a.kusaka
+ on September 12, 2006 <a href="#c7" rel="bookmark">#</a></p>
+</div>
+<div id="c8">
+<p>You know, I was much enamored with the Wiki concept at one time, even coding my own PHP version of a wiki where I tried to blend aspects of web log into wiki concept. That was in 2001-2002.</p>
+
+<p>Anymore, I&#8217;m not so sure Wiki is the greatest thing, especially on a scale of Wikipedia.</p>
+
+<p>I&#8217;ve experienced frustration on editing articles and it seems that there is a clique of WikiNazis that really get off on imposing their narrow view of matters and worse, go against the Wikpedia stated NPOV mantra.</p>
+
+<p>I offer a recent example - I&#8217;ve been editing this page recently - http://en.wikipedia.org/wiki/David_Ray_Griffin.
+The first line of this person&#8217;s biography I keep changing from &#8220;conspiracy theorist&#8221; to member of 9/11 Truth Movement (with link to that Wikipedia page). An editor keeps changing it back and saying that since Washington Post called him a conspiracy theorist that makes it cited and sourced. To which I argue that &#8220;conspiracy theory&#8221; is a genetic fallacy argument, and that while you write &#8220;many consider&#8230;&#8221; other such qualifiers, &#8220;conspiracy theorist&#8221; is an editorial call, is negative material and does not adhere to NPOV.</p>
+
+<p>In reading through the editors personal pages, it seems that there is a clique of editors that give eachother badges and pride themselves on deleting pages and other acts that I consider over-editing. And as Wikipedia has increased in popularity I am aware that there are teams that are paid to monitor the contents and this coupled with overeditorial zealousness is going to frustrate many a potential writer, leaving the ideologically bent to control content and tone.</p>
+
+<p>I&#8217;ve experienced this on other pages, where they are deleted (or significant content deleted) or where again, overzealousness seems to rule over common sense.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://azplace.net">naum</a>
+ on September 12, 2006 <a href="#c8" rel="bookmark">#</a></p>
+</div>
+<div id="c9">
+<p>Personally, I think that the real problem here is that, while assuming good faith is already a policy at Wikipedia, it doesn&#8217;t seem to be practiced anywhere near as often as it should.  I&#8217;ve seen new users fix something that they believe to be incorrect, and as their thanks they get a Blatantvandal template put on their talk page.  Or they choose their own name as a user name, or the name of something that that makes sense to them, and are blocked without warning with a block description along the lines of &#8220;user&#8230;&#8221;.  This has to have a significant affect in preventing new users from joining up.</p>
+
+<p>Regarding the &#8220;people not being able to figure out how to edit&#8221; point, another thought might be how to get people to realise that the &#8220;edit this page&#8221; really refers to them.  Maybe the name of the button needs to be changed to &#8220;Edit this page.  Yes, this means you.  We&#8217;re serious about that.&#8221;  (-:</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.sentex.net/~ajy/">James Yolkowski</a>
+ on September 17, 2006 <a href="#c9" rel="bookmark">#</a></p>
+</div>
+<div id="c15">
+<p>As a newish Wikipedian, I&#8217;ve been literally shocked by some of the deletions stumbled across on subjects I know well. IMO there is definitely some kind of problem if good (subjective statement, I know) content is being wiped wholesale. Apart from that I agree that it isn&#8217;t particularly easy to actually edit, until you can memorize the markup - but otoh that doesn&#8217;t really matter because your work, however good or mediocre, will probably get removed anyway :o(</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://elper.net">Pierre</a>
+ on December  5, 2006 <a href="#c15" rel="bookmark">#</a></p>
+</div>
+<div id="c27">
+<p>What about russian translate?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://mypersonalplanning.com/">personal financial planning</a>
+ on July 14, 2007 <a href="#c27" rel="bookmark">#</a></p>
+</div>
+<div id="c35">
+<p>Hello! Good Site! Thanks you!</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.yez.pl">Darmowe gry</a>
+ on September 20, 2007 <a href="#c35" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="morewikipedians" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

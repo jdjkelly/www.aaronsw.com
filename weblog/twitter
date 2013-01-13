@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>What Kind of a Thing is Twitter? (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>What Kind of a Thing is Twitter?</h1>
+
+<p>Do you ever eavesdrop on random people? At the office, on the subway, in a park &#8212; if you&#8217;re quiet, you can listen to people chat. If you do, you quickly find that, for the most part, they have conversations that seem perfectly boring. This is most obvious on IRC (Internet text chat) where, since the conversations are entirely textual, they can be perfectly transcribed. If you look at the transcripts later, you find they&#8217;re often almost unreadable &#8212; even in channels dedicated to very technical topics, you&#8217;ll find hours of conversation about someone&#8217;s dog.</p>
+
+<p>Such conversation clearly does not perform an objective information-sharing function &#8212; the relevant facts about the dog can be laid out in a paragraph (if that). It serves a social function &#8212; a function with a deep evolutionary history. Primates get to know each other through grooming each other&#8217;s fur. But that&#8217;s time-consuming; as a result, primates rarely form groups larger than 25. One of the big breakthroughs for humans was moving from grooming to gossip. Instead of 25 people, the average human knows 150. And so we talk, and as we talk we reveal our personalities to each other: the things we care about, the way we think, the subjects we understand. We make friends through this process of conversation and personality reveal, even though objectively the conversation is about matters that seem trivial. When it comes to our friends, we know a lot of trivia.</p>
+
+<p>What Twitter<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> does is automate this process. Instead of telling your bit of gossip or joke or humdrum story or minor complaint to each of your friends as you see them, you tell it once to Twitter, and then all your friends can see it. And just like the transition from grooming to gossip, Twitter allows for an explosion in the number of people we know. Where, in the past, it was only practical to have these kinds of close, chatty friendships with a handful of people (even using a technology like IM), now &#8212; using the power of the Web to bridge time and space &#8212; you can have them with hundreds.</p>
+
+<p>But the relationships need not be symmetrical. One of the things that&#8217;s clear about celebrities in the age of television is that they take advantage of this innate social sense. (<em>Fahrenheit 451</em> is caustic on this subject.) We see these people all the time, we listen to them, we watch them &#8212; and we come to feel as if we <em>know</em> them. And so, naturally, our innate social sense kicks in and we want to hear their gossip &#8212; a need tabloids try their best to fill.</p>
+
+<p>Twitter provides a more raw, unmediated access to celebrity gossip. Instead of hearing about it second-hand from TV news, we hear about it straight from them. Oprah, of course, has been a pioneer of this: with a daily long-form television show, she&#8217;s been able to cultivate (and monetize) a friendship with millions. But most celebrities don&#8217;t have that kind of access to their &#8220;followers.&#8221; They do on Twitter.</p>
+
+<p>The catch, of course, is that it&#8217;s all somewhat fake. What you see on Oprah&#8217;s show isn&#8217;t the real Oprah; it&#8217;s a hyperreal Oprah, a carefully-crafted simulation of a gregarious friend chatting with you in your living room &#8212; makeup, lighting, sets, and script are all carefully planned to seem &#8220;natural.&#8221; And most Twitter feeds are the same &#8212; humorists spend days polishing the one-liner they seem to carelessly toss off, politicians have speechwriters thinking up soundbites that they can tweet.</p>
+
+<p>But it&#8217;s not just fake, it&#8217;s empty. The reason such apparently boring conversation is interesting is because the act of conversation itself reveals your personality. We assume we know the people whose petty complaints and daily routines we&#8217;ve heard so much about because, traditionally, the only way to hear such things was to get to know them well. But it&#8217;s impossible to really know someone through sanitized soundbites. In 140 characters, there&#8217;s little room for the nuances of personality such conversation typically reveals. So, like Oprah&#8217;s audience, we all see the carefully-prepared facade people <em>want</em> to present, and come away thinking that we know them better than we really do.</p>
+
+<p>With people we know in &#8220;real life,&#8221; this isn&#8217;t such a big deal. We already know their personality; Twitter simply helps maintain our relationship by keeping us up-to-date. And while, in doing so, it lets us maintain vastly more relationships, I&#8217;m not sure this is a bad thing. Many people are starved for human relationship &#8212; we spend most of our lives at the office, or at home watching TV and playing video games. Most Americans live in suburbs with no street life and even in cities everyone&#8217;s wearing iPods and thus unable to stop and chat. If Twitter can help bring us together in an increasingly isolated world, then all the better (and, it seems, with some positive political consequences as well).</p>
+
+<p>But, for the people we don&#8217;t know, it has the effect of making them all Oprah. In the same way her millions of fans trust her book (<a href="http://www.newsweek.com/id/200025">and movie and health and plastic surgery&#8230;</a>) recommendations unquestioningly, because they feel that they know her, Twitter can make us trust other celebrities. If you feel like your Senator is a personal friend (and how can you not, after hearing them tell you about their struggle to lose weight and the guy they met at the gym?), then how could you possibly vote against them?</p>
+
+<p>This isn&#8217;t new, of course. It goes back as far as radio (possibly further). Pappy O&#8217;Daniel did it in Texas in the 1940s. He got on the radio every day at noon and just chatted, like an old friend &#8212; sang a few songs, read a little of his poetry, but mostly he just talked with quiet cheer. And people treated him like a friend: he asked them to buy his flour (simply other companies&#8217; flour repackaged with his picture on it and resold at a higher price) and they bought it. He asked them to vote for him and they elected him Governor of Texas in a landslide &#8212; whereupon, not knowing anything about politics, he plunged the state government into turmoil and disaster. But he kept up those daily broadcasts &#8212; now conducted from the Governor&#8217;s mansion &#8212; and they kept on reelecting him. He was their friend, after all.</p>
+
+<p>Twitter probably isn&#8217;t going to make THE_REAL_SHAQ governor, but I don&#8217;t think it&#8217;s crazy to worry about it having similar effects. Luckily, it also provides the tools for undoing these relationships. For the housewives stuck at home with the TV, Oprah is the only option. But on Twitter, at the same time you sign up to hear from Oprah, you can also follow &#8212; and cement your relationship with &#8212; more real friends. And it&#8217;s a good thing too, because with all these fake friends running around, we&#8217;re going to need all the real ones we can get.</p>
+
+<div class="footnotes">
+<hr />
+<ol>
+
+<li id="fn:1">
+<p>I&#8217;ll say Twitter because it&#8217;s become the accepted term, but obviously this applies to similar services like identi.ca.&#160;<a href="#fnref:1" rev="footnote">&#8617;</a></p>
+</li>
+
+</ol>
+</div>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">August 20, 2009</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>I would not be surprised if THE_REAL_SHAQ ran for political office.  He&#8217;s retiring from basketball next year.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://act.ly/">Jim Gilliam</a>
+ on August 20, 2009 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>Interesting view point . sometime back Tim Bray of Sun made an interesting post explaining the communication medium available to us . http://www.tbray.org/ongoing/When/200x/2007/11/23/Communication</p>
+
+<p>as a communication medium Twitter has some unique combination of traits.</p>
+
+<p>your point about carefully crafted message polluting the medium by creating a false perception about the person apply for every medium  . but you are missing a point here . for example  I know excellent, opinionated, revolutionary activist blogger  who are extremely shy in person and can&#8217;t stand up against their landlady .are they fake ? when I ask them (after a few drinks of course ) What is real you ? they say the real me is there only on my blog . So out side of politically motivated agenda driven PR whores ,whenever you see a common man acting &#8220;Fake&#8221; on things like blog,twitter  its mostly due to his residual self image trying to find a vent .</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://knowprashant.blogspot.com">Prashant Singh</a>
+ on August 20, 2009 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>In no way does Twitter supplant friendship. Nor does it claim to. Nor, do I imagine, that most of our users think that the interesting strangers they follow are &#8220;friends&#8221;.</p>
+
+<p>Not even real-life conversation with a person gives you any guarantee that you&#8217;re getting the &#8220;real&#8221; person. We all have different personas and voices for different interactions. Having another medium - a blessedly terse medium - in which people can hone their authorial voice is a boon. It is another style of communication to master, but not a replacement for what came before it. All new communications media are accumulative.</p>
+
+<p>I&#8217;m puzzled by the criticism that Twitter has become a place for celebrities. While I&#8217;m certainly aware that we have celebrities on our service, I&#8217;m not forced to follow them. I think I follow maybe 5, and they&#8217;re fairly minor celebrities at that. If you find the communication with a celebrity (or any other user) on Twitter &#8220;empty&#8221;, simply unfollow them. Just as the mainstream media may be tasteful, nobody is prying your eyes open and forcing you to watch or read or listen; if anything, undesirable content is easier to avoid on Twitter than on most forms of communication.</p>
+
+<p>New media are not a threat to some more innately authenticate, measurably human way of being and interacting. People&#8217;s credulity and willingness to be manipulated by other people -  whether those people are shouting from a mountaintop, talking into a radio station microphone, or texting into a mobile phone - is a perpetual function of education, circumstance, and opportunity.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://al3x.net">Alex Payne</a>
+ on August 20, 2009 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>In what way is this different from blogs, or books, or any other mediation? Or is that the point and I was being just a bit thick?</p>
+
+<p>I do think all this mediated pseudo friendship is good, in a way, because I think it makes it harder for Pappy O’Daniels to pull that shit en masse. There&#8217;s a lot of competition, and when everyone has all sorts of different fake friends it&#8217;s easier to be skeptical. You can tell they&#8217;re fake when you get a selection of them. Pappy O’Daniel benefitted from being singular in a much smaller field of mediation, largely playing to people that would gather in wonderment to watch a real life chopper land.</p>
+
+<p>But this is very much like my belief that unreliable info on the net is good, because it gets people questioning what they read. Which they don&#8217;t when it&#8217;s in books.</p>
+
+<p class="posted">posted by quinn
+ on August 21, 2009 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>What is gossip? We talk to people all day long. In our living rooms, on the couch. We feel like we know them! All we really know is what they say in their voice, and the emotions they show on their face.</p>
+
+<p>How do you really know someone? It&#8217;s in their fur. Only by picking through their fur can you really see: crumbs of what they ate for dinner, sweat, remnants of how they spent their day.</p>
+
+<p>&#8230; Sarcasm aside: the point you make is true, you can&#8217;t make tough decisions based on fake empty friendships any more than you can make them based on real ones. The fact that people will suspend reason to favor loyalty isn&#8217;t an indictment of twitter, it&#8217;s an indictment of people.</p>
+
+<p class="posted">posted by JOSEPH
+ on August 21, 2009 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c6">
+<p>You might enjoy a <em>Guardian</em> column I wrote a little while ago:</p>
+
+<p><a href="http://www.guardian.co.uk/technology/2009/may/07/twitter-is-a-suckers-game" rel="nofollow">&#8220;Twitter: sucker&#8217;s game that boosts elite&#8221;</a></p>
+
+<p>I see you&#8217;re getting some of the same types of reactions as I did, for being less than completely besotted with the wonders of broadcasting and group-grooming. And chat!</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://sethf.com/">Seth Finkelstein</a>
+ on August 22, 2009 <a href="#c6" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="twitter" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

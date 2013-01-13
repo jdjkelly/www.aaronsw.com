@@ -1,0 +1,1848 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>The Goog Life: how Google keeps employees by treating them like kids (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>The Goog Life: how Google keeps employees by treating them like kids</h1>
+
+<p>I was talking with a friend the other day about that perennial subject of conversation in the Valley, Google. And finally she gave me the clue that made the whole place make sense. &#8220;It&#8217;s about infantilizing people,&#8221; she explained. &#8220;Give them free food, do their laundry, let them sit on bouncy brightly-colored balls. Do everything so that they never have to grow up and learn how to live life on their own.&#8221;</p>
+
+<p>And when you look at it that way, everything Google does makes a sick sort of sense.</p>
+
+<p>Not a whole lot has changed since the last time I visited Google. The campus is bigger &#8212; the buildings across the street, instead of being reserved for lawyers and other lowlifes, are now being used by the engineering staff as well, to keep up with Google&#8217;s nonstop growth. And the employees seem a little less excited about things than the last time I was there. Nobody says &#8220;We&#8217;re on a mission to change the world!&#8221; anymore. Now they say, &#8220;Yeah, I&#8217;m just going to stick around here another six months until my options vest.&#8221; and &#8220;I kind of want to transfer out of my group but I worry that all the other groups are worse.&#8221;</p>
+
+<p>But the two blatant changes to the campus are a large, terribly fake-looking replica of SpaceShipOne hanging in the middle of the main building and a replica dinosaur skeleton standing outside. &#8220;It&#8217;s as if this place is being decorated by seven-year-olds,&#8221; a friend comments. It also reminds me of Robert Reich&#8217;s comment about Newt Gingrich: &#8220;His office is adorned with figurines of dinosaurs, as you might find in the bedrooms of little boys who dream of one day being huge and powerful.&#8221;</p>
+
+<p>The dinosaurs and spaceships certainly fit in with the infantilizing theme, as does the hot tub-sized ball pit that Googlers can jump into and throw ball fights. Everyone I know who works there either acts childish (the army of programmers), enthusiastically adolescent (their managers and overseers), or else is deeply cynical (the hot-shot programmers). But as much as they may want to leave Google, the infantilizing tactics have worked: they&#8217;re afraid they wouldn&#8217;t be able to survive anywhere else.</p>
+
+<p>Google hires programmers straight out of college and tempts them with all the benefits of college life. Indeed, as the hiring brochures stress, the place was explicitly modeled upon college. At one point, I wondered why Google didn&#8217;t just go all the way and build their own dormitories. After all, weren&#8217;t the late-night dorm-room conversations with others who were smart like you one of the best parts of college life? But as the gleam wears off the Google, I can see why it&#8217;s no place anyone would want to hang around for that long. Even the suburban desert of Mountain View is better.</p>
+
+<p>Google&#8217;s famed secrecy doesn&#8217;t really do a very good job of keeping information from competitors. Those who are truly curious can pick up enough leaks and read enough articles to figure out how mostly everything works. But what it does do is create an aura of impossibility around the place. People read the airbrushed versions of Google technologies in talks and academic papers and think that Google has some amazingly large computer lab with amazingly powerful technology. But hang around a Googler long enough and you&#8217;ll hear them complain about the unreliability of GFS and how they don&#8217;t really have enough computers to keep up with the load.</p>
+
+<p>&#8220;It&#8217;s always frightening when you see how the sausage actually gets made,&#8221; explains a product manager. And that&#8217;s exactly what the secrecy is supposed to prevent. The rest of the world sees Google as this impenetrable edifice with all the mysteries of the world inside (&#8220;I hear once you&#8217;ve worked there for 256 days they teach you the secret levitation,&#8221; <a href="http://xkcd.com/c192.html">explains xkcd</a>) while the select few inside the walls know the truth &#8212; there is no there there &#8212; and are bound together by this burden.</p>
+
+<p>Such a strategy may have worked in the early days, when Googlers were a select and special few, but as the company grows larger and employee&#8217;s identification with it grows thinner, Google has to step up their efforts to acculturate. And that&#8217;s where the life-size dinosaur replicas come in. Enjoy being huge and powerful while you can. Because, like the dinosaurs, this too will pass.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">December 13, 2006</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p><em>yawn</em></p>
+
+<p>I work at Google, am fully vested, and could retire tomorrow if I wanted to.  I continue to work here because it actually <em>is</em> the most interesting place in the world to work at.</p>
+
+<p>Once again you&#8217;ve written a sensationalistic piece based on cursory research that only serves to confirm your preconceived notions about the world.  Only this time, I don&#8217;t suspect you&#8217;re wrong, I know you are.</p>
+
+<p>Or, maybe I&#8217;m just to infantalized to see the truth.</p>
+
+<p class="posted">posted by googler
+ on December 13, 2006 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<blockquote>
+  <p>you&#8217;ll hear them complain 
+  about the unreliability of GFS</p>
+</blockquote>
+
+<p>Yeah, those losers with their imperfect uptime.  By the way, reddit is down right now.  Yes, seriously.  Could you look into that?</p>
+
+<p class="posted">posted by Anon
+ on December 13, 2006 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>Reddit has been down for most, if not all, of the day.  Ironic, given the amazon downtime article on reddit recently.</p>
+
+<p class="posted">posted by Anon2
+ on December 13, 2006 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>Yeah, the only reason I&#8217;m reading your blog is because reddit is down ;P Maybe reddit should use gmail as a database.</p>
+
+<p>As it happens, I just visited Google Kirkland the other day. I have to say it was a bit creepy; the cleanness and brightness was overdone, and the abundance of lavalamps seemed affected. Our host mentioned several times that the furniture is all from the childrens&#8217; section of Ikia. Hopefully none of this is in violation of the NDA I signed to get in.</p>
+
+<p>Still looks like an awesome place to work, though. ;)</p>
+
+<p class="posted">posted by David McCabe
+ on December 13, 2006 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>Any time that you start cooking meals for people and putting on shuttles you&#8217;re risking the accusation of  infantilizing them. But is that a good reason not to do it? It would be sad world if companies didn&#8217;t offer these things out of a sense of tough love or something.</p>
+
+<p>Google has always tried to project an image of somewhere fun to work, with the exercise balls, the bright colors and the Segways. I liked the idea of SpaceShip One when I heard about it. We&#8217;ve lost all sense of adventure about space. The X prize was the most exciting news for some time and it&#8217;s good that we recognize that.</p>
+
+<p>Certainly Google doesn&#8217;t perform magic in their labs, it&#8217;s just C++ code. But, none the less, it does seem to work very, very well. The air of mystique is probably overblown, but it&#8217;s not totally hollow.</p>
+
+<p class="posted">posted by John Savage
+ on December 13, 2006 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c6">
+<p>Oh, and how could I forget, the &#8220;tips for unit testing&#8221; in the bathroom stalls.</p>
+
+<p class="posted">posted by David McCabe
+ on December 13, 2006 <a href="#c6" rel="bookmark">#</a></p>
+</div>
+<div id="c7">
+<p>Oh, I thought it was Perl code. And with YouTube, now a bit more Python.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://tommi.raivio.net">Tommi</a>
+ on December 13, 2006 <a href="#c7" rel="bookmark">#</a></p>
+</div>
+<div id="c8">
+<p><a href="http://www.aaronsw.com/weblog/googlife#c1" rel="nofollow">googler</a>: You haven&#8217;t pointed to a single thing in my piece that you think is wrong. I&#8217;ve spoken to over a dozen of friends of mine who work or have worked at Google and visited numerous times and this is the impression they give. Maybe this is the best job the tech industry currently has to offer, but that&#8217;s no reason to set our sights so low.</p>
+
+<p>(And, for completeness, I don&#8217;t see how the piece is &#8220;sensationalist&#8221;, the research is &#8220;cursory&#8221;, or which notions in the piece were &#8220;preconceived&#8221;.)</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on December 13, 2006 <a href="#c8" rel="bookmark">#</a></p>
+</div>
+<div id="c9">
+<p>And seriously, what does the fact that Conde Nast&#8217;s DNS servers were screwed up for a bit have to do with this piece?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on December 13, 2006 <a href="#c9" rel="bookmark">#</a></p>
+</div>
+<div id="c10">
+<p>People always seem to forget that dinosaurs ruled the Earth for <i>much</i> longer than humans can confidently expect to.</p>
+
+<p>Recruitment is costly. All companies try to reduce the chances of their employees leaving, usually in far more egregious ways than you&#8217;re suggesting here. Isn&#8217;t what you characterize as infantilization just an expression of how we&#8217;d all like to be?</p>
+
+<p>I&#8217;m not at all wide-eyed about Google &#8212; and at roughly twice your age, Aaron, I have my own perspective on the <i>infantile</i> &#8212; but as a company they do <i>seem</i> to try to give their geek employees what they want. How does that qualify as &#8220;sick&#8221;? Especially in light of the working circumstances of the vast majority of people on Earth&#8230;</p>
+
+<p>It&#8217;s pretty churlish to complain that a job is so cushy it fails to prepare people for the harsh reality of marginally less cushy jobs elsewhere.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://walkytalky.net/">matt</a>
+ on December 13, 2006 <a href="#c10" rel="bookmark">#</a></p>
+</div>
+<div id="c11">
+<p>Interesting article, Aaron. I can&#8217;t remember where, but someone was describing the environment at most valley startups like a fraternity. Lots of guys, lots of toys, lots of fart jokes.</p>
+
+<p class="posted">posted by Sam
+ on December 13, 2006 <a href="#c11" rel="bookmark">#</a></p>
+</div>
+<div id="c12">
+<p>re: sensationalist</p>
+
+<p>you&#8217;ve been building it. look at titles you give to each entry. it&#8217;s not restrained rather it&#8217;s tasteless and cheap. Your way of putting titles, placing (not much of) analysis and putting conclusions can just be called sensationalist style.</p>
+
+<p>intent and style can and shall match. esp if you are typing this much.</p>
+
+<p class="posted">posted by change might be necessary
+ on December 13, 2006 <a href="#c12" rel="bookmark">#</a></p>
+</div>
+<div id="c13">
+<p>You haven&#8217;t pointed to a single thing in my piece that you think is wrong. I&#8217;ve spoken to over a dozen</p>
+
+<p>What&#8217;s wrong?:</p>
+
+<ul>
+<li>&#8220;People read the airbrushed versions of Google technologies in talks and academic papers and think that Google has some amazingly large computer lab with amazingly powerful technology. But hang around a Googler long enough and you&#8217;ll hear them complain about the unreliability of GFS and how they don&#8217;t really have enough computers to keep up with the load.&#8221;: This is perhaps superficially true but ultimately false.  Yes, the way we make the sausage is not the way you expect.  No, that does not mean that &#8220;there is no there there.&#8221;</li>
+<li>&#8220;Nobody says &#8220;We&#8217;re on a mission to change the world!&#8221; anymore. Now they say, &#8220;Yeah, I&#8217;m just going to stick around here another six months until my options vest.&#8221;:  Hmm, I still hear variants of the former, and I rarely hear variants of the latter.  Our retention rate is quite good.</li>
+</ul>
+
+<p>What&#8217;s sensationalist?</p>
+
+<ul>
+<li>&#8220;And when you look at it that way, everything Google does makes a sick sort of sense.&#8221;</li>
+<li>&#8220;There is no there there&#8221;</li>
+<li><p>&#8220;But as much as they may want to leave Google, the infantilizing tactics have worked: they&#8217;re afraid they wouldn&#8217;t be able to survive anywhere else.&#8221;</p>
+
+<p>I mean come on Aaron!  Is the most parsimonious explanation for Google&#8217;s retention ability <em>really</em> that, through some sort of sick psy-ops program, it has transformed us into hollow [wo]men who can no longer think or act for themselves?  Wouldn&#8217;t the explanation that we all get to do meaningful work and get rewarded for it be simpler?</p></li>
+</ul>
+
+<p>What&#8217;s preconceived?</p>
+
+<ul>
+<li>Your notion that all corporate life is ultimately hollow.  You certainly write enough articles on this theme that it is hard to believe at this point that the notion isn&#8217;t pre-conceived.</li>
+</ul>
+
+<p>What&#8217;s cursory?</p>
+
+<ul>
+<li>Your assumption that talking casually to a dozen people about Google and visiting it a few times gives you a true vision into the heart of the company, and insight into the motivations and aspirations of the people working there.</li>
+</ul>
+
+<p>I have no interest in brow-beating you into abandoning your position (that would be hopeless, I&#8217;m just writing here so that your other readers hear the other side of the story), but it blows my mind that having an employee of google tell you that you are off the mark doesn&#8217;t even give you pause.</p>
+
+<p>Aaron, you are too young to go down the path of intellectual totalitarianism (to borrow a phrase from DeLong), but having read your blog since you were at Stanford, the changes are undeniable to me.  You are no longer seeking the truth, you are only seeking support for your own prophetic vision of the truth.</p>
+
+<p class="posted">posted by googler
+ on December 14, 2006 <a href="#c13" rel="bookmark">#</a></p>
+</div>
+<div id="c14">
+<p>Hey man reddit has been down all day. What gives?</p>
+
+<p class="posted">posted by Shawn MacFarland
+ on December 14, 2006 <a href="#c14" rel="bookmark">#</a></p>
+</div>
+<div id="c15">
+<p>I&#8217;m confused&#8230; what&#8217;s so wrong with trying to keep your employees happy? There&#8217;s nothing inheriently noble about doing your own laundry, cooking your own meals, or working in a &#8220;professional&#8221; office.</p>
+
+<p>How would Google be a better company if it eliminated all of the &#8220;college, whimisical life&#8221; perks you listed? What is it about &#8220;being traditionally professional&#8221; make a company better?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://drewyates.net">Andrew Yates</a>
+ on December 14, 2006 <a href="#c15" rel="bookmark">#</a></p>
+</div>
+<div id="c16">
+<p>I&#8217;m a relatively new Googler.  I joined here not to get rich, and I doubt I&#8217;ll be a zillionaire anytime soon.  I&#8217;m here because I greatly enjoy what I&#8217;m doing, I have an enormous amount of respect and appreciation for and &#8212; in many cases &#8212; friendships with my colleagues.</p>
+
+<p>If helping to reduce carbon emissions AND providing Googlers with safe, restful, free, and efficient transportation is infantile, then by golly, just gimme a pacifier now.  If the bouncy ball I sometimes sit on or stretch with is babyish, then just throw a baby bottle under my lowerback and be done with it.</p>
+
+<p>Amazingly delicious free meals on campus?  I don&#8217;t think infants would appreciate the tastes.   The fact that they are a much beloved perk AND have engineers happily <em>NOT</em> spending time driving and waiting off campus for food&#8230; that sounds like a pretty sensible, adult benefit to me.</p>
+
+<p>Basically, Aaron, all the things you&#8217;ve denigrated as infantile &#8212; the bright colors, appreciated perks, etc. &#8212; strike me as being good for employees, good for business, just, well, good for people.  Frankly, I&#8217;m shocked why more companies haven&#8217;t adopted such pound-wise, penny-foolish ideas (hint: the bouncyball I sit on cost $50, cheaper than nearly any office chair; and while I don&#8217;t think I should disclose the per-Googler costs of our fab food services, let&#8217;s just say that it&#8217;s one of many things here that provides value FAR in excess of the cost).</p>
+
+<hr />
+
+<p>I find it both interesting and disturbing that supposedly ALL the current and former Googlers you&#8217;ve chatted with seem to lack happiness with, much less passion for their job.  Perhaps unsurprisingly, the vast majority of colleagues <em>I</em> have chatted with seem to be, on the whole, extremely pleased with the stuff they&#8217;re working on and the colleagues they work with.  I guess we tend to interact with folks who reflect our own feelings, values, and temperment and &#8212; given the stultifyingly bleak and often cynical tone of your blog lately &#8212; I suppose it shouldn&#8217;t be surprising that those you interact with tend to be generally dissatisfied and unhappy with their lot (workwise and likely otherwise).</p>
+
+<p>Given this post and your history of posts, Aaron, I&#8217;ll simply close by encouraging you (sincerely) to cheer up, embrace life, see the good side of things a bit more often&#8230; but I&#8217;m guessing you&#8217;ll just find that to be patronizing and manipulative [sigh].</p>
+
+<p>Regards,
+Adam, who learned the hard way in college that always fighting, always questioning, always doubting and second-guessing makes for a pretty miserable existence and countenance</p>
+
+<p>P.S. &#8212; I also thought the spaceship and dinosaur were way lame, but &#8212; in chatting with my engineering colleagues &#8212; I found I was absolutely in the minority on this.  Apparently, others derive a sense of wonderment and pleasure from such objects, and subtlely comparing these folks with Newt, Aaron, is neither particularly edifying nor appropriate.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.bladam.com/">Adam</a>
+ on December 14, 2006 <a href="#c16" rel="bookmark">#</a></p>
+</div>
+<div id="c17">
+<p>Hey Aaron &#8212; if you&#8217;re going to try to make an interesting argument, that&#8217;s cool and i&#8217;ll listen to it, but you lose a lot of your credibility by making personal judgements like this:</p>
+
+<blockquote>Everyone I know who works there either acts childish (the army of programmers), enthusiastically adolescent (their managers and overseers), or else is deeply cynical (the hot-shot programmers).</blockquote>
+
+<p>Or generalizations like this:</p>
+
+<blockquote>Nobody says &#8220;We&#8217;re on a mission to change the world!&#8221; anymore. Now they say, &#8220;Yeah, I&#8217;m just going to stick around here another six months until my options vest.&#8221; and &#8220;I kind of want to transfer out of my group but I worry that all the other groups are worse.&#8221;</blockquote>
+
+<p>Really?  You know what everyone at Google says and thinks?</p>
+
+<p>The thing is, i agree that Google tries very hard to keep its employees happy, and it does so with a  rather young personality, and one could discuss whether that&#8217;s a good approach or not.  But you really kinda destroyed your own argument here.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://wolog.net/">Ka-Ping Yee</a>
+ on December 14, 2006 <a href="#c17" rel="bookmark">#</a></p>
+</div>
+<div id="c18">
+<blockquote>
+  <p>I guess we tend to interact with folks who 
+  reflect our own feelings, values, and 
+  temperment&#8230; I suppose it shouldn&#8217;t be surprising 
+  that those you interact with tend to be 
+  generally dissatisfied and unhappy with 
+  their lot (workwise and likely otherwise).</p>
+</blockquote>
+
+<p>Bingo.</p>
+
+<p class="posted">posted by Anon
+ on December 14, 2006 <a href="#c18" rel="bookmark">#</a></p>
+</div>
+<div id="c19">
+<p>When was the last time you clicked on an Adsense link? I did my last accidental adsense click about 1.5 years back, Google and the adsense site owner possibly got few cents each&#8230;..i don&#8217;t know how the poor advertiser benefited from my accidental click through.</p>
+
+<p>Recently I visited a cyber cafe frequented by relatively inexperienced internet users. I saw lots of people using google search, yahoo and google free e-mail, yahoo and msn chat clients. The two hours i spent observing cyber cafe users, i did not see single Adwords or Adsense click!!! People going from Google SERP page to adsense infested MFA pages are clicking the back-button in no time, looks like now most people can easily identify the MFA pages! Then who else is clicking on all those adsense links?</p>
+
+<p>Did you know Google is owned by two jewish gentlemen!</p>
+
+<p class="posted">posted by Anon
+ on December 14, 2006 <a href="#c19" rel="bookmark">#</a></p>
+</div>
+<div id="c20">
+<p><i>People always seem to forget that dinosaurs ruled the Earth for much longer than humans can confidently expect to.</i></p>
+
+<p>That&#8217;s not even remotely a fair comparison.  It&#8217;s not like there was a particular species of dinosaur that &#8220;ruled&#8221; for all those 160 million years.</p>
+
+<p>Mammals would be a <i>far</i> better comparison.  And although we mammals still have a long ways to go to catch up to the dinosaurs, our 65 million years and counting of ruling is not too shabby.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://whitehouse.gov/president">George W. Bush</a>
+ on December 14, 2006 <a href="#c20" rel="bookmark">#</a></p>
+</div>
+<div id="c21">
+<p>Go outside and get some sun.  Smile&#8212;it&#8217;s okay.</p>
+
+<p>Don&#8217;t be that asshole sitting in the corner that takes pity on all those unfortunate blind souls that are trying to enjoy themselves.</p>
+
+<p class="posted">posted by Bored Late
+ on December 14, 2006 <a href="#c21" rel="bookmark">#</a></p>
+</div>
+<div id="c22">
+<p>I don&#8217;t know what I should and shouldn&#8217;t say because of the NDA, but it&#8217;s probably okay to say I&#8217;m married to a Googler. He hasn&#8217;t been there too long, but the only problem we&#8217;ve had so far is that he never seems to want to come home!</p>
+
+<p>Seriously, though, I&#8217;ve seen a lot of articles that might be labeled &#8220;sour grapes&#8221; about Google lately. (Not to imply that yours is one of them - you made an effort to support your conclusions and it does sound as though you know some unhappy people, which is unfortunate.) The thing is, I&#8217;ve seen my husband go through jobs at other corporations. I&#8217;ve waited up for him on the nights when he was forced to work overtime on a doomed project. I&#8217;ve been there for him while he struggled under the tyranny of dangerously ignorant management. I&#8217;ve seen him waste weeks of his time because of thoughtless and fruitless penny-pinching. He started out so bright, so full of energy and zest for what he does, and over time I watched that energy and passion wilt under buzzing florescent lights in suffocating cubicles.</p>
+
+<p>Corporate life in general <em>is</em> terribly depressing. I personally hate it and work independently. I love what I do and at least this way no one can take my enthusiasm away from me.</p>
+
+<p>But that&#8217;s exactly why I think what Google is doing is terribly important. <em>More</em> companies need to be that way. They need to be families who treat their employees like children - they take care of them. They reward them for their hard work. They encourage them to be creative, because they know (and you know, too) that it only takes one good idea to make a million dollars. Or a billion. Or an empire.</p>
+
+<p>I&#8217;ll say this: my husband has never been happier. For that, I&#8217;m exceedingly grateful to Google. They&#8217;ve given him something that he deserves, that everyone deserves. I wish it were more widely available. I wish we all could be free to be children, to feel like it&#8217;s okay to laugh, to look forward to waking up, to nurture the bright and crazy ideas that wander through your head. That really doesn&#8217;t sound like a bad world to me.</p>
+
+<p class="posted">posted by Anon
+ on December 14, 2006 <a href="#c22" rel="bookmark">#</a></p>
+</div>
+<div id="c23">
+<p>Hi, Can you please remove that antisemtic comment. Thanks.</p>
+
+<p class="posted">posted by dan
+ on December 14, 2006 <a href="#c23" rel="bookmark">#</a></p>
+</div>
+<div id="c24">
+<p>I mean antisemitic</p>
+
+<p class="posted">posted by dan
+ on December 14, 2006 <a href="#c24" rel="bookmark">#</a></p>
+</div>
+<div id="c25">
+<p>On acting childish, look up neoteny. It could be a smart strategy to keep their staff open minded.</p>
+
+<p>http://www.nytimes.com/2006/12/10/magazine/10section3a.t-3.html?_r=1&amp;oref=slogin</p>
+
+<p class="posted">posted by John DOugan
+ on December 14, 2006 <a href="#c25" rel="bookmark">#</a></p>
+</div>
+<div id="c26">
+<p>I can&#8217;t really comment on working for Google, as I never have and don&#8217;t live in the right area. But I can comment on this:</p>
+
+<p>&#8220;But the two blatant changes to the campus are a large, terribly fake-looking replica of SpaceShipOne hanging in the middle of the main building&#8230;&#8230;&#8221;</p>
+
+<p>I find this hilarious. Because for the last year and a half, this is what my wife has been making. She works for a company called WonderWorks. They make spaceships, big and small for movies and Aerospace museums. They had the contract for the replicas.</p>
+
+<p>The replicas were contracted by the XPrize Foundation. They were made from the original molds. Scale Composites did the graphics layout, who did the graphics for the original.</p>
+
+<p>So if you find replica &#8220;incredibly fake looking&#8221; I suggest you never go see the real SpaceShipOne. You will find it &#8220;incredibly fake looking&#8221; as well.</p>
+
+<p class="posted">posted by Jean-Paul Cardier
+ on December 14, 2006 <a href="#c26" rel="bookmark">#</a></p>
+</div>
+<div id="c27">
+<p>when i read this, i almost think of it as a good thing.  Joel Spolsky of Joel on software frequently says its a function of the manager to eliminate roadblocks from programmers in order to let them work.  Smooth out the chores and bumps in the road, almost like a secretary, but one that makes decisions, handles conflicts, etc. so you don&#8217;t have to.</p>
+
+<p>except at google, it sounds like the whole company culture is based on taking away distracting influences/worries such as &#8220;i wonder how much the ___ is at the buffet today&#8221; or &#8220;i need to get my clothes drycleaned/fill up my tires&#8221;
+this sounds good.  programming is done only with focus and google seems to try its best to let its programmers focus on their work</p>
+
+<p class="posted">posted by Patrick Braga-Henebry
+ on December 14, 2006 <a href="#c27" rel="bookmark">#</a></p>
+</div>
+<div id="c28">
+<p>MMmmmm did google take reddit down?</p>
+
+<p class="posted">posted by AC
+ on December 14, 2006 <a href="#c28" rel="bookmark">#</a></p>
+</div>
+<div id="c29">
+<p>I have to say that this is one of the most interesting articles I have read about google for some time. I don&#8217;t think they created &#8216;infantilizing environment&#8217; intentionally but it is really interesting to see this side of the google paradise too.</p>
+
+<p>In fact this article reminds me quite much about many first bubble web companies (our company had free sodas and billiard table too)</p>
+
+<p>What web 1.0 companies lacked however was Googles bottomless wallet :-)</p>
+
+<p>cheers
+Mikko</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.blosker.com">mikkom</a>
+ on December 14, 2006 <a href="#c29" rel="bookmark">#</a></p>
+</div>
+<div id="c30">
+<p>Google is a monster. The new Microsoft. Don&#8217;t let any of the hype fool you. Google, just like everyone else, cares about one thing and one thing only: money. And it is my belief that will be Google&#8217;s ultimate undoing. Not surprised at anything they do. Keeping employees paranoid and happy is probably as good as any strategy for retention.</p>
+
+<p class="posted">posted by Cori
+ on December 14, 2006 <a href="#c30" rel="bookmark">#</a></p>
+</div>
+<div id="c31">
+<p>Reddit is down again. Sort it out.</p>
+
+<p class="posted">posted by Another Anon
+ on December 14, 2006 <a href="#c31" rel="bookmark">#</a></p>
+</div>
+<div id="c32">
+<p>Sour grapes, Sour grapes, Sour grapes&#8230;.all those insiders and the visitors who said this about Google&#8230;the best employer..I, a Googler, take leaves very, very reluctantly. I cant wait for monadys to get back to the electric atmosphere. We are taken care of, which helps and motivates us to give our best, and anyway we are the best. We can eat, have fun and work hard at the same time&#8230;to give the best products and service to our users.</p>
+
+<p class="posted">posted by Neena
+ on December 14, 2006 <a href="#c32" rel="bookmark">#</a></p>
+</div>
+<div id="c33">
+<p><a href="http://www.xkcd.com/c150.html" rel="nofollow">This</a> xkcd comic is also appropriate.</p>
+
+<p class="posted">posted by Anon
+ on December 14, 2006 <a href="#c33" rel="bookmark">#</a></p>
+</div>
+<div id="c34">
+<p>Did they turned you down too?</p>
+
+<p class="posted">posted by 
+ on December 14, 2006 <a href="#c34" rel="bookmark">#</a></p>
+</div>
+<div id="c35">
+<p>I would love for someone to cook my meals and do my laundry. Hell, rich people pay to have others do that for them &#8212; does that make rich people infantile? If we follow your line of reasoning, to become really &#8220;adult&#8221;, we should go back and work in the mills of Dicken&#8217;s industrializing England, or better yet go work in the sweat shops of today&#8217;s third world countries. I mean, seriously, compared to that, we&#8217;re all &#8220;infantile&#8221;.</p>
+
+<p class="posted">posted by Scott Goodwin
+ on December 14, 2006 <a href="#c35" rel="bookmark">#</a></p>
+</div>
+<div id="c36">
+<p>I agree Google is a fun place to be in. But what are these guys doing with all that freedom? I dont see any new products/services coming out. Apart from the basic search and gmail google has purchased every thing else. Those that google built is not popular. So what are all those &#8220;Best Brains in the industry&#8221; doing? I guess all the food is slowing them down.</p>
+
+<p class="posted">posted by abc
+ on December 14, 2006 <a href="#c36" rel="bookmark">#</a></p>
+</div>
+<div id="c37">
+<p>Google guy, are you really surprised by this article?  Aaron is always looking for flaws in others and sensationalizing crap nobody cares about.  He is a nerd that&#8217;s mad he sold out his freedom to work in a cubicle which led to this article being posted.</p>
+
+<p class="posted">posted by Lazy
+ on December 14, 2006 <a href="#c37" rel="bookmark">#</a></p>
+</div>
+<div id="c38">
+<p>Hang in there Aaron; the criticism is worth it.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://tmorris.net/">Tony Morris</a>
+ on December 14, 2006 <a href="#c38" rel="bookmark">#</a></p>
+</div>
+<div id="c39">
+<p>my buddy has been trying to convince me to join Google for a while now.</p>
+
+<p>for those Googlers who posted above, I wonder at what stage they are in their tenure at google.</p>
+
+<p>you can&#8217;t trust people who just started working at a company.  everything is so fresh and new.  the real test is 1,2, 3 years into working there.  do you still love it?  could you work there forever?</p>
+
+<p>as for my reasons why i won&#8217;t apply to Google (at least not yet):</p>
+
+<p>1) their MS-like arrogant attitude towards hiring.  i don&#8217;t want to be quizzed on some bullshit stuff like HTTP Status Codes.  my buddy said he studied for weeks for the interview.  what&#8217;s the point?  honestly, it seems beneath me.  (but I do understand the philosophy..)</p>
+
+<p>2) won&#8217;t be getting rich from stock options anymore, not anytime soon.   sure, if you get in now and work there 5 years, you&#8217;ve got a shot.</p>
+
+<p>3) i&#8217;ve been working from home full-time at a kickass startup these last 6+ months.  G discourages working from home.  (this is the biggest reason for me, actually)</p>
+
+<p>4) my own side projects are doing > $6k per month in revenue.</p>
+
+<p>5) they won&#8217;t let you code in Ruby on Rails or other &#8220;obscure&#8221; technologies like that which don&#8217;t integrate well with the G Grid yet.</p>
+
+<p>the guys from MeasureMap banged out a wicked app in a few months (in RoR), got bought by google, and are now spending years repurposing it in python so it&#8217;ll work with G GRid.</p>
+
+<p>6)If you have any entrepreneurial spirt (like Aaron, w00t w00t) &#8230; why don&#8217;t you &#8230;</p>
+
+<p>&#8230; go out and build your own f&#8217;ing Google!!  (in your own mold)</p>
+
+<p>My philosophy happens to be, do whatever you want, however you want, whenever you want, as long as it gets results.</p>
+
+<p>Companies that require onsite too much remind me of managers who want to be my babysitter.  Why do you care where and when I work, as long as it gets done?  (it&#8217;s like they think just cuz you&#8217;re in an office, you&#8217;re actually coding or something.  we all know that&#8217;s a huge load of BS)</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://ummyeah.com/">fez</a>
+ on December 14, 2006 <a href="#c39" rel="bookmark">#</a></p>
+</div>
+<div id="c40">
+<p>Sadly most of the commentators seem to have bought into the Google reality distortion field (G-RDF).</p>
+
+<p>Aaron&#8217;s comment that programmers have the attitude:</p>
+
+<p>&#8220;Yeah, I&#8217;m just going to stick around here another six months until my options vest.&#8221; and &#8220;I kind of want to transfer out of my group but I worry that all the other groups are worse.&#8221;</p>
+
+<p>rings very true.</p>
+
+<p>Any company that grows fast inevitably has the corporate change that comes over things and it’s terribly difficult - impossible - to maintain a culture that pleases all of the people all of the time. This reminds me of the comments people had back in the day as MS turned the corner from &#8220;everyone wants to work there&#8221; to &#8220;it&#8217;s a job” and at my one hit startup we went through our own mini-version when we were acquired.</p>
+
+<p>Here at Monster, which is the coolest big company culture I&#8217;ve worked in, we have the same problem, we&#8217;re trying to improve things, its working, but you know &#8230; you&#8217;ll never be perfect, projects will get cancelled or duplicated  and everyone has their &#8220;GFS is unstable&#8221; pet complaints.</p>
+
+<p>So Google isn&#8217;t perfect and Aaron - kudos for cutting through the (G-RDF). I hope they keep fixing things well enough they can keep putting out products I like (and I do like them).</p>
+
+<p class="posted">posted by Chris Knott
+ on December 14, 2006 <a href="#c40" rel="bookmark">#</a></p>
+</div>
+<div id="c41">
+<p>I find it very disturbing that, while it&#8217;s not OK to generalize about other groups (and with good reason), it&#8217;s OK to do so with &#8220;geeks&#8221;. For example, it&#8217;s not OK to think that women are less capable then man at any task, that African Americans are different than Caucasians, and so on, but everybody keeps ranting about how everyone who is technically proficient will drool all over a shiny toy, doesn&#8217;t need anything except a cubicle and a computer, and lives only for true mastery of some machine.</p>
+
+<p>I&#8217;m appalled that programmers even respond to that kind of Pavlovian nonsense. But then again, most programmers are kids in, or fresh out of, college. They don&#8217;t care about not getting as much money as their employers get off their asses (you know - the stuff you buy groceries with), they think a union is a bunch of bits stuck together, and they know nothing about burnout (and by the time they find out what burnout is, they&#8217;ve already lost their job to somebody in, or fresh out of, college). This is a nice recursive pattern for you &#8220;geeks&#8221; to ponder. You know, like GNU, MICO and other acronyms like that.</p>
+
+<p>Take a break from the brainwashing you&#8217;ve now started to perform on yourselves, go rent &#8220;Office Space&#8221;, and keep the movie in mind when you go to your next interview and get asked &#8220;Where do you see yourself in 5 years?&#8221;.</p>
+
+<p class="posted">posted by Cynical Hot-Shot
+ on December 14, 2006 <a href="#c41" rel="bookmark">#</a></p>
+</div>
+<div id="c42">
+<p>Atmospheres such as Google&#8217;s are only infantilizing if one is willing to be infantilized by such measures. Your assertion is only true for people for whom it holds true.</p>
+
+<p>Perhaps more clearly: good job perks only make you act like a kid if you haven&#8217;t already grown up. I have a job with a lot of perks approaching Google&#8217;s level of spoiling (albeit with a much smaller budget), and it hasn&#8217;t made me revert to a ten year old mindset. I actually have a much more balanced outlook on life here than I did in my last job, which was much more by-the-book, 9-to-5, and certainly had no perks comparable to Google&#8217;s.</p>
+
+<p>It may be dangerous to try and make deductions of causation here, especially if the sample set of Google employees includes people who aren&#8217;t already &#8220;hardened&#8221; by &#8220;the rest of the world.&#8221; I can certainly see a fresh college grad going in to Google and becoming literally incapable of survival in a suit-and-tie job.</p>
+
+<p>For me, I could go back to &#8220;the rest of the world&#8221;, if I had to. I&#8217;d hate every waking hour of my life, but I already hated it last time I did time in the corporate world.</p>
+
+<p>Exposure to a really rich working environment spoils people, to be sure - I&#8217;m spoiled as all hell, and I&#8217;ve only been doing this for 8 months - but the fact that we don&#8217;t <i>want</i> to go back to a &#8220;regular&#8221; job is not at all related to our <i>ability</i> to do so.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://members.gamedev.net/bag-of-holding/journal/">Apoch</a>
+ on December 14, 2006 <a href="#c42" rel="bookmark">#</a></p>
+</div>
+<div id="c43">
+<p>Just a note - GMAIL was down in the UK today. 
+If that happened for more than a few minutes, western civilisation would break down uncontrollably &#8230; has anyone written a novel about that yet?
+Hmm, I&#8217;d better keep this one to myself.
+:-)</p>
+
+<p class="posted">posted by jedtesco
+ on December 14, 2006 <a href="#c43" rel="bookmark">#</a></p>
+</div>
+<div id="c44">
+<p>my buddy has been trying to convince me to join Google for a while now.</p>
+
+<p>for those Googlers who posted above, I wonder at what stage they are in their tenure at google.</p>
+
+<p>you can&#8217;t trust people who just started working at a company. everything is so fresh and new. the real test is 1,2, 3 years into working there. do you still love it? could you work there forever?</p>
+
+<p>as for my reasons why i won&#8217;t apply to Google (at least not yet):</p>
+
+<p>1) their MS-like arrogant attitude towards hiring. i don&#8217;t want to be quizzed on some bullshit stuff like HTTP Status Codes. my buddy said he studied for weeks for the interview. what&#8217;s the point? honestly, it seems beneath me. (but I do understand the philosophy..)</p>
+
+<p>Yeah, just like those damn universities that have those ridiculous assignments and exams to see if you know the material that you <em>obviously</em> know already.  Such arrogant tactics to evaluate their students.  Only Google is even more progressive and trying to figure out better ways to evaluate candidates daily.  Any <em>constructive</em> criticism goes a long way to make the process better.  Complaining about it just makes you seem like you didn&#8217;t have the effort to be prepared for an interview.</p>
+
+<p>2) won&#8217;t be getting rich from stock options anymore, not anytime soon. sure, if you get in now and work there 5 years, you&#8217;ve got a shot.</p>
+
+<p>Good.  I would be more interested in working with someone who is concerned with creating great software, as supposed to getting rich.</p>
+
+<p>3) i&#8217;ve been working from home full-time at a kickass startup these last 6+ months. G discourages working from home. (this is the biggest reason for me, actually)</p>
+
+<p>I&#8217;m typing this from home right now.  They&#8217;ve actually been pretty cool about me working off site (and across the country) as I finish up my degree.</p>
+
+<p>4) my own side projects are doing > $6k per month in revenue.</p>
+
+<p>So you make a entry level programmer&#8217;s salary.  Great.</p>
+
+<p>5) they won&#8217;t let you code in Ruby on Rails or other &#8220;obscure&#8221; technologies like that which don&#8217;t integrate well with the G Grid yet.</p>
+
+<p>the guys from MeasureMap banged out a wicked app in a few months (in RoR), got bought by google, and are now spending years repurposing it in python so it&#8217;ll work with G GRid.</p>
+
+<p>6)If you have any entrepreneurial spirt (like Aaron, w00t w00t) &#8230; why don&#8217;t you &#8230;</p>
+
+<p>&#8230; go out and build your own f&#8217;ing Google!! (in your own mold)</p>
+
+<p>My philosophy happens to be, do whatever you want, however you want, whenever you want, as long as it gets results.</p>
+
+<p>Companies that require onsite too much remind me of managers who want to be my babysitter. Why do you care where and when I work, as long as it gets done? (it&#8217;s like they think just cuz you&#8217;re in an office, you&#8217;re actually coding or something. we all know that&#8217;s a huge load of BS)</p>
+
+<p>And he talks about how Google treats us like children.  This has got to be one of the more childish sentiments I&#8217;ve read on this thread.  The point of being onsite is not so managers can babysit you, its so that you can have the opportunity to interact with some of the most brilliant minds that the industry has to offer.  The fact that I&#8217;m able to consult with the world&#8217;s  authority on many of the technologies that I work with makes my work all the more better in the end.     At Google, anyone could come in with an idea, and if it is a truly good idea can get the support of the largest, most robust computing infrastructure in the world.  Who decides whether an idea is viable?  The community of Google employees, not one manager or top exec.  Thats a pretty sweet deal for an entrepreneurial spirited person if you ask me.</p>
+
+<p class="posted">posted by anon googler
+ on December 14, 2006 <a href="#c44" rel="bookmark">#</a></p>
+</div>
+<div id="c45">
+<p>methinks Aaron hit a nerve here, heh.</p>
+
+<p class="posted">posted by Sam
+ on December 14, 2006 <a href="#c45" rel="bookmark">#</a></p>
+</div>
+<div id="c46">
+<p>The google life is an attempt to provide a utopian atmosphere for creative and productive work. However, it is clear that utopian working environments differ from person to person. Moreover people who think that an environment will be a utopia often find the reality to be insufficient for their needs.</p>
+
+<p>Thus your insulting and speculative article is a reflection of the fact that a carefree playful atmosphere is not to everyone&#8217;s liking or to their best interests.</p>
+
+<p>The idea that &#8220;work&#8221; can be carefree and playful, while at the same time remaining productive, is fairly new. It arrises from lowering social requirements for conformity to a masculine and professional norm, as well as the plenty provided by spectacular profits.</p>
+
+<p>The conflicting attitudes here can be described by their architypes, &#8220;The Suits&#8221; and &#8220;The Birkenstocks.&#8221; For people of type S, Google&#8217;s work environment is childish, lacking in discipline, and unlikely to motivate. For people of type B it is liberating, inspiring, and likely to produce comradery and creativity.</p>
+
+<p>Now, to be fair, these are the extremes, and Google is actively trying to take the best of both worlds and mix them. The face that Google represents however looks much more like a type B workplace than type S and leaves itself open to these kinds of critiques. The reality, on the otherhand, is one where the individual is asked to conform to rigid coding guidelines and quickly produce stable and useful code. In a word, it is intense.</p>
+
+<p>What makes Google special, as with all businesses, is the core group of people who began it. They combined an unusual disregard for the conformity of the business world, with a love of life, and an intense intelligence and passion to change the world in a realizable way. This is a very strange mix of libralism, daring, intelligence and ability.</p>
+
+<p>What you have latched onto, the way Google treats its employees, is how the initial Googler&#8217;s wanted to be treated themselves and how they worked best themselves.</p>
+
+<p>Confronted with plenty many people lose motivation (myself included) and thus retire when they can. Others when confronted with a liberal facade assume a libral work ethic and are thus turned off by the reality. Still others, like yourself, are personally insulted by the way they would be treated at the company, and see personal independance (in all things) as a virtue.</p>
+
+<p>Of course personal independance is not an objective virtue but since your article assumes your worldview is ubiquitous it comes off, as I said, as insulting.</p>
+
+<p>If you were to write a useful article which outlined the personality types or backgrounds of the people you know who are insulted by, or not motivated by, their work at Google, you could add a significant piece of understanding to the discussion of workplace cultures, one which I would be very happy to read and distribute.</p>
+
+<p>If you write <em>that</em> article, let me know.</p>
+
+<p>Sincerely,</p>
+
+<p>Ian Danforth</p>
+
+<p class="posted">posted by Ian Danforth
+ on December 14, 2006 <a href="#c46" rel="bookmark">#</a></p>
+</div>
+<div id="c47">
+<p>google is not for entrepreneurs. entrepreneurs don&#8217;t work in a company with 10k employees under several layers of management. better than the average tech job, sure, but the gravy train is long gone. I don&#8217;t think I&#8217;d take an of offer from google at this point, unless it was very a role I very specifically designed. generic software engineer isn&#8217;t for me, and I could care less about bouncy balls if I&#8217;m not making good money.</p>
+
+<p class="posted">posted by qwerty
+ on December 14, 2006 <a href="#c47" rel="bookmark">#</a></p>
+</div>
+<div id="c48">
+<p>Who gives a crap about Google.  The point to be gleaned from this whole discussion is:</p>
+
+<p>fez (http://www.aaronsw.com/weblog/googlife#c39) - you ROCK, d00d!  Now that&#8217;s the attitude to have!</p>
+
+<p class="posted">posted by Xene
+ on December 14, 2006 <a href="#c48" rel="bookmark">#</a></p>
+</div>
+<div id="c49">
+<p>You always find a way to make everything depressing. You&#8217;d think people would learn to quit inviting you places.</p>
+
+<p class="posted">posted by 
+ on December 14, 2006 <a href="#c49" rel="bookmark">#</a></p>
+</div>
+<div id="c50">
+<p><a href="http://www.aaronsw.com/weblog/googlife#c12" rel="nofollow">change might be necessary</a> thinks I&#8217;m a sensationalist for using titles and conclusions.</p>
+
+<p><a href="http://www.aaronsw.com/weblog/googlife#c13" rel="nofollow">googler</a> thinks I&#8217;m wrong for saying things I never said.</p>
+
+<p><a href="http://www.aaronsw.com/weblog/googlife#c17" rel="nofollow">Ka-Ping Yee</a> thinks I&#8217;ve destroyed my credibility by using facts to make my argument.</p>
+
+<p>Several others use bogus <em>ad hominem</em> attacks. (Hint: Every time I go to Google they&#8217;ve either offered to give me a job or buy my company or both. And I&#8217;m free to quit Conde Nast any time I like.)</p>
+
+<p>I agree <a href="http://www.aaronsw.com/weblog/googlife#c45" rel="nofollow">with Sam</a>; it seems I&#8217;ve hit a nerve.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com">Aaron Swartz</a>
+ on December 14, 2006 <a href="#c50" rel="bookmark">#</a></p>
+</div>
+<div id="c51">
+<p>Excellent, at times deliberately provocative and seems to have succeeded at that ;-). I recently heard of two respected open source contributors quitting Google - one after spending less than two years, and one after spending just three months. The latter is also an O&#8217;Reilly author. Have also heard of the divide between the pre-IPO and post-IPO haves/have-nots.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://reddit.com/user/rams">Rams</a>
+ on December 14, 2006 <a href="#c51" rel="bookmark">#</a></p>
+</div>
+<div id="c52">
+<p>Google offered to buy your company?  And you turned them down&#8230; why?  I&#8217;m assuming they just lowballed you?</p>
+
+<p>Please elaborate.  Sounds like a great blog post.</p>
+
+<p class="posted">posted by Ethan
+ on December 14, 2006 <a href="#c52" rel="bookmark">#</a></p>
+</div>
+<div id="c53">
+<p>Something very important I learned during my six months working at Chuck E. Cheese&#8217;s: somebody always goes pee in the ball pen.</p>
+
+<p class="posted">posted by Jojo
+ on December 14, 2006 <a href="#c53" rel="bookmark">#</a></p>
+</div>
+<div id="c54">
+<p>&#8220;googler thinks I&#8217;m wrong for saying things I never said.&#8221;</p>
+
+<p>Uh, I quoted verbatim the things you said that I thought were wrong.  So you did say them.  Did you even read my comment?</p>
+
+<p class="posted">posted by googler
+ on December 14, 2006 <a href="#c54" rel="bookmark">#</a></p>
+</div>
+<div id="c55">
+<p>Google doesn&#8217;t treat its employees like children, it decouples them from events not related to coding.</p>
+
+<p>Many Fortune 500 employers do treat their employees like childern, counting keystrokes, filtering web searches, videotaping their every move. Maybe it&#8217;s more that those employers act like abusive parents&#8230;</p>
+
+<p class="posted">posted by NotAtGoogle
+ on December 14, 2006 <a href="#c55" rel="bookmark">#</a></p>
+</div>
+<div id="c56">
+<p>i love google. it allows me to search the internet. but i heard that the people who work there are kind of tards. (aspergers, bouncy ball, millemian falcun tatoo, etc) i would not invite them to my holiday party.</p>
+
+<p class="posted">posted by incoherent
+ on December 14, 2006 <a href="#c56" rel="bookmark">#</a></p>
+</div>
+<div id="c57">
+<p>I just feel very sorry for the Google employees who made Google Video and then saw Google pay 1.6 Billion dollars for YouTube. Just because of this, I will rather try making a YouTube and die than serve stock option selling managers at Google to increase their stock worth. And, did you know how many stock option you get when you join Google now? I can bet that it is a number closer to zero and very far from 1.6 Billion United States Dollars.</p>
+
+<p>Amen.</p>
+
+<p class="posted">posted by Anon
+ on December 14, 2006 <a href="#c57" rel="bookmark">#</a></p>
+</div>
+<div id="c58">
+<p>To Dan: Asking to remove anti-semitic post</p>
+
+<p>Just because some one said that Google is owned by two Jewish Gentlemen in a context where he implied that no one clicks their Ads, it does not mean the persons post is anti-semitic. Your post is like calling a child who points at different looking people a racist.</p>
+
+<p class="posted">posted by Anon
+ on December 14, 2006 <a href="#c58" rel="bookmark">#</a></p>
+</div>
+<div id="c59">
+<p>For those who think that Google offices are very plush and comfy <a href="http://video.google.com/videoplay?docid=8187976869743194677#0m56s" rel="nofollow">take a look at the piece of ordinary codswallop long tabled dumb halls that is the Googleplex Sydney. The London office is also very similar too.</a></p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://reddit.com">Anononymous</a>
+ on December 14, 2006 <a href="#c59" rel="bookmark">#</a></p>
+</div>
+<div id="c60">
+<p>Well&#8230; in a world where thirty year olds play video games, twenty seven year olds live with their parents, people put off marriage until into their thirties, and baby boomers are talking about how 60 is the new 30&#8230; I don&#8217;t think this infantilizing is limited to just google.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.webomatica.com/wordpress/">Webomatica</a>
+ on December 14, 2006 <a href="#c60" rel="bookmark">#</a></p>
+</div>
+<div id="c61">
+<blockquote>Ka-Ping Yee thinks I&#8217;ve destroyed my credibility by using facts to make my argument.</blockquote>
+
+<p>You know that is not what i think; we disagree on whether your broad claims are substantiated.  Which is the more productive response to criticism: deliberately mischaracterizing it to put it in worse light, or trying to understand what motivated it?</p>
+
+<p>You&#8217;ve abandoned the high ground at this point.  I&#8217;m sure you&#8217;re better than this, Aaron.  Maybe you&#8217;re just having an off day or something.  I don&#8217;t think this is worth arguing about further.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://wolog.net/">Ka-Ping Yee</a>
+ on December 15, 2006 <a href="#c61" rel="bookmark">#</a></p>
+</div>
+<div id="c62">
+<p>About the X Prize replica of SpaceShipOne, I was a volunter at the X1 launch a few years ago and saw the real one, and was at the Google campus recently and saw the fake one &#8212; they looked exactly the same to me.</p>
+
+<p>Best,
+  Brad</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://codinginparadise.org">Brad Neuberg</a>
+ on December 15, 2006 <a href="#c62" rel="bookmark">#</a></p>
+</div>
+<div id="c63">
+<p>Google&#8217;s work environment sucks? Have you ever worked in a mall? Full-time to put food on the table? There may be a reality distortion in this write up, but it isn&#8217;t Google&#8217;s.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://noreaster.wordpress.com/">~bc</a>
+ on December 15, 2006 <a href="#c63" rel="bookmark">#</a></p>
+</div>
+<div id="c64">
+<p>I respect the confidence of the author of this site.  He seems to mimic Paul Graham&#8217;s way of writing. However, I have not seen any work of the author significant enough for him to talk in such a over-confident voice. Talking with few friends and speculate from your limited experiences does not seem to be a good way to understand how things work.</p>
+
+<p>Maybe, you can just adopt a more open attitude of admitting that you don&#8217;t understand a lot of things like the Richard Feynman.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://telexism.com">traanf</a>
+ on December 15, 2006 <a href="#c64" rel="bookmark">#</a></p>
+</div>
+<div id="c65">
+<p>Just because you happen to overhear Googlers complain about perks or GFS doesn&#8217;t mean we&#8217;re unhappy. In fact, despite the complaining, most people are grateful to be working here. Even at Google, everyday isn&#8217;t filled with puppy dogs and ice cream&#8230; just most of them.</p>
+
+<p class="posted">posted by another googler
+ on December 15, 2006 <a href="#c65" rel="bookmark">#</a></p>
+</div>
+<div id="c66">
+<p>I find this article very interesting.</p>
+
+<p>With the way you are telling things, Aaron, you seem to base it on facts. But quite frankly, I find it hard to believe that employees want to leave Google. If I were given a chance to pick a company, my best bet would be in Google.</p>
+
+<p>They make you enjoy what you&#8217;re doing. And thats the best part! Earning while playing. And don&#8217;t forget the stock options.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.pinoybizpark.com">Wilford</a>
+ on December 15, 2006 <a href="#c66" rel="bookmark">#</a></p>
+</div>
+<div id="c67">
+<p>I agree with Wilford. I would never want to leave a job like Google of i worked there.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://weightlosshd.com">Edwin</a>
+ on December 15, 2006 <a href="#c67" rel="bookmark">#</a></p>
+</div>
+<div id="c68">
+<p>Your a dumbass</p>
+
+<p class="posted">posted by Dark Vader
+ on December 15, 2006 <a href="#c68" rel="bookmark">#</a></p>
+</div>
+<div id="c69">
+<p>Funny thing this article, I just forwarded it to my entire team and hopefully they will get a good laugh out of it just like I did. Apparently our secrecy does keep the general public clueless about Googles interworkings. You have no idea how great it is to be integrated like you become at Google. To sit down at a table and eat lunch with people who are not only brilliant, but share your interests.
+Its really too bad we cant say much more because of NDA&#8217;s but oh well. Im happy with my job and you can just keep your speculations.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.google.com">Jordan</a>
+ on December 15, 2006 <a href="#c69" rel="bookmark">#</a></p>
+</div>
+<div id="c70">
+<p>You are a sorry whining moran.</p>
+
+<p class="posted">posted by Trevor
+ on December 15, 2006 <a href="#c70" rel="bookmark">#</a></p>
+</div>
+<div id="c71">
+<p>Any company that wants to keep its employees happy provides a supportive, creative environment. Whether the company provides free food and bouncy balls in addition to that or as a replacement for that is my main issue.</p>
+
+<p>I agree with previous posters that it is only demeaning if you take it that way.</p>
+
+<p>I strongly suggest you read Microserfs, though. You hit one of the main story lines on the head, and extending the college experience may be why many tech companies succeed.</p>
+
+<p>The idea of free soft drinks and offices with doors is at least as old as Microsoft, if not older.</p>
+
+<p>cheers,</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.jonsteiner.com">Jon Steiner</a>
+ on December 15, 2006 <a href="#c71" rel="bookmark">#</a></p>
+</div>
+<div id="c72">
+<p>As someone who works for Google, I find your theory interesting, but more importantly, wrong.</p>
+
+<p class="posted">posted by Don Chawannano
+ on December 15, 2006 <a href="#c72" rel="bookmark">#</a></p>
+</div>
+<div id="c73">
+<p>As a New York Googler who&#8217;s been there for three years, I would have to say you are dead wrong. &#8220;Everyone I know who works there either acts childish (the army of programmers), enthusiastically adolescent (their managers and overseers), or else is deeply cynical (the hot-shot programmers).&#8221;  Wrong, wrong, wrong&#8230;</p>
+
+<p>I have never been in such a grown-up workplace in my life &#8212; and I&#8217;ve been a software engineer for 25 years.  The fact that you see senior managers perched on beach balls is a Good Thing &#8212; it doesn&#8217;t indicate rampant hebephrenia!</p>
+
+<p>Oh, and there are tons of &#8220;Suits&#8221; around here &#8212; mainly but absolutely not entirely in sales &#8212; and they love the place too.</p>
+
+<p>Sure, I get frustrated out of my mind at times.  The challenges are staggering.  A lot of times I feel like an idiot.  But that comes with the territory of attempting to be utterly fantastic and sometimes even succeeding.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://google.com">Tom Ritchford</a>
+ on December 15, 2006 <a href="#c73" rel="bookmark">#</a></p>
+</div>
+<div id="c74">
+<p>If people want to be treated like children, then let it be so.  If there was ever an example of a company engaged in an Icarus-like temptation of fate, it would be Google.  Just like all the other rec-room dot.bombs, Google will have its rude awakening and the kindergooglers will cry and whine about having their jobs taken overseas by Indian and Chinese entrepreneurs who work in dilapidated offices without the luxury of spending shareholder dollars on free lunches and big boy toys.  When that happens, what will all this talk of stimulating creativity and treating the labor force kindly amount to?</p>
+
+<p>There&#8217;s no substitute for hard work.  You can have every degree known to man, be able to pass the cleverest entrance exam, be number one man on campus, and you&#8217;ll always get beat by the guy who needs it more than you.  Google is bloated, arrogant, overvalued, lacking serious revenue potential, diffused at the tactical and strategic levels, and has put far too much emphasis on book smarts in lieu of fierce, hot-blooded competition.</p>
+
+<p>I use gmail and google search, but I could permanently migrate off either in less than an hour on a whim as soon as something better comes along.  And I&#8217;ve never even thought for a moment about clicking any online banner, let alone adsense.</p>
+
+<p class="posted">posted by Sunchild
+ on December 15, 2006 <a href="#c74" rel="bookmark">#</a></p>
+</div>
+<div id="c75">
+<p>All I know is they didn&#8217;t hire me, so they must be on the downhill slope to mediocrity. :)</p>
+
+<p class="posted">posted by Anony-mouse
+ on December 15, 2006 <a href="#c75" rel="bookmark">#</a></p>
+</div>
+<div id="c76">
+<p>Aaron,</p>
+
+<p>Your piece on Google is thoughtlessly reductionist.  Being cooked for and having free laundry does not make you infantile.  Neither does living in an office full of bright colors and bouncy balls.  I know several office on the west coast with paid lunches and nerf weapons that produce everything from financial services to solar panels - and they&#8217;re profitable.</p>
+
+<p>My first job out of college was as a programmer at a large power plant in the midwest.  I had two managers with conflicting agendas, systems that were nightmarishly put together, and a job of rewriting all the code we paid millions to outsource.  My second job was working as a contractor, where I ran from 6 month job to 6 month job, never settling down, always worried about my next paycheck, never having benefits.</p>
+
+<p>Now I work at Google.  I could care less about the benefits of free laundry.  I&#8217;m happy to have a dental plan.  I don&#8217;t feel as though I&#8217;m &#8220;infantilized,&#8221; at all.  I work long hours and attend presentations when they bring in prominent scientists and researchers. Over break, I visited the University of Washington&#8217;s graduate computer science department and the camaraderie and atmosphere between computer science grad students felt very much like Google.</p>
+
+<p>Lastly, Google does not &#8220;lure programmers straight out of college.&#8221;  Most of the people in my new-hire class had at least 3 to 4 years experience.  My most-asked question was &#8220;where did you work last?&#8221; and answers were usually another tech company such as yahoo, hp, or oracle.</p>
+
+<p>Honestly, I&#8217;d like your opinion on how a company should treat it&#8217;s employees.  Since providing comfortable benefits is &#8220;infantilizing,&#8221; how should employees be treated to make sure they&#8217;re &#8220;grown up?&#8221;  What is your definition of &#8220;grown up&#8221; anyway?</p>
+
+<p class="posted">posted by pynchonian
+ on December 15, 2006 <a href="#c76" rel="bookmark">#</a></p>
+</div>
+<div id="c77">
+<p>As Google has grown, sarcasm and hypocrisy creeps in&#8230;</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://in.rediff.com/money/2005/dec/01guest3.htm">Known</a>
+ on December 15, 2006 <a href="#c77" rel="bookmark">#</a></p>
+</div>
+<div id="c78">
+<p>Man had always assumed that he was more intelligent than dolphins because he had achieved so much - the wheel, New York, wars and so on - whilst all the dolphins had ever done was muck about in the water having a good time. But conversely, the dolphins had always believed that they were far more intelligent than man - for precisely the same reasons.</p>
+
+<p>Hitchhiker&#8217;s Guide to the Galaxy</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://mcandre.wordpress.com">Andrew Pennebaker</a>
+ on December 15, 2006 <a href="#c78" rel="bookmark">#</a></p>
+</div>
+<div id="c79">
+<p>You are the most intellectually dishonest smart person I know of.  I almost wonder if you are conducting an experiment to see how long people will keep trying to have reasoned debates with you before giving up.</p>
+
+<p class="posted">posted by Mark
+ on December 15, 2006 <a href="#c79" rel="bookmark">#</a></p>
+</div>
+<div id="c80">
+<p>I&#8217;ve been working jobs since I was 14, rock quarry yard person consolidating slate, bus boy, vendor, waitor, bartender, software engineer, dishwasher, office helper, copyeditor, and a few other things. And you know what, I&#8217;m just out of college, too. I can tell, with a fair amount of confidence that if google wanted to take care of my laundry, feed me lunch, and give me big bright bouncy balls, amazing colleagues, and a cached version of the Internet I wouldn&#8217;t be sitting there thinking about how I was infantalized and saying &#8220;But as much as they [I] want to leave Google, the infantilizing tactics have worked: [I&#8217;m] afraid [I couldn&#8217;t] survive anywhere else.&#8221; No, I know I can, and so don&#8217;t a lot of other googlers.</p>
+
+<p>But, if I were some random blogger sitting in my living room, I might find some sly way to gripe that google won&#8217;t hire me, so I&#8217;m going to call them all a bunch of babies :-P</p>
+
+<p>Just kidding. I can feel your discontent and as a cursory and somewhat trite view at google I can see it from your perspective &#8230; as I&#8217;m sure there are a lot of perspectives it can be seen from.</p>
+
+<p class="posted">posted by Joshua Gay
+ on December 15, 2006 <a href="#c80" rel="bookmark">#</a></p>
+</div>
+<div id="c81">
+<p>Well, if anything, from the comments it seems googler&#8217;s are a bit insecure/defensive.</p>
+
+<p class="posted">posted by Me
+ on December 15, 2006 <a href="#c81" rel="bookmark">#</a></p>
+</div>
+<div id="c82">
+<p>Aaron writes from the perspective of someone picking between a job at a hot startup company and a job at Google. In that context, there&#8217;s some truth to the article. But that&#8217;s not the context for the vast majority of readers, and especially not for people in general. Most people&#8217;s career prospects are blatantly inferior to those of Google employees (with or without &#8220;infantilizing&#8221;). Thus, if Google employees are made infants by their employer, it follows that the vast majority of readers must be made into something much worse than infants by their employers. Since most people prefer to see themselves as &#8220;professionals&#8221; to seeing themselves as inferior to infants, they have good reason to be insulted by this article.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://google.com">Conrad</a>
+ on December 15, 2006 <a href="#c82" rel="bookmark">#</a></p>
+</div>
+<div id="c83">
+<p>One fact here is more telling than any other.  Many Google employees have chimed in with their support for the company.  However, none of these disgruntled Googlers Aaron talks about have shown up to throw in their support for his point.  Although Aaron claims to hear mostly negative things about the work environment, everyone here who actually has any authority on the issue (working for Google) is pleased with their lot.</p>
+
+<p class="posted">posted by James Aguilar
+ on December 15, 2006 <a href="#c83" rel="bookmark">#</a></p>
+</div>
+<div id="c84">
+<p>&#8220;Google will have its rude awakening and the kindergooglers will cry and whine about having their jobs taken overseas by Indian and Chinese entrepreneurs who work in dilapidated offices without the luxury of spending shareholder dollars on free lunches and big boy toys.&#8221;</p>
+
+<p>Interestingly, almost every software engineer at Google (Mountain View, at least) was born in the USA. From that, I conclude the USA is still extremely competitive in software engineering. USA! USA! USA!</p>
+
+<p class="posted">posted by USA!
+ on December 15, 2006 <a href="#c84" rel="bookmark">#</a></p>
+</div>
+<div id="c85">
+<p>Employment is for those who want to &#8216;survive&#8217; in life.
+Entrepreneurship is for those who want to &#8216;succeed&#8217; in life.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://in.rediff.com/money/2005/dec/01guest3.htm">Known</a>
+ on December 15, 2006 <a href="#c85" rel="bookmark">#</a></p>
+</div>
+<div id="c86">
+<p>I used to work at Google as a Contractor. Let me tell you, it wasn&#8217;t the greatest place for a contractor. First, you have red badges, so anyone with a Google badge looks down on you. Already you feel left out, and you don&#8217;t feel like enjoying all the benefits Googler&#8217;s have. In addition to that, Contractors do a lot of the bitch work, but yet some Googlers do too. Like this one lady, who had an MBA from Stanford, was doing Email support! I&#8217;m sure she was happy about that.</p>
+
+<p>Another interesting thing I noticed is that the Engineers run everything! There is a constant battle between product managers and engineers. It&#8217;s like they kinda hate each other. The engineers make it, and the product managers have to figure out what to do with it. It&#8217;s like a treadmill of producing products.</p>
+
+<p>Lastly, people have to wear many hats there. What I mean by that is everyone can contribute on other projects. What this does is, spread everyone too thin. You have maybe a manager for Gmail working as the manager for Desktop, and the engineer for Checkout working on the backend of Base. This is cool an all, cause everyone super smart, but come on now be realistic, you can only really devote 100% of your time to one thing and make it work. All in all, I miss the food. I don&#8217;t miss working there. The people arn&#8217;t really all that friendly, people have arrogance and MBA, PHD attitudes.</p>
+
+<p>Oh yeah, and they only have like 3 or 4 people working on product marketing. Honestly, they didn&#8217;t even know what the hell they were doing. Too much smarts equals no common sense. That was the only thing Google needs, common sense and hot girls. Data isn&#8217;t everything.</p>
+
+<p class="posted">posted by Ron Diggity
+ on December 15, 2006 <a href="#c86" rel="bookmark">#</a></p>
+</div>
+<div id="c87">
+<p>Working for Google is equally as fun as working for the religion of Scientology.</p>
+
+<p>:smirk:</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.liberalsvsconservatives.com">Jon</a>
+ on December 15, 2006 <a href="#c87" rel="bookmark">#</a></p>
+</div>
+<div id="c88">
+<p>What&#8217;s the problem with Mountain View? If you think it is a desert you haven&#8217;t been lived in many suburbs. Compared to others it has a lot to offer. Taking swipes at the suburbs is so seventies, dude.</p>
+
+<p>You&#8217;re being rather narrow-minded by calling Google&#8217;s behavior &#8220;infantilizing.&#8221; Providing for college hire needs is actually a growing high tech trend right now around the globe. In China and India, it addresses a need and a reality. Who&#8217;s to say it doesn&#8217;t do the same here? It&#8217;s not a Google innovation.</p>
+
+<p class="posted">posted by kongjie
+ on December 15, 2006 <a href="#c88" rel="bookmark">#</a></p>
+</div>
+<div id="c89">
+<p>&#8220;I used to work at Google as a Contractor. Let me tell you, it wasn&#8217;t the greatest place for a contractor. First, you have red badges, so anyone with a Google badge looks down on you. Already you feel left out, and you don&#8217;t feel like enjoying all the benefits Googler&#8217;s have.&#8221;</p>
+
+<p>Most contractors get paid hourly though, which usually ends up being a lot more money (as long as you can keep your job). I don&#8217;t know about Google, but Microsoft contract programmers can charge $90+ per hour.</p>
+
+<p class="posted">posted by Hodger
+ on December 15, 2006 <a href="#c89" rel="bookmark">#</a></p>
+</div>
+<div id="c90">
+<p>I know one person who turned down an offer to work at Google and another who works for Google. Both are happy.</p>
+
+<p>What does this prove?  It proves that there is Ying and there is Yang.</p>
+
+<p class="posted">posted by Anon Omus
+ on December 15, 2006 <a href="#c90" rel="bookmark">#</a></p>
+</div>
+<div id="c91">
+<p>Hey Aaron,</p>
+
+<p>Your blog was recommended by a mutual friend, and I&#8217;ve largely enjoyed it over the past month or so. Every now and then, however, you have a temptation to play de Tocqueville. You try to build a model or a theory for a place or a thing based on your observations, treating us to your views as to what makes them tick. You&#8217;re smart, and you&#8217;re also a compelling writer, which means that most of the time you dream up a model that either speaks to some essential truth, or at least is deftly written enough to be persuasive.</p>
+
+<p>Other times you get things wrong &#8212; sometimes because you miss the real big picture owing to lack of life experience, or other times because it&#8217;s seductive to find a model for things even when there isn&#8217;t one. I&#8217;ve seen this in your posts about Stanford, and intensely in your posts about San Francisco and the rest of Silicon Valley.</p>
+
+<p>This desire to find a model/theory/summary/essence of a thing can be very compelling, and I appreciate the fact that you look for them in these expositions about the places, things, and ideas in your life. It&#8217;s just that when you <em>do</em> get it wrong, it&#8217;s <em>really</em> wrong, and it stands out like a sore thumb.</p>
+
+<p>Google is a place that it&#8217;s easy to be passionate about. Without seeming immodest, the work we do there has helped to change the world, and (I hope) will continue to do so in the future. It&#8217;s a place where I can show up and end up working with some profoundly smart people &#8212; selected not just for the &#8216;smart&#8217; trait, but also the &#8216;get things done&#8217; trait: good company if you&#8217;re the sort of person interested in changing things. It&#8217;s also, and maybe most importantly, a place where the people running the show have a profound commitment to Doing the Right Thing.</p>
+
+<p>That&#8217;s why you see Googlers reacting so strongly to claims that the stuff you see around campus is part of some effort to infantilize its workers into being afraid to leave. It&#8217;s not because you hit a nerve &#8212; it&#8217;s because it&#8217;s so obviously not what they were intended to do. The best part about most of our benefits is that they are designed to relieve the burden of life&#8217;s bullshit &#8212; shuttles to get you through the ridiculous California traffic, free, amazing food within a stone&#8217;s throw so that you don&#8217;t have to waste time, and more beside.</p>
+
+<p>You might argue that the <em>result</em> of sparing people from bullshit might be some infantilization, but you&#8217;re dead wrong when you think it&#8217;s the <em>goal</em>. It bespeaks to a profound lack of understanding of what the people and the place are about &#8212; like you grasped at the form, and missed the substance.</p>
+
+<p>The other fun things you see &#8212; the ball pits, the dinosaur, the occasional video games, the marker board art, are exactly that: for fun! (Many of them are personal contributions from Google&#8217;s employees and its Founders to Google).</p>
+
+<p>There are a lot of fairly sophisticated arguments you can make about why people are more creative and more productive when they have fun, or when they have an outlet for stress, but I feel like this is a more succinct summary:</p>
+
+<p>Would you rather work at a place that:</p>
+
+<p>(a) Has a dinosaur
+(b) Does not have a dinosaur</p>
+
+<p>I know what my answer would be, but perhaps I have been infantilized by the nefarious practices of my employer. ;)</p>
+
+<hr />
+
+<p>I encourage you to keep looking at Google, because  if you really want to write about what makes it tick, I feel like you&#8217;ve missed the point.</p>
+
+<p class="posted">posted by Brandon
+ on December 15, 2006 <a href="#c91" rel="bookmark">#</a></p>
+</div>
+<div id="c92">
+<p>Aaron - I think you are just JELAOUS&#8230; Sorry, buddy - maybe you&#8217;ll get a job elsewhere&#8230; :/</p>
+
+<p class="posted">posted by oh crap
+ on December 15, 2006 <a href="#c92" rel="bookmark">#</a></p>
+</div>
+<div id="c93">
+<p>I&#8217;d be glad to try to correlate the following data:
+BMI, happiness at Google (or excitement about Google) and marital life (married with fellow googler, etc.).
+I guess some of us who got used to having a real life would not fit in this collegial mold.
+I was once interviewed by Google but they had nothing to offer me. I currently have a 7-minute commute-time between home and work. I also didn&#8217;t appreciate being suddenly assaulted by Google&#8217;s recruiters on LinkedIn, especially when none of these admitted doing it intentionally because I was on their list.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://goatse.ch">bob</a>
+ on December 15, 2006 <a href="#c93" rel="bookmark">#</a></p>
+</div>
+<div id="c94">
+<p>I worked at Google for about a year.  The company provides food, freedom (20% time), fun (games, etc), and many other onsite amenities.</p>
+
+<p>The employees tend to be on the young/immature/geeky end of the spectrum.  Most employees work on a small slice of big projects.  So it is not a place for people who wand to get their hands dirty in a lot of places.  Think about the challenge of optimizing a network of grid computers bigger than anyone can imagine.  They&#8217;ve got a team of people focused on file systems, a team focused on energy consumption of chips, etc.    But the people involved in those teams are free to be entreprenuerial and pursue a project like GDrive/Platypus or spending time waxing poetic about windmill power.  It&#8217;s a neat place to work, but also a place where most of the employees are worker ants.</p>
+
+<p class="posted">posted by 
+ on December 15, 2006 <a href="#c94" rel="bookmark">#</a></p>
+</div>
+<div id="c95">
+<p>@#1 &#8220;Or, maybe I&#8217;m just to infantalized to see the truth.&#8221;</p>
+
+<p>Either you&#8217;re a liar or you&#8217;re confirming the authors assertions. I wouldn&#8217;t hire a person who does not know the difference between &#8220;to&#8221; and &#8220;too&#8221;.
+And I doubt Google would do so either.</p>
+
+<p class="posted">posted by Fat Tony
+ on December 15, 2006 <a href="#c95" rel="bookmark">#</a></p>
+</div>
+<div id="c96">
+<p>In another 10 or 20 years, everything will be different.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://ofb.net/~wtanaka/">Wesley Tanaka</a>
+ on December 15, 2006 <a href="#c96" rel="bookmark">#</a></p>
+</div>
+<div id="c97">
+<p>The grass is always greener&#8230;
+Spend enough time in any work environment will get old no matter what the situation is.  And it seems that people will complain about something in the work place.  People burn out fast, we work too much - that is the real problem.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.concert-pictures.com">Kevin</a>
+ on December 15, 2006 <a href="#c97" rel="bookmark">#</a></p>
+</div>
+<div id="c98">
+<p>http://www.angryflower.com/pooper.gif</p>
+
+<p class="posted">posted by Dave
+ on December 15, 2006 <a href="#c98" rel="bookmark">#</a></p>
+</div>
+<div id="c99">
+<p>I am not one to troll blogs and say things like &#8220;Great post&#8221; but this was in fact a GREAT POST Aaron!</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.seobuzzbox.com/">Aaron Pratt</a>
+ on December 15, 2006 <a href="#c99" rel="bookmark">#</a></p>
+</div>
+<div id="c101">
+<p>this article really sucked. and you&#8217;re an asshole.</p>
+
+<p class="posted">posted by reader 386
+ on December 15, 2006 <a href="#c101" rel="bookmark">#</a></p>
+</div>
+<div id="c102">
+<p>Reading this makes me envious of any large company that shows a sense of caring for an employee. I happen to work at a fortune 500 company that doesn&#8217;t even bother to fake it for the employee anymore.</p>
+
+<p>Overworked, underpaid skeleton crews barely keeping a $6 billion dollar a year revenue generating company going. The company makes a profit in spite of it&#8217;s top management. No more bonus, no no more stock options, no benefits except high priced health care options. All in the name of the holy stock price. Yeah, I&#8217;d kill for a little fun at work no and then&#8230;</p>
+
+<p class="posted">posted by Francis
+ on December 15, 2006 <a href="#c102" rel="bookmark">#</a></p>
+</div>
+<div id="c103">
+<p>I joined Google 19 months ago to work on GMail. It was a very long interview process, and I was thrilled to get an offer. I came from a mid-size technology company before Google. An ex-colleague from there got me to apply to Google. It has been mostly nice. The good&#8230;</p>
+
+<p>1.) It is pretty easy to concentrate on my work and be productive.
+2.) The side projects are fun.
+3.) Smart people to brainstorm with.
+4.) A meritocratic atmosphere where &#8220;confrontation&#8221; is understood. Most people are used to having to prove their ideas.</p>
+
+<h1>1 is definitely the best thing. I spend a lot less time in meetings, dealing with support issues, talking to management, etc. than I did at my previous job.</h1>
+
+<p>Ok, the bad&#8230;
+1.) Collectivism. If I had a dollar for every time I&#8217;ve had the &#8220;Lone Ranger&#8221; analogy used in a negative sense&#8230; I wouldn&#8217;t need my options to vest.
+2.) Culture. I&#8217;m in my 30&#8217;s with kids. I would not recommend that combination with Google.
+3.) No WAH. Ok, so it&#8217;s not that you can&#8217;t telecommute, but it is definitely discouraged big time. This was shocking to me since I had asked about this during the interview process and told &#8220;it&#8217;s no big deal.&#8221; 
+4.) The socioeconomic divide. Porsche driving developers always make sure that their non-Porsche driving co-workers are aware of their car keys &#8212; if you know what I mean.</p>
+
+<p>I&#8217;m definitely not looking for another job right now, but Google is probably a little closer to Aaron&#8217;s description than many Googlers would like to admit. I&#8217;m definitely thinking I&#8217;m going to get rich off my options, but the equation (vested options == pay off giant mortgage) definitely enters my head from time to time.</p>
+
+<p class="posted">posted by Ren
+ on December 16, 2006 <a href="#c103" rel="bookmark">#</a></p>
+</div>
+<div id="c105">
+<p>Thanks for your insightful artilce on what it is like to exist in Google&#8217;s world.  I currenlty work at a startup where the owners don&#8217;t get it but have taken my work and the work of other and will soon be unloading it for millions.  Good for them, but what about all of the people that helped them get there?  Well you got your small pay check, wasn&#8217;t that enough?  From what you wrote, it seems that at least at some level Google is doing some things to take care of their people.  Sorry so many choose to beat you up for your opinions.  I find them at least insightful and allow for at least a measuring stick with which to compare.</p>
+
+<p>Maybe read the book Peopleware, by Tom DeMarco and Timothy Lister</p>
+
+<p class="posted">posted by Insightful
+ on December 16, 2006 <a href="#c105" rel="bookmark">#</a></p>
+</div>
+<div id="c106">
+<p>I work at Google, and frankly, I suspect you need to broaden your circle of friends here.  Your description seems quite far from the day-to-day operation I see.</p>
+
+<p>Out of ten thousand employees, there will be some who are unhappy, and some who are just putting in their time.  The question must become whether the free food, snacks, toys, and other cruft contribute to or ameliorate the unhappiness for most of the employees.  (And, I suppose, whether you <em>want</em> happy employees.  Google does.  I do.)  I suspect that the perks do much more good than they do harm, and not because they are making employees incapable of operating in the real world.</p>
+
+<p>I am not claiming that Google has done everything right.  For example, I worked from home for seven years.  I miss the thirty second commute.  On the other hand, I am now around a very large population of very smart people.  It is pretty rare for a company of this size to allow full time telecommuting, so I accepted that tradeoff when I joined the company, even though I think they would get quite a bit of benefit from encouraging telecommuting more.</p>
+
+<p>That said, they seem to do more right, and less wrong, as far as encouraging quality work, than any other company I have talked to lately, of even moderately similar size and scope.</p>
+
+<p>As far as &#8216;hitting a nerve&#8217;, I would instead suggest that you were purposefully rude, and got a surprising number of reasonable responses.</p>
+
+<p>A hint: telling someone that everyone you know at their company &#8220;either acts childish, enthusiastically adolescent, or else is deeply cynical&#8221;, and that &#8220;the infantilizing tactics have worked: they&#8217;re afraid they wouldn&#8217;t be able to survive anywhere else.&#8221; cannot be taken as anything but an attack on the other people there.</p>
+
+<p>Scott</p>
+
+<p class="posted">posted by Scott Ellsworth
+ on December 16, 2006 <a href="#c106" rel="bookmark">#</a></p>
+</div>
+<div id="c107">
+<p>Ren, I&#8217;m not sure what you mean by the Lone Ranger comment (you mean decisions made by consensus).</p>
+
+<p>But I&#8217;ve found that WAH not a big deal.  Then again, half my team was in NYC &#8212; what&#8217;s 5 more miles?</p>
+
+<p>The main thing I disagree on is the Porsche factor.  I saw a much higher proportion of Porsches at my last job, which was not a big dot-com.  I don&#8217;t think people actually flash their money here.  Then again, at my last job, I was reasonably sure no one had a Lambourghini or two tucked away at home :-\</p>
+
+<p class="posted">posted by Yet Another Googler
+ on December 16, 2006 <a href="#c107" rel="bookmark">#</a></p>
+</div>
+<div id="c108">
+<p>Interesting&#8230;I have a friend who works there and joined about a year ago in the marketing dept. The first thing she mentioned was that marketing is lower on the totem pole than the valet parkers, little to no respect (hence the fruitless search for a CMO). She also senses a bit of analysis paralysis - every marketing meeting she is in goes on and on, filled with pontification and &#8220;action items&#8221; with little to no real concrete next steps. The place is obviously run by the admittedly intelligent engineers and devs, and this is starting to show through a certain lack of product focus&#8230;domain registration? Cmon. Anyway - I&#8217;ve heard similar things&#8230;as much as Google is the media darling (The failure of Answers was actually lauded by many in the press as a success, go figure), cracks are appearing in the day to day strategic direction of the company.</p>
+
+<p class="posted">posted by Brian
+ on December 16, 2006 <a href="#c108" rel="bookmark">#</a></p>
+</div>
+<div id="c109">
+<p>No one but the founders of Google have the authority to make binding job offers without the approval of HR. It doesn&#8217;t matter what you&#8217;ve done in the past, if people (besides HR) are making you offers when you show up, they&#8217;re hollow offers.</p>
+
+<p>You have to make it through the interviews, and dropping out of Stanford to go work on a startup that failed only to jump ship to Reddit doesn&#8217;t cut the mustard.</p>
+
+<p class="posted">posted by Aaron A.
+ on December 16, 2006 <a href="#c109" rel="bookmark">#</a></p>
+</div>
+<div id="c110">
+<p>Why was this comment deleted last time? I was just posting a third relevant XKCD comic (http://xkcd.com/c192.html) and saying that I appreciated Brandon&#8217;s comment above. Sheesh.</p>
+
+<p class="posted">posted by Rhombus
+ on December 16, 2006 <a href="#c110" rel="bookmark">#</a></p>
+</div>
+<div id="c111">
+<p>Interesting points.</p>
+
+<p>This reminds me of Pixar. I have several friends that work there and have visited the office in Emeryville as well. They have a very similar atmosphere but moreso. Foosball, arcade games, comic and art everywhere.</p>
+
+<p>In Pixar&#8217;s case, I&#8217;d say that they want to create an atmosphere of creativity and ingenuity. From my visits to Google, I&#8217;d venture to say that Google is attempting to accomplish the same thing.</p>
+
+<p>Your observation about the dinosaur and SpaceShipOne are interesting. Even the use of the word &#8220;infantilization&#8221; is interesting too. I can&#8217;t help but think that when we were kids we dreamed big. Those dreams weren&#8217;t mature or polished, but the sky was the limit. Perhaps that&#8217;s not such a bad thing to have.</p>
+
+<p class="posted">posted by peter c
+ on December 16, 2006 <a href="#c111" rel="bookmark">#</a></p>
+</div>
+<div id="c112">
+<p>dumb fuck</p>
+
+<p class="posted">posted by asdf
+ on December 16, 2006 <a href="#c112" rel="bookmark">#</a></p>
+</div>
+<div id="c113">
+<p>I&#8217;d say the large number of juvenile responses by Googlers pretty much proves Aaron&#8217;s point.  Relax, googs, Aaron&#8217;s not going to take your toys away.</p>
+
+<p class="posted">posted by ss
+ on December 17, 2006 <a href="#c113" rel="bookmark">#</a></p>
+</div>
+<div id="c114">
+<p>I have worked there almost seven years- could quit tomorrow and love going to work everyday.</p>
+
+<p class="posted">posted by mjheal
+ on December 17, 2006 <a href="#c114" rel="bookmark">#</a></p>
+</div>
+<div id="c115">
+<p>Aaron, this apparent attitude of googlers sounds like you&#8217;ve been eavesdropping on conversations at zeitgest.  You shouldn&#8217;t do that, it&#8217;s rude.  Some people will bitch and moan about their jobs no matter what they do.  Is that representative?  Probably not.  Can GFS/et al be a cow?  Certainly.  Who cares?</p>
+
+<p class="posted">posted by  
+ on December 17, 2006 <a href="#c115" rel="bookmark">#</a></p>
+</div>
+<div id="c116">
+<p>I think a more substantive post could be written about Google’s bullshit interview questions, which Aaron mentioned en passant. I have my own limited experience with those.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://joeclark.org/weblogs/">Joe Clark</a>
+ on December 17, 2006 <a href="#c116" rel="bookmark">#</a></p>
+</div>
+<div id="c117">
+<p>Gang,</p>
+
+<p>Greetings.  An associate pointed me at this thread, thinking I might want to comment given my array of public statements relating to various Google policies.</p>
+
+<p>I haven&#8217;t visited the Googleplex, but I have been out to the new Santa Monica center a couple of times, am in contact with various Google personages, and have a good sense of what HQ is like.</p>
+
+<p>While I have certainly been critical about particular aspects of Google operations (especially in the privacy arena) I find the arguments about the Google environment promoting &#8220;infantilization&#8221; to be laughable.</p>
+
+<p>In my view, the Google facilities and environment are clearly aimed at fostering creativity and retention &#8212; and of course maximal work output.  I see nothing wrong with any of this when implemented through this kind of &#8220;carrot&#8221; approach. Frankly, it&#8217;s the kind of environment where even an &#8220;old guy&#8221; like me wouldn&#8217;t mind hanging out if I felt that I was accomplishing useful work.</p>
+
+<p>I might add that all of the Google folks I&#8217;ve met or otherwise been in contact with have seemed intelligent, friendly, and concerned about important issues &#8212; with nary the kind of dead wood so common in many organizations in evidence.</p>
+
+<p>There&#8217;s plenty about Google to admire, and some crucial areas to be extremely concerned about.  But I do find the Google environment to be refreshing in a way that I haven&#8217;t seen even approximated in many, many years (if ever), and I always give credit when credit is due.</p>
+
+<p>And besides, I&#8217;ve always been a big fan of Lava Lamps.</p>
+
+<p>&#8212;Lauren&#8212;
+Lauren Weinstein
+lauren@vortex.com or lauren@pfir.org
+Tel: +1 (818) 225-2800
+http://www.pfir.org/lauren
+Co-Founder, PFIR
+   - People For Internet Responsibility - http://www.pfir.org
+Co-Founder, IOIC
+   - International Open Internet Coalition - http://www.ioic.net
+Founder, CIFIP
+   - California Initiative For Internet Privacy - http://www.cifip.org
+Founder, PRIVACY Forum - http://www.vortex.com
+Member, ACM Committee on Computers and Public Policy
+Lauren&#8217;s Blog: http://lauren.vortex.com
+DayThink: http://daythink.vortex.com</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://lauren.vortex.com">Lauren Weinstein</a>
+ on December 18, 2006 <a href="#c117" rel="bookmark">#</a></p>
+</div>
+<div id="c118">
+<p>I&#8217;ve never worked at Google.  In fact, I interviewed twice and only
+got as far as the second round of phone interviews.  I was shocked, to
+put it mildly, that there were questions such as &#8220;What is the tcpdump
+command used to print out DNS packets?&#8221;  This is the sort of thing I&#8217;d
+think they wouldn&#8217;t ask, since it can be looked up easily, so no one
+would memorize it.  OTOH, there are lots of thought-provoking computer
+science questions that can be asked.</p>
+
+<p>Anyway, I&#8217;ve heard and read much about how smart most Googlers are,
+and have even mused on that subject a bit myself.  All other things
+aside, I don&#8217;t understand how they couldn&#8217;t have realized click fraud
+would be a problem when AdWords and AdSense were on the drawing
+board.  Or if they did realize it, how those services were launched
+without tools available to help advertisers and publishers protect
+themselves from fraud, or at least some warnings about the possibility
+of fraud.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://gregbo.livejournal.com/">CPCcurmudgeon</a>
+ on December 18, 2006 <a href="#c118" rel="bookmark">#</a></p>
+</div>
+<div id="c119">
+<p>Put the drugs down and step away from the blog dude.</p>
+
+<p class="posted">posted by Mike
+ on December 18, 2006 <a href="#c119" rel="bookmark">#</a></p>
+</div>
+<div id="c120">
+<p>I find it laughable that for Google sympathizers to strongly rebut Aaron&#8217;s assertions is itself taken as evidence (by commenters like Sam, ss, Fat Tony, aand &#8220;Me&#8221;) of the validity of those assertions. This, in a post about people being encouraged to behave like infants&#8230;.</p>
+
+<p>And Fat Tony: you should know better than to make snap judgements about someone&#8217;s abilities based on the most minor typoe in a blog comment. If I had a dime for every opportunity I&#8217;ve had to jump on minor grammatical errors to score such cheap points, I might be better off than even a vested Google employee.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://letmespellitoutforyou.blogspot.com/">Mike Sierra</a>
+ on December 18, 2006 <a href="#c120" rel="bookmark">#</a></p>
+</div>
+<div id="c121">
+<p>Rhombus: Becuase that&#8217;s the exact xkcd comment I link to.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on December 18, 2006 <a href="#c121" rel="bookmark">#</a></p>
+</div>
+<div id="c122">
+<p><a href="http://www.aaronsw.com/weblog/googlife#c109" rel="nofollow">Aaron A.</a>: Some of the people offering were the founders.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on December 18, 2006 <a href="#c122" rel="bookmark">#</a></p>
+</div>
+<div id="c123">
+<p>Funny. I worked for Microsoft for close to ten years. Yea, I did the google interview recently. I remember thinking that it looked a lot like Microsoft ten years ago. Sounds like they are headed down the same path. Too bad. But I guess it&#8217;s to be expected when the pattern of growth is very similar.</p>
+
+<p>At the end of the day, the programmers and testers are there only to make the investors rich. Much like assembly line workers.</p>
+
+<p class="posted">posted by Jose
+ on December 21, 2006 <a href="#c123" rel="bookmark">#</a></p>
+</div>
+<div id="c124">
+<p>I worked for CNET for 3.5 years and thought it was tremendous.  But THIS&#8230;well, i&#8217;d work there in a second and the toys sound GREAT.  IMO.</p>
+
+<p class="posted">posted by bg
+ on December 21, 2006 <a href="#c124" rel="bookmark">#</a></p>
+</div>
+<div id="c125">
+<p>This post reflects more about you and your Googler friends than about Google. Your biases and inexperience are showing.</p>
+
+<p>I really encourage your Googler engineer friends to AT LEAST read the GFS paper (http://labs.google.com/papers/gfs.html). I bet they have not. Even better, try reading the source code and truely understand how it works. Or talk to the designers.</p>
+
+<p class="posted">posted by ex-googler
+ on December 21, 2006 <a href="#c125" rel="bookmark">#</a></p>
+</div>
+<div id="c126">
+<p>You wrote an interesting article. Google is becoming a iconic enigma, but all empires collapse. So we know what is now, but what is tomorrow? Microsoft also invested millions to make staff happy, and companies like Yahoo! have been very agressive in taking market share. So Google may attract a lot of press over its &#8220;paranoia&#8221; but its methods are widely used, in differing forms, but many US companies.</p>
+
+<p class="posted">posted by Rare Fox
+ on December 21, 2006 <a href="#c126" rel="bookmark">#</a></p>
+</div>
+<div id="c127">
+<p>You wrote an interesting article. Google is becoming a iconic enigma, but all empires collapse. So we know what is now, but what is tomorrow? Microsoft also invested millions to make staff happy, and companies like Yahoo! have been very agressive in taking market share. So Google may attract a lot of press over its &#8220;paranoia&#8221; but its methods are widely used, in differing forms, but many US companies.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://none.com">Rare Fox</a>
+ on December 21, 2006 <a href="#c127" rel="bookmark">#</a></p>
+</div>
+<div id="c128">
+<p>I agree.  I interviewed at Google and the overwhelming feeling was of a creche with computers.  The products are great and they are fantastic productivity gains when used to but tow rok for Google you have to either buy into the Google religion or you don&#8217;t work there.</p>
+
+<p>I was asked the same set of questions seven times in interviews and one guy was so in love with himself and his abilities that he was unable to relate to anyone of lesser ability.</p>
+
+<p>I do agree with the company using resources to help employees get the chores done.  Thats just common sense.  But I don&#8217;t agree with the star trek view on employees.  It takes all kinds to make the world go round and that includes some dumb people too.  There are many types of intelligence not just coding ability.</p>
+
+<p class="posted">posted by billy
+ on December 21, 2006 <a href="#c128" rel="bookmark">#</a></p>
+</div>
+<div id="c129">
+<p>Just for reference, most high-security prisons keep very good food on hand. It helps keep the prisoners in-line by keeping their base instincts in check.</p>
+
+<p>Google, friend or foe, you decide.</p>
+
+<p>And yes, as was mentioned earlier, dorms would be ideal. You can keep people there longer and revoke their housing when they quit.  Talk about rentention programs!</p>
+
+<p>Also they have done many studies that show the more hazing one goes through, the stronger the bond of the people that join that club.  Google is a club. To get it in was harder earlier (and still hard today), but that&#8217;s the point. Make it a cult. You work at Google, pratically live there, wear Google clothes, have google friends, and have googly kids.</p>
+
+<p>But when the tree rocks, down will come baby, and all. (or something like that)</p>
+
+<p class="posted">posted by Googly-eye
+ on December 21, 2006 <a href="#c129" rel="bookmark">#</a></p>
+</div>
+<div id="c130">
+<p>I came very late &#8230; so I&#8217;m at the bottom of it but.. I would love to transalte that one too.</p>
+
+<p>I think infantilizing is @ work in the industry. I would make a // with the &#8220;friendship&#8221; world of social networks. You&#8217;re my friend, you&#8217;re my friend &#8230; you too.</p>
+
+<p>All Internet has to grow up a bit&#8230; and some comments are real proof of it.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://leafar.eu">leafar</a>
+ on December 22, 2006 <a href="#c130" rel="bookmark">#</a></p>
+</div>
+<div id="c131">
+<p>[quote]
+yawn</p>
+
+<p>I work at Google, am fully vested, and could retire tomorrow if I wanted to. I continue to work here because it actually is the most interesting place in the world to work at.
+[/quote]</p>
+
+<p>kinda proves the point doesn&#8217;t it?</p>
+
+<p class="posted">posted by joe
+ on December 22, 2006 <a href="#c131" rel="bookmark">#</a></p>
+</div>
+<div id="c132">
+<p>I joined when Google was 500 employees, now we&#8217;re up to around 10,000 or so, and I&#8217;ve been around the block big companies and small for the past 12 years in Silicon Valley. Google employees were slightly happier pre-IPO, but not by much. Hands down it remains the best place to work &#8212; worldwide &#8212; because we&#8217;ve been able to hire the brightest and mostly non-selfcentered people out there. Plus the founders/CEO have all the right values, so no matter what your function is at the company, you&#8217;re contributing to a good cause. I too could retire tomorrow but chose not to. Life is good at the Googleplex.</p>
+
+<p class="posted">posted by Early Googler
+ on December 22, 2006 <a href="#c132" rel="bookmark">#</a></p>
+</div>
+<div id="c133">
+<p>&#8220;none of these disgruntled Googlers Aaron talks about have shown up to throw in their support for his point&#8221;</p>
+
+<p>Of course they haven&#8217;t. Have you seen what they did to China?</p>
+
+<p class="posted">posted by 
+ on December 22, 2006 <a href="#c133" rel="bookmark">#</a></p>
+</div>
+<div id="c134">
+<p>&#8220;non-selfcentered&#8221;&#8230;.riiiight&#8230;i&#8217;ve never met an egotistical/egomaniacal googler before&#8230;no way!</p>
+
+<p class="posted">posted by 
+ on December 22, 2006 <a href="#c134" rel="bookmark">#</a></p>
+</div>
+<div id="c135">
+<p>Great article Aaron! <a href="http://www.killerclips.com/clip.php?id=140&amp;qid=1941" rel="nofollow">I don&#8217;t know what were yelling about</a></p>
+
+<p class="posted">posted by <a rel="nofollow" href="Killerclips.com">Eddie</a>
+ on December 22, 2006 <a href="#c135" rel="bookmark">#</a></p>
+</div>
+<div id="c138">
+<p>Aaron,</p>
+
+<p>I&#8217;m an ex-googler and this article is absolutely spot-on. You&#8217;ve nailed it. The place is basically run along cult lines and the &#8220;smartest people in the room&#8221; thing is bullshit too, they&#8217;re no smarter than any other random selection of people.</p>
+
+<p>that&#8217;s all,</p>
+
+<p>e</p>
+
+<p class="posted">posted by eduardo
+ on December 23, 2006 <a href="#c138" rel="bookmark">#</a></p>
+</div>
+<div id="c139">
+<p>This is a very interesting story about Google. I kinda wish my company had some of the aspects of their business, the main one would be the stock options and free food.</p>
+
+<p>Slainte / Cheers</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.homebusinesscents.com">Keith Cash</a>
+ on December 23, 2006 <a href="#c139" rel="bookmark">#</a></p>
+</div>
+<div id="c140">
+<p>Fascinating thread&#8230; we might only add that the same strategy is essentially a military one at its roots: free combat troops from any rear echelon tasks which distract from the core mission. It is cheaper to buy laundry services and food servers from KBR et al than to waste esprit de corps and the fighting man&#8217;s &#8220;fire in the belly&#8221; on mundane tasks. (Now if only the same could be said for powerpoint&#8230;)</p>
+
+<p>Having spent multiple years in hazardous overseas deployments, we often find ourselves peversely missing the no distraction lifestyle, even if food choices were poor (to say the least, compared to the typical American middle class variety) and the  overhead costs of that lifestyle far more difficult&#8230;.</p>
+
+<p>But no one would ever accuse our Uncle of infantalizing anyone in the field.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://kentsimperative.blogspot.com">Kent's Imperative</a>
+ on December 23, 2006 <a href="#c140" rel="bookmark">#</a></p>
+</div>
+<div id="c141">
+<p>My friend, you suck. Please be wiser in 2007! Stop bullshitting</p>
+
+<p class="posted">posted by Borg
+ on December 23, 2006 <a href="#c141" rel="bookmark">#</a></p>
+</div>
+<div id="c142">
+<p>I&#8217;m a google employee speaking for myself only.</p>
+
+<p>They don&#8217;t do our laundry. They simply provide machines for free. Not bleeding our reds is our responsbility alone.</p>
+
+<p>The only ones I know who use the ballpit are interns.</p>
+
+<p>I&#8217;m not so naive as to believe we&#8217;re GOING to change the world, but of any company I&#8217;ve worked at (about 5 in high tech), it&#8217;s the only one who believes its their responsibility to devote some resources to making it a better place &#8212; not only for the techies, but for the world&#8217;s poor, my mom, or whatever. That&#8217;s why Google is one of maybe 2 companies I&#8217;ve ever seen in industry that I&#8217;d be super excited to work out.</p>
+
+<p>Between you and me, I don&#8217;t get the dinosaur either, but it&#8217;s not any weirder than the weird 50 foot tall metal kid cut out gracing the former SGI building across the street. Or the bizarre twisted metal stuff around my college campus.</p>
+
+<p>Your blog post makes a jab that has been made many times before.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://gleemie.livejournal.com">gleemie</a>
+ on December 23, 2006 <a href="#c142" rel="bookmark">#</a></p>
+</div>
+<div id="c144">
+<p>Okay, my two bits.  I don&#8217;t work at Google, I work near Google, I commute through the Googleplex to get to work.  All I can say is when I go by in the morning, at lunch, or after work, I don&#8217;t see many people who look happy.  I also very rarely see anyone who has the common sense to LOOK BOTH WAYS BEFORE CROSSING THE STREET!!!  Dammit!!  I swear they&#8217;ve lost any sense of self-preservation.  I&#8217;ve narrowly avoided many accidents because some self-absorbed drone figures that a crosswalk across a four lane 35 mile per hour zone is really going to make a difference when some other self-absorbed drone comes cruising along at 45mph in their Prius.  Is it just arrogance, or do they extinguish the will to live?</p>
+
+<p class="posted">posted by 
+ on December 25, 2006 <a href="#c144" rel="bookmark">#</a></p>
+</div>
+<div id="c146">
+<p>It&#8217;s amusing to see so many Google employees tell you that you&#8217;re wrong, as though the rest of us don&#8217;t realize that those who like the shiny balls and spaceships and dinosaurs will, of course, be offended when you call them childish.  Further, I&#8217;m tickled at all the claims that Google&#8217;s employees are &#8220;brilliant&#8221; and &#8220;super smart&#8221;, yet they seem to be unable to write well.  I&#8217;m not talking about a simple typo or misspelling, but rather grammatical errors that make a few of these posts unintelligible.  Also I suspect those lengthy tests to prove your worth to Google before they offer you a job is more of a gimmick than anything.  It makes all the employees feel special by giving them a false sense of accomplishment, employees can believe their co-workers are of a certain calibre (&#8220;they must be smart, they passed the test&#8221;), and Google can play it up to the world.  &#8220;We have the best and the brightest, these PSAT scores are proof!&#8221;  Riiiight.  Too bad the best and the brightest can&#8217;t manage to put together a more compelling argument than, &#8220;You&#8217;re a dumbass, and I can prove it, but this NDA won&#8217;t let me.&#8221;</p>
+
+<p>The idea that a corporation will try and convince its employees that they can&#8217;t do better elsewhere isn&#8217;t unique to Google, however.  I worked in a insurance company in Kansas &#8212; about as far away from Google as you can get &#8212; and when work conditions there got to be horrific the powers that be pulled the &#8220;you won&#8217;t find a better job anywhere else&#8221; routine.  Everyone does it.  Some people choose to believe it, and some don&#8217;t.</p>
+
+<p class="posted">posted by Stacia
+ on December 25, 2006 <a href="#c146" rel="bookmark">#</a></p>
+</div>
+<div id="c147">
+<p>Hmmm&#8230;what is the dress code at google?</p>
+
+<p>I work for a small software company ( about 5 people total ) and I am able to wear shorts, sandals and even sleep over in either of my two offices.</p>
+
+<p>We don&#8217;t get free food but we pretty much have 90% freedom to do what we want as well as a company car.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.liberalsvsconservatives.com">Jon</a>
+ on December 25, 2006 <a href="#c147" rel="bookmark">#</a></p>
+</div>
+<div id="c148">
+<p>Provide a better alternative for us. What type of environment is more appropriate than the googleplex?</p>
+
+<p class="posted">posted by rohit
+ on December 25, 2006 <a href="#c148" rel="bookmark">#</a></p>
+</div>
+<div id="c149">
+<p>Aaron,
+I&#8217;ve been over to google once for a charity dinner.  I was impressed by the fact that google sponsored the event because the head chef had volunteered at a previous (not at Google) fundraiser.  He wanted to bring the dinner to Google, and management let him do it&#8212; and without charge to the social services non-profit.  I was impressed by that.</p>
+
+<p>As to the infantilization, I have known a few people that worked there, and none of them struck me as infantile.  Just very accomplished, focused guys.</p>
+
+<p>Finally, regarding the employee perks&#8212; I think the commenters who mentioned Microsoft were pretty on point.  When a firm has wide margins, it can afford to treat the employees very well.  As those margins shrink and the industry matures, then things can change.  Other examples would be IBM and Bell Labs.</p>
+
+<p>Nothing wrong with that though, it&#8217;s just the business cycle.  Nothing lasts forever, so we have to enjoy the ride while we can&#8230;I certainly hope the folks at Google are able to enjoy their stay at the top as long as possible.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.xanga.com/edg176">tim</a>
+ on December 25, 2006 <a href="#c149" rel="bookmark">#</a></p>
+</div>
+<div id="c154">
+<p>Try working in an office without the bright colors, with just shades of gray and beige.  At first, you&#8217;ll think it looks clean and professional, but after about 6 months, it really starts to wear you down.  The infantile point of view is interesting, but I feel you&#8217;re interpreting it the wrong way.  To me, the colors, and atmosphere exists as it does to keep the employees happy, interested, and creative.  The same goes for &#8220;the spaceship and dinosaur&#8221;.  Labeling them like that is particularly self-serving to your point of view, but I feel they have more to do with science and technology, as well as innovation and education than giant playthings, as you seem to project from your article.</p>
+
+<p>I don&#8217;t want to label anyone, but this article almost reads as though it was written by yet another bitter person who was turned down by Google, and now has a grudge for having their egos busted.</p>
+
+<p>I think that perhaps there is something childish about the way they do somethings, but you can&#8217;t argue with the results.  We were all wildly imaginative and creative as children, so perhaps their atmosphere exists the way it does to try and resurrect that.</p>
+
+<p class="posted">posted by wizdumb
+ on December 26, 2006 <a href="#c154" rel="bookmark">#</a></p>
+</div>
+<div id="c156">
+<p>I have visited the Googleplex a few times, I know some nice and very smart people there, but &#8230; (and I know you were waiting for the but) everytime their recruiters call, and they have been calling an awful lot recently, I say NO, for one simple reason. Google allows for zero telecommuting.</p>
+
+<p>Being somewhat older than the average googlekid, I am not interested in living on a high tech campus no matter how shiny the toys. I have a home, a life, a family - and most of the truly progressive high tech companies are fine with me spending time at home, where I work better without distractions anyway.</p>
+
+<p>I like lava lamps. I like dinosaur figurines. And if I wanted to join a cult, Google is probably the best cult around. But the cult life ultimately just gives me the heebie jeebies.</p>
+
+<p>Having worked at many other big tech companies mentioned in the posts above, I have to agree with the general sentiment that Google is just another big corporation, slightly past its peak. Everything else is hubris and self-delusion.</p>
+
+<p class="posted">posted by Hamadazai
+ on December 27, 2006 <a href="#c156" rel="bookmark">#</a></p>
+</div>
+<div id="c157">
+<p>I am all for treating employees well, which in reading your article and many of the comments from actual Google employees seems to indicate.
+I cannot comment factually about this but just read what others read about this and acknowledge based on my many years of management experience that many companies do not.</p>
+
+<p>Where I can comment on Google here is that they possibly go too over board in treating there employees like Gods. As my experiences with Google staff (from we site management) is not good. They are extremely arrogant and condescending, especially the staff with their Adsense department, what a corrupt bunch they are.
+I agree with this earlier comment; 
+&#8220;I&#8217;m an ex-googler and this article is absolutely spot-on. You&#8217;ve nailed it. The place is basically run along cult lines and the &#8220;smartest people in the room&#8221; thing is bullshit too, they&#8217;re no smarter than any other random selection of people.&#8221;</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://american-aquarium.blogspot.com/">Carl Strohmeyer</a>
+ on December 27, 2006 <a href="#c157" rel="bookmark">#</a></p>
+</div>
+<div id="c158">
+<p>btw - this has nothing to do with Google&#8217;s office environment&#8230;</p>
+
+<p>&#8230; but Google has enabled millions of people to be able to earn a living (or extra part-time cash) from their AdSense program.</p>
+
+<p>I don&#8217;t care how they get it done (free laundry, free food, bouncy balls, etc for their workers) - but I hope their stock shoots to $1000 and beyond, and the AdSense payouts keep rolling.</p>
+
+<p>Word on the street from some Googlers I know is that they&#8217;ll never split the stock.  Like Berkshire Hathaway.</p>
+
+<p>Can you imagine GOOG at $60,000 per share?!?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://ummyeah.com">fez</a>
+ on December 27, 2006 <a href="#c158" rel="bookmark">#</a></p>
+</div>
+<div id="c160">
+<blockquote>
+  <blockquote>
+    <blockquote>
+      <blockquote>
+        <blockquote>
+          <blockquote>
+            <blockquote>
+              <p>>
+              To Dan: Asking to remove anti-semitic post</p>
+            </blockquote>
+          </blockquote>
+        </blockquote>
+      </blockquote>
+    </blockquote>
+  </blockquote>
+</blockquote>
+
+<p>Just because some one said that Google is owned by two Jewish Gentlemen in a context where he implied that no one clicks their Ads, it does not mean the persons post is anti-semitic. Your post is like calling a child who points at different looking people a racist.&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;</p>
+
+<p>OK fine. Can we please have all posts which make irrelevant tangents about ethnicity, religion, or other disruptive/inflammatory subjects removed? Bringing up the ethnicity/religion of people in a forum which is not about either ethnicity or religion may or may not be motivated in a particular way, but it&#8217;s obviously not relevant or polite and has a huge potential for distraction and irrelevance. Somebody please take that down already.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://gilesbowkett.blogspot.com">Giles Bowkett</a>
+ on December 28, 2006 <a href="#c160" rel="bookmark">#</a></p>
+</div>
+<div id="c162">
+<p>I read every single comment.  It took me an hour.  And I guess that in a way explains it.  We mostly love Google - as a web search engine - because of the ease with which we can do most of our searches.</p>
+
+<p>I don&#8217;t know why the media by and large chooses not to report on the <em>negative</em> aspects of Google.  Like the terrible long working hours(however enjoyable they might seem or be) or their horrible long-winding no-result-yeilding interviews and there could be a ton others.  Come on, a company cannot be all goody-goody.  And Google is definitely not an exception.</p>
+
+<p>I don&#8217;t know how long the Google honeymoon will last.  Maybe when more of their products are actually delievered(ie. out of beta)pun intended.</p>
+
+<p class="posted">posted by Random Guy
+ on December 28, 2006 <a href="#c162" rel="bookmark">#</a></p>
+</div>
+<div id="c163">
+<p>The whole &#8220;infantilizing&#8221; theory is just wrong.  There are reasons to work at Google, and reasons to work somewhere else, and reasons not to work at all (if you&#8217;ve been at Google long enough), but no one is &#8220;afraid&#8221; to leave Google because &#8220;they wouldn&#8217;t be able to survive&#8221; elsewhere.  That&#8217;s just silly.  If anything, I think life at Google makes people overconfident, not underconfident.</p>
+
+<p>I know many people who have left Google, many people who have stayed at Google, many people who have joined Google.  The analysis just doesn&#8217;t ring true for any of them.</p>
+
+<p>The environment is the way it is because that&#8217;s the way the people running things like it.  It&#8217;s not any deeper than that.  It was the same way when there were 20 people (in fact, some aspects of the environment at that time would seem even more childish, to Aaron).  Surely that doesn&#8217;t mean they were already hatching a master plan for how to infantilize their 10,000 member workforce, and just putting it into effect six years early!  It just means that&#8217;s the kind of environment they like.  It appeals to some people, and not others, and that&#8217;s fine.</p>
+
+<p>Google does have amazingly powerful computers and technology.  It also has a shortage of machines and unreliable software.  There&#8217;s no contradiction there.  It would be poor business practice if there were so many machines that there were no machine shortages.  (And that would be essentially impossible to achieve&#8212;-as you give people more machines, they just use more and more resources, just as building more highways leads to more driving but doesn&#8217;t eliminate road congestion).  It would be poor busines practice to refuse to use any system unless it is perfect and bug-free.  Google wouldn&#8217;t have gotten to where it is, with attitudes like that.</p>
+
+<p>I have no doubt that Larry or Sergey would have offered to hire Aaron.  I think Aaron is a very bright guy.  But I also think, as much as I respect their judgment, they aren&#8217;t perfect, and this particular offer wasn&#8217;t such a good one.  Aaron would not be a good fit.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.desjardins.org/david/">David desJardins</a>
+ on January  1, 2007 <a href="#c163" rel="bookmark">#</a></p>
+</div>
+<div id="c164">
+<p>This is one of the more fascinating stories - and threads - I&#8217;ve encountered.  Time will tell, but the snippets and press clippings in the aggregate point towards a bit more strategy than what first meets the eye.  When you combine paid search with checkout (and the purchase profiling it provides) the development of mobile search (GOOG phone?).  Throw in a recommender network and now a leading position in the evolution to IPTV&#8230;.and all of a sudden, the forward P/E suddenly starts looking pretty cheap.</p>
+
+<p>Personally, I&#8217;d give my eyeteeth to have the opportunity to work at a place like Google. (or SAS&#8230;) Any company that focuses on collecting intelligent, energetic people and then makes a major effort to treat them well/increase productivity/retain them should be jealously treasured and guarded.</p>
+
+<p>As far as the &#8220;infantilizing&#8221; conversation, well I can&#8217;t speak to that&#8230;but I do have one GOOG story that you may find humorous.</p>
+
+<p>I landed a GOOG interview about a year ago thru a visioning paper I wrote on virtual reality for an IPTV marketing slot.  (I&#8217;m not an engineer, but a technical business guy - the position was for a security product manager, dealing with click fraud.  My guess is they liked the creativity of the paper, but ended up profiling my infosec expertise.)</p>
+
+<p>Anyway, I had spent a good 6 hours prepping for the extensive list of questions we were to cover during the interview, but after rescheduling, then calling in 15 minutes late, the 20 something product manager (who while maybe a little naive, is I&#8217;m sure a very nice guy) drops this landmine right out of the gate: &#8220;Hi.  Sorry I&#8217;m late, we&#8217;re having a little emergency here.  I know were scheduled for 30 min, but I only have 10.  Rather than reschedule again, how about giving me a list of all the things you think Google is doing wrong?&#8221;</p>
+
+<p>I kid you not, just like that.</p>
+
+<p>For all you conducting interviews, its one thing if you are having this conversation with a fellow employee you know and trust.  Its something else when you&#8217;re a complete stranger trying to convince someone who is in an obvious rush, with better things to do, you&#8217;re qualified for a job.</p>
+
+<p>Great, what direction should I go?  Was this a test to see if I&#8217;d done my research?  If I&#8217;d speak my mind honestly?  How on earth could I answer this truthfully, keep it in a positive light and get us onto something substantive in 10 minutes?</p>
+
+<p>&#8220;From the outside looking in, I&#8217;d say it appears that what GOOG&#8217;s doing right certainly outweighs what its doing wrong.&#8221;</p>
+
+<p>Strike One.  He insisted I answer the question.  &#8220;We have some pretty spirited internal conversations on this subject, and its important we bring on people who can see the strategic hurdles.&#8221;</p>
+
+<p>Internal being the key word, you doofus, this is not the same. 
+Do I dodge it again and risk losing him?  @#$!, okay you win.</p>
+
+<p>&#8220;Let me caveat that this is a complicated issue, but agreeing to self-censorship in order to play in the Chinese market may not have been GOOG&#8217;s most shining moment&#8230;from the outside, it seems &#8220;do no evil&#8221; became optional, particularly once the price tag got noticeable.&#8221;
+&#8220;Hmmm. Okay, what else?&#8221;
+&#8220;Alright, second I&#8217;d say there&#8217;s a brewing backlash that needs managed from the conflict between providing paid advertising over pure search results.&#8221;<br />
+&#8220;What else?&#8221;
+&#8220;Third, Star office wasn&#8217;t a big hit, so why go after Microsoft with this strategy?  Finally, the click fraud issue, and how you&#8217;re adressing it.&#8221;</p>
+
+<p>Ka-boom,  man down, man down.  Medic!</p>
+
+<p>Needless to say, he didn&#8217;t like any of my responses, and proceeded for the next 9 minutes to argue why I was wrong.</p>
+
+<p>&#8220;Sorry, I need to wrap this up, I&#8217;ve got another thing&#8230;&#8221;</p>
+
+<p>&#8220;I understand, but we really didn&#8217;t get a chance to, you know, spend much time&#8230;Would you like to reschedule?&#8221;</p>
+
+<p>&#8220;Sure.  Meanwhile, why don&#8217;t you send me an email with the answers to the interview questions you said you received from the recruiter.&#8221;</p>
+
+<p>&#8220;Sure, nice talking to you.&#8221;</p>
+
+<p>Click.</p>
+
+<p>And that was my Google experience.  After a day of writing my response, I sent off the email.  4 weeks later, the recruiter says thanks, but no thanks.  Not even a reschedule.  I&#8217;ve sent resume&#8217;s in since, but no takers.</p>
+
+<p>Ah well.  Some things just aren&#8217;t meant to be.  I&#8217;ve been a true believer from the beginning and made a bunch off the stock, so I can&#8217;t be too unhappy.  I also have some ideas on stickiness within 2.0 social recommender networks and where mobility is headed, so who knows.  Maybe my future startup may someday be so attractive&#8230;</p>
+
+<p>There are other ways in.</p>
+
+<p>Maybe someday.</p>
+
+<p>Anyway, Aaron, keep up the interesting articles, and Googlers, keep on keeping on.</p>
+
+<p>Best,</p>
+
+<p>GW</p>
+
+<p class="posted">posted by gray williams
+ on January  1, 2007 <a href="#c164" rel="bookmark">#</a></p>
+</div>
+<div id="c165">
+<p>i agree.</p>
+
+<p>i&#8217;ve been in the software business for about 15 years. what a lot of readers don&#8217;t seem to realize is that Google is nothing new, really, and the infantilizing is nothing new either.</p>
+
+<p>the giddiness of &#8220;dot com&#8221; came and went&#8212;a lot of us enjoyed it, but most watched with bemusement as people came and went, and bright-eyed college kids thought that software making really <em>was</em> like college.</p>
+
+<p>it isn&#8217;t. never has been. the sausage making is tedious. it&#8217;s not magical. there&#8217;s a very good reason that the business has a turnover rate second only to the restaurant industry&#8212;a fact Google, Intel (which I&#8217;ve worked at), Microsoft (worked there too) are all too familiar with.</p>
+
+<p>Google, you pointed out, is suffering everything all other grow-fast, try-earnestly-to-be-the-coolest high-tech companies experience&#8212;the post-honeymoon letdown. the psychology of human resources is very intentional, though few employees seem to be willing to acknowledge the fact that they&#8217;re being  manipulated to fit corporate goals via HR.</p>
+
+<p class="posted">posted by Joe Smithson
+ on January  2, 2007 <a href="#c165" rel="bookmark">#</a></p>
+</div>
+<div id="c169">
+<p>Good Lord, people! Does NOBODY out there realize that LESS THAN HALF of the 10,000+ employees are engineers and programmers???</p>
+
+<p>Really, truly - this needs to be known. MOST PEOPLE who work at Google are in SUPPORT roles!! And they are getting paid way less than industry standard for working 50, 60+ hours a week for it! Screw the free food, screw the laundry - the MAJORITY of people working at Google are in buildings without any of these amenities, and are certainly without extra money from stock options.</p>
+
+<p>The support staff that make up MOST OF the company are the ones handling all of the phone calls from advertisers and publishers who are making Google money; they are the ones scripting email responses to users (yes, YOU!), who write in with complaints and questions - they are the ones working their asses off, in overtime, but that doesn&#8217;t matter because they are salaried but way below industry standards for support positions, to make sure that YOU, the user, has an accessible Help Center, has a kind, email response, has an answer to your question.</p>
+
+<p>Yes, there are foosball tables in the support buildings, but who has time to play them? Giant overhead projectors alerting them to the current turnaround time for their emails is Big Brother enough to ensure that they don&#8217;t even THINK about playing foosball when they should be answering support emails. Breakfast, lunch, and dinner are not nice alternatives - they are NECESSARY to ensure that all of the support peons remain dutiful and consistent with their email turnaround times.</p>
+
+<p>Wow, sounds like they&#8217;re overworked. Can&#8217;t Google just hire more people? HAHAHAHAHAHA!!!!! For a response to that, please see the above comments. It&#8217;s as hard to get a support role here if you&#8217;re an MBA with a PhD as a hobby, as if you invented nuclear physics.</p>
+
+<p>I&#8217;ve been here almost 5 years, and as soon as my refresher grant has vested, I am out like Lance Bass. It&#8217;s a load of corporate baloney - the 400-person company that I started at has become a nightmare that has eaten my soul. God help the users.</p>
+
+<p class="posted">posted by 
+ on January  4, 2007 <a href="#c169" rel="bookmark">#</a></p>
+</div>
+<div id="c171">
+<p>&#8220;&#8230; but Google has enabled millions of people to be able to earn a living (or extra part-time cash) from their Adsense program.</p>
+
+<p>I don&#8217;t care how they get it done (free laundry, free food, bouncy balls, etc for their workers) - but I hope their stock shoots to $1000 and beyond, and the Adsense payouts keep rolling.&#8221;</p>
+
+<p>So it is OK to disable accounts and keep the money of legitimate sites that have had malicious ad clicks just to cause these problems? Google could easily disable the ISP on these clicks.</p>
+
+<p>So it is OK when Google’s content Adwords display has almost 0 conversions as compared to the same ads on Adwords search? I hope not.</p>
+
+<p>It is OK when an ad for Shell Wind Chimes appears on a personal blog with very little relevancy other than the word &#8220;wind&#8221; and &#8220;shell&#8221; thus forcing the reader to look elsewhere and click on these ads vs. a quality content site where the visitor is much less likely to click an ad? I do not think so; this is corporate corruption at its highest level.</p>
+
+<p>If Google really wanted to do something about Adsense fraud they would. Google has the technology to disable ip addresses of suspicious clicks and should even disable the ip address of the business displaying Adsense and probably a certain geographic area around this business to prevent friends from &#8220;trying to help&#8221; but they do not.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://american-aquarium.blogspot.com/">Carl Strohmeyer</a>
+ on January 10, 2007 <a href="#c171" rel="bookmark">#</a></p>
+</div>
+<div id="c172">
+<p>Haha. You&#8217;re kind of an idiot, Aaron. No, really. Or you&#8217;re just a jealous prick &#8212; don&#8217;t worry; I&#8217;m sure  you can get a job at Google if you try hard enough.</p>
+
+<p>Anywho, what&#8217;s wrong with making your employees happy? I don&#8217;t see anything wrong with bouncy balls and bright colors. If that&#8217;s what makes most of the workers at Google happy, the so be it; it&#8217;s not like Google isn&#8217;t coming out with awesome things everyday.</p>
+
+<p>Man, you&#8217;re quite a dork. Go out and enjoy the sunshine and smile a little &#8212; trust me, it&#8217;s not painful.</p>
+
+<p>Now and then,
+the Gibbler</p>
+
+<p class="posted">posted by the Gibbler
+ on January 13, 2007 <a href="#c172" rel="bookmark">#</a></p>
+</div>
+<div id="c173">
+<p>I did an internship at Google and it was a very strange experience. When I finished, I didn&#8217;t miss anything. Not the people, not the environment, not the work itself&#8230; I left with the feeling that it had been too much trouble (months of interviews and ass licking) for so little satisfaction. The only benefit I can find for working at Google is the reputation you obtain, because of the image it projects.</p>
+
+<p>I suppose one of the issues is that you need a certain mindset to fit into their &#8220;culture&#8221;. To me, Google looked too often like a cult of self-indulgent people that had been abused so much to get the job that lost all type of self-respect afterwards. To see people with PhD from top-rank universities working as code monkeys 12h per day, or MBAs doing payroll&#8230; I don&#8217;t know, I never got to understand it.</p>
+
+<p>Another interesting fact that people from the outside don&#8217;t realize is that, internally, many departments in Google are bordering disaster. Travel takes months to pay trip expenses. Payroll make constant mistakes. Security was taking two months to issue a badge. HR &#8216;lost&#8217; my documents several times and took months (literally) to issue an invalid contract (start date set on a Sunday).</p>
+
+<p class="posted">posted by Mirrio
+ on January 15, 2007 <a href="#c173" rel="bookmark">#</a></p>
+</div>
+<div id="c174">
+<p>If there&#8217;s any truth to Mirrio&#8217;s last post, the SEC will want to hear
+about it.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://gregbo.livejournal.com/">CPCcurmudgeon</a>
+ on January 16, 2007 <a href="#c174" rel="bookmark">#</a></p>
+</div>
+<div id="c175">
+<p>Google hiring the very best, one day they&#8217;ll wake up on the reality..this is a good article on this context</p>
+
+<p>THE TALENT MYTH
+by MALCOLM GLADWELL
+Are smart people overrated?
+http://www.newyorker.com/printables/fact/020722fa_fact?fact/020722fa_fact</p>
+
+<p class="posted">posted by anonymous
+ on January 23, 2007 <a href="#c175" rel="bookmark">#</a></p>
+</div>
+<div id="c176">
+<p>Company culture aside, I&#8217;d be more concerned with Google&#8217;s long term strategy.  They are dominant in the text search market, have moved into the video market, and are making a ton of cash on ad revenue - but can the company truely realize its vision of organizing (and more importantly, capitalizing on) the &#8220;world&#8217;s information&#8221;?  If so, this company could truely change the world in a way MicroSoft only dreams of.  If not, how long until search becomes a basic commodity?</p>
+
+<p class="posted">posted by 
+ on January 24, 2007 <a href="#c176" rel="bookmark">#</a></p>
+</div>
+<div id="c181">
+<p>I used to work at what I suppose you would call a &#8220;respectable, mature establishment&#8221; next door to Google Mountain View, and as a female in the sausage fest of the southbay I got to go visit over there (as if I didn&#8217;t already go walk the campus on my lunch breaks).  Our abstract brick establishment was the epitome of class with the palm trees, water fountains, and priceless 25-foot Chihulhy piece in the lobby&#8212;it was miserable.  Just because a place looks respectable, has a decent product, or has staff movie night every other month doesn&#8217;t make it a rewarding place to work.</p>
+
+<p>They didn&#8217;t shuttle us in, did not provide food, fun, benefits, massage, etc.  They didn&#8217;t have to, none of those things are required or necessary.  But damn if every day that I had to squeal in there at 7:30 AM (late because unlike the shuttle I couldn&#8217;t use the carpool lane&#8230;) I didn&#8217;t envy even the badge-checkers on every driveway at Google because they were greeted with smiles, given freebies, and treated with respect.  I quit that job and if I can I will go be a secretary for Google because I want to be able to say &#8220;I am happy at work,&#8221; as childish as it is.</p>
+
+<p class="posted">posted by 
+ on February 26, 2007 <a href="#c181" rel="bookmark">#</a></p>
+</div>
+<div id="c183">
+<p>&#8220;And finally she gave me&#8230;&#8221;
+So, you didn&#8217;t come up with this?
+Someone else had to explain it to you?
+Now, that&#8217;s funny.
+Tell me something I don&#8217;t know.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.cesarvega.com">Cesar</a>
+ on March  5, 2007 <a href="#c183" rel="bookmark">#</a></p>
+</div>
+<div id="c186">
+<p>I usually refrain from commenting in these posts, but since particular post is worth noting.</p>
+
+<p>My philosophy happens to be, do whatever you want, however you want, whenever you want, as long as it gets results.</p>
+
+<p>That sounds like a pretty childish statement to me. In fact it sounds downright infantile.</p>
+
+<p>And I&#8217;ve never even thought for a moment about clicking any online banner, let alone adsense</p>
+
+<p>Hate to break the news, but (shh, banner ads run on a CPM network, they make money even if you don&#8217;t click.)</p>
+
+<p>A true infant pokes fun at others to gain attention.</p>
+
+<p class="posted">posted by gmoney
+ on March 12, 2007 <a href="#c186" rel="bookmark">#</a></p>
+</div>
+<div id="c187">
+<p>Oh man! I would really love to work for Google! They are one of the huge corporate company that still has that core quality that I adore. :)</p>
+
+<p>I sure hope I could work for them. :)</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.mcbilly.com">McBilly</a>
+ on June 11, 2007 <a href="#c187" rel="bookmark">#</a></p>
+</div>
+<div id="c188">
+<p>I don&#8217;t understand who we are to criticise the way a  company takes care of its employees or bussiness, if you just don&#8217;t like it &#8230; well&#8230; go and look for another one who might be they way you like and apply for it.</p>
+
+<p class="posted">posted by Gabriel
+ on June 20, 2007 <a href="#c188" rel="bookmark">#</a></p>
+</div>
+<div id="c190">
+<p>Hey, you make it sound as if no body actually want to work at Google and that they are affraid to leave the great big PLEX!</p>
+
+<p class="posted">posted by Da Man
+ on June 23, 2007 <a href="#c190" rel="bookmark">#</a></p>
+</div>
+<div id="c196">
+<p>I believe you&#8217;re also wrong on the assumption about the typical age of Googlers.  Until recently most hires had to have a few years of experience, so there is a gap in your thinking that they want to perpetuate the &#8220;college life.&#8221;</p>
+
+<p class="posted">posted by Anon Dude
+ on February  9, 2008 <a href="#c196" rel="bookmark">#</a></p>
+</div>
+<div id="c197">
+<p>What is the problem of a company to make money? Has google ever bragged about being an organization that doesn&#8217;t need to pay its employees? In order to pay their employees, they need to make money. It seems like a &#8216;love-hatred/maybe jealous&#8217; feeling about the company?</p>
+
+<p>Yes, we all know that the management wants to create the &#8216;faithfull employees&#8217; or sometimes the ass kisser so they know their business is well taken care of or at least _ depending on the manager - like those who know nothing about their business, they would let their supervisors or employees do any sort of action so they aren&#8217;t bothered or even let alone. But talking about Google, it seems to offer more than most blood sucker/pennysaver companyes so,,, COME ON!!! Put yourself in their places!</p>
+
+<p>Had you developed your own business, wouldn&#8217;t ou be willing to have faithfull staff too? Probably too&#8230;</p>
+
+<p>If they are trying to make their employees happy, what&#8217;s wrong with that? Why are they being pointed the &#8216;spear&#8217; when there are so many &#8216;Enron type&#8217; companies trying to mess  up with the employees lives? If some positive comments need to be addressed to Google, do so in a positive manner.</p>
+
+<p class="posted">posted by Barb
+ on February 20, 2008 <a href="#c197" rel="bookmark">#</a></p>
+</div>
+<div id="c199">
+<p>From reading your article, it sounds like the perfect place for you to work at is somewhere who doesn&#8217;t give you any perks whatsoever, forces you into a dark cube, doesn&#8217;t feed you, or help out with your transportation to work. Seriously, you need to lighten up.</p>
+
+<p>Google does all these things to keep their employees happy, and it doesn&#8217;t even need to offer all the great things it does, such as free food, shuttles, gym, laundry, and so forth. Employees are some of the brightest individuals in the world. I don&#8217;t see what&#8217;s wrong with that. Your reasoning that it keeps them infantile is just bogus and sounds more like a remark from a bitter applicant who has been rejected by Fortune&#8217;s top best place to work.</p>
+
+<p class="posted">posted by 
+ on March 27, 2008 <a href="#c199" rel="bookmark">#</a></p>
+</div>
+<div id="c200">
+<p>Call me conservative but I don&#8217;t like the Google &#8220;Campus Environment&#8221; at all - I think it would be annoying.</p>
+
+<p>I wouldn&#8217;t like to be subjected to Google&#8217;s &#8220;spend as much time as possible at your office and produce code for us in return we will treat you like a child&#8221; culture.  Employers should be encouraging their employees to spend time outside of work with their friends and family as these are far more important.</p>
+
+<p>I also note that when speaking to people who work for Google, if you wear a suit, because they know you are not one of them you are spoken down to - I wonder how immature and arrogant the community inside Google is with all those PhDs and so forth.</p>
+
+<p>FYI Googlers, just because one does not spend every hour of his or her life slaving away for their employer - it does not make them any less of a person.  There is also much to see in life outside the Internet, despite what Google may have you believe.</p>
+
+<p class="posted">posted by Geoffrey
+ on May 17, 2008 <a href="#c200" rel="bookmark">#</a></p>
+</div>
+<div id="c201">
+<p>I think that many of the criticisms that have been directed at Google in this article and many of its comments lack any meaningful substance. I would love to work in an environment where fun is not regarded as a sin and where food and recreational and other facilities are provided to employees. If only more companies were like that. I have worked in corporate &#8220;suited&#8221; environments where technical people have been regarded with contempt by sales and marketing people. It strikes me that this does not apply to Google.</p>
+
+<p>Regarding the alleged weaknesses of GFS, I should like someone to name ONE type of file system which is totally free of problems, whether these are related to performance or reliability. I think that a file system which consists of such large blocks is amazing, and to have enough disk capacity to be able to use it to such effect is incredible.</p>
+
+<p>(In order to pre-empt the usual abusive ad hominem remarks that are likely to be attracted by a comment such as mine, let me point out that I am old enough to be someone&#8217;s grandfather and I have  been doing UNIX and Linux and related troubleshooting and support and administration, etc., for more than two decades.)</p>
+
+<p>Google seems to me to be a company which respects its employees, and catering to young people&#8217;s sense of fun does not mean infantilisation.</p>
+
+<p class="posted">posted by Duncan Anderson
+ on May 25, 2008 <a href="#c201" rel="bookmark">#</a></p>
+</div>
+<div id="c202">
+<p>I have never been rejected by Google; never have worked there either, and no, as tempting as it sounds, I do not think I would.
+But I had the &#8220;pleasure&#8221; to deal with some middle managers on a partnership, and I can tell you, their arrogance is simply unbelievable. On the surface, they appear to be a happy/friendly bunch of people. Their offices have Lava lamps, and free lunch. You see smiles galore. But once you start to DEAL with these people you realize how sinister they are. Creepy.
+Can&#8217;t go into details for obvious reasons, but the experience was very very unpleasant. &#8220;Do no evil&#8221;? That&#8217;s just utter B.S.</p>
+
+<p class="posted">posted by Anon
+ on June 24, 2008 <a href="#c202" rel="bookmark">#</a></p>
+</div>
+<div id="c203">
+<p>Jealous, much? Google&#8217;s employees are the masterminds of our generation. In my opinion, they deserve the special treatment. I think other companies should follow Google&#8217;s example and make some serious changes in how they treat the backbone of their organizations. I&#8217;m sure you wouldn&#8217;t complain if you were smart and determined enough to, I don&#8217;t know, actually work there instead of sitting at home stewing.</p>
+
+<p class="posted">posted by Trish Parisy
+ on September 24, 2008 <a href="#c203" rel="bookmark">#</a></p>
+</div>
+<div id="c216">
+<p>Totally agree with you Aaron.  I work as a contractor at Google and it is offensive and discriminating to have the red badge.  It&#8217;s like telling the world: look, I don&#8217;t earn like you and have a short life here.</p>
+
+<p>And I agree on the infantile working environment.  It&#8217;s like a big kindergarten and I challenge you to find me someone with a bit of brain who genuinely likes the job he does at Google.  It&#8217;s a massive call centre.</p>
+
+<p class="posted">posted by Martin
+ on March 23, 2012 <a href="#c216" rel="bookmark">#</a></p>
+</div>
+<div id="c217">
+<p>You said something about the cynisism of &#8216;hot-shot programmers&#8217;. Your entire article is very cynical. Have you ever worked at Google? You say you have &#8216;visited&#8217;, but don&#8217;t think that just because you have done as such qualifies you to criticize it. Personally, I love dinosaurs and I love ball pits. Perhaps if you didn&#8217;t have such a big stick up your butt and maybe had a little fun once in a while, you could see that Google is trying to make life more interesting for the people it has employed. I saw this article and I gave you the benifit of the doubt. However, your claims have little to no substantiation and you have failed to completely back up any of your claims. Perhaps an interview with a google employee would have been better. Otherwise, you disgust me with your own &#8216;infantilizing&#8217;.</p>
+
+<p class="posted">posted by Marie
+ on April  8, 2012 <a href="#c217" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="googlife" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

@@ -1,0 +1,22 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+  <title>Slithy Reboot Log</title>
+  <link rel="stylesheet" type="text/css" href="../style.css" />
+</head>
+<body>
+<div id="head">
+  <h1>Slithy Reboot Log</h1>
+</div>
+<div class="content">
+<p>Keeping track of the uptime for my Mac:</p>
+<pre>
+2002-03-30T10:43PM CST (counting backwards from uptime)
+2002-04-20T02:20PM CST (put some stupid things in the Fonts folder)
+2002-04-24 (hooked up to external monitor. when disconnected, brightness stopped working)
+</pre>
+</div>
+<div class="footer">
+  <address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+<a href="http://validator.w3.org/check/referer">Valid HTML</a>
+</div></body>
+</html>

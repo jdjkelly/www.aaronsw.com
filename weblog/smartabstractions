@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>The Genius is in the Details (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>The Genius is in the Details</h1>
+
+<p>As best as we can tell, the human brain works by mastering a specific thing and then &#8220;giving it a name&#8221;, wrapping the whole thing up into a bundle and pushing it down a level, so that things can then be built with it as a component. You see this all over the place &#8212; it&#8217;s how science works, it&#8217;s how you program, it&#8217;s even how people deal with their friends (&#8220;let&#8217;s do the mall again&#8221;).</p>
+
+<p>So it would seem natural to think that smart people would work on a very high level, dealing not in details but in huge abstractions. They would have turned everything into a component, no longer worrying about its details, and built things out of the results.</p>
+
+<p>Bizarrely, this seems entirely untrue. The smartest people I know disdain abstractions, preferring to speak in concrete specifics. Take Paul Buchheit, the genius behind Gmail. When he talks about building web applications, he doesn&#8217;t think about high-level things like the underlying semantic structure of the data &#8212; instead he talks about the little &#8220;heads&#8221; that read data off of the hard disk and how fast they can move.</p>
+
+<p>Another friend, also incredibly bright, doesn&#8217;t refer to other people that way. He doesn&#8217;t say &#8220;oh, he&#8217;s an expert in X&#8221; or &#8220;he&#8217;s really smart about X&#8221;; instead he says &#8220;he&#8217;s thought a lot about X&#8221; &#8212; breaking down the abstractions of expertise and intelligence into something much more concrete: spending time thinking about something.</p>
+
+<p>At first glance these seem like mistakes. Why should a brilliant web app programmer be thinking about hard disk heads? Isn&#8217;t that something someone else should take care of? And why is my smart friend only concerned with how much time someone has spent on something? Aren&#8217;t there other factors involved?</p>
+
+<p>But if you look the other direction, you see the same pattern. Clueless business guys love speaking in big abstractions, talking about &#8220;information superhighways&#8221; that act as &#8220;more efficient content delivery systems&#8221; that will &#8220;monetize the genre&#8221; by &#8220;disintermediating the legacy players&#8221;. These guys are speaking exactly as you would expect smart people to &#8212; thinking at a high level, working with the big ideas &#8212; yet the things they say are so incredibly stupid that they either don&#8217;t mean anything or mean something that&#8217;s actually impossible.</p>
+
+<p>So what&#8217;s going on here? As we noted at the beginning, the brain works by mastering the details and <em>then</em> giving them a name. But the business guys took the easy way out: they just mastered the names. If you asked them exactly how a content delivery system worked, they wouldn&#8217;t be able to tell you. They know only the high-level thing, with none of the details.</p>
+
+<p>And it&#8217;s the details that make it so interesting &#8212; and so powerful. Anyone can master the names of big concepts and combine them like so many puzzle pieces; it&#8217;s knowing how they work that takes time. And the smart people have made that investment. So perhaps it&#8217;s just natural that they want to stay it a little closer to it than most.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">December  4, 2006</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>Exactly!  Well said.  My most common question in meetings is &#8220;What, exactly, does [term] actually mean?  Can you <em>show</em> it to me?&#8221;</p>
+
+<p class="posted">posted by antonio
+ on December  4, 2006 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>&#8220;They know only the high-level thing, with none of the details. And it&#8217;s the details that make it so interesting &#8212; and so powerful.&#8221;</p>
+
+<p>That&#8217;s actually pretty insightful. I&#8217;d thought of this before but never encapsulated that distinction the way you have. Give it a name and it&#8217;ll be more useful :)</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://mccarthy.vg/">Jamie McCarthy</a>
+ on December  4, 2006 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>I fully agree, and this leads me to a question. We already have many people in school well into their 30s, thinking a lot about these layers, building and connecting their understanding from the ground up. And I expect that we won&#8217;t have fewer abstraction layers in the future; we will have more. What happens when one cannot learn in a single lifetime all of the layers needed to develop, much less answer, the future&#8217;s important questions? Will specialization doom the most important kinds of understanding?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.tashian.com/carl">Carl Tashian</a>
+ on December  4, 2006 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>System administrators tend to focus on the integration of many high-level pieces of software without paying much attention to the underlying implementation details. Does that make them any less smart?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://basilcrow.com/">Basil Crow</a>
+ on December  5, 2006 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>My personal view is that one should never use an abstraction until ones understand how an abstraction works.  Once you know how it works, however, feel free to abstract away.</p>
+
+<p>Using an abstraction without knowing what it is you&#8217;re abstracting makes about as much sense to me as using a word without knowing what it means, without having a luciferous logolepsy.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://dominik.net/">Dominik Rabiej</a>
+ on December  5, 2006 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c6">
+<p>You&#8217;re on to something here but perhaps shouldn&#8217;t read too much into the anecdotes.</p>
+
+<p>It&#8217;s not true that mastery of details always precedes names. Lots of things are given working titles before they are well-defined or observed. That&#8217;s why so many things have odd/misleading names. For example, &#8220;imaginary number&#8221;, &#8220;subatomic particle&#8221;, &#8220;positron&#8221;, &#8220;Planet X&#8221;, or even &#8220;computer science&#8221;.</p>
+
+<p>But smart folk do seem to be able to explain Big Ideas with concrete analogies. Finding the least &amp; most robust analogy to work with is a large part of problem solving.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://dowser.berate.org">Aristus</a>
+ on December  5, 2006 <a href="#c6" rel="bookmark">#</a></p>
+</div>
+<div id="c7">
+<p>That&#8217;s brilliant.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://herdrick.blogspot.com">Ethan Herdrick</a>
+ on December  6, 2006 <a href="#c7" rel="bookmark">#</a></p>
+</div>
+<div id="c8">
+<p>It&#8217;s certainly true that many of the smartest people out there think primarily in terms of details, discrete and concrete elements, I don&#8217;t think one must conclude that there are either fewer smart people who deal primarily in abstraction or that people who deal in detail are necessarily smarter. I think the two ways of thinking suggest a difference in personality, and perhaps a different type of intelligence.</p>
+
+<p>I have a question, also, about the latter friend&#8217;s remark. One can be an &#8220;expert&#8221; in something without necessarily having spent time thinking about it. Saying that someone has thought about X suggests to me not that the person is an expert or adept, but that their understanding is deep rather than surface, considered rather than facile. Thoughtful. A capable writer may use punctuation with precision, but this does not mean she has thought about punctuation beyond having it drilled into her head at an early age.</p>
+
+<p>In a general sense, I don&#8217;t think that abstraction is the enemy of clarity or intelligence, it&#8217;s just that most people, because they deal primarily in the concrete, are more easily duped by abstraction than detail. It&#8217;s easier to lie or bulls**t with abstraction.</p>
+
+<p class="posted">posted by alex
+ on December  6, 2006 <a href="#c8" rel="bookmark">#</a></p>
+</div>
+<div id="c9">
+<p>Abstraction is a form of data compression: absolutely necessary, because human short-term memory is so small, but the critically important aspect of abstraction is the algorithm that gets you from the name back to the &#8220;uncompressed&#8221; details.</p>
+
+<p>An uncompressed bitmap is a picture, where every pixel is individually specified; bitmap graphics tend to be very, very large.  A vector graphic is a set of equations, that tell a display program how to draw a picture; vector graphics are typically very small.</p>
+
+<p>If someone were to ask, What caused the American Civil War?  I could answer, &#8220;in a word, slavery&#8221; and I would be right.  But, if you were to unpack that answer to mean that people opposed to slavery went to war to abolish it, you would be wrong.  Learning the history of the American Civil War is learning to unpack that answer in a way, which is consistent with the historical record.  The actual historical record is vastly too voluminous to comprehend, and that record is only a tiny fractional detritus of the life experiences of literally millions and millions of people.  History is coming up with a narrative analysis that can pack up that huge volume of data in a way that doesn&#8217;t do obvious violence to what a reasonable person might infer was the substance of actual experience.  When you learn history, you learn a narrative analysis that does that work of compression, that packing up.  So, if you learn the history of the American Civil War, you learn about the anxieties and aggression of the slaveholders, and the controversies occasioned by western expansion, and the dynamics of political struggle and economic development that led the slaveholders to start a war to defend slavery.</p>
+
+<p>Excellent post.</p>
+
+<p class="posted">posted by Bruce Wilder
+ on December  6, 2006 <a href="#c9" rel="bookmark">#</a></p>
+</div>
+<div id="c10">
+<p>The phrase we used to use was &#8220;keyword driven&#8221;.  Managers who didn&#8217;t have a clue as to the details would master the key words and so sound smart. The problem comes when they then start to agree to do things that the key words imply are easy, but the details say are very hard.</p>
+
+<p class="posted">posted by Steve Shervais
+ on December  7, 2006 <a href="#c10" rel="bookmark">#</a></p>
+</div>
+<div id="c11">
+<p>I don&#8217;t know that all the marketing guys are so stupid.  I used to think that way until I realized that they didn&#8217;t give a lick about technical knowledge, never did, and probably never will.  What they&#8217;re usually concerned with is selling emotionally.  Specifically conditioning a person&#8217;s hormonal response to put them in an advantageous business situation.</p>
+
+<p>I mean, blind luck can only carry you so far in any endeavor.  If it&#8217;s not some sort of skill or capacity that these people we disdain possess, then they would not be in positions of such power.</p>
+
+<p>That said, and more on point with the topic of the entry, I believe that the benefit of not using abstractions is being able to see where a problem will occur or where an advantage can be derived from that you can&#8217;t see when the abstraction strips the texture out of a problem.  Still, abstraction is absolutely, vitally necessary to solving complex problems and to making decisions.</p>
+
+<p>Though your friend may think about the throughput of his hard drive&#8217;s platter at the outside of the disk as compared to the inside, I doubt he&#8217;s considering the electromagnetic forces used to read and write each of the individual bits stored.  Nor would I think he&#8217;s considering the kinetic forces against the arm that moves the head from the inside to the outside, nor a universe of other things.</p>
+
+<p>More so, I doubt he was thinking (deeply, in any case) about the drive heads when he was making the brilliant decision to have Gmail force conversations to be displayed as threads (seriously, if you can thank him about that for me, I&#8217;d appreciate it).</p>
+
+<p>I agree with the general notion though.</p>
+
+<p class="posted">posted by Danno
+ on December 10, 2006 <a href="#c11" rel="bookmark">#</a></p>
+</div>
+<div id="c12">
+<p>It&#8217;s all about the interaction between abstract ideas and details. Being able to work on several levels of abstraction thinking about the same problem is a very useful skill to have.</p>
+
+<p>It&#8217;s easy to obscure the message by hiding it all behind meaningless abstractions but there&#8217;s a difference between thinking about the &#8220;information superhighway&#8221; (totally useless abstraction) and the write_to_file function (useful abstraction) and the individual pieces of the hardware (in most cases useless details). When you&#8217;re working on an email application, you want to be thinking primarily about inboxes and emails and not individual heads on a hard disk.</p>
+
+<p>The interaction between the abstraction and the details, the small and the big picture are almost always the most interesting. For instance, in physics, general relativity describes the mechanics of very large objects, such as stars, planets and galaxies. Quantum mechanics describes the mechanics of the very small, such as subatomic particles. Being to unify those two, the details and the larger picture is the holy grail of physics. Nobody&#8217;s been able to do it yet.</p>
+
+<p class="posted">posted by Simen
+ on December 10, 2006 <a href="#c12" rel="bookmark">#</a></p>
+</div>
+<div id="c14">
+<p>that was brilliant well sayed pure genus i think every thing out before i do it and i devise these plans so that it will work so that you will think im stupid or something and its great can do it without having any probles i will work out all the problems so that there is no longer a problem. i people teenagers kids adults except for a few people they dont face them they would rather run away away from than face it rather than with their probles they go and get drunk and get high so that they dont want to be there and they lay there and that all they their to drunk to even comprehend anything they dont know anything at all and i have so many thoughts that if you were going put all of them on a piece of paper you would fill up a big chest with all of them and you might just think that im kidding but im for real i think so much about every thing even if its just a little thing like figuring out (what i want be) thats easy compared to something like figuring out the skimatics for a building of any size and i make and it works it really works i think that the most intelligent people are the people who keep every thing to themselves. and the reason they do is simply that they know  and to explain it to a person would take well lets just say it like this a very, very long time. let me leave you with this dont undereastimate me. i will never give up ever if i break my leg even though it hurts i still going to get up and do what needs to be done. because i know</p>
+
+<p class="posted">posted by aaron widman 
+ on January  9, 2007 <a href="#c14" rel="bookmark">#</a></p>
+</div>
+<div id="c15">
+<p>See also:</p>
+
+<p>&#8220;<a href="http://www.overcomingbias.com/2007/08/guessing-the-te.html" rel="nofollow">Guessing the Teacher&#8217;s Password</a>&#8221;
+&#8220;<a href="http://www.overcomingbias.com/2007/08/the-virtue-of-n.html" rel="nofollow">The Virtue of Narrowness</a>&#8221;</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://yudkowsky.net/">Eliezer Yudkowsky</a>
+ on September 23, 2007 <a href="#c15" rel="bookmark">#</a></p>
+</div>
+<div id="c16">
+<p>Good points.  The comment about abstractions being akin to data compression was also interesting to read.</p>
+
+<p>One thing about abstractions is that they&#8217;re (by their abstract definition) not trustworthy.  The reason buzzwords are so hated is mainly because they&#8217;re used to justify wildly different things.  It&#8217;s the lack of specificity that causes engineers to shy away.</p>
+
+<p>It&#8217;s true that humans learn by &#8220;mastering a specific thing and then giving it a name&#8221;.  But smart humans also spend a lot of time seeing whether that name can be applied to other things as well (fitting the abstraction to other situations).  Really smart humans spend a lot of time swapping out bits and pieces of what makes up the abstraction (as best they can tell), trying to get an idea of how the bits interact to give the observed result.</p>
+
+<p>That&#8217;s a pretty good definition of learning ability - the ability to change focus from the abstract to detailed and back.</p>
+
+<p>I suspect that a lot of what <em>looks</em> like detail obsession by genius-level folks is in fact one of two other things: (1) Paying attention to things that aren&#8217;t actually details - just smaller abstractions.  (2) Paying attention &#8220;important&#8221; details - things that have been found (from experience) to be significant factors in other abstractions.  The kind of small things that, if they changed just a slight bit, would have huge impacts elsewhere.</p>
+
+<p>Slight tangent - Warren Buffet&#8217;s annual shareholder letters are some stellar examples of a genius working with many levels of focus.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.daltonlp.com">Lloyd Dalton</a>
+ on September 23, 2007 <a href="#c16" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="smartabstractions" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

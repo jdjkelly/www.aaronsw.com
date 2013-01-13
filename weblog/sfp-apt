@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>SFP: Home, Sweet, Home (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>SFP: Home, Sweet, Home</h1>
+
+<p>I started looking for an apartment <a href="http://www.aaronsw.com/weblog/001679">as soon as we headed out to Cambridge for an interview</a> but few things had been made available yet. Then <a href="http://www.aaronsw.com/weblog/whaaaa">the server died</a> and I was distraught for a while. By the time I started looking again, few things were available and in the past few weeks things have gotten increasingly desperate.</p>
+
+<p>We went through craigslist and made up a list of options, but each one seemed to fall apart upon investigation. Occasionally, especially as deadlines moved closer, I would stumble across an amazing deal and throw all of my hope into it, convincing myslf that we&#8217;d get it and all would work out fine. These deals repeatedly collapsed, eventually leaving me where I was this morning: at Stanford, without an apartment or a plane ticket, and getting kicked out the next morning.</p>
+
+<p>My dad, thankfully, was at MIT this week and he took some time to go down to the housing office and investigate their options. He discovered that it was possible to get an MIT dorm room and pay by the night and suggested I stay there while I figured out a more long-term place to stay.</p>
+
+<p>I was not looking forward to move out of one dorm room just to move into another, but then he found that MIT&#8217;s <a href="http://web.mit.edu/evolving/projects/simmons/">beautiful Simmons Hall</a> (aka the bubble wrap building &#8212; Sean insists &#8220;it looks like a Tetris reject&#8221;) was available to stay in. I&#8217;d always admired photos of Simmons Hall, thought of trying to find an excuse to visit, even considered going to MIT because of it (until I realized that there was little chance I&#8217;d get to stay there). And now I was getting to stay there &#8212; apparently we might even be able to stay there for the whole summer.</p>
+
+<p>So I signed up for a few nights &#8212; got an amazingly low room rate &#8212; and bought a plane ticket for tomorrow morning &#8212; also surprisingly cheap and perfect (I thought I&#8217;d have to leave out of some obscure airport and stop in some obscure hub, but it&#8217;s direct from SF!). Procrastination really worked out this time, it seems. Too bad I didn&#8217;t get this kind of peace of mind earlier; then I could have spent the week on the town! (Although I did have some fun <a href="http://vitanuova.loyalty.org/weblog/nb.cgi/view/vitanuova/2005/06/05/0">Segwaying with Seth</a> and going to dinner with some of Apple&#8217;s Safari team&#8230;)</p>
+
+<p>Now I just need to finish packing.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">June  9, 2005</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c5">
+<p>Can i translate this and insert on my site in Poland? Thanks</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.buy-photo.eu">Stock photos</a>
+ on July 12, 2007 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="sfp-apt" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

@@ -1,0 +1,207 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Wonderfalls (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/001187.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001185" title="Shorter Tom DeLay" />	<link rel="next" href="001188" title="President Bush: Why Can&#8217;t He Stop Lying?" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Wonderfalls</h1>
+</div>
+
+<div class="content">
+<p>Last week I saw the most amazing new show on TV called <em>Wonderfalls</em>. It had heart, and depth, and was absolutely hilarious. Plus, it looks <em>amazing</em>. The premise (girl in dead-end job gets talked to by higher powers) is a little weird, but the show is thoroughly enjoyable.</p>
+
+<p>It&#8217;s received the highest ratings from critics across the country. The SF Chronicle&#8217;s Tim Goodman called it the best new show all year. And everything from USA Today to TV Guide to People to the New York Times to the Globe and Mail have said wonderful things about it. (<a href="http://www.aintitcool.com/display.cgi?id=17206">More begging and reviews&#8230;</a>) </p>
+
+<p>Unfortunately, the first time out of the gate it didn&#8217;t do so well. But fortunately (for all of us) it has a second chance: </p>
+
+<p><strong>Tomorrow (Thursday) at 9/8c, Fox will be showing the first episode again.</strong> (The even better second episode follows the next day at the same time.)</p>
+
+<p>I beg you, especially if you have a Nielsen box, give this show a chance. Watch an episode tonight and tomorrow (the show can take an episode or so to grow on you) &#8212; you&#8217;ll be glad you did.</p>
+
+<p class="posted">posted March 17, 2004 07:21 PM (<a class="category" href="cat_tv">TV</a>) (<a href="#comments">6 comments</a>) <a href="001187" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001185" title="Shorter Tom DeLay">&laquo; prev</a> | <a href="./">up</a> | <a href="001188" title="President Bush: Why Can&#8217;t He Stop Lying?">next &raquo;</a></p>
+
+<p><a href="001174">Down is Up: What This Stuff Is</a><br />
+<a href="001175">Up With Facts: Finding the Truth in WikiCourt</a><br />
+<a href="001177">San Francisco Protects the Freedom to Marry</a><br />
+<a href="001179">Sue for Freedom: Saving Steamboat Roy</a><br />
+<a href="001185">Shorter Tom DeLay</a><br />
+<strong>Wonderfalls</strong><br />
+<a href="001188">President Bush: Why Can&#8217;t He Stop Lying?</a><br />
+<a href="001189">Markdown</a><br />
+<a href="001190">Shorter Richard Clarke</a><br />
+<a href="001191">Against All Enemies: The Movie</a><br />
+<a href="001193">How iTMS Works</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c718">
+
+<p>We&#8217;re not a Nielsen family, I&#8217;m afraid, but we did watch the rebroadcast and enjoyed it quite a bit, and definitely intend to watch the new episode tonight.</p>
+
+<p class="posted">posted by <a href="http://www.freeke.org/ffg">Dave Walker</a> at March 19, 2004 08:43 AM <a href="#c718">#</a></p>
+
+</div><div id="c724">
+
+<p>You and my Tivo  both wanted me to watch it, so I did and enjoyed it immensely. It&#8217;s not the most clever show, nor the funniest, but the story, characters, and performances work so well together that you can&#8217;t help but love it.</p>
+
+<p class="posted">posted by <a href="http://torrez.org/">Andre Torrez</a> at March 19, 2004 12:17 PM <a href="#c724">#</a></p>
+
+</div><div id="c775">
+
+<p>Hmmmm, I really liked the first show, the second was not as good but leaps ahead of most stuff on TV. I hope it makes it.  Maybe it was in the edit but the second episode did not seem as sharp.</p>
+
+<p>BK</p>
+
+<p class="posted">posted by Brian K at March 22, 2004 04:48 PM <a href="#c775">#</a></p>
+
+</div><div id="c798">
+
+<p>Lately, I&#8217;ve been finding myself home on Fridays watching T.V. It&#8217;s not that I&#8217;m exceptionally unsuccessful at this bachelor thang, but rather, because if I have to watch one more reality show I will go Bruce Banner on my new cathode-ray tube. All tables in my humble abode will be flipped and I don&#8217;t want to be held responsible to any damage afflicted upon society for my lapse in polite social ettiquette. These reality shows confirm my worst fears about a disassociated and uncultured society, lost ever since the cancellation of X-Files.</p>
+
+<p>But I digress. Let me get down to brass tax.</p>
+
+<p>The network show &#8220;Wonderfalls&#8221; has proven that strong writing, dynamic character development and fun compelling stories are not only found in Seinfeld reruns. Your lead actress has, as my sister put it,sass! I&#8217;m not one to argue, but my sister is younger and a little niave. The character of Jaye does not only have have sass, she has boatloads of undeniable moxie! Perfect casting. And what a great role of supporting characters. I throw my arms up in disbelief that a show like this, along with Arrested Development, can actually sustain a reoccuring spot on primetime T.V. in a culture hell bent on voyeristic programming. I hope that this is the end of reality T.V.. Wonderfalls is a shining becon to those of us who are lost in the mist of reguritated visual entertainment.</p>
+
+<p>I&#8217;ve never written in to give kudos to any T.V. program on the air before but this show deserves it. Please keep this show on air. This is a satisfied customer. No more green skin. No more frazzled nerves over Who&#8217;s Going to Marry a Convict or such. My pulse is slowing, breathing easier. Anger subsiding.</p>
+
+<p>Thanks Fox, that was a close one.</p>
+
+<p class="posted">posted by <a href="mailto:sturmell@hotmail.com">Steve</a> at March 26, 2004 02:05 AM <a href="#c798">#</a></p>
+
+</div><div id="c810">
+
+<p>i hope this show keeps going, because if it comes out on DVD i&#8217;m so gonna buy it. its one of my new favorite shows. this and tru calling, which is a steller show aswell.</p>
+
+<p class="posted">posted by <a href="http://www.livejournal.com/~discostar">Discostar</a> at March 28, 2004 09:17 AM <a href="#c810">#</a></p>
+
+</div><div id="c823">
+
+<p>I absolutely adore this show!  The character Jaye is extremely funny in a dry, sarcastic way (which is the best way!).  The casting and writing is excellent.  I must say most shows these day are mindless drivel and it drives me crazy!  But this is a wonderful show.  I also like the shows Tru Calling and Alias.  I really hope all three of these shows keep going, TV needs some good acting! ›</p>
+
+<p class="posted">posted by <a href="mailto:pwrpfgrl_bubbles@hotmail.com">Rachel</a> at March 31, 2004 08:06 PM <a href="#c823">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/001187.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/mt-comments.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1187" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /><br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

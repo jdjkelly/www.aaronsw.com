@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>The Fruits of Mass Collaboration (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>The Fruits of Mass Collaboration</h1>
+
+<p>I often think that the world needs to be a lot more organized. Lots of people write reviews of television shows, but nobody seems to collect and organize them all. Good introductory guides to subjects are essential for learning, yet I only stumble upon them by chance. The cumulative knowledge of science is one of our most valuable cultural products, yet it can only be found scattered across thousands of short articles in hundreds of different journals.</p>
+
+<p>I suspect the same thoughts occur to many of a similar cast of mind, since there&#8217;s so much effort put into discouraging them. The arbiters of respectable opinion are frequently found to mock such grand projects or point out deficiencies in them. And a friend of mine explained to me that soon out of school he nearly killed himself by trying to embark on such a grand project and now tries to prevent his friends from making the same mistake.</p>
+
+<p>One can, of course, make the reverse argument: since there is so much need for such organization projects, they must be pretty impossible. But upon closer inspection, that isn&#8217;t true. Is there a project more grand than an encyclopedia or a dictionary? Who dares to compress all human knowledge or an entire language into a single book? And yet, there&#8217;s not just one but several brands of each!</p>
+
+<p>It seems that when the audience is large enough (and just about everyone has use for encyclopedias and dictionaries), it is possible to take on grand projects. This suggests that the hold-up is not practical, but economic. The funding simply isn&#8217;t there to do the same for other things.</p>
+
+<p>But all this is only true for the era of the book, where such a project means gathering together a group of experts and having them work full-time to build a Reference Work which can be published and sold expensively to libraries. I tend to avoid net triumphalism, but the Internet, it would seem, changes that. Wikipedia was created not by dedicated experts but by random strangers and while we can complain about its deficiencies, all admit that it&#8217;s a useful service.</p>
+
+<p>The Internet is the first medium to make such projects of mass collaboration possible. Certainly numerous people send quotes to Oxford for compilation in the Oxford English Dictionary, but a full-time staff is necessary sort and edit these notes to build the actual book (not to mention all the other work that must be done). On the Internet, however, the entire job &#8212; collection, summarization, organization, and editing &#8212; can be done in spare time by mutual strangers.</p>
+
+<p>An even more striking, but less remarked-upon, example is Napster. Within only months, almost as a by-product, the world created the most complete library of music and music catalog data ever seen. The contributors to this project didn&#8217;t even realize they were doing this! They all thought they were simply grabbing music for their own personal use. Yet the outcome far surpassed anything consciously attempted.</p>
+
+<p>The Internet fundamentally changes the practicalities of large organization projects. Things that previously seemed silly and impossible, like building <a href="http://tviv.org/">a detailed guide to every television show</a> are now being done as a matter of course. It seems like we&#8217;re in for an explosion of such modern reference works, perhaps with new experiments into tools for making them.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">July 18, 2006</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>Rather than imposing an organization scheme on diverse sets of data, why not find better ways of indexing the data, and then somehow present the index to the user within the bounds of, I don&#8217;t know, maybe a <a href="http://www.google.com/" rel="nofollow">text box</a>?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://fawx.com">Erik Frey</a>
+ on July 18, 2006 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>The problem is that there&#8217;s always an economic cost, somewhere. But it&#8217;s undeniably true that some things are more viable now - as well as intriguingly cost-shifted.</p>
+
+<p>Wikipedia is fascinating, since it&#8217;s simultaneously getting people to work for free, yet has developed formidable PR defenses for the lack of quality control, all the while being a rich guy&#8217;s toy which is turning into a loss-leader for a venture-capital backed business. That&#8217;s pretty amazing, though perhaps not quite in the way you might think.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://sethf.com/">Seth Finkelstein</a>
+ on July 18, 2006 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>To quibble, not <em>all</em> would agree that wikipedia is a useful service.  For one, I imagine John Seigenthaler might disagree.</p>
+
+<p>Aside from that, good post!</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://kinrowan.net/blog/bunkum">cori</a>
+ on July 18, 2006 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>It still takes money to do it on the internet: bandwidth, servers, and quality input/time from people are not free.  Micropayments would provide the necessary funding but nobody&#8217;s gotten off their ass to do that yet.</p>
+
+<p class="posted">posted by Ajay
+ on July 19, 2006 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c42">
+<p><a href="http://josephevans.org" rel="nofollow">josephevans.org</a></p>
+
+<p class="posted">posted by Bert
+ on February  7, 2007 <a href="#c42" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="masscollab" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>The Intellectual's Creed (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>The Intellectual&#8217;s Creed</h1>
+
+<blockquote>
+  <p>[T]he ideas of economists and political philosophers, both when they are right and when they are wrong, are more powerful than is commonly understood. Indeed the world is ruled by little else. Practical men, who believe themselves to be quite exempt from any intellectual influences, are usually the slaves of some defunct economist. Madmen in authority, who hear voices in the air, are distilling their frenzy from some academic scribbler of a few years back. I am sure that the power of vested interests is vastly exaggerated compared with the gradual encroachment of ideas. Not, indeed, immediately, but after a certain interval; for in the field of economic and political philosophy there are not many who are influenced by new theories after they are twenty-five or thirty years of age, so that the ideas which civil servants and politicians and even agitators apply to current events are not likely to be the newest. But, soon or late, it is ideas, not vested interests, which are dangerous for good or evil.</p>
+</blockquote>
+
+<p>(John Maynard Keynes, <em><a href="http://www.marxists.org/reference/subject/economics/keynes/general-theory/ch24.htm">General Theory</a></em>, last page)</p>
+
+<p><em>Previously:</em> <a href="http://www.aaronsw.com/weblog/activcreed">The Activist&#8217;s Creed</a>, <a href="http://www.aaronsw.com/weblog/soccreed">The Sociologist&#8217;s Creed</a></p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">March  5, 2009</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c2">
+<p>The Intellectual&#8217;s decline:
+http://books.google.co.uk/books?id=uX-ojZEnWN4C&amp;dq=The+Decline+of+the+Intellectual&amp;printsec=frontcover&amp;source=bl&amp;ots=OvW3a3V6Y2&amp;sig=AaOF639ytuBq2xVXkHdCPmljalE&amp;hl=en&amp;ei=3uWvSbDfOOLEjAfd3Y3PBQ&amp;sa=X&amp;oi=book_result&amp;resnum=2&amp;ct=result#PPR7,M1</p>
+
+<p class="posted">posted by Miklos Hollender
+ on March  5, 2009 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>Ken Livingston on RFK (on BBC): &#8220;The defining thing about politicians: they get a worldview in their late teens, early 20s, and they stick to it. They spend their life trying to churn reality to conform to their worldview. And here&#8217;s a politician&#8212;-part of that small minority&#8212;-who actually looks at facts and is prepared to change.&#8221;</p>
+
+<p>It&#8217;s true. If you&#8217;re staring at a professor chalking out the graphs on a harvard blackboard that show that free trade is good for all parties involved in the long run, why wouldn&#8217;t you believe it 30 years hence? And if you don&#8217;t believe him, why would you change? People&#8217;s worldviews calcify, and theories are just picked up after the fact to buttress opinions.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://firasd.org">Firas</a>
+ on March  5, 2009 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>&#8220;Madmen in authority, who hear voices in the air, are distilling their frenzy from some academic scribbler of a few years back.&#8221;</p>
+
+<p>I would say this is true, but it&#8217;s incomplete - that  academic scribbler is very likely trying to come up with a way to serve the madmen in authority, by concocting &#8220;ideas&#8221; which tell the madmen in authority they are right, just, and benevolent
+(I&#8217;m not saying anything particularly original here - e.g. Chomsky makes this point all the time).</p>
+
+<p>People tend to read the above statement that an idea is more powerful than vested interests, which is a very dubious assertion - vested interests are quite capable of creating an ecological environment where ideas which support them flourish and ideas which oppose them are marginalized.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://sethf.com/">Seth Finkelstein</a>
+ on March  5, 2009 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="intelcreed" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

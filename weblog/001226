@@ -1,0 +1,426 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>All News is Bad News (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001226.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001225" title="[REDACTED]" />	<link rel="next" href="001228" title="Big Bad Bundle Blog" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>All News is Bad News</h1>
+</div>
+
+<div class="content">
+<p>I don&#8217;t read any news. No newspapers, no newsmagazines, no cable news outlet, no news websites. What&#8217;s the point?</p>
+
+<p>Most of the news is completely useless. How does it help to know that Kobe Bryant is entering a formal plea or that the mother of the Osmond family has died? These things aren&#8217;t interesting, they aren&#8217;t important, and they aren&#8217;t useful. Reading through them everyday is like some sort of intellectual busywork. &#8220;Gee, I read a whole day&#8217;s worth of trivia. I&#8217;m so well-informed!&#8221;</p>
+
+<p>I suppose some news could be useful. For the one percent of Americans who are going to vote but haven&#8217;t made up their mind, news about the President might help them decide who to vote for. But even then, do I really need to hear the news <em>right this second</em>? So there&#8217;s a prisoner abuse scandal in Abu Ghraib. Do I really need to watch the details trickle out second-by-second? </p>
+
+<p>I&#8217;d much rather wait a couple weeks and read <a href="http://newyorker.com/fact/content/?040510fa_fact">a reflective analysis in the New Yorker</a> (<a href="http://newyorker.com/fact/content/?040517fa_fact2">part 2</a>). Or better yet, why not just wait until the election and read a nice summary of each candidate&#8217;s history then? It&#8217;ll save time, it&#8217;ll put things in context, you won&#8217;t forget important things, and you won&#8217;t have to worry about inaccuracies since corrected.</p>
+
+<p>Because the day-to-day news isn&#8217;t just useless &#8212; it&#8217;s terrible! Instead of reflective analysis of political policy proposals, they talk about minute details of events from the 70s! Instead of informative stories on our government system, they write endlessly about the trial of some random people. (Honestly, I have no idea who Kobe Bryant is, so why should I care about his trial?) </p>
+
+<p>Most news journalists are outrageously lazy glorified scribes. I imagine they sit at their desks waiting for a press release to come. They type up a summary while they wait for the counter-press release to arrive, and then they type up that. They file the result and move on to the next story. No context, no analysis, no fact-checking. No thought required! Just add style!</p>
+
+<p>So why do we have the news at all? Perhaps it&#8217;s some sort of placebo. It lets everyone feel good and well-informed while actually providing them with nothing. Their vague curiosity slated, they can go back to whatever they were doing, no longer a threat to the status quo. </p>
+
+<p>That also explains the hand-wringing whenever an actual source of news represents a threat. Kids are getting their news from Jon Stewart? Can&#8217;t have that, he actually points out how stupid the politicians are! Grown ups are getting the news from partisan political websites? Uh oh, those whon&#8217;t &#8220;challenge their beliefs&#8221; (read: replace any desire for change with confusion and cynicism), they might actually get people motivated!</p>
+
+<p>So spread the word: reading the news isn&#8217;t just boring, it&#8217;s bad for you.</p>
+
+<p class="posted">posted May 10, 2004 10:46 AM (<a class="category" href="cat_politics">Politics</a>) (<a href="#comments">29 comments</a>) <a href="001226" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001225" title="[REDACTED]">&laquo; prev</a> | <a href="./">up</a> | <a href="001228" title="Big Bad Bundle Blog">next &raquo;</a></p>
+
+<p><a href="001218">Presidential Candidate Bob Williams, part 5: The Verdict of History</a><br />
+<a href="001222">Physics&#8217;s Puzzle</a><br />
+<a href="001223">Where&#8217;s Okrent? The End of the Times</a><br />
+<a href="001224">Misreading Jefferson is Sinful and Tyrannical</a><br />
+<a href="001225">[REDACTED]</a><br />
+<strong>All News is Bad News</strong><br />
+<a href="001228">Big Bad Bundle Blog</a><br />
+<a href="001229">I Hate Books</a><br />
+<a href="001230">Completely Outrageous</a><br />
+<a href="001234">Brown and Goodridge</a><br />
+<a href="001244">Conservative Losers</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1021">
+
+<p>I like the Economist.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://franklinmint.fm" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=1021">Robert Sayre</a> at May 10, 2004 11:06 AM <a href="#c1021">#</a></p>
+
+</div><div id="c1022">
+
+<p>Scott Adams&#8217; prediction #50 (from &#8220;The Dilbert Future&#8221;, pages 199-203, &#8220;News In The Future&#8221;):</p>
+
+<p>„In the future, more people will actively ignore the news because it is irrelevant.“</p>
+
+<p>I agree with you as well as one could seriously agree with Mr Adams. What&#8217;s next?</p>
+
+<p class="posted">posted by <a target="_blank" title="http://benburner.spymac.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=1022">Ben Burner</a> at May 10, 2004 11:23 AM <a href="#c1022">#</a></p>
+
+</div><div id="c1023">
+
+<p>people just like drama, um&#8230; i mean news</p>
+
+<p class="posted">posted by <a target="_blank" title="http://richard.caetano.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=1023">Richard Caetano</a> at May 10, 2004 12:44 PM <a href="#c1023">#</a></p>
+
+</div><div id="c1024">
+
+<p>The drama is so much more interesting when you have the whole story (e.g. reading it in the New Yorker after it&#8217;s all played out).</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=1024">Aaron Swartz</a> at May 10, 2004 12:50 PM <a href="#c1024">#</a></p>
+
+</div><div id="c1025">
+
+<p>99% of the people out there love to spectate but news is good for the other 1% who believe in doing something to change the world. Reading a synopsis after everything is done is great but it doesn&#8217;t give you the chance to be involved, especially when talking about local &#8220;news.&#8221;</p>
+
+<p>An example is the &#8220;news&#8221; about the shuttle columbia tragedy. The local news was helpful because it let people know that the debris was a) property of the government who should be called and b) some was dangerous of handled.</p>
+
+<p>I work at a newspaper and while I do not write or participate in the editorial side of things, I can tell you that the people in the newsroom pride themselves in keeping people informed about things that may matter to them. The things you speak of are more &#8220;global&#8221; news as opposed to local.</p>
+
+<p>News is news but there is a lot of valuable news out there. One thing confuses me though, in the beginning you say you don&#8217;t read news but go on later to say you&#8217;d prefer to read an op-ed piece in the New Yorker which is &#8220;news&#8221; as well.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.twentybelow.com/blog" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=1025">Ed Saipetch</a> at May 10, 2004 12:59 PM <a href="#c1025">#</a></p>
+
+</div><div id="c1026">
+
+<p>I guess I should define news more clearly. At the beginning it was &#8220;newspapers, newsmagazines, cable news outlet, news websites [I meant news.google.com, cnn.com, etc.]&#8221;. </p>
+
+<p>I don&#8217;t consider the Columbia thing news, but a public service announcement.</p>
+
+<p>I don&#8217;t consider the New Yorker news or op-ed. (I guess Talk of the Town sometimes has op-eds of sorts.) Instead Seymour Hersch does actual <em>reporting</em>. </p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=1026">Aaron Swartz</a> at May 10, 2004 01:14 PM <a href="#c1026">#</a></p>
+
+</div><div id="c1027">
+
+<p>Hey Aaron &#8212;</p>
+
+<p>didn&#8217;t realise you had comments again.  good!</p>
+
+<p>I still consider the New Yorker&#8217;s output as &#8220;news&#8221;, if you ask me.  However, I do get your distinction between &#8220;regurgitating the wires/white house press corps/press releases&#8221; and &#8220;reporting&#8221;; although I think what you mean by that is more investigative journalism, than anything else.</p>
+
+<p>My favourite sources: the New Yorker, the Guardian, the Observer, and Salon.  All of those share one thing &#8212; decent investigative journalists, like Hersh and Greg Palast in the Guardian, who go out and actively <em>seek</em> interesting new information.</p>
+
+<p>(Plus, I like the Guardian because it&#8217;s got a strong left-wing slant, like me. ;)</p>
+
+<p>PS: agreed with your recent posting that the NYT is a lousy source of info these days; &#8220;the paper of record&#8221; stopped being a useful news source for me when it printed all that INC propaganda via Judith Miller last year.  But you should check out the LA Times or the Orange County Register for some seriously self-congratulatory navel-gazing, &#8220;Decline and Fall of the Southern Californian Empire&#8221;-style.  now those are some seriously crappy papers ;)</p>
+
+<p class="posted">posted by <a target="_blank" title="http://taint.org/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=1027">Justin Mason</a> at May 10, 2004 01:55 PM <a href="#c1027">#</a></p>
+
+</div><div id="c1028">
+
+<p>Modern so-called &#8220;news&#8221; is deeply bad for you.  It incites your emotions &#8212; anger, resentment, frustration, lust &#8212; because that&#8217;s what sells.  It makes you think in terms of &#8220;us vs. them&#8221;.  It makes you angry at &#8220;them&#8221; for being so stupid.  This is true regardless of which political party, religion or other group you identify with.</p>
+
+<p>It is very, very bad for you.  It makes you dumb, because when your emotions are inflamed and you are in defensive &#8220;us vs. them&#8221; mode, you don&#8217;t think clearly.</p>
+
+<p>I&#8217;m extremely glad to hear that you don&#8217;t consume &#8220;news&#8221;.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://zooko.com/log.html" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=1028">Zooko</a> at May 10, 2004 02:08 PM <a href="#c1028">#</a></p>
+
+</div><div id="c1029">
+
+<p>Why not produce, rather than consume?</p>
+
+<p>I, too, like the Economist. Well, I read it. I read a lot of stuff I don&#8217;t necessarily agree with. Especially weblogs. Most are trash, a few are entertaining trash, and some are just plain entertaining.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.robertbrook.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=1029">Robert Brook</a> at May 10, 2004 02:14 PM <a href="#c1029">#</a></p>
+
+</div><div id="c1030">
+
+<p>Quite possibly the best post ever entered into a blog.</p>
+
+<p class="posted">posted by William Hamby at May 10, 2004 02:53 PM <a href="#c1030">#</a></p>
+
+</div><div id="c1031">
+
+<blockquote>
+  <p>Most news journalists are outrageously lazy glorified 
+  scribes. I imagine they sit at their desks waiting for a 
+  press release to come. They type up a summary while 
+  they wait for the counter-press release to arrive, and then > they type up that. They file the result and move on to the > next story. No context, no analysis, no fact-checking. No > thought required! Just add style!</p>
+</blockquote>
+
+<p>Correct, and I work for a newspaper – I see that done every day except &#8216;type&#8217; is actually cut-and-paste. Worse still is take-press-release, add-popular-prejudice or just-make-it-all-up and falsely attribute quotations. All popular methods.</p>
+
+<p class="posted">posted by J  at May 10, 2004 03:23 PM <a href="#c1031">#</a></p>
+
+</div><div id="c1034">
+
+<p>The figure has been thrown around alot, but here goes again. While the average rate of crime has gone down every year, the ammount of coverage it gets in the news has sky-rocketed. The worst part of this is that it creates a state of fear and distrust among all the people.  Michael Shermer has a few books that go over this problem, and Michael Moore also covers this problem in one of his movies. But I agree, I&#8217;m sick of watching worthless news.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://inflatus.net" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=1034">Matt</a> at May 10, 2004 06:20 PM <a href="#c1034">#</a></p>
+
+</div><div id="c1035">
+
+<p>&#34;Their vague curiosity slated,&#34; is a combination of &#8220;slaked&#8221; and &#8220;sated&#8221; perhaps?</p>
+
+<p class="posted">posted by  at May 10, 2004 06:23 PM <a href="#c1035">#</a></p>
+
+</div><div id="c1036">
+
+<p>Yep. Yer right. Can&#8217;t see any point is reading Aaron Swartz&#8217; weblog either.</p>
+
+<p>In fact the only person who ought to read it is Aaron. All he needs is the &#8220;Daily Me&#8221;. He doesn&#8217;t believe in serendipity &#8212;that the editor might offer something unexpected.</p>
+
+<p>In fact, communicating with other people is pointless. So for that matter is civilization or community.</p>
+
+<p>I think this column presents a compelling combination of hubris and lack of humility. Or is he demonstrating trollery?</p>
+
+<p>Yeah. I read the Economist, too&#8230; and our local newspaper. Of course, I read it because I publish it.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://blogs.rny.com/sbw/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=1036">sbw</a> at May 10, 2004 08:30 PM <a href="#c1036">#</a></p>
+
+</div><div id="c1037">
+
+<p>local news (what&#8217;s going on in the community) is actually quite useful, especially since it&#8217;s important to get involved.
+some newspapers are quite useful.</p>
+
+<p>although i agree, the 10:00 news on fox or abc discussing the latest whatever-has-happened is generally not so useful.</p>
+
+<p class="posted">posted by soho at May 10, 2004 10:14 PM <a href="#c1037">#</a></p>
+
+</div><div id="c1038">
+
+<p>Okaay. Now that I&#8217;m over my snit about your lack of well formulated questions, Here&#8217;s what I wrote in 1990 about newsrooms in 2010:</p>
+
+<p>&#8220;Local newspapers would have died had it not been for the emergence of the copyrighted filter. A computer-programmed filter extracts selected text and graphics from the information stream based upon subject, author, keyword, source, destination, date, or other blend of characteristics. The automated filter is necessary because more information than can be easily assimilated by the reader is shoveled down the fiber-optic cables and the satellite sideband feeds attached to the home communications computer system. Prior to the filter, people would dip into the rushing torrents of information with limited means to winnow it down or extract it efficiently.</p>
+
+<p>&#8220;People subscribe to a filter they trust. I may prefer the British magazine, the Economist&#8217;s filter over the Time or Newsweek filter because of their point of view or because I trust their judgment. I subscribe to the Associated Press filter and the local newspaper filter. Changing keywords modifies the basic filter to reflect personal preferences.</p>
+
+<p>&#8220;The newspaper still uses editors. As a human filter they provide a good defense against the possibility a brittle, automated filter could insulate a subscriber from too much.</p>
+
+<p>&#8220;A personally-tailored newspaper is filtered out of the information streams, composed, indexed and then displayed on the flexible, portable computerpage screens beside the morning coffee, the evening martini, or the toilet. The remainder of the torrent of information is still available for detailed examination, and need only be requested over the cable backchannel. &#8230;&#8221;</p>
+
+<p>It goes on:
+http://blogs.rny.com/sbw/stories/storyReader$38</p>
+
+<p class="posted">posted by <a target="_blank" title="http://blogs.rny.com/sbw/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=1038">sbw</a> at May 10, 2004 10:26 PM <a href="#c1038">#</a></p>
+
+</div><div id="c1039">
+
+<p>Sounds like you&#8217;re ready for Stanford&#8212;keep seeking the &#8220;important&#8221; over the &#8220;urgent&#8221; and you&#8217;ll be able to make the most of your time there.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://ryskamp.org" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=1039">Bob</a> at May 11, 2004 01:45 AM <a href="#c1039">#</a></p>
+
+</div><div id="c1040">
+
+<p>&#8220;I have no idea who Kobe Bryant is&#8221;</p>
+
+<p>He&#8217;s a really, really good basketball player. Life is not a mechanical aggregation of redacted and distilled &#8220;facts&#8221; in order of importance to you. Some stories are messy, unscripted, a little ugly, wholly embarassing, etc. There are lots of lessons in the Kobe saga: moral, legal, racist, sexual, and so on. The unfolding of the story through news bits is part of the experience of living with it and learning from it. You scan it, consider it for what it&#8217;s worth: some days 20 seconds, others a minute or two. We know one person who apparently doesn&#8217;t read news at all and that&#8217;s George Bush. I&#8217;ll let you decide whether that&#8217;s good or not. :-)</p>
+
+<p class="posted">posted by George Anten at May 11, 2004 02:01 AM <a href="#c1040">#</a></p>
+
+</div><div id="c1041">
+
+<p>Sturgeon&#8217;s Law says that 99% of science fiction is junk, but then 99% of <em>everything</em> is junk.  Does that mean we should then give up on science fiction?  Ditto for news.  Just because 99% is junk doesn&#8217;t mean we should give up on it; instead, we should work on improving our ability to filter it and get to the other 1% that&#8217;s worthwhile.  Part of that can be based on automatic or collaborative methods, but that makes one vulnerable to manipulation by the people who write the filters or assign the ratings.  Anybody who gets all of their news third- and fourth-hand from weblogs is an idiot, and will sooner or later become a parrot for the authors of the weblogs they read.  Just look at the blogosphere right now to see a zillion examples, both left and right.  There&#8217;s really no substitute for developing one&#8217;s own internal human-brain-based methods of filtering.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://pl.atyp.us" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=1041">Jeff Darcy</a> at May 11, 2004 08:18 AM <a href="#c1041">#</a></p>
+
+</div><div id="c1051">
+
+<p>Right on!  TV should be the next to go.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.netcrucible.com/blog" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=1051">Joshua Allen</a> at May 12, 2004 03:17 AM <a href="#c1051">#</a></p>
+
+</div><div id="c1052">
+
+<p>George, assuming there are lessons in the Kobe saga, why am I better watching them dribble out bit by bit rather than reading a magazine article about the whole thing when it&#8217;s over? Saying it&#8217;s &#8220;part of the experience of living with it&#8221; doesn&#8217;t make any sense &#8212; newspapers aren&#8217;t an integral part of the human experience, why should their drip-drip method bind me?</p>
+
+<p>Jeff, can you give a specific example of something in the 1% of news that&#8217;s worthwhile and explain why it&#8217;s worthwhile?</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=1052">Aaron Swartz</a> at May 12, 2004 11:28 AM <a href="#c1052">#</a></p>
+
+</div><div id="c1053">
+
+<p>&#8220;George, assuming there are lessons in the Kobe saga, why am I better watching them dribble out bit by bit rather than reading a magazine article about the whole thing when it&#8217;s over?&#8221;</p>
+
+<p>For the same reason that watching clips of a movie on TV is not the same as watching the whole movie + reading reviews + talking to friends + blogging on it, etc.</p>
+
+<p>&#8220;Saying it&#8217;s &#8220;part of the experience of living with it&#8221; doesn&#8217;t make any sense &#8212; newspapers aren&#8217;t an integral part of the human experience, why should their drip-drip method bind me?&#8221;</p>
+
+<p>What&#8217;s &#8220;human experience&#8221; then? Cliffs Notes? Everything ex post facto? If you were to live, say, in Afghanistan for three years with no access to American media (with occasional New Yorker recaps of events) I&#8217;m sure you&#8217;ll miss a lot of the nuances and, dare I say, the excitement of living in the U.S.</p>
+
+<p>For example, the unfolding of the Iraqi prison torture case is fascinating in the way it&#8217;s handled in the media and spun by the administration. It&#8217;s very much like watching a movie, unfolding daily. There&#8217;s value in that process, one that might not be captured by a sober analysis months later. Yes, it&#8217;s an experiential thing.</p>
+
+<p>The trick is not to search for something profound in every article you read, but read them quickly and efficiently. Filter it in your mind and feel it contextually. Move on and aggragate on your own terms. It becomes second nature.</p>
+
+<p class="posted">posted by George Anten at May 12, 2004 11:57 AM <a href="#c1053">#</a></p>
+
+</div><div id="c1073">
+
+<p>I think a great deal of your frustration can be seen through the simple fact that most American news is corporate-owned, from &#8220;the local village paper&#8221; all the way up to major newspapers and television networks. Their interests are NOT the welfare of the general public, as much as they like us to think so. </p>
+
+<p>The other half of the equation is that most American news that I&#8217;ve seen is incredibly inward-looking. I&#8217;m sure you&#8217;ve read the Onion, with its satirically accurate &#8220;navel-gazing local newspaper&#8221; style &#8212; not many people outside Wisconsin know that it&#8217;s a satire of the Wisconsin State-Journal, right down to the layout and green colour&#8230;and complete lack of any foreign news whatsoever. </p>
+
+<p>Do you look at foreign news at all? I&#8217;m not saying it&#8217;s the best, but in general (for English, anyway) the BBC is fairer and more comprehensive than any American networks ever will be. In the middle of the nightly newscast they <em>will</em> go to a 14-minute conversation with real experts to discuss and analyze the implications of a news story. And the CBC here in Canada isn&#8217;t far behind, excelling at the nightly news documentary feature.</p>
+
+<p>Perhaps it has something to do with the long anti-intellectual tradition in the US. Debate is seen as argumentative and &#8220;antisocial,&#8221; whereas in many European and Canadian schools they actually teach it at a grade and junior high level. It forces you to organize your thoughts coherently, respond to criticism without ad hominem remarks, and speak more effectively overall. I&#8217;m always stunned when I see little kids on the BBC news, because they speak more clearly and intelligently than North American teenagers&#8230;</p>
+
+<p class="posted">posted by <a target="_blank" title="http://westexpressway.typepad.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=1073">aj</a> at May 13, 2004 10:31 AM <a href="#c1073">#</a></p>
+
+</div><div id="c1074">
+
+<p>News is entertainment. When you have accepted that fact, there&#8217;s no need to be irritated. Just like you don&#8217;t get irritated with soap operas or reality shows, because they are just entertainment.</p>
+
+<p>But I see your point and I agree that it <em>is</em> irritating when news is mistaken for being <em>serious</em> instead of just plain entertainment and a way to kill some more hours of our boring lives.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://karlsplanet.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=1074">Karl</a> at May 13, 2004 11:58 AM <a href="#c1074">#</a></p>
+
+</div><div id="c2285">
+
+<p>This sounds almost like the statement from George Bush in that he no longers reads newspapers anymore.</p>
+
+<p class="posted">posted by Gary Miller at May 27, 2004 07:17 AM <a href="#c2285">#</a></p>
+
+</div><div id="c2292">
+
+<p>But you do read blogs right? Given your age and the influence that the web news has played on your opinion I can understand. The NYT has many in depth articles (print version) that do not pander to these qualities. It is all a matter of where you look for news. It is not easy. As our neighborhood has expanded so has the amount of useless trash. Kind of like walking your block and tripping over more trash than beauty. 
+I recently built a new computer. The choices were many, yet the logical ones were hidden by the number of average choices. You have to look harder.  </p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.adventcode.net" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2292">Don Ulrich</a> at May 29, 2004 08:23 PM <a href="#c2292">#</a></p>
+
+</div><div id="c2563">
+
+<p>Karl: I do get irritated with soap operas and reality shows because, like the news, they&#8217;re often designed to make people dumber. Saying something is &#8220;entertainment&#8221; is not a magic wand to make it immune to criticism. Entertainment can be thoughtful too.</p>
+
+<p>Gary: I can&#8217;t even vote. I don&#8217;t have much of an opportunity to act on the information included in the paper. The President of the US has a great deal more.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2563">Aaron Swartz</a> at July 16, 2004 03:15 PM <a href="#c2563">#</a></p>
+
+</div><div id="c3063">
+
+<p><a href="http://www.female-products-reviewed.com">Female Enhancer Products Reviewed</a></p>
+
+<p><a href="http://www.female-products-reviewed.com">www.female-products-reviewed.com</a></p>
+
+<p class="posted">posted by jake at October 15, 2004 10:03 AM <a href="#c3063">#</a></p>
+
+</div><div id="c3101">
+
+<p><a href="http://www.female-products-reviewed.com">www.female-products-reviewed.com</a></p>
+
+<p class="posted">posted by john at October 17, 2004 08:35 AM <a href="#c3101">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001226.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1226" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

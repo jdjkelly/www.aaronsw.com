@@ -1,0 +1,329 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Is it moral to plead the Fifth? (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/001106.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001105" title="Plea for Help" />	<link rel="next" href="001107" title="Unspeakable Things" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Is it moral to plead the Fifth?</h1>
+</div>
+
+<div class="content">
+<p>Hypothetical: Let&#8217;s say you&#8217;ve committed a crime and, for whatever reason, don&#8217;t want to be convicted for it. (Maybe you don&#8217;t believe it should be a crime, maybe the punishment is excessive, maybe you&#8217;ve repented. It doesn&#8217;t really matter.) The law&#8217;s safeguards protect you from being convicted unless the government can <em>prove</em> you committed the crime.</p>
+
+<p>The government puts you on the stand and asks you if you did it. For the conception of morality I&#8217;m using here, it would be immoral to lie and say you didn&#8217;t. (There might be some cases where mitigating factors made it the best of bad choices, but let&#8217;s ignore those for now.) But is it immoral to plead the fifth and not answer? The Fifth Amendment is there to prevent the government from torturing you, not to help criminals escape.</p>
+
+<p>It gets worse. Let&#8217;s say you have arguments and evidence that could throw the jury off the trail. Say they catch your jacket on the security camera, but you have a photo of <em>someone else</em> wearing the same jacket right outside the store around the same time. Is it moral to say &#8220;hey, it could have been this other guy &#8212; he would have looked just the same on the security camera&#8221;. You&#8217;re not lying, but the <em>beyond a reasonable doubt</em> test is there to protect the innocent, not the guilty.</p>
+
+<p><em>What do you think?</em> <a href="http://www.aaronsw.com/weblog/001106#comments">Comment</a> or <a href="mailto:me@aaronsw.com">email</a>.</p>
+
+<p class="posted">posted January 05, 2004 02:29 PM (<a class="category" href="cat_politics">Politics</a>) (<a href="#comments">19 comments</a>) <a href="001106" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001105" title="Plea for Help">&laquo; prev</a> | <a href="./">up</a> | <a href="001107" title="Unspeakable Things">next &raquo;</a></p>
+
+<p><a href="001099">Saddam&#8217;s Simple Life</a><br />
+<a href="001101">Software that Sucks</a><br />
+<a href="001102">Nothing So Strange</a><br />
+<a href="001103">Contest: What has Bush done for you?</a><br />
+<a href="001105">Plea for Help</a><br />
+<strong>Is it moral to plead the Fifth?</strong><br />
+<a href="001107">Unspeakable Things</a><br />
+<a href="001111">Apple&#8217;s Secret Strategy: TV for Everyone</a><br />
+<a href="001112">Counterpoint: Downloading Isn&#8217;t Stealing</a><br />
+<a href="001113">Cat in the Hat: Harmful to Minors?</a><br />
+<a href="001114">Shorter Paul O&#8217;Neill</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c60">
+
+<p>Aaron &#8212; it would not be immoral for you take it.</p>
+
+<p>It would be immoral for you to make it easy for the state to convict you. That&#8217;s the larger moral principle involved: limiting the power of the state.</p>
+
+<p class="posted">posted by <a href="http://inessential.com/">Brent Simmons</a> at January  5, 2004 03:57 PM <a href="#c60">#</a></p>
+
+</div><div id="c62">
+
+<p>You are innocent until proven guilty, but you can forfeit that by confessing (essentially what you describe) at any time. </p>
+
+<p>I don&#8217;t think it&#8217;s immoral to take the Fifth, but again we&#8217;re talking about someone who has hypothetically committed a crime: it&#8217;s an odd morality that permits one and agonizes over the other. </p>
+
+<p class="posted">posted by <a href="http://www.paulbeard.org/movabletype">paul beard</a> at January  5, 2004 03:59 PM <a href="#c62">#</a></p>
+
+</div><div id="c63">
+
+<p>Here&#8217;s something I never understood - the game theoretic aspect of pleading the fifth. So, let&#8217;s say that they did have you on the stand (Can a defendant even be called to the stand by the prosecution?), and the prosecutor asks you whether you murdered Bob. You don&#8217;t incriminate yourself by pleading the fifth, so one could think of the net gain as zero. However, if you did not kill Bob, you could truthfully say no and achieve a net positive in the situation. If you did kill Bob and said that you didn&#8217;t, then you have committed perjury, so you would want to plead the fifth and accept the net zero rather than be caught and achieve a negative outcome. So, that being said, would it be reasonable for a jury to infer that a person pleading the fifth did commit the crime, else he would have just said that he didn&#8217;t? This idea has always confused me. It seems like a savvy prosecutor could bring the suspect to the stand (see original question in parens), ask the suspect if they committed the crime and if the suspect said no, then convince the jury that he&#8217;s perjured himself or that if he pleads the fifth, he must have something to hide and thus is guilty. Seems like a no-winner for the defendant.</p>
+
+<p class="posted">posted by <a href="http://aetherial.nu">Chris Karr</a> at January  5, 2004 04:01 PM <a href="#c63">#</a></p>
+
+</div><div id="c64">
+
+<p>I don&#8217;t know much about this, but my guess is that the prosecutor would not be allowed to discuss the response and the judge would instruct the jury to treat it as if the question was never asked.</p>
+
+<p class="posted">posted by <a href="http://www.aaronsw.com/">Aaron Swartz</a> at January  5, 2004 04:11 PM <a href="#c64">#</a></p>
+
+</div><div id="c65">
+
+<p>Maybe I&#8217;d be a terrible juror, but I would think even given the judge&#8217;s instructions, I would be convinced that the defendant was guilty of something (assuming that the prosecutor didn&#8217;t immediately jump into a perjury accusation), and I believe that would color my views. I guess the types of situations can be avoided preemptively by letting prosecutors know that they&#8217;ll be disbarred or punished.</p>
+
+<p><em>Shrug</em></p>
+
+<p>Maybe I should quit watching sci-fi annd start watching Law &amp; Order again&#8230;.</p>
+
+<p class="posted">posted by <a href="http://aetherial.nu">Chris Karr</a> at January  5, 2004 04:18 PM <a href="#c65">#</a></p>
+
+</div><div id="c66">
+
+<p>Folks, you&#8217;ve missed something pretty critical &#8212; a prosecutor cannot ask a defendant to take the stand.  A prosecutor cannot even make a comment to the jury that the defendant wouldn&#8217;t take the stand. The only time a defendant takes the stand is by their own request, through their own legal defense because a person can actively participate in their own defense. </p>
+
+<p>When you hear about people taking the fifth, this is usually in response to grand jury investigations, or when Congress decides it wants to play law.</p>
+
+<p>As for morality, each person has the moral right to defend themselves. Implying any other morality is an oversimplification of very complex laws. </p>
+
+<p class="posted">posted by <a href="http://weblog.burnigbird.net">Shelley</a> at January  5, 2004 04:22 PM <a href="#c66">#</a></p>
+
+</div><div id="c67">
+
+<p>Shelley, can folks defend themselves even through lying or misleading?</p>
+
+<p class="posted">posted by <a href="http://www.aaronsw.com/">Aaron Swartz</a> at January  5, 2004 04:39 PM <a href="#c67">#</a></p>
+
+</div><div id="c68">
+
+<p>In the USA, we have an adversarial system of justice. It is not the defendant&#8217;s job to make the prosecution&#8217;s case easier; indeed, if anything, the reverse is true (John Ashcroft notwithstanding). The principle is that somehow, between the two sides aggressively promoting their arguments, some facsimile of the real truth can be arrived at.</p>
+
+<p>So doing everything legally possible (which includes casting doubt on the prosecution&#8217;s argument, but not lying) to exculpate yourself is certainly playing fair. That&#8217;s not exactly the same as saying that it is moral. But it is equally moral as any other course of action in which you do not just plead guilty.</p>
+
+<p class="posted">posted by <a href="http://crossroads.net/a">Adam Rice</a> at January  5, 2004 04:54 PM <a href="#c68">#</a></p>
+
+</div><div id="c69">
+
+<p>Aaron, this is a great topic!</p>
+
+<p>Your original question suggests reasons why someone might want to avoid a conviction, and I think my answer has to start back there. If remorse is the only motivating factor, then I might suggest throwing yourself on the mercy of the court. Many people who &#8220;find Jesus&#8221; after committing a crime actually turn themselves in, for example. How much of a defense they tend to mount, I&#8217;m not sure.</p>
+
+<p>On the other hand, if you don&#8217;t think it should be a crime, and if you&#8217;re principled enough to be concerned about what is honest and what is dishonest, then I think that perhaps your best bet is to appeal directly to the jury (er, or have your lawyer do it, since it&#8217;s easiest if you stay off the stand) and spell it out for them. Best of all, if you feel strongly about it, it is this route that can eventually take you to the State or U.S. Supreme Court to have the law changed.</p>
+
+<p>Of course, if you&#8217;re just concerned about the penalty, then what&#8217;s a little lie between defendant and jurors? &lt;grin></p>
+
+<p>Incidentally, the game-theory bit above is exactly why prosecutors cannot call you to defend yourself, or your spouse. The courts have correctly decided that having every defendant plead the fifth on the stand is much like having every defendant plead guilty, and decided that avoiding self-incrimination requires the option of <em>not</em> appearing on the stand. </p>
+
+<p class="posted">posted by <a href="http://w6daily.winn.com/">Phillip Winn</a> at January  5, 2004 05:13 PM <a href="#c69">#</a></p>
+
+</div><div id="c70">
+
+<p>Er, and I didn&#8217;t respond to the second but. The key to a defense lawyer&#8217;s success is belief that his client is innocent. So if you&#8217;ve got such a photo, chances are your lawyer has it too, or has it first. A good defense lawyer will be careful to warn his client that he doesn&#8217;t want to hear anything that might interfere with a proper defense, and will also avoid questions that easily lead to answers stating guilt. </p>
+
+<p>So when presenting such a photo, a good defense lawyer will ask only something like, &#8220;Is this you?&#8221; and not &#8220;Did you do it?&#8221;</p>
+
+<p>You should be able to rely on your lawyer to come up with the objections and doubts the jury needs to balance out the prosecution&#8217;s case without stretching your own honesty at all. </p>
+
+<p class="posted">posted by <a href="http://w6daily.winn.com/">Phillip Winn</a> at January  5, 2004 05:17 PM <a href="#c70">#</a></p>
+
+</div><div id="c71">
+
+<p>Aaron, you&#8217;re seeing the law as a moral force; the law is a force for society, not a force for morality. Rightfully so, because morality is dangerously open to interpretation. </p>
+
+<p>People can defend themselves using anything and everything at their disposal and there is no question of &#8216;morality&#8217; in this. It is up to the prosecutor to provide a sufficient case to convict the person, and it is not society&#8217;s place to pass judgement on any one person who uses whatever means possible to defend themselves. Rightfully so. Anything else, is a dangerous abrogation of our legal system, which has already been dangerously undermined by people such as Ashcroft. </p>
+
+<p>Remember that probably the greatest right we have is not the freedom to speak, but the freedom not to speak. And society, and the morally pure within society who see things in black and white, do not have the &#8216;right&#8217; to form moral judgements against those who choose not to speak, or to defend themselves. </p>
+
+<p>Interesting topic? Perhaps. Personally I find it to be a disturbing one. </p>
+
+<p class="posted">posted by <a href="http://weblog.burningbird.net">Shelley</a> at January  5, 2004 05:27 PM <a href="#c71">#</a></p>
+
+</div><div id="c72">
+
+<p>Aaron&#8217;s hypothetical was demolished earlier by Shelley. It&#8217;s a moot point because the prosecution can&#8217;t put you on the stand (O.J. Simpson, anyone?).</p>
+
+<p>I will quibble with Shelley on this statement, however:
+<i>And society, and the morally pure within society who see things in black and white, do not have the &#8216;right&#8217; to form moral judgements against those who choose not to speak, or to defend themselves.</i></p>
+
+<p>Actually, the &#8220;morally pure &#8230; who see things in black and white&#8221; have every right to form moral judgements against anyone and everyone, as do the people who think those who disagree with them are bigoted, hateful and lacking in compassion. That&#8217;s part of freedom of speech as well (Fred Phelps, anyone?) But the &#8220;morally pure&#8221; of whom you speak are really a straw man that does not represent any significant segment of society, anymore than the &#8220;moral majority&#8221; represented the majority of Americans in its heyday.</p>
+
+<p>Similarly,
+<i>it is not society&#8217;s place to pass judgement on any one person who uses whatever means possible to defend themselves</i></p>
+
+<p>Why not? Society passes judgement on things every day. If a person is guilty, and gets off through sleight of hand, why should society condone that? Tolerate, maybe, but there is certainly no obligation for society to condone such miscarriages of justice.</p>
+
+<p class="posted">posted by <a href="http://www.arguewithsigns.net/mt/">bryan</a> at January  5, 2004 08:11 PM <a href="#c72">#</a></p>
+
+</div><div id="c73">
+
+<p>Truth: That&#8217;s the only thing that matters! If you want to lie you are going to do it anyway. You don&#8217;t need an excuse.</p>
+
+<p class="posted">posted by <a href="mailto:CharlesWil@comcast.net">Charles Williams</a> at January  5, 2004 08:12 PM <a href="#c73">#</a></p>
+
+</div><div id="c74">
+
+<p>The Fifth Amendment: &#8220;[N]or shall be compelled in any criminal case to be a witness against himself.&#8221;</p>
+
+<p>As a proxy of Mr. Loughborough, I read here only the what and not the why: The Fifth doesn&#8217;t record its own purpose. The key part of your logic is, therefore, erroneous or deliberately misleading.</p>
+
+<p>As not a proxy of Mr. Loughborough, I read that The Fifth mayn&#8217;t apply to women&#8212;though that&#8217;s another matter, and rather one of linguistics than law or morality.</p>
+
+<p class="posted">posted by <a href="http://purl.org/net/sbp/">Sean B. Palmer</a> at January  5, 2004 08:34 PM <a href="#c74">#</a></p>
+
+</div><div id="c92">
+
+<p>Aaron said: &#8220;The Fifth Amendment is there to prevent the government from torturing you, not to help criminals escape.&#8221;</p>
+
+<p>Nope. The Fifth Amendment is there to prevent the government from ever putting you into the position of having to make the choice whether to testify against yourself.</p>
+
+<p class="posted">posted by <a href="mailto:sbwaters@rny.com">sbw</a> at January  6, 2004 07:09 AM <a href="#c92">#</a></p>
+
+</div><div id="c95">
+
+<p>Phillip: <i>On the other hand, if you don&#8217;t think it should be a crime, and if you&#8217;re principled enough to be concerned about what is honest and what is dishonest, then I think that perhaps your best bet is to appeal directly to the jury (er, or have your lawyer do it, since it&#8217;s easiest if you stay off the stand) and spell it out for them.</i></p>
+
+<p>Aren&#8217;t you referring to jury nullification or FIJA?  My understanging is that that sort of concept is actively suppressed from most American courtrooms and that most judges would not allow juries to hear such arguments.  </p>
+
+<p>&#8230;Or is that just FIJA propoganda?</p>
+
+<p class="posted">posted by <a href="http://www.scrollbar.com">Jeff Kandt</a> at January  6, 2004 10:59 AM <a href="#c95">#</a></p>
+
+</div><div id="c98">
+
+<p>The original quesiton needs restatement considering that taking the fifth is not a choice.</p>
+
+<p class="posted">posted by <a href="mailto:pb@pb.com">pb</a> at January  6, 2004 03:16 PM <a href="#c98">#</a></p>
+
+</div><div id="c102">
+
+<p>&#8220;Maybe you don’t believe it should be a crime, maybe the punishment is excessive, maybe you’ve repented.&#8221;</p>
+
+<p>If it shouldn&#8217;t be a crime (notice I didn&#8217;t say &#8220;if you don&#8217;t believe it should be a crime&#8221;), or if the punishment is truly excessive, then it&#8217;s moral to try prove your innocence in any way, including invoking the fifth amendment. However, this is very subjective, of course &#8212; different people have different ideas of what should be a crime, or what&#8217;s a good reason, and of how much punishment is excessive.</p>
+
+<p>So it&#8217;s a hard question, but determining if what someone did was immoral is practically the function of a criminal trial. Laws aren&#8217;t always just, so I&#8217;d say it depends on whether your crime was truly immoral. Unfortunately, since morality is also so subjective, I don&#8217;t think this question can really be answered.</p>
+
+<p class="posted">posted by <a href="http://www.atommic.com/mt/">Adam Atlas</a> at January  6, 2004 03:59 PM <a href="#c102">#</a></p>
+
+</div><div id="c642">
+
+<p>I think it depends on the meaning of the morality term. For some people it may be moral.</p>
+
+<p class="posted">posted by <a href="http://linkblog.getxx.com/">Otov </a> at February 29, 2004 12:35 PM <a href="#c642">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/2002/001106.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/mt-comments.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1106" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /><br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

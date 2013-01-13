@@ -1,0 +1,50 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>The Emergent Internet (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000550" title="IMS/ISC Takes their Case to the BOGSAAT" />	<link rel="next" href="000553" title="Books Consume Life" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>The Emergent Internet</h1>
+</div>
+
+<div class="content">
+<p>I&#8217;ve always wondered how the Internet works. An incredible example of an emergent system, the (relatively) simple rules of how devices play create incredibly large results. Unfortunately, it seems there are few good resources for intelligent people to learn how this system works. There are simplistic explanations (&#8220;the packets go through the wires&#8221;), guides for doing specific things (&#8220;configure your network&#8221;, &#8220;cram for the Cisco Engineer test&#8221;) and of course the specs (&#8220;learn Ethernet in 5 years of intense study!&#8221;). So, taking the old advice that the best way to learn about something is to write about it, I decided to remedy this problem myself.</p>
+
+<p>This is intended to be a guide covering the essentials of how the Internet works as part of a bottom-up approach (that is, starting from individual computers) covering enough details to be able to figure out the important features (&#8220;you can see where packets come from&#8221;) but not enough to create implementations (&#8220;the from header is a 36-bit long integer&#8221;). I hope you find it helpful. I&#8217;m sure many of you out there are much more knowledgeable about this than I so I&#8217;d appreciate your feedback, corrections and answers to where I&#8217;ve marked questions. Thanks, and enjoy!</p>
+
+<p><a href="http://logicerror.com/internet">The Internet</a>, mostly waiting to be filled in. The two pieces I&#8217;ve written are <a href="http://logicerror.com/ethernet">Ethernet</a> and <a href="http://logicerror.com/ip">Internet Protocol (IP)</a>.</p>
+
+<p>Send your comments to <a href="mailto:me@aaronsw.com">me@aaronsw.com</a>. <br />
+</p>
+
+<p class="posted">posted September 01, 2002 01:27 AM (<a class="category" href="cat_technology">Technology</a>)  <a href="000551" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000550" title="IMS/ISC Takes their Case to the BOGSAAT">&laquo; prev</a> | <a href="./">up</a> | <a href="000553" title="Books Consume Life">next &raquo;</a></p>
+
+<p><a href="000545">IMS Gets Mad, Even</a><br />
+<a href="000547">This is TrackBack. Blosxom, do you copy?</a><br />
+<a href="000548">Spring has Sprung!</a><br />
+<a href="000549">Am I Insane or Not?</a><br />
+<a href="000550">IMS/ISC Takes their Case to the BOGSAAT</a><br />
+<strong>The Emergent Internet</strong><br />
+<a href="000553">Books Consume Life</a><br />
+<a href="000554">got spam?</a><br />
+<a href="000557">MJD&#8217;s File of Good Advice</a><br />
+<a href="000558">There&#8217;s Only One Way To Do It</a><br />
+<a href="000559">JavaScript Form Validation Done Right</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

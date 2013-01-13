@@ -1,0 +1,447 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Framing the Media (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001410.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001407" title="Right Wing Funnies" />	<link rel="next" href="001412" title="Behind the Thick Black Line" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Framing the Media</h1>
+</div>
+
+<div class="content">
+<p>One of the good questions about political media bias is how exactly it comes about. While there&#8217;s clear evidence that the news tends to have a Republican bias, it&#8217;s less than clear why. While journalists <a href="http://www.fair.org/reports/journalist-survey.html">aren&#8217;t really liberal</a> they certainly aren&#8217;t doctrinaire conservatives. So how do the conservatives get them to act like they are?</p>
+
+<p>Part of the answer is that they use the same technique on journalists that they use to control the public: namely, framing. The importance of framing in electoral politics has been best chronicled by George Lakoff. If you haven&#8217;t read up on Lakoff, you really must. And lucky for you, Lakoff has a new book out: <em><a href="http://chelseagreen.com/2004/items/elephant">Don&#8217;t Think of an Elephant!</a></em>, a readable explanation of the basic concepts.</p>
+
+<p>The basic idea is that that conservatives try to build and strengthen conceptual constructs in your head that help their political cause. How this applies to the media is pretty simple:</p>
+
+<p>First, conservatives build a construct, like &#8220;Gore is a liar&#8221;. There wasn&#8217;t a whole lot of evidence for this construct, but it didn&#8217;t really matter, since journalists were predisposed to believe it because of their animosity towards Clinton. And, anyway, after it was repeated to them enough, they began to simply take it as a given.</p>
+
+<p>Second, they feed journalists bits that fit this construct. So when Gore announced that he took the initiative within Congress on creating the Internet, nobody batted an eyebrow. But, a couple weeks later, the RNC noticed it and blast-faxed it to all the reporters. It fit their mental frame of Gore being a liar, so they reported it.</p>
+
+<p>Third, the frame becomes so strong that things start falling into itself. So when Gore gave an inspirational speech to a group of students about how a child&#8217;s letter to him about the environmental problems around <a href="http://en.wikipedia.org/wiki/Love_Canal">Love Canal</a> helped start a whole process which ended up with key environmental reforms, the reporters didn&#8217;t hear any of that. It didn&#8217;t fit their frames, which included things like &#8220;Gore is wooden&#8221;, so he couldn&#8217;t possibly have been inspirational. Instead, several reporters actually <em>misheard</em> Gore (or at least misquoted him in their articles) and wrote stories claiming he had taken credit for the discovery of Love Canal. (<a href="http://www.thislife.org/pages/descriptions/00/151.html">Listen to the rest of this incredible story&#8230;</a>)</p>
+
+<p>At this point, the Republican&#8217;s job was complete &#8212; the frames were so strong the reporters were <em>lying for them</em>. The reporters need not have had any serious animosity towards Gore (although some of them certainly did), this was simply the way they saw the world. The facts were made to fit their frames. By doing that, they of course passed the frames on to the public. And exit polls show that Gore would have likely won the election by a large margin had the public not thought he was a liar.</p>
+
+<p>This may be one of the more extreme examples, but this kind of stuff happens all the time. The &#8220;liberal media&#8221; frame causes reporters to see anything that might help the Democrats as problematic bias. The &#8220;Republicans are tough&#8221; frame allows them to ignore many of Bush&#8217;s bungled military actions. The &#8220;Dean is angry&#8221; frame allows them to dismiss Dean and replay that video of him, even though he&#8217;s not actually angry in the video.</p>
+
+<p>The Republicans frame, and frame, and frame, and the Democrats do nothing to fight back. <a href="http://chelseagreen.com/2004/items/elephant">It&#8217;s time for that to change. And that job starts with you.</a></p>
+
+<p class="posted">posted September 06, 2004 11:19 AM (<a class="category" href="cat_politics">Politics</a>) (<a href="#comments">24 comments</a>) <a href="001410" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001407" title="Right Wing Funnies">&laquo; prev</a> | <a href="./">up</a> | <a href="001412" title="Behind the Thick Black Line">next &raquo;</a></p>
+
+<p><a href="001401">The Behavior Without A Name</a><br />
+<a href="001403">What is the real purpose of military spending?</a><br />
+<a href="001405">Press Clipping</a><br />
+<a href="001406">How Control Works</a><br />
+<a href="001407">Right Wing Funnies</a><br />
+<strong>Framing the Media</strong><br />
+<a href="001412">Behind the Thick Black Line</a><br />
+<a href="001416">Published Author</a><br />
+<a href="001418">Stanford: Day 1</a><br />
+<a href="001419">Stanford: Day 2</a><br />
+<a href="001420">Stanford: Night 2</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c2764">
+
+<p>Rafe (rc3.org) has started <a href="http://del.icio.us/tag/framing">a framing-bucket (tag) on de.icio.us</a> that has now gathered a good amount of framing related links.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.sencer.de" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2764">Sencer</a> at September  6, 2004 12:45 PM <a href="#c2764">#</a></p>
+
+</div><div id="c2766">
+
+<p>I really can&#8217;t wait until mother nature takes your shitty diaper off and rubs your face in it. You&#8217;re nothing more than a little boy who someone promised this life was suppose to be your own private utopia&#8230;.Someday your entie face will be brown when that diaper is smeared oll over it&#8230;</p>
+
+<p>Can&#8217;t wait for that day.</p>
+
+<p class="posted">posted by zahi ahmed at September  6, 2004 06:19 PM <a href="#c2766">#</a></p>
+
+</div><div id="c2769">
+
+<p>I dispute the idea that the media as a whole displays even a casual conservative bias.  (Caveat: I watch network news &#8212; no cable for me &#8212; &amp; my hometown paper is the Boston Globe, so there may be a certain sample bias at work in what follows&#8230;)</p>
+
+<p>When Bush was accused of being absent from National Guard duty, I don&#8217;t recall any prominent commentator seriously questioning the validity of that charge or the motives of groups who brought it forth. And if anybody demanded that Kerry denounce &amp; disassociate himself from these groups, I sure didn&#8217;t hear the demand repeated endlessly in the media.  And yet that&#8217;s exactly what has happened with the swift boat veterans.  And think of what would have happened if Bush had tried to threaten lawsuits against publishers of books repeating the charge, as Kerry has done with the Unfit for Command book.  They&#8217;d come after him with torches &amp; pitchforks, and you would never stop hearing about the 1st-amendment chilling effect.</p>
+
+<p>I will grant that members of the media are perhaps a bit more circumspect than usual, not wishing to be seen pumping up a candidate too much, as they clearly did with Howard Dean.  More than they want to see Kerry in office, they want to be seen as having accurately picked a winner.  If Kerry doesn&#8217;t defend himself effectively, they&#8217;ll waste no time turning on him.  To that extent, I&#8217;ll agree that they&#8217;re shallow and can easily be played for fools.  Perhaps the guys with the black hats are finally learning how to do that.</p>
+
+<p>&#8212;Mike</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.praxagora.com/sierra/flum/index.htm" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2769">Mike Sierra</a> at September  7, 2004 10:25 AM <a href="#c2769">#</a></p>
+
+</div><div id="c2770">
+
+<p>Mike seems to be ignoring the key difference that the National Guard thing is true and the Swift Boat thing is false. Yet, despite this key difference, the Swift Boat guys have gotten ten times the amount of coverage that criticism of Bush&#8217;s service got. </p>
+
+<p>Further, the National Guard claims were treated far more dismissively by the media (Peter Jennings: &#8220;Now, that&#8217;s a reckless charge not supported by the facts.&#8221;) than the relatively evenhanded treatment given to the Swift Boat guys.</p>
+
+<p>But don&#8217;t just take my word for it &#8212; <a href="http://mediamatters.org/items/200408260005">look at the numbers</a>. Across the board, the Swift Boat guys have gotten way more press than the National Guard stuff. <a href="http://mediamatters.org/items/200408260005">And two case studies</a> show similarly unfair treatment.</p>
+
+<p>So this claim doesn&#8217;t really hold up.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2770">Aaron Swartz</a> at September  7, 2004 12:04 PM <a href="#c2770">#</a></p>
+
+</div><div id="c2771">
+
+<p>Today, Tuesday 7 Sept, the VP provided an excellent example of &#8220;framing&#8221; - Basically, if the US Voters elect anyone other than Chaney and Bush, they leave America open to further terrorist attacks.  So, what he is suggesting is that Republicians are the only ones who can protect the US and if the voters don&#8217;t keep them in office and we get another attack, it is the voters fault.  What hogwash.  It is an American issue, not Republician or Democrat.  Seems the elephants just cannot open their mouths without installing fear.  Maybe the media will see through this one</p>
+
+<p class="posted">posted by Alex Weego at September  7, 2004 06:00 PM <a href="#c2771">#</a></p>
+
+</div><div id="c2773">
+
+<p>With all due respect, Aaron. To say that the National Guard charge is simply &#8220;true&#8221; while those of the Swift Boat Vets are &#8220;false&#8221; is simplistic, outrageously so. I won&#8217;t claim that the SBV&#8217;s charges are all &#8220;true,&#8221; but at least two apparently are, having caused Kerry to reverse himself: that he wasn&#8217;t in Cambodia in Xmas 1968, and that his 1st purple heart was not earned in combat. (Again, if Bush made such a reversal, it would be taken as yet more evidence of what a liar he is.) And here&#8217;s where the National Guard story rests, to the best of my knowledge:</p>
+
+<p>http://www.factcheck.org/article.aspx?docID=131 <br />
+http://www.factcheck.org/article.aspx?docID=140</p>
+
+<p>If you still believe there&#8217;s much to dwell on, there&#8217;s not much I can do to talk you out of it.  (Note that Jennings&#8217; quote concerned Michael Moore&#8217;s far more specific and serious charge that Bush was a &#8220;deserter.&#8221;)</p>
+
+<p>I reject the MediaMatters numbers, because they don&#8217;t distinguish news coverage from opinion pieces. Totaling up the results of LexisNexis searches is just statistical nonsense, and lazy at that.  Even if only news coverage were sampled, most of the stories on the SBVs concentrate on secondary matters: whether they&#8217;re in cahoots with the GOP, what it will mean for the fall campaign, the legality of 527&#8217;s, Bush&#8217;s failure to denounce them specifically, etc. The Media Research Center (an equally partisan outfit, BTW) compared network news coverage detailing each set of charges and found 8 times more coverage for the National Guard stories.  Is that number any less accurate?  I don&#8217;t know, but at least their methodology is a tad more defensible.</p>
+
+<p class="posted">posted by Mike Sierra at September  8, 2004 11:33 AM <a href="#c2773">#</a></p>
+
+</div><div id="c2797">
+
+<p>The link you use to make the argument that journalists aren&#8217;t really liberal is laughable.  Look at <a href="http://www.fair.org/reports/journalist-survey.html#target">the methodology</a>. This is an incredibly small sample of journalists, with characteristics of income that <a href="http://www.fair.org/reports/journalist-survey.html#respondents">lie far above the general populace of journalists</a>. Only 5 percent had household income below $50,000, despite the fact that the median income for journalists is in the mid 20s. Also, the survey focuses on a single group of journalists: washington reporters and editors, who fall outside the fit of journalists at papers all over the country.</p>
+
+<p>To claim that this survey puts the lie to the liberal media myth is itself stretching the truth. Indeed, there are other national surveys that would make your case far better than this.</p>
+
+<p>Not to mention the fact that the questions used in the survey avoid socially liberal orientation. He is arguing against a liberal media bias based upon economic policy, when liberal bias is more easily discerned from social issues. It&#8217;s a bait and switch.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.arguewithsigns.net/mt/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2797">bryan</a> at September 12, 2004 02:15 PM <a href="#c2797">#</a></p>
+
+</div><div id="c2799">
+
+<p>I didn&#8217;t &#8220;claim that this survey puts the lie to the liberal media myth&#8221;, although I&#8217;ve discuss the myth elsewhere. I simply cited that survey as one source for my claim that journalists &#8220;aren&#8217;t really liberal&#8221;. I believe the claim is true; even the Pew survey found only 34% of journalists considered themselves liberals. Anyway, my larger point stands: on the whole, journalists aren&#8217;t doctrinaire conservatives.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2799">Aaron Swartz</a> at September 12, 2004 05:34 PM <a href="#c2799">#</a></p>
+
+</div><div id="c2808">
+
+<p><i> Republicans frame, and frame, and frame, and the Democrats do nothing to fight back.</i></p>
+
+<p>Hmmm. &#8220;Bush lied about WMD.&#8221; seems to have oversimplified the point and discounted that Democrats like Kerry and Kennedy believed the same intelligence, but, no, the Democrats didn&#8217;t frame that sentence, did they.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://blogs.rny.com/sbw/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2808">sbw</a> at September 15, 2004 10:47 AM <a href="#c2808">#</a></p>
+
+</div><div id="c2809">
+
+<p>Just because it&#8217;s wrong doesn&#8217;t make it a frame. &#8220;Bush lied about WMD&#8221;, true or false (and there&#8217;s <a href="http://www.inthesetimes.com/site/main/article/they_knew_0802/">plenty of evidence</a> it&#8217;s true), is a statement of fact. <a href="http://www.alternet.org/story/16771">Betrayal of trust</a> would be the frame.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2809">Aaron Swartz</a> at September 15, 2004 06:45 PM <a href="#c2809">#</a></p>
+
+</div><div id="c2812">
+
+<p>Aaron, please. Yours is a disingenuous response to my comment. The statement in your blog, <i>First, conservatives build a construct, like “Gore is a liar”</i>, could just as easily have been &#8220;First, liberals build a construct, like “Bush is a liar”. </p>
+
+<p>My comment about Bush and WMD still stands as a framed example. There is a ton of Moveon.org based on that meme. Moore&#8217;s &#8220;Fahrenheit 9-11&#8221; follows it up. Top it of with CBS News memos that were yesterday described as fake but accurate. [Yeh, like CBS is conservative media.]</p>
+
+<p>I wish you could comprehend the pretzel-twisting you are using to rationalize why reality doesn&#8217;t fit your map of it.</p>
+
+<p>You know, another way of looking at it is that you just might be wrong. No one will be able to convince you of that. You&#8217;ll have to discover that yourself over time, if you ever do.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://blogs.rny.com/sbw/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2812">sbw</a> at September 16, 2004 07:06 AM <a href="#c2812">#</a></p>
+
+</div><div id="c2815">
+
+<p>Look, I never said framing was bad. Frames are like words &#8212; they&#8217;re how we think and communicate. </p>
+
+<blockquote>
+  <p><i>First, conservatives build a construct, like “Gore is a liar”</i>, could just as easily have been &#8220;First, liberals build a construct, like “Bush is a liar”.</p>
+</blockquote>
+
+<p>I could have said that, but it would have been misleading, since I&#8217;ve seen no evidence of a coordinated plan campaign to try to frame Bush. Indeed, it appears the lying claims bubbled up despite party leaders insisting we shouldn&#8217;t say stuff like that. Even if there was a little coordination, it was certainly not at the incredible level fo the Gore smear campaign.</p>
+
+<p>There is another key distinction, which is that I know of no evidence that Gore is a liar, but there is clear evidence that Bush is, to an incredible degree. (See, e.g., the nonpartisan <em>All The President&#8217;s Spin</em>.)</p>
+
+<blockquote>
+  <p>I wish you could comprehend the pretzel-twisting you are using to rationalize why reality doesn&#8217;t fit your map of it.</p>
+</blockquote>
+
+<p>Where does reality not fit my map? I try to come into this with no preconceptions, I simply try to observe and see what I can draw from what I see. You should try that sometime; I think you&#8217;ll be surprised.</p>
+
+<blockquote>
+  <p>You know, another way of looking at it is that you just might be wrong. </p>
+</blockquote>
+
+<p>For sure! Which is I don&#8217;t take anything for granted and subject everything I believe to harsh scrutiny. Of course, other people help with that process of scrutiny, which is why I&#8217;d like to know where it is that reality doesn&#8217;t fit my map.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2815">Aaron Swartz</a> at September 17, 2004 11:13 AM <a href="#c2815">#</a></p>
+
+</div><div id="c2818">
+
+<p>About the conservative (using that word in its literal sense) bias in the media, Noam Chomsky in Manufacturing Consent puts forth the thesis that the conservative message has a natural advantage over the progressive message, because of the nature of news media.  To grossly oversimplify his position, he says that the conservative position, since it is by its nature not advancing a new idea but restating an old one, with which most consumers of news will be familiar even if they don&#8217;t agree, is easier to get across in a short news column or TV or radio story.  On the death penalty, it&#8217;s a lot easier to say &#8220;killers should be punished&#8221;, than to make the case that the death penalty is not shown to be a deterrant.  Just try coming up with a sound bite about why taxes should goup, even if they&#8217;re only going up for the richest people.  The argument against it, &#8220;they&#8217;re raising taxes&#8221;, just comes across better.</p>
+
+<p>Anyway, I&#8217;m not doing his arguments justice, but that&#8217;s one of the ideas.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://daysofleisure.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2818">Jim</a> at September 17, 2004 07:35 PM <a href="#c2818">#</a></p>
+
+</div><div id="c2819">
+
+<p>An interesting take on this whole liberal/conservative media issue is a book titled &#8220;Free Speech or Propaganda&#8221;.  It states the same thing about the journalists putting a liberal spin on issues just like the example you gave about the Conservatives and Gore.</p>
+
+<p>In the end, who do we believe any more? </p>
+
+<p class="posted">posted by AJ at September 18, 2004 05:55 AM <a href="#c2819">#</a></p>
+
+</div><div id="c2820">
+
+<p>I must be living on another planet. Bias in favor of Republicans? I have never heard such a reversal of reality. Serioulsy, was this post some kind of joke? To say there is Right wing media bias and to say that the Swift Boat Vets have recieved more coverage than the National Guard issue shows that you are truly dillusional.</p>
+
+<p class="posted">posted by Reformed at September 19, 2004 04:41 PM <a href="#c2820">#</a></p>
+
+</div><div id="c2855">
+
+<p>Republicans do this and no one else.  Riiiight.</p>
+
+<p>Hey, Aaron, are you interested in buying a bridge?  It&#8217;s got a great view.</p>
+
+<p class="posted">posted by Duke at September 22, 2004 03:16 PM <a href="#c2855">#</a></p>
+
+</div><div id="c2924">
+
+<p>Jim &#8212; As is so often true of anything not directly related to linguistics (of which Cambodia springs to mind), Chomsky is wrong. Resistance to change as such is not a &#8220;conservative&#8221; trait, but is better described as reactionary. The people we are used to calling &#8220;conservatives&#8221; have brought forth plenty of new ideas (e.g., school vouchers, social security privatization, democratizing the Middle East) that have elicited reactionary responses from the people we are fond of calling &#8220;liberals,&#8221; and what you call &#8220;progressive.&#8221; The idea Reagan floated in the early 80&#8217;s that tax cuts would result not just in stimulating growth but in increased tax revenues was considered totally radical and untested at the time, and his conviction that we could actually <em>win</em> the cold war was dismissed as totally off-the-wall by State Department old-timers.</p>
+
+<p>But even to the extent that the words &#8220;conservative&#8221; and &#8220;liberal&#8221; have any fixed meaning, Chomsky is still wrong to suggest that new ideas suffer a disadvantage in the news media. What actually suffers are ideas that require much imagination or abstract thought. Suppose you have a proposal to institute rent control, or farm subsidies, or protectionist tariffs on some commodity of other.  What will you see on the evening news?  You&#8217;ll see the old lady who&#8217;ll have to move out of her long-time residence because she can no longer afford to live in her newly gentrified neighborhood. You&#8217;ll see the farmer who can barely make ends meet.  And you&#8217;ll see some domestic widget-maker whose factory would otherwise get shut down.  Conservatives are often in the position of having to argue against these sorts of policies despite their tangible &amp; photogenic short-term benefits. The policies&#8217; negative effects are typically greater, but diffused over a larger population over a longer time span.  And there are <em>plenty</em> of persuasive sound bites for why taxes should be increased, most of which include some variant of &#8220;the children are our future.&#8221;</p>
+
+<p>So I&#8217;m sorry, but this idea that the nature of the media is less hospitable to their ideas is how liberals coccoon themselves against the revelation that their ideas are just not very good to start with.</p>
+
+<p class="posted">posted by Mike Sierra at September 28, 2004 12:21 PM <a href="#c2924">#</a></p>
+
+</div><div id="c2925">
+
+<p>So Aaron, isn&#8217;t it yet another example of framing to say that the media &amp; conservatives use the technique to &#8220;control the public&#8221;?  Doesn&#8217;t using the word &#8220;control&#8221; rather than &#8220;persuade&#8221; in this context hook into a certain leftist preconception that people suffer from false consciousness, from ideas that have been planted into their heads?</p>
+
+<p class="posted">posted by Mike Sierra at September 28, 2004 01:20 PM <a href="#c2925">#</a></p>
+
+</div><div id="c2962">
+
+<p>Mike, Chomsky&#8217;s point was not about the media&#8217;s resistance to radical ideas but how it prevents guests from convincing people conventional wisdom is wrong. Here&#8217;s the quote from <em>Manufacturing Consent</em>:</p>
+
+<blockquote>
+  <p>CHOMSKY: The U.S. media are alone in that you must meet the condition of &#8220;concision&#8221; &#8212; you&#8217;ve got to say things between two commercials or in 600 words.  &#8230;  the beauty of that is you can only repeat conventional thoughts. &#8230; Suppose I get up on Nightline, I&#8217;m given whatever it is, two minutes, and I say Qaddafi is a terrorist and Khomeini is a murderer, the Russians invaded Afghanistan, all this sort of stuff &#8212; I don&#8217;t need any evidence, everybody just nods.</p>
+  
+  <p>On the other hand, suppose you say something that just isn&#8217;t repeating conventional pieties.  Suppose you say something that&#8217;s the least bit unexpected or controversial.  Suppose you say, &#8220;The biggest international terror operations that are known are the ones that are run out of Washington.&#8221;  [The film then cuts to a series of such statements, spoken at different locations.]  Suppose you say, &#8220;What happened in the 1980s is the U.S. government was driven underground.&#8221;  Suppose I say, &#8220;The United States is invading South Vietnam&#8221; &#8212; as it was.  &#8220;The best political leaders are the ones who are lazy and corrupt.&#8221;  &#8220;If the Nuremberg laws were applied, then every post-war American President would have been hanged.&#8221;  &#8220;The Bible is probably the most genocidal book in our total canon.&#8221;  &#8220;Education is a system of imposed ignorance.&#8221;  &#8220;There&#8217;s no more morality in world affairs, fundamentally, than there was at the time of Ghengis Kahn, there are just different factors to be concerned with.&#8221;</p>
+  
+  <p>You know, people will quite reasonably expect to know what you mean.  Why did you say that?  I never heard that before.  If you said that you better have a reason, you better have some evidence, and in fact you better have a lot of evidence, because that&#8217;s a pretty startling comment.  You can&#8217;t give evidence if you&#8217;re stuck with concision.  That&#8217;s the genius of this structural constraint.</p>
+</blockquote>
+
+<p>The relevant issue is not whether the structure of the news naturally favors reactionary, conservative, or regressive ideas. That&#8217;s irrelevant, because regressives virtually control the media. This is simply about how they can appear to invite on dissenting views while ensuring there is very little threat to their propaganda.</p>
+
+<p>Your point about the media naturally favoring progressive ideas seems misplaced. The real issue is that <em>humans</em> naturally favor progressive ideas. Empathy, altruism, protection, equality &#8212; all the progressive values are deeply ingrained in us, while regressive ideas must be forced down people&#8217;s throats with massive amounts of propaganda. Thankfully for humanity, the regressive ideas are mostly harmful and wrong and the people are mostly helpful and right.</p>
+
+<blockquote>
+  <p>isn&#8217;t it yet another example of framing to say that the media &amp; conservatives use the technique to &#8220;control the public&#8221;?  &#8230;hook[ing] into a certain leftist preconception that people suffer from false consciousness, from ideas that have been planted into their heads?</p>
+</blockquote>
+
+<p>The media and regressives <em>do</em> control the public and plant false ideas in people&#8217;s heads.  If the media really wanted to persuade they would accurately present both sides of important issues. Instead they usually stifle the progressive side (e.g. now anti-war voices in the run-up to the Iraq War) with the result that people get false ideas in their head (e.g. Saddam and Al-Qaeda are in league).</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2962">Aaron Swartz</a> at October  2, 2004 12:29 PM <a href="#c2962">#</a></p>
+
+</div><div id="c2966">
+
+<p>I marvel at how insular, self-serving and downright elitist your logic is. Paul Hollander, in <em>Anti-Americanism</em>, said it best:</p>
+
+<blockquote>
+[T]he attribution of false consciouness to ordinary people has become a staple of critiques of American society and it functions as a powerful polemical rebuttal of any claim of consensus or legitimacy: whatever apparent degree of support there is for the social system, it can always be dismissed and discredited by pointing out that it rests on delusions, misconceptions, or massive ignorance carefully nurtured by the powers that be.
+</blockquote>
+
+<p>Your idea that the media is especially hard on progressive ideas is laughably myopic. Suffice to ask wasn&#8217;t it the headline of the <em>New York Times</em> that, right after the 9-11 Commission released its report, said there was no connection between Hussein and Al-Qaeda?  (The report actually said there was no known involvement by the Hussein regime in the 9-11 attacks, despite prior known links with al-Qaida.) And, boy, what planet were you on to suggest there was a <em>stifling</em> of dissent leading up to the Iraq war? For months on end, I heard nothing but. Face it: the &#8220;progressives&#8221; were simply not persuasive enough.  (BTW: may I say that using the term &#8220;regressive&#8221; the way you do is also self-serving, insufferably so.)</p>
+
+<p>Chomsky has much the same problem.  After being so crashingly wrong about the murderous nature of the Pol Pot regime in Cambodia during the 1970s, he floated well past the margins of credibility, and his getting mixed up later in Nicaragua didn&#8217;t improve matters much. No, it&#8217;s not the stucture of the media, and it&#8217;s not who &#8220;controls&#8221; the media, whatever that means.  No, the problem is with Chomsky: his obsessive denigration of the U.S. and corresponding glorification of every communist hell-hole that comes down the pike. He is a political crank of the highest order.</p>
+
+<p>But never mind Chomsky. Just pause for a moment and dwell a bit on the world you&#8217;re describing.  Somehow, the powers that be somehow exert a fantastic level of hidden pressure to warp our beliefs completely out of shape, subverting our natural tendencies towards &#8220;empathy, altruism, protection, equality,&#8221; and all that. This pressure is maintained constantly, and across innumerable media outlets. Even when they seem to invite dissent&#8230;  HA! Of course you had to know there is really no chance you will ever make a dent in their solid wall of propaganda.  Conventional wisdom will not be reversed!</p>
+
+<p>Now I ask, is this the same world where there are huge numbers of people walking around these days, totally convinced that they&#8217;ll lose weight if only they eat stuff like bacon and eggs, but just leave out the toast? Why is it so easy to reverse that particular bit of entrenched conventional wisdom that said stay away from fatty foods, but somehow discussions of political economy are totally different?</p>
+
+<p>And even to the extent that it&#8217;s even true to say it&#8217;s hard to counter conventional wisdom, could there be a more mundane observation?</p>
+
+<p class="posted">posted by Mike Sierra at October  3, 2004 01:13 AM <a href="#c2966">#</a></p>
+
+</div><div id="c2974">
+
+<blockquote>
+  <p>Your idea that the media is especially hard on progressive ideas is laughably myopic. Suffice to ask wasn&#8217;t it the headline of the <em>New York Times</em> that, right after the 9-11 Commission released its report, said there was no connection between Hussein and Al-Qaeda?  (The report actually said there was no known involvement by the Hussein regime in the 9-11 attacks, despite prior known links with al-Qaida.)</p>
+</blockquote>
+
+<p>That&#8217;s just not true. The facts are thus: </p>
+
+<ul>
+<li>the interim report said that Iraq and al-Qaeda simply had no &#8220;collaborative relationship&#8221;. </li>
+<li>there had been a little bit of conversation but they&#8217;d never cooperated on anything </li>
+<li>the New York Times ran the headline &#8220;Panel Finds No Qaeda-Iraq Tie&#8221;</li>
+</ul>
+
+<p>The headline gives exactly the right impression: Iraq and al-Qaeda never worked together or seriously tried to.</p>
+
+<blockquote>
+  <p>And, boy, what planet were you on to suggest there was a <em>stifling</em> of dissent leading up to the Iraq war? For months on end, I heard nothing but. </p>
+</blockquote>
+
+<p>Do you have any evidence to support this? Donahue&#8217;s show had some war dissenters; the network pressured them to &#8220;balance&#8221; them 2 to 1 with war supporters and eventually just canceled the show, even though it was the network&#8217;s highest rated program. Amy Goodman also opposed the war on the Sally Jessy Raphael show, but she had to fight for months to get them to air the episode. Aside from those instances, I don&#8217;t really know of any principled anti-war views shown on TV.</p>
+
+<p>Protests against the war were heavily scuttled and underplayed, opposing voices like Gore were laughed at, and so on. I&#8217;d like to see some of this non-stop dissent in the lead-up to the war you couldn&#8217;t escape.</p>
+
+<blockquote>
+  <p>Now I ask, is this the same world where there are huge numbers of people walking around these days, totally convinced that they&#8217;ll lose weight if only they eat stuff like bacon and eggs, but just leave out the toast? Why is it so easy to reverse that particular bit of entrenched conventional wisdom that said stay away from fatty foods, but somehow discussions of political economy are totally different?</p>
+</blockquote>
+
+<ol>
+<li>There wasn&#8217;t much of a sustained, intentional PR campaign against fat.</li>
+<li>There was a massive PR campaign for Atkins.</li>
+<li>People can actually see people they know losing weight on the Atkins diet.</li>
+</ol>
+
+<p>I do not know much about the Atkins diet or its effectiveness, but people I trust swear by it and I can see they&#8217;ve lost weight on it. There is no comparable way for me to see what&#8217;s going on in foreign countries or how the economy really works. leaving open these large holes of convincing people by controlling the information they receive.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2974">Aaron Swartz</a> at October  3, 2004 03:56 PM <a href="#c2974">#</a></p>
+
+</div><div id="c2993">
+
+<p>Aaron, what constitutes &#8220;principled opposition&#8221; to the war? Do you have to be an out-and-out pacifist to qualify? Does Sean Penn count? Other Hollywood types like Janeane Garofalo? How about Scott Ritter? Hans Blix?  Brett Scowcroft? John Conyers &#8212; he of the draft proposal? Robert Byrd? Jimmy Carter? Nelson Mandela? So many Globe op-eds I can&#8217;t tell you. This is just from memory, but I do recall hearing the phrase &#8220;rush to war&#8221; not just once or twice, along with predictions of huge civilian casualties, refugees spilling into neighboring countries, no blood for oil, etc. And for Al Gore to be roundly &#8220;laughed at,&#8221; he must have had at least some success in presenting his views.  While there probably wasn&#8217;t enough anti-war rhetoric to satisfy you, I assure you plenty of it came through loud and clear, and that&#8217;s all I can really say.</p>
+
+<p>As for my Atkins analogy: If you don&#8217;t believe there was a &#8220;sustained, intentional PR campaign&#8221; against fatty foods prior to the Atkins fad, you could not have been paying attention, and again there&#8217;s not much point trying to convince you. Much of the appeal of the diet, after all, came from people frustrated with being repeatedly told the stuff they love to eat is bad for them, and it didn&#8217;t take much of a push for the Atkins folks to tap into that appeal and turn early adopters into evangelists attacking conventional wisdom. Whether the diet works or not is besides the point &#8212; though I don&#8217;t particularly think it passes the smell test. The point is that concerning a matter of fundamental, tangible importance to many &#8212; one&#8217;s basic health and appearance &#8212; people have no problem and exert little effort discarding one entrenched belief and adopting another.</p>
+
+<p>You, however, are assuming that on matters of political economy, people have to be actively, constantly brainwashed into adopting our current system.  They are brainwashed in such a subtle way that alternate information is often presented, but in such a way as to make its rejection a foregone conclusion.  All that strikes me as a highly unstable, unsustainable, and unlikely scenario.  If you&#8217;re so daft that you can be so easily swayed away from your core values in the first place, there&#8217;s little between your ears that&#8217;ll keep you from being swayed back as well.</p>
+
+<p>Incidentally, my four-year-old daughter said something the other day that reminded me of that long Chomsky quote you supplied. Let me paraphrase: &#8220;Gee, I&#8217;m saying all sorts of provocative things that really ought to get a rise out of you, so why am I not getting any more of the attention I deserve&#8221;? I share Chomsky&#8217;s frustration with conventional wisdom. If I say something provocative like, &#8220;the New Deal was an economic failure that almost certainly prolonged and worsened the depression,&#8221; I fully expect most people will raise their eyebrows and be considerably resistant to the idea. The difference is I don&#8217;t interpret that understandable reaction as a result of mind-control rays.  (What a tremendously unfalsifiable idea that is, BTW, though psychologically appealing if you consider yourself one of the few who knows better. Who&#8217;s to say Chomsky and his followers aren&#8217;t victims of false consciousness?)</p>
+
+<p>And my mistake about the NYT. I should have said that overall coverage across the board left the widespread impression there had been <em>no</em> contact between the al-Qaida and the Baathists. (Just like Chomsky said: <em>concision</em>.) So, okay, I&#8217;m willing to concede there&#8217;s no liberal bias. I must have been a little distracted or something. Things have not been very good the last few weeks, especially after my car blew up when an NBC reporter exploded a bottle rocket next to the gas tank. I crashed my previous car, an Audi 5000, after I slammed really hard on the brakes. (Or was it the gas? Not sure.) This after being poisoned by an Apple laced with deadly Alar/dioxin/whatever. My gulf war syndrome has been acting up too, or is it my heterosexual AIDS? I don&#8217;t even dare go out in public these days, considering the ozone hole and what these breast implants are doing to me, and anyway there are 3 million homeless people out there, and 10 percent of <em>them</em> are gay, or suffer from anorexia, forget which. And wouldn&#8217;t you know it? A bunch of KKK guys burned down my church. (Sure I&#8217;m white, but there are a few black people in it, which makes it a black church.) And did I mention the CIA sold me bad crack to fund the Nicaraguan Contras? I also ate some old meat that was sold to me by an undercover ABC reporter posing as a Food Lion employee. So I tell ya, it&#8217;s been a bad month all around.   ;-)</p>
+
+<p class="posted">posted by Mike Sierra at October  5, 2004 11:53 AM <a href="#c2993">#</a></p>
+
+</div><div id="c3054">
+
+<p>Rock on Aaron. I had not previously heard of framing, nor Lakoff&#8217;s book, and I appreciate education from every source (unlike some of the others who have commented here). </p>
+
+<p>p.s. The reason &#8220;the revolution will not be televised&#8221; is because conscientous citizens will pull the freaking plug. </p>
+
+<p class="posted">posted by <a target="_blank" title="http://db.vg/pM/weblog.php" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3054">dB</a> at October 12, 2004 03:19 PM <a href="#c3054">#</a></p>
+
+</div><div id="c4856">
+
+<p>Actually, that&#8217;s not what he says and it&#8217;s not really true. What Chomsky says is that since the US media requires concision, one can only state <em>conventional</em> ideas. But since conservatives control the media, they can make even complicated ideas conventional simply by repeating them enough (as they often do). In such an environment, it becomes safe to let a progressive on for a few minutes because they&#8217;ll make absolutely no sense.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=4856">Aaron Swartz</a> at April 21, 2005 07:01 PM <a href="#c4856">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001410.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1410" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

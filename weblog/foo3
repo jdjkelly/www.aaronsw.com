@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>FOO Camp (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>FOO Camp</h1>
+
+<p>I was recently excited to be invited to FOO camp, where all the leading figures of the modern technology industry shared their deep thoughts with me. Having already started a successful startup, I decided this year it was time to give back to the community, so I did some one-on-one consulting with future entrepreneurs.</p>
+
+<p>Here&#8217;s a photo of me listening to a pitch from up-and-comer Ada Norton about the layer architecture of her new Fish-on-Puppies web application framework. Definitely one to watch &#8212; I&#8217;ve recommended that Y Combinator invest immediately.</p>
+
+<p style="text-align: center"><a href="http://www.flickr.com/photos/quinn/12876975/"><img src="http://www.aaronsw.com/weblog/static/adapitch" alt="Ada Norton pitches her idea" /></a><br />(<a href="http://www.flickr.com/photos/quinn/search/tags:Aaron%2CAda/tagmode:all/">more photos</a>)</p>
+
+<p>I generously gave <a href="http://www.livejournal.com/users/dailyada/">Ada</a> a 20% discount off my normal consulting fees, in exchange for 10% of the company. I hope that other entrepreneurs will follow my lead in generously giving back to the community.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">August 25, 2005</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>Love that picture!</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://gnuhaus.com/iblog/">Mark Newhouse</a>
+ on August 25, 2005 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>Ah, what a splendid entry to bring back the comments. ;)</p>
+
+<blockquote>
+  <p>Fish-on-Puppies web application framework</p>
+</blockquote>
+
+<p>But: Does it scale?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.sencer.de">Sencer</a>
+ on August 25, 2005 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>Does it scale? Who cares! All that matters is that now our consultant can get $$$ <em>and</em> a share in someone else&#8217;s company <em>and</em> a look at the company&#8217;s IP, and all this just by giving some fluffy advice, probably along the lines of &#8220;Great idea! Go! Go!&#8221; or &#8220;This sucks 100%. Blow up and redo.&#8221; And on top of that, our consultant gets to call it a way to &#8220;give back to the community&#8221;!</p>
+
+<p>This probably means that I should go into consultancy too. But first I need a bottle of Aaron&#8217;s Secret Stuff&#8230;</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://fzort.org/bi/">bi</a>
+ on August 30, 2005 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="foo3" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

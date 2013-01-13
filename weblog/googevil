@@ -1,0 +1,547 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>What Does Google Mean by "Evil"? (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>What Does Google Mean by &#8220;Evil&#8221;?</h1>
+
+<p>Pretty much ever since Paul Buchheit suggested &#8220;Don&#8217;t be evil&#8221; as a corporate values statement (and Amit Patel begun writing it on whiteboards around the office), any time Google does something people don&#8217;t like, they begin calling it &#8220;evil&#8221; and complaining that Google is violating its prime directive.</p>
+
+<p>But surely &#8220;evil&#8221; means something more than just &#8220;wrong&#8221; or &#8220;bad&#8221;. If the girl across the street peers through your window to watch you undress, we might say that was bad and wrong and awful, but I don&#8217;t think anyone would try to claim it was evil. Evil is a really strong term!</p>
+
+<p>Now part of the joke is that Google seems to be using it rather loosely. If you look at <a href="http://www.google.com/about/corporate/company/tenthings.html">their examples</a> of evil deeds, they seem rather mundane compared to cackling supervillains and mass murderers. They specifically name three: showing irrelevant ads, using pop-ups or other annoying gimmicks, and selling off actual search results.</p>
+
+<p>Hardly the stuff of comic books. But what do these three have in common? <strong>They&#8217;re all instances of refusing to make things worse for your users in order to make more money.</strong> Perhaps that still seems like a mundane conception of evil, but I think it gets at something important. Evil isn&#8217;t just about doing terrible things &#8212; it&#8217;s about doing terrible things for bad reasons. The evil villain cackles and brags about how they&#8217;re on the side of evil &#8212; they explicitly oppose doing good. And this definition of evil is all about that: if you&#8217;re working against your own users, you must have crossed the line and joined the other side.</p>
+
+<p>When you stop to think about it, it&#8217;s wild how many companies have done just that: Printer manufacturers who put chips on their ink cartridges, so you can&#8217;t refill or recycle them but instead have to buy a new full-price cartridge. Apple preventing the Kindle app from having any sort of ebook buying functionality. Web publishers who break articles up into 20 pages so that you have to load 20 different ads just to read one article. These are pretty banal evils, but it&#8217;s striking that I can&#8217;t think of any example where Google has done anything like that. (Perhaps someone will name one I&#8217;ve missed in the comments.)</p>
+
+<p>There are lots of things I disagree with Google about &#8212; the most recent being their refusal to <a href="http://my.nameis.me/">let my friends with chosen names</a> use Google+ &#8212; but those things aren&#8217;t evil by this definition. For example, Google <a href="http://www.jwz.org/blog/2011/08/nym-wars/">defends</a> their real names policy by saying it&#8217;ll lead to better conversations. They still claim to be fighting for the user.</p>
+
+<p>So if you want to argue with Google, that&#8217;s the way to do it: don&#8217;t say that they&#8217;re hurting someone out there in the world or violating some rule or principle, say that what they&#8217;re doing isn&#8217;t serving their users. Because that&#8217;s the line Google&#8217;s afraid to cross.</p>
+
+<p><em>Thanks to Kragen Sitaker for <a href="http://lists.canonical.org/pipermail/kragen-discuss/2011-August/001176.html">discussions</a> that inspired this post.</em></p>
+
+<p><strong>UPDATE:</strong> <a href="http://www.aaronsw.com/weblog/googevil#c8">Chris Soghoian observes</a> Google refuses to add Do-Not-Track support to its browsers or servers in order to maximize ad profits. <a href="http://www.aaronsw.com/weblog/googevil#c10">Scott Teresi suggests</a> Google&#8217;s refusal to provide customer support (in order to save money) qualifies. <a href="http://www.aaronsw.com/weblog/googevil#c19">Tom Slee reminds me</a> of their infamous net neutrality deal with Verizon. <a href="http://daringfireball.net/linked/2011/08/23/swartz-google-evil">John Gruber argues</a> that having ads at all is evil in this sense. <a href="http://www.aaronsw.com/weblog/googevil#c33">Mark Heath points to</a> those infuriating YouTube ads.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">August 22, 2011</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>One &#8220;evil&#8221; thing is the deployment of DRM on videos; first on Google Video some years ago, now on premium YouTube video; and also in the Android platform. There&#8217;s no customer case for this &#8212; it&#8217;s purely about increasing revenue while making things worse for customers.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://craphound.com/">Cory Doctorow</a>
+ on August 22, 2011 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>Cory: Not to derail Aaron&#8217;s argument, but even YouTube DRM has a user justification: without it, their partners wouldn&#8217;t allow videos for rent at all. Seems to me that YouTube&#8217;s made great efforts in open video in recent years, whenever the brain-dead studios aren&#8217;t involved &#8212; the move to HTML5 video, DRM-free downloads for user-uploaded videos, CC-licensing, and web-based video remixing for CC-licensed video all come to mind.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://waxy.org/">Andy Baio</a>
+ on August 22, 2011 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>Google collects vast amounts of data on its often unwitting users (and non-users in some cases: http://www.nytimes.com/2010/05/16/technology/16google.html) and has resisted attempts by governments to cut back on this practice.</p>
+
+<p class="posted">posted by Jon C
+ on August 22, 2011 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>But has Google ever defended this data collection on any grounds other than how it lets them make better products?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on August 22, 2011 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>Isn&#8217;t &#8220;making better products&#8221; just about generating more shareholder value, at least for a massive publicly traded company? But beyond that, why would we limit ourselves to a company&#8217;s self-serving definition of evil? Breaking up articles into multiple pageviews is annoying, but I don&#8217;t know of any actually-held conception of morality that calls that evil while giving a pass to the unrestricted collection of users&#8217; data.</p>
+
+<p class="posted">posted by Jon C
+ on August 22, 2011 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c6">
+<p>Let me clarify a bit: obviously, users who don&#8217;t want their data being collected don&#8217;t think Google is serving them by doing so. Google could come back and say &#8220;but this is what makes our products great, you&#8217;re just being short-sighted.&#8221; What&#8217;s the difference between that and genericwebsite.com saying &#8220;we know it&#8217;s annoying to click through 20 pages to read an article, but this is what allows us to pay our writers well and deliver great content&#8221;? Besides, of course, that one involves a trivial annoyance and the other has potentially huge stakes.</p>
+
+<p class="posted">posted by Jon C
+ on August 22, 2011 <a href="#c6" rel="bookmark">#</a></p>
+</div>
+<div id="c7">
+<p>Aaron,</p>
+
+<p>Your app store example is technically out of date - they lifted the same price restriction in June, but kept the restriction that you not link out to a web site - that&#8217;s why Amazon had to release a new kindle app with no store (and followed up with the HTML5 reader.</p>
+
+<p>http://www.macrumors.com/2011/06/09/apple-reverses-course-on-in-app-subscriptions/</p>
+
+<p>Regardless, I think it does fit your idea of evil equating with not compromising your users experience just for money.</p>
+
+<p class="posted">posted by Ted M
+ on August 22, 2011 <a href="#c7" rel="bookmark">#</a></p>
+</div>
+<div id="c8">
+<p>Google&#8217;s refusal to add Do Not Track support to its browser (it is the only major browser to not support this header) seems to be pretty evil.</p>
+
+<p>The company doesn&#8217;t want to add support to chrome, because it would then have a tougher time defending its position of not respecting the header on the advertising network side of the business.</p>
+
+<p>Google&#8217;s DC policy team is at least quite honest about this when you ask them. They admit that their lack of DNT support in Chrome is directly linked to the fact that the more people who enable the feature, the less money made by their behavioral advertising business.</p>
+
+<p class="posted">posted by Chris Soghoian
+ on August 22, 2011 <a href="#c8" rel="bookmark">#</a></p>
+</div>
+<div id="c9">
+<p>Redefining &#8220;evil&#8221; to be &#8220;isn&#8217;t serving their users&#8221; is automatically ceding Google the rhetorical high ground. Because then Google reaps the benefit of the broad moral connotations, but can turn around and justify it by very narrow business discussions.</p>
+
+<p>For a similar idea, I don&#8217;t think you&#8217;re very supportive of the idea of copyright&#8217;s &#8220;promote the Progress of Science and useful Arts&#8221; clause being interpreted as &#8220;serving the copyright holders&#8221;, via anything which increases their power and profits thus being deemed to &#8220;promote the Progress&#8221;.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://sethf.com/">Seth Finkelstein</a>
+ on August 22, 2011 <a href="#c9" rel="bookmark">#</a></p>
+</div>
+<div id="c10">
+<p>I second the privacy issue. To put 99% of development time into finding ingenious ways to use customer data and 1% into allowing users to see what data is used and have control over it, strikes me as anti-customer. (So glad to see the Google Dashboard being expanded, though.)</p>
+
+<p>I would also add Google&#8217;s lack of customer service as an &#8220;evil.&#8221; Perhaps too many people rely on Google&#8217;s products, with no tech support or customer service for them. I know someone who had their Google Sites removed because Google thought his personal list of links was part of a link farm. There was no way to contest this. Eventually he found a major developer of Google Sites and sent him a direct message over Twitter. He got no response, but his pages were restored. I&#8217;m sure there are many similar stories across the Google product line, many affecting people not so lucky.</p>
+
+<p>Google has boldly put itself in control of millions of people&#8217;s data and yet wants to dodge its responsibility when it comes to fulfilling the full spirit of those services. I can understand not wanting to provide tech support for a free product, but to not be evil (psychopathic?) about deleting people&#8217;s data, there should be some recourse for mistakes. For instance a paid tier or per-ticket fee, for those affected by inevitable issues with Google&#8217;s systems.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.teresi.us">Scott Teresi</a>
+ on August 22, 2011 <a href="#c10" rel="bookmark">#</a></p>
+</div>
+<div id="c11">
+<p>I have no doubt that there are still people at Google that truly believe in &#8220;Don&#8217;t Be Evil&#8221;, but the company is so huge now that I think that there are a lot more people who only care about their own careers and money. I&#8217;m reminded of a comment I read recently from someone claiming to be a former Google employee who resigned, and asked (in what amounted to) his exit interview what ever happened to &#8220;Don&#8217;t Be Evil&#8221;. His former boss asked him, &#8220;What are you, twelve years old?&#8221;</p>
+
+<p>There appears to be a struggle between those that believe the first priority should be Google&#8217;s mission, &#8220;to organize the world&#8217;s information and make it universally accessible and useful&#8221;, and those that believe the company is still really just an advertising company.</p>
+
+<p>What we need to worry about is not only who, if anyone, will win that struggle, but how many blunders will be made along the way by those that are more concerned about the money.</p>
+
+<p class="posted">posted by Mike
+ on August 22, 2011 <a href="#c11" rel="bookmark">#</a></p>
+</div>
+<div id="c12">
+<p>Seth: As I tried to make clear at the end, my goal in the piece was understanding what Google meant by evil so that people arguing with them could be maximally persuasive. I didn&#8217;t mean to mean to suggest people should cede the rhetorical high ground in general.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on August 22, 2011 <a href="#c12" rel="bookmark">#</a></p>
+</div>
+<div id="c13">
+<p>Thanks, <a href="http://www.aaronsw.com/weblog/googevil#c7" rel="nofollow">Ted M</a>. I&#8217;ve corrected it. The previous text read:</p>
+
+<blockquote>
+  <p>Apple’s requirement that companies not let users buy ebooks through through any non-Apple iOS applications.[^f]</p>
+  
+  <p>Apple doesn’t require this directly, but instead makes it impossible to do anything else. You have to give Apple a 30% cut of anything sold through an iOS app. But the makers of iOS ebook apps don’t make enough to do that: they owe more than 70% of the price to the publisher. You might think they could just raise the price by 30% for iOS users, but Apple also prohibits them from selling ebooks at a higher price within the app than they do outside.</p>
+</blockquote>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on August 22, 2011 <a href="#c13" rel="bookmark">#</a></p>
+</div>
+<div id="c14">
+<p>So you&#8217;re claiming Apple should let a direct competitor (Amazon) park a <em>free</em> app on Apple&#8217;s App Store (which Apple has invested in, maintains, promotes, etc), leach its traffic and divert potential customers to another site (Amazon.com) where Apple gets no revenue? Why would Apple do that?</p>
+
+<p>If a third party (Amazon) thinks 30% cut is too much, they shouldn&#8217;t be on the App Store. Why should this make Apple evil?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://counternotions.com">Kontra</a>
+ on August 22, 2011 <a href="#c14" rel="bookmark">#</a></p>
+</div>
+<div id="c15">
+<p>I&#8217;d actually argue that not implementing do-not-track is, from Google&#8217;s perspective, acting in the user&#8217;s best interests.</p>
+
+<p>Here&#8217;s how the argument goes: the web runs on ads. Ads can either be irrelevant, or relevant. Irrelevant ads waste the time of the user, and the money of the advertiser. They&#8217;re useless to the user. Relevant ads, on the other hand, are actually useful to the user - being delivered a good offer or product at the right time, when you&#8217;re actually interested in that product category, is useful.</p>
+
+<p>Hence, do-not-track, which prevents Google and others making ads more relevant (and thus useful) are user-hostile.</p>
+
+<p>I&#8217;m not saying that I think that argument is right, but I think it&#8217;s a rational argument - and a consistent one with &#8220;don&#8217;t be evil&#8221;.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.technovia.co.uk">Ian Betteridge</a>
+ on August 22, 2011 <a href="#c15" rel="bookmark">#</a></p>
+</div>
+<div id="c16">
+<p>Here is an example of &#8220;evil&#8221; in the Google sense.</p>
+
+<p>I was following a Google CM on Google+. I spotted a very long comment to one of her posts that was critical of Google+. Because the comment was so long, I failed to scroll up to see the original post. I replied to the comment with a brief defense of Google+ and so did someone else.</p>
+
+<p>The Google CM tagged the three of us and replied, &#8220;I left the comments available on this post to discuss [redacted]. I did not leave it open to a broad discussion about Google+. Thus, I am going to delete the off-topic comments made here. Please refrain from doing this to anyone in the future.&#8221;</p>
+
+<p>I did not mind the comments being deleted, but I thought the final sentence was heavy-handed.</p>
+
+<p>I think such behavior is contrary to &#8220;Don&#8217;t be evil&#8221; because it is an abuse of her status and power as an official Googler. She is being paid (well paid, I assume) to model good manners for the community.</p>
+
+<p>However, everyone has a bad day from time to time, and everyone has errors in judgement.</p>
+
+<p class="posted">posted by Dopey Dumhead
+ on August 22, 2011 <a href="#c16" rel="bookmark">#</a></p>
+</div>
+<div id="c17">
+<p>&#8220;As I tried to make clear at the end, my goal in the piece was understanding what Google meant by evil so that people arguing with them could be maximally persuasive.&#8221; [do you have a quote tag?]</p>
+
+<p>Why look at the slogan as anything more than a marketing gimmick? If their use of &#8220;evil&#8221; had an exact meaning, they&#8217;d tell us. I would think that the maximally persuasive way to argue &#8220;with them&#8221; (Google is not going to argue with you) or to the public is to appeal to shared notions of right and wrong.</p>
+
+<p>Trying to decipher a meaning from a vague corporate slogan and then arguing it on those terms seems counterproductive.</p>
+
+<p class="posted">posted by Jon C
+ on August 22, 2011 <a href="#c17" rel="bookmark">#</a></p>
+</div>
+<div id="c18">
+<p>I like to add possible additions for Google being evil in your definition.</p>
+
+<p>• Google Sidewiki. Here, in essence, Google hijacks comments from site owners, with NO OPTION FOR SITE OWNERS TO OPT IT OUT.</p>
+
+<p>• Another issue i possibly see as Google Evil™ ☺, is that Google kept giving out SEO advices, in particular the evolution of the “nofollow” tag. From Google&#8217;s perspective, it is helpful for the health of web. In my cynical perspective, it is a way to increase the SEO/spam war escalation, with desired consequence of increasing online ads, and resulting in more spam and today&#8217;s content farm. So, in this view, Google intentionally fostered the whole SEO market knowning it will increase ads on the web, albeit without any behavior to specifically favor sites that use Google ad service. (More detail here: Google&#8217;s nofollow Rule and Why Does Google Give SEO Advice?.)</p>
+
+<p>I wrote out detail here: 〈Google: “Don&#8217;t Be Evil” vs “Don&#8217;t Do Evil”〉 http://xahlee.org/w/Google_dont_be_evil_dont_do_evil.html</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://xahlee.org/">Xah Lee</a>
+ on August 22, 2011 <a href="#c18" rel="bookmark">#</a></p>
+</div>
+<div id="c19">
+<p>Seth has a point, but I do like the goal of exploring &#8220;what Google meant by evil&#8221;: it&#8217;s not  the only exercise one should take, of course, but it&#8217;s a useful one.</p>
+
+<p>That said, I think Andy Baio goes one step too far in letting Google off with &#8220;without it, their partners wouldn’t allow videos for rent at all&#8221;.</p>
+
+<p>The &#8220;my partner/competitor made me do it&#8221; argument was one they made over patents recently as well, of course. Microsoft is evil for going after Nortel patents; Google is just doing what it has to to minimize the effects of Microsoft&#8217;s evilness. To me, this good guys/bad guys narrative is a juvenile idea of how &#8220;evil&#8221; works.</p>
+
+<p>An instance that qualifies for me is the Google/Verizon 2010 proposal of abandoning net neutrality over wireless networks. Of course, Google argues that &#8220;the carriers made me do it&#8221; and they are only trying to minimize the impact of carrier traffic discrimination but, again, that&#8217;s how evil works.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://whimsley.typepad.com">tomslee</a>
+ on August 22, 2011 <a href="#c19" rel="bookmark">#</a></p>
+</div>
+<div id="c20">
+<p>Aaron, 
+you are naive, at best. Playing with words doesn&#8217;t get to the core of this. What did G mean originally by &#8216;evil&#8217;? Was it to do the right thing or not be evil&#8230;like Hitler or Charles Manson? So saying that Google might be a greedy and scummy monopolist but not evil helps Google how?</p>
+
+<p>EVERYTHING google does is to make money, including favoring their advertisers in SERPS. They call them brands and to be one in e-commerce you need to spend money advertising on Google properties, lots of it too. Just because Google says it&#8217;s for the &#8220;users&#8221; doesn&#8217;t make it so.</p>
+
+<p class="posted">posted by Skyhook
+ on August 23, 2011 <a href="#c20" rel="bookmark">#</a></p>
+</div>
+<div id="c21">
+<p>The last comment reminds me that another example is when Google forced Motorola and Samsung to take Skyhook off their phones. Google&#8217;s reasoning was flimsy, transparently self-serving, and disingenuous.</p>
+
+<p class="posted">posted by mealworm
+ on August 23, 2011 <a href="#c21" rel="bookmark">#</a></p>
+</div>
+<div id="c22">
+<p>There are plenty of situations where Google behavior is more or less evil in the sense you are using. 
+Usually when you search for anything, the first positions - where users really click - are for YouTube videos, Google Shopping products or Maps of themselves. They even &#8220;copy&#8221; Yelp reviews and offer them as relevant search results.</p>
+
+<p>As long as Google always thinks or present their own products as &#8220;the more relevant&#8221; results for search results, they are failing to be democratic or really meritocratic.</p>
+
+<p>It is also quite cynic to say &#8220;we would never show paid ads between the results&#8221; when they show their own pages among them (not among, but on top of them). It is like saying &#8220;I will never sell car from others&#8221; when you have your own car selling company.</p>
+
+<p>My bad English is not my native language, I hope the ideas get clear enough.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.sortea2.com">pacob</a>
+ on August 23, 2011 <a href="#c22" rel="bookmark">#</a></p>
+</div>
+<div id="c23">
+<p>What about blocking access to services like emails (years worth of emails) and contacts and basically your entire digital life (if you rely that much on Google services) to certain individuals because they didn&#8217;t use their real name, or were believed to impersonate celebrities?</p>
+
+<p>Is that not considered one such act of &#8220;evil&#8221; where they went more than long ways to make things &#8220;worse&#8221; to some of their consumers, arguably in the name of identity purity to target ads more effectively?</p>
+
+<p>For all purposes, phone manufacturers are their users, what about making rules on the spot to force these carriers to drop things like not include rival navigation tracking services? Again to retain as much control as they can on tracking data that is used to deliver better targeted advertisement? Would that not make life &#8220;worse&#8221; to these clients, specially after they had development done and contracts in place?</p>
+
+<p class="posted">posted by Hector
+ on August 23, 2011 <a href="#c23" rel="bookmark">#</a></p>
+</div>
+<div id="c24">
+<p>The Oxford American Dictionary definition of evil:  &#8220;profoundly immoral and malevolent&#8221;</p>
+
+<p>Somehow, internet ads don&#8217;t seem to fit into this category.  Privacy-invading?  Probably.  Annoying?  Certainly.  Evil?  Come on.  That being said, a company whose slogan is &#8220;Don&#8217;t Be Evil&#8221; is setting an awfully low bar for morality.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://matthewloyal.com/">Matthew Smith</a>
+ on August 23, 2011 <a href="#c24" rel="bookmark">#</a></p>
+</div>
+<div id="c25">
+<p>&#8220;If you look at their examples of evil deeds, &#8230; only showing relevant ads, not using pop-ups or other annoying gimmicks, and not selling actual search results.&#8221;</p>
+
+<p>You seem to have got things inverted here: Why would &#8220;NOT selling actual search results&#8221; be an example of an evil deed?</p>
+
+<p class="posted">posted by Rick
+ on August 23, 2011 <a href="#c25" rel="bookmark">#</a></p>
+</div>
+<div id="c26">
+<p>&#8220;They specifically name three: only showing relevant ads, &#8230; They’re all instances of refusing to make things worse for your users in order to make more money. &#8220;</p>
+
+<p>Showing relevant ads is still worse than showing no ads.</p>
+
+<p>Google isn&#8217;t inconsistent here - they don&#8217;t say or do anything that goes against their philosophy -  but you are giving them more credit than is due. It&#8217;s still <em>worse</em> for me that there are ads.</p>
+
+<p class="posted">posted by Jason
+ on August 24, 2011 <a href="#c26" rel="bookmark">#</a></p>
+</div>
+<div id="c27">
+<p>Google&#8217;s interpretation of evil(tm)?</p>
+
+<p>Simple. Whatever they don&#8217;t do.</p>
+
+<p class="posted">posted by Ben
+ on August 24, 2011 <a href="#c27" rel="bookmark">#</a></p>
+</div>
+<div id="c28">
+<p>Aaron,</p>
+
+<p>John Gruber points out on his blog that since ads are almost always worse for the user than not having them, it is incorrect to describe Google&#8217;s actions as &#8220;They’re all instances of refusing to make things worse for your users in order to make more money.&#8221;.</p>
+
+<p>John I think does have a point. But his objection can be overcome with a small modification to your sentence above, to say: Google refuses to make things worse for their users in order to make more money <em>from them</em>. (and of course Google also seems to be committed to keeping the impact minimal when they do make things worse - by adding ads - to make money from others.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://ravi.be/">ravi</a>
+ on August 24, 2011 <a href="#c28" rel="bookmark">#</a></p>
+</div>
+<div id="c29">
+<p>my problem with google is that I am not their customer, some advertiser is. When &#8220;awesome search funded by ads&#8221; became &#8220;awesome email funded by ads&#8221; that was ok. But now Google is expanding into areas that do not need google-ification. A social network? same as facebook, but with ads and the same privacy problems people hated about FB, if not worse since you can&#8217;t make fake names. Yelp? stolen content. Android? given away for free to be chopped up and made fakely open.</p>
+
+<p>So google was fine until it started going into areas and just made them &#8220;free with ads&#8221; and not &#8220;better, free and oh yeah, with ads&#8221;.</p>
+
+<p class="posted">posted by red
+ on August 24, 2011 <a href="#c29" rel="bookmark">#</a></p>
+</div>
+<div id="c30">
+<p>By your definition of evil as &#8220;making things worse for your users in order to make money&#8221;, in the Kindle example it is Amazon who is evil, not Apple. Apple&#8217;s 30% rule for the AppStore has no bearing on users whatsoever. That affects companies/developers. It&#8217;s Amazon who made the call to remove any store functionality from the Kindle app in order to make more money.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://kevin.sb.org">Kevin Ballard</a>
+ on August 24, 2011 <a href="#c30" rel="bookmark">#</a></p>
+</div>
+<div id="c31">
+<p>by the end of the day it really is just different point of views. Anything can be spinned one way or the other.</p>
+
+<p>You think seeing more ads is not making things worse? I think so.
+You think having need to upload my drivers license just to modify my name on Google plus is not making things worse? I think so.</p>
+
+<p>but by the end of the day, we are not really Google&#8217;s &#8220;users&#8221;. We are like their cows, milking our information is their product, advertisers are their users.</p>
+
+<p class="posted">posted by Ben
+ on August 24, 2011 <a href="#c31" rel="bookmark">#</a></p>
+</div>
+<div id="c32">
+<p>1  Poisoning the well by giving products away for free so there&#8217;s no money for others to compete. Only google has the ad dominance necessary to do free. It&#8217;s as if there was only ONE television network in the old days of free TV.</p>
+
+<p>2 Blatant disregard for the value of content, whether it be software, journalism, entertainment, literature, crowdsourcing. Harvesting the hard work of others to generate billions in profit.</p>
+
+<p>3 Using its position of information dominance to control information to its own advantage.</p>
+
+<p>4 Tracking every possible piece of information about humans without disclosure or opt out.</p>
+
+<p>&#8220;Evil?&#8221; Hey google started using the term to poke a stick in Microsoft&#8217;s eye. Now they&#8217;re the new Microsoft and dominant in ways MS would never have dreamed of.They&#8217;re creepy, powerful, and unconstrained. And in real life (which is not a comic book) the evil ones generally work overtime to extoll how virtuous they are&#8230; and have plenty of minions seduced by that fake virtue.</p>
+
+<p class="posted">posted by yet another steve
+ on August 24, 2011 <a href="#c32" rel="bookmark">#</a></p>
+</div>
+<div id="c33">
+<p>Google has made YouTube worse for users with advertising not only beside videos, but directly over them; and also with unskippable leading ads.</p>
+
+<p>Nearly everything about Google is unfortunate.  It is the extension of all that was wrong with television into every part of the web.</p>
+
+<p class="posted">posted by Mark Heath
+ on August 24, 2011 <a href="#c33" rel="bookmark">#</a></p>
+</div>
+<div id="c34">
+<p>What about Google intentionally using flash on its cloud music service to block out iOS users?</p>
+
+<p class="posted">posted by dmd
+ on August 24, 2011 <a href="#c34" rel="bookmark">#</a></p>
+</div>
+<div id="c35">
+<p>Their push to make WebM a &#8220;standard&#8221; video format fits this definition of evil. For the same reasons Android fans will scream about Apple being evil for trying to kill Flash, Google is trying to push WebM and kill H.284. You can argue all you want about why we&#8217;d be better off with WebM, but, just like Flash, H.284 is the standard that has been settled on, and forcing users to switch benefits Google in some very big and profitable ways (in the form of less cash going out the door in licensing fees) and is a pain in the ass for users with no benefit to them.</p>
+
+<p class="posted">posted by Andre Richards
+ on August 24, 2011 <a href="#c35" rel="bookmark">#</a></p>
+</div>
+<div id="c36">
+<p>Gah! Typed H.284 but meant H.264 obviously.</p>
+
+<p class="posted">posted by Andre Richards
+ on August 24, 2011 <a href="#c36" rel="bookmark">#</a></p>
+</div>
+<div id="c37">
+<p>yet another steve is dead on! this spin is amazing. google is not evil they are good they just want to make money, oh ok i did not realize using a monopoly in to control and crush  competitors is good i should have just asked microsoft.</p>
+
+<p class="posted">posted by chris
+ on August 24, 2011 <a href="#c37" rel="bookmark">#</a></p>
+</div>
+<div id="c38">
+<p>This post has gotten Matt Cutts, Google&#8217;s propaganda chief all upset. Stop ruining small business owners Matt and stop rigging organic SERPS by favoring your advertisers, Google books and other Google (inferior and stolen from others) products.</p>
+
+<p>Scumbags! Liars! Thieves! Cheaters!</p>
+
+<p class="posted">posted by Jamie
+ on August 24, 2011 <a href="#c38" rel="bookmark">#</a></p>
+</div>
+<div id="c39">
+<p>Another example comes to mind: Google quietly opting all their users into Buzz (on TWO different occasions) and all the security and personal data lapses that potentially included. For many users, that was a massive annoyance caused primarily to benefit Google and their bottom line.</p>
+
+<p class="posted">posted by Andre Richards
+ on August 24, 2011 <a href="#c39" rel="bookmark">#</a></p>
+</div>
+<div id="c40">
+<p>Another example comes to mind: Google quietly opting all their users into Buzz (on TWO different occasions) and all the security and personal data lapses that potentially included. For many users, that was a massive annoyance caused primarily to benefit Google and their bottom line.</p>
+
+<p class="posted">posted by Andre Richards
+ on August 24, 2011 <a href="#c40" rel="bookmark">#</a></p>
+</div>
+<div id="c41">
+<p>People above have covered a number of Google&#8217;s evil behaviors, even under the redefined standard of this article.</p>
+
+<p>Here&#8217;s a few more:
+Permitting carriers/hardware vendors to determine when and if Android devices are allowed to upgrade to new OS versions.  Apple ensures that users are the priority, not carriers/hardware vendors.</p>
+
+<p>Altering search results so that Google services and sites appear above more relevant competitors sites.</p>
+
+<p>Sitting your CEO on the board of another company to steal ideas for a new product.</p>
+
+<p>Scanning and storing non-encrypted data from wifi access points.</p>
+
+<p>Attempting to obtain monopoly control of orphaned books.  Scanning books without the authors consent.</p>
+
+<p class="posted">posted by David K.
+ on August 24, 2011 <a href="#c41" rel="bookmark">#</a></p>
+</div>
+<div id="c42">
+<p>This article is ridiculous. It&#8217;s premised on the idea that making money is bad, &#8220;it’s about doing terrible things for bad reasons.&#8221; Money can be used for things good, bad, and mundane. Your assumption that earning it is bad makes you, what, unemployed?</p>
+
+<p>Second, regarding the App Store,  if I had a product to sell and someone said to me that they had a store that millions of people all over the world access daily, they would advertise this store and the mechanisms constantly, costing millions of dollars, where they would provide the mechanism for these people to access and buy from the store, they would take care of all credit card payments (and problems and service fees), that they would even provide gift cards in just about every store on earth from Saks Fifth Avenue to 7-11, and they would carry my product in their store and only charge me 30% of my sales, I would jump on it. Enough already that it&#8217;s evil to actually charge for something of value. Do you live on a hippie commune in the 60&#8217;s or something? Companies can write their own web app and sell on your website but then the advertising and promotions, order processing, customer service, credit card fiasco, etc. etc. etc. is all up to them - and how much does that cost? More than 30%? Maybe. Getting rid of those headaches is easily worth what Apple charges.</p>
+
+<p class="posted">posted by PD
+ on August 24, 2011 <a href="#c42" rel="bookmark">#</a></p>
+</div>
+<div id="c43">
+<p>Funny. Didn&#8217;t laugh so hard in a while.</p>
+
+<p>So I become none evil by &#8220;refusing to make things worse for your users in order to make more money&#8221;?</p>
+
+<p>I get absolution for
+- exploiting my employees (google has the lowest salary in IT)
+- illegally gathering vast amounts of user data (ups, we captured your WLAN traffic)
+- cooperating with a totalitarian government (i.e. china)</p>
+
+<p>and plenty more.</p>
+
+<p>Hell, if somebody stabs me in the back, I don&#8217;t care if they put a firesale flyer in my hand or not.</p>
+
+<p class="posted">posted by Michael
+ on August 24, 2011 <a href="#c43" rel="bookmark">#</a></p>
+</div>
+<div id="c44">
+<p>&#8220;Printer manufacturers who put chips on their ink cartridges, so you can’t refill or recycle them but instead have to buy a new full-price cartridge.&#8221;</p>
+
+<p>You can&#8217;t really chalk this one up as evil just because you are not aware of the potential difference between genuine and generic ink</p>
+
+<p>I have yet to find anyone who makes provable claims for the archival permanence of third party inks</p>
+
+<p>Have a look at independent testing by the Wilhelm Institute to learn more and while inks are expensive, the chips are there to protect us from fading prints and the manufacturer from warranty claims for which they should not be liable</p>
+
+<p>http://www.wilhelm-research.com/
+http://www.wilhelm-research.com/epson/durabrite.html</p>
+
+<p>Perhaps the evil is in the people who sell the ink refills without any thought or care for our precious memories</p>
+
+<p class="posted">posted by Doug
+ on August 24, 2011 <a href="#c44" rel="bookmark">#</a></p>
+</div>
+<div id="c45">
+<p>Never watched youtube video&#8217;s?
+Ultimate annoyance when the bottom part of the video is obscured by ads you have to click away all the time without ever reading them?</p>
+
+<p class="posted">posted by Hans
+ on August 24, 2011 <a href="#c45" rel="bookmark">#</a></p>
+</div>
+<div id="c46">
+<p>I&#8217;d say it&#8217;s less evil than charging customers for the products. Really, they&#8217;ve struck a good balance with their business model.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://Buckrobinson.com">Evil buck </a>
+ on August 24, 2011 <a href="#c46" rel="bookmark">#</a></p>
+</div>
+<div id="c47">
+<p>Google is worse than Microsoft ever was in the 90&#8217;s!</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.affjohn.com">John</a>
+ on August 24, 2011 <a href="#c47" rel="bookmark">#</a></p>
+</div>
+<div id="c48">
+<p>Excellent article. I have to agree about customer service - Google have made things a <em>lot</em> more difficult for users by insisting that they resolve all of their issues with FAQs and forums. Forums full of people asking the same question that goes unanswered for months are not support.</p>
+
+<p>That&#8217;s fine when we&#8217;re talking about &#8220;free&#8221; products like Gmail and so forth, but when you are a paying enterprise customer, you absolutely must have access to a human being to provide adequate, contextual assistance. In my previous role, I managed our Google Apps for Business and constantly ran up against frustrating issues.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://gplus.to/faustshausuk">Dale P</a>
+ on August 24, 2011 <a href="#c48" rel="bookmark">#</a></p>
+</div>
+<div id="c49">
+<p>Collecting user data without their permission and monetizing it is what Google does.
+All the nonsense about &#8220;open&#8221; and &#8220;don&#8217;t be evil&#8221; requires willing ignorance on the part of their customers.</p>
+
+<p class="posted">posted by Darwin
+ on August 24, 2011 <a href="#c49" rel="bookmark">#</a></p>
+</div>
+<div id="c50">
+<p>What about stealing the codework of competitors and others, then giving away the compiled output as a cellphone OS for free when one of your chief competitors earns income from licensing its OS?</p>
+
+<p>I think Microsoft is of the opinion that Google&#8217;s actions are evil. It remains to be seen if the courts agree.</p>
+
+<p class="posted">posted by George Kaplan
+ on August 24, 2011 <a href="#c50" rel="bookmark">#</a></p>
+</div>
+<div id="c51">
+<p>What about when they bump up the # of ads on search results pages to make their numbers for the quarter?  That seems like user experience comes at the cost of revenue choices&#8230;</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://twitter.com/cristobaloo">cristobaloo</a>
+ on August 24, 2011 <a href="#c51" rel="bookmark">#</a></p>
+</div>
+<div id="c52">
+<p><a href="http://www.aaronsw.com/weblog/googevil#c25" rel="nofollow">Rick</a>: Good catch &#8212; fixed.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on August 24, 2011 <a href="#c52" rel="bookmark">#</a></p>
+</div>
+<div id="c53">
+<p>Google is the biggest porn site on the planet. Is that evil? not necessarily. Allowing under aged people to view it? That is evil!</p>
+
+<p class="posted">posted by flaktrak
+ on August 29, 2011 <a href="#c53" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="googevil" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

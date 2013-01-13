@@ -1,0 +1,236 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Fraud in Science (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001616.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001614" title="Blogshine Sunday: US Greenlights, Funds Genocide" />	<link rel="next" href="001618" title="How is Disney like the Soviet Union?" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Fraud in Science</h1>
+</div>
+
+<div class="content">
+<p><a href="http://images.amazon.com/images/P/0151008779.01._SCLZZZZZZZ_.jpg"><img src="http://images.amazon.com/images/P/0151008779.01._SCMZZZZZZZ_.jpg" class="img" /></a></p>
+
+<p><em>It can&#8217;t happen here.</em> That&#8217;s what most scientists will tell you about fraud in science. Science is magically self-correcting, fraudsters are isolated incidents, fraud is something that happens in those other professions. Well, they&#8217;re all wrong, as Horace Freeland Judson shows in his new book <em>The Great Betrayal: Fraud in Science</em>. While estimates of fraud &#8212; faking evidence, omitting or distorting evidence, and plagiarism &#8212; are naturally hard to come by, even very conservative studies place it as high as 10% &#8212; a staggering number to those who place their trust in Science.</p>
+
+<p>Judson is at various times a historian, philosopher, sociologist, journalist, and student of science, but he combines all this into a detailed book that combines the best of each field &#8212; the journalism is thrilling and readable, the science accurate, the history and social causes analyzed, and so on. Judson seems to know everything about the subject &#8212; he&#8217;s at every major event, he interviews every major figure at their home, and so on. The result is a through book.</p>
+
+<p>The book traces the cultural context of fraud, analyzes the history of fraud (Mendel, Darwin, Pasteur, Freud &#8212; all committed fraud to some extent), gives a very detailed description of many modern cases of fraud (including a whole chapter on the famed &#8220;Baltimore affair&#8221;), then discusses the problems of peer review and authorship, which most people think prevent fraud, then onto the future of science with open access publications on the Internet, and closing with how institutions can respond to end fraud.</p>
+
+<p>Judson paints a picture of a scientific community that is trapped in its own sense of infallibility. Whistleblowers brings evidence fraud to the university president and he (almost always a he) brushes them off saying &#8220;it doesn&#8217;t happen here&#8221;. And anyway, science is self-correcting. The whistleblower goes public and gets fired &#8212; they&#8217;re inventing a fuss, tarnishing the name of the university. The government&#8217;s Office of Research Integrity investigates and concludes it is fraud but the case is appealed to a board of lawyers who don&#8217;t understand the science, are not allowed to look at the scientific evidence, and almost always overturn the case, making specious arguments like &#8220;if this data was fraudulent, it wouldn&#8217;t look so messy&#8221;. Even in the rare case when fraud is generally conceded, all the usual figures trot out the usual &#8220;few bad apples&#8221; claim &#8212; the rest of science is just fine, they say. When Congress dares hold hearings on the matter, the scientists being questioned rile up their colleagues by claiming that government is attacking scientific freedom.</p>
+
+<p>So, in the end, the whistleblower ends up disgraced and unemployed, usually viciously attacked in public. The fraudster might have to go to another university or even retire early if it&#8217;s really bad. And the department head who let it happen under him gets no blame and so has no incentive to change things. And so fraud goes on, uninvestigated, unimpeded.</p>
+
+<p>What&#8217;s the fraud like? A few examples:</p>
+
+<ul>
+<li><p>William T. Summerlin (chief of transplantation immunology at Sloan-Kettering) claimed he could transplant onto animals corneas, glands, and skin that would normally be rejected &#8212; sometimes even across species. He was discovered only after three years of this when a lab assistant noticed that the black &#8220;skin graphs&#8221; were drawn on with a marker (all the rest of his work turned out to be fake as well).</p></li>
+<li><p>John Long (a resident) studied Hodgkins&#8217;s cell lines at Mass General in collaboration with MIT. A year later, a junior colleague charge fraud and it was discovered that the cell lines were from monkeys and healthy people.</p></li>
+<li><p>Elias A. K. Alsabti (a researcher at Boston University) had published sixty papers by his mid-twenties, when it turned out that most of them were papers published in obscure foreign journals with only slight changes (like a new title).</p></li>
+<li><p>Vijay Soman, an assistant professor at Yale, was asked to peer review a paper by Helena Wachslicht-Rodbard. He sent back a negative review, delaying publication, then turned around and submitted the same paper to another journal. He was found out when, in an amazing twist of fate, Helena Wachslicht-Rodbard was asked to peer review Soman&#8217;s paper and recognized it as her own.</p></li>
+<li><p>John Darsee had published dozens of papers with completely made up data &#8212; and done an incredibly bad job making up the data. (One paper claimed a father had four children &#8212; conceived when he was 8, 9, 11, and 12 years old, respectively.) To cover up this fact, Darsee had practiced &#8220;gift authorship&#8221; &#8212; adding people as co-authors even when they didn&#8217;t do any work. Darsee had been at Harvard for three years before he was discovered by some postdocs, even then it took the university five months to admit the fraud.</p></li>
+<li><p>Stephen Breuning (University of Pittsburgh) studied the long-term effects of certain tranquilizers on mentally ill patients. His research found they were seriously damaging the patients and it causes mental hospitals to change procedures. Two years later, Breuning&#8217;s mentor at the University of Illinois began to suspect that Breuning couldn&#8217;t possibly have time to do all the work he claimed to be doing. &#8212; and sure enough he made it up. Sparague (the senior of the two, remember) sent a report to the National Institute of Mental Health (NIMH), which funded Breuning. Breuning was forced to resign and NIMH appointed an investigator &#8212; who proceed to investigate <em>Sprague</em>. Seeing that Breuning&#8217;s work was not being investigated and corrected, Sprague went public. His federal funding was cancelled. Sprague was asked to testify before Congress, in response the University of Pittsburgh threatened a libel suit.</p></li>
+</ul>
+
+<p>That&#8217;s a small sample &#8212; the cases go on and on. Kudos to Judson for shedding light on a topic few know even exists.</p>
+
+<ul>
+<li><a href="http://www.amazon.com/exec/obidos/ASIN/0151008779/ref=nosim/coolbooks02/">Buy from Amazon</a></li>
+<li><a href="http://www.harcourtbooks.com/bookcatalogs/bookpages/0151008779.asp">Publisher&#8217;s webpage</a></li>
+</ul>
+
+<p class="posted">posted March 14, 2005 11:54 AM (<a class="category" href="cat_books">Books</a>) (<a href="#comments">8 comments</a>) <a href="001616" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001614" title="Blogshine Sunday: US Greenlights, Funds Genocide">&laquo; prev</a> | <a href="./">up</a> | <a href="001618" title="How is Disney like the Soviet Union?">next &raquo;</a></p>
+
+<p><a href="001600">Stanford: You Really Don&#8217;t Have To Read This</a><br />
+<a href="001598">What can you say to that?</a><br />
+<a href="001599">The Republican Playbook</a><br />
+<a href="001606">The Case Against Lawrence Summers</a><br />
+<a href="001614">Blogshine Sunday: US Greenlights, Funds Genocide</a><br />
+<strong>Fraud in Science</strong><br />
+<a href="001618">How is Disney like the Soviet Union?</a><br />
+<a href="001622">Summer Founders</a><br />
+<a href="001626">The Truth About the Drug Companies</a><br />
+<a href="001627">The Truth About Maryland</a><br />
+</p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c4494">
+
+<p>Seems to me that the detection of all these cases of fraud is a reasonable demonstration that science is self-correcting.  The fact that people&#8217;s careers aren&#8217;t destroyed quite as thoroughly as you seem to hope for is not evidence against this view.  When people say science is self-correcting, they mean the body of knowledge is constantly being improved because fraudulent and bad work is being rooted out.  They don&#8217;t mean that fraudulent scientists are jailed for dishonesty.</p>
+
+<p class="posted">posted by Michael at March 14, 2005 06:14 PM <a href="#c4494">#</a></p>
+
+</div><div id="c4495">
+
+<p>I don&#8217;t care what happens to the people involved, that wasn&#8217;t my point. (Personally, I don&#8217;t think they should be punished.) No, look at how these things were discovered: the majority were minor lab people who saw something odd and spoke up. Who knows how many things aren&#8217;t caught by minor lab people? How many lab people don&#8217;t speak up? (Anonymous surveys show that a huge number have seen fraud but haven&#8217;t reported it to anyone.) How many did report it but were ignored or threatened? And on and on. These are just the cases that were caught, who knows how many are there under the surface?</p>
+
+<p>Does this level of fraud have a major impact on the general &#8220;body of knowledge&#8221; of sciences &#8212; I&#8217;d doubt it. But that doesn&#8217;t mean it doesn&#8217;t have an impact &#8212; the false neuroleptic data was really affecting mentally ill people, and there are many other examples.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=4495">Aaron Swartz</a> at March 14, 2005 06:59 PM <a href="#c4495">#</a></p>
+
+</div><div id="c4497">
+
+<p>I see two kinds of fraud here. In the first, the data and the results are bogus. In the second, the experimenetal methodology itself is fine (or so I hope), but the results are stolen from the actual researchers and published by someone else who claims all the credit.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://mncw.tk/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=4497">bi</a> at March 15, 2005 03:37 AM <a href="#c4497">#</a></p>
+
+</div><div id="c4500">
+
+<p>How many of the fraud charges in the book were made in fields like physics or chemistry? It seems to me that most of these charges are related to fraud in biotech-related subjects. With the huge spending increase that has taken place in biotech over the last few decades, it should come as no suprise that pressure on results make some people do less than honourable things. </p>
+
+<p class="posted">posted by Toby at March 16, 2005 12:55 AM <a href="#c4500">#</a></p>
+
+</div><div id="c4509">
+
+<p>Most of these cases involved researchers simply making up data. That shouldn&#8217;t matter. Other labs can follow up on that work and show it is inconsistent. Science is self-correcting in this regard. The NIMH was irresponsible to modify therapeutic practices with only one researcher&#8217;s study as a basis.</p>
+
+<p>Furthermore, a lot of those cases involve medical researchers, and medical research, in my opinion, barely qualifies as science. Their sample size is often tiny, but they obscure that fact. I have read medical research papers with four patients that talk about a 75% success rate.</p>
+
+<p>Unethical competition, however, is a serious problem. Everyone has stories of this. Science relies on the open exchange of ideas, and many people abuse that. It generally takes the form of &#8220;stealing&#8221; preliminary work and ideas from less established researchers. A new professor, with a small lab, has a promising start on a project. A more established professor takes the idea, and with a larger lab and more resources, gets a paper out first. This is a difficult problem to address, as it really comes down to a lack of professional respect, rather than outright fraud.</p>
+
+<p class="posted">posted by Justin at March 16, 2005 12:23 PM <a href="#c4509">#</a></p>
+
+</div><div id="c4523">
+
+<p>Justin says &#8220;other labs can follow up on [fraudulent] work and show it is inconsistent&#8221;. But there are no grants given for replication studies so they&#8217;re very rarely done and studies that build on the fraudulent study generally assume its true and thus don&#8217;t show any inconsistencies.</p>
+
+<p>I don&#8217;t think the problem with &#8220;unethical competition&#8221; is &#8220;a lack of professional respect&#8221; &#8212; the problem is with competition.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=4523">Aaron Swartz</a> at March 16, 2005 08:27 PM <a href="#c4523">#</a></p>
+
+</div><div id="c4524">
+
+<p>Cool review - thanks for sharing it. One nitpicky question: In the first example of fraud you provide, you state: &#8220;William T. Summerlin [&#8230;] claimed he could transplant corneas, glands, and skin that would normally onto animals — sometimes even across species.&#8221;</p>
+
+<p>&#8220;Would normally&#8221; what? Was it &#8220;be rejected&#8221;? Just curious. Thanks!</p>
+
+<p class="posted">posted by Michael at March 16, 2005 08:46 PM <a href="#c4524">#</a></p>
+
+</div><div id="c4571">
+
+<p>An intriguing book; Toby wonders about physics and chemistry.  An interesting case was that of Leo Paquette, who reviewed someone&#8217;s grant, then published the background material from the grant as his own in a paper in the highly regarded Journal of the American Chemical Society.  In the end, Ohio State decided it was plagiarism, the chemistry department there, however, argued that it didn&#8217;t really matter (since it wasn&#8217;t the actual experiments that were lifted, just someone&#8217;s prose and research work).  The NSF banned Paquette from getting federal funds for two years, but then funded him with a half-million dollars when the ban was up.  So it didn&#8217;t kill his career, though I wonder if someone less eminent had done it, would it have?  and if those who are more eminent in the field should in fact be held to a higher standard, rather than lower?  or at least eat only their own young (aka grad students) and not the young of others!?</p>
+
+<p class="posted">posted by Michelle   at March 16, 2005 11:18 PM <a href="#c4571">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001616.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1616" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

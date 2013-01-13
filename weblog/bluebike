@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Ode to a Blue Bicycle (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Ode to a Blue Bicycle</h1>
+
+<p>For the longest time, I treated my bicycle as an extension of myself. I would strap on my helmet and jacket, fit myself into the seat, and firmly attach my arms to the handle bars and go. From then on, I saw myself as the bicycle. When I wanted to turn left, I&#8217;d rotate my arms left and we&#8217;d all move left. I didn&#8217;t think of it as having the bike move left and staying on the bike &#8212; I thought of it as moving left. The bike was a part of me.</p>
+
+<p>It&#8217;s the same way I think of a car. You buckle into your seatbelt and suddenly you grow to become this huge hunk of metal that tears down the road. Moving left or right is now done through the steering wheel, but it still seems like you&#8217;re the one who&#8217;s doing the moving.</p>
+
+<p>Body parts act kind of like our agents. When I want to raise my hand, I simply think to do so and my hand flies up. I let the rest of my body worry about the details. Similarly, when I want my bike to turn left I simply rotate the handle and let it use its momentum to wheel me over.</p>
+
+<p>But here&#8217;s the thing. I recently bought a nice, new, blue bike. And something strange happened. I stopped seeing it as an extension of my body, and started seeing it as just another tool. And suddenly riding it became a lot more fun.</p>
+
+<p>I didn&#8217;t have to stay attached to the bike all the time. I could keep one foot on a pedal and swing the other one over. Or I could go left while the bike went right, the two of us swinging back and forth in a counterweight dance. Or I could let the bike go ahead of me or behind me.</p>
+
+<p>It seems counterintuitive that you&#8217;d get more out of a bike when you started treating it as a tool. People speak in glowing terms of how their cars act as extensions of their body, a perfect meld between mind and machine. And maybe that makes sense for cars (they&#8217;re big and confusing enough that there&#8217;s not much else you can do). But I think this is another case of <a href="http://www.aaronsw.com/weblog/smartabstractions">the genius being in the details</a>. Once I saw the bike as a bike, I could use it in ways that weren&#8217;t particularly intended.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">March 11, 2007</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>The &#8216;extension of your body&#8217; effect is really strong, and it&#8217;s not only control but in reception. I once cut too close to some pedestrians in Boston, and one of them slapped my car. It was as shocking as if they&#8217;d hit me personally. It&#8217;s not just me, I later similarly slapped a car that drove past me over a crosswalk one night, and the driver got out and swung at me (I got away unhit). But the identity with the vehicle goes quite far.</p>
+
+<p class="posted">posted by Car Slapper
+ on March 11, 2007 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>Remind me not to walk around in Boston.</p>
+
+<p class="posted">posted by David McCabe
+ on March 12, 2007 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="bluebike" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

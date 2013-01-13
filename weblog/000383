@@ -1,0 +1,43 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Recursive Blogging (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000382" title="Introducing Memesh" />	<link rel="next" href="000385" title="Putting an End to ICANN" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Recursive Blogging</h1>
+</div>
+
+<div class="content">
+<p><a href="http://radio.weblogs.com/0103021/">Matthew Langham</a> is presenting <a href="http://conferences.oreillynet.com/cs/os2002/view/e_sess/3000">on blog aggregation</a> at <a href="http://www.aaronsw.com/weblog/000371">OSCON</a> and doing something I thought should have been done a while back. He&#8217;s getting someone to liveblog the talk, then including that in his presentation. This could make for really funny jokes (blogging &#8220;Geez, this presentation is so boring&#8230;&#8221; etc.).</p>
+
+<p class="posted">posted July 02, 2002 10:40 AM (<a class="category" href="cat_technology">Technology</a>)  <a href="000383" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000382" title="Introducing Memesh">&laquo; prev</a> | <a href="./">up</a> | <a href="000385" title="Putting an End to ICANN">next &raquo;</a></p>
+
+<p><a href="000373">Ooh, A Webcam</a><br />
+<a href="000374">TCPA and Palladium in Plain Terms</a><br />
+<a href="000380">Web Roundup</a><br />
+<a href="000381">Introducing web.resource.org</a><br />
+<a href="000382">Introducing Memesh</a><br />
+<strong>Recursive Blogging</strong><br />
+<a href="000385">Putting an End to ICANN</a><br />
+<a href="000387">Today&#8217;s Hack: html2text Converter</a><br />
+<a href="000389">Debunking the Debunkers</a><br />
+<a href="000390">Reevaluating Copyright</a><br />
+<a href="000393">Freedom, Independence</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

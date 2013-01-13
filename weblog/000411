@@ -1,0 +1,49 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Writing Useful Web Content (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000410" title="Glorious Linkfulness" />	<link rel="next" href="000412" title="OSCON Key Signing Party" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Writing Useful Web Content</h1>
+</div>
+
+<div class="content">
+<p><a href="http://robotwisdom.com/">Jorn Barger</a> remains one of the foremost authorities on writing useful web content and annotational pages. This is one of the subjects I&#8217;m interested in, because I often have crazy dreams of creating topic pages that combine differing points of view and a summary of the issues rather than having to put something like that together in an ad-hoc way each time I discuss the subject. Watching Jorn <a href="http://www.robotwisdom.com/web/pragmatics.html">discuss these issues in a thoughtful way</a> is always inspiring.</p>
+
+<p>Jorn <a href="http://www.robotwisdom.com/web/linktext.html">hates reading lots of underlined text</a> (<a href="http://groups.google.com/groups?selm=1e44ikr.1r8i9ja11bjdteN%40216-80-34-26.d.enteract.com">in preference to text buttons</a> (I like text buttons but prefer the look of links being contained inside the brackets)). Hm, maybe this is why people turn underlining off or resort to weird mouseOver box schemes and <a href="http://oreillynet.com/~rael/">color schemes that make finding the actual link just about impossible</a>. Again, because of Fitt&#8217;s law I usually try to make the link text as long as reasonable, but with long quotes it gets annoying fast.</p>
+
+<p>Aha: &#8220;We will distinguish &#8216;anchor text&#8217; which is positioned between the opening and closing A-tag (ie, usually highlighted blue and underlined) from the longer stretch of &#8216;link text&#8217; which refers to the link but may not be entirely within the actual anchor tags.&#8221; </p>
+
+<p>This reminds me of Sean B. Palmer&#8217;s work on integrating yolk/egg into HTML. (Hm, Google can&#8217;t find a link. I hope he didn&#8217;t take it down!) Sean calls the highlighted text the yolk and the surrounding text the egg. It&#8217;d be cool to whip up some CSS that made the egg look like plain text (but still go to the site if you clicked on it) and kept the yolk highlighted. I guess it would look like:</p><blockquote>&lt;a href=&#8221;&#8230;&#8221;>Fred Corp and Ned Labs have announced a joint venture &lt;span class=&#8221;yolk&#8221;>create killer babies&lt;/span> and deploy them in war-torn countries.&lt;/a> I think this is a bad idea because war-torn countries don&#8217;t need any more trouble, least of all killer babies.</blockquote><p>in HTML. That&#8217;s not so hard to write. Of course it would annoy people without CSS support.</p>
+
+<p class="posted">posted July 12, 2002 01:00 AM (<a class="category" href="cat_technology">Technology</a>)  <a href="000411" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000410" title="Glorious Linkfulness">&laquo; prev</a> | <a href="./">up</a> | <a href="000412" title="OSCON Key Signing Party">next &raquo;</a></p>
+
+<p><a href="000405">Train Dream</a><br />
+<a href="000406">Building Baked Sites</a><br />
+<a href="000408">locked up all alone</a><br />
+<a href="000409">after a busy day of overthrowing governments&#8230;</a><br />
+<a href="000410">Glorious Linkfulness</a><br />
+<strong>Writing Useful Web Content</strong><br />
+<a href="000412">OSCON Key Signing Party</a><br />
+<a href="000413">today&#8217;s featured superhero: Seth Schoen</a><br />
+<a href="000414">Public Speaking and Writing</a><br />
+<a href="000415">smiling dogs</a><br />
+<a href="000418">the circle of life continues</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

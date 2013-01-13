@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>A Reading Machine (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>A Reading Machine</h1>
+
+<p>One of the things that has long puzzled me is why children, who so incredibly pick up spoken language without formal instruction, encounter so much trouble when learning to read. Perhaps, I thought for a while, it is because there is a &#8220;language organ&#8221; that has specifically evolved to let them learn speech while reading has to be learned with more general portions of the brain. But the more I learn about neurology, the more ridiculous that seems.</p>
+
+<p>In retrospect, the answer is rather obvious. Children learn a language because they are surrounded by it. It&#8217;s unavoidable. Their world is full of people speaking it and the pattern matchers in their brains go to town, figuring out the structures underlying its grammar and associated its vocabulary with the other things they see around them.</p>
+
+<p>It&#8217;s impossible for there to be anything similar with words. Sure, some words appear in fairly regular positions (MEN on bathroom doors, perhaps) and children may learn to recognize them, but for the most part words are rather avoidable and their patterns hard to spot. How are children to draw a connection between the words in the newspaper and any sentences that they can understand? The only clues are the pictures and anyone who&#8217;s read picturebooks to a kid knows that kids make valiant use of those few clues, but it&#8217;s simply not enough to let them learn to read.</p>
+
+<p>What&#8217;s needed is a way to give children the additional clues they require, but at their own pace. An adult can read books but only reads linearly and soon gets bored of reading the same thing over and over again. (I&#8217;ve often thought that children were being stupid by reading the same things over and over and over again. Now I realize I&#8217;m the stupid one; it&#8217;s the kids who are being smart. Only through repetition can your brain see the patterns!) It&#8217;s very difficult for children to pick up a pattern under such conditions.</p>
+
+<p>But devices never get tired, so I would propose a device. Here is what I imagine: Give the child an iPad with a special program for reading books. The program provides a selection of nice picture books with words in large type underneath. Switching pages can be done the usual way; kids seem pretty good at figuring out gestural interfaces. But the big innovation is simply this: when you touch a word, it turns red while the speakers say it out loud.</p>
+
+<p>In this way, the child can have the machine read the book to them. Tap the words in sequence and the book pronounces them. If a word is somehow unclear, just tap it again. When you finish the page, just go to the next one. When you finish a book, read another, or start over.</p>
+
+<p>Soon, I imagine, the child will make some basic associations. They will learn that tapping the word &#8220;the&#8221; makes the sound &#8220;thuh&#8221; and means &#8220;the&#8221;. They will no longer need to tap it every time to find this out &#8212; they can save time by saying it out loud themselves. Eventually, they can just say it in their heads.</p>
+
+<p>Pretty quickly, more and more common words can be handled this way. Then the child begins noticing patterns between common words. All the words beginning with k have a kuh sound! With such patterns recognized, some words can be sounded out. Eventually, only strange words need to be tapped &#8212; the rest the child can read by themselves.</p>
+
+<p>People who have not spent much time around children might claim such a device will make children lazy &#8212; why learn to read when a device will do it for them? But children are desperate to read; those who cannot will often try to memorize the shorter books their parents read to them so they can pretend to read those books themselves. This device would simply give them the tools they need. It would lead their brains to make the same associations that the software makes occur physically: point at this word, hear this sound. And there&#8217;s nothing are brains are better at than recognizing such simple patterns and being able to predict them in the future.</p>
+
+<p>Perhaps this software already exists. If so, please tell me. If not, I&#8217;d like to work with someone to make it. Will it work? There&#8217;s only one way to find out, but I think it&#8217;s got a pretty good shot.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">March 29, 2010</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>Have you ever seen the &#8220;Leap Pad&#8221; products? They do pretty much exactly what you describe here, and are a lot more Fisher-Price-durable than any iPad. My youngest is in 4th grade now, but there&#8217;s no way I would have let her near an iPad-scale device while she was at learning-to-read age. It&#8217;s a good thing that Leap Pad was TOUGH!</p>
+
+<p>Walter</p>
+
+<p class="posted">posted by Walter Davis
+ on March 29, 2010 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>This problem is not as prevalent in more phonetic languages. My family and I were discussing this last weekend - in Russian, as soon as you learn the alphabet, you can read since you can just sound out the words one letter at a time, then say them faster, and in nearly every case, you&#8217;ll hear the word you just read.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://postfarm.net/">Pavel</a>
+ on March 29, 2010 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>I used to have this computer like toy as a kid - which is some 20 yrs ago.I think it was called Speak and Spell or something. All I remember about it was the it was some educational aid from TI, and had cassettes (?) with various kind of subject matter. What I had was for English, and it had various levels, and fun ways of enhancing your vocabulary - like a hangman game, where the device used to pronounce the word when it was fully shown.</p>
+
+<p class="posted">posted by Divya
+ on March 29, 2010 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>It was &#8220;Speak and Spell&#8221;. Found this online simulator for it: http://www.speaknspell.co.uk/</p>
+
+<p>I am quite proud of myself for remembering the device&#8217;s name, and that it was from TI, after so many years :)</p>
+
+<p class="posted">posted by Divya
+ on March 29, 2010 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>Pavel&#8217;s point is spot on.  English is an outlier among alphabetically encoded languages; for data on the effects of orthography on learning to read, see <em>Foundation literacy acquisition in European orthographies</em> &lt;www.psycho.univ-paris5.fr/IMG/pdf/2003_Seymour.pdf>.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://rhetoricaldevice.com">Jack Rusher</a>
+ on March 29, 2010 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c6">
+<p>There are a bunch of websites and games out there like this. My four-year-old daughter uses this one a lot:</p>
+
+<p>http://www.starfall.com/n/level-a/learn-to-read/play.htm?f</p>
+
+<p>Although these devices and applications have their place, my sense is hands-on personal training is far more effective (if time consuming). Children seem to absorb differently with human interaction rather than machine, as I&#8217;m sure all people do. I taught my daughter to read with this book:</p>
+
+<p>http://www.startreading.com/</p>
+
+<p>It&#8217;s at least my intuition that an automated/machine-based approach would have been a very poor substitute.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://adam.rosi-kessel.org">Adam Rosi-Kessel</a>
+ on March 29, 2010 <a href="#c6" rel="bookmark">#</a></p>
+</div>
+<div id="c7">
+<p>The difference ist, that language is &#8220;natural&#8221; while writing, reading and by that also letters are manmade. Out brain is not made for reading. 
+I&#8217;m not sure you can find this one in english. Worth reading, though
+http://tinyurl.com/ycp9u8z</p>
+
+<p class="posted">posted by whatever
+ on March 29, 2010 <a href="#c7" rel="bookmark">#</a></p>
+</div>
+<div id="c8">
+<p>One difference between this and the way they learn vocal language is that the kids won&#8217;t be producing written language, just consuming it. I wonder if a kid who used a system like this would be relatively behind in their spelling skills?</p>
+
+<p>I&#8217;ve heard it claimed that there&#8217;s been some decline in ability to remember all the strokes of characters among Chinese and Japanese speakers, because of word processors that let you type the word phonetically then pick the right character from a list. The technique only provides practice with recognition skills, not production skills.</p>
+
+<p class="posted">posted by Chris
+ on March 29, 2010 <a href="#c8" rel="bookmark">#</a></p>
+</div>
+<div id="c9">
+<p>I work IT in a school system and Kurzweil 3000 does exactly this.</p>
+
+<p>You basically scan in a textbook (or any printed matter) and it reads it back to the kids. They can repeat sentences, words, etc. as they need.</p>
+
+<p>The teacher in charge swears by it for helping less developed and challenged students.</p>
+
+<p>It&#8217;s also about $3K for the basic package.</p>
+
+<p class="posted">posted by A dude
+ on March 30, 2010 <a href="#c9" rel="bookmark">#</a></p>
+</div>
+<div id="c10">
+<p>How have (or could) these ideas be applied to adults learning a second language? Since reading seems to be a less &#8220;primal&#8221; language ability, should initial adult language learning be entirely aural (as it certainly is in some immersion programs)?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://pwhite.org">Patrick White</a>
+ on March 30, 2010 <a href="#c10" rel="bookmark">#</a></p>
+</div>
+<div id="c11">
+<p>I have seen variations of what you are describing. There are &#8220;toys&#8221; like Leap Pad, just go to a Target and look in the children&#8217;s section. Baby Einstein brand has something similar as well. I also recall an MIT Media Lab/TED video that touched on similar technology.</p>
+
+<p>Most children learn to read naturally unless there is a developmental problem. You might want to read up about children&#8217;s developmental stages (Piaget for example), and different pedagogies (Waldorf, Montessori, Emilio Reggiano, etc).</p>
+
+<p>Some schools like Waldorf don&#8217;t teach a child to read/write till much later unless the child shows an interest. There&#8217;s something to be said for letting a child be a child. One of the ways to help with speech for example is through music (Kodaly’s theories). My child had Kodaly music lessons and he is highly verbal predominantly in English with comprehension in Cantonese and Mandarin.  I think the best way to encourage a child to learn at this developmental stage is with play. Hence the Leap Pad “toys”.</p>
+
+<p class="posted">posted by winnie
+ on March 30, 2010 <a href="#c11" rel="bookmark">#</a></p>
+</div>
+<div id="c12">
+<p>DAISY digital talking book, NISO standard:
+http://www.daisy.org/daisy-standard</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://kcoyle.net">kcoyle</a>
+ on March 30, 2010 <a href="#c12" rel="bookmark">#</a></p>
+</div>
+<div id="c13">
+<p>I&#8217;m of two minds on this.  The first is do whatever it takes to help a child learn.  And the second is &#8220;what of the divine lesson of being told to go look it up for yourself?&#8221;</p>
+
+<p>Then there is a bias to be considered of putting something that functions like a book in their hands besides books.</p>
+
+<p>So oh, yeah, from infancy on kids can get these things that do the distracting things the regular &#8220;NotBooks&#8221; so diddling about the interface becomes a &#8220;baby thing&#8221; and not a distraction as they get older (major consideration.)</p>
+
+<p>I think you ought to go back to coming up with a program to use OCR as a penmanship program that will have all earthlings writing in the same style which has been based on Jokerman Font.</p>
+
+<p>Oh wait, that&#8217;s what I&#8217;m working on.</p>
+
+<p>So if a word has multiple definitions what?  The kid answers a multiple choice question or is the definition determined by how it is used (pre-programed?) A good exercise might be to allow the child to insert the definition in place of the word.</p>
+
+<p>But I don&#8217;t know.  Once you start with stuff like exposing kids to the complexity of language it&#8217;s going be hard to keep them bamboozled by the complexity of adult life.  Which is largely just pursuit of childish wants on a grand scale.</p>
+
+<p>I can&#8217;t imagine that you aren&#8217;t already aware of this or something like this, but the NY Times site pops up a little box with a question mark in it when any text area is selected.  Click the box and either a definition for a single word or search suggestions for a group of words or a name appears in a new window.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.nytimes.com/2009/10/24/education/24baby.html">James Hardy</a>
+ on March 30, 2010 <a href="#c13" rel="bookmark">#</a></p>
+</div>
+<div id="c14">
+<p>There is a wide body of research on such &#8220;sight word&#8221; or &#8220;look and say&#8221; methods. Start here: http://en.wikipedia.org/wiki/Reading_education.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://cyrus.omar.name/">Cyrus Omar</a>
+ on April  1, 2010 <a href="#c14" rel="bookmark">#</a></p>
+</div>
+<div id="c15">
+<p>While some writing systems are more phonetic than English, others are much less so.  If you think learning to read English is a challenge, try Chinese or Japanese.</p>
+
+<p class="posted">posted by Theognis
+ on April  2, 2010 <a href="#c15" rel="bookmark">#</a></p>
+</div>
+<div id="c18">
+<p>the tech exists, but I can&#8217;t imagine that it would substitute well for a person reading aloud to their kid, the classic way to teach someone to read. You&#8217;d miss inflection, association with pictures, digression to answer questions, funny faces, etc. etc&#8230; not to mention all the warmth and love that comes from being read to.</p>
+
+<p>I learned to read very early, and I have a very clear memory of it: of the patterns of letters falling into place on the page, like coming into focus. I think there&#8217;s a level of learned abstraction there &#8212; the print can be not just spoken but read &#8212; that might (?) be confused if the print also read itself.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://phoebeayers.info">phoebe</a>
+ on April 25, 2010 <a href="#c18" rel="bookmark">#</a></p>
+</div>
+<div id="c19">
+<p>FWIW, I could read fluently by age 4 – even though no one explicitly taught me. My father just did that accidentally: every day he would sit me on his lap and read to me from some book he would put in my lap, while carefully tracing the words he was reading with his index finger.</p>
+
+<p>It didn’t take the pattern matcher in my brain a very long time to catch on.</p>
+
+<p>And once I’d learned to read Greek, German then followed soon after I learned to speak it.</p>
+
+<p>So I would actually dispute your assertion that “it’s impossible for there to be anything similar with words”.</p>
+
+<p>I would even dispute the need for this to happen at the child’s pace. Children don’t have the luxury of picking their pace when they learn spoken language and I don’t think it’s essential in written language either.</p>
+
+<p>All they need is ample opportunity to learn connections between spoken words and their written equivalents. The rest they will do themselves – and pretty much inevitably.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://plasmasturm.org/">Aristotle Pagaltzis</a>
+ on April 26, 2010 <a href="#c19" rel="bookmark">#</a></p>
+</div>
+<div id="c23">
+<p>A kind of inverse application of voice synthesizers that has been used and studied since the mid-1980&#8217;s has been in college remedial writing programs where a student&#8217;s &#8220;error-filled&#8221; composition is typed into a Kurzweil voice-synthesizer.  The student then hears his composition being read aloud.  Since the synthesized voice is quite obviously not human, the student does not feel mocked or threatened by having the errors read aloud, and indeed often feels as though he is participating in a game, but one is which he is learning that a writer has to be a reader of his own work as well as &#8220;just&#8221; a writer.  Some interesting research has been done on the effectiveness of such devices, and most have been quite positive on the technique.</p>
+
+<p class="posted">posted by Andrew Gurcak
+ on June 17, 2010 <a href="#c23" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="readingmachine" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

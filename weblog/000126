@@ -1,0 +1,43 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Ken Rawlings drops a line (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/000126.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000125" title="Hmm&#8230; want to send me" />	<link rel="next" href="000127" title="Validating Radio UserLand" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Ken Rawlings drops a line</h1>
+</div>
+
+<div class="content">
+<p><a href="http://radio.weblogs.com/0101156/">Ken Rawlings</a> drops a line about his new <a href="http://radio.weblogs.com/0101156/opml_html.xml">XSLT script</a> to convert OPML (especially mySubscriptions files) into HTML. His version includes links and orange XML buttons, but isn&#8217;t as pretty (IMHO) as <a href="http://www.netcrucible.com/xslt/opml.html">Joshua Allen&#8217;s original</a> so I made a few modifications to <a href="http://radio.weblogs.com/0100663/gems/renderopml.xml">produce my own version</a>.<p /><p />So if you&#8217;re still with me after all that (or even if you&#8217;re not) here&#8217;s <a href="http://www.w3.org/2000/06/webdata/xslt?xslfile=http%3A%2F%2Fradio.weblogs.com%2F0100663%2Fgems%2Frenderopml.xml&amp;xmlfile=http%3A%2F%2Fradio.weblogs.com%2F0100663%2Fgems%2FmySubscriptions.opml">the RSS feeds I&#8217;m subscribed to</a>.<p /><p />Thanks to <a href="http://www.netcrucible.com/blog/about.html">Joshua</a>, <a href="http://www.cs.indiana.edu/~krawling/AboutMe.html">Ken</a> and <a href="http://www.w3.org/People/all#ted">Ted</a>.</p>
+
+<p class="posted">posted January 20, 2002 02:07 AM (<a class="category" href="cat_"></a>)  <a href="000126" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000125" title="Hmm&#8230; want to send me">&laquo; prev</a> | <a href="./">up</a> | <a href="000127" title="Validating Radio UserLand">next &raquo;</a></p>
+
+<p><a href="000121">The Columbia Small World Project</a><br />
+<a href="000122">Python RSS Parsing Tools</a><br />
+<a href="000123">Fun in the Snow</a><br />
+<a href="000124">New Server Arrives Today</a><br />
+<a href="000125">Hmm&#8230; want to send me</a><br />
+<strong>Ken Rawlings drops a line</strong><br />
+<a href="000127">Validating Radio UserLand</a><br />
+<a href="000128">Several years ago an aunt</a><br />
+<a href="000129">Dave makes a commitment to</a><br />
+<a href="000130">Rael Dornfest: Nutsy. &#8220;That&#8217;s ever</a><br />
+<a href="000131">US Congress: Universal Military Training</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

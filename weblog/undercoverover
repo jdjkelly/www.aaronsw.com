@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Is Undercover Over? (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Is Undercover Over?</h1>
+
+<p>My latest piece for <em>Extra!</em> is now up:</p>
+
+<p><a href="http://www.fair.org/index.php?page=3391">Is Undercover Over?: Disguise seen as deceit by timid journalists</a></p>
+
+<p>It&#8217;s about the rise and fall of undercover journalism. Here&#8217;s an excerpt:</p>
+
+<blockquote>
+  <p>Undercover reporting has a storied history. Nellie Bly, famous for traveling around the world in 80 days, also did a famed investigation of the conditions in insane asylums for the New York World. Bly feigned insanity for a series of physicians before being committed to a lunatic asylum. There she documented rotten and spoiled food, freezing living conditions, frigid bathwater, abusive nurses and relatively sane fellow residents. &#8220;What, excepting torture, would produce insanity quicker than this treatment?&#8221; she wondered. The series, later published as the book Ten Days in a Mad-House, created a sensation, and Bly was asked to join a government investigation of asylum conditions.</p>
+</blockquote>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">June 12, 2008</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>I liked the article and agree with the opinion that it seems to convey.</p>
+
+<p>The question running through my head while reading it, &#8220;Is it really that hard not to get sued?&#8221; It seems like you can be creative in your deception and double check your allegations. Furthermore, are allegations made by undercover investigations any more likely to spur a lawsuit than those made through more conventional journalism?</p>
+
+<p class="posted">posted by Alex
+ on June 13, 2008 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="undercoverover" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

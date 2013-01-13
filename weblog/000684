@@ -1,0 +1,47 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Sinister RSS Conspiracy (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/000684.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000683" title="all the features, none of the fat" />	<link rel="next" href="000685" title="Gelernter on TechTV" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Sinister RSS Conspiracy</h1>
+</div>
+
+<div class="content">
+<p><a href="http://diveintomark.org/archives/2002/10/22.html#rss_validator">Mark Pilgrim</a>, <a href="http://www.intertwingly.net/blog/">Sam Ruby</a> and <a href="http://www.archive.org/">the Internet Archive</a> are all in <a href="http://feeds.archive.org/">a vast underground conspiracy</a> to <a href="http://feeds.archive.org/validator/">validate RSS feeds</a>.</p>
+
+<p>The site <a href="http://feeds.archive.org/validator/about.html">claims to be hosted by Bill Kearney</a> and the server appears to be at the Internet Archive.</p>
+
+<p>Seriously, though: very nice work.</p>
+
+<p class="posted">posted October 22, 2002 12:03 AM (<a class="category" href="cat_technology">Technology</a>)  <a href="000684" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000683" title="all the features, none of the fat">&laquo; prev</a> | <a href="./">up</a> | <a href="000685" title="Gelernter on TechTV">next &raquo;</a></p>
+
+<p><a href="000677">Bernstein Reports</a><br />
+<a href="000678">Who&#8217;s Making a What?!</a><br />
+<a href="000679">These Are A Few of My Favorite Fonts</a><br />
+<a href="000681">little voices in my head</a><br />
+<a href="000683">all the features, none of the fat</a><br />
+<strong>Sinister RSS Conspiracy</strong><br />
+<a href="000685">Gelernter on TechTV</a><br />
+<a href="000688">and the voices said&#8230;</a><br />
+<a href="000689">books for reading at the Eldred victory party (or if you move to australia)</a><br />
+<a href="000690">patently &#8220;fair use&#8221;</a><br />
+<a href="000691">new arguments</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

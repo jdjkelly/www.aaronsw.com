@@ -1,0 +1,43 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>got spam? (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000553" title="Books Consume Life" />	<link rel="next" href="000557" title="MJD&#8217;s File of Good Advice" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>got spam?</h1>
+</div>
+
+<div class="content">
+<p>Well, do you? If you&#8217;ve been collecting your spam for a while (as I have), then <a href="http://paulgraham.com/wantspam.html">Paul Graham wants it</a> for his filtering work. They&#8217;ll make it public or not and remove anything specific to you. The best part is that all your spam goes to making his filters better to stop more spam in the future.</p>
+
+<p class="posted">posted September 01, 2002 10:13 PM (<a class="category" href="cat_technology">Technology</a>)  <a href="000554" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000553" title="Books Consume Life">&laquo; prev</a> | <a href="./">up</a> | <a href="000557" title="MJD&#8217;s File of Good Advice">next &raquo;</a></p>
+
+<p><a href="000548">Spring has Sprung!</a><br />
+<a href="000549">Am I Insane or Not?</a><br />
+<a href="000550">IMS/ISC Takes their Case to the BOGSAAT</a><br />
+<a href="000551">The Emergent Internet</a><br />
+<a href="000553">Books Consume Life</a><br />
+<strong>got spam?</strong><br />
+<a href="000557">MJD&#8217;s File of Good Advice</a><br />
+<a href="000558">There&#8217;s Only One Way To Do It</a><br />
+<a href="000559">JavaScript Form Validation Done Right</a><br />
+<a href="000564">Don&#8217;t Napsterize the Discussion, Guys!</a><br />
+<a href="000565">jwz is angry</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

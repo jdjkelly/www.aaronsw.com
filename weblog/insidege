@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Inside GE (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Inside GE</h1>
+
+<p>For the past six months or so, I&#8217;ve been working on getting data out of government in various ways. At one point, I was looking thru SEC files online and noticed that some portions were redacted. I filed a Freedom of Information request for the redacted portion and any documents pertaining to why it was redacted. It ended up costing $28 and to make sure I get the most for my money, I thought I&#8217;d share the results with you:</p>
+
+<blockquote>
+  <p><strong>Confidential Treatment Requested by General Electric Company</strong></p>
+  
+  <p><strong>1. Please refer to comment 5 of our letter dated August 21, 2007. Please provide a more detailed analysis justifying the omission of  disclosure [&#8230;] that specifically sets fort  the manner in which competitors could use the information to obtain the competitive advantage cited in your response.</strong></p>
+  
+  <p><strong>Response</strong></p>
+  
+  <p><em>[&#42;&#42;&#42; Confidential treatment requested for the paragraphs below:</em></p>
+  
+  <p>General Electric Company&#8217;s (&#8220;GE&#8221; or the &#8220;Company&#8221;) long-term performance awards program (the &#8220;LTPA&#8221;) is based on four equally weighted business measurements, which are: (a) average earnings per share growth rate; (b) average revenue growth rate; (c) cumulative return on total capital; and (d) cumulative cash flow from operating activities. As indicated in the Company&#8217;s response letter, dated October 10, 2007, these business measurements are used to establish financial goals (the &#8220;Goals&#8221;) for the Company over a three-year period and are directly derived from the Company&#8217;s internal, confidential business plan. Each of the Goals involves confidential information that, if made public, [REDACTED] [REDACTED] For example, upon the announcement of a sizable acquisition, debt investors generally examine the companies ability to fund the acquisition and to service its existing debt and [REDACTED] [REDACTED] [REDACTED] will be affected by the acquisition. This point is illustrated by the Company&#8217;s December 26, 2007 announcement that GE Capital would acquire certain assets and businesses from Merill Lynch Capital. Although immaterial to GE Capital, after the announcement of the acquisition [REDACTED] [REDACTED] [REDACTED] Based on its experience the Company believes that [REDACTED] in the Goals such as [REDACTED] acquisition [REDACTED] like the Merill Lynch Capital acquisition [REDACTED] [REDACTED] The Company believes that disclosing the goals would [REDACTED] [REDACTED] the Goals [REDACTED] [REDACTED] [REDACTED] As a result, the Company&#8217;s [REDACTED] [REDACTED]</p>
+  
+  <p>[&#8230;] We do not believe that the SEC&#8217;s executive compensation disclosure rules should cause the disclosure of the Goals simply because the Company&#8217;s Management Development and Compensation Committee chose to include them in the LTPA. Such disclosure would have the unintended and harmful effect of [REDACTED] [REDACTED]</p>
+  
+  <p>The Company therefore believes that it would suffer substantial competitive harm if ti had to disclose the Goals because it would [REDACTED] [REDACTED]</p>
+  
+  <p><em>End of request for confidential treatment &#42;&#42;&#42;]</em></p>
+</blockquote>
+
+<p>Hope that helps. At least the SEC uses white-out instead of black marker.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">November 19, 2008</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>So have you spent enough time in the strange frontier of SEC mining and analysis to observe anything interesting from the content of the FOI response you posted above? It and its context is greek to me.</p>
+
+<p class="posted">posted by Alex
+ on November 19, 2008 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>Can&#8217;t help too much; they blocked out most of the interesting bits.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on November 19, 2008 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>It should in theory be possible to test hypotheses about redactions by measuring the amount of space they take up.  With monospace fonts, all you can know is the number of characters in a redacted word &mdash; but with proportional fonts perhaps someone could write some fancy software to provide a list of possible English words for the gaps.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://reworld.org">pde</a>
+ on November 20, 2008 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>pde: It&#8217;s been done. Someone actually recovered a country name in a document that way.</p>
+
+<p>The problem is much of this information is very specialized, so while it is valuable to certain people, it&#8217;s just not that valuable enough to justify trying to pry it out.</p>
+
+<p>Not all (trade) secrets are newsworthy.</p>
+
+<p>I mean, if you had the formula for Coca-Cola, what would you DO with it?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://sethf.com/">Seth Finkelstein</a>
+ on November 21, 2008 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>Here&#8217;s my rough guess at what that above is all above:</p>
+
+<p>&#8220;We&#8217;re talking about buying some company&#8217;s stuff. If that happens, various executives are going to get a bonus. We don&#8217;t want to tell you how much of a bonus, because that mean you could figure out how much we intended to pay. And we don&#8217;t think we&#8217;re required to disclose that&#8221;.</p>
+
+<p>Something along those lines.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://sethf.com/">Seth Finkelstein</a>
+ on November 21, 2008 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c6">
+
+
+<p class="posted">posted by Douglas Knight
+ on November 23, 2008 <a href="#c6" rel="bookmark">#</a></p>
+</div>
+<div id="c7">
+<p>Do you have any comments on the FOIA process? Does it work as advertised?</p>
+
+<p class="posted">posted by Douglas Knight
+ on November 23, 2008 <a href="#c7" rel="bookmark">#</a></p>
+</div>
+<div id="c8">
+<p>I have several articles on the problems with FOIA I&#8217;m trying to place, but in this one case the process seemed to work OK, although I&#8217;m not super-happy with the result.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swaty</a>
+ on November 23, 2008 <a href="#c8" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="insidege" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

@@ -1,0 +1,107 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Notes from the DRM Conference: Impacts of DRMs on flows of information (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000848" title="Just My Luck" />	<link rel="next" href="000850" title="Trip Report" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Notes from the DRM Conference: Impacts of DRMs on flows of information</h1>
+</div>
+
+<div class="content">
+<h3>John Erickson</h3>
+
+<p>Policy enforcements create a private law, no people in the loop.</p>
+
+<h3>Ed Felten</h3>
+
+<p>DRM turns things into black boxes. Joke: “Total Information Awareness” isn’t such a good name, it’ll probably be changed to “next-generation secure information base”. Technology in policy is hard enough already, we don’t need DRM to make it harder.</p>
+
+<h3>Lessig: binary blindness</h3>
+
+<p>Been struggling forever, need to reframe. 3 kinds of people: none: do whatever you want, all: always get permission, and some: most uses are ok (the rest of us). Technology enforced the value of the nones. The alls, who had all the money, propose the DRM architecture to enforce all. Troubled somes, criminal nones. Problem: we’ve been solving for the extremes.</p>
+
+<p>Strategy: ask for DRM to be limited. Not going to work. New strategy: promote “DRE”; find a way to express the rights and not enforce them. That’s Creative Commons, building a reasonable layer against unreasonable extremism. Example: Cory Doctorow. Most important reason, however, is to say “I believe in free, now and urgently”. </p>
+
+<p>People said the alls will beat the nones. True, the alls have it all and can win in Congress. Was naieve enough to believe the courts could help, was wrong. Courts are out. Lobbyist called, he said all you have “ideals and principles” we have “all the money in the world”, and we’ll win, when was the last time we didn’t?</p>
+
+<p>Important thing is not the last time, but the next time. To win next time we must show our reasonableness thru voluntary efforts.</p>
+
+<h3>Questions</h3>
+
+<p>Ka-Ping Yee: MS had a choice. It could protect its customers against viruses, etc. Or it could protect the media companies against those customers. Yesterday, I learned they chose the latter. If the CE industry is so much bigger than the entertainment industry, why’d they choose this?</p>
+
+<p>David Wagner?: In my job as Microsoft’s spokesman&#8230; It’s not an either-or choice. And it’s not just for Big Media, you can use it too.</p>
+
+<p>-</p>
+
+<p>?: We’re taking the human being out. That’s wrong. [Sporadic applause.]</p>
+
+<p>-</p>
+
+<p>James Gimmelman, LawMeme: CC is quite appealing in the democratic way. But what about Ed? Major democratic issues are being stifled!</p>
+
+<p>Lessig: Policy makers can’t have more than two ideas in their head. What do they see? Terrorists (our children) stealing content. Millions of people can agree on the reasonable position, and call other people extremists. I’m against Britney downloaders too. There’s more than these lunatics at the extremes.</p>
+
+<p>Felten: I don’t see a conflict; CC isn’t telling me I’m not allowed to study, it’s not coercive. </p>
+
+<p>Abelson: We need to recognize people as creators, not consumers.</p>
+
+<p>-</p>
+
+<p>?: This debate is taking us away from real technical problems.</p>
+
+<p>-</p>
+
+<p>?: When I was doing my tutorial I got a question: Is it possible to allow circumvention for fair use but not all uses?</p>
+
+<p>Erickson?: Yes and no.</p>
+
+<p>?: I was thinking what it’d be like to codify fair use specifically in the law. It’d be more complex than the tax code, since interacting with information is complex.</p>
+
+<p>-</p>
+
+<p>Mark ?, Berkeley: Some MS guy pointed out shrinkwrap liccenses also support open source. Gotta look at the little guys. CC depends on DRM, what’s their opinion on government mandates, and won’t they bring in the same DRM problems?</p>
+
+<p>Lessig: DRE and DRM are different. DRM is not just DRE + Control. The important thing is people saying what they want, and people respecting it, as opposed to a big overhead of DRM. My content is better, because it is freer. If the somes use DRM, total control is inevitable. We still need to worry about preserving fair use, it’s just easier to make those arguments when the other side isn’t supporting total anarchy. DRE is just a simple way to identify things things that allow certain uses.</p>
+
+<p>-</p>
+
+<p>Robin Katz, Berkeley: Courts and Congress crossed out in red. Can we win in the courts if we reframe the question?</p>
+
+<p>Lessig: We lost in the court because the Supreme Court because they think they same way as everyone else. We weren’t ready. If we explain it clearly they will get it and we will win. It’s a big battle but we have no choice.</p>
+
+<p>-</p>
+
+<p>Break.</p>
+
+<p class="posted">posted February 28, 2003 03:54 PM (<a class="category" href="cat_politics">Politics</a>)  <a href="000849" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000848" title="Just My Luck">&laquo; prev</a> | <a href="./">up</a> | <a href="000850" title="Trip Report">next &raquo;</a></p>
+
+<p><a href="000831">Enabling IPv6 on OS X</a><br />
+<a href="000834">explain it to me</a><br />
+<a href="000838">News Update</a><br />
+<a href="000842">The Wireless Future</a><br />
+<a href="000848">Just My Luck</a><br />
+<strong>Notes from the DRM Conference: Impacts of DRMs on flows of information</strong><br />
+<a href="000850">Trip Report</a><br />
+<a href="000852">Trip Report (cont.)</a><br />
+<a href="000857">Valenti Remix</a><br />
+<a href="000858">New Valenti Remix</a><br />
+<a href="000859">Larry&#8217;s Keynote</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

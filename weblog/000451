@@ -1,0 +1,47 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>movable code (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000450" title="Eyesight Feedback" />	<link rel="next" href="000452" title="irby nation" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>movable code</h1>
+</div>
+
+<div class="content">
+<p>It&#8217;s neat that <a href="http://www.advogato.org/person/raph/diary.html?start=246">Stallman went to see Raph</a>. The most interesting thing I learned at the conference was how human Stallman is. As people asked him long questions he would practice his dance steps. He&#8217;d make jokes about everything. I could really see being him.</p>
+
+<p>His presence made me feel ashamed for using non-free software (although I&#8217;m still wondering why it&#8217;s wrong to use non-free software if you can&#8217;t modify the code&#8230; perhaps it&#8217;s because you&#8217;re making it harder for others who want to use free software). I found something he said rather novel, but I&#8217;m not sure how to put it properly. I believe he would like to outlaw non-free software. He made an analogy to slavery and how as an intelligent country we outlawed slavery to protect people. This raised a long series of questions in my head, but I think I resolved most of them.</p>
+
+<p>Movable Type, the non-free software that powers this weblog may become free. Ben and Mena said they were constantly reconsidering the license but that they needed a way to make money. However, I pressed them on this point. They make money off of other things: donations, installation and hosting. If someone were to violate the license, would they really have the resources to sue? I think it would be much better for them to release it under the GPL (or something similar) and politely ask that people donate and not steal their business. That way we can all be safe in using the software, but their heartfelt plea (which is rather convincing&#8230;you might donate to them even out of self-interest since they likely won&#8217;t improve the software if they have to work at McDonalds) will still go out to those who will listen and respect their wishes.</p>
+
+<p class="posted">posted July 28, 2002 11:18 AM (<a class="category" href="cat_technology">Technology</a>)  <a href="000451" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000450" title="Eyesight Feedback">&laquo; prev</a> | <a href="./">up</a> | <a href="000452" title="irby nation">next &raquo;</a></p>
+
+<p><a href="000443">blue gene</a><br />
+<a href="000445">Carl Malamud: NetTopBox</a><br />
+<a href="000446">OSCON: Final Night</a><br />
+<a href="000447">get out of my hair</a><br />
+<a href="000450">Eyesight Feedback</a><br />
+<strong>movable code</strong><br />
+<a href="000452">irby nation</a><br />
+<a href="000453">pay up for free software</a><br />
+<a href="000456">i love it when a plan comes together</a><br />
+<a href="000457">is it rabbittime already?</a><br />
+<a href="000459">rabbit, rabbit</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

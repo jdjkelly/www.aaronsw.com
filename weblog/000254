@@ -1,0 +1,87 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Emerging Technologies - Day 2 (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/000254.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000253" title="Emerging Technologies - Day 1" />	<link rel="next" href="000255" title="Emerging Technologies - Day 3" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Emerging Technologies - Day 2</h1>
+</div>
+
+<div class="content">
+<p>I was woken up at 4AM to help my little brother Ben with his paper on Guttenberg. I went back to sleep and woke up at 10AM with a neckcramp, a nosebleed and a stomach-ache. I grabbed some breakfast and checked my email and found I was in the newspaper: <a href="http://www.siliconvalley.com/mld/siliconvalley/3264655.htm">Dan Gillmor: The technology behind Napster is far from dead</a>. Heh: &#8220;ad-hoc-amai&#8221;. Maybe today won&#8217;t be too bad at all.</p>
+
+<p><a href="http://www.aaronsw.com/weblog/000254#coryD">Cory Doctorow on why the messy solution is best.</a><br />
+<a href="http://www.aaronsw.com/weblog/000254#bruceS">Bruce Schneier on Hacking Businesses.</a></p>
+
+<p>Talking with MarcS afterwards, he thinks that Bruce wants True Names on everything and is eager to show him their capability demos. I talked with Kevin Burton and failed to convince him that both consensual time and the Distributed Patron Protocol didn&#8217;t work.</p>
+
+<p>I had dinner at the hotel and went to <a href="http://www.spesh.com/danny/">Danny O&#8217;Brien</a>, <a href="http://www.ambiguous.org/quinn/me.php3">Quinn</a> and Gilbert&#8217;s housewarming party for the &#8220;NTK Fortress of Bitterness&#8221;. We chatted for a bit and at 11PM Quinn shouted, &#8220;&#8216;The time has come&#8217;, the Walrus said&#8221; and we jumped in the car and drove to the movie theater. We got in line for the midnight showing of Episode 2, which stretched down three blocks. But we finally got into the theater and <em>it rocked!</em></p>
+<p><h3 class="title" id="coryD">Cory Doctorow: Fault-tolerant Realpolitik Online <a href="http://www.aaronsw.com/weblog/000254#coryD">#</a></h3></p>
+
+<p>Cory wants to expunge the words &#8220;high-quality content&#8221; from everyone&#8217;s vocabulary. Movie theaters thought TV would napsterize them so they kept the content off of TV and thought that would cause it to wither and die. Walt wanted money to build a theme park and Roy wouldn&#8217;t give it to him so he sold a license to the Disney vaults to NBC. It was an accident of history. With the Internet, we got 10 years of innovation because there were no movies on line. The high-quality content were from individual people. With digital TV, the movie makers said we get no high-quality content until there&#8217;s copy-protection. [BDPG plug.]</p>
+
+<p>He wants to expunge the words &#8220;mission-critical&#8221;. People said the Internet was no tmission-critical because they couldn&#8217;t control QoS &#8212; it&#8217;s unreliable! So they built an ATM network. People thought mail was too mision-critical to be left with problematic SMTP. They formed X.400 which sat in a room for a really long time while SMTP was worked out. &#8220;Mission-critical&#8221; would have kept us from having mail for a while. Napster died yesterday. Napster wasn&#8217;t mission-critical or reliable. Labels would tell you why napster wouldn&#8217;t work &#8212; civillians couldn&#8217;t be trusted to rip MP3s, add metadata, host bandwidth, etc. Napster was the fastest growing tech in the world until they were forced at litigation-point to become reliable.</p>
+
+<p>Raph whispers that this is <a href="http://www.jwz.org/doc/worse-is-better.html">worse-is-better</a> for networks.</p>
+
+<p>Yahoo died since at current rate every human would have to index for 18 hours a day. Google went and looked at dumb, untrained users. CNN is 96% reliable. The Distributed Republic of Blogistan, filled with people who aren&#8217;t getting paid (except for Andrew Sullivan) who are more reliable than CNN during crises. Irresponsible, unreliable, successful. We hear no one wants to read books on screen. [book plug] licensed under Creative Commons. We&#8217;ve gone from lambskin to Gutenberg Bibles to Gutenberg Project Bibles. People will read off screens. We heard the same about MP3s.</p>
+
+<p>Cory wants to expunge &#8220;optimal&#8221;. Optimal is optimized for <em>something</em>. Like delivering audio, books or music.  &#8220;Consume But Don&#8217;t Try Programming Anything&#8221; (Hollings&#8217; Bill). We need to look at the innovative uses, not the designed uses. Unoptimized systems: Universal Turing Machine whose flexibility has made it pervasive (DRM outlaws Turing machines), HTML which has allowed really out-there uses (like an app that pings news sites to predict catastrophes), broadcast which has allowed the PVR. All P2P hackers come from the 12 lost tribes of Israel (Populat Power, OpenCola, etc.).</p>
+
+<p>Hollywood Agenda, as articulated by Jack Valenti, who called the VCR the &#8220;Boston Strangler&#8221; of the movie world: 1) Digital everywhere.  2) Plug the analog hole. 3) Eliminate the avalanche of peer-to-peer and redesign the Internet to be a great movie-distribution.</p>
+
+<p>If you care, join the EFF so we can stop this.</p>
+
+<p><strong>Q:</strong> Is there an optimal amount of non-omptimalness? If you get really non-optimal it doesn&#8217;t work.<br />
+<strong>A:</strong> Attend to design choices so you don&#8217;t close avenues you don&#8217;t have to. HTML left more choices than hypercard.<br />
+<strong>Raph:</strong> HTML is an example of a tool that is optimally worse.</p>
+
+<p>Why Nerds have no effect in washington: 1) Bad Hair 2) Arguing about who gets the tab instead of paying it 3) Can&#8217;t get into parties with Hollywood people. And that&#8217;s a serious problem. </p>
+
+<p>The role of the technologists is to provide money-making opportunities for the entertainment industry. The role of the entertainment industry is to seek conjunctive relief from these opportunities.</p>
+
+<p>There&#8217;s far less risk to bloggers than journalists since they&#8217;re just running their mouths.</p>
+
+<p><h3 class="title" id="bruceS">Bruce Schneier: Fixing Network Security by Hacking the Business Climate <a href="http://www.aaronsw.com/weblog/000254#bruceS">#</a></h3></p>
+
+<p><a href="http://www.counterpane.com/presentation4.pdf">Slides (PDF)</a></p>
+
+<p>We&#8217;ve got problems to fix that we can&#8217;t fix technically. Have to look at it from the point of view of those who have to deal with the problems. In the future, if we can&#8217;t do it securely we won&#8217;t do it. His mom simply can&#8217;t refrain from opening email attachments. Hackers are just an annoyance but good crime is on the inside. We have no solution to insiders. Security is the only thing in technology that&#8217;s not improving. And it&#8217;s because of complexity.</p>
+
+<p>Each new version of Windows has had more lines of code and exponentially more security problems. We&#8217;re losing the separation between data and code. SOAP is billed as a firewall-friendly protocol, sorta like a skull-friendly bullet. Recommends <a href="http://www.amazon.com/exec/obidos/ASIN/0691004129/coolbooks02">Normal Accidents</a> &#8212; security holes come from being nonlinear and tightly-coupled.</p>
+
+<p>Security is not a technology problem. Technologists think of things in black and white: you avoid the threat or you don&#8217;t. Business look at things as risk. You try and mitigate it but sometimes you lose in which case you pay the cost and move on. Or you can pay someone to take your risk (insurance). Rational companies talk a lot about security, but only do as little as you can get away with. To fix this we have to make security affect the bottom line in an obvious way.</p>
+
+<p>We outsource anything that is essential and distasteful: tax preparation, weddings, child education. We can outsource computer security too. Counterpane is the combination of the processing power of machines and the creativity of humans. The entertainment industry is a way, way scarier adversary than the NSA ever was. (Audience: and they own your children!)</p>
+
+<p class="posted">posted May 15, 2002 12:41 PM (<a class="category" href="cat_technology">Technology</a>)  <a href="000254" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000253" title="Emerging Technologies - Day 1">&laquo; prev</a> | <a href="./">up</a> | <a href="000255" title="Emerging Technologies - Day 3">next &raquo;</a></p>
+
+<p><a href="000267">WWW2002 - Day 3</a><br />
+<a href="000268">WWW2002 - Day 4</a><br />
+<a href="000295">WWW2002 - Day 5</a><br />
+<a href="000251">Emerging Technologies - Day 0</a><br />
+<a href="000253">Emerging Technologies - Day 1</a><br />
+<strong>Emerging Technologies - Day 2</strong><br />
+<a href="000255">Emerging Technologies - Day 3</a><br />
+<a href="000256">Emergent Hindsight</a><br />
+<a href="000257">MarkM and AaronSw</a><br />
+<a href="000258">The Secret alife of Webloggers</a><br />
+<a href="000259">Others</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Redesign (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Redesign</h1>
+
+<p>I was going through my weblog archives the other day and found an early post I&#8217;d written <em>nine years ago</em> (in yet another piece of blogging software I&#8217;d written myself&#8230;). But what was even more shocking than the notion that I&#8217;d been blogging for over a decade was that my web design back then was better than it was today.</p>
+
+<p>This really kept nagging at me, so I took a couple hours tonight to do a redesign. I still have very little in the way of <a href="http://www.aaronsw.com/weblog/2taste">positive artistic talent</a>, so it&#8217;s nothing impressive, but I do hope that it will keep me from recoiling in horror from my own weblog. My apologies to everyone I borrowed design features from.</p>
+
+<p>Feel free to use this thread to comment on the redesign.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">September 23, 2009</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>It looks like blockquote isn&#8217;t being styled; the few paragraphs–long quote at the end of your previous post isn&#8217;t being indented (or italicized or anything else).</p>
+
+<p>All in all, I liked the old design better. Unfortunately, I can&#8217;t be very helpful in explaining why; I think I have decent negative and positive taste, at least regarding web and graphic design, but I still have trouble justifying my preferences. But I&#8217;ll be watching to see if anyone else agrees with my intuitions.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://adamatlas.org/">Adam</a>
+ on September 23, 2009 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>Hrm&#8230; I honestly think the old one was more readable.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://icey.net">icey</a>
+ on September 23, 2009 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>Sans serif please, my eyes are glazing over.</p>
+
+<p class="posted">posted by 
+ on September 23, 2009 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>I like the serif font and the decent coloring, but the font size should be a bit larger and for sure it would be a good idea to reduce the width of the text on the main page in a similar way as in the comment section. As a rule of thumb 2-3 alphabets in length will be good for reading comfort.
+As your site is 100% typography, this might be a useful site with some hints for you: http://www.markboulton.co.uk/journal/comments/five-simple-steps-to-better-typography</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.bluelies.de">Fabian</a>
+ on September 23, 2009 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>Looks good!</p>
+
+<p>The font size should be slightly larger, and the line-height should be longer in proportion to the font size.</p>
+
+<p class="posted">posted by David McCabe
+ on September 23, 2009 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c6">
+<p>I like the minimalist design. Loads really fast on the iPhone, even on edge. +1 for increased line-height.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://fewagainstmany.com">Tim</a>
+ on September 23, 2009 <a href="#c6" rel="bookmark">#</a></p>
+</div>
+<div id="c8">
+<p>Aaron, just a note: in my experience most readers dislike redesigns, so you&#8217;ll always get comments like the ones above &#8212; they want the old design back. This has to do with people being used to a certain way of reading and being jarred by a new experience.</p>
+
+<p>I didn&#8217;t have a problem with the old design, but the new one is nice!</p>
+
+<p>Your content is what matters most &#8212; keep writing great stuff!</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://mnmlist.com">Leo</a>
+ on September 23, 2009 <a href="#c8" rel="bookmark">#</a></p>
+</div>
+<div id="c10">
+<p>The font is awfully tiny (by default).</p>
+
+<p>The creamy color I think I can live with. :P</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://tommi.raivio.net">Tommi</a>
+ on September 23, 2009 <a href="#c10" rel="bookmark">#</a></p>
+</div>
+<div id="c11">
+<p>I think it&#8217;s nice. I&#8217;d just increase the font size a bit (and adjust column widths accordingly). Beside that, there isn&#8217;t much to envy to the previous one. Good job.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://michelf.com/">Michel Fortin</a>
+ on September 23, 2009 <a href="#c11" rel="bookmark">#</a></p>
+</div>
+<div id="c12">
+<p>I read it all in RSS anyway, so while I also liked the old design better, don&#8217;t count my vote for much.</p>
+
+<p class="posted">posted by PJ
+ on September 23, 2009 <a href="#c12" rel="bookmark">#</a></p>
+</div>
+<div id="c13">
+<p>Aaron, I don&#8217;t much care for the yellow background.  I preferred your black on white scheme.  Overall, I actually prefer your former  design, typeface, and overall look and feel.</p>
+
+<p class="posted">posted by Mark
+ on September 23, 2009 <a href="#c13" rel="bookmark">#</a></p>
+</div>
+<div id="c14">
+<p>Aaron:</p>
+
+<p>I would also prefer sans-serif, since serifs just render horribly on Linux, but I’m in a minority as far as that is concerned since IMO they look tolerable in Windows and OS X. But the problem remains that rendering serifs in few pixels just doesn’t work well – either the serifs are overemphasised (Windows) or they become blurry smudges (OS X). So if you want to keep the serif, you should spring at least a few more pixels for it.</p>
+
+<p>If you switch to a sans-serif, there is no detail in the typeface that would require extra resolution to render well, so you can probably keep it at this size. In fact I’ve found that if you space letters by a tiny amount (as in 0.075em or so – this needs a bit of experimentation), even really tiny font sizes remain readable – in a sans-serif.</p>
+
+<p>What I really see no reason for, though, is that you’ve lined up the content along the left edge of the browser window and the title and navigation along the right edge – with (on my system) half a screen of empty space between them. That looks really careless. You should either centre the content + navigation in two columns in the middle of the page, or else have them both along the left edge.</p>
+
+<p>Leo:</p>
+
+<blockquote>
+  <p>in my experience most readers dislike redesigns, so you’ll always get comments like the ones above — they want the old design back.</p>
+</blockquote>
+
+<p>Are you seriously suggesting that people are commenting because they were attached to Aaron’s old (non-)design?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://plasmasturm.org/">Aristotle Pagaltzis</a>
+ on September 23, 2009 <a href="#c14" rel="bookmark">#</a></p>
+</div>
+<div id="c15">
+<p>Actually, I&#8217;ll try to be slightly helpful: One thing I preferred about the old design was the greater contrast and variety of colours. Now that everything is black, white, grey, and shades of the same pale yellow, it looks less visually interesting, and it requires more conscious effort to distinguish different parts of the page&#8217;s structure.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://adamatlas.org/">Adam</a>
+ on September 23, 2009 <a href="#c15" rel="bookmark">#</a></p>
+</div>
+<div id="c16">
+<p>Command-+, Command-+, Command-+</p>
+
+<p>Ah, much better.</p>
+
+<p class="posted">posted by Andrey Fedorov
+ on September 23, 2009 <a href="#c16" rel="bookmark">#</a></p>
+</div>
+<div id="c17">
+<p>big step backward, IMO. In particular the tiny font.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.w3.org/People/Connolly/">Dan Connolly</a>
+ on September 24, 2009 <a href="#c17" rel="bookmark">#</a></p>
+</div>
+<div id="c18">
+<p>Well, I for one really like it. Props.</p>
+
+<p class="posted">posted by Chris
+ on September 24, 2009 <a href="#c18" rel="bookmark">#</a></p>
+</div>
+<div id="c19">
+<p>I vote for a font a couple sizes bigger, a bit more leading, and a slightly wider column.</p>
+
+<p class="posted">posted by Jacob Rus
+ on September 24, 2009 <a href="#c19" rel="bookmark">#</a></p>
+</div>
+<div id="c20">
+<p>The simplicity and minimalism is nice. Good background color.</p>
+
+<p>Bigger text and sans-serif please!</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://boozeandmescaline.com">Andy Kish</a>
+ on September 25, 2009 <a href="#c20" rel="bookmark">#</a></p>
+</div>
+<div id="c21">
+<p>I dig it.  Some of the more complexly structured sentences (multiple parenthesis, etc) in your outstanding Keynes post were more naturally digested by the eye than I think they would have been with the old design.</p>
+
+<p>Props.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://manriquez.wordpress.com">Pablo</a>
+ on September 25, 2009 <a href="#c21" rel="bookmark">#</a></p>
+</div>
+<div id="c22">
+<p>Nice color but too small.</p>
+
+<p class="posted">posted by Sérgio Nunes
+ on September 27, 2009 <a href="#c22" rel="bookmark">#</a></p>
+</div>
+<div id="c23">
+<p>Mmm&#8230;Cheese!</p>
+
+<p>I really like the #ffd background much better than white.  DLed and installed the Thomas Paine font so now I can enjoy the complete Raw Thought experience.  Did like the bigger font of the previous style though.</p>
+
+<p class="posted">posted by James Hardy
+ on September 28, 2009 <a href="#c23" rel="bookmark">#</a></p>
+</div>
+<div id="c24">
+<p>I like the redesign. At first I thought the column width and font were a little constrained. But, then I realized that when zoomed in (on font only), things were perfect for me.</p>
+
+<p>I recommend to those finding the font too small or the columns to thin, to just Ctrl++ a couple of times :-)</p>
+
+<p class="posted">posted by Joshua Gay
+ on October  2, 2009 <a href="#c24" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="redesign" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

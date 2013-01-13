@@ -1,0 +1,32 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+  <title>If Swhack Were A MOO...</title>
+  <link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+<body>
+<div id="head">
+  <h1>If Swhack Were A MOO...</h1>
+</div>
+<div class="content">
+<h2>The Room</h2>
+<p>You see a big open space with people teleporting in and out, toys scattered around the floors and displays, speakers and whiteboards along the walls and ceiling.</p>
+
+<h2>Characters</h2>
+<p>AaronSw is tall, slender and a pale white, with black clothes draped loosely around him. He wears an artist's beret and has a round and friendly face, deep in concentration, but faintly smiling.</p>
+
+<p>xena is the north wall, a pool of data and water flowing and swirling. Occasionally people look up at it and shout questions.</p>
+
+<p>log{gy,ster} is the ceiling, a series of recording devices and a display with an ever-increasing pointer-URL for the logs.</p>
+
+<p>walloper is a speaker on the south wall, ocasionally blaring news from the mists.</p>
+
+<p>chumpster is a large whiteboard to the west, which is archived and cleared every day at 0:00 UTC. The topic is written at the top.</p>
+
+<p>sbp is a tall and friendly young man. He's always wearing a wide smile with his trademark buttoned blue plaid shirt. He wears long black trousers that partially cover his bare feet and waves hello to anyone that passes by.</p>
+
+</div>
+<div class="footer">
+  <address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+<a href="http://validator.w3.org/check/referer">Valid HTML</a>
+</div></body>
+</html>

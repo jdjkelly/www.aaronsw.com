@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Do It Now (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Do It Now</h1>
+
+<p>A year or two ago, I came up with a brilliant scheme for handling my email. The problem, I decided, was that there was just too much of it. Spam was mixed in with notes from friends along with important things from work and todo items I&#8217;d written to myself. What I needed to do was go thru and sort it &#8212; pick out the really important stuff to handle right away and move the junk to the bottom. So I wrote a little program that would let me go through and sort my email into neat little folders ordered by priority.</p>
+
+<p>Well, here&#8217;s what happened: I sorted all my email, and then I didn&#8217;t answer any of it. I told myself that I shouldn&#8217;t answer the unimportant stuff until the important stuff was taken care of, then when I looked at the important stuff it seemed hard, so I decided to go read some blogs first. To this day, all those important emails are just sitting there.</p>
+
+<p>Recently, I came up with a really dumb system for handling my email: just do it. I&#8217;d start at the top of my inbox, answer the most recent email, and move on to the next one. No excuses. No matter what the email at the top was &#8212; no matter how difficult or awkward or unimportant, I had to answer it. I couldn&#8217;t move on to another email and come back to it later. I had to answer the most recent email, no matter what it was.</p>
+
+<p>By the end of the day, I&#8217;d answered a month&#8217;s worth of email.</p>
+
+<p>We procrastinate because we are afraid. We&#8217;re afraid it&#8217;s too much work and that it will drain us. We&#8217;re afraid we&#8217;ll screw it up and get in trouble. We&#8217;re afraid we don&#8217;t know how to do it. We&#8217;re afraid because, well, we&#8217;ve been putting it off forever and every time we put it off it seems a little more fearsome in our minds. That&#8217;s why not putting things off is so liberating. We&#8217;re forced to confront our fears, not let them grow bigger by repeatedly running away. And when we confront them, we find they&#8217;re not so scary after all.</p>
+
+<p>This doesn&#8217;t just apply to email, of course &#8212; it works for any todo list. But only if you say no to reordering, prioritizing, estimating deadlines, and doing the most important things first. Forget all that. Do it now.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">January  8, 2010</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>Well, (a) Rands had a post along these lines about clobbering hundreds of bugs, and (ii) using terminal-mode mail with the window always in peripheral view allows me to answer any important message in 45 seconds.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://joeclark.org/weblogs/">Joe Clark</a>
+ on January  8, 2010 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<blockquote>
+  <p>&#8220;We’re forced to confront our fears, not let them grow bigger by repeatedly running away.&#8221;</p>
+</blockquote>
+
+<p>How to do that ? How to convince &#8220;ourselves&#8221; to do right stuff on right time ?? This is the point &#8230;</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://zentux.blogspot.com">vahid</a>
+ on January  8, 2010 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>very true&#8230; however the counter argument is that if you plow through your list completing items as fast as possible, you may not be completing them in the optimal manner. That&#8217;s why we procrastinate on the important emails; because sending a hasty reply could have a large negative cost.</p>
+
+<p>The trick is knowing which items you can knock out ASAP and which items require further rumination.</p>
+
+<p>Another factor with email is that once it has sat in your inbox for long enough, sending a reply, no matter how well crafted, will seem rude. Therefore email has a inherent lifespan (maybe 2 weeks?). After that you can just delete/archive it with impunity.</p>
+
+<p class="posted">posted by felix
+ on January  8, 2010 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>I use gmail, get around 20 emails per day, and I always quickly scan through visually to find and answer the important emails first. Never had a problem with that. Sometimes it could be overwhelming, I agree, but I would still say you need to &#8216;prioritize&#8217; rather than &#8216;moving from one email to another&#8217; in a linear fashion. (from most recently received first). Some emails can take their time for our answers. Others need immediate replies.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://mohanarun.com">Mohan Arun</a>
+ on January  8, 2010 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>Given that Aaron said:  &#8220;I wrote a little program that would let me go through and sort my email into neat little folders ordered by priority.&#8221;</p>
+
+<p>Mohan Arun then said:  &#8220;I would still say you need to ‘prioritize’.&#8221;</p>
+
+<p>And the world exploded.</p>
+
+<p class="posted">posted by Bystander
+ on January  8, 2010 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c6">
+<p>&#8221; I’d start at the top of my inbox, answer the most recent email, and move on to the next one. No excuses. &#8221;
+I&#8217;ve always done it this way. I also immediately throw away mails I know I will never answer or is not needed to act upon.</p>
+
+<p>Extremely few mails actually contains information that I might need later - and those that do is often sent to me by myself. Those are saved in folders (ideas, programming, friends etc).</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.defblog.se">Daniel Larsson</a>
+ on January  8, 2010 <a href="#c6" rel="bookmark">#</a></p>
+</div>
+<div id="c7">
+<p>I think sometimes it&#8217;s better to get the easy stuff done first because it takes not much time and having a few things off your list will give you a feeling of accomplishment. But your mileage will vary depending on the severity of your procrastination habits.</p>
+
+<p class="posted">posted by Dan
+ on January  8, 2010 <a href="#c7" rel="bookmark">#</a></p>
+</div>
+<div id="c8">
+<p>um how do you let a months worth of email build up</p>
+
+<p class="posted">posted by no
+ on January  8, 2010 <a href="#c8" rel="bookmark">#</a></p>
+</div>
+<div id="c9">
+<p>What you are doing with your inbox is in direct relation to the &#8220;Getting Things Done&#8221; methodology by David Allen.  I would recommend you grab his book (called &#8220;Getting Things Done&#8221; &#8212; obviously) and give it a read.  It may help you figure out a system to make you more productive and less stressed&#8230;</p>
+
+<p>I am biased since I am currently working on a product that helps people with Getting Things Done - especially from a product development point of view (software product).</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://siliconsea.net/">Bryan Rehbein</a>
+ on January  8, 2010 <a href="#c9" rel="bookmark">#</a></p>
+</div>
+<div id="c10">
+<p>Great wise Buddhist monk once said &#8220;It is harder to think of doing something than to do it&#8221;</p>
+
+<p class="posted">posted by mempko
+ on January  8, 2010 <a href="#c10" rel="bookmark">#</a></p>
+</div>
+<div id="c11">
+<p>The branding on &#8220;Just Do It&#8221; is unfortunate, because it is such an awesome phrase.</p>
+
+<p>Caveat on just doing your email: you need to not have your email open all day. Pick a time, and get through it. Let SMS be your interrupt-if-urgent messaging system.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://kirigin.com">Ivan Kirigin</a>
+ on January  8, 2010 <a href="#c11" rel="bookmark">#</a></p>
+</div>
+<div id="c12">
+<p>I totally agree. I reached this same conclusion myself not too long ago, and it has really made me more productive and focused (as a programmer).</p>
+
+<p>Thanks for nicely summing this up :)</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://projectb14ck.org/">Randall Degges</a>
+ on January  8, 2010 <a href="#c12" rel="bookmark">#</a></p>
+</div>
+<div id="c13">
+<p>Who uses email much anymore? I find it weird that in 2010 people still get a lot of email.</p>
+
+<p>I&#8217;ve notice that the number of emails I get has dropped precipitously in the past few years to the point that I only get one or two a day now that are actually looking for a response.   Generally team members communicate via IM.</p>
+
+<p class="posted">posted by Walter McGrain
+ on January  8, 2010 <a href="#c13" rel="bookmark">#</a></p>
+</div>
+<div id="c14">
+<p>You discovered the first step to productivity.</p>
+
+<p>In 30 years you will discover 5 more and you will be really productive.</p>
+
+<p>Or you can read David Allen&#8217;s &#8220;Getting Things Done: The Art of Stress-Free Productivity&#8221; and have it all now.</p>
+
+<p>It took me 15 years to get there half way (3 steps) and 2 days reading for the full road. Re-inventing the wheel does not pay.</p>
+
+<p class="posted">posted by CCs
+ on January  8, 2010 <a href="#c14" rel="bookmark">#</a></p>
+</div>
+<div id="c15">
+<p>My grandmother had a saying: &#8220;Do it now, then it&#8217;s done&#8221; which I try to live by. Still, procrastination inevitably rears its head.</p>
+
+<p class="posted">posted by Scott McMillin
+ on January  8, 2010 <a href="#c15" rel="bookmark">#</a></p>
+</div>
+<div id="c16">
+<p>Good one. Only thing I&#8217;d add is that you occasionally can&#8217;t fully handle an email because it requires more work, or research, or some other dependency&#8230; in that case best thing to do is forward it to a todo list and then get it out of the email inbox.</p>
+
+<p>More on that method, btw, in my book &#8220;Bit Literacy.&#8221;</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://goodexperience.com">Mark Hurst</a>
+ on January  9, 2010 <a href="#c16" rel="bookmark">#</a></p>
+</div>
+<div id="c17">
+<p>Winners do</p>
+
+<p>Whats
+Important
+Now</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://thekcd.tumblr.com">Casey Drummer</a>
+ on January  9, 2010 <a href="#c17" rel="bookmark">#</a></p>
+</div>
+<div id="c18">
+<p>work and personal email are different for me.  at work, i have the 3 month rule: i keep 3 months of emails in my inbox, so i can search for stuff, and file a few things that i know i will need later.  then i just dump everything older than 3 months.  i don&#8217;t email many people for much more than scheduling things and followups.  i use SMS whenever possible for urgent things (system alerts, communications with the boss, etc.)</p>
+
+<p>email has no tone of voice, making it prone to mis-understandings and it&#8217;s admissible in court, so you should use it sparingly in a professional setting.</p>
+
+<p>my personal email is the opposite.  i use gmail so i just search for stuff, and only delete things like daily automated emails from job search sites or shopping sites.  i don&#8217;t even delete mailing list traffic.</p>
+
+<p>personal and business communications is a tool box.  email is just one tool and it has a proper use.  it is a supplement to, not a substitute for, the phone, SMS, IM, social networking, or a face to face conversation.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://chris.hive13.org">chris</a>
+ on January  9, 2010 <a href="#c18" rel="bookmark">#</a></p>
+</div>
+<div id="c20">
+<p>I have an even more efficient way to deal with email that I discovered in, admittedly, a moment of severe frustration; just delete them all.  If ever a pile gets so long that I can&#8217;t even remember when I stopped completing items, I&#8217;ll delete them all.</p>
+
+<p>If the information is truly that important, then either it&#8217;ll be resent in one form or another back to you, or you&#8217;ll eventually be prompted to go out and search for it out of necessity.</p>
+
+<p class="posted">posted by haig
+ on January 12, 2010 <a href="#c20" rel="bookmark">#</a></p>
+</div>
+<div id="c21">
+<p>I heard a similar thought-process called &#8220;FAT&#8221; File-Act-Trash. You take your queue and for each item you <em>have</em> to do one of those three things.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://phildhingra.com/">Phil Dhingra</a>
+ on January 13, 2010 <a href="#c21" rel="bookmark">#</a></p>
+</div>
+<div id="c22">
+<p>To those who are still tempted to use some sort of advanced scheme after reading this post: Yes, advanced schemes can be good, but you&#8217;re still better off following Aaron&#8217;s advice for a short spell before planning one out.  By doing this you will get a better idea of the sort of problem you are dealing with.  Implementing an advanced scheme for a task you haven&#8217;t done much of or having done in a while is premature optimization.</p>
+
+<p class="posted">posted by John Maxwell IV
+ on January 25, 2010 <a href="#c22" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="doitnow" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

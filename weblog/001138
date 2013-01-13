@@ -1,0 +1,205 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Aaron Swartz: The Interview (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/001138.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001136" title="Visiting Libertopia: The Magical Power of Property" />	<link rel="next" href="001141" title="Why Raise Children?" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Aaron Swartz: The Interview</h1>
+</div>
+
+<div class="content">
+<p>Like Dan Benjamin, Matt Haughey, and Jeffrey Zeldman (all of whose websites are far more attractive than mine), I&#8217;ve gone <a title="under the iron - #13 Aaron Swartz" href="http://iron.wootest.net/aaron_swartz.php">under the iron to be interviewed by Jesper</a>. It&#8217;s a long interview, but I think at least parts of it are interesting. Maybe I&#8217;ll highlight portions over the next week or so. I discuss:</p>
+
+<ul>
+<li>What I&#8217;m doing this year</li>
+<li>Why I waste so much time arguing with you</li>
+<li>The secret plan for the Semantic Web:
+<ol>
+<li>Collect data</li>
+<li>???????</li>
+<li>PROFIT!!!</li>
+</ol></li>
+<li>The sources of bias and some solutions</li>
+</ul>
+
+<p>But that&#8217;s not good enough for you, is it? You want <em>more</em>!  So you can post questions there (and here too, I guess) and I&#8217;ll be forced to answer them.</p>
+
+<p>A highlight:</p>
+
+<blockquote>
+	<p>You see a member of your tribe doing X and you find a way to rationalize it, but if your tribe’s enemy does the exact same X, it becomes the worst, most awful thing. And you can’t just say “well, the truth is in the middle” because it rarely is. Often one side or another is right, or both sides are wrong. You’re always finding a way to score points for your tribe, so even pointing out this tribal inconsistency is a way to score points. (“Joe says he’s pro-X, but when one of his guys didn’t do X he didn’t have any problem with it!”) It can seem inescapable at times — escalating rhetoric with biases on each side.</p>
+	
+	<p>So people try to break away from the tribe system, saying they’re for rationality, but then they only become an anti-tribe tribe. Look at Objectivists for example. Their whole system was premised on rational thought and the validity of experience. But they quickly became the most cultish system of all. And the end result is usually a net loss for everyone. Intelligent people don’t want to get involved in politics because it’s such a mess. People who aren’t so intelligent or don’t have time to sort it all out, quickly pick one tribe and then stick with it, hoping never to be convinced otherwise (because if they ever left the tribe, they’d get stuck in the wilderness again). And there are tons of reasonable people who just ignore the whole thing — only a small portion of the country votes.</p>
+</blockquote>
+
+<p class="posted">posted January 23, 2004 03:16 PM (<a class="category" href="cat_personal">Personal</a>) (<a href="#comments">5 comments</a>) <a href="001138" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001136" title="Visiting Libertopia: The Magical Power of Property">&laquo; prev</a> | <a href="./">up</a> | <a href="001141" title="Why Raise Children?">next &raquo;</a></p>
+
+<p><a href="001129">TV Update: Monk back, 24 bad, American Beauty great, Zim good</a><br />
+<a href="001131">Unintelligent Design</a><br />
+<a href="001132">Shorter State of the Union</a><br />
+<a href="001133">Liberate Libertarianism</a><br />
+<a href="001136">Visiting Libertopia: The Magical Power of Property</a><br />
+<strong>Aaron Swartz: The Interview</strong><br />
+<a href="001141">Why Raise Children?</a><br />
+<a href="001142">Freedom of Speech, or The DeCSS Haiku</a><br />
+<a href="001143">The Media vs. The Facts</a><br />
+<a href="001144">Trippi Dumps Dean</a><br />
+<a href="001148">rss2email</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c356">
+
+<p>One comment on something you said - I wonder what this site looks like in &#8220;your browser.&#8221; While I don&#8217;t consider it ugly, by any means, it is rather plain. I would be interesting in knowing how it compares.</p>
+
+<p class="posted">posted by <a href="http://aym.engel5.net">David</a> at January 23, 2004 03:48 PM <a href="#c356">#</a></p>
+
+</div><div id="c357">
+
+<p>Very nice interview. I think you communicate your ideas much better and clear when you are in interviewee mode than you do in pundit mode. Congrats on a stellar interview.</p>
+
+<p class="posted">posted by <a href="http://aetherial.nu">Chris Karr</a> at January 23, 2004 04:02 PM <a href="#c357">#</a></p>
+
+</div><div id="c358">
+
+<p>I like being an interviewee better too.</p>
+
+<p class="posted">posted by <a href="http://www.aaronsw.com/">Aaron Swartz</a> at January 23, 2004 04:19 PM <a href="#c358">#</a></p>
+
+</div><div id="c359">
+
+<p>Well, all we need to do now then is find you an unending supply of interviews and you&#8217;ll have all of us skeptics convinced of your views in no time. :-)</p>
+
+<p class="posted">posted by <a href="http://aetherial.nu">Chris Karr</a> at January 23, 2004 05:57 PM <a href="#c359">#</a></p>
+
+</div><div id="c363">
+
+<p>Aaron: Read http://waffle.wootest.net/past/04/01/25/inflamed/</p>
+
+<p class="posted">posted by <a href="http://waffle.wootest.net/">Jesper</a> at January 24, 2004 07:38 PM <a href="#c363">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/2002/001138.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/mt-comments.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1138" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /><br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

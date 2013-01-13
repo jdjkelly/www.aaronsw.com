@@ -1,0 +1,55 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>RFC: Annals of Planet Hacking (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000929" title="Joss Quest" />	<link rel="next" href="000931" title="PowerPoint Remix" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>RFC: Annals of Planet Hacking</h1>
+</div>
+
+<div class="content">
+<p>Elevator pitch: <a href="http://codecon.org/">CodeCon</a> in writing.</p>
+
+<p>A peer-reviewed journal on the Web, with articles that describe the details of your latest hack (what? why? how? lessons?) in relaxed technical language. I expect articles to be sorta like written CodeCon presentations: geeky, detailed,  and raw.</p>
+
+<p>I’ve got <a href="http://www.aaronsw.com/2002/codemag/">a real rough mockup</a> of what the site would look like. Abstracts on the left (these are made up), paragraph summaries of interesting hacks on the right (these are real). A navbar with About, Archives, and Contribute.</p>
+
+<p>So here’s what I’m looking for (<a href="mailto:codemag@aaronsw.com">email me!</a>):</p>
+
+<p>Your thoughts: good idea? bad idea? suggestions? criticisms?<br />
+Names: got a better one? like this one? hate this one?<br />
+Volunteers: I need designers, writers, editors, reviewers, etc.</p>
+
+<p>Once again, <a href="mailto:codemag@aaronsw.com">email me!</a></p>
+
+<p class="posted">posted May 21, 2003 12:05 PM (<a class="category" href="cat_technology">Technology</a>)  <a href="000930" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000929" title="Joss Quest">&laquo; prev</a> | <a href="./">up</a> | <a href="000931" title="PowerPoint Remix">next &raquo;</a></p>
+
+<p><a href="000918">xmltramp</a><br />
+<a href="000921">Matrix Unloaded</a><br />
+<a href="000923">MediaCon: Lobbying</a><br />
+<a href="000924">1201 Hearings</a><br />
+<a href="000929">Joss Quest</a><br />
+<strong>RFC: Annals of Planet Hacking</strong><br />
+<a href="000931">PowerPoint Remix</a><br />
+<a href="000932">Your Mission, Should You Choose to Accept It</a><br />
+<a href="000933">Charging Society</a><br />
+<a href="000934">Dave Winer Keynote</a><br />
+<a href="000935">Like Father Like Son</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

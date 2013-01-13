@@ -1,0 +1,53 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Building Baked Sites (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000405" title="Train Dream" />	<link rel="next" href="000408" title="locked up all alone" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Building Baked Sites</h1>
+</div>
+
+<div class="content">
+<p><a href="http://www.aaronsw.com/weblog/000404">Bake, Don&#8217;t Fry</a> has been one of my more successful blog entries. I wonder if this was because of style or content (or both?). Anyway, since people seem interested in it, I thought I&#8217;d sketch out my views on how to make baked sites work.</p>
+
+<p>First, let me clarify that using static web pages for your site does not preclude things that people generally associate with dynamic sites (like templates, newsboxes, stock tickers, etc.). Nor does it mean that your site can&#8217;t have any interaction or collaboration (comments, boards, polls). While these things obviously won&#8217;t work if you move platforms or server software, at least the content already on your site won&#8217;t die. The key is to keep a strict separation between input (which needs dynamic code to be processed) and output (which can usually be baked).</p>
+
+<p>So how would this work? You&#8217;d need a dependency tracking system (good old <a href="http://www.gnu.org/software/make/make.html">GNU make</a> might even do the job) that would allow you to add new content to the system (something tricky with make alone &#8212; is this what automake does?) or modify old content and would then rebuild the dependent pages or create new ones as necessary. As an example, a new blog entry should create a new page for the entry, rebuild the previous entry page, rebuild the day/week/month&#8217;s pages and rebuild the home page. It would also have to add all the dependencies for the new page (to the template, to the previous entry, to that entry, to the category name) and add a dependency to the previous entry page.</p>
+
+<p>Current systems (like <a href="http://openacs.org/">OpenACS</a>) could even be hoodwinked into doing this with little or no modification. The dependency information could be layered on top and then the system could simply call the dynamic scripts when that page needed to be regenerated. Of course, a purebred system would probably be better since it would give a chance for URL structure to be designed more sensibly.</p>
+
+<p>Baking doesn&#8217;t do everything, though. Input systems, like the code that accepts comments, would still need to be dynamic. This is a limitation of web servers which I doubt will ever be solved in a standard way. Dynamic tools (like homepage generators and search software) will either have to be fried, or use client-side technologies like SVG, Java(Script), Flash (ick!). There&#8217;s no way around that.</p>
+
+<p>If you&#8217;re interested in helping build a system to help with baking sites, please <a href="mailto:me@aaronsw.com">let me know</a>.</p>
+
+<p class="posted">posted July 10, 2002 06:43 PM (<a class="category" href="cat_technology">Technology</a>)  <a href="000406" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000405" title="Train Dream">&laquo; prev</a> | <a href="./">up</a> | <a href="000408" title="locked up all alone">next &raquo;</a></p>
+
+<p><a href="000400">Special Gifts</a><br />
+<a href="000401">No!</a><br />
+<a href="000402">Gnutella Pioneer Gene Kan Dies at 25</a><br />
+<a href="000404">Bake, Don&#8217;t Fry</a><br />
+<a href="000405">Train Dream</a><br />
+<strong>Building Baked Sites</strong><br />
+<a href="000408">locked up all alone</a><br />
+<a href="000409">after a busy day of overthrowing governments&#8230;</a><br />
+<a href="000410">Glorious Linkfulness</a><br />
+<a href="000411">Writing Useful Web Content</a><br />
+<a href="000412">OSCON Key Signing Party</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

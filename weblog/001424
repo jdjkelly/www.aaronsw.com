@@ -1,0 +1,162 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>[REDACTED] Update (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001424.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001423" title="Stanford: Day 5" />	<link rel="next" href="001425" title="Stanford: Day 8" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>[REDACTED] Update</h1>
+</div>
+
+<div class="content">
+<p><strong>Previously:</strong> <a href="http://www.aaronsw.com/weblog/001225">[REDACTED]</a>, <a href="http://www.aaronsw.com/weblog/001412">Behind the Thick Black Line</a></p>
+
+<p>Apparently the Justice Department has solved the problem of censoring too much in the name of &#8220;national security&#8221;. <a href="http://newyorker.com/talk/content/?040927ta_talk_toobin">From last week&#8217;s <em>New Yorker</em></a>:</p>
+
+<blockquote>
+  <p>However, the government has made some changesi n the way it goes about marking up documents. &#8220;We&#8217;re finding that in other cases the censors are apparently realizing that it looks really bad when they delete large sections with that black Magic Marker,&#8221; the ACLU&#8217;s [lawyer on the case, Ann] Beeson said. &#8220;So now they are starting to use whiteout instead.&#8221;</p>
+</blockquote>
+
+<p class="posted">posted September 27, 2004 10:59 AM (<a class="category" href="cat_politics">Politics</a>) (<a href="#comments">1 comments</a>) <a href="001424" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001423" title="Stanford: Day 5">&laquo; prev</a> | <a href="./">up</a> | <a href="001425" title="Stanford: Day 8">next &raquo;</a></p>
+
+<p><a href="001419">Stanford: Day 2</a><br />
+<a href="001420">Stanford: Night 2</a><br />
+<a href="001421">Stanford: Day 3</a><br />
+<a href="001422">Stanford: Day 4</a><br />
+<a href="001423">Stanford: Day 5</a><br />
+<strong>[REDACTED] Update</strong><br />
+<a href="001425">Stanford: Day 8</a><br />
+<a href="001426">Stanford: Day 9</a><br />
+<a href="001427">Stanford: Day 10</a><br />
+<a href="001428">Stanford: Day 11</a><br />
+<a href="001429">Stanford: Day 12</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c2923">
+
+<p>Great, wait until the white out is really dry and brittle, and flake it off.  ;-)</p>
+
+<p class="posted">posted by <a target="_blank" title="http://warot.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2923">Mike Warot</a> at September 28, 2004 11:28 AM <a href="#c2923">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001424.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1424" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

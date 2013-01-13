@@ -1,0 +1,99 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Public Access to the Public Domain (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000304" title="Boston Trip 2 - Day 1" />	<link rel="next" href="000309" title="Tim O&#8217;Reilly: OS X and the Next Big Thing" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Public Access to the Public Domain</h1>
+</div>
+
+<div class="content">
+<p>Raj Reddy <a href="http://rr.cs.cmu.edu/mbdl.htm">wants to put a million books on the Internet</a>.</p>
+
+<p><a href="http://www.kahle.org/Brewster/">Brewster Kahle</a>, the man behind <a href="http://www.archive.org/">The Internet Archive</a> and <a href="http://www.alexa.com/">Alexa</a>, wants to digitize all the out-of-copyright (and thus Public Domain) books and put them on the Web. Read more for his email describing his plans and co-conspirators for the project.</p>
+<p><strong>Subject:</strong> Public Access to the Public Domain: finding the list of out of copyright books and getting them online<br />
+<strong>From:</strong> Brewster Kahle<br />
+<strong>To:</strong> Steve Harris, Gregory B. Newby, David Wolber, Raj Reddy, Robert Thibadeau, Michael Shamos, Jim Fruchterman, James Michalko, Judith Bush, Lawrence Lessig, archivists-talk<br />
+<strong>Date:</strong> Wed, 29 May 2002 01:46:02 -0700</p>
+
+<p>This is a note to a bunch of we technical and lawyerly doers in the world of Public Domain (PD) books to propose a short term strategy in order to get feedback and coordinate efforts.</p>
+
+<p>Steve Harris is a guttenberg person and lawyer, Greg Newby is a guttenberg person and tech guru, Dave Wolber is a prof at USF and is working with the Internet Archive this summer with 12 of his undergrads, Raj Reddy is &#8220;universal access to human knowledge&#8221;,  Robert Thibadeau is a tech master of the Universal Library at CMU, Michael I. Shamos is leader of Univeral Library at CMU and lawyer, Jim Fruchterman started bookshare.org: 20k scanned online books for the blind, Jim Michalko runs RLG (a union catalog), Judith Bush is running the RLG project to get the catalog onto the net, Larry Lessig has started the Creative Commons.  <a href="http://groups.yahoo.com/group/archivists-talk/">archivists-talk@yahoogroups.com</a> is an unmoderated list that discusses this kind of thing.  Sorry if I left key people off&#8212; it is late.</p>
+
+<p>If we want to help people put a pile of books online here is a strategy:</p>
+
+<p>1. take a large catalog of books in libraries,<br />
+2. tag each entry with its US copyright status,<br />
+3. prioritize those that are out of copyright,<br />
+4. try to inspire the world to digitize the out-of-copyright books,<br />
+5. format the books for online distribution,<br />
+6. organize the resulting digitized books,<br />
+7. cause enlightenment in all corners of the globe.</p>
+
+<p>Status:<br />
+1.  Get catalog:  Research Library Group (rlg.org) is up for it and will have their catalog ready in July.    Maybe OCLC would be up for it too.</p>
+
+<p>2.  Tag PD works: Tagging Needs to be done.<br />
+for US PD rules see: <a href="http://www.amazon.com/exec/obidos/ASIN/0873374339/coolbooks02/">The Public Domain: How to Find and Use Copyright-Free Writings, Music, Art &amp; More (Public Domain, 1st Ed)</a></p>
+
+<p>steps to tag:</p>
+
+<p>A. get the registration records in dirty OCR&#8217;ed form: Newby has started this. (since most are in page image form right now)</p>
+
+<p>B. maybe hand clean reg records up, (guttenberg started see <a href="http://charlz.dns2go.com/gutenberg/">Distributed Proofreaders</a>) maybe with money from IA or CMU for offshore help, maybe <em>dont</em> clean it up but use smart computer algorithms to get it right enough. (harris pointed out <a href="http://www.kingkong.demon.co.uk/ccer/ccer.htm">US Catalog of Copyright Entries</a> is a start at a hand cleaned version)</p>
+
+<p>C. do a &#8220;join&#8221; to match them up with the records and find the books that have been registered in the catalog: the rest are then Public domain.</p>
+
+<p>D. Publicize what we have done and the methods in a series of meetings with lawyers, publishers, and authors groups so that we can refine a &#8220;best faith effort&#8221; to do large scale copyright clearance.  This step is key so that we are not surprising anyone. Maybe Creative Commons can sponsor these?  IA can help.</p>
+
+<p>3.  Prioritize: we need good ideas here.  Maybe we could get checkout counts, or how many libraries have a book to know which ones should be digitizing first. Otherwise we could just leave it up to individuals that would scan, and they do it in any order they want to.</p>
+
+<p>4.  Scanning:  There are a number of ways to inspire this. We need a repeatable and inexpensive process that builds in QA. Universal Library is now cranking on a centralized approach, can we augment this with a napster-like version? bookshare.org is an example where blind people are scanning in books.</p>
+
+<p>5. Format:  archival and access formats are a problem.  there is no &#8220;MP3&#8221; of online books yet. Of course keep the high rez scans (IA will provide free storage for any needers) and then have some meetings where we try to get the list of supported access standards down to a manageable number.  I suggest a gritty meeting in August in San Francisco that, again, the IA can sponsor.</p>
+
+<p>6.  Organize: I think we can build an amazon.com-like site with a catalog that starts with RLG&#8217;s records (they have verbally agreed).  Internet Archive is building such a site this summer, hopefully Dave Wolber&#8217;s army will help populate it with the 20k or so existing online books&#8212;we could use help.</p>
+
+<p>7.  Educate and enlighten.  We are now in touch with many world wide literacy programs. I am sure you guys are in touch with them as well.  If we deliver a free, massive, and relevant library  they can do alot of the hard work of getting it to the many many people.</p>
+
+<p>Please comment, destroy, or whatever this strategy.</p>
+
+<p>Then pick a hunk to take charge of.</p>
+
+<p>The Internet Archive is best suited to #5 and #6 (Format and Organize) but can help or do any pieces.</p>
+
+<p>&#8220;Public Access to the Public Domain&#8221; is a step towards Raj&#8217;s &#8220;Universal Access to Human Knowledge&#8221;.  How hard can it be?</p>
+
+<p>-brewster</p>
+
+<p class="posted">posted June 01, 2002 11:42 PM (<a class="category" href="cat_technology">Technology</a>)  <a href="000308" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000304" title="Boston Trip 2 - Day 1">&laquo; prev</a> | <a href="./">up</a> | <a href="000309" title="Tim O&#8217;Reilly: OS X and the Next Big Thing">next &raquo;</a></p>
+
+<p><a href="000298">Copyright Lawsuit Not Included</a><br />
+<a href="000300">The New New New Economy</a><br />
+<a href="000301">My Books</a><br />
+<a href="000302">TinyURL</a><br />
+<a href="000304">Boston Trip 2 - Day 1</a><br />
+<strong>Public Access to the Public Domain</strong><br />
+<a href="000309">Tim O&#8217;Reilly: OS X and the Next Big Thing</a><br />
+<a href="000310">Valenti: &#8220;I know damn well I am infringing.&#8221;</a><br />
+<a href="000311">My Social Network</a><br />
+<a href="000312">Other</a><br />
+<a href="000313">Other</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

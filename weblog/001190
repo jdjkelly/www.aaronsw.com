@@ -1,0 +1,368 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Shorter Richard Clarke (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/001190.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001189" title="Markdown" />	<link rel="next" href="001191" title="Against All Enemies: The Movie" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Shorter Richard Clarke</h1>
+</div>
+
+<div class="content">
+<p>Executive summary: There&#8217;s a serious chance 9/11 could have been stopped. Bush wanted to invade Iraq instead.</p>
+
+<p>White House Terrorism Coordinator Richard Clarke was appointed by Reagan, and served under Bush I, Clinton, and Bush II &#8212; he has 30 years in government service. He was the President&#8217;s top anti-terrorism advisor (although Bush II, believing terrorism wasn&#8217;t important, stripped him of his Cabinet-level rank). He ran the 9/11 response from the Situation Room.</p>
+
+<p>Clarke repeatedly <a href="http://www.aaronsw.com/weblog/001120">pressed Bush to stop Al-Qaeda</a>. He sent a letter to Condoleeza Rice asking for an <em>urgent</em> meeting to prepare for an impending attack. In April (three months later), they sent him the number-two man, Paul Wolfowitz. Wolfowitz suggested we should focus on Iraqi terrorism, even though there had been not even a hint of Iraqi terrorism since we blew up their intelligence center and threatened to destroy their whole government if they tried something again.</p>
+
+<p>In July (three more months later), they&#8217;d begun picking up an unprecedented level of chatter. The last time chatter was high, Al-Qaeda was preparing to blow up LAX. (Clinton stopped them at the border, after calling calling everyone to high alert because of the increased chatter.) The CIA Director insisted an attack against the US was imminent. There was still no meeting. Nobody was put on alert.</p>
+
+<p>The FBI had been watching several Al-Qaeda members, who later turned out to be 9/11 hijackers. Had things been put on high alert, the information would have been pulled up to Clarke, who could have caught the guys and pumped them for information and followed connections to the other hijackers.</p>
+
+<p>In September (another month later), the meeting finally happened. But by then it was too late.</p>
+
+<p>After 9/11, Rumsfeld and the White House pushed for retaliatory attacks against <em>Iraq</em>. &#8220;Rumsfeld said there aren&#8217;t any good targets in Afghanistan. And there are lots of good targets in Iraq. [&#8230;] I thought he was joking. [&#8230;]  For years we&#8217;ve looked and there&#8217;s just no connection.&#8221; </p>
+
+<p>But that wasn&#8217;t good enough. The president dragged him into a room and insisted that he find out whether Iraq did this, with the obvious implication that he wanted him to say Iraq was involved. (<em>60 Minutes</em> has two additional sources that this meeting occurred, including one witness.) They wrote a report stating that there was no evidence on Iraq and got everyone to sign off on it. The White House sent it back saying &#8220;Wrong answer. Do it again.&#8221; (The Bush administration admits this and showed <em>60 Minutes</em> the memo marked &#8220;Please update and resubmit&#8221;.)</p>
+
+<p>Later we invaded Iraq, which Clarke feels played right into bin Laden&#8217;s hands. For years, bin Laden had been producing propaganda saying that the US wants to invade and occupy an oil-rich middle eastern country. So what did we do? Invade and occupy an oil-rich middle eastern country. As a result, it&#8217;s not surprising that Al-Qaeda and its offshoots are recruiting more and more.</p>
+
+<p>President Bush requested and received a little chart with the faces of all Al-Qaeda higher-ups so that he could X out their faces when they were killed. But catching those guys isn&#8217;t enough, now that more and more are being recruited.</p>
+
+<p><em>Clarke&#8217;s book,</em> <a href="http://www.amazon.com/exec/obidos/ASIN/0743260244/coolbooks02/">Against All Enemies</a> <em>is being published tomorrow. This story is based on <a href="http://www.cbsnews.com/stories/2004/03/19/60minutes/main607356.shtml">the preview aired on</em> 60 Minutes</a> <em>(<a href="http://www.sadlyno.com/archives/60min&#95;StahlClarke&#95;transcript.html">transcript</a>).</em></p>
+
+<p><strong>More:</strong> <a href="http://www.aaronsw.com/weblog/001114">Shorter Paul O&#8217;Neill</a>.</p>
+
+<p class="posted">posted March 21, 2004 11:37 PM (<a class="category" href="cat_politics">Politics</a>) (<a href="#comments">16 comments</a>) <a href="001190" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001189" title="Markdown">&laquo; prev</a> | <a href="./">up</a> | <a href="001191" title="Against All Enemies: The Movie">next &raquo;</a></p>
+
+<p><a href="001179">Sue for Freedom: Saving Steamboat Roy</a><br />
+<a href="001185">Shorter Tom DeLay</a><br />
+<a href="001187">Wonderfalls</a><br />
+<a href="001188">President Bush: Why Can&#8217;t He Stop Lying?</a><br />
+<a href="001189">Markdown</a><br />
+<strong>Shorter Richard Clarke</strong><br />
+<a href="001191">Against All Enemies: The Movie</a><br />
+<a href="001193">How iTMS Works</a><br />
+<a href="001194">Free Culture Wiki: Piracy Hits a New Low</a><br />
+
+</p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c765">
+
+<p>aaron, </p>
+
+<p>you should form a geek contingent to go to the RNC counter convention protests and to let the world know what Bush and his administration is doing is plain wrong.</p>
+
+<p>http://www.counterconvention.org/</p>
+
+<p class="posted">posted by <a href="http://www.healthhacker.org/satoroams">biella</a> at March 22, 2004 02:54 PM <a href="#c765">#</a></p>
+
+</div><div id="c767">
+
+<p><em>Clarke repeatedly pressed Bush to stop Al-Qaeda.</em></p>
+
+<p>And he repeatedly pressed Clinton to stop al Qaeda, too.  Didn&#8217;t work with Clinton, either.</p>
+
+<p>I won&#8217;t argue the case that Bush did everything right; although some of Clarke&#8217;s charges smack of ridiculousness, the bottom line is that Bush could have and should have done more, and might have prevented it had he gone into Afghanistan to take out al Qaeda.</p>
+
+<p>But my beef is with those who try to make it look like the Democrats were any better.  Clarke himself tells in another book of, in the months after the USS Cole attack, how the Clinton administration would not go into Afghanistan to stop al Qaeda, because it might be illegal, because it might turn Muslims against us, because it was not warranted (!!).</p>
+
+<p>Pop quiz: who was State Department counterterrorism expert Michael Sheehan talking about when he remarked to Richard Clarke, &#8220;What&#8217;s it going to take to get them to hit al Qaeda in Afghanistan? Does al Qaeda have to attack the Pentagon?&#8221;</p>
+
+<p>Answer: the Clinton administration.</p>
+
+<p>So if you want to just show how Bush messed up, more power to you.  But if you want to try to make Bush look bad by showing how Clinton did a good job &#8230; I&#8217;d advise you don&#8217;t.</p>
+
+<p>BTW, this stuff about the deputies&#8217; meetings and not having cabinet-level attention until September was already documented, in 2002, in Bush at War by Bob Woodward.  It&#8217;s not news, most of it.</p>
+
+<p>One more point: <em>The president dragged him into a room and insisted that he find out whether Iraq did this, with the obvious implication that he wanted him to say Iraq was involved</em></p>
+
+<p>That&#8217;s just unacceptable.  Bush&#8217;s words do not imply what Clarke inferred.</p>
+
+<p><em>The White House sent it back saying “Wrong answer. Do it again.”</em></p>
+
+<p>You admit in the next sentence it didn&#8217;t say that.  Please stick to facts.</p>
+
+<p>And let us look at the facts: Clarke thinks that Bush, in that meeting, was insisting he manufacture a link between al Qaeda and Iraq.  Yet MERELY THREE DAYS LATER, Paul Wolfowitz tried to get Bush to invade Iraq, and Bush refused, saying the target is only Afghanistan.</p>
+
+<p>What is clear is that Bush thought Iraq was involved, and was maybe even looking for a good excuse to go after Hussein, but that he was not willing to go into Iraq without any evidence.  How do we know this?  Because he didn&#8217;t!</p>
+
+<p class="posted">posted by <a href="http://slashdot.org/~pudge/journal">pudge</a> at March 22, 2004 03:29 PM <a href="#c767">#</a></p>
+
+</div><div id="c768">
+
+<p>I&#8217;m simply reporting what Clarke says here, but I tend to agree with him about the implication of Bush&#8217;s intimidating manner.</p>
+
+<p>The two sentences are not contradictory, they could send a memo with a &#8220;please resubmit&#8221; marking written on it and a verbal statement (or an implication) that it wasn&#8217;t the answer they wanted.</p>
+
+<p>Where do you get that three days later Bush refused? My understanding was that the White House wanted to attack Iraq, but was only pulled back by intense lobbying from the FBI and CIA and Clarke.</p>
+
+<p class="posted">posted by <a href="http://www.aaronsw.com/">Aaron Swartz</a> at March 22, 2004 03:51 PM <a href="#c768">#</a></p>
+
+</div><div id="c772">
+
+<p><em>I’m simply reporting what Clarke says here, but I tend to agree with him about the implication of Bush’s intimidating manner.</em></p>
+
+<p>Well, I&#8217;ll say this: you can choose to believe it or not, but it is not proof of anything at all.  You, and Clarke, are guessing that Bush implied something he did not state.  It&#8217;s opinion, not fact.  Many people cite this as a smoking gun that Bush was looking to frame Iraq, and it is far from it, because you can only accept it as having that meaning if you take it to mean something other than what he actually said.</p>
+
+<p><em>Where do you get that three days later Bush refused?</em></p>
+
+<p>My source is a reporter interviewed by George Stephanopoulos in the first segment of <a HREF="http://abcnews.go.com/Sections/ThisWeek/">This Week</a> yesterday.  I forget his name, and I deleted it from the TiVo already.  I have no transcript, though they are available for $19.95 on the site.  :-)  Sorry, I wish I had held onto the recording for longer.</p>
+
+<p>But the basic point is that it is the job of the President to ask tough questions.  Even if the President did mean to imply what you say, Presidents often play devil&#8217;s advocate, and Clarke was not privy to most of the high-level discussions Bush had at the time.</p>
+
+<p class="posted">posted by <a href="http://slashdot.org/~pudge/journal">pudge</a> at March 22, 2004 04:14 PM <a href="#c772">#</a></p>
+
+</div><div id="c773">
+
+<p>The reporter who said it was Terry Moran, of ABC News.</p>
+
+<p class="posted">posted by <a href="http://slashdot.org/~pudge/journal">pudge</a> at March 22, 2004 04:19 PM <a href="#c773">#</a></p>
+
+</div><div id="c778">
+
+<p>The <a HREF="http://www.pbs.org/newshour/bb/terrorism/jan-june04/bartlett_03-22.html">three days thing was noted again last night by Dan Bartlett</a> (White House communication director).  Here&#8217;s a short snippet, feel free to read the while thing (Bartlett&#8217;s given the best response to Clarke I&#8217;ve read so far, including pointing out that Clarke did have a meeting with the President in late summer, and chose to not talk about al Qaeda!):</p>
+
+<p>&#8220;But I think it&#8217;s also important to understand that it was only 72 hours [after the conversation with Clarke about 9/11 and Iraq], approximately, that the president in Camp David during a national security meeting made the decision, took the information that the Dick Clarkes of the world and the CIA and the FBI, all of them as he said had this information. Well, it was provided to the president, and the president made a very clear decision that the focus of the campaign was going to be on al-Qaida and it was going to be in Afghanistan. You did not hear the president saying that 9/11 was directly linked to Iraq, he&#8217;s never made that point.&#8221;</p>
+
+<p class="posted">posted by <a href="http://slashdot.org/~pudge/journal">pudge</a> at March 23, 2004 08:31 AM <a href="#c778">#</a></p>
+
+</div><div id="c780">
+
+<p>Statements by George Bush:</p>
+
+<p>&#8220;We know that Iraq and al Qaeda have had high-level contacts that go back a decade. Some al Qaeda leaders who fled Afghanistan went to Iraq. These include one very senior al Qaeda leader who received medical treatment in Baghdad this year, and who has been associated with planning for chemical and biological attacks. We&#8217;ve learned that Iraq has trained al Qaeda members in bomb-making and poisons and deadly gases.&#8221;</p>
+
+<p>&#8220;And I also mentioned the fact that there is a connection between al Qaeda and Saddam Hussein.&#8221;</p>
+
+<p>&#8220;This [Saddam Hussein] is a person who has had contacts with al Qaeda.&#8221;</p>
+
+<p>&#8220;It&#8217;s a man who has got connections with Al Qaida. Imagine a terrorist network with Iraq as an arsenal and as a training ground, so that a Saddam Hussein could use this shadowy group of people to attack his enemy and leave no fingerprint behind. He&#8217;s a threat.&#8221;</p>
+
+<p>&#8220;He&#8217;s a threat because he is dealing with Al Qaida. In my Cincinnati speech I reminded the American people, a true threat facing our country is that an Al Qaida-type network trained and armed by Saddam could attack America and leave not one fingerprint.&#8221;</p>
+
+<p>&#8220;Before September the 11th, many in the world believed that Saddam Hussein could be contained. But chemical agents, lethal viruses, and shadowy terrorist networks are not easily contained. Imagine those 19 hijackers with other weapons and other planes &#8212; this time armed by Saddam Hussein. It would take one vial, one canister, one crate slipped into this country to bring a day of horror like none we have ever known.&#8221;</p>
+
+<p>&#8220;Saddam Hussein has longstanding, direct and continuing ties to terrorist networks. Senior members of Iraqi intelligence and al Qaeda have met at least eight times since the early 1990s. Iraq has sent bomb-making and document forgery experts to work with al Qaeda. Iraq has also provided al Qaeda with chemical and biological weapons training. We also know that Iraq is harboring a terrorist network, headed by a senior al Qaeda terrorist planner.&#8221;</p>
+
+<p>More statements at <a href="http://www.house.gov/reform/min/features/iraq_on_the_record/">Iraq on the Record</a></p>
+
+<p class="posted">posted by bluetooth at March 23, 2004 11:53 AM <a href="#c780">#</a></p>
+
+</div><div id="c785">
+
+<p>With regards to the last post by bluetooth, it is clear that Bush has said over and over that Al Qaeda and Saddam Hussein are connected.  As far as I know, his assertions have not been justified.  However, none of the above statements directly link Saddam Hussein and 9/11.  Read them again.</p>
+
+<p class="posted">posted by <a href="mailto:bprahul2002@yahoo.com">Rahul</a> at March 24, 2004 02:32 PM <a href="#c785">#</a></p>
+
+</div><div id="c790">
+
+<p>An event that happened prior to sept 11 needs to be digged into: the G-8 Summit Conference in Genoa on July 20-22 2001. 
+At that event, the Italian authorities, amongst other securitiy measures,installed rocket missile batteries at the Genoa main airport!! I remember wondering why such a fuss at the time.
+But for those reponsible for national securities, surely there existed(or was communicated among nations authorities) a report detailing why such installations were essential against a possible terrorist attack.
+I sense that it was intelligence pointing at airplane attacks. 
+Why din&#8217;t the CIA or others pick up on this? &#8230;just prior to sept. 11!!!
+Roger.</p>
+
+<p class="posted">posted by <a href="mailto:remard@tr.cgocable.ca">Roger emard</a> at March 25, 2004 12:14 PM <a href="#c790">#</a></p>
+
+</div><div id="c793">
+
+<p>clarke &amp; o&#8217;neill very believable.  cowboy bush very predictable &amp; has got to go.</p>
+
+<p class="posted">posted by <a href="mailto:jp-f@lycos.com">jim</a> at March 25, 2004 12:26 PM <a href="#c793">#</a></p>
+
+</div><div id="c796">
+
+<p>Publishing articles by the traitor liar is your mistake.  His lack of intergrety infects your moral composition.  Look else where for personalities to feature.  In the meantime we will continue distroying dick.  I hope he enjoys the ride to hell.</p>
+
+<p class="posted">posted by <a href="mailto:randy-egan@comcast.net">Randy Egan</a> at March 25, 2004 03:35 PM <a href="#c796">#</a></p>
+
+</div><div id="c799">
+
+<p>First time writer . I watched the entire Clarke session on Tuesday wi th 9/11 Committee &amp; could not help but be impressed with his candor &amp; his memory ( whether you support his analysis or not a reasonable person recognizes brilliance when they see it , I think ). A line that is often quoted from Shakespeare seems applicable re the White House&#8217;s response or lack thereof , &#8221; methinks thou dost protest too much &#8221; ! The people who should be polled for their reactions to what they heard this past week are those who lost loved ones , not those of us who sit on the sidelines or have axes to grind , etc. 
+A Canadian friend who loves the U.S.A. at it&#8217;s best &#8230;</p>
+
+<p class="posted">posted by <a href="mailto:wssardine@kwic.com">Winston Sardine</a> at March 26, 2004 09:11 AM <a href="#c799">#</a></p>
+
+</div><div id="c800">
+
+<p>If something seems incredible, does it mean it did not happen?</p>
+
+<p>&#8220;Where was the Intelligence?&#8221; &#8212; Some agents staged these deplorable acts to destroy the credibility of legitimate complaints.</p>
+
+<p>The terrorist hijacker lived 15 minutes away, but
+agents, with no warrant, and long before the Patriot Act were illegally wiretapping, and stalking to impose terror upon ordinary American
+women and their children.</p>
+
+<p>The women formed a website to tell their story
+at http://www.fedsneedmeds.com   It should be noted that innocent Americans are being harmed by the same who are supposed to protect us.</p>
+
+<p>The motive:  As recorded on answering machines, &#8220;Keep your mouth shut.  You&#8217;ve been informed.&#8221;  It was political for them, but the story changed when the women found a covert bug in their home installed by the local telephone company repairman from SBC Communications.</p>
+
+<p>This should have gone to the terrorist headed for the Pentagon who lived 15 minutes away.</p>
+
+<p>Where was the Intelligence?  Stifling the free speech rights of American women who used the Internet to voice the truth of workplace abuse.</p>
+
+<p>And those who could help covered the ass of the other.</p>
+
+<p class="posted">posted by <a href="http://www.fedsneedmeds.com">jenny olmeda</a> at March 26, 2004 10:22 AM <a href="#c800">#</a></p>
+
+</div><div id="c802">
+
+<p>I watched the entire public commisson on 9/11.  Somebody screwed up, but not in the way most people think.  I read something between the lines.</p>
+
+<p>Here is my theory of what happened.  When Bush was elected in there was great animosity between him and the Clinton administration.  Essentially whatever Clinton did Bush renegged on.  Of course some members of the Clinton administration did not make it easy on the Bush administration.</p>
+
+<p>Well that animosity also included the need to contain terrorism.  As one comment was said, &#8220;Only eight people had been killed, so why is Al Quida a threat?&#8221;  As a result it was considered a Clinton issue and could be put on a lower level priority.  Also consider that terrorism was not an issue in Bush 1 era.  Another reason to ignore it.  Well that animosity cost America big time.  Frankly if my theory is right the problem is not the CIA, or FBI, but politics&#8230;  </p>
+
+<p>How you would solve that I have no idea&#8230;.  Maybe it is part of the territory.  As Clarke said, &#8220;People react to body bags&#8221;.</p>
+
+<p class="posted">posted by <a href="mailto:christianhgross@yahoo.ca">Christian Gross</a> at March 26, 2004 01:50 PM <a href="#c802">#</a></p>
+
+</div><div id="c807">
+
+<p>Does anyone see a bigger picture here? All this finger pointing might be obscuring the bottom line, as I see it anyway.
+The rest of the world citizens hold America as a whole country responsible for her actions, not just one currently elected party or the other. <br />
+Does the phrase,&#8221;cause and effect&#8221; mean anything to anyone out there?
+For decades we have exploited many, many poor people by supporting puppet dictators who would allow American corporations to profit at the level of sheer greed.  We, the American people, profited by enjoying the fruit of that labor: cheap bannanas, coffee, grapes, etc. 
+And when there is finally an angry retaliation or revolution, we justify our imperialism by saying that they are, &#8220;jealous&#8221; of us. Come on, give it up. ..We all know that America has engaged in arms trade; mercenary funded coupes; violence sponsored on our behalf. Really now&#8230;jealousy might be part of the problem, but maybe there is just a little more to the picture then us always being the &#8220;good&#8221; guys, and everyone else are the &#8220;bad&#8221; guys who are all trying to bring us down.  -I challange you to think beyond the rhetoric&#8230;change places for a few minutes with our enemies.  Terrorism was the way the Native Americans (and early settlers), fought back too. Gurilla warfare has historically been engaged in by the underdogs forever.
+Please understand I think 9/11 was inexcusable and unjustifiable, and the terrorists should be accountable in a world court. 
+But, admit it,  our own world-behavior has not left us with lilly-white hands either.
+My opinion: stop blaming the democrates or republicans. Demand solutions from our elected representatives that reflect a foreign policy built on justice, decency and opportunities for independence&#8230;..and finally, be honest, we DO want cheap oil. 
+posted by Kris,D.A.R. </p>
+
+<p class="posted">posted by  at March 27, 2004 06:34 AM <a href="#c807">#</a></p>
+
+</div><div id="c809">
+
+<p>It is clear that Clarke is venting like a schoolkid who lost his ball. It is embarassing that we let him command so much time when we really need some answers. Are we really gullible enough to dismiss this as anything other than an attempt at self-agrandisement (and to sell books)? Wasn&#8217;t he in charge?</p>
+
+<p class="posted">posted by <a href="mailto:tednagel@pga.com">ted</a> at March 28, 2004 08:59 AM <a href="#c809">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/001190.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/mt-comments.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1190" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /><br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

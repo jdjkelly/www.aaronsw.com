@@ -1,0 +1,468 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>How Dumb is Daniel Dennett? (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>How Dumb is Daniel Dennett?</h1>
+
+<p>It continually amazes me how many otherwise-intelligent people I know claim to be fans of Daniel Dennett, a bitter hack philosopher who spends his days sucking up to scientists and writing personal attacks on other philosophers. As Daniel Davies <a href="http://econ161.berkeley.edu/movable_type/archives/001288.html">put it</a>, &#8220;I used to be a rabid Dennettite [until] I started reading more widely in the subject, and found that Dennett had been pretty (no, make that very) badly behaved [&#8230;] And that&#8217;s when the hate developed.&#8221;</p>
+
+<p>At some point it feels unfair to keep picking on the guy, but I came across a gem that, even after looking at it for months, still manages to amaze me. Here, in full, is Daniel Dennett&#8217;s argument determinism is compatible with free will.</p>
+
+<p>(For context, this comes after pages discussing Conway&#8217;s game of life, in which some deterministic animated squiggles don&#8217;t bounce into (&#8220;avoid&#8221;) other animated squiggles.)</p>
+
+<blockquote>
+  <p>It logically follows that:</p>
+  
+  <ol>
+  <li>In some deterministic worlds there are avoiders avoiding harms.</li>
+  <li>Therefore, in some deterministic worlds some things are avoided.</li>
+  <li>Whatever is avoided is avoidable, or evitable.</li>
+  <li>Therefore, in some deterministic worlds not everything is inevitable.</li>
+  <li>Therefore, determinism does not imply inevitability.</li>
+  </ol>
+</blockquote>
+
+<p>(Gazzaniga and Steven, p. 65, summarizing Dennett&#8217;s <em>Freedom Evolves</em>, p. 56)</p>
+
+<p>One just has to marvel at the sheer stupidity it takes to advance such an argument, much less base a 368-page book on it. I mean surely in the course of writing such a book you would come to notice that your core argument is based around a <em>pun</em>. (Shame also on Gazzaniga and Steven, who also base their argument on this absurd piece of &#8220;logic&#8221;.)</p>
+
+<p>Yes, Daniel Dennett is literally arguing that because in some deterministic animations depict things being avoided, determinism does not imply inevitability. (It would seem an obvious corollary that Mickey Mouse has free will.)</p>
+
+<p>Why do people still take this man seriously?</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">January 19, 2008</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>I don&#8217;t get the problem. What part of that don&#8217;t you understand?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://mccarthy.vg/">Jamie McCarthy</a>
+ on January 19, 2008 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>I guess to be more precise, I should ask where you think the contradiction is. Explaining that more carefully will help me identify more precisely what it is you don&#8217;t understand. (Your implication that Mickey Mouse cartoons are a good example suggests to me you&#8217;re confused about intentionality and perspective, I guess, but I can&#8217;t say for sure. Partly because the prior sentence doesn&#8217;t scan.)</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://mccarthy.vg/">Jamie McCarthy</a>
+ on January 19, 2008 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>I thought it was fairly obvious. The flaw in the argument is line 3, at least assuming we are using inevitable in its traditional sense in such discussions.</p>
+
+<p>Basically, the fact the fact that an object in a deterministic world is avoidable in the sense that other deterministic-world objects appear to avoid it, does not mean it is evitable, in the sense that the deterministic object could do otherwise. Running through the argument with Mickey Mouse:</p>
+
+<ol>
+<li>In some deterministic cartoons there are mouses avoiding walls.</li>
+<li>Therefore, in some deterministic cartoons some things are avoided.</li>
+<li>Whatever is avoided is avoidable, or evitable.</li>
+<li>Therefore, in some deterministic cartoons not everything is inevitable.</li>
+<li>Therefore, determinism does not imply inevitability.</li>
+</ol>
+
+<p>While the cartoon wall was, in principle, avoidable, it was inevitable that the deterministic Mickey Mouse would walk into it.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on January 19, 2008 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>Aaron,</p>
+
+<p>I&#8217;d expect you to know better than to waste time arguing about definitions with philosophers. Exactly how we define vague concepts like free will, evitability, or avoidability, doesn&#8217;t really matter, since there isn&#8217;t much to build on those definitions. They just don&#8217;t seem to fit into a rigorous logical framework, so let&#8217;s shrug, and focus on things that do.</p>
+
+<p>Is there other work of Dennett&#8217;s that frustrates you? In particular, what do you think of his theories about the Darwinian evolution of memes?</p>
+
+<p>Cheers,
+Andrey</p>
+
+<p class="posted">posted by Andrey Fedorov
+ on January 19, 2008 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>&#8220;Free will&#8221; as most non-philosphers mean, is like Medival free-will. Here, &#8220;agents&#8221; are the pan-ultimate cause of their actions and they thus could not be predicted with a machine that knows everything about the present (arguably, then, the future is not entirely knowable).</p>
+
+<p>&#8220;Free will&#8221; as &#8220;compatibalist&#8221; call it, is about the the will (attempt to perform actions) as being &#8220;unconstrained&#8221;. This is called &#8220;Hobbian free-will&#8221;.</p>
+
+<p>-For the keen physicalists (where qualia are are subset of the physical, like gravity/fields and such), &#8220;free willing&#8221; agents don&#8217;t <em>feel</em> constrained or oppressed. They feel how they are programmed to: if someone holds a gun to your head and takes your money, you will <em>felt</em> unfree, whereas if you are having fun with some freinds, even though it was determined physically a long time ago, it <em>feels</em> unconstrained.
+-For the unkeen and foolish physicalists out there (who think robots=humans and CPU chip/AI complexity = consciousness), no coherent definition seems to be given.</p>
+
+<p>So really, &#8220;compatibalism&#8221; is a misleading and confusing word. Determinism is <em>not</em> compatible with &#8220;medival free-will&#8221;, but it <em>is</em> compatible with &#8220;Hobbian free-will&#8221;.</p>
+
+<p>So&#8230;what we have here are definition wars as usual ;)</p>
+
+<p class="posted">posted by Aaron Schulz
+ on January 19, 2008 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c6">
+<p>I&#8217;m not in a position to give advice or something, but: Aaron, do you really care? Why, if you do?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://ahinea.com/en/">ivan kurmanov</a>
+ on January 19, 2008 <a href="#c6" rel="bookmark">#</a></p>
+</div>
+<div id="c7">
+<p>That has to be the most absurd definition of <em>evitable</em> (not to mention <em>harms</em>), I&#8217;ve ever seen.</p>
+
+<p>Jamie: please do explain.</p>
+
+<p class="posted">posted by Jacob Rus
+ on January 19, 2008 <a href="#c7" rel="bookmark">#</a></p>
+</div>
+<div id="c8">
+<p>I&#8217;m with some of the other commentators in that I&#8217;ve never really understood why people feel so strongly about free will. Given that a universe with free will is indistiguishable from one without free will, it seems to me not to matter what we call our particular one.</p>
+
+<p>But I did think (despite disliking the whole seventies-retro-feel that the game of life thing brings to the book) that Dennett had a point in the first 50 pages of his book. Humans are open systems, and our dynamics are not determined by knowledge of any small subset of the universe.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://whimsley.typepad.com">tom s.</a>
+ on January 19, 2008 <a href="#c8" rel="bookmark">#</a></p>
+</div>
+<div id="c9">
+<p>I&#8217;m no fan of DD, but I would not base my criticism of him on a summary somebody else has written of one of his books. Have you read the actual book? (I haven&#8217;t, hence my lack of opinion on the subject).</p>
+
+<p class="posted">posted by Björn
+ on January 19, 2008 <a href="#c9" rel="bookmark">#</a></p>
+</div>
+<div id="c10">
+<p>Why would Denett bother to argue that determinism doesn&#8217;t imply that everything is un-dodge-able?  That&#8217;s a claim any incompatibilist would give him.  I can&#8217;t believe he would be stupid enough to then go on and claim that inevitable-as-undodgeable = inevitable-as-had-to-happen-given-the-laws-of-physics-plus-initial-conditions; 
+But if he doesn&#8217;t, then there&#8217;s really no point to giving this argument in the first place.  Maybe G&amp;S misunderstood whatever he actually said?</p>
+
+<p class="posted">posted by Liron Greenstein
+ on January 19, 2008 <a href="#c10" rel="bookmark">#</a></p>
+</div>
+<div id="c11">
+<p>the interesting stakes in this case is that gazzaniga uses dennett&#8217;s argument to show that justice and law are relevant in a world of deterministic neurobiology, because our will is the underpinning of all european law.</p>
+
+<p>to the extent that we choose evil without coersion it&#8217;s our society&#8217;s right and obligation to punish us. we presume our moral decisions occur outside of the context of environmental forces - anything that forces the hand of an individual, even nature, removes personal responsibility and renders the legal system irrelevant. this is why we have coercion defenses and insanity pleas.</p>
+
+<p>the avoider language is important- it&#8217;s specifically about avoiding committing crime. it&#8217;s really troubling to see a legal scholar grasping at straws like this. i have a roomba that wanders in a random walk around my house, but avoids falling down stairs due to a sensor. dennett and gazzaniga seem to be saying by extension, because of the existence and observed behavior of my robot, robots that do fall down stair have chosen to fall. therefore if falling were a crime, they could be prosecuted for it. of course, there&#8217;s no will here, there&#8217;s just a sensor, which is present or not, and working or not. these men have nothing based in the science and the medicine, merely defective logic based on knowing little about cellular automata, and a kind of willful semantic ignorance of the language they are using.</p>
+
+<p>i don&#8217;t think the argument for the legal system is as weak as gazzaniga makes it, but it points to medical research being highly disruptive to society&#8217;s ideas of justice in the next few decades. i hope better arguments than dennett&#8217;s are put to the task.</p>
+
+<p class="posted">posted by q
+ on January 19, 2008 <a href="#c11" rel="bookmark">#</a></p>
+</div>
+<div id="c12">
+<p>I don&#8217;t find this argument to be much dumber than Searle&#8217;s argument that computers can&#8217;t be conscious because they aren&#8217;t &#8220;brains&#8221; (a brain, of course, being that which is conscious) - whatever the reason why you fail to see the stupidity of Searle&#8217;s argument, people probably fail to see the stupidity of Dennett&#8217;s argument for the same (or a similar) reason.</p>
+
+<p class="posted">posted by Mark
+ on January 19, 2008 <a href="#c12" rel="bookmark">#</a></p>
+</div>
+<div id="c13">
+<p>It seems evident that people, including Aaron, care about this because it&#8217;s another way of posing the question of (my paraphrasing) &#8220;Do we have mystical souls of a divine nature (free will), or are we mere machines no different from computers (determinism)?&#8221;</p>
+
+<p>We are like computers == determinism
+We are transcend physicality == free will</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://sethf.com/">Seth Finkelstein</a>
+ on January 20, 2008 <a href="#c13" rel="bookmark">#</a></p>
+</div>
+<div id="c14">
+<p>a) yes, the pun is terrible.
+b) Andrey&#8217;s comment about wasting time &#8220;arguing about definitions with philosophers&#8221; is somewhat disconcerting. That sort of thinking goes a long way toward convincing me to not buy another philosophy book outside the classics, ever.
+c) You <em>all</em> need to go contemplate the consequences of quantum mechanics and thermal physics (especially Brownian motion) on synapses and other cellular ligand-receptor systems. You should also contemplate how neurons, or small systems of neurons, will likely prove to be Turing complete. One example of how cells could be Turing complete (1) control: the universal DNA-RNA-protein dogma, (2) program: the unique cellular machinery of each neuron, (3) data: synaptic and interstitial inputs that stimulate the machinery to do things that lead to other outputs. Also contemplate the lossy nature of this biological computer: entropy, leaky integration, thermal losses, all conspire to insert a fair amount of random data into to Turing machines.</p>
+
+<p>Along those lines, explain why psychoactive drugs work. I guarantee a person on clozaril and haldol will have a different set of thoughts one hour after the injections that they would if they&#8217; hadn&#8217;t taken the injections.</p>
+
+<p>I&#8217;m pretty sure that once the dust settles, maybe in this century, we&#8217;ll find that while the neurons, or small sets of neurons, may be turing complete, there&#8217;s simply to much quantum randomness in the brain (synaptic and interstitial) to advance any simple deterministic model, yet at the same time, it will be difficult to argue that the mind transcends the physical processes that occur within. If anything, we will probably extend the entity which is the person to include the whole person. You lose your pinky toe, you&#8217;ll have different thoughts. You may still be able to work on high level math or debate the merits of the death penalty, but if you loose part of your pancreas, or a kidney, the chemistry of the interstitial fluid in your brain will be oh so slightly different, or will degrade more quickly over time. Something will change in your thinking.</p>
+
+<p>In a very real way, you can manipulate your own future thoughts be manipulating your current environment. If you start buying fewer processed snack foods then you&#8217;ll be less likely to think about weight loss programs in 20 years. Of course, you&#8217;ve been manipulating your own thoughts for years. Or have you? Where did the first manipulations come from? Or were those simply the condensations of many random events that piled up over time, influenced, remember, by environmental stimuli too, environmental stimuli that have been effecting your outcomes all the way since your mother&#8217;s eggs stopped reproducing while <em>she</em> was in utero, leading to decisions her body made about which oocyte follicles would mature, and your father&#8217;s net pH the night you were conceived, leading to a subtle shift in which spermatocytes could gain entry to the maternal oocyte, on which night, and whether or not she drank that night, which might affect, slightly, when your neural tube closed, and some weeks later, how much glucose she had on board when it was time for your heart to start beating &#8230; did it start a few minutes later, slowing the rate of division of neurons in your brain for a few moments?</p>
+
+<p>While the whole thing may be deterministic, after allowing for quantum mechanics and initial conditions, the machines are so numerous that the system is so complex that the only functional way to get through life is to act on what we perceive to be free will. The Green&#8217;s fMRI results of the trolley problem hint at this.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://nielsolson.us">Niels Olson</a>
+ on January 20, 2008 <a href="#c14" rel="bookmark">#</a></p>
+</div>
+<div id="c15">
+<p>Mark: Maybe because that&#8217;s <em>not</em> Searle&#8217;s argument.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on January 20, 2008 <a href="#c15" rel="bookmark">#</a></p>
+</div>
+<div id="c16">
+<p>Aaron,</p>
+
+<p>It&#8217;s much more honest to do another post professing your love of Searle then to call Dennett dumb.  As has been pointed out, you have probably done very little to read any Dennett without an agenda going in.  Dennett has written books which do have content that is not personal attacks, e.g. many people familar with his recent work Breaking the Spell.</p>
+
+<p>There is a temptation to suggest, and I will succomb to it, that you are embarrassed by how much you are an advocate of Searle.  Your post does not mention the name but the &#8220;dsquared&#8221; quote that you dug from 2002 did not finish this sentence:</p>
+
+<p>&#8230;Dennett had been pretty (no, make that very) badly behaved when it came to falsely attributing strawman positions to John Searle, and not admitting it when corrected.</p>
+
+<p>Now someone has brought up the question of why you are so concerned about the issues of determinism and free will.  I am curious about this also.  In your article about the game you leapt rather quickly to the notion that we are so much more than machine.  What are you so worried about?  Determinism versus free will is an old concern and lots of people have moved on to more reasonable debates.  From my point of view, we know its far too hard to predict relatively simple phenomenon (on our scale length, ignore the fact that quantum mechanics is probablistic) compared with humans.  Why bash Dennett when all you want to say is that you are a real boy?</p>
+
+<p class="posted">posted by Jeremy Corbett
+ on January 20, 2008 <a href="#c16" rel="bookmark">#</a></p>
+</div>
+<div id="c17">
+<p>I disliked Dennett long before I&#8217;d read anything by Searle, so I do not think your explanation is true. It&#8217;s true that Searle is something of the anti-Dennett, but I think that&#8217;s more of an explanation of why I like Searle than why I dislike Dennett.</p>
+
+<p>I&#8217;m not worried about free will (in this piece); this just happens to be the example someone showed to me.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on January 22, 2008 <a href="#c17" rel="bookmark">#</a></p>
+</div>
+<div id="c18">
+<p>BTW, I think it&#8217;s intriguing that nobody (save perhaps Jamie) has tried to defend the argument. Everyone&#8217;s either: attacked me personally for one reason or another, attacked the choice of subject (certainly not mine!), etc.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on January 22, 2008 <a href="#c18" rel="bookmark">#</a></p>
+</div>
+<div id="c19">
+<p>I&#8217;ll repeat Bjorn&#8217;s question: Aaron, have you read Freedom Evolves?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://mccarthy.vg/">Jamie McCarthy</a>
+ on January 22, 2008 <a href="#c19" rel="bookmark">#</a></p>
+</div>
+<div id="c20">
+<p>Aaron, I passed on the argument itself explicity because I don&#8217;t think it&#8217;s really at issue. I was clear on that. But it&#8217;s not really surprising that if you make a blog post along the lines of so-and-so is dumb because of complicated philosophical argument, the most attention is drawn by the so-and-so is dumb part rather than the complicated philosophical argument.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://sethf.com/">Seth Finkelstein</a>
+ on January 23, 2008 <a href="#c20" rel="bookmark">#</a></p>
+</div>
+<div id="c21">
+<p>Aaron,</p>
+
+<p>I&#8217;m not surprised that you disagree with my characterization of Searle&#8217;s argument, but I have not been able to understand it in any other way, even after asking him personally about it when I saw him speak several months ago.</p>
+
+<p>I asked him why a computer simulation of a brain couldn&#8217;t &#8220;be&#8221; (or contain) consciousness, and his response, verbatim, was &#8220;simulations leave something out&#8221;.  If his position is that any conceivable simulation of a brain must leave <em>something</em> out, it is hard to imagine what the something must be if not gooey gray and white matter.  IOW, computers can&#8217;t be conscious because they aren&#8217;t made of the same stuff as brains.</p>
+
+<p>If I&#8217;m misunderstanding Searle, do enlighten me.</p>
+
+<p class="posted">posted by Mark
+ on January 23, 2008 <a href="#c21" rel="bookmark">#</a></p>
+</div>
+<div id="c22">
+<p>Searle&#8217;s argument is this:</p>
+
+<ol>
+<li>Assume the computer simulation is conscious.</li>
+<li>Then the physics of consciousness (e.g. qualia) would have to &#8220;attach&#8221; to the computer running the simulation.</li>
+<li>That would mean physics would have to be able to tell the computer was running the simulation.</li>
+<li>But that&#8217;s impossible, because there&#8217;s no physical distinction between computers running conscious simulations and other random atoms bouncing about &#8212; it&#8217;s only conscious humans that interpret that series of bouncing atoms as a simulation of a brain.</li>
+</ol>
+
+<p>Do you have a way for the laws of physics to detect sufficiently complicated simulations?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on January 23, 2008 <a href="#c22" rel="bookmark">#</a></p>
+</div>
+<div id="c23">
+<p>P.S. FWIW, much experience has taught me that accosting people after talks with counterarguments is about the worst way of getting an intelligent response.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on January 23, 2008 <a href="#c23" rel="bookmark">#</a></p>
+</div>
+<div id="c24">
+<p>Aaron,</p>
+
+<p>That argument displays the exact circularity I&#8217;m talking about.  How do the &#8220;physics of consciousness&#8221; know that they have to &#8220;attach&#8221; to a brain that is conscious, but not a brain that is not conscious?  (Such as one of a person in deep sleep, a coma, recently deceased, or, say, the brain of a mosquito).  Do you have a way for the laws of physics to detect sufficiently complicated neural activity?</p>
+
+<p>(This is notwithstanding that there is no reason for anyone to accept the existence of &#8220;qualia&#8221; in the first place, though I assume that is a premise of Searle&#8217;s argument.)</p>
+
+<p>By the way, I didn&#8217;t accost Searle, I asked a question during the Q&amp;A session, and it was very much in the context of what he&#8217;d been talking about.</p>
+
+<p class="posted">posted by Mark
+ on January 24, 2008 <a href="#c24" rel="bookmark">#</a></p>
+</div>
+<div id="c25">
+<ol>
+<li><p>How do the laws of physics attach conscious to awake people but not to people who are knocked out? Clearly the brain must be doing something specific to cause consciousness when we&#8217;re awake and do it differently or fail to do it when we&#8217;re knocked out. This is biological naturalism. Clearly this can&#8217;t be the case for simulations, since a computer can be simulated by an appropriate series of ping pong balls and flippers and it seems pretty obvious that those don&#8217;t do anything special to cause consciousnes.</p></li>
+<li><p>You don&#8217;t have qualitative experiences? I don&#8217;t believe you.</p></li>
+</ol>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on January 24, 2008 <a href="#c25" rel="bookmark">#</a></p>
+</div>
+<div id="c26">
+<ol>
+<li><p>Why is it &#8220;obvious&#8221; that neurons do something to cause consciousness, but obvious that ping pong balls and flippers don&#8217;t?  This is why I summarized Searle&#8217;s argument as &#8220;computers can&#8217;t be conscious because they aren&#8217;t brains&#8221;.  (pretty much any time you use &#8220;clearly&#8221; in a philosophical argument, you are using it to mask some unfounded assumption).</p></li>
+<li><p>I have qualitative experiences.  I have no evidence that they are the result of a physical substance that has &#8220;attached&#8221; to my brain.  That part is pure speculation, like the ether of victorian science.</p></li>
+</ol>
+
+<p>Anyway, the point here is not for us to rehash tired arguments about consciousness.  My point was to illustrate that <em>you</em> are making some assumption that makes Searle&#8217;s arguments sensical, and Dennett&#8217;s nonsensical.  I don&#8217;t particularly like <em>either</em> of their viewpoints, but I don&#8217;t attribute that to their stupidity, I attribute it to their different starting assumptions.</p>
+
+<p class="posted">posted by Mark
+ on January 24, 2008 <a href="#c26" rel="bookmark">#</a></p>
+</div>
+<div id="c27">
+<ol>
+<li><p>Because people are conscious and ping pong balls are not. Do you disagree?</p></li>
+<li><p>What&#8217;s your alternative?</p></li>
+</ol>
+
+<p>Yes, you&#8217;re right, I&#8217;m assuming people are conscious, ping balls aren&#8217;t, and that my subjective experiences are connected to my brain. I don&#8217;t think most Dennett fans would disagree with any of those, though.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on January 24, 2008 <a href="#c27" rel="bookmark">#</a></p>
+</div>
+<div id="c28">
+<p>Aaron, I&#8217;ve mentioned before, I think you&#8217;re committing a fallacy of pathological reductionism.</p>
+
+<p>It&#8217;s like saying &#8220;A picture can&#8217;t be made up of tiny little dots, because looking at each little dot, nobody can tell if it&#8217;s part of a picture or a just a random blob&#8221;.</p>
+
+<p>&#8220;A human body can&#8217;t be a bunch of atoms, because looking at an atom, nobody can tell if it&#8217;s part of a human body or a rock&#8221;</p>
+
+<p>Hence - &#8220;A brain can&#8217;t be a big computer, because looking at each circuit, nobody can tell if it&#8217;s part of a human mind or a video game&#8221;.</p>
+
+<p>I can&#8217;t see how you can reasonably ignore all the evidence from neurology, in favor of a slippery phrased bit of pontification that should be approached with suspicion on vagueness alone.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://sethf.com/">Seth Finkelstein</a>
+ on January 24, 2008 <a href="#c28" rel="bookmark">#</a></p>
+</div>
+<div id="c29">
+<p>Aaron,</p>
+
+<p>You&#8217;re comparing apples to atoms.  Yes, it&#8217;s obvious people are conscious and ping pong balls aren&#8217;t.  But nobody is suggesting that ping pong balls (or transistors), individually, could become conscious.  The question is about large collections of them.</p>
+
+<p>A more valid comparison for you to have made would have been &#8220;Because neurons are conscious and ping pong balls aren&#8217;t.  Do you disagree?&#8221;, to which I would have answered yes, I disagree, because I don&#8217;t think an isolated neuron is (or can be) conscious, any more than I think an isolated transistor can be conscious.</p>
+
+<p>And if you think an isolated neuron <em>is</em> conscious, I don&#8217;t see how you can defend that position by any means other than repeated assertion, since no isolated neuron has ever been observed to displayed any sign of consciousness.</p>
+
+<p class="posted">posted by Mark
+ on January 24, 2008 <a href="#c29" rel="bookmark">#</a></p>
+</div>
+<div id="c30">
+<p>I don&#8217;t think an isolated neuron is conscious.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on January 24, 2008 <a href="#c30" rel="bookmark">#</a></p>
+</div>
+<div id="c31">
+<p>I think that the term &#8220;physics of conciousness&#8221; is rather dubious.  Are there any solid results from the &#8220;physics of conciousness&#8221; or are they some philosophical conjectures dressed up as physics?</p>
+
+<p class="posted">posted by Jeremy Corbett
+ on January 26, 2008 <a href="#c31" rel="bookmark">#</a></p>
+</div>
+<div id="c33">
+<p>weighing into the consciousness debate&#8230;
+Fodor had a nice response to Searle. Imagine putting a little metal wrapper on each axon, and another one on each dendrite.  This wrapper mediates all neuron-to-neuron connections. A signal travels down a neuron, hits a wrapper, the wrapper passes neurotransmitter-simulator to the other wrapper, which interprets it and sends the corresponding signal on the next neuron.  One would think that, even if all of our neurons were wrapped this way, we&#8217;d still be conscious.  It&#8217;s hard to imagine why not; the same stuff is going on in our neurons; only the space between them has some mediating interaction.</p>
+
+<p>But once we start mediating our neuronal interactions with a neurotransmitter-simulator, we can imagine replacing just about everything in our brain with simulators made of metal (or ping-pong-ball plastic or whatever you like), and as long as all these things are performing functions that are isomorphic to brain functions in the right way, we&#8217;d be conscious.  So machines with such brains would also be conscious.</p>
+
+<p>And anyway, biological naturalism doesn&#8217;t necessarily follow from the Chinese Room computers-can&#8217;t-be-conscious argument.  If Searle&#8217;s right that the Chinese Room is in fact isomorphic enough to what the computer (or any turing machine) is doing to rule out conscious computers, then maybe the brain isn&#8217;t a turing machine.  Then we need to find out what it is and make a machine like it.</p>
+
+<p class="posted">posted by Liron Greenstein
+ on February  1, 2008 <a href="#c33" rel="bookmark">#</a></p>
+</div>
+<div id="c34">
+<p>Aaron</p>
+
+<p>&#8220;1. In some deterministic worlds there are avoiders avoiding harms.&#8221;</p>
+
+<p>Doesn&#8217;t the logic fail here itself? The implicit assumption that avoiders avoid harms means they are &#8220;conscious&#8221; of harm to avoid it.</p>
+
+<p>Cheers,
+Arunn</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.arunn.net/blog">Arunn</a>
+ on February 11, 2008 <a href="#c34" rel="bookmark">#</a></p>
+</div>
+<div id="c35">
+<p>I don&#8217;t know man. When I was immersed in the book the argument was subtle and thought provoking. I guess more things are involved here for you to dismiss it with such hubris. Be careful, you seem to be quite good on the &#8220;writing personal attacks on other philosophers&#8221; you say to hate of DD.</p>
+
+<p>In any case, cheer up. Seriously. So young and already full of such vitriol?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://elzr.com">elzr</a>
+ on April  5, 2008 <a href="#c35" rel="bookmark">#</a></p>
+</div>
+<div id="c36">
+<p>Hi I kinda think you&#8217;ve missed the point of Dennett&#8217;s talk of evitability.  He doesn&#8217;t claim to be providing what you call &#8220;Medieval free will&#8221; with this example but instead to be showing that the lack of &#8220;medieval free will&#8221; does not mean that we lack all sorts of free will.  The point of Freedom evolves is to show that evitability or free will can exist within a deterministic world and to argue that it is these forms of free will that are the morally   important ones.</p>
+
+<p class="posted">posted by Harry Farmer
+ on April 14, 2008 <a href="#c36" rel="bookmark">#</a></p>
+</div>
+<div id="c38">
+<p><a href="http://www.aaronsw.com/weblog/dennettdumb#c33" rel="nofollow">Liron writes</a>:</p>
+
+<blockquote>
+  <p>Fodor had a nice response to Searle. Imagine putting a little metal wrapper on each axon, and another one on each dendrite.  [&#8230;] One would think that, even if all of our neurons were wrapped this way, we&#8217;d still be conscious.  It&#8217;s hard to imagine why not; the same stuff is going on in our neurons; only the space between them has some mediating interaction.</p>
+</blockquote>
+
+<p>Searle responds to this in a later book. He does <em>not</em> think that we&#8217;d still be conscious if all our neurons were wrapped this way. Assuming we&#8217;d still be conscious under these circumstances is tantamount to assuming biological naturalism is false, since biological naturalism suggests there&#8217;s a biological process other than pure neuronal interaction that leads to consciousness.</p>
+
+<blockquote>
+  <p>And anyway, biological naturalism doesn&#8217;t necessarily follow from the Chinese Room computers-can&#8217;t-be-conscious argument.  If Searle&#8217;s right that the Chinese Room is in fact isomorphic enough to what the computer (or any turing machine) is doing to rule out conscious computers, then maybe the brain isn&#8217;t a turing machine.  Then we need to find out what it is and make a machine like it.</p>
+</blockquote>
+
+<p>Searle explicitly says we probably can make conscious machines; he just says Turing machines aren&#8217;t conscious. He agrees with you entirely on this point.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on May 17, 2008 <a href="#c38" rel="bookmark">#</a></p>
+</div>
+<div id="c39">
+<p>As I said, by the physics of consciousness I mean qualia &#8212; the physical fact that I have conscious subjective experiences. This is so different from every other physical process we&#8217;ve studied that I don&#8217;t see how it could exist without its own physical basis.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on May 17, 2008 <a href="#c39" rel="bookmark">#</a></p>
+</div>
+<div id="c40">
+<p>Let me give you a piece of advice, Aaron: When you come across an argument that doesn&#8217;t make sense to you, assume that the failure is yours, not the author&#8217;s. This applies especially when the author is someone like Daniel Dennett, and it applies especially when other smart people don&#8217;t make a fuss about it (or at least no the simple-minded fuss that you make). You&#8217;re like a non-physicist who comes across Einstein&#8217;s theory of relativity and exclaims: &#8220;How could mass possibly be related to energy like that? What an idiot &#8212; how could anyone take Einstein seriously?!?&#8221; Meanwhile, smart people, educated people, read Einstein and conclude: &#8220;Brilliant!&#8221;</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.philosophytorres.blogspot.com">Phillip Torres</a>
+ on July 28, 2008 <a href="#c40" rel="bookmark">#</a></p>
+</div>
+<div id="c47">
+<p>Accusing someone of making personal attacks and being dumb, and then attacking him personally followed by a few lines of dumbness is really dumb, so I thought I might as well attack you personally on it.</p>
+
+<p class="posted">posted by 
+ on October  1, 2009 <a href="#c47" rel="bookmark">#</a></p>
+</div>
+<div id="c49">
+<p>&#8220;Let me give you a piece of advice, Aaron: When you come across an argument that doesn’t make sense to you, assume that the failure is yours, not the author’s. This applies especially when the author is someone like Daniel Dennett, and it applies especially when other smart people don’t make a fuss about it (or at least no the simple-minded fuss that you make). You’re like a non-physicist who comes across Einstein’s theory of relativity and exclaims: “How could mass possibly be related to energy like that? What an idiot — how could anyone take Einstein seriously?!?” Meanwhile, smart people, educated people, read Einstein and conclude: “Brilliant!” &#8220;</p>
+
+<p>Oh yeah. Now we have Ayatollah Daniel Dennett. Wow on you if you use your own brains and
+point out a few of his blunders, because his followers are Smart and Educated People. What a brilliant argument.</p>
+
+<p class="posted">posted by qualia
+ on September 22, 2010 <a href="#c49" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="dennettdumb" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

@@ -1,0 +1,59 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>xmltramp (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000917" title="Media Concentration" />	<link rel="next" href="000921" title="Matrix Unloaded" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>xmltramp</h1>
+</div>
+
+<div class="content">
+<p>In trying to write some code to use <a href="http://developers.technorati.com/">the new Technorati API</a>, I noticed that all the tools for accessing XML documents <em>sucked</em>. So I wrote my own: <a href="http://www.aaronsw.com/2002/xmltramp/">xmltramp</a>. It makes handling XML documents in Python a piece of cake:</p>
+
+<pre>
+>>> d = load(URL)
+>>> d
+&lt;document>
+>>> d._dir
+[&lt;result>, &lt;item>, &lt;item>, ...]
+>>> str(d.document.weblog.name)
+"Internet Alchemy"
+</pre>
+
+<p>This was really fun code to write. I thought of the ideal UI for using XML documents, wrote up an example interactive session, and then implemented it. First I wrote the XML objects and then I wrote a SAX parser to build them. The whole thing is under 80 lines (sans tests). The whole thing took an hour and a half.</p>
+
+<p><strong>Python geeks:</strong> Do you have any suggestions on a better way to get output from a SAX parser? Right now I&#8217;m having it raise an exception with the object I want as the payload. This seems pretty klugey. Is there a better way? <strong>Update:</strong> Version 1.1 now passes the result through an attribute in the ContentHandler.</p>
+
+<p>I&#8217;d love to <a href="mailto:xmltramp@aaronsw.com">hear your thoughts</a>. There are some obvious features to be added (serialization, for example) but I think this does enough for now. Time to go use it!</p>
+
+<p class="posted">posted May 12, 2003 01:28 PM (<a class="category" href="cat_technology">Technology</a>)  <a href="000918" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000917" title="Media Concentration">&laquo; prev</a> | <a href="./">up</a> | <a href="000921" title="Matrix Unloaded">next &raquo;</a></p>
+
+<p><a href="000901">Illinois&#8217;s state &#8220;super-DMCA&#8221;</a><br />
+<a href="000904">Locked in the Trunk</a><br />
+<a href="000913">Escaping the Trunk</a><br />
+<a href="000915">Cox News</a><br />
+<a href="000917">Media Concentration</a><br />
+<strong>xmltramp</strong><br />
+<a href="000921">Matrix Unloaded</a><br />
+<a href="000923">MediaCon: Lobbying</a><br />
+<a href="000924">1201 Hearings</a><br />
+<a href="000929">Joss Quest</a><br />
+<a href="000930">RFC: Annals of Planet Hacking</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

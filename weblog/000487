@@ -1,0 +1,53 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>I&#8217;m Baaaaaack! (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000486" title="Geek Tees" />	<link rel="next" href="000488" title="MP3 Political Party" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>I&#8217;m Baaaaaack!</h1>
+</div>
+
+<div class="content">
+<p>A .nym TLD would be cool. I&#8217;d give people &lt;fingerprint&gt;.pgp.nym if they could prove that they owned the key with that fingerprint (probably by signing a nonce or something). This would also be good for <a href="http://cr.yp.to/djbdns/forgery.html">djbdnssec</a> and signed web pages.</p>
+
+<p><a href="http://cr.yp.to/conferences/russia.html">D. J. Bernstein&#8217;s trip to Russia</a> is quite funny, in a comedy of errors kind of way.</p>
+
+<p><a href="http://www.dvorakgame.co.uk/cardlist.cgi?sysadmin">The Sysadmin Card Game</a> looks pretty funny. The whole <a href="http://www.dvorakgame.co.uk/">Dvorak Game</a> thing looks a lot like Aron Wall&#8217;s self-modifying and open source card game.</p>
+
+<p>&#8220;I have discovered that there are two types of command interfaces in the world of computing: good interfaces and user interfaces.&#8221; - <a href="http://cr.yp.to/qmail/guarantee.html">D. J. Bernstein, qmail security guarantee</a></p>
+
+<p>Did you miss me? What was supposed to be a smooth OS upgrade turned out to be a nightmare, requiring days of tortured devotion to my computer. And in the middle of it all I was dragged to Milwaukee to look at cows. But now I&#8217;m back and better than ever.</p>
+
+<p>My brothers are at GenCon (with Mom) for the next few days, leaving me home alone with Dad. GenCon is incredibly huge. The whole city seemed to be filled with geeks. Whenever you saw anyone walking down the street they&#8217;d have a GenCon badge. In the late evening the registration line had hundreds of people. Where&#8217;s the equivalent computer conference? Is it DefCon? (Guess I should have gone&#8230;)</p>
+
+<p class="posted">posted August 08, 2002 12:32 PM (<a class="category" href="cat_technology">Technology</a>)  <a href="000487" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000486" title="Geek Tees">&laquo; prev</a> | <a href="./">up</a> | <a href="000488" title="MP3 Political Party">next &raquo;</a></p>
+
+<p><a href="000475">Where&#8217;s Shakespeare?</a><br />
+<a href="000478">Blogging with the Big Boys</a><br />
+<a href="000483">Font Editor in Jaguar?</a><br />
+<a href="000485">we put the &#8220;FUN&#8221; in phonetic!</a><br />
+<a href="000486">Geek Tees</a><br />
+<strong>I&#8217;m Baaaaaack!</strong><br />
+<a href="000488">MP3 Political Party</a><br />
+<a href="000489">today&#8217;s featured superhero: Edsger Dijkstra</a><br />
+<a href="000490">Insane Copyright Terrorism Hits Internet Radio</a><br />
+<a href="000491">Hall of Fame: Crucial</a><br />
+<a href="000494">Rube Golderberg DRM</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

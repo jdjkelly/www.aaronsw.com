@@ -1,0 +1,208 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>November Surprise: The Votemaster is Andrew Tanenbaum (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001454.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001452" title="Stanford: Day 43" />	<link rel="next" href="001457" title="Money and Politics" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>November Surprise: The Votemaster is Andrew Tanenbaum</h1>
+</div>
+
+<div class="content">
+<p>The Votemaster, the man behind the electoral-vote.com site that has become impressively popular <a title=" The Votemaster FAQ " href="http://www.electoral-vote.com/info/votemaster-faq.html">finally revealed his True Name</a>. He&#8217;s Andrew Tanenbaum.</p>
+
+<p>Yes, the famous Andrew Tanenbaum.</p>
+
+<p>That&#8217;s a lot of cognitive dissonance for me. He certainly did a very good job of disguising his writing&#8230; or at least my mind did a good job of projecting a lot that wasn&#8217;t there.</p>
+
+<p>The biggest surprise of the election, as far as I&#8217;m concerned.</p>
+
+<p class="posted">posted November 01, 2004 02:42 PM (<a class="category" href="cat_politics">Politics</a>) (<a href="#comments">7 comments</a>) <a href="001454" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001452" title="Stanford: Day 43">&laquo; prev</a> | <a href="./">up</a> | <a href="001457" title="Money and Politics">next &raquo;</a></p>
+
+<p><a href="001448">Stanford: Day 40</a><br />
+<a href="001449">Stanford: Day 41</a><br />
+<a href="001450">Philip Zimbardo on the Psychology of Evil</a><br />
+<a href="001451">Stanford: Day 42</a><br />
+<a href="001452">Stanford: Day 43</a><br />
+<strong>November Surprise: The Votemaster is Andrew Tanenbaum</strong><br />
+<a href="001457">Money and Politics</a><br />
+<a href="001458">The Facts About Money and Politics</a><br />
+<a href="001459">Stanford: Day 45</a><br />
+<a href="001460">Stanford: Day 46 </a><br />
+<a href="001461">Stanford: Day 47</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c3315">
+
+<p>Although I can see how this would surprising for someone very familiar with Tanenbaum, where does the cognitive dissonance come in? It&#8217;s an interesting revelation, but personally, it hardly changed the way I looked at the electoral-vote site.</p>
+
+<p class="posted">posted by Adam at November  1, 2004 03:44 PM <a href="#c3315">#</a></p>
+
+</div><div id="c3316">
+
+<p>Maybe his HTTP headers don&#8217;t list an OS, because he doesn&#8217;t want to admit to running Linux.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.joegrossberg.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3316">Joe Grossberg</a> at November  1, 2004 04:05 PM <a href="#c3316">#</a></p>
+
+</div><div id="c3318">
+
+<p>Yeah - are you surprised he&#8217;s a Kerry supporter?</p>
+
+<p class="posted">posted by <a target="_blank" title="http://museworld.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3318">tunesmith</a> at November  1, 2004 06:16 PM <a href="#c3318">#</a></p>
+
+</div><div id="c3329">
+
+<p>I remember following his text books for operating system and networks when i was doing graduation.. It indeed is such a surprise for me.. I would certainly say that he has excelled more than one field in his life and not many persons are as gifted as him.</p>
+
+<p class="posted">posted by sanjay at November  2, 2004 08:34 PM <a href="#c3329">#</a></p>
+
+</div><div id="c3330">
+
+<p>Looks like Professor Tanenbaum, like most of the liberal media (CNN, CBS, ABC, NPR, etc&#8230;) based his &#8220;research&#8221; on wishful thiking rather than real data.</p>
+
+<p>His site is completely off in many states and President Bush will easily win the electoral vote and the popular vote (by over 3%!).</p>
+
+<p>I am proud of Western Democracies such as Australia, Israel and the United States who have clearly showed that they support leaders who do not hesitate in the war against Islamic Supremacism and the mass murdering bastards from Al-Qaeda and the Palestinian Islamic Jihad.</p>
+
+<p>For a site that was completely right on every single state, check out:</p>
+
+<p>http://www.electionprojection.com/</p>
+
+<p>David</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.factsofisrael.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3330">David Melle</a> at November  3, 2004 01:00 AM <a href="#c3330">#</a></p>
+
+</div><div id="c3331">
+
+<p>Human beings are such a sad and pathetic little hairless ape.</p>
+
+<p class="posted">posted by Randwolfe at November  3, 2004 02:10 AM <a href="#c3331">#</a></p>
+
+</div><div id="c3332">
+
+<p>You&#8217;re absolutely right Randwolfe.  Countries like Israel and people like David Melle remind us that we are ugly, violent, stupid beasts.</p>
+
+<p class="posted">posted by Jack at November  3, 2004 11:04 AM <a href="#c3332">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001454.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1454" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

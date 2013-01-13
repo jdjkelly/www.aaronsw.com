@@ -1,0 +1,384 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+  <title>Session Notes</title>
+<!--  <link rel="stylesheet" type="text/css" href="/style.css" /> -->
+</head>
+<body>
+<div id="banner">
+  <h1>Session Notes</h1>
+  <span class="description">From ETCon 2002</span>
+</div>
+<div class="content">
+<p>Here's an annotated version of the schedule from the Emerging Technologies 2002 conference. Under each session are links to the blog entries about that session. If I didn't include yours, <a href="mailto:me@aaronsw.com">send me an email</a>, preferrably with updated HTML for the page but at least with links to the entries.</p>
+
+<p>More: <a href="http://www.oreillynet.com/et2002/">Official Site</a></p>
+
+<h2>Registration</h2>
+<p><a href="http://www.oreillynet.com/cs/user/view/wlg/1403">Andy Oram</a></p>
+
+<table border="0" cellpadding="3" cellspacing="0" bgcolor="#">
+<tr bgcolor="#336699">
+<td colspan="5"><b><font color="#ffffff">Monday, May 13</font></b>
+</td></tr>
+<tr valign="top">
+<td bgcolor="#d3d3d3"> &nbsp; </td>
+<td bgcolor="#d3d3d3"><font color="#000000"><b>Lawrence</b></font></td>
+<td bgcolor="#d3d3d3"><font color="#000000"><b>Winchester</b></font></td>
+<td bgcolor="#d3d3d3"><font color="#000000"><b>Stevens Creek</b></font></td>
+<td bgcolor="#d3d3d3"><font color="#000000"><b>Bayshore</b></font></td>
+</tr>
+<tr valign="top">
+<td bgcolor="#d3d3d3" class="time"><font color="#000000"> 8:30am</font></td>
+<td bgcolor="#aaaaaa"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/2392">XML Web Services Part 1: The Data Model</a><font size="-2"><br /><a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/791">Don Box</a><br />08:30 - 12:00<br /><br /><a href="http://www.oreillynet.com/~rael/2002/May/13#etech_mon_xmldm">Rael Dornfest</a></font></td>
+<td bgcolor="#aaaaaa"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/2370">Building Wireless Community Networks</a><font size="-2"><br /><a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/910">Rob Flickenger</a><br />08:30 - 12:00<br /><br /><a href="http://boingboing.net/2002_05_01_archive.html#85084430">Cory Doctorow</a>, <a href="http://nocat.net/etcon02/">Slides</a>, <a href="http://www.oreillynet.com/~rael/2002/May/13#etech_mon_wcn">Rael Dornfest</a>, <a href="http://www.oreillynet.com/cs/user/view/wlg/1405">Andy Oram</a></font></td>
+<td bgcolor="#aaaaaa"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/2459">Programming C# and the .NET Framework</a><font size="-2"><br /><a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/30">Brian Jepson</a><br />08:30 - 12:00</font></td>
+<td bgcolor="#eeeeee"> &nbsp; </td>
+</tr>
+<tr valign="top">
+<td bgcolor="#d3d3d3" class="time"><font color="#000000">12:00pm</font></td>
+<td bgcolor="#999999"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/2499">Lunch</a><font size="-2"><br />12:00 - 13:15</font></td>
+<td bgcolor="#999999"> &nbsp; </td>
+<td bgcolor="#999999"> &nbsp; </td>
+<td bgcolor="#999999"> &nbsp; </td>
+</tr>
+<tr valign="top">
+<td bgcolor="#d3d3d3" class="time"><font color="#000000"> 1:15pm</font></td>
+<td bgcolor="#aaaaaa"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/2393">XML Web Services Part 2: The Processing Model</a><font size="-2"><br /><a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/791">Don Box</a><br />13:15 - 16:45</font></td>
+<td bgcolor="#aaaaaa"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/2268">Writing JXTA Applications</a><font size="-2"><br /><a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/917">Juan Carlos Soto</a>; <a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/1013">Mike Duigou</a><br />13:15 - 16:45</font></td>
+<td bgcolor="#aaaaaa"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/2460">Creating and Consuming Web Services with .NET and OS X</a><font size="-2"><br /><a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/30">Brian Jepson</a>; <a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/246">James Duncan Davidson</a><br />13:15 - 16:45<br /><br /><a href="http://www.oreillynet.com/cs/user/view/wlg/1405">Andy Oram</a></font></td>
+<td bgcolor="#eeeeee"> &nbsp; </td>
+</tr>
+<tr valign="top">
+<td bgcolor="#d3d3d3" class="time"><font color="#000000"> 6:00pm</font></td>
+<td bgcolor="#999999"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/3013">Birds of a Feather sessions</a><font size="-2"><br />18:00 - 22:00</font></td>
+<td bgcolor="#999999"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/3078">Searching Unstructured Data - Is Google the Best We Can Do?</a><font size="-2"><br />18:00 - 19:00</font></td>
+<td bgcolor="#999999"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/3015">Birds of a Feather sessions</a><font size="-2"><br />18:00 - 22:00</font></td>
+<td bgcolor="#999999"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/3014">Birds of a Feather sessions</a><font size="-2"><br />18:00 - 22:00</font></td>
+</tr>
+<tr valign="top">
+<td bgcolor="#d3d3d3" class="time"><font color="#000000"> 6:30pm</font></td>
+<td bgcolor="#999999"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/3071">Alternative Web Services Models</a><font size="-2"><br />18:30 - 20:00</font></td>
+<td bgcolor="#999999"> &nbsp; </td>
+<td bgcolor="#999999"> &nbsp; </td>
+<td bgcolor="#999999"> &nbsp; </td>
+</tr>
+<tr bgcolor="#336699">
+<td colspan="5"><b><font color="#ffffff">Tuesday, May 14</font></b>
+</td></tr>
+<tr valign="top">
+<td bgcolor="#d3d3d3"> &nbsp; </td>
+<td bgcolor="#d3d3d3"><font color="#000000"><b>Lawrence</b></font></td>
+<td bgcolor="#d3d3d3"><font color="#000000"><b>Winchester</b></font></td>
+<td bgcolor="#d3d3d3"><font color="#000000"><b>Stevens Creek</b></font></td>
+<td bgcolor="#d3d3d3"><font color="#000000"><b>Bayshore</b></font></td>
+</tr>
+<tr valign="top">
+<td bgcolor="#d3d3d3" class="time"><font color="#000000"> 8:30am</font></td>
+<td bgcolor="#aaaaaa"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/2452">Keynote: The Shape of Things to Come</a><font size="-2"><br /><a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/416">Tim O'Reilly</a><br />08:30 - 09:15<br /><br /><a href="http://wmf.editthispage.com/2002/05/14#tim">Wes Felter</a>, <a href="http://www.aaronsw.com/weblog/000253#timO">Aaron Swartz</a>, <a href="http://www.oreillynet.com/~rael/2002/May/14#etech_tue_oreilly">Rael Dornfest</a>, <a href="http://www.oreillynet.com/cs/user/view/wlg/1409">Andy Oram</a>, <a href="http://www.blackbeltjones.com/work/mt/archives/000160.html#000160">Matt Jones</a>, <a href="http://technetcast.ddj.com/tnc_play_stream.html?stream_id=696">Audio</a>, <a href="http://kode-fu.com/geek/2002_05_12_archive.shtml#76537172">Joey deVilla</a></font></td>
+<td bgcolor="#aaaaaa"> &nbsp; </td>
+<td bgcolor="#aaaaaa"> &nbsp; </td>
+<td bgcolor="#aaaaaa"> &nbsp; </td>
+</tr>
+<tr valign="top">
+<td bgcolor="#d3d3d3" class="time"><font color="#000000"> 9:15am</font></td>
+<td bgcolor="#aaaaaa"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/2397">Keynote: Autonomic Computing: A Foundation for Progress, a Catalyst for Change</a><font size="-2"><br /><a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/1187">Dr. Robert Morris</a><br />09:15 - 10:00<br /><br /><a href="http://wmf.editthispage.com/2002/05/14#morris">Wes Felter</a>, <a href="http://www.aaronsw.com/weblog/000253#bobM">Aaron Swartz</a>, <a href="http://www.oreillynet.com/~rael/2002/May/14#etech_tue_morris">Rael Dornfest</a>, <a href="http://www.oreillynet.com/cs/user/view/wlg/1409">Andy Oram</a>, <a href="http://technetcast.ddj.com/tnc_play_stream.html?stream_id=697">Audio</a>, <a href="http://kode-fu.com/geek/2002_05_12_archive.shtml#76537172">Joey deVilla</a>, <a href="http://kode-fu.com/geek/2002_05_12_archive.shtml#76539384">Joey again</a></font></td>
+<td bgcolor="#aaaaaa"> &nbsp; </td>
+<td bgcolor="#aaaaaa"> &nbsp; </td>
+<td bgcolor="#aaaaaa"> &nbsp; </td>
+</tr>
+<tr valign="top">
+<td bgcolor="#d3d3d3" class="time"><font color="#000000">10:00am</font></td>
+<td bgcolor="#999999"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/2490">Morning Break</a><font size="-2"><br />10:00 - 10:30</font></td>
+<td bgcolor="#999999"> &nbsp; </td>
+<td bgcolor="#999999"> &nbsp; </td>
+<td bgcolor="#999999"> &nbsp; </td>
+</tr>
+<tr valign="top">
+<td bgcolor="#d3d3d3" class="time"><font color="#000000">10:30am</font></td>
+<td bgcolor="#99cc99"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/2443">Emerging Markets and Venture Funding -- 2002 Style</a><font size="-2"><br /><a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/1182">Michael Starkenburg</a><br />10:30 - 11:15<br /><br /><a href="http://conferences.oreillynet.com/presentations/et2002/starkenburg_michael.ppt">Slides (PPT)</a></font></td>
+<td bgcolor="#ffcc33"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/2313">Future of Computer Systems and Networks</a><font size="-2"><br /><a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/1156">Peter G. Neumann</a><br />10:30 - 11:15<br /><br /><a href="http://wmf.editthispage.com/2002/05/14#neumann">Wes Felter</a>, <a href="http://www.aaronsw.com/weblog/000253#peterG">Aaron Swartz</a></font></td>
+<td bgcolor="#cc99cc"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/2295">SAML - An Enabling Technology for Single Sign-on</a><font size="-2"><br /><a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/1172">Rima Patel</a><br />10:30 - 11:15<br /><br /><a href="http://www.oreillynet.com/cs/user/view/wlg/1409">Andy Oram</a></font></td>
+<td bgcolor="#eeeeee"> &nbsp; </td>
+</tr>
+<tr valign="top">
+<td bgcolor="#d3d3d3" class="time"><font color="#000000">11:15am</font></td>
+<td bgcolor="#99cc99"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/2305">Industry Applications</a><font size="-2"><br /><a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/1167">Tom Ngo</a><br />11:15 - 12:00<br /><br /><a href="http://conferences.oreillynet.com/presentations/et2002/ngo_tom.ppt">Slides (PPT)</a></font></td>
+<td bgcolor="#ffcc33"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/2381">Sensor Technologies for Responsive Environments</a><font size="-2"><br /><a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/1160">Joseph Paradiso</a><br />11:15 - 12:00<br /><br /><a href="http://www.oreillynet.com/~rael/2002/May/14#etech_tue_paradiso">Rael Dornfest</a></font></td>
+<td bgcolor="#cc99cc"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/2223">The E Development Platform: Exploiting Virus-Ridden Software</a><font size="-2"><br /><a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/549">Marc Stiegler</a>; <a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/1169">Mark Miller</a><br />11:15 - 12:00<br /><br /><a href="http://wmf.editthispage.com/2002/05/14#marcs">Wes Felter</a>, <a href="http://www.aaronsw.com/weblog/000253#marcS">Aaron Swartz</a>, <a href="http://www.combex.com/tech/screen-shots.html">Slides (HTML)</a></font></td>
+<td bgcolor="#eeeeee"> &nbsp; </td>
+</tr>
+<tr valign="top">
+<td bgcolor="#d3d3d3" class="time"><font color="#000000">12:00pm</font></td>
+<td bgcolor="#999999"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/2491">Lunch</a><font size="-2"><br />12:00 - 13:15</font></td>
+<td bgcolor="#999999"> &nbsp; </td>
+<td bgcolor="#999999"> &nbsp; </td>
+<td bgcolor="#999999"> &nbsp; </td>
+</tr>
+<tr valign="top">
+<td bgcolor="#d3d3d3" class="time"><font color="#000000"> 1:15pm</font></td>
+<td bgcolor="#99cc99"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/2338">If You've Got The Killer App, How Come I'm Not Dead Yet?</a><font size="-2"><br /><a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/1180">Michael Masnick</a><br />13:15 - 14:00<br /><br /><a href="http://www.blackbeltjones.com/work/mt/archives/000161.html#000161">Matt Jones</a>, <a href="http://conferences.oreillynet.com/presentations/et2002/masnick_mike.ppt">Slides (PPT)</a></font></td>
+<td bgcolor="#ffcc33"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/2335">The Path Toward Pervasive Computing: A Network Approach</a><font size="-2"><br /><a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/1163">Michel Burger</a><br />13:15 - 14:00<br /><br /><a href="http://www.oreillynet.com/cs/user/view/wlg/1409">Andy Oram</a>, <a href="http://conferences.oreillynet.com/presentations/et2002/burger_michel2.ppt">Slides (PPT)</a></font></td>
+<td bgcolor="#cc99cc"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/2526">The Internet Archive</a><font size="-2"><br /><a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/1191">Brewster Kahle</a><br />13:15 - 14:00<br /><br /><a href="http://wmf.editthispage.com/2002/05/14#brewster">Wes Felter</a>, <a href="http://www.aaronsw.com/weblog/000253#brewster">Aaron Swartz</a>, <a href="http://boingboing.net/2002_05_01_archive.html#85088000">Cory Doctorw</a>, <a href="http://www.blackbeltjones.com/work/mt/archives/000161.html#000161">Matt Jones</a>, <a href="http://www.oreillynet.com/cs/weblog/view/wlg/1410">Derrick Story</a></font></td>
+<td bgcolor="#eeeeee"> &nbsp; </td>
+</tr>
+<tr valign="top">
+<td bgcolor="#d3d3d3" class="time"><font color="#000000"> 2:00pm</font></td>
+<td bgcolor="#cc99cc"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/2566">Web Services for the Real World: A User-Centered Examination</a><font size="-2"><br /><a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/872">Meg Hourihan</a><br />14:00 - 14:45<br /><br /><a href="http://www.blackbeltjones.com/work/mt/archives/000161.html#000161">Matt Jones</a>, <a href="http://www.megnut.com/archive.asp?which=2002_05_01_archive.inc#20020515">Links</a></font></td>
+<td bgcolor="#ffcc33"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/2283">Reputation Systems: Tools for Self-organization in Ad-hoc Networks</a><font size="-2"><br /><a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/1159">Jim McCoy</a>; <a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/560">Roger Dingledine</a>; <a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/516">Bryce Wilcox-O'Hearn</a><br />14:00 - 14:45<br /><br /><a href="http://www.oreillynet.com/cs/user/view/wlg/1409">Andy Oram</a></font></td>
+<td bgcolor="#cc99cc"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/2482">Deploying the Google Web APIs Service</a><font size="-2"><br /><a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/555">Nelson Minar</a><br />14:00 - 14:45<br /><br /><a href="http://boingboing.net/2002_05_01_archive.html#85088106">Cory Doctorow</a></font></td>
+<td bgcolor="#eeeeee"> &nbsp; </td>
+</tr>
+<tr valign="top">
+<td bgcolor="#d3d3d3" class="time"><font color="#000000"> 2:45pm</font></td>
+<td bgcolor="#99cc99"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/2274">Emergent Interface for the Internet</a><font size="-2"><br /><a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/1026">John Ko</a><br />14:45 - 15:30<br /><br /><a href="http://www.blackbeltjones.com/work/mt/archives/000161.html#000161">Matt Jones</a>, <a href="http://conferences.oreillynet.com/presentations/et2002/ko_john.ppt">Slides (PPT)</a></font></td>
+<td bgcolor="#ffcc33"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/2299">Anonymity: Is it really worth it?</a><font size="-2"><br /><a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/560">Roger Dingledine</a><br />14:45 - 15:30<br /><br /><a href="http://kode-fu.com/geek/2002_05_12_archive.shtml#76551911">Joey deVilla</a></font></td>
+<td bgcolor="#cc99cc"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/2336">Worldwide Lexicon - Using P2P Technology To Build A Global Translation Dictionary</a><font size="-2"><br /><a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/1170">Brian McConnell</a><br />14:45 - 15:30<br /><br /><a href="http://www.oreillynet.com/cs/user/view/wlg/1409">Andy Oram</a>, <a href="http://conferences.oreillynet.com/presentations/et2002/mcconnell_brian.ppt">Slides (PPT)</a></font></td>
+<td bgcolor="#eeeeee"> &nbsp; </td>
+</tr>
+<tr valign="top">
+<td bgcolor="#d3d3d3" class="time"><font color="#000000"> 3:30pm</font></td>
+<td bgcolor="#999999"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/2492">Afternoon Break</a><font size="-2"><br />15:30 - 16:00</font></td>
+<td bgcolor="#999999"> &nbsp; </td>
+<td bgcolor="#999999"> &nbsp; </td>
+<td bgcolor="#999999"> &nbsp; </td>
+</tr>
+<tr valign="top">
+<td bgcolor="#d3d3d3" class="time"><font color="#000000"> 4:00pm</font></td>
+<td bgcolor="#aaaaaa"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/2396">Keynote: Rethinking The Modern Operating System</a><font size="-2"><br /><a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/1177">Richard F. Rashid, Ph.D.</a><br />16:00 - 16:45<br /><br /><a href="http://wmf.editthispage.com/2002/05/14#rashid">Wes Felter</a>, <a href="http://www.aaronsw.com/weblog/000253#richardR">Aaron Swartz</a>, <a href="http://www.oreillynet.com/cs/user/view/wlg/1409">Andy Oram</a>, <a href="http://www.blackbeltjones.com/work/mt/archives/000161.html#000161">Matt Jones</a>, <a href="http://technetcast.ddj.com/tnc_play_stream.html?stream_id=698">Audio</a>, <a href="http://www.infoworld.com/articles/hn/xml/02/05/15/020515hnmicos.xml">InfoWorld</a></font></td>
+<td bgcolor="#aaaaaa"> &nbsp; </td>
+<td bgcolor="#aaaaaa"> &nbsp; </td>
+<td bgcolor="#aaaaaa"> &nbsp; </td>
+</tr>
+<tr valign="top">
+<td bgcolor="#d3d3d3" class="time"><font color="#000000"> 5:15pm</font></td>
+<td bgcolor="#99cc99"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/3049">The Software Infrastructure of SETI@home II</a><font size="-2"><br /><a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/505">David Anderson</a><br />17:15 - 18:00<br /><br /><a href="http://conferences.oreillynet.com/presentations/et2002/anderson_david.ppt">Slides (PPT)</a></font></td>
+<td bgcolor="#ffcc33"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/2277">Why Current Public-Key Infrastructures are a House of Cards</a><font size="-2"><br /><a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/883">Richard Forno</a><br />17:15 - 18:00<br /><br /><a href="http://www.oreillynet.com/cs/user/view/wlg/1409">Andy Oram</a></font></td>
+<td bgcolor="#cc99cc"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/2472">The CloudDrive: A Massively Distributed Virtual Filesystem</a><font size="-2"><br /><a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/547">Lucas Gonze</a><br />17:15 - 18:00</font></td>
+<td bgcolor="#eeeeee"> &nbsp; </td>
+</tr>
+<tr valign="top">
+<td bgcolor="#d3d3d3" class="time"><font color="#000000"> 7:00pm</font></td>
+<td bgcolor="#999999"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/3070">Bridging the Digital Divide - The Pyramid Lake Paiute Community Wireless Project</a><font size="-2"><br />19:00 - 20:00</font></td>
+<td bgcolor="#999999"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/2518">Worldwide Lexicon</a><font size="-2">; <a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/1170">Brian McConnell</a><br />19:00 - 20:30</font></td>
+<td bgcolor="#eeeeee"> &nbsp; </td>
+<td bgcolor="#999999"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/3075">User-Experience Design and the Next Levels of the Web</a><font size="-2"><br />19:00 - 20:00</font></td>
+</tr>
+<tr valign="top">
+<td bgcolor="#d3d3d3" class="time"><font color="#000000"> 8:00pm</font></td>
+<td bgcolor="#999999"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/2980">Is Web Activity Decreasing? How can it be increased?</a><font size="-2"><br />20:00 - 21:00</font></td>
+<td bgcolor="#999999"> &nbsp; </td>
+<td bgcolor="#eeeeee"> &nbsp; </td>
+<td bgcolor="#eeeeee"> &nbsp; </td>
+</tr>
+<tr bgcolor="#336699">
+<td colspan="5"><b><font color="#ffffff">Wednesday, May 15</font></b>
+</td></tr>
+<tr valign="top">
+<td bgcolor="#d3d3d3"> &nbsp; </td>
+<td bgcolor="#d3d3d3"><font color="#000000"><b>Lawrence</b></font></td>
+<td bgcolor="#d3d3d3"><font color="#000000"><b>Winchester</b></font></td>
+<td bgcolor="#d3d3d3"><font color="#000000"><b>Stevens Creek</b></font></td>
+<td bgcolor="#d3d3d3"><font color="#000000"><b>Bayshore</b></font></td>
+</tr>
+<tr valign="top">
+<td bgcolor="#d3d3d3" class="time"><font color="#000000"> 8:30am</font></td>
+<td bgcolor="#aaaaaa"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/2401">Keynote:  Emergence - From Real-World Cities to Online Communities</a><font size="-2"><br /><a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/849">Steven Johnson</a><br />08:30 - 09:15</font><br /><br /><a href="http://www.oreillynet.com/~rael/2002/May/15#etech_wed_johnson">Rael Dornfest</a>, <a href="http://interconnected.org/home/more/etcon/emergence.txt">Matt Webb</a>, <a href="http://www.blackbeltjones.com/work/mt/archives/000164.html#000164">Matt Jones</a>, <a href="http://kode-fu.com/geek/2002_05_12_archive.shtml#76578469">Joey deVilla</a></td>
+<td bgcolor="#aaaaaa"> &nbsp; </td>
+<td bgcolor="#aaaaaa"> &nbsp; </td>
+<td bgcolor="#aaaaaa"> &nbsp; </td>
+</tr>
+<tr valign="top">
+<td bgcolor="#d3d3d3" class="time"><font color="#000000"> 9:15am</font></td>
+<td bgcolor="#aaaaaa"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/3054">Discussion: Emergence</a><font size="-2"><br /><a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/520">Clay Shirky</a>; <a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/868">Geoff Cohen</a>; <a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/521">Cory Doctorow</a>; <a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/436">Rael Dornfest</a>; <a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/849">Steven Johnson</a><br />09:15 - 10:00<br /><br /><a href="http://www.oreillynet.com/pub/wlg/1414">Rob Flickenger (EtherPEG)</a></font></td>
+<td bgcolor="#aaaaaa"> &nbsp; </td>
+<td bgcolor="#aaaaaa"> &nbsp; </td>
+<td bgcolor="#aaaaaa"> &nbsp; </td>
+</tr>
+<tr valign="top">
+<td bgcolor="#d3d3d3" class="time"><font color="#000000">10:00am</font></td>
+<td bgcolor="#999999"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/2493">Morning Break</a><font size="-2"><br />10:00 - 10:30</font></td>
+<td bgcolor="#999999"> &nbsp; </td>
+<td bgcolor="#999999"> &nbsp; </td>
+<td bgcolor="#999999"> &nbsp; </td>
+</tr>
+<tr valign="top">
+<td bgcolor="#d3d3d3" class="time"><font color="#000000">10:30am</font></td>
+<td bgcolor="#cc99cc"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/2193">Practical Experiences with Web Services and J2EE/CORBA</a><font size="-2"><br /><a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/1181">Hugh Grant</a><br />10:30 - 11:15<br /><br /><a href="http://conferences.oreillynet.com/presentations/et2002/grant_hugh.ppt">Slides (PPT)</a></font></td>
+<td bgcolor="#ffcc33"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/2217">Toward a Biological Framework for Computation</a><font size="-2"><br /><a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/868">Geoff Cohen</a><br />10:30 - 11:15<br /><br /><a href="http://interconnected.org/home/more/etcon/biologic.txt">Matt Webb</a>, <a href="http://www.blackbeltjones.com/work/mt/archives/000164.html#000164">Matt Jones</a></font></td>
+<td bgcolor="#9999ff"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/2363">Wireless Network in NYC in the WTC Aftermath</a><font size="-2"><br /><a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/1176">Terry Schmidt</a><br />10:30 - 23:15</font></td>
+<td bgcolor="#ffffcc"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/3040">No More 'Monkey in the Middle': How Companies are Leveraging Edge Content</a><font size="-2"><br /><a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/1294">Greg Schmitzer</a><br />10:30 - 11:15</font></td>
+</tr>
+<tr valign="top">
+<td bgcolor="#d3d3d3" class="time"><font color="#000000">11:15am</font></td>
+<td bgcolor="#ffcc33"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/2378">Fault-Tolerant Realpolitik: Abandoning Reliability Online</a><font size="-2"><br /><a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/521">Cory Doctorow</a><br />11:15 - 12:00<br /><br /><a href="http://wmf.editthispage.com/2002/05/15#cory">Wes Felter</a>, <a href="http://www.aaronsw.com/weblog/000254#coryD">Aaron Swartz</a>, <a href="http://www.oreillynet.com/~rael/2002/May/15#etech_wed_doctorow">Rael Dornfest</a>, <a href="http://interconnected.org/home/more/etcon/unreliability.txt">Matt Webb</a>, <a href="http://www.blackbeltjones.com/work/mt/archives/000164.html#000164">Matt Jones</a>, <a href="http://kode-fu.com/geek/2002_05_12_archive.shtml#76634388">Joey deVilla</a></font></td>
+<td bgcolor="#ffcc33"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/2374">TINT - Advanced Decentralized Biological System</a><font size="-2"><br /><a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/1162">Nick Bobic</a><br />11:15 - 12:00<br /><br /><a href="http://conferences.oreillynet.com/presentations/et2002/bobic_nick.ppt">Slides (PPT)</a></font></td>
+<td bgcolor="#9999ff"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/2359">The Promises of Wireless Technologies</a><font size="-2"><br /><a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/1175">Janette Toral</a><br />11:15 - 12:00<br /><br /><a href="http://www.oreillynet.com/cs/user/view/wlg/1417">Andy Oram</a></font></td>
+<td bgcolor="#ffffcc"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/3041">Building Web Services the Easy Way with BEA WebLogic Workshop</a><font size="-2"><br /><a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/1272">Scott Regan</a><br />11:15 - 12:00</font></td>
+</tr>
+<tr valign="top">
+<td bgcolor="#d3d3d3" class="time"><font color="#000000">12:00pm</font></td>
+<td bgcolor="#999999"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/2495">Lunch</a><font size="-2"><br />12:00 - 13:15</font></td>
+<td bgcolor="#999999"> &nbsp; </td>
+<td bgcolor="#999999"> &nbsp; </td>
+<td bgcolor="#999999"> &nbsp; </td>
+</tr>
+<tr valign="top">
+<td bgcolor="#d3d3d3" class="time"><font color="#000000"> 1:15pm</font></td>
+<td bgcolor="#99cc99"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/2282">How the Department of Defense & Intelligence Agencies Fund Emerging Technologies</a><font size="-2"><br /><a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/928">John Scott</a>; <a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/1292">Joe Addiego</a><br />13:15 - 14:00<br /><br /><a href="http://conferences.oreillynet.com/presentations/et2002/scott_john.ppt">Slides (PPT)</a></font></td>
+<td bgcolor="#ffcc33"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/2419">Networked Experience Design</a><font size="-2"><br /><a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/1004">JC Herz</a><br />13:15 - 14:00<br /><br /><a href="http://interconnected.org/home/more/etcon/experience.txt">Matt Webb</a>, <a href="http://www.blackbeltjones.com/work/mt/archives/000165.html#000165">Matt Jones</a>, <a href="http://kode-fu.com/geek/2002_05_12_archive.shtml#76637454">Joey deVilla</a>, <a href="http://peterme.com/archives/00000207.html">PeterMe</a></font></td>
+<td bgcolor="#9999ff"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/2458">PlayaNET : 802.11b in an Extreme Enviroment</a><font size="-2"><br /><a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/1185">Matt Peterson</a><br />13:15 - 14:00</font></td>
+<td bgcolor="#ffffcc"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/3042">Interface Dynamics WuWu: How the World Will Collaborate</a><font size="-2"><br /><a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/1273">William K. Downey</a><br />13:15 - 14:00<br /><br /><a href="http://conferences.oreillynet.com/presentations/et2002/downey_bill.ppt">Slides (PPT)</a></font></td>
+</tr>
+<tr valign="top">
+<td bgcolor="#d3d3d3" class="time"><font color="#000000"> 2:00pm</font></td>
+<td bgcolor="#cc99cc"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/2271">The Design of an Open Content Network</a><font size="-2"><br /><a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/974">Justin F. Chapweske</a><br />14:00 - 14:45</font></td>
+<td bgcolor="#ffcc33"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/2224">Swarm Intelligence</a><font size="-2"><br /><a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/1161">Eric Bonabeau</a><br />14:00 - 14:45<br /><br /><a href="http://interconnected.org/home/more/etcon/swarm.txt">Matt Webb</a>, <a href="http://www.blackbeltjones.com/work/mt/archives/000165.html#000165">Matt Jones</a>, <a href="http://conferences.oreillynet.com/presentations/et2002/bonabeau_eric.ppt">Slides(PPT)</a></font></td>
+<td bgcolor="#cc99cc"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/2387">Continued Innovation in P2P File-Sharing</a><font size="-2"><br /><a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/544">Kelly Truelove</a><br />14:00 - 14:45<br /><br /><a href="http://www.oreillynet.com/cs/user/view/wlg/1417">Andy Oram</a></font></td>
+<td bgcolor="#ffffcc"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/3043">Experience Design for Mobile Development: 2.5G/3G Authoring Techniques</a><font size="-2"><br /><a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/1275">George Arriola</a><br />14:00 - 14:45</font></td>
+</tr>
+<tr valign="top">
+<td bgcolor="#d3d3d3" class="time"><font color="#000000"> 2:45pm</font></td>
+<td bgcolor="#999999"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/2498">Break / Meet the Exhibitors and Authors</a><font size="-2"><br />14:45 - 16:00</font></td>
+<td bgcolor="#999999"> &nbsp; </td>
+<td bgcolor="#999999"> &nbsp; </td>
+<td bgcolor="#999999"> &nbsp; </td>
+</tr>
+<tr valign="top">
+<td bgcolor="#d3d3d3" class="time"><font color="#000000"> 4:00pm</font></td>
+<td bgcolor="#aaaaaa"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/2541">Keynote:  Fixing Network Security by Hacking the Business Climate</a><font size="-2"><br /><a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/1194">Bruce Schneier</a><br />16:00 - 17:30<br /><br /><a href="http://www.aaronsw.com/weblog/000254#bruceS">Aaron Swartz</a>, <a href="http://www.oreillynet.com/cs/user/view/wlg/1417">Andy Oram</a>, <a href="http://www.blackbeltjones.com/work/mt/archives/000167.html#000167">Matt Jones</a>, <a href="http://kode-fu.com/geek/2002_05_12_archive.shtml#76637818">Joey deVilla</a>, <a href="http://technetcast.ddj.com/tnc_play_stream.html?stream_id=700">Audio</a></font></td>
+<td bgcolor="#aaaaaa"> &nbsp; </td>
+<td bgcolor="#aaaaaa"> &nbsp; </td>
+<td bgcolor="#aaaaaa"> &nbsp; </td>
+</tr>
+<tr valign="top">
+<td bgcolor="#d3d3d3" class="time"><font color="#000000"> 5:45pm</font></td>
+<td bgcolor="#99cc99"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/3028">Journalism 3.0</a><font size="-2"><br /><a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/612">Dan Gillmor</a><br />17:45 - 18:30<br /><br /><a href="http://boingboing.net/2002_05_01_archive.html#85091721">Dan Gillmor</a></font></td>
+<td bgcolor="#ffcc33"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/2276">Distributed Security: Lessons From Nature</a><font size="-2"><br /><a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/1158">Steven Hofmeyr, Ph.D.</a><br />17:45 - 18:30<br /><br /><a href="http://www.oreillynet.com/cs/user/view/wlg/1417">Andy Oram</a>, <a href="http://conferences.oreillynet.com/presentations/et2002/hofmyer_steven.sxi">Slides (SXI)</a></font></td>
+<td bgcolor="#cc99cc"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/2484">An Introduction to JXTA</a><font size="-2"><br /><a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/1289">Mohamed Abdelaziz</a><br />17:45 - 18:30</font></td>
+<td bgcolor="#ffffcc"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/3089">Rich Application Development with Web Services and Macromedia MX</a><font size="-2"><br /><a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/1293">Mike Chambers</a><br />17:45 - 18:30</font></td>
+</tr>
+<tr valign="top">
+<td bgcolor="#d3d3d3" class="time"><font color="#000000"> 7:00pm</font></td>
+<td bgcolor="#999999"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/3059">Weblog Evening</a><font size="-2"><br /><a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/436">Rael Dornfest</a><br />19:00 - 20:00</font></td>
+<td bgcolor="#999999"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/3057">Next Generation Naming Services</a><font size="-2"><br />19:00 - 20:00</font></td>
+<td bgcolor="#9999ff"> &nbsp; </td>
+<td bgcolor="#999999"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/3087">Fork Meeting</a><font size="-2"><br />19:00 - 20:00</font></td>
+</tr>
+<tr valign="top">
+<td bgcolor="#d3d3d3" class="time"><font color="#000000"> 8:00pm</font></td>
+<td bgcolor="#999999"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/3068">Policy Planning for Wireless</a><font size="-2"><br />20:00 - 22:00</font></td>
+<td bgcolor="#999999"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/3079">Mangling The Middle:  Better Connectivity Through Packet Collusion</a><font size="-2"><br />20:00 - 21:00</font></td>
+<td bgcolor="#9999ff"> &nbsp; </td>
+<td bgcolor="#999999"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/3086">dot Inventory - Bad Metrics Kill Good Emergence</a><font size="-2"><br />20:00 - 21:00</font></td>
+</tr>
+<tr valign="top">
+<td bgcolor="#d3d3d3" class="time"><font color="#000000"> 9:00pm</font></td>
+<td bgcolor="#999999"> &nbsp; </td>
+<td bgcolor="#999999"> &nbsp; </td>
+<td bgcolor="#999999"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/3088">P2P in 10 years? What P2P might look like in a decade</a><font size="-2"><br />21:00 - 22:00</font></td>
+<td bgcolor="#999999"> &nbsp; </td>
+</tr>
+<tr bgcolor="#336699">
+<td colspan="5"><b><font color="#ffffff">Thursday, May 16</font></b>
+</td></tr>
+<tr valign="top">
+<td bgcolor="#d3d3d3"> &nbsp; </td>
+<td bgcolor="#d3d3d3"><font color="#000000"><b>Lawrence</b></font></td>
+<td bgcolor="#d3d3d3"><font color="#000000"><b>Winchester</b></font></td>
+<td bgcolor="#d3d3d3"><font color="#000000"><b>Stevens Creek</b></font></td>
+<td bgcolor="#d3d3d3"><font color="#000000"><b>Bayshore</b></font></td>
+</tr>
+<tr valign="top">
+<td bgcolor="#d3d3d3" class="time"><font color="#000000"> 8:30am</font></td>
+<td bgcolor="#aaaaaa"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/2398">Keynote: Finally Living Up to the Vision of Web Services.</a><font size="-2"><br /><a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/1148">Adam Bosworth</a><br />08:30 - 09:15<br /><br /><a href="http://www.oreillynet.com/cs/user/view/wlg/1421">Andy Oram</a></font></td>
+<td bgcolor="#aaaaaa"> &nbsp; </td>
+<td bgcolor="#aaaaaa"> &nbsp; </td>
+<td bgcolor="#aaaaaa"> &nbsp; </td>
+</tr>
+<tr valign="top">
+<td bgcolor="#d3d3d3" class="time"><font color="#000000"> 9:15am</font></td>
+<td bgcolor="#aaaaaa"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/3055">Discussion: Web Services</a><font size="-2"><br /><a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/1106">Steve Gillmor</a>; <a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/1148">Adam Bosworth</a>; <a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/1043">Adam Gross</a>; <a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/367">Sam Ruby</a>; <a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/520">Clay Shirky</a>; <a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/457">Bill Smith</a>; <a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/586">David Stutz</a><br />09:15 - 10:00</font></td>
+<td bgcolor="#aaaaaa"> &nbsp; </td>
+<td bgcolor="#aaaaaa"> &nbsp; </td>
+<td bgcolor="#aaaaaa"> &nbsp; </td>
+</tr>
+<tr valign="top">
+<td bgcolor="#d3d3d3" class="time"><font color="#000000">10:00am</font></td>
+<td bgcolor="#999999"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/2494">Morning Break</a><font size="-2"><br />10:00 - 10:30</font></td>
+<td bgcolor="#999999"> &nbsp; </td>
+<td bgcolor="#999999"> &nbsp; </td>
+<td bgcolor="#999999"> &nbsp; </td>
+</tr>
+<tr valign="top">
+<td bgcolor="#d3d3d3" class="time"><font color="#000000">10:30am</font></td>
+<td bgcolor="#9999ff"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/2245">Location-Based Web Services</a><font size="-2"><br /><a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/894">Chris Dix</a><br />10:30 - 11:15</font></td>
+<td bgcolor="#cc99cc"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/2571">Distributed Content Management</a><font size="-2"><br /><a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/527">Dave Winer</a><br />10:30 - 11:15<br /><br /><a href="http://www.oreillynet.com/~rael/2002/May/16#etech_thu_winer">Rael Dornfest</a>, <a href="http://boingboing.net/2002_05_01_archive.html#85093868">Cory Doctorow</a>, <a href="http://www.oreillynet.com/cs/user/view/wlg/1421">Andy Oram</a></font></td>
+<td bgcolor="#cc99cc"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/2266">XML, Web Services, and the Semantic Wipeout</a><font size="-2"><br /><a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/520">Clay Shirky</a><br />10:30 - 11:15<br /><br /><a href="http://wmf.editthispage.com/2002/05/16#shirky">Wes Felter</a>, <a href="http://www.blackbeltjones.com/work/mt/archives/000168.html#000168">Matt Jones</a></font></td>
+<td bgcolor="#eeeeee"> &nbsp; </td>
+</tr>
+<tr valign="top">
+<td bgcolor="#d3d3d3" class="time"><font color="#000000">11:15am</font></td>
+<td bgcolor="#9999ff"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/2314">FCC's Rules and Regulations on 802.11</a><font size="-2"><br /><a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/1174">Tim Pozar</a><br />11:15 - 12:00<br /><br /><a href="http://www.oreillynet.com/cs/user/view/wlg/1421">Andy Oram</a>, <a href="http://conferences.oreillynet.com/presentations/et2002/pozar_tim.sdd">Slides (SDD)</a></font></td>
+<td bgcolor="#99cc99"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/2376">Creative Commons:  Using and Sharing Emerging Technologies to Enrich the Public Domain</a><font size="-2"><br /><a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/1164">Molly Shaffer Van Houweling</a>; <a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/1165">Lisa Rein</a><br />11:15 - 12:00<br /><br /><a href="http://wmf.editthispage.com/2002/05/16#commons">Wes Felter</a>, <a href="http://boingboing.net/2002_05_01_archive.html#85093899">Cory Doctorow</a>, <a href="http://boingboing.net/2002_05_01_archive.html#85093979">Cory again</a>, <a href="http://www.blackbeltjones.com/work/mt/archives/000168.html#000168">Matt Jones</a>, <a href="http://conferences.oreillynet.com/presentations/et2002/vanhouweling_molly.ppt">Slides (PPT)</a></font></td>
+<td bgcolor="#cc99cc"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/3030">Demystifying the Market: Web Services and the Service Oriented Architecture</a><font size="-2"><br /><a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/1043">Adam Gross</a>; <a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/1277">Bill Robbins</a><br />11:15 - 12:00</font></td>
+<td bgcolor="#eeeeee"> &nbsp; </td>
+</tr>
+<tr valign="top">
+<td bgcolor="#d3d3d3" class="time"><font color="#000000">12:00pm</font></td>
+<td bgcolor="#999999"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/2496">Lunch</a><font size="-2"><br />12:00 - 13:15</font></td>
+<td bgcolor="#999999"> &nbsp; </td>
+<td bgcolor="#999999"> &nbsp; </td>
+<td bgcolor="#999999"> &nbsp; </td>
+</tr>
+<tr valign="top">
+<td bgcolor="#d3d3d3" class="time"><font color="#000000"> 1:15pm</font></td>
+<td bgcolor="#999999"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/2485">The Future of Ideas</a><font size="-2"><br /><a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/546">Lawrence Lessig</a>; <a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/1193">Carl Malamud</a>; <a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/416">Tim O'Reilly</a>; <a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/1192">Dr. David P. Reed</a><br />13:15 - 14:30<br /><br /><a href="http://www.aaronsw.com/weblog/000255#larryL">Aaron Swartz</a>, <a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/2485">Cory Doctorow</a>, <a href="http://www.oreillynet.com/cs/weblog/view/wlg/1420">Schuyler Erle</a>, <a href="http://www.oreillynet.com/~rael/2002/May/16#etech_thu_lessig">Rael Dornfest</a>, <a href="http://www.blackbeltjones.com/work/mt/archives/000169.html#000169">Matt Jones</a></font></td>
+<td bgcolor="#999999"> &nbsp; </td>
+<td bgcolor="#999999"> &nbsp; </td>
+<td bgcolor="#999999"> &nbsp; </td>
+</tr>
+<tr valign="top">
+<td bgcolor="#d3d3d3" class="time"><font color="#000000"> 2:45pm</font></td>
+<td bgcolor="#9999ff"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/2371">Wireless Community Networks:  To be one, BE ONE.</a><font size="-2"><br /><a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/910">Rob Flickenger</a><br />14:45 - 15:30</font></td>
+<td bgcolor="#99cc99"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/2457">Partnership for Protection</a><font size="-2"><br /><a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/1188">Walter Wright</a><br />14:45 - 15:30<br /><br /><a href="http://conferences.oreillynet.com/presentations/et2002/wright_walter.ppt">Slides (PPT)</a></font></td>
+<td bgcolor="#cc99cc"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/2234">SOAP Routing: The Essential Component to Making Web Services a Reality</a><font size="-2"><br /><a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/561">Rohit Khare</a><br />14:45 - 15:30<br /><br /><a href="http://www.oreillynet.com/cs/user/view/wlg/1421">Andy Oram</a></font></td>
+<td bgcolor="#eeeeee"> &nbsp; </td>
+</tr>
+<tr valign="top">
+<td bgcolor="#d3d3d3" class="time"><font color="#000000"> 3:30pm</font></td>
+<td bgcolor="#999999"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/2497">Afternoon Break</a><font size="-2"><br />15:30 - 16:00</font></td>
+<td bgcolor="#999999"> &nbsp; </td>
+<td bgcolor="#999999"> &nbsp; </td>
+<td bgcolor="#999999"> &nbsp; </td>
+</tr>
+<tr valign="top">
+<td bgcolor="#d3d3d3" class="time"><font color="#000000"> 4:00pm</font></td>
+<td bgcolor="#cc99cc"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/3095">Competitive Web Service Architectures: SOAP and the REST</a><font size="-2"><br /><a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/436">Rael Dornfest</a>; <a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/547">Lucas Gonze</a>; <a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/561">Rohit Khare</a>; <a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/793">Paul Prescod</a>; <a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/367">Sam Ruby</a><br />16:00 - 16:45</font></td>
+<td bgcolor="#99cc99"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/2210">Digital Copyright Law Threatens Science</a><font size="-2"><br /><a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/1008">Robin Gross</a><br />16:00 - 16:45</font></td>
+<td bgcolor="#9999ff"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/2373">Community Wireless Round Table</a><font size="-2"><br /><a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/910">Rob Flickenger</a>; <a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/1185">Matt Peterson</a>; <a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/1176">Terry Schmidt</a>; <a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/1223">Adam Shand</a>; <a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/1222">Matt Westervelt</a><br />16:00 - 16:45</font></td>
+<td bgcolor="#eeeeee"> &nbsp; </td>
+</tr>
+<tr valign="top">
+<td bgcolor="#d3d3d3" class="time"><font color="#000000"> 4:45pm</font></td>
+<td bgcolor="#9999ff"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/2377">Peer-to-Peer Systems in Ad-hoc Mobile Environment</a><font size="-2"><br /><a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/1171">Ekaterina Chtcherbina</a><br />16:45 - 17:30<br /><br /><a href="http://www.oreillynet.com/cs/user/view/wlg/1421">Andy Oram</a>, <a href="http://conferences.oreillynet.com/presentations/et2002/chtcherbina_ekaterina.ppt">Slides (PPT)</a></font></td>
+<td bgcolor="#99cc99"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/3052">Blog Lessons:  User Patterns on LiveJournal</a><font size="-2"><br /><a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/520">Clay Shirky</a><br />16:45 - 17:30</font></td>
+<td bgcolor="#cc99cc"><a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/2262">Federated Identity on the Web</a><font size="-2"><br /><a href="http://conferences.oreillynet.com/cs/et2002/view/e_spkr/1221">Peter Yared</a><br />16:45 - 17:30<br /><br /><a href="http://conferences.oreillynet.com/presentations/et2002/yared_peter.ppt">Slides (PPT)</a></font></td>
+<td bgcolor="#eeeeee"> &nbsp; </td>
+</tr>
+</table>
+
+<h2>Telecom Policy BOF</h2>
+<p><a href="<a href="http://www.oreillynet.com/cs/user/view/wlg/1417">Andy Oram</a></p>
+
+<h2>Star Wars</h2>
+
+<p><a href="http://www.kode-fu.com/shame/2002_05_12_archive.shtml#76626034">Joe deVilla</a></p>
+
+<h2>Conclusions</h2>
+<p><a href="http://interconnected.org/home/more/etcon/conclusion1.txt">Matt Webb</a>, <a href="http://interconnected.org/home/more/etcon/metaanalysis.txt">Matt again</a></p>
+</div>
+<div class="footer">
+  <address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+<a href="http://validator.w3.org/check/referer">Valid HTML</a>
+</div></body>
+</html>

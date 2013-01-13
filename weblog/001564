@@ -1,0 +1,216 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Stanford: Fuzzier Heads Prevail (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001564.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001563" title="Stanford: I Miss Zooko" />	<link rel="next" href="001565" title="Stanford: Artists and Aliens" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Stanford: Fuzzier Heads Prevail</h1>
+</div>
+
+<div class="content">
+<p class="dateline">Stanford, California &#8212; January 5</p>
+
+<p>I lean forward to put my tray from lunch onto the magical rotating device that whisks it away to an invisible kitchen. I put it on the belt and as I step back my frame of sight enlarges to reveal my friend Chris from Chomsky class. Chris asks about this movie I plan to see tomorrow night; I tell him it&#8217;s tonight. He ponders going and we discuss it as we walk. </p>
+
+<p>Chris walks forcefully, commanding respect. As we exit the cafeteria, two people fall into line along side him to chat for a bit and then peel off as we enter Chris&#8217;s dorm. Inside the dorm, someone else talks to Chris, peeling off as we reach the stairs, at the top of the stairs a girl joins us, waving goodbye and heading down at the next staircase. I can&#8217;t believe there are actually people like this; I thought that only happened in the West Wing. Chris shows me his room and we talk for a bit before leaving, repeating the same process all the way out. </p>
+
+<p>I live in fear of other people, tilting my head or ducking behind things so they won&#8217;t see me, doing my best to avoid them. Chris manages to survive surrounded by them.</p>
+
+<hr />
+
+<p>In &#8220;Introduction to Psychology&#8221;, we begin with a brief history of psychology which, quite honestly, looks like a parade of crazies. First up is Wilhelm Wundt and his structuralism. Despite being the oldest he seems the most sensible, which isn&#8217;t saying much considering the competition. He tried to break down actions into component parts and found it took, say .2 seconds. For example, he&#8217;d see how long it would take to press a button when a light came on, finding it took, say, .29 seconds. He would then use the amazing powers of subtraction to claim that choosing between buttons takes .09 seconds. Aside from the massive assumptions in such claims (who&#8217;s to say that they&#8217;re not fundamentally different mental activities), why in the world should we care?</p>
+
+<p>Taking a break from this massive amount of hard-nosed research, William James decided to do some armchair philosophizing (the slides nicely illustrate this with clip art of an armchair) and, I suppose, just make some stuff up. Great! What&#8217;s next?</p>
+
+<p>Next came Freud, who combined this brave new technique with talking to a couple people first. So talk to people, then make stuff up. I can see why they&#8217;re so proud of this advance.</p>
+
+<p>Swinging too far away from this fuzzy headed making-stuff-up, John Watson decided to just deny the existence of people altogether and, with the new field of behaviorism, predict that they were just mindless automatons, like rats.</p>
+
+<p>Swinging too far back, there was the fuzziness of humanism, which, at least according to the movie we saw, involved studying people encouraged to pound on pillows.</p>
+
+<p>Then there was a bunch more stuff which, judging from the slides, has something to do with Homer Simpson and telephone operators. It really wasn&#8217;t that clear.</p>
+
+<p>None of this makes me feel very good about psychology.</p>
+
+<hr />
+
+<p>Chris and I miss the bus, then miss the train, then miss the BART, then go the wrong way, yet we still manage to get to the film only a little late. It&#8217;s a fascinating work, amazing in its breadth; we spend the breaks talking about it excitedly with Seth and the others who meet us at the theater.</p>
+
+<p>I later tried to get copies of the film; it&#8217;s incredibly difficult. Thankfully, someone contacted me &#8212; they have a friend who has a friend inside the BBC who was able to smuggle out some PAL copies, I&#8217;m going to try to digitize them here and maybe put them online.</p>
+
+<p class="posted">posted February 13, 2005 11:25 PM (<a class="category" href="cat_education">Education</a>) (<a href="#comments">4 comments</a>) <a href="001564" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001563" title="Stanford: I Miss Zooko">&laquo; prev</a> | <a href="./">up</a> | <a href="001565" title="Stanford: Artists and Aliens">next &raquo;</a></p>
+
+<p><a href="001559">Home: Life and Love</a><br />
+<a href="001560">Home: Gloom and Loneliness</a><br />
+<a href="001561">New York City: Winter Vacation</a><br />
+<a href="001562">Stanford: Back to School</a><br />
+<a href="001563">Stanford: I Miss Zooko</a><br />
+<strong>Stanford: Fuzzier Heads Prevail</strong><br />
+<a href="001565">Stanford: Artists and Aliens</a><br />
+<a href="001566">Stanford: Meeting the Man in Shadow</a><br />
+<a href="001567">Stanford: You May Have Already Won</a><br />
+<a href="001568">Stanford: Mind Control in Theory and Practice</a><br />
+<a href="001569">Malcolm Gladwell on Snap Judgments</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c3955">
+
+<p>Don&#8217;t forget that Chris was once a freshman too. You still have a year to go, though I&#8217;ll admit that Chris somehow fares better than the rest of us.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.stanford.edu/~csar/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3955">Can Sar</a> at February 14, 2005 06:38 AM <a href="#c3955">#</a></p>
+
+</div><div id="c3956">
+
+<p>&#8220;He would then use the amazing powers of subtraction to claim that choosing between buttons takes .09 seconds. Aside from the massive assumptions in such claims (who’s to say that they’re not fundamentally different mental activities), why in the world should we care?&#8221;</p>
+
+<p>Good point that there&#8217;s a hidden assumption; ask skeptical questions like that. Researchers love to use brain scans for these things; it lets them see the electrical spike n milliseconds before you push the button which they can (persuasively) call your deciding to push it. But knowing how long things take is of great interest. To put it crudely, it turns out that some mental activities take negative time. Since time doesn&#8217;t actually run backwards, something&#8217;s wrong there.</p>
+
+<p>When the evidence is assembled, it turns out that the concept of &#8220;how long a mental activity takes&#8221; is flawed. Not only is mental activity occurring in parallel (like a CPU with multiple processing paths) but, on the time scale of tenths of a second, the brain will assign responsibility for its decisions retroactively. E.g., you will believe and tell a researcher that you did X because of Y, when the researcher knows for a fact that you did not, because Y occurred after you began doing X.</p>
+
+<p>Go read Daniel Dennett&#8217;s &#8220;Consciousness Explained&#8221; :)</p>
+
+<p class="posted">posted by <a target="_blank" title="http://mccarthy.vg/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3956">Jamie McCarthy</a> at February 14, 2005 08:10 AM <a href="#c3956">#</a></p>
+
+</div><div id="c3966">
+
+<p><i>Swinging too far away from this fuzzy headed making-stuff-up, John Watson decided to just deny the existence of people altogether and, with the new field of behaviorism, predict that they were just mindless automatons, like rats.</i></p>
+
+<p>Isn&#8217;t that the same argument you were advancing with the &#8220;ants&#8221; part of your &#8220;emergent&#8221; essay?</p>
+
+<p class="posted">posted by person at February 15, 2005 12:25 AM <a href="#c3966">#</a></p>
+
+</div><div id="c3969">
+
+<p>person: My emergent essay was pretty terrible and I feel sort of bad defending it intellectually. But in this case at least, I believe I am safe since my essay argued precisely the opposite point: that we should try to change people&#8217;s internal states rather than their external situations. As I say in the first paragraph:</p>
+
+<blockquote>
+  <p>The only practical way to change the ant colony is to change things at the level of the ants: giving them more options and convincing them to change. Boss them around and chances are they&#8217;ll go back to their same old ways. </p>
+</blockquote>
+
+<p>If you&#8217;re curious, <a href="http://zpedia.org/Behaviorism">I&#8217;ve written up some more of my thoughts on behaviorism</a> (the cited works are especially wonderful).</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3969">Aaron Swartz</a> at February 15, 2005 12:41 AM <a href="#c3969">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001564.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1564" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

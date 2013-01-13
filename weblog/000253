@@ -1,0 +1,121 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Emerging Technologies - Day 1 (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/000253.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000251" title="Emerging Technologies - Day 0" />	<link rel="next" href="000254" title="Emerging Technologies - Day 2" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Emerging Technologies - Day 1</h1>
+</div>
+
+<div class="content">
+<p>I&#8217;ve been taking notes on each session (watch me on the <a href="http://www.actuallyworks.com/panopticon/">Panopticon</a>):<br />
+<a href="http://www.aaronsw.com/weblog/000253#timO">Tim O&#8217;Reilly on future of technology.</a><br />
+<a href="http://www.aaronsw.com/weblog/000253#bobM">Bob Morris on self-healing computers.</a><br />
+<a href="http://www.aaronsw.com/weblog/000253#peterG">Peter G. Neumann on truly robust systems and networks.</a><br />
+<a href="http://www.aaronsw.com/weblog/000253#marcS">Marc Stiegler on safely using software with viruses.</a><br />
+<a href="http://www.aaronsw.com/weblog/000253#brewster">Brewster Kahle on losing our culture.</a></p>
+
+<p>I talked with Brewster afterwards about my <a href="http://logicerror.com/archiverProxy">Archiver Proxy</a>. We agreed to make it into what he calls &#8220;archiving@home&#8221; where each node assists in grabbing data for the Web Archive. David Henkel-Wallace wants me to make it into a Squid module. I think this combination will rock: I&#8217;ll save disk space and Brewster will get more archived data. </p>
+
+<p>Dan Gillmor interviewed me for a bit.</p>
+
+<p><a href="http://www.aaronsw.com/weblog/000253#richardR">Richard Rashid on Microsoft Artificial Intelligence work.</a></p>
+
+<p>Went out for <a href="http://wmf.editthispage.com/discuss/msgReader$7506?mode=day">Spicy Noodles</a>. I had only white rice, which <a href="http://bitconjurer.org/">Bram</a> tweaked me about (along with a zillion other things). Got to meet DaveW, he was very friendly. Walked down to the Palo Alto &#8220;Steve Jobs-visited&#8221; Apple Store. On the way, Zooko told us his plan for browser-domination. We stopped for an accordian break with Joey. We couldn&#8217;t convince Dave to buy anything at the Apple Store. Went over to Borders and chatted until Robert Scoble drove Wes and I back to the hotel.</p>
+<p><h3 class="title" id="timO">Tim O&#8217;Reilly: The Shape of Things to Come <a href="http://www.aaronsw.com/weblog/000253#timO">#</a></h3></p>
+
+<p>Tim O&#8217;Reilly is talking about the future of technology. We need to follow the alpha geeks and think about the Internet Operating System and find ways to put these systems together and a framework to put them in. He cites UNIX, Open Source and the Internet as examples of previous platforms. But we need to be sure to keep the interfaces open, not close them up like with Microsoft. He quotes his Mom, a folksy woman from Yorkshire who said &#8220;Gates seems like someone who would come to dinner and say, &#8216;I&#8217;d like all the mashed potatoes.&#8217;&#8221; He&#8217;s strongly against Passport (although he&#8217;s not naming any names &#8212; Microsoft is sponsoring the keynote). He says Web services make sense since many are worth paying for. People need to build components and services and not let one person own the platform again. Other speakers will advance the theme. </p>
+
+<p>Also: <a href="http://wmf.editthispage.com/discuss/msgReader$7526">Wes Felter</a>.</p>
+
+<p><h3 class="title" id="bobM">Bob Morris: Autonomic Computing <a href="http://www.aaronsw.com/weblog/000253#bobM">#</a></h3></p>
+
+<p>Bob Morris says we have a problem. We did really well in the speed of computing &#8212; fourteen orders of magnitude. The curve is super-exponential &#8212; the doubling rate has been getting faster too. But the cost of management has been increasing because of complexity. Breaks down failures into hardware, applications and humans (40%). Our bodies self-heal and self-optimize automatically, our computers should be inspired by that. This isn&#8217;t AI, it&#8217;s already being done in small parts, but we need to put it together. Telephone switches use autonomic computing. No outtage when there was a monopoly, only when people stopped working together. Antivirus, RAID, declarative programming, learning optimizers are autonomic. We need to <a href="http://www.google.com/search?q=hypervise">hypervise</a> the hardware. Vertical integration, computing agents, error-recovering pathfinders, etc. Conclusion: standards, standards, standards, standards.</p>
+
+<p>Also: <a href="http://wmf.editthispage.com/discuss/msgReader$7526">Wes Felter</a>, <a href="http://www.oreillynet.com/~rael/2002/May/14#etech_tue_morris">Rael Dornfest</a>.</p>
+
+<p><h3 class="title" id="peterG">Peter G. Neumann: Future of Computer Systems and Networks <a href="http://www.aaronsw.com/weblog/000253#peterG">#</a></h3></p>
+
+<p><a href="http://www.csl.sri.com/users/neumann/">Peter G. Neumann</a> wants to build truly robust systems and networks. &#8220;I don&#8217;t believe in [PowerPoint]. Bloatware is inherently evil.&#8221; Makes fun of Ballmer, says modularity is good. We can&#8217;t trust applications and we definitely can&#8217;t trust the rest of the network. Can&#8217;t keep building castles in the sand. Working on CHATS (Composable High-Asurance Trustworthy Systems), a set of DARPA projects. Every thing is free software/open source (or Open Source &#8212; it&#8217;s irrelevant, he says). Architectures need to be inherently robust since problems are inherently complex. You have to build security in from the start, can&#8217;t shoe it in later. His research still hasn&#8217;t been adopted.Putting together <a href="http://www.csl.sri.com/users/neumann/chats2.html">principles for software engineering</a>. </p>
+
+<p>Looking at the smart card attacks, there&#8217;s no perfectly secure system. But there are things better than bloatware and single-point failure network protocols. Guy in the audience says that Microsoft&#8217;s innovation was not to be secure or reliable but to get tons of money. Peter says we need a paradigm shift away from the bottom line. If we keep growing, by 2010 there will be more system administrators than people (and some folks think system admins are not people).</p>
+
+<p><h3 class="title" id="marcS">Marc Stiegler: Exploiting Virus-Ridden Software <a href="http://www.aaronsw.com/weblog/000253#marcS">#</a></h3></p>
+
+<p>Trojans and viruses aren&#8217;t going away. But with capabilities and E, you can still be safe. Raise your hands if when you buy something you hand your whole wallet to the cashier. It&#8217;s a fundamental security principle: the Principle of Least Authority. Only give the cashier the authority he needs. H. G. Wells described the mom who invented the Principle of Least Authority. She picked up the mammoth-killing club and put it on a ledge so the child couldn&#8217;t reach it. Every app on your system gets access to all the clubs, they get all the authority. It&#8217;s madness! </p>
+
+<p>Demos capdisk. Security demos are weird because you don&#8217;t see security working &#8212; it&#8217;s just normal. Opens a capability-confined text editor. OK button is called Grant. On other machines you&#8217;re the supplicant: &#8220;Oh mighty one on high, while you&#8217;re corrupting my computer I would be pleased if you could open this one tiny file so I may edit it.&#8221; On a caps desktop, the file dialog grants the app permission to edit the file. All done in the E programming platform. Document authors need almost no authority so granting it is easy.</p>
+
+<p>Demos a web browser. Need to grant it HTTP authority. Grant it so that it gets it every time it runs. Talks about Pet Names, Clay Shirky&#8217;s article and <a href="http://zooko.com/distnames.html">Zooko&#8217;s article</a>. Can change names and file extensions of software. Browser has multiple renderers, one of them evil. Runs one under normal windows and another on caps. Windows/UNIX, he doesn&#8217;t care. Just calls it Winix. Caps one tries to read the directory system and fails, Windows one does an evil laugh and suceeds. Does the same thing for editing the OS, inserting trojan horses, send it out over the Internet. &#8220;Just call me Klez.&#8221;</p>
+
+<p>Zooko told Marc about this new text editor, the evil editor. Zooko chuckled a little bit but said it was great. It&#8217;s written by an evil fiend who wants to put a trojan on my computer, but Zooko said it was OK. App is ridden with viruses, but it can&#8217;t do anything. He goes to use it to open his file on who really shot JFK. It&#8217;s really secret and Zooko wants to get this info, but he&#8217;s not worried. He drags and drops the file onto Evil Editor. He edits the file but he can&#8217;t send it (unlike a Java applet, which has access to the server but can&#8217;t even save the data for itself). </p>
+
+<p>This is a solvable problem.</p>
+
+<p><h3 class="title" id="brewster">Brewster Kahle: The Internet Archive <a href="http://www.aaronsw.com/weblog/000253#brewster">#</a></h3></p>
+
+<p>Brewster Kahle says we can&#8217;t trust the publishing industry. They won&#8217;t even let him read the book aloud &#8212; felony, five years in jail. </p>
+
+<p>He runs an ice-white Apple iBook with OS X and Netscape 6.2.</p>
+
+<p>Alexa stands for Library of Alexandria. like a card catalog, tells you about the site you&#8217;re looking at, can you trust it. Looks at links structures and usage patterns to get data.</p>
+
+<p>Web Archive has tons of data. costs them $2000 a terrabyte. All the stuff is copyrighted effectively forever so they just ignore the copyright. No partcular problems. 10-20M voices, more than one page for every person on Earth. Losing all that stuff is no way to run a culture. People sometimes ask for data to be take out and they comply. Often they come running back and say, yes, I would like to be in the Library of Congress. Tried to demo it but he ran into a bug with the Linux-based proxy server that redirected him to a porn site. &#8220;Purge the complainers&#8221; or opt-out is the standard policy for the Web.</p>
+
+<p>Believe in preservation through replication. Most loss is from programmer error. Solution: make another copy. He put a version in the new Library of Alexandria. The idea of having a copy of the Web in different cultures with swap agreements between them gets around the major bug of the original Library of Alexandria: it burned. Took out all the porn from the Egypt version, didn&#8217;t want to solve that now. Not mirrors, different cultural contexts. Libraries often get burned by governments who don&#8217;t want the past right now. But they want it when things calm back down again, so putting it in another culture is a good solution. LoA is a beautiful building and now on the left are disk drives and TV screens flashing web pages from the collection.</p>
+
+<p>Summary: purge the complainers works, technology is cheap, can do large scales.</p>
+
+<p>Really being open, letting people run jobs on the machines. Looking for researchers interested in large content collections (linguists, socialogists, etc.). &#8220;Paper is pretty great, they&#8217;ve got papyrus from <em>5000 years ago</em>. These things will be dead in ten years. [&#8230;] I don&#8217;t know how long this magnetic stuff is gonna last but it&#8217;s just horrible.&#8221; Have to be proactive.</p>
+
+<p>Tried another test, <a href="http://www.archive.org/arpanet/">got some old ARPAnet docs</a> from Katie Hafner&#8217;s resarch for &#8220;When Wizards Stay Up Late&#8221; and scanned them. Didn&#8217;t know what to do about copyright so asked Mary Beth Peters, head of Copyright Office. She said that in general people will send you a cease and desist letter. Sounded familiar, it was the purge-the-complainers policy. They <a href="http://www.archive.org/arpanet/">put them up</a>. Had to be sensitive. No banner ads, not causing harm, etc.</p>
+
+<p>Tried the Lessig approach to the Creative Commons, sorta like national parks stopped country from being gobbled up by commercial interests. Rick Prelinger decided to put his life on the line by donating his life&#8217;s work: ephemeral films. Government propaganda films, how to behave, the atomic age, industrial, amateur, etc. Makes money by selling stock footage. Put the best on the Web. A million downloads, no effect on business. But he did become more famous. So deals became easier. Wanna unleash people to create their own oddball stories.</p>
+
+<p>Interlibrary loan is a terrific legal structure for digital collections. Promise is to give every library access to it all. For free. Bedrock of the library system. From home, you pay. Amazon charges you. Many people can&#8217;t afford it and they go to libraries. Good trade-off. Interlibrary loan is something we leaverage: make it clunky, less easy, but serve the traditional patrons of libraries. </p>
+
+<p>Loaning is also good. The first-sale doctrine. Give it to you, get it back, etc. Same book. Can we do it digitally? Got horrible licenses trying to make it illegal. Tried it with television as example. Heroic Vanderbilt Uni librarians made an exception for copyright on TV news. Fot <a href="http://tvnews3.televisionarchive.org/tvarchive/html/">all the tv for one week after Sept. 11</a>, all sorts of countries, and put it online. 3000 hours. Only available streaming. Got an A for good idea, C for execution. Overall a B. Limited number of streams so it&#8217;s like loaning. You can hack it but it&#8217;s like stealing from a library: it&#8217;s dorky.</p>
+
+<p>Conclusion: Universal access to human knowledge is within our reach. We can scan all books, music, web pages. But we need to figure out societal balance. We&#8217;re a non-profit in San Francisco looking for volunteers and data donations. Looking for full-time employees, hard work mostly in service of research done by others. </p>
+
+<p>Docucomp donated tech to diff html pages. Same tech as in Word. interested in working with corps who want to donate stuff to make it more useful. turning an archive into a library. Getting a good search engine, etc.</p>
+
+<p><h3 class="title" id="richardR">Rich Rashid: Rethinking the Modern Operating System <a href="http://www.aaronsw.com/weblog/000253#richardR">#</a></h3></p>
+
+<p>Moore&#8217;s law has been going but Operating Systems haven&#8217;t changed. They do the same things. The difference is graphics, things look better, mascots (Tux) looks better. Human forms of input (like handwriting and speaking) so that the computer works for us. Natural Language Processing, as used in the grammar checker, is available from the OS. He says a lot of students love the green squiggles because that means their teachers can&#8217;t yell at them about grammar. He&#8217;s got a semantic network of a dictionary, with links like &#8220;quacks come from a duck&#8221;. He wants to use that to data mine documents and answer questions about them.</p>
+
+<p>He&#8217;s got a query system that will answer factual questions, decide what&#8217;s important email (and what&#8217;s spam) and guess your location and what you&#8217;re doing. People don&#8217;t think the way computers do.</p>
+
+<p>&lt;wmf> lifestreams lifestreams lifestreams lifestreams</p>
+
+<p class="posted">posted May 14, 2002 11:07 AM (<a class="category" href="cat_technology">Technology</a>)  <a href="000253" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000251" title="Emerging Technologies - Day 0">&laquo; prev</a> | <a href="./">up</a> | <a href="000254" title="Emerging Technologies - Day 2">next &raquo;</a></p>
+
+<p><a href="000263">WWW2002 - Day 2</a><br />
+<a href="000267">WWW2002 - Day 3</a><br />
+<a href="000268">WWW2002 - Day 4</a><br />
+<a href="000295">WWW2002 - Day 5</a><br />
+<a href="000251">Emerging Technologies - Day 0</a><br />
+<strong>Emerging Technologies - Day 1</strong><br />
+<a href="000254">Emerging Technologies - Day 2</a><br />
+<a href="000255">Emerging Technologies - Day 3</a><br />
+<a href="000256">Emergent Hindsight</a><br />
+<a href="000257">MarkM and AaronSw</a><br />
+<a href="000258">The Secret alife of Webloggers</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

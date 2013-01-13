@@ -1,0 +1,51 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>EarthWeb by Marc Stiegler (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/000167.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000166" title="CodeCon!" />	<link rel="next" href="000168" title="Students, Teachers and Dragons" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>EarthWeb by Marc Stiegler</h1>
+</div>
+
+<div class="content">
+<p><a href="http://www.skyhunter.com/marc.html">Marc Stiegler</a>&#8217;s <a href="http://www.the-earthweb.com/">Earthweb</a> (<a href="http://isbn.nu/067157809X">price check</a>, <a href="http://www.amazon.com/exec/obidos/ASIN/067157809X/coolbooks02/">Amazon</a>) is an answer to his <a href="http://www.skyhunter.com/marcs/finalexam.html#q11">last final exam question</a> in the form of a science fiction novel. It looks at a future where the token evil aliens attempt to destroy the people of Earth every five years, causing humans to unite using the next-generation Web, each person contributing their own unique talents in a last-ditch effort to save the planet.</p>
+
+<p>As a story, Earthweb is relatively uninspired. It has a plot reminiscent of Ender&#8217;s Game, along with the usual mix of action/adventure, love and evil aliens in a giant spaceship attempting to colonize Earth. But this storyline is an entertaining backdrop against which Steigler describes the future of technology.</p>
+
+<p>The major technology topics of the book are: <a href="http://www.erights.org/smart-contracts/">smart contracts</a> (<a href="http://www.skyhunter.com/marcs/capabilityIntro/">capabilities</a> and ecommerce), <a href="http://logicerror.com/digitalSignatures">digital signatures</a> (brands), <a href="http://logicerror.com/reputation ">reputation systems</a>, <a href="http://hanson.gmu.edu/ideafutures.html ">idea futures</a> (&#8216;castpoints) and the <a href="http://logicerror.com/semanticWeb-long">Semantic Web</a> (bidirectional links, typed links, filters, detectors). All of these are exciting stuff, and seeing them presented as such obvious things makes me even more angry that we don&#8217;t have them yet. (I&#8217;m working as fast as I can!)</p>
+
+<p>These technology advances lead to political changes: governments, journalists and other exclusive groups are replaced with free-market systems filtered by reputation systems. Totalitarian regimes are overthrown after tiny talking computers, with Web connections are airdropped.</p>
+
+<p>All in all, the book is a great explanation to technology that I and others are developing, and I highly recommend it to folks curious what the Web will look like five years from now.</p>
+
+<p class="posted">posted February 16, 2002 11:53 PM (<a class="category" href="cat_books">Books</a>)  <a href="000167" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000166" title="CodeCon!">&laquo; prev</a> | <a href="./">up</a> | <a href="000168" title="Students, Teachers and Dragons">next &raquo;</a></p>
+
+<p><a href="000162">My First Drive</a><br />
+<a href="000163">Ender&#8217;s Shadow by Orson Scott Card</a><br />
+<a href="000164">The Decline and Fall of ArsDigita</a><br />
+<a href="000165">My Flamboyant Grandson</a><br />
+<a href="000166">CodeCon!</a><br />
+<strong>EarthWeb by Marc Stiegler</strong><br />
+<a href="000168">Students, Teachers and Dragons</a><br />
+<a href="000169">CSS: Client-side rendering rules</a><br />
+<a href="000170">CodeCon Wrapup</a><br />
+<a href="000171">The Copyright Tax</a><br />
+<a href="000172">Goodbye, Brent.</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

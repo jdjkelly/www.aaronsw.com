@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>HOWTO: Read more books (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>HOWTO: Read more books</h1>
+
+<p>I&#8217;ve read <a href="http://www.aaronsw.com/weblog/books2009">a hundred books a year</a> for the past couple years. Last time I mentioned this, a couple people asked how I could read so many books. Do I read unusually quickly? Do I spend an unusual amount of time reading? I did a simple calculation: The average person spends 1704 hours a year watching TV. If the average reading rate is 250 words per minute and the average book is 180,000 words, then that&#8217;s 142 books a year. To my surprise, I wasn&#8217;t reading nearly enough books. So I&#8217;ve taken some steps to read more:</p>
+
+<ol>
+<li><p><strong>Block your favorite blogs.</strong> I definitely have the mental habit <a href="http://xkcd.com/477/">noted in this xkcd cartoon</a>: at the first sign of mental difficulty, I tab to a different window and begin typing the URL of a favorite blog. This habit is purely automatic, I do it without even thinking about it. As a result, I spend many, many hours a day reading blogs and following their links.</p>
+
+<p>To overcome this habit, I added all my favorite blogs to an <code>/etc/hosts</code> file that redirects them to a bogus IP. Now when I type their URLs, I get an error message. I did the same with Hulu and other sites I use to watch TV shows; if you have a real television, be sure to get rid of it too. Now I usually try visiting a couple different blogs before my conscious self realizes what&#8217;s happening, but this happens soon enough and, over the past couple weeks, I&#8217;ve managed to pretty much train myself out of this bad habit.</p>
+
+<p>Now I either focus on the problem at hand or think enough about it to take a break and go for a walk, eat something, drink some water, read a book, or take a nap.</p></li>
+<li><p><strong>Order lots of books at the library.</strong> Most people think the way you read more books is by spending more time reading. But I&#8217;ve found that, <a href="http://www.aaronsw.com/weblog/loseweight">like exercise</a>, this is an effect and not a cause. I spend time reading when I have a great book to read. When I don&#8217;t, I feel no urge to read and when I do start reading something, I put it down quickly. But if I&#8217;m reading a great book, I spontaneously come up with times and places to read it.</p>
+
+<p>But figuring out which books are great in advance is hard. People&#8217;s experiences about which books they find compelling depend somewhat on their interests and finding accurate critics is problematic. So the best way I&#8217;ve found to see whether a book is good is to just start reading it.</p>
+
+<p>My local library system (<a href="http://www.mln.lib.ma.us/">Minuteman</a>) allows you to request up to 20 books online and then delivers them to the branch library nearest you. So whenever someone makes a book recommendation or I hear about a book that seems interesting, I request it online. Then I go and pick up a stack of books at the library every week or so.</p>
+
+<p>I begin reading them and finish the ones that are exciting enough to finish and return the ones that are unpromising enough to give up on. Then I return them all and get some more.</p>
+
+<p>I also find that the due dates and the growing pile of books provides additional impetus to read them. And the habit doesn&#8217;t cost me any money this way, so I don&#8217;t feel guilty about it. (I&#8217;m sure you can come up with reasons I should feel guilty, but the fact remains that I don&#8217;t.)</p></li>
+<li><p><strong>Alienate everyone close to you.</strong> The biggest consumer of time is undoubtedly other people, in large measure because talking to other people is so fun that you don&#8217;t notice time going by. By keeping yourself away from other people (living alone is a good start), you free up an enormous amount of time for reading. I find this is particularly useful in reading books, since books can usually substitute for human company: you can take them with you on the train and to meals and curl up with them at night and so on.</p>
+
+<p>Getting rid of other hobbies no doubt also helps. (And, unlike people, books don&#8217;t encourage you to have other hobbies.) I didn&#8217;t have any other hobbies, so this was less of a problem for me, but you may want to think about the things you do instead of reading books and stop doing them.</p></li>
+<li><p><strong>Keep the temperature low.</strong> A common problem is falling asleep while reading. But I find it&#8217;s difficult to fall asleep when I&#8217;m cold (whereas it&#8217;s very easy to sleep when I&#8217;m warm), so I keep the temperature quite low in my apartment during the day. Even when I&#8217;m snuggled up in bed, I&#8217;m usually cold enough that I can&#8217;t fall asleep.</p></li>
+</ol>
+
+<p>I suspect few people will take all of this advice, but hopefully some of it is useful to you.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">March  2, 2010</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>Of course, long ago Cosma Shalizi said all this <a href="http://www.cscs.umich.edu/~crshalizi/notebooks/faq.html#2.2" rel="nofollow">shorter and better</a>:</p>
+
+<blockquote>
+  <p><strong>Where do you find the time to read so much?</strong></p>
+  
+  <p>I don&#8217;t watch TV, I have no social life, and I read about a page a minute, if there isn&#8217;t any math to slow me down.</p>
+</blockquote>
+
+<p>&#8230;but then again, everything I write is just commentaries on off-hand remarks by Cosma.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on March  2, 2010 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>Um, #3 seems a little extreme.  Though I guess this is titled &#8220;how to read more books&#8221; and not &#8220;everything in moderation&#8221;.</p>
+
+<p>I also read a lot, but would like to have some evidence that it helps me with my broader life and goals.  It&#8217;s pretty easy just to read frivolously, like you can watch TV frivolously.</p>
+
+<p class="posted">posted by Andy C
+ on March  2, 2010 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>Nice post. And yes, while #3 is a bit extreme, I&#8217;ve found living near(and using)! a Minuteman library trebled my reading. Good plug for &#8216;em.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://morisy.com">Michael Morisy</a>
+ on March  2, 2010 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>I find audio books another excellent source for getting more reading in.  I use Audible.com as my audio-crack supplier.  Basically, the ability to commute to work listening to a good book makes it much more enjoyable.  Indeed, anytime I need to spend time doing chores (cleaning the kitchen, washing up in the morning, etc) I tend to have the headphones on listening away.  Obviously, when the wife wants to talk, I put them away.  But, when I can&#8217;t actually sit down to read, audiobooks are there to the rescue.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.jasonlotito.com">Jason Lotito</a>
+ on March  2, 2010 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c6">
+<p>Getting rid of other hobbies to explore a specific hobby doesn&#8217;t sound like a good idea unless that specific hobby is going to earn your bread and butter.</p>
+
+<p>I see hobbies as complementing each other rather than being destructive to other hobbies.</p>
+
+<p>I will try blocking favourite news sites from today and see how that affects my lifestyle. A few good hours should easily be salvaged. Thanks for the post.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://vedant.lath.in">Vedant L</a>
+ on March  2, 2010 <a href="#c6" rel="bookmark">#</a></p>
+</div>
+<div id="c8">
+<p>Nice post. Thanks. I have a little rack next to my computer which hold a book open, so I use that same impulse to switch attention to look over at the book instead of a newsfeed (part of the time). It&#8217;s amazing how much book reading this produces.</p>
+
+<p>Also, if you&#8217;re a good reader, you&#8217;re an even better scanner. For those books that don&#8217;t deserve the old word-for-word you can scan through a book quickly and profitably.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aftrlife.com">Dale</a>
+ on March  2, 2010 <a href="#c8" rel="bookmark">#</a></p>
+</div>
+<div id="c9">
+<p>Good advice Aaron.  One more simple lesson that I learned only in my early twenties.</p>
+
+<p>You don&#8217;t need to finish every book.</p>
+
+<p>This is a simple but powerful lesson.  It reduces the mental burden of starting a new book to near zero.  I&#8217;m now comfortable putting a book down 200 pages in. And that makes it much easier to start the next 600 page novel.</p>
+
+<p>High school english classes teach us the wrong way to read books.  It took me a long time to unlearn what I was taught.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.mattbrezina.com/blog">Matt Brezina</a>
+ on March  2, 2010 <a href="#c9" rel="bookmark">#</a></p>
+</div>
+<div id="c10">
+<p>This brings up the interesting question of whether reading books is a better use of your time than reading, say, blogs. If you choose the blogs wisely, that&#8217;s not always the case.</p>
+
+<p>It also brings up the question of whether reading books is a better use of time than other hobbies (say, exercise), or than spending time with people.</p>
+
+<p>I love reading, but the answers to these questions aren&#8217;t always a given.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://zenhabits.net">Leo</a>
+ on March  2, 2010 <a href="#c10" rel="bookmark">#</a></p>
+</div>
+<div id="c12">
+<p>My tip:  talk with more people who love to read books, and you will read more yourself.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://netpaths.net/blog">cvos man</a>
+ on March  2, 2010 <a href="#c12" rel="bookmark">#</a></p>
+</div>
+<div id="c13">
+<p>I have another one: stop using your car and start reading on the bus, tram, taxi, metro! But I also think that &#8220;stop meeting other people&#8221;, &#8220;eliminate all other hobbies&#8221; and &#8220;stop reading any blogs&#8221; are not convincing 100%. Reading books is wonderful, but news and newspapers, specific blogs, other hobbies and especially friends are wonderful (and friends also important), too.</p>
+
+<p class="posted">posted by it's me
+ on March  2, 2010 <a href="#c13" rel="bookmark">#</a></p>
+</div>
+<div id="c15">
+<p>Maybe I am taking the phrase out of context, but &#8220;alienate everyone close to you&#8221; sounds going against a big purpose of reading books - to grow ourselves in the real world. Is there specific type of people you are avoiding? Like you wrote, when we see great books (people) we just make our time and that&#8217;s healthy, I think, even if it reduces the amount of books read.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="isaokato.com">Isao</a>
+ on March  3, 2010 <a href="#c15" rel="bookmark">#</a></p>
+</div>
+<div id="c17">
+<p>Listen to audio books while at work.</p>
+
+<p class="posted">posted by Jason Adams
+ on March  3, 2010 <a href="#c17" rel="bookmark">#</a></p>
+</div>
+<div id="c18">
+<h1>1, #2 and #4 are really helpful, I had the same habit of openning a new tab out of nowhere and automatically type in a URL. Blocking is the only way I found too!</h1>
+
+<p>I think eliminating friends and hobbies depends on what your purpose in life is. There are some people worth more than thousands of books, they can teach you some lessons you can never learn from books; books are written by people anyway.</p>
+
+<p>I believe a happy person is a person in harmony with his life, knowledge, health, peace of mind are all necessary.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://samanbarghi.com">Saman</a>
+ on March  3, 2010 <a href="#c18" rel="bookmark">#</a></p>
+</div>
+<div id="c21">
+<p>There is no frigate like a book
+To take us lands away,
+Nor any coursers like a page
+Of prancing poetry.
+This traverse may the poorest take
+Without oppress of toll;
+How frugal is the chariot
+That bears a human soul!</p>
+
+<p class="posted">posted by Emily Dickinson
+ on March  3, 2010 <a href="#c21" rel="bookmark">#</a></p>
+</div>
+<div id="c22">
+<p>no. 2 is great!</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.i5bala.com">Balakumar Muthu</a>
+ on March  3, 2010 <a href="#c22" rel="bookmark">#</a></p>
+</div>
+<div id="c24">
+<p>Is the author proposing reading for the sake of reading itself? (Agree with ISAO) I would like to share with my fellow mates to get different perspectives on the things i read&#8230;. Published authors are not know it alls&#8230;(Just read some of the investing guides just b4 the financial crisis for a taste of this.)</p>
+
+<p>But nice post</p>
+
+<p class="posted">posted by newtaraday
+ on March  3, 2010 <a href="#c24" rel="bookmark">#</a></p>
+</div>
+<div id="c25">
+<p>lol&#8230; I average 5-10 books a week WITHOUT doing any of these. But then, I don&#8217;t watch TV. I don&#8217;t want to even imagine how high my average would get if I cut out internet time. I think I&#8217;m doing just fine.</p>
+
+<p class="posted">posted by shawna
+ on March  3, 2010 <a href="#c25" rel="bookmark">#</a></p>
+</div>
+<div id="c26">
+<p>I don&#8217;t understand the author&#8217;s point. Reading blogs <em>is</em> reading. As well as reading comic books or user manuals. Or nutriment information on the back of boxed cereals.</p>
+
+<p>I have the same problem with people who believe that someone who&#8217;s reading non fiction has no &#8220;culture&#8221; compared to someone reading novels. Are novels superior to non-fiction? Are books superior to blogs? Another example of that way of thinking: lucid dream forums. People there are counting their lucid dreams, and aim for the maximal number of lucid dreams.</p>
+
+<p>I say: what&#8217;s the point? Bragging rights in your e-mail signature? &#8220;This year I read 154 books and had 485 lucid dreams.&#8221; Who&#8217;s got the highest score? It&#8217;s not a video game.</p>
+
+<p>I understand the blog post may have been designed to attract such reactions. But in case someone&#8217;s doubting: reading is about diversity, pleasure and discovery. Not olympic performance.</p>
+
+<p class="posted">posted by HED
+ on March  3, 2010 <a href="#c26" rel="bookmark">#</a></p>
+</div>
+<div id="c27">
+<p>I love point three and laughed when I read the title.  The only suggestion I would add is suggestions on how to alienate other people, but that could be a completely new post all together.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://books.fortroubledteens.com/">Jacob W</a>
+ on March  3, 2010 <a href="#c27" rel="bookmark">#</a></p>
+</div>
+<div id="c28">
+<p>Wow&#8212; this is impressive. Though I wonder, do you think you would you still read so quickly if more of the books were fiction? Or perhaps a better way to phrase it: would reading fiction at this rate be desirable?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.thenewinquiry.tumblr.com">Rachel Rosenfelt</a>
+ on March  3, 2010 <a href="#c28" rel="bookmark">#</a></p>
+</div>
+<div id="c29">
+<p>I&#8217;m french, so sorry for the faults. I hope I&#8217;ll be understandable&#8230;</p>
+
+<p>Watching television or a play in a theatre, if you are active, mentally active, can be compared to the fact of reading (receiving and treating information, eventually stocking then transmit this information or the result(s) of its tranformation(s)), and at the opposite you can read a lot of words without understanding it, or, even if you understand the words and what they probably mean, those readings can still be unusefull for you, for the others, or worse, they can be dangerous.</p>
+
+<p>After you read a book, watched a stupid video on a web site or have been the witness of something particular in the street, the point, in my humble opinion, is  : what are you doing with this ? how did you receive, treat and then maybe stock and/or communicate those informations ? because for each of those cases, you can act/think like a mollusk, like a pre-human, like a human, or 
+like what the humans are aiming to. You (it&#8217;s a general &#8216;you&#8217;, not a &#8216;you==Aaron&#8217; ;) can read 389 books a year (or a day !) but if you are stupid and anti-sexy as a computer, you&#8217;ll die stupid and virgin.</p>
+
+<p class="posted">posted by Bertrand
+ on March  4, 2010 <a href="#c29" rel="bookmark">#</a></p>
+</div>
+<div id="c31">
+<p>Wow&#8230; a lot of people don&#8217;t seem to see the back-handed wit in #3. Do I detect remorse for alienating someone recently? I hope not&#8230; I hope things are going well, Aaron.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.w3.org/People/Connolly/">Dan Connolly</a>
+ on March  5, 2010 <a href="#c31" rel="bookmark">#</a></p>
+</div>
+<div id="c32">
+<p>If I blocked reading blogs, I would not reach this article, then I would not know that I should block it! :)</p>
+
+<p class="posted">posted by Ping
+ on March  5, 2010 <a href="#c32" rel="bookmark">#</a></p>
+</div>
+<div id="c33">
+<p>Any plans for what you&#8217;ll do with all that knowledge once you&#8217;ve finished accumulating it?</p>
+
+<p>Reading a ton of books is not a goal that appeals to me.  I like learning as I do things, so I can apply knowledge right after picking it up.  If you read a book without having an application in mind for the information in it, you run the risk of never actually using that information.  (Of course there is also information in some books that you wouldn&#8217;t know to look for, though.)</p>
+
+<p class="posted">posted by John Maxwell IV
+ on March  5, 2010 <a href="#c33" rel="bookmark">#</a></p>
+</div>
+<div id="c34">
+<p>I can read 20~30 books per year. There is a big gap between you and me. ^_^ I did a translation(into chinese) work on this essay, link: http://wavebehind.org/2010/03/how-to-read-more-books.html</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://wavebehind.org/">Allen</a>
+ on March  5, 2010 <a href="#c34" rel="bookmark">#</a></p>
+</div>
+<div id="c35">
+<p>I feel there are some misleading concepts here, rather than reading more books there should be more important to read better the books as well as to read high quality books (with high interest). When I was a little boy I devoured the books, they did last top 1 - 2 days no matter there were 100 - 350 pags, but after several years I read again some of those books and I noticed I got / understood / discovered much more stuff.</p>
+
+<p>Also it´s worth considering that as the time pass you go discovering new reading strategies, so on there are books that deserve a full detailed reading while with others a fast reading will do. No one is more important than the other, they are better for some situations / books.</p>
+
+<p>I noted some very insteresting comments about the other info source. Sometimes a picture it´s worth thousands words. So books are only a fraction of the useful / insteresting / etc etc resources around. In my university studies sure books are important, but they are really valuable when you combine it with videos, images, the practice**- experience etc etc, the other sources open you as well to other perspectives wich are really really important for creating new understandings, new links (that a book may be unable to do alone).</p>
+
+<p>I can´t avoid not to mention the T. of multiple intelligences, if I´m not wrong Howard Gardner defined eight independent intellingeces, well reading may apply to only one.</p>
+
+<p>Last but no less, I totally disagree to the &#8220;Alienate everyone close to you&#8221;. Are you a sort of autoist guy?? Social activities are very important, so&#8230; if you actually dedicate most of your time to work and reading you don´t know what you are missing&#8230;!</p>
+
+<p class="posted">posted by Phil D.
+ on March  8, 2010 <a href="#c35" rel="bookmark">#</a></p>
+</div>
+<div id="c36">
+<p>You are hilarious! Either that, or as my kids say, a &#8220;funsucker&#8221; who sucks the fun out of er&#8230;well: life. Kids&#8230;hey kids must be killing my reading average&#8230;better put that on the list, too.</p>
+
+<p>thanks for the post.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.mindeartheart.org/tmook">Theodore Mook</a>
+ on March  8, 2010 <a href="#c36" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="morebooks" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

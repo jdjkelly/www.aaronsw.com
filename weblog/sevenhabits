@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Seven Habits of Highly Successful Websites (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Seven Habits of Highly Successful Websites</h1>
+
+<p>I got a phone call from my father the other day. &#8220;Oh,&#8221; I thought immediately, &#8220;he&#8217;s probably calling to finally apologize for failing to attend that basketball game I played at in fourth grade.&#8221; But no, I was once again wrong. He was calling to pitch his web startup.</p>
+
+<p>They&#8217;re at the racquetball court, the grocery store, the venture capitalists&#8217; offices &#8212; you can&#8217;t avoid this new crowd of so-called &#8220;Web 2.0&#8221; startups. And every time they meet you, if they&#8217;re not asking for angel funding, they&#8217;re asking for suggestions on how they should run their company.</p>
+
+<p>For a long time, I&#8217;d simply tell them they should ask a real expert, like Dr. Paulson Graham of the Institute of Advances Startup Studies, but the number of queries has become so great that I&#8217;ve decided to conduct some research of my own.</p>
+
+<p>I picked out seven recent extremely popular websites. While perhaps not having the mindshare of a &#8220;Basecamp&#8221; or a &#8220;Ning&#8221;, these websites do have the benefit of having tons of actual users. Here they are, ranked roughly in order of popularity:</p>
+
+<ul>
+<li>MySpace</li>
+<li>Wikipedia (basically tied)</li>
+<li>Facebook</li>
+<li>Flickr (pronounced flick-her)</li>
+<li>Digg</li>
+<li>Del.icio.us (pronounced dell-dot-icky-oh-dot-you-ess)</li>
+<li>Google Maps (no popularity data available but I bet it&#8217;s pretty popular)</li>
+</ul>
+
+<p>I looked at all these websites to see what they have in common. Here&#8217;s what I discovered.</p>
+
+<h2>Be Ugly</h2>
+
+<p>With the single exception of Flickr, all these websites are hideous. Facebook and Wikipedia redesigned late in the game, upgrading their web design from &#8220;hideous&#8221; to &#8220;barely tolerable&#8221;, but MySpace has continued on, its name becoming synonymous with design so atrocious it has actually been known to induce vomiting in epileptic Japanese children. Not surprisingly, it&#8217;s the most popular site on the list.</p>
+
+<p>Unlike most of Google, Google Maps actually isn&#8217;t such a bad looking website in itself, but most of its Web 2.0 &#8220;cred&#8221; comes from its ability to make &#8220;mashups&#8221; in which people stick a Google Map with several hundred thousand different little red blurble icons sticking all over it onto a webpage whose design sense can best be described as &#8220;MySpace knockoff&#8221;. Normally I don&#8217;t go in for guilt by association, but in this case I think it&#8217;s deserved.</p>
+
+<p>Del.icio.us and Digg both attempted redesigns at one point but due to a tragic mixup in communication, the web design teams they hired misheard their instructions and thought their job was actually to try to make the site look <em>worse</em> instead of better. Having blown several thousand dollars of their VC&#8217;s money on this enterprise, they had no choice but to launch the resulting look.</p>
+
+<h2>Don&#8217;t Have Features</h2>
+
+<p>Let&#8217;s start with MySpace. Again, just as it&#8217;s a leader in traffic, it&#8217;s a leader in this category. MySpace has so few features, I don&#8217;t even know what it does. Neither, apparently, do its users, who in fact create MySpace accounts simply to impress their friends and annoy their teachers. (Personal communication)</p>
+
+<p>The last time Wikipedia added a substantive new feature was the addition of categories a couple years ago and, frankly, that was a pretty bad idea because it was so poorly implemented. Otherwise it&#8217;s basically just been a big box you edit text in with a bunch of kluges on top. That&#8217;s how it got to be number two.</p>
+
+<p>Facebook, Flickr, and Digg all add features occasionally, but they&#8217;re more than counteracted by Del.icio.us and Google Maps, which in fact have actively taken features away. Del.icio.us decided that tag intersections (finding links that are tagged with two words) was just too hard to get back online after they were purchased by Yahoo! and so they simply took the feature down without notice. The site spiked in popularity until they added them back the other day and traffic went down once again.</p>
+
+<p>Google Maps, meanwhile, has just removed everything else from the page except for the map and the search box, ensuring no features get in between the user and their mapping experience. Like most Google software, though, features are definitely not going to be <em>added</em>.</p>
+
+<h2>Let Users Do Your Job</h2>
+
+<p>None of the content on any of these sites is provided by the people who made the site. In every case, the content is provided by the users. The only exception is Google Maps, where the content is provided NAVTEQ.</p>
+
+<p>Combined with the last principle, you might begin to suspect that this is simply because the developers of these sites are extremely lazy. But I don&#8217;t believe that; I think there&#8217;s a more complicated principle at work.</p>
+
+<p>I believe in a theory I&#8217;ll call &#8220;The Stupidity of Crowds&#8221;. Here&#8217;s the basic idea: if just one person or a small group of people builds a website, they have to be at least moderately intelligent. Buying servers and writing programs is somewhat hard and takes a little bit of brainpower. This means that the content for their site will be similarly intelligent and thus it won&#8217;t be of interest to the vast majority of Internet users.</p>
+
+<p>The glorious thing about the Internet, however, is that it allows us to aggregate the combined stupidity of literally <em>millions</em> of people. No longer do you have to try to play towards the lowest common denominator &#8212; now you can actually have the lowest common denominator build your site for you. No single mortal could possibly come up with the content you find on the average MySpace, let alone the hideous color scheme, garish backgrounds, and awful auto-playing background music. No, something like that takes The Stupidity of Crowds.</p>
+
+<h2>Ignore Standards</h2>
+
+<p>Like 99.999999% of all websites on the Internet, none of these websites supports web standards, the documents that explain the proper way to use the Web. Enough said.</p>
+
+<h2>Build to Flip</h2>
+
+<p>MySpace, Flickr, Del.icio.us, and Google Maps all sold out to larger companies. (Google Maps didn&#8217;t even launch until after it was acquired.) Wikipedia is apparently some sort bizarre legal construction called a &#8220;donation-funded non-profit&#8221; and this apparently has made it hard to sell. (Note to future founders: make sure not to incorporate your company as one of these as it can severely hamper your options later on.)</p>
+
+<p>Facebook and Digg haven&#8217;t sold out yet, but I bet they want to. (Another tip: taking large quantities of VC money also makes it hard to sell your company, both because it gives you a swelled head but also because it gives the VCs control over when you can sell, and their heads are <em>really</em> big.)</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">December 12, 2006</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>Interesting you say that MySpace has few features. It seems like they are adding new tools and areas (recently listings, jobs, videos) all the time. In terms of social networks, they are well ahead of the pack feature-wise and technologically. As much as we hate MySpace for its horrible design and hacks, it is simply amazing how fast they move. Just my two cents.</p>
+
+<p class="posted">posted by 
+ on December 12, 2006 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>Aaron, the only bad design is design that sends the wrong message. Would MySpace be as popular if it had a sleek, minimalist design? For Stupid looking for to gossip with friends, do you <em>want</em> your site to look intelligent? That would be like insisting the bar tenders at your dive bar wear slacks and blazers. Better &#8220;design.&#8221; Wrong message. Lost business.</p>
+
+<p>Something else that I noticed: I know you&#8217;re being sardonic, but it seems that sites aren&#8217;t successful because they&#8217;re &#8220;ugly,&#8221; &#8220;have no features,&#8221; or &#8220;ignore standards.&#8221; What I see is a pattern of indifference. That is, these attributes get lost in the noise of what makes the site successful.</p>
+
+<p>Just off the top of my head, here&#8217;s what I think matters most to users (in order)</p>
+
+<p>1) Have I used this before?
+2) Do my friends use this?
+3) Does this do something I want with me having to think much about it?</p>
+
+<p>Design sort of matters in 3. Features may be a toss-up (more usefulness versus more confusion), again in 3.</p>
+
+<p>What really matters is 1 and 2, and if you can make it there, you&#8217;re <em>very</em> forgiven for a <em>too long</em> time.</p>
+
+<p>PROOF: AOL. QED</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://drewyates.net">Andrew Yates</a>
+ on December 12, 2006 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>Sorry, that&#8217;s:</p>
+
+<p>1) Have I used this before?</p>
+
+<p>2) Do my friends use this?</p>
+
+<p>3) Does this do something I want <em>without</em> much thought</p>
+
+<p class="posted">posted by Drew
+ on December 12, 2006 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>I take offense at this post. I love the design of MySpace.</p>
+
+<p class="posted">posted by Epiliptic Japanese Child
+ on December 12, 2006 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>Great post! &#8220;(Personal communication)&#8221; made me laugh out loud. It&#8217;s reassuring  to see reddit upholding most of these vital principles too ;)</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://walkytalky.net/">matt</a>
+ on December 12, 2006 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c6">
+<p>might want to change your headline to &#8220;the 5 habits of 7 highly successful websites&#8221;.</p>
+
+<p>(i tell ya, there&#8217;s just no truth in advertising any more ;)</p>
+
+<p>nice post tho.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://500hats.typepad.com/">dave mcclure</a>
+ on December 12, 2006 <a href="#c6" rel="bookmark">#</a></p>
+</div>
+<div id="c7">
+<p>May I politely ask what profession your father is in? Meaning, is he in technology now - or is he just jumping on the bandwagon that is Web 2.0&#8230;?</p>
+
+<p>Other than that, your dark humor cynicism points out a larger theme&#8230; the road to success is doing something original not necessarialy doing what everyone else is doing.</p>
+
+<p>And the stupidity of crowds is pretty spot on&#8230;!</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.webomatica.com/wordpress/">Webomatica</a>
+ on December 12, 2006 <a href="#c7" rel="bookmark">#</a></p>
+</div>
+<div id="c8">
+<p>Aaron this is brilliant and true.   Now, can I get you to invest 500k in new startup which I promise will be ugly, disorganized, and hard-work phobic?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://joeduck.wordpress.com">JoeDuck</a>
+ on December 12, 2006 <a href="#c8" rel="bookmark">#</a></p>
+</div>
+<div id="c10">
+<p>I love your theory of &#8220;the stupidity of crowds.&#8221; In fact, I just learned that there&#8217;s a mathematical explanation for it. Condorcet&#8217;s theorem postulates that groups are smarter the larger they are &#8212; provided that each individual member has at least a 51% chance of being right. But groups of ignorant people? Far <em>stupider</em> than any individual.</p>
+
+<p>http://dylan.tweney.com/2006/12/07/the-idiocy-of-crowds/</p>
+
+<p>Considering that most people on the Net are writing about something they know nothing about, all that adds up to a tremendous amount of stupidity.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://dylan.tweney.com">Dylan Tweney</a>
+ on December 13, 2006 <a href="#c10" rel="bookmark">#</a></p>
+</div>
+<div id="c12">
+<p>How can you claim Wikipedia doesn&#8217;t give a flip about standards? All of there stuff validates, just check W3C&#8230;</p>
+
+<p>Okay, I checked the others too. Google Maps validates too. Please check your facts.</p>
+
+<p class="posted">posted by Jake
+ on December 13, 2006 <a href="#c12" rel="bookmark">#</a></p>
+</div>
+<div id="c13">
+<p>Okay, maybe I&#8217;m just stupid. It was Flickr, not Google Maps.</p>
+
+<p class="posted">posted by Jake
+ on December 13, 2006 <a href="#c13" rel="bookmark">#</a></p>
+</div>
+<div id="c14">
+<p>I loved this&#8230; but the web phenomenon is mostly an extrapolation of popular culture in every form. Literature, Music, Movies. That which is ultra-popular is, err&#8230; dumb.
+The defining difference here is that while traditional popular culture has a one-to-many relationship, internet popular culture has a many-to-many relationship, to speak in db terminology.
+Great piece.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://ideacog.net">Ben Parzybok</a>
+ on December 13, 2006 <a href="#c14" rel="bookmark">#</a></p>
+</div>
+<div id="c16">
+<p>Yeah, seriously, I&#8217;m having a seizure like an epileptic japanese child here, without my reddit fix!!!  I hope nothing Conde-nasty has happened!</p>
+
+<p class="posted">posted by Reg Aubry
+ on December 13, 2006 <a href="#c16" rel="bookmark">#</a></p>
+</div>
+<div id="c17">
+<p>Interesting post although I would disagree and say that at the very least, Facebook has a nice, clean interface. They&#8217;ve also been rolling out neat features quite steadily for the last few months (or did you miss the News Feed debacle in September?). They&#8217;ve added blog-like notes (which allow you to import feeds), content-sharing a la digg, friend-finder (via your email address book), and the aforementioned News Feed. Their advertising is unobtrusive and minimal and I can&#8217;t say I&#8217;ve ever run into a serious bug on their site. It seems to me that they&#8217;ve been the epitome of how to do things <em>right</em> by being quite dissimilar from MySpace, although I can&#8217;t vouch for their code validating or their intent to sell.</p>
+
+<p class="posted">posted by [name removed upon request]
+ on December 14, 2006 <a href="#c17" rel="bookmark">#</a></p>
+</div>
+<div id="c18">
+<p>You are a true moron who wants destroy the values of our beloved America.
+Hamburgers and other stuffs are junk food that makes a lot of money for the companies which market them&#8230;</p>
+
+<p>The worst TV shows are the most successfull, the cars are destroying our country &#8230;.and every citizen is allowed to poll whatever his QI is (or to be elected).</p>
+
+<p>What do you want ? Introduce a dictatorship in America with no poll, no car, no TV bullshit and no hamburgers?</p>
+
+<p>With your way to criticize the result of a group, you are going to make the people think that there are not completely master of their life even with polling and they are going to try to change what we, true patriots, are supporting.</p>
+
+<p>With your way to criticize the people, in fact you want to introduce communism in our country because you are jealous of the guys who makes real money (Google, Mac, Microsoft, Haliburton, Wal-Mart.</p>
+
+<p class="posted">posted by True patriot
+ on December 14, 2006 <a href="#c18" rel="bookmark">#</a></p>
+</div>
+<div id="c20">
+<p>&#8220;MySpace has so few features, I don&#8217;t even know what it does. Neither, apparently, do its users, who in fact create MySpace accounts simply to impress their friends and annoy their teachers. (Personal communication)&#8221;</p>
+
+<p>I started a MySpace profile just to annoy someone who works for me (true, really). Does that count?</p>
+
+<p class="posted">posted by Chris Knott
+ on December 14, 2006 <a href="#c20" rel="bookmark">#</a></p>
+</div>
+<div id="c21">
+<p>Ok, just to be clear I&#8217;m not a complete jerk, it was &#8220;amuse and annoy&#8221;. Guess you had to be there ;)</p>
+
+<p class="posted">posted by Chris Knott
+ on December 14, 2006 <a href="#c21" rel="bookmark">#</a></p>
+</div>
+<div id="c22">
+<p>I once told Caterina Fake that I thought Flickr wasn&#8217;t going to go anywhere because it was too generic, simple and clean. And besides, I and all my friends were using Fotolog (if you want to talk about gnarly, ugly sites&#8230;). She is nice and has not brought that up around me too often since.</p>
+
+<p>That said, I think you&#8217;re mixing apples and oranges. Sure, Flickr (to stick with what I started with) has cut features over the years, but they were features a site dedicated to sharing photos doesn&#8217;t need. I mean, it&#8217;s pretty obvious what Flickr does, and it does a whole crapload of that thing: what more do you want from it?</p>
+
+<p>If there&#8217;s one Web 2.0 principle that&#8217;s more than buzzword bingo, it&#8217;s this idea that David Hannemeier Hanson has repeated over and over: take one simple idea, and work on it until it works well. All of the sites listed above do their jobs, even if their actual purposes isn&#8217;t immediately clear, and even if using them makes people who care about design and elegance want to poke out their eyes with thorns.</p>
+
+<p>MySpace is for teh kidz to keep in touch. Facebook is for MySpace users, only sort of older and semi-sanctioned by The Man. And so on. Back when Friendster was young, I could see the limitations of its simplistic social networking model all too clearly, and MySpace somehow manages to be even more dumbified than Friendster. But you know what? MySpace <em>is</em> good enough for teh kidz, and I realized a few years ago that I have more real-life friends than I can deal with anyway. Being able to accurately model the character and degree of my real-life relationships would be interesting, sorta, but it would be tough to scale, would go over most users&#8217; heads, and would probably cause all kinds of havoc if it actually worked.</p>
+
+<p class="posted">posted by Forrest L Norvell
+ on December 16, 2006 <a href="#c22" rel="bookmark">#</a></p>
+</div>
+<div id="c26">
+<p>Be Ugly
+- ugliness increases approachability, because you won&#8217;t think that this something else is better than you; instead, it &#8220;belongs&#8221; to you because it&#8217;s of a quality you, as amateur, could&#8217;ve done yourself</p>
+
+<p>Don&#8217;t Have Features
+- unclutteredness and minimalism, as opposed to portalitis, are the blessings of really useful &#8220;tool&#8221; websites; a hammer has little features too, and so does a pencil</p>
+
+<p>Let Users Do Your Job
+- allow a community to interact with your site&#8230; sure, why not?</p>
+
+<p>Ignore Standards
+- realize that standards alone won&#8217;t get you anywhere&#8230; unless perhaps on a browser which really honors standards, but I&#8217;m still waiting for that one to arrive</p>
+
+<p>Build to Flip
+- money makes the world go round? Seriously, I don&#8217;t have an answer to that one. I think a lot of people trying hard to be bought will ultimately fail, for the right reasons.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://blog.outer-court.com">Philipp Lenssen</a>
+ on December 21, 2006 <a href="#c26" rel="bookmark">#</a></p>
+</div>
+<div id="c116">
+
+
+<p class="posted">posted by kayode Olaofe 
+ on September 20, 2007 <a href="#c116" rel="bookmark">#</a></p>
+</div>
+<div id="c117">
+<p>I want some habits of highly successeful people to send to me</p>
+
+<p class="posted">posted by Kayode Olaofe
+ on September 20, 2007 <a href="#c117" rel="bookmark">#</a></p>
+</div>
+<div id="c122">
+<p>I think the note about selling out is stupid.  It&#8217;s somehow wrong to desire being bought by a company and making a ton of money?</p>
+
+<p>I can&#8217;t tell if this is sarcasm or not.  Yeah, Google Maps didn&#8217;t launch until it was bought by Google.  What&#8217;s your point?</p>
+
+<p class="posted">posted by Dave
+ on January  8, 2008 <a href="#c122" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="sevenhabits" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

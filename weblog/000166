@@ -1,0 +1,49 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>CodeCon! (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/000166.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000165" title="My Flamboyant Grandson" />	<link rel="next" href="000167" title="EarthWeb by Marc Stiegler" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>CodeCon!</h1>
+</div>
+
+<div class="content">
+<p>The long-awaited <a href="http://codecon.deor.org/">CodeCon</a> (<a href="http://advogato.org/article/431.html">Advogato</a>, <a href="http://www.theregister.co.uk/content/55/23858.html">The Register</a>) starts today at <a href="http://www.jwz.org/">jwz</a>&#8217;s <a href="http://www.dnalounge.com/">DNA Lounge</a>. CodeCon, started and run in large part by <a href="http://bitconjurer.org/">Bram Cohen</a> (creator of <a href="http://bitconjurer.org/BitTorrent/">BitTorrent</a>) as a way for P2P hackers to have their own conference about running, without the usual overpriced fluff and action-free punditing. As the conference is about to begin, the usual last-minute madness ensues.</p>
+
+<p><a href="http://www.zooko.com/"><img src="http://www.zooko.com/images/zooko.jpg" align="right" border="0" />Zooko</a> (<a href="http://www.zooko.com/log">log</a>) is there to present <a href="http://mnet.sourceforge.net">Mnet</a>, the successor to <a href="http://www.mojonation.net/">Mojo Nation</a>. He finished it right before he left, but didn&#8217;t get a chance to test it. Now he&#8217;s in another state, staying in someone else&#8217;s house, his wife and son are sick, and he&#8217;s supposed to demo it today on a laptop he doesn&#8217;t have using a new GUI he&#8217;s never used. I stayed up until 2:30 last night fixing bugs with him.</p>
+
+<p>One of the nice things about the <a href="http://www.dnalounge.com/">DNA Lounge</a> is that it&#8217;s got great <a href="http://www.dnalounge.com/audio/">audio</a> and <a href="http://www.dnalounge.com/video/">video</a> webcasting facilities. Only the webcasting server (<a href="http://cerebrum.dnalounge.com/">cerebrum</a>) went down this morning (remotely power-cycling isn&#8217;t working), the person there isn&#8217;t answering the phone, and the RealVideo server kindly hosted by <a href="http://www.groovefactory.com/">Groove Factory</a> went down last night.</p>
+
+<p>&lt;<a href="http://www.jwz.org/">jwz</a>> so basically, everything&#8217;s fucked.</p>
+
+<p class="posted">posted February 15, 2002 02:37 PM (<a class="category" href="cat_technology">Technology</a>)  <a href="000166" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000165" title="My Flamboyant Grandson">&laquo; prev</a> | <a href="./">up</a> | <a href="000167" title="EarthWeb by Marc Stiegler">next &raquo;</a></p>
+
+<p><a href="000161">Fancy Stats-Man</a><br />
+<a href="000162">My First Drive</a><br />
+<a href="000163">Ender&#8217;s Shadow by Orson Scott Card</a><br />
+<a href="000164">The Decline and Fall of ArsDigita</a><br />
+<a href="000165">My Flamboyant Grandson</a><br />
+<strong>CodeCon!</strong><br />
+<a href="000167">EarthWeb by Marc Stiegler</a><br />
+<a href="000168">Students, Teachers and Dragons</a><br />
+<a href="000169">CSS: Client-side rendering rules</a><br />
+<a href="000170">CodeCon Wrapup</a><br />
+<a href="000171">The Copyright Tax</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

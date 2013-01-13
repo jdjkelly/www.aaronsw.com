@@ -1,0 +1,91 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+  <title>Obligatory Wishlist (Aaron Swartz's Raw Thought)</title>
+  <link rel="stylesheet" href="style.css" type="text/css" />
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+</head>
+<body>	
+  <h1><a class="hilite" href="./">Raw Thought</a>: Obligatory Wishlist</h1>
+
+<table class="page"><tr><td>
+<div class="content">
+
+<p>Here are the things I would actually buy:</p>
+
+<ul>
+<li><a href="https://www.amazon.com/gp/registry/wishlist/15TGM2O8P9KOB/">Things on my "Worth buying" wishlist</a></li>
+<li>a no-worries backup system (let me know if you've found one)</li>
+</ul>
+
+<!--
+* Digital versions of any of the books on my [Amazon wishlist](http://www.amazon.com/exec/obidos/registry/2A6HM9B19FOPW)
+* a 30-inch Apple monitor
+* a decent keyboard ([I hear](http://daringfireball.net/2005/11/full_metal_jacket) the [Apple Extended Keyboard II](http://lowendmac.com/misc/05/0103.html) is _fine_)
+-->
+
+
+<p class="posted">posted 2005-11-08T08:01:43 <a href="wishlist" rel="bookmark">#</a></p>
+</div>
+
+<h2 id="comments">Letters to the editor</h2>
+
+<div id="c1">
+<p>The powerbook battery to get is the Newer Technology NuPower Powerbook replacement.  I bought it just before heading to StartupSchool and it saved me.  I regularly get 4+ hrs on my 12" 1 ghz powerbook (up from 35 mins with the old one).</p>
+
+
+<p class="posted">posted by <a rel="nofollow" href="http://adamkravetz.com">Adam</a>
+ on 2005-11-21T22:24:42 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>Happy Birthday</p>
+
+
+<p class="posted">posted by fag
+ on 2005-11-26T23:53:58 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+
+<p><em>Letters to the editor are printed at the discretion of the proprietor. They may be edited for length and content.</em></p>
+
+<h3 id="postcomment">Add yours</h3>
+
+<p>(You can also <a href="mailto:weblog@aaronsw.com">send your letters by email</a>. If you choose to do so, please note if you're willing to make your letter available for publication.)</p>
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="wishlist" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /></td></tr>
+</table>
+</form>
+</td><td class="sidebar">
+
+<p>This is part of <strong><a href="./">Raw Thought</a></strong>, a blog by <a href="/">Aaron Swartz</a>. If you liked this piece, you might like reading the rest of it. There are plenty more pieces like this in <a href="archive">the archives</a>.</p>
+
+<h2>greatest hits</h2>
+
+<ul>
+  <li><a href="productivity">HOWTO: Be more productive</a></li>
+  <li><a href="whowriteswikipedia">Who Writes Wikipedia?</a></li>
+  <li><a href="whycentrism">The Attraction of the Center</a></li>
+  <li><a href="understandingeconomics">Understanding Economics</a></li>
+  <li><a href="femhosp">A Feminist Goes to the Hospital</a></li>
+  <li><a href="shifting1">Shifting the Terms of Debate: Right-Wing Think Tanks in Action</a></li>
+  <li><a href="nonapology">A Programmer's Non-Apology</a></li>
+  <li><a href="suburbia">Life in Suburbia: Land of Cliche</a></li>
+  <li><a href="intentionalevil">The Intentionality of Evil</a></li>
+  <li><a href="000931">The Cognitive Style of PowerPoint</a></li>
+  <li><a href="001686">Social Class in America</a></li>
+  <li><a href="000650">Mr. Swartz Goes to Washington</a></li>
+</ul>
+
+<div class="sponsorship"></div>
+
+</td></table>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

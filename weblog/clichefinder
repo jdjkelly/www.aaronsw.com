@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Cliche Finder (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Cliche Finder</h1>
+
+<p>It&#8217;s not an essay, but I hope I can count it as a blog post. Here&#8217;s a new hack I made for my friend Quinn:</p>
+
+<p><a href="http://cliche.theinfo.org/">Cliche Finder</a></p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">December 22, 2006</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>Many of those on the &#8220;cliches&#8221; list are more like dead metaphors or redundant phrases than actual cliche.</p>
+
+<p>A cliche is a phrase that has lots its novelty. It still retains its meaning. Something like, &#8220;Stay the course&#8221; would be a cliche. It does mean what it says it means, but its done, finished and trite. &#8220;Surge&#8221; will likewise be so in a minute or two.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://talboito.com">talboito</a>
+ on December 22, 2006 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>I know, but I was looking for a single word to use.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on December 22, 2006 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>Who&#8217;s counting your blog posts, dude?</p>
+
+<p>I hope you&#8217;re writing those essays because you enjoy them. That&#8217;s why we&#8217;re reading.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.littleblur.com">Ben Donley</a>
+ on December 22, 2006 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>&#8220;true facts&#8221; and &#8220;sworn affidavits&#8221; are also high on the list of the Department of Redundancy Department.</p>
+
+<p>Love.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.boobam.org">William Loughborough</a>
+ on December 22, 2006 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>Very nice! This would actually be a very useful tool if integrated into a word processor like spell checking. It would help keep one&#8217;s writing more concise.
+Of course, when writing about business or politics (and especially when preparing a legal document), there should be the option to <em>add</em> redundancy, hehe.</p>
+
+<p>As for calling it &#8220;clichés&#8221; I agree that that is the most all-embracing term to use. But for version 2.0 I&#8217;d suggest a more fine-grained approach, e.g. separating clichés, redundant statements, idioms, jargon, buzzwords etc. That would be interesting.</p>
+
+<p class="posted">posted by Daniel Øhrgaard
+ on December 22, 2006 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c6">
+<p>Personally, I prefer it when blogs have high &#8220;signal to noise ratio&#8221; (there, another cliche). I think its better to write a few deep and meaningful blog posts as opposed to writing something everyday just because you feel pressured too. If ever you need convincing of this just check out the blog of this mini-genius:</p>
+
+<p>http://sethgodin.typepad.com/</p>
+
+<p>The guys clearly brilliant! But I use RSS and everyday Seth Godin would put up a post, sometimes he shouldn&#8217;t have bothered. RSS is fabulous.</p>
+
+<p>My 2 cents &lt;- Cliche #2, or #3?</p>
+
+<p class="posted">posted by Naz
+ on December 22, 2006 <a href="#c6" rel="bookmark">#</a></p>
+</div>
+<div id="c7">
+<blockquote>
+  <p>I was looking for a single word to use.</p>
+</blockquote>
+
+<p>I believe that the word you&#8217;re looking for is &#8220;pleonasm.&#8221;</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.mikepope.com/blog/">mike</a>
+ on December 26, 2006 <a href="#c7" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="clichefinder" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

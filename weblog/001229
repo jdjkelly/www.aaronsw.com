@@ -1,0 +1,272 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>I Hate Books (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001229.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001228" title="Big Bad Bundle Blog" />	<link rel="next" href="001230" title="Completely Outrageous" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>I Hate Books</h1>
+</div>
+
+<div class="content">
+<p>A new type of book seems to be crowding the shelves. It&#8217;s the kind where Joe wanted people to know that the rainforest was dying, so he wrote a whole book telling them. You can generally spot them by their back-cover blurbs that hint the reviewers couldn&#8217;t even bother to read the book. (Stuff like &#8220;<em>Television is Politically Corrupt</em>, Robert Marbury&#8217;s book on the political corruption of television, really shows just how politically corrupted television is.&#8221;)</p>
+
+<p>There are dozens of them on practically every topic; more than any human being could possibly read, even if they were interesting. There are over 500 books on George W. Bush alone. Even if, following Sturgeon&#8217;s Law, only 10% of them are any good &#8212; that&#8217;s still 50 books to read, on just that one topic.</p>
+
+<p>But let&#8217;s say you can narrow it down to one good one, and you can find the time to read it. You plunk down an absurd $30 (of which, I&#8217;m told, less than $3 goes to the author) for a bulky hardcover and you quickly discover that the author doesn&#8217;t have all that much to say. But a book is a big thing, and they had to fill it all up, so the author padded it. There are several common techniques.</p>
+
+<p>One is to repeat your point over and over, each time slightly differently. This is surprisingly popular. Writing a book on how code is law, an idea so simple it can fit in the book&#8217;s title? Just give example after example after example. </p>
+
+<p>Another is to just fill the book with unnecessary detail. Arguing that the Bush administration is incompetent? Fill your book up with citation after citation. (Readers must love being hit over the head with evidence for a claim they&#8217;re already willing to believe.)</p>
+
+<p>I have nothing against completeness, accuracy, or preciseness, but if you really want a broad audience to hear what you have to say, you&#8217;ve got to be short. Put the details, for the ten people who care about them, on your website. Then take the three pages you have left, and put them on your website too.</p>
+
+<p>There are really only two ways to get away with writing something. The first is to be as concise as possible. The second is to be a really good writer (which, not coincidentally, usually means you are as concise as possible). </p>
+
+<p>If you have nothing important to say, don&#8217;t write at all. If you can&#8217;t write really well, boil what you have to say down to its bare essence. If you can&#8217;t boil something down, hire somebody to do it for you. (I&#8217;ll do it, if the topic&#8217;s interesting enough.) But please don&#8217;t foist another one of these books on the world. My bookshelf just can&#8217;t handle it.</p>
+
+<p class="posted">posted May 12, 2004 02:57 PM (<a class="category" href="cat_books">Books</a>) (<a href="#comments">14 comments</a>) <a href="001229" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001228" title="Big Bad Bundle Blog">&laquo; prev</a> | <a href="./">up</a> | <a href="001230" title="Completely Outrageous">next &raquo;</a></p>
+
+<p><a href="001223">Where&#8217;s Okrent? The End of the Times</a><br />
+<a href="001224">Misreading Jefferson is Sinful and Tyrannical</a><br />
+<a href="001225">[REDACTED]</a><br />
+<a href="001226">All News is Bad News</a><br />
+<a href="001228">Big Bad Bundle Blog</a><br />
+<strong>I Hate Books</strong><br />
+<a href="001230">Completely Outrageous</a><br />
+<a href="001234">Brown and Goodridge</a><br />
+<a href="001244">Conservative Losers</a><br />
+<a href="001269">Miller and Brock</a><br />
+<a href="001313">Film Recommendation: Brazil</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1054">
+
+<p>No offense to Robert Marbury or anybody else who may or may not be referred to is intended. This is an indictment of a genre, not any particular instance.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=1054">Aaron Swartz</a> at May 12, 2004 03:18 PM <a href="#c1054">#</a></p>
+
+</div><div id="c1055">
+
+<p>&#8220;Writing a book on how code is law, an idea so simple it can fit in the book&#8217;s title?&#8221;</p>
+
+<p>If the title was all that was needed, the <a href="http://sethf.com/essays/major/libstupid.php">Libertarians</a> would be a lot less of a bother.</p>
+
+<p>Notably, the <a href="http://code-is-law.org/conclusion_excerpt.html">What Declan Doesn&#8217;t Get</a> chapter was about as far from padding as possible.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://grep.law.harvard.edu/article.pl?sid=03/12/16/0526234&mode=nocomment" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=1055">Seth Finkelstein</a> at May 12, 2004 03:18 PM <a href="#c1055">#</a></p>
+
+</div><div id="c1056">
+
+<p>I haven&#8217;t read Code since I was like 7, but as I recall &#8220;What Declan Doesn&#8217;t Get&#8221; was the conclusion and was quite short. And it&#8217;s all on the Web. But again, I have no special animus for any particular book.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=1056">Aaron Swartz</a> at May 12, 2004 03:23 PM <a href="#c1056">#</a></p>
+
+</div><div id="c1058">
+
+<p>Formally, I believe you understate the value of the examinations in <em>Code</em></p>
+
+<p>Less formally, contextually, for background, it helps to understand what stifling, zombified, numbing, <a href="http://hotwired.wired.com/synapse/feature/97/36/mccullagh4a_text.html">mind-flayed</a> babble-drool was so dominant at the time it was written.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://sethf.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=1058">Seth Finkelstein</a> at May 12, 2004 03:58 PM <a href="#c1058">#</a></p>
+
+</div><div id="c1060">
+
+<p>This isn&#8217;t particularly related, but I&#8217;ve wanted to tell this story for a while.</p>
+
+<p>Randy Barnett carefully and patiently explains to Stephen Bainbridge that it&#8217;s improper to interpret the Constitution by evaluating the effects an interpretation would have; instead, one should try to actually figure out the original meaning of the Constitution and apply it as best as possible.</p>
+
+<p>So how does Bainbridge respond? Interpreting the Constitution that way would require upholding Roe, which would (I&#8217;m not making this up) &#8220;constitutes material cooperation with evil.&#8221; (<a href="http://www.professorbainbridge.com/2004/05/more_on_judicia.html">cite</a>) And yet <a href="http://volokh.com/archives/archive_2004_05_07.shtml#1084246714">Barnett only begins to get the hint</a>&#8230;</p>
+
+<p>But that Declan piece doesn&#8217;t seem as bad as you say.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=1060">Aaron Swartz</a> at May 12, 2004 04:11 PM <a href="#c1060">#</a></p>
+
+</div><div id="c1061">
+
+<p>Right, that Declan piece isn&#8217;t the best example - I just had the URL handy. I was trying to give a sense of the environment where any repetition was not to stretch out a thin concept, but more at a frustration of <em>&#8220;Do you get it yet?!&#8221;</em> (which may connect with your story).</p>
+
+<p class="posted">posted by <a target="_blank" title="http://sethf.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=1061">Seth Finkelstein</a> at May 12, 2004 04:39 PM <a href="#c1061">#</a></p>
+
+</div><div id="c1065">
+
+<p>It&#8217;s a bit harsh to denounce books in general on the basis of one dumb genre. There are plenty of dumb genres, but books are still better than (to pick a random example) the web for many things, in a large number of important ways. Which is comparing apples with oranges, but hey, you started it.</p>
+
+<p>Besides, it takes a lot of time and effort to write and publish stupid books, and a lot of time to read them. If the people doing so weren&#8217;t kept busy by that, just imagine the mischief they might get up to.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://walkytalky.net/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=1065">matt</a> at May 12, 2004 07:54 PM <a href="#c1065">#</a></p>
+
+</div><div id="c1068">
+
+<blockquote><p> Fill your book up with citation after citation. (Readers must love being hit over the head with evidence for a claim they’re already willing to believe.)</p></blockquote>
+
+<p>I think there may be something to be said for this sort of thing. While, yes, it makes for an extremely dull read, it may be useful from a research point of view&hellip; more like a textbook, perhaps, than an essay.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://adrian.pygmysoftware.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=1068">Adrian Sampson</a> at May 12, 2004 10:57 PM <a href="#c1068">#</a></p>
+
+</div><div id="c1070">
+
+<p>The notion to taking reams to make a simple point has been taken to a fine art by both &#8220;conference speakers&#8221; and &#8220;motivational speakers.&#8221;  </p>
+
+<p>Conference speakers, who often use the conference for marketing purposes rather than the loftier goal of the conference itself (e.g. &#8220;information sharing&#8221;) love to take something simple, wrap it in a grandiose title that makes it sound as if they are going to give you the Secrets of the Universe, and then tell you very little, followed by a &#8220;If you want to know more, {buy my book | hire my firm | }.</p>
+
+<p>Motivational speakers &#8220;do it&#8221; exactly as you wrote &#8212; make the same point over and over again.</p>
+
+<p class="posted">posted by Russ Schwartz at May 13, 2004 08:28 AM <a href="#c1070">#</a></p>
+
+</div><div id="c2270">
+
+<p>How many of this type of books did you have to read before you realized you hated them? And why do you expect to find that one extra that will finally break your bookshelf? Stop buying these books - now!</p>
+
+<p class="posted">posted by John Kemp at May 22, 2004 08:45 PM <a href="#c2270">#</a></p>
+
+</div><div id="c2307">
+
+<p>One could flip through a relevant selection of such books at one&#8217;s local library since a long time, sipping coffee or tea, spending little or no money for cheap entertainment. That much, I knew. Alas, your post already mirrors features of the genre you so despise&#8230; Keywords: flip, coffee, money. - Wolf. </p>
+
+<p class="posted">posted by wolf at June  9, 2004 02:35 AM <a href="#c2307">#</a></p>
+
+</div><div id="c2562">
+
+<p>I think it&#8217;s right
+Thanks</p>
+
+<p><a href='http://teen-cash.sexxxurl.com/teencash/teen-cash.html'><strong>teen cash</strong></a></p>
+
+<p class="posted">posted by Sam at July 16, 2004 02:42 PM <a href="#c2562">#</a></p>
+
+</div><div id="c3051">
+
+<p>It?s really a great joy being here. Your site is a varied mixture of the latest news, specified information and
+activ power.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.wellensittich.de" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3051">Standardwellensittich</a> at October 12, 2004 03:14 AM <a href="#c3051">#</a></p>
+
+</div><div id="c3062">
+
+<p><a href="http://www.female-products-reviewed.com">Female Enhancer Products Reviewed</a></p>
+
+<p class="posted">posted by jake at October 15, 2004 10:01 AM <a href="#c3062">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001229.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1229" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

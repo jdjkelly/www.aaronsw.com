@@ -1,0 +1,55 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>The Case for Source Code Escrow (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/000720.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000718" title="Official Argument Transcripts" />	<link rel="next" href="000721" title="File Cabinet Lib" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>The Case for Source Code Escrow</h1>
+</div>
+
+<div class="content">
+<p>Lessig&#8217;s latest post, <a href="http://cyberlaw.stanford.edu/lessig/blog/archives/2002_11.shtml#000597">please, no philosophy</a>, explains why he thinks source code escrow is important. Here&#8217;s a reformulation of the argument:</p>
+
+<p>1. Copyright law restricted copies, but in return required that the government hold onto a copy and let others make copies when that copyright expired.</p>
+
+<p>2. Now copyright law restricts modifications too. In return, it should require that the government let others make copies when the copyright expires.</p>
+
+<p>3. With books, it&#8217;s not so difficult to make modifications from the printed copy. But with software, it&#8217;s nearly impossible: you&#8217;ll probably end up rewriting much of the source code to get things to work right.</p>
+
+<p>[3a. Some have suggested this is analogous to making writers give their brains to the public. This is wrong: writers already distribute their work in a form that&#8217;s easy to modify&#8212;a form that&#8217;s rarely different from what the writer used themselves.</p>
+
+<p>3b. A better analogy is that of an architect&#8217;s plans: you can &#8220;reverse-engineer&#8221; a building (take pictures, walk around, maybe punch some holes in the walls) but if you want to modify it and make a derivative building, you&#8217;ll probably end up recreating the plans and adding your modifications.]</p>
+
+<p>4. To best let others make modifications of software, the government must ensure that the source code is made available when the copyright is up. The best way to do this is with source code escrow.</p>
+
+<p class="posted">posted November 07, 2002 09:26 AM (<a class="category" href="cat_politics">Politics</a>)  <a href="000720" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000718" title="Official Argument Transcripts">&laquo; prev</a> | <a href="./">up</a> | <a href="000721" title="File Cabinet Lib">next &raquo;</a></p>
+
+<p><a href="000704">2003 Redesign: [viewed best in gill sans]</a><br />
+<a href="000715">Announcing Decisions</a><br />
+<a href="000716">i&#8217;ve got the jitterbug</a><br />
+<a href="000717">Quality Software</a><br />
+<a href="000718">Official Argument Transcripts</a><br />
+<strong>The Case for Source Code Escrow</strong><br />
+<a href="000721">File Cabinet Lib</a><br />
+<a href="000722">today&#8217;s featured superhero: Dean Kamen</a><br />
+<a href="000723">today is my birthday</a><br />
+<a href="000725">book connections: death and life, future of ideas, elements of typography</a><br />
+<a href="000726">Trusted Clothing / Trusted Computing: A Parable</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

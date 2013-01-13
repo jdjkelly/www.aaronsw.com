@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<!DOCTYPE rfc SYSTEM "rfc2629.dtd">
+<?rfc toc="yes"?>
+<?rfc compact="yes" ?>
+<rfc ipr="full2026">
+<front>
+<title>A URN Namespace for PGP Users</title>
+<author initials="A." surname="Swartz" fullname="Aaron Swartz">
+	<organization>AaronSw.com</organization>
+	<address>
+		<postal>
+		<street>349 Marshman</street>
+		<city>Highland Park</city>
+		<region>IL</region>
+		<code>60035</code>
+		<country>USA</country>
+		</postal>
+	<phone>+1 847 432 8857</phone>
+	<email>me@aaronsw.com</email>
+	<uri>http://www.aaronsw.com/</uri>
+	</address>
+</author>
+<date month="July" year="2002"/>
+<area>Applications</area>
+<abstract>
+	<t>This document describes a URN (Uniform Resource Name) for use by those with OpenPGP keys. OpenPGP is a standardized public-key cryptosystem that provides for digital signatures and encryption. This namespace can be used in conjunction with OpenPGP to ensure reliability of the data by means of a digital signature.</t>
+</abstract>
+
+</front>
+<middle>
+<section title="Introduction">
+<t>
+	OpenPGP, defined by the OpenPGP IETF Working Group, is a set of standards providing interoperability between public-key cryptography software. Public-key cryptography identifies users by means of their keypair, which can be thought of a large random number. The first of these, the public key, is made publicly available. However, since it is often too long for most humans to deal with (saying, checking equality, etc.), a shorter "fingerprint" (hash of the public key) is generally used for identification.
+</t>
+<t>
+	This namespace allows users with a public key fingerprint a personal namespace which they can use for any resources they wish. This namespace provides not only a decentralized method of allocation to anyone who can run OpenPGP-compatible software, but also provides a means for verifying data about these names via digital signatures.
+</t>
+</section>
+<section title="Specification Template">
+<t>This is an NID registration as specified in <xref target="RFC2611">RFC 2611</xref>.</t>
+<list>
+<t>Namespace ID: "pgp" requested</t>
+<t>Registration Information<list>
+	<t>Registration Version Number: 1</t>
+	<t>Registration Date: 2002-07-08</t>
+</list></t>
+<t>Declared registrant of the namespace:<list>
+	<t>Aaron Swartz<vspace />
+	me@aaronsw.com<vspace />
+	349 Marshman<vspace />
+	Highland Park, IL 60035<vspace />
+	USA</t>
+</list></t>
+<t>Declaration of syntactic structure:<list>
+<figure>
+	<preamble>All URIs will start with "urn:pgp:" followed by the uppercase hex representation of the key fingerprint with no whitespace, followed by another colon. For example:</preamble><artwork>
+        urn:pgp:4FAC4838B7D8D13FA6D92EDB4145521E79F0DF4B:
+</artwork>
+	<postamble>The user may add any valid URI characters after that and decide what resource is identified by the resulting URI.</postamble></figure>
+</list></t>
+<t>Relevant ancillary documentation:<list>
+	<t>OpenPGP is defined by <xref target="RFC2440">RFC 2440</xref> which includes a specification of the fingerprint format in section 11.2.</t>
+</list></t>
+<t>Identifier uniqueness considerations:<list>
+	<t>The OpenPGP designers have gone to great lengths to ensure that their fingerprints will have as few collisions as possible. After that, the space is partitioned such that each keyholder is responsible for respecting the uniqueness rules.</t>
+</list></t>
+<t>Identifier persistence considerations<list>
+	<t>Since documents identified by this URN namespace can be digitally signed and easily verified, they can continue to be mirrored and redistributed around the network with no loss in authenticity.</t>
+</list></t>
+<t>Process for identifier resolution:<list>
+	<t>Not applicable.</t>
+</list></t>
+<t>Validation mechanism:<list><figure>
+	<preamble>Valid URNs in this namespace will match this regular expression:</preamble><artwork>
+        urn:pgp:[0-9A-F]+:
+</artwork><postamble>followed by any series of valid URI characters.</postamble></figure>
+</list></t>
+</list>
+</section>
+<section title="Examples">
+<t>The following examples are not guaranteed to be real URNs. They are simply examples of syntactically valid ones under this scheme.<list><figure><artwork>
+        urn:pgp:4FAC4838B7D8D13FA6D92EDB4145521E79F0DF4B:bob/joe?sally=sue
+        urn:pgp:6D3A1FA30AE5B634E484E0EBF7177452:2002/05/07/borkingPoint
+</artwork></figure>
+</list></t>
+</section>
+<section title="IANA Considerations">
+<t>This document calls for registration of a new URN namespace, according to the registration template in section 2.</t>
+</section>
+
+</middle>
+<back>
+<references>
+	<?rfc include="reference.RFC.2611" ?>
+	<?rfc include="reference.RFC.2440" ?>
+</references>
+</back>
+</rfc>

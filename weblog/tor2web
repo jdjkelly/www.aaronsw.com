@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>In Defense of Anonymity (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>In Defense of Anonymity</h1>
+
+<p>In 1787, when America&#8217;s framers wanted to argue for its Constitution, they published their arguments (the Federalist Papers) anonymously. Whistleblowers have released everything from the Pentagon Papers to the Downing Street Memos. Anonymous speech is a First Amendment right.</p>
+
+<p>And yet, on the supposedly Wild West frontier of the Internet, publishing anonymously is not so easy. Hosting providers require a name and credit card, which they have to hand over to the FBi at the drop of a National Security Letter. Free hosting sites zealously obey takedown requests and require publishers to reveal their identity if they want their stuff put back up (a tactic Scientologists have used). Luckily there are now services like <a href="http://wikileaks.org/">Wikileaks</a>, but they only publish a very narrow range of content.</p>
+
+<p>But, talking with Virgil Griffith and others, I hit upon a new way of allowing for anonymous publishing. The amazing <a href="http://www.torproject.org/">Tor project</a> lets you use the Internet anonymously, by disguising your traffic thru a long series of relays. Less well-known is that it also allows for anonymous publishing, by running the system in reverse. Unfortunately, you need the Tor software to visit anonymously-published sites, but we realized there&#8217;s no reason this need be so.</p>
+
+<p>So I dusted off some work I&#8217;d begun years and years ago and build a tor2web proxy. Now anyone with a web browser can visit an anonymous Tor URL like <a href="http://sexy36iscapohm7b.onion/">http://sexy36iscapohm7b.onion/</a> from any Web browser, without any special software, just by going to:</p>
+
+<p><a href="http://sexy36iscapohm7b.tor.theinfo.org/">http://sexy36iscapohm7b.tor.theinfo.org/</a></p>
+
+<p>Which means that publishing an anonymous website is now also fairly easy. (<a href="https://www.torproject.org/docs/tor-hidden-service.html.en">There are instructions on the Tor site</a> &#8212; just replace the <code>.onion</code> when you hand out the URL. If that&#8217;s too tricky, you could use an existing provider like <a href="http://xqz3u5drneuzhaeo.tor.theinfo.org/">Freedom Hosting</a>.)</p>
+
+<p>tor2web proxies act like any other sort of proxy or router; they just route traffic from  a client to a server and don&#8217;t get involved themselves, so they can&#8217;t be held legally responsible for the content that passes thru them. But to prevent against a single point of failure, I&#8217;m asking others <a href="http://tor.theinfo.org/config">to set up tor2web nodes</a> to distribute the load. The next step, of course, <a href="http://tor.theinfo.org/mirror">is to support mirroring</a> so that people can still find interesting files, even if one hidden server goes down.</p>
+
+<p>Here&#8217;s to anonymity &#8212; and more tools protecting it.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">October 24, 2008</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>There&#8217;s also still Freenet (http://freenetproject.org) ; running proxies to it might also be interesting.</p>
+
+<p class="posted">posted by PJ
+ on October 25, 2008 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>I believe a number of Tor nodes are on the Wikipedia ban list; thats the problem with these anonymous tools.</p>
+
+<p>Something else which infuriates me is when message boards insist I give a valid email address. I understand this is to prevent spammers from using bots to sign up, but surely that&#8217;s the point of using captcha&#8217;s in the registration process? This sort of behaviour happens most often when a piece of hardware/software stops working and I start Googling for answers only to find that I can&#8217;t contribute to a thread unless I&#8217;ve registered! And most of the time I only want to make one or two posts, often to tell people what I&#8217;ve discovered!</p>
+
+<p class="posted">posted by N
+ on October 26, 2008 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="tor2web" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

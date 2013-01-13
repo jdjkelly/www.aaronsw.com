@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Weekend Update (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Weekend Update</h1>
+
+<p><a href="http://meta.wikimedia.org/wiki/Election_results_2006">I lost.</a></p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">September 24, 2006</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>My condolences. In any case, I think you raised some  hard truths that the Wikipedia community needs to hear. Oh, and I&#8217;m still waiting for one bloody developer to look at my patch to implement RSS feeds for watchlists.</p>
+
+<p>In the end, Wikipedia will suffer from the same problem it has always had: stubbornness. There are other projects more deserving of your time.</p>
+
+<p>I&#8217;m curious to see where you plan to take this next, namely to other projects. How can other community-driven sites foster the same sense of responsibility on the part of its users that Wikipedia has? And how can the &#8220;code&#8221; of such sites encourage casual contributors to make useful contributions and discourage vandalism and non-useful contributions?</p>
+
+<p>What you&#8217;ve described in some of your articles seems to be essentially a Long Tailification of the community process: a million people gently tap a cat&#8217;s tail over here, and the loudest meow you&#8217;ve ever heard comes out over there. The issue, as I see it, is the parallelization problem, how can you break up a large complex project into one that casual users can contribute to in small chunks, when these users lack domain knowledge and have no motivation to learn any particular procedures specific to your project?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.zachlipton.com">Zach Lipton</a>
+ on September 24, 2006 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>Damn.  Sorry dude, you certainly would have had my vote, had I been alowed to vote.</p>
+
+<p class="posted">posted by Andy Schilling
+ on September 24, 2006 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>I tried to vote for you, but I didn&#8217;t have enough page edits to qualify to vote (I think you needed like 400+, and my tally is measured in the dozens, not hundreds&#8230;)&#8230;</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://azplace.net">naum</a>
+ on September 25, 2006 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>Hi, Aaron. I&#8217;m a Wikipedian, a MediaWiki developer, and founder of a successful non-Wikimedia wiki (Wikitravel). I didn&#8217;t vote for you because there was a much more qualified person who&#8217;d put in his time working in the trenches of the organization and who showed understanding of our problems and commitment to the cause.</p>
+
+<p>I think if you really believe in making Wikipedia even better than it is now, you&#8217;ll need to work the crowds more. Get involved with the WMF committees, and become part of the MW development effort.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://evan.prodromou.name/">Evan Prodromou</a>
+ on October  4, 2006 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="comedown2" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

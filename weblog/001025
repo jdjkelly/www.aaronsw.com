@@ -1,0 +1,59 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Postel&#8217;s Law Has No Exceptions (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/001025.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001024" title="Live from victoria.bc.ca" />	<link rel="next" href="001026" title="Canadians Do It Right" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Postel&#8217;s Law Has No Exceptions</h1>
+</div>
+
+<div class="content">
+
+
+<p>As Mark Pilgrim is fond of saying, “There are no exceptions to Postel’s Law.” (Postel’s Law is generally quoted as “be liberal in what you accept and conservative in what you put out” or something to that effect.) The message of the law is that interoperability is the primary concern, and that programs should accept things, even things that are against the spec, if necessary to achieve interoperability.</p>
+
+<p>HTML, as you may know, is a mess. It’s contorted in a hundred different ways with tons of bugs and their work-arounds encrusted into the Web and browsers are expected to make sense of all of it. The XML people saw this and said “we have to fix this”. Their solution was to break Postel’s Law.</p>
+
+<p>With XML you are supposed to die and never look back if the document you come across violates the spec. The idea was that if everything died on invalid feeds, no one would ever write them. This is wrong for three reasons:</p>
+
+<ol>
+  <li>Even with the rule, there will be invalid documents. Someone will write some code, test it, see that it works and move on. One day the code will be given data that trips one of XML’s exceptions (AT&amp;T is a common example — XML requires it be written AT&amp;amp;T) and an invalid document will be created.</li>
+  <li>XML apps compete for users. Users want to read these documents, even if they’re broken. Users will switch to apps that read these documents and the rule will be useless, since folks will likely test with those apps. The only way we can keep the rule in effect is by getting <em>everyone</em> who writes an app to act against the wishes of their users, which seems like a bad idea.</li>
+  <li>Essentially the same effect can be achieved by having a validation display (like iCab or Straw’s smiley face that frowns on invalid documents) and an easy-to-use validator.</li>
+</ol>
+
+<p>This is not to say that all apps should have to process invalid documents, or that they should work hard to guess what the author meant, or that we should encourage or tolerate invalid documents. We should try still try to get rid of invalid documents, but taking things out on the users is the wrong way to do it.</p>
+
+<p>The creators of XML were wrong. Postel’s Law has no exceptions.</p>
+
+<p class="posted">posted August 18, 2003 09:21 PM (<a class="category" href="cat_technology">Technology</a>)  <a href="001025" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001024" title="Live from victoria.bc.ca">&laquo; prev</a> | <a href="./">up</a> | <a href="001026" title="Canadians Do It Right">next &raquo;</a></p>
+
+<p><a href="001010">Dodging Trains</a><br />
+<a href="001011">Super Searching</a><br />
+<a href="001014">Letter from Knuth</a><br />
+<a href="001016">Privacy, Accuracy, Security: Pick Two</a><br />
+<a href="001024">Live from victoria.bc.ca</a><br />
+<strong>Postel&#8217;s Law Has No Exceptions</strong><br />
+<a href="001026">Canadians Do It Right</a><br />
+<a href="001027">Secrets of Standards</a><br />
+<a href="001028">Day, Today</a><br />
+<a href="001030">The Biggest News</a><br />
+<a href="001031">What A Little Bug Can Do</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

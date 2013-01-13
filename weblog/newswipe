@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>The Newswipe Manifesto (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>The Newswipe Manifesto</h1>
+
+<p><em>Charlie Brooker begins his recent BBC4 show</em> <a href="http://en.wikipedia.org/wiki/Newswipe_with_Charlie_Brooker">Newswipe</a> <em>with this speech. Unfortunately, the show doesn&#8217;t quite live up to these ambitions, being basically a version of</em> <a href="http://en.wikipedia.org/wiki/Charlie_Brooker%27s_Screenwipe">Charlie Brooker&#8217;s Screenwipe</a> <em>focused on the news, but they seem like the right ambitions to me.</em></p>
+
+<p><object width="560" height="340"><param name="movie" value="http://www.youtube-nocookie.com/v/dm4GiyyVKQQ&hl=en&fs=1&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube-nocookie.com/v/dm4GiyyVKQQ&hl=en&fs=1&rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="560" height="340"></embed></object></p>
+
+<blockquote>
+  <p>Back in 1919, when I was a kid and my throat was less sore, I always assumed adults knew what was what. So imagine my horror, on growing up, to discover that actually we&#8217;re all just winging it. As adults, there&#8217;s a whole range of things you&#8217;re supposed to &#8216;know about&#8217; and &#8216;have opinions on&#8217;: everything from what wine to serve at your twatty dinner party through to what&#8217;s going on in the world of &#8216;current affairs&#8217;.</p>
+  
+  <p>Yes, it turns out you were supposed to be paying attention to the news all this time. Although the chances are you haven&#8217;t, at least not really. I mean, when were you meant to start? When you&#8217;re a kid, the news is effectively out of bounds. It&#8217;s a program aimed at adults that&#8217;s either impenetrably boring (&#8216;the economy minister for the economy today said interest rates were discombobulating the trade union a&#8212;&#8217;) or downright terrifying (&#8216;murdered horses and terrorists today said that you and your mummy and daddy are certain to die in a global ap&#8212;&#8217;).</p>
+  
+  <p>Anyway, the end result is that you ignore the news for years and then suddenly, somewhere down the line when you&#8217;re a bit older, there&#8217;s comes a point when you realize you&#8217;re completely bloody ignorant. Maybe you find yourself sitting next to some erudite f&#8212;ker at a dinner party who&#8217;s banging on about the Israel-Palestine situation or maybe you start going out with an opinionated news junkie who wants to discuss politics for 60,000 hours. Either way, your comparative ignorance leaves you ashamed. So you do something about it: you pick up a paper or you switch on the news. But because you&#8217;ve fallen behind it&#8217;s like tuning into episode 803 of the world&#8217;s most complex soap opera.</p>
+  
+  <p>And at the same time the news itself is becoming less of an easily digestible summary of events and more of a grotesque entertainment reality show with heavy emphasis on emotion and sensation and a swaggering comically theatrical sense of its own importance.</p>
+  
+  <p>In the end you just give up and, yes, you wing it: you form knee-jerk opinions about the sort of thing that&#8217;s in the news. Politicians and newsmakers notice, which is why everything&#8217;s geared more and more to sound bites and razzle-dazzle. The soap opera analogy is a sound one because that&#8217;s what the news has become.</p>
+  
+  <p>It&#8217;s showbiz, basically, and as a consequence the news has become just another rolling TV show who&#8217;s meaning is lost somewhere amongst all the babble. Sometimes it&#8217;s happy and sometimes it&#8217;s sad, but somehow, it isn&#8217;t real.</p>
+</blockquote>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">August 24, 2009</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c2">
+<p>Any particular news story is the latest point in a historical time line.  Every news story relies to some extent on a given amount of knowledge that the viewer has of history.  Like it is often said: &#8220;Every story has a back story.&#8221;</p>
+
+<p>I hate to see real journalism suffer as the internet becomes the main source for news, but with the internet is the capability for news providers to layout each story within the context of history.  So far the only type of any real time line comes in the form of &#8220;related stories&#8221; in a side bar listed in chronological order of publish date.</p>
+
+<p>People are a lot less somnolent then the perception television news and even the online papers convey (WaPo, NY Times, Slate and MoJo are the extent of my online subscriptions, so if I am about to describe a news source that already exists, please let me know.)  Anyone capable of understanding a news story they have read is capable of understanding the limit of the context the story.  It may be counter intuitive for news sources to put stories in the context of a time line, since it will expose the latency and gaps of and in their coverage, any reader that would opt for being relatively informed over making &#8220;knee jerk&#8221; conclusions would appreciate such a forthcoming format.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://valvestate.tumblr.com/post/156674985/corn-beans-squash">James Hardy</a>
+ on August 25, 2009 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="newswipe" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

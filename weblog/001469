@@ -1,0 +1,237 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Donald Knuth writes Condi Rice (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001469.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001468" title="Stanford: Day 51" />	<link rel="next" href="001472" title="Stanford: Day 52" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Donald Knuth writes Condi Rice</h1>
+</div>
+
+<div class="content">
+<p><a href="http://www-cs-faculty.stanford.edu/~knuth/rice.html">Knuth: Open Letter to Condolezza Rice</a></p>
+
+<blockquote>
+  <p>When I knew you at Stanford I had the greatest admiration for your abilities and good sense. (And I was disappointed that we never were able to get together to play four-hands music.) But now I cannot help but express to you my chagrin that the warm feelings I once had have basically evaporated. I hope you can pause to try to understand why this might be the case.</p>
+</blockquote>
+
+<p><em>Donald Knuth is the widely-respected author of the classic series</em> The Art of Computer Programming. <em>Condolezza Rice is the National Security Advisor to President Bush.</em></p>
+
+<p class="posted">posted November 08, 2004 08:15 PM (<a class="category" href="cat_politics">Politics</a>) (<a href="#comments">8 comments</a>) <a href="001469" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001468" title="Stanford: Day 51">&laquo; prev</a> | <a href="./">up</a> | <a href="001472" title="Stanford: Day 52">next &raquo;</a></p>
+
+<p><a href="001462">David Boies on the Dispensation of Justice</a><br />
+<a href="001463">Stanford: Day 48</a><br />
+<a href="001464">Amy Goodman (and guests) on the Election</a><br />
+<a href="001467">Stanford: Day 50</a><br />
+<a href="001468">Stanford: Day 51</a><br />
+<strong>Donald Knuth writes Condi Rice</strong><br />
+<a href="001472">Stanford: Day 52</a><br />
+<a href="001473">Stanford: Day 53</a><br />
+<a href="001474">Stanford: Day 54</a><br />
+<a href="001475">Stephen Pinker on Uniting Techies and Fuzzies</a><br />
+<a href="001476">Stanford: Day 55</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c3391">
+
+<p>&#8220;unilaterally pulls out of widely accepted treaties&#8221;<br />
+If he&#8217;s referring to Kyoto, then yes, widely accepted not to have much of an effect even if we were part of it.</p>
+
+<p>&#8220;refuses to accept a world court&#8221;<br />
+Where to start. We&#8217;ve been arguing about this since the World Court started (<a href="http://kurzweil.mit.edu/archives/VOL_045/TECH_V045_S0311_P002.pdf">link</a>). That the Bush administration doesn&#8217;t accept a world court isn&#8217;t anything unique to the Bush administration.</p>
+
+<p>&#8220;flouts fair trade with shameful policies regarding steel and agriculture&#8221;<br />
+Oh, like closing off the border with Canada to beef shipments? Because they keep shipping us cattle with mad cow disease? Or maybe he&#8217;s referring to the subsidies we give farmers because of all the environmental, health, and labor regulations they have to deal with that their foreign competitors don&#8217;t. Ditto for steel companies and unions. Make up your minds, folks. I don&#8217;t understand why the same people who protest Nike using sweatshops in the third world also protest subsidies that prevent the exact same conditions in other industries. Fair trade isn&#8217;t possible when there is a regulatory and taxation imbalance.</p>
+
+<p>&#8220;Israel&#8217;s increasingly unjustifiable occupation&#8221;<br />
+Yes, just like our &#8220;increasingly unjustifiable occupation&#8221; of Iraq. I&#8217;m not sorry for siding with the people who AREN&#8217;T attacking civilians as a core part of their strategy. I haven&#8217;t seen Israel blow up airliners, take Olympic athletes as hostages, bomb fruit stands and buses, attack Iraqis signing up to be policemen, set churches on fire, or blow up rival mosques as a matter of policy. That the US and Israel kill civilians in these circumstances has more often than not been due to the tactics of Muslim &#8220;warriors&#8221; targeting civilians.<br />
+Also, please excuse me for not siding with a people who consider killing anyone who isn&#8217;t Christian, Muslim, or Jewish a religious imperative.</p>
+
+<p>Bah. Humbug.</p>
+
+<p class="posted">posted by Anonymous Andrew at November  8, 2004 09:26 PM <a href="#c3391">#</a></p>
+
+</div><div id="c3392">
+
+<p><blockquote>If he’s referring to Kyoto, then yes, widely accepted not to have much of an effect even if we were part of it.</blockquote>Environmental progress has to start somewhere.</p>
+
+<p><blockquote>Oh, like closing off the border with Canada to beef shipments? Because they keep shipping us cattle with mad cow disease?</blockquote>Though I&rsquo;m too lazy at the moment to look it up, I believe it was one cow. And testing has improved significantly since then; the USDA seems to be taking the stance that the problem doesn&rsquo;t exist if they ignore it. (I don&rsquo;t even support raising animals for food, but whatever.)</p>
+
+<p class="posted">posted by <a target="_blank" title="http://nubule.nu" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3392">Ken Gerrard</a> at November  8, 2004 09:40 PM <a href="#c3392">#</a></p>
+
+</div><div id="c3394">
+
+<p>Concerning widely accepted treaties : isn&#8217;t this more about the Geneva Convention and the cuban vacation camp ?
+Steel : And Europe sells Steel too, want to compare our labor regulations ? :D (fair trade is a myth, everybody wants regulation on his side that&#8217;s all, it just happens to be fair when the parties are strong enough to defend themselves)
+Besides, how do subsidies prevent sweatshops ? (I mean do we have data on this argument, i won&#8217;t bet on this&#8230;)</p>
+
+<p>Finally why pulling out a 2002 letter on the front now ??</p>
+
+<p class="posted">posted by Cn at November  9, 2004 02:51 AM <a href="#c3394">#</a></p>
+
+</div><div id="c3403">
+
+<p>Gotta wonder the same question as the last poster: why now?</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.zacheverson.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3403">Zach </a> at November 12, 2004 09:39 AM <a href="#c3403">#</a></p>
+
+</div><div id="c3404">
+
+<p>http://www-cs-faculty.stanford.edu/~knuth/news.html</p>
+
+<p>&#8220;After the depressing outcome of recent elections, I&#8217;ve decided to post my letter to Condolezza Rice written in September 2002.&#8221;</p>
+
+<p class="posted">posted by Bernard at November 12, 2004 04:55 PM <a href="#c3404">#</a></p>
+
+</div><div id="c3405">
+
+<p>Aaron,</p>
+
+<p>I have admired DK for many years for his intellectual honesty (among other things). I am not surprised, but very pleased nonetheless, to find that I share his perspective on the policies of the Bush administration.</p>
+
+<p>I think he fired at the wrong target here. I would have advised him to write to the Top Banana who &#8212; whatever his intellectul input to the policies may have been &#8212; is certainly the person responsible with a copy to his friend, expressing dismay.</p>
+
+<p>But thank you for drawing the letter to wider notice.</p>
+
+<p>Best wishes,</p>
+
+<p>Peter </p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.petergallagher.com.au" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3405">Peter Gallagher</a> at November 12, 2004 06:11 PM <a href="#c3405">#</a></p>
+
+</div><div id="c3407">
+
+<p>With regards to Canada, what about soft timber lumber tarrifs?</p>
+
+<p>I can accept closing the border to cattle when there was a health risk, but it was one cow (which was found in Canada and not shipped anywhere), but that was over a year ago and the border is still closed to Canadian cattle.</p>
+
+<p class="posted">posted by David Magda at November 13, 2004 11:58 AM <a href="#c3407">#</a></p>
+
+</div><div id="c3449">
+
+<p>Knuth&#8217;s letter had a dramatic impact on Condi Rice&#8217;s career, eh?</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.technologist.net" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3449">Ron Bischof</a> at November 16, 2004 11:46 AM <a href="#c3449">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001469.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1469" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

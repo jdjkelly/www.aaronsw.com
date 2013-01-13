@@ -1,0 +1,182 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Shorter Tom DeLay (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/001185.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001179" title="Sue for Freedom: Saving Steamboat Roy" />	<link rel="next" href="001187" title="Wonderfalls" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Shorter Tom DeLay</h1>
+</div>
+
+<div class="content">
+<p>Tom DeLay raised $12M from outside companies who had business before the House. He passed the money on to selected 2002 House races in Texas. With the money, the Republicans took the Texas House, pushed through a gerrymandered redistricting, and created more safe Congressmen in the US House &#8212; all of whom owed it to Tom DeLay, ensuring he was elected Majority Leader.</p>
+
+<p>There was just one problem: it was all a violation of Texas campaign finance law. They didn&#8217;t care &#8212; they presumed they wouldn&#8217;t be prosecuted because the state attorney general is a Republican supporter (and former Karl Rove client).</p>
+
+<p>But there was one thing they weren&#8217;t counting on. The DA for the county which includes the statehouse has jurisdiction to prosecute violations of public integrity. He&#8217;s at the end of his career, he&#8217;s running unopposed, and he wants to make a mark. So he&#8217;s subpoenaing and deposing everyone in front of a grand jury, building a case to take DeLay down.</p>
+
+<p>(The above is a summary of Salon.com&#8217;s <a href="http://www.salon.com/news/feature/2004/03/12/delay/">Tom DeLay&#8217;s funny-money trail</a>.)</p>
+
+<p class="posted">posted March 12, 2004 12:39 PM (<a class="category" href="cat_politics">Politics</a>) (<a href="#comments">4 comments</a>) <a href="001185" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001179" title="Sue for Freedom: Saving Steamboat Roy">&laquo; prev</a> | <a href="./">up</a> | <a href="001187" title="Wonderfalls">next &raquo;</a></p>
+
+<p><a href="001173">Up is Down: How Stating the False Hides the True</a><br />
+<a href="001174">Down is Up: What This Stuff Is</a><br />
+<a href="001175">Up With Facts: Finding the Truth in WikiCourt</a><br />
+<a href="001177">San Francisco Protects the Freedom to Marry</a><br />
+<a href="001179">Sue for Freedom: Saving Steamboat Roy</a><br />
+<strong>Shorter Tom DeLay</strong><br />
+<a href="001187">Wonderfalls</a><br />
+
+</p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c682">
+
+<p>Hey,
+I saw your blog listed on bloglines and I just had to check it out (because we share a last name.)  Your posts interest me so I&#8217;ve added you to my bloglines.  Keep it up.</p>
+
+<p class="posted">posted by <a href="http://shvedova.blogspot.com">Rick Swartz</a> at March 12, 2004 01:57 PM <a href="#c682">#</a></p>
+
+</div><div id="c683">
+
+<p>I live in Travis County (the one of which you speak), and I really hope Ronny Earl can nail Delay. But I&#8217;m pessimistic. Earl had a shot at Kay Bailey Hutchison, the weathergirl-turned-senator, who also violated campaign rules when she ran (using the staff of the state office she previously held as campaign staff). He seemed to have a solid case against her and blew it.</p>
+
+<p class="posted">posted by <a href="http://crossroads.net/a">Adam Rice </a> at March 12, 2004 04:23 PM <a href="#c683">#</a></p>
+
+</div><div id="c684">
+
+<p>I really hope Ron EarlE can do his job.</p>
+
+<p class="posted">posted by bryan at March 13, 2004 06:54 PM <a href="#c684">#</a></p>
+
+</div><div id="c687">
+
+<p>I&#8217;m always so ambivalent with these stories&#8230; it&#8217;s almost like the bad guy trying to take down the badder, since all any of them seem to care about is greed and power. Even civil rights groups want to have their name tacked on to everything to prove how righteous they are. Just a thought.</p>
+
+<p class="posted">posted by <a href="http://www.bonwell.net">Bonwell</a> at March 15, 2004 08:56 PM <a href="#c687">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/2002/001185.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/mt-comments.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1185" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /><br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

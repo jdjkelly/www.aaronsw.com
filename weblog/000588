@@ -1,0 +1,43 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Wayback Machine Adds Diff (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/000588.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000587" title="CodeCon 2003" />	<link rel="next" href="000591" title="The Last Straw" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Wayback Machine Adds Diff</h1>
+</div>
+
+<div class="content">
+<p>The Wayback Machine has added support for diffing two updates, using technology licensed from DocuComp. HTML Diff is extremely difficult and they do a half decent job, but it&#8217;s got plenty of room to improve. Here&#8217;s <a href="http://docucomp.archive.org/cgi-bin/dc_compare.cgi?urls=http%3A%2F%2Fweb.archive.org%2Fweb%2F20010920170807%2Fhttp%3A%2F%2Fwww.scripting.com%2F&urls=http%3A%2F%2Fweb.archive.org%2Fweb%2F20010920225746%2Fhttp%3A%2F%2Fwww.scripting.com%2F">an example featuring two Scripting News Pages from the same day</a>.</p>
+
+<p class="posted">posted September 11, 2002 10:37 PM (<a class="category" href="cat_technology">Technology</a>)  <a href="000588" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000587" title="CodeCon 2003">&laquo; prev</a> | <a href="./">up</a> | <a href="000591" title="The Last Straw">next &raquo;</a></p>
+
+<p><a href="000578">Pepper Author Speaks Out</a><br />
+<a href="000579">iCal!</a><br />
+<a href="000582">RSS 3.0 Update</a><br />
+<a href="000585">More Crazy Haxies</a><br />
+<a href="000587">CodeCon 2003</a><br />
+<strong>Wayback Machine Adds Diff</strong><br />
+<a href="000591">The Last Straw</a><br />
+<a href="000593">Santa Cruz Hands out Marijuana at City Hall</a><br />
+<a href="000594">More Myopia</a><br />
+<a href="000596">Kragen Explains the Sunlight Effect</a><br />
+<a href="000598">Apple Expo Paris News</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

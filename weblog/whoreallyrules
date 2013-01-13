@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Who Really Rules? (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Who Really Rules?</h1>
+
+<p><em>Who Really Rules?</em>, by G. William Domhoff, is one of my very favorite books. But explaining why will take some background. In the 1950s and 60s researchers were looking at what they called the &#8220;power structure&#8221; in American cities &#8212; the people who really pulled the strings and called the shots. Foremost among them was Floyd Hunter, whose study of Atlanta practically invented the field. Naturally the whole notion that anyone was pulling the shots behind the scenes in America offended the deans of mainstream liberal political science and so their leader, Robert A. Dahl, set out to defend democracy&#8217;s good name.</p>
+
+<p>He argued that one could only figure out who was in charge by doing careful case studies &#8212; looking at controversial decisions and seeing who was involved in making them &#8212; that and only that could tell you where true power lay. And, in his most famous work, <em>Who Governs?: Democracy and Power in an American City</em> he aimed to do just such a case study in his hometown of New Haven, where his employer, Yale University, resides.</p>
+
+<p>Dahl proposed a theory called pluralism in which no small elect is in charge but power is instead shared across conflicting groups, each marshaling its own resources on the issues it feels strongly about. Democracy, although perhaps in a more sophisticated form, is vindicated, and the ridiculous notions of a shadowy elite disproven. As Dahl writes:</p>
+
+<blockquote>
+  <p>It is all the more improbable, then, that a secret cabal of Notables dominates the public life of New Haven through means so clandestine that not one of the fifty prominent citizens interviewed in the courts of this study&#8212;citizens who had participated extensively in various decisions&#8212;hinted at the existence of such a cabal; so clandestine, indeed, that no clues turned up in several years of investigation led to the door of such a group. (185)</p>
+</blockquote>
+
+<p>Of course that wasn&#8217;t quite true. Domhoff was skeptical of Dahl&#8217;s results and decided to request access to his source material and reresearch the matter for himself. In going through Dahl&#8217;s interview notes, Domhoff found these choice comments:</p>
+
+<blockquote>
+  <p>First Informant said that [contacting the First National Bank] was essential, that they had to deal with what he called the &#8220;power structure&#8221; if they wanted to accomplish anything. First Informant kept emphasizing the &#8220;power structure.&#8221;</p>
+  
+  <p>According to Second Informant, nothing gets done without the First National Bank saying so. According to him, it is &#8220;at the top of the power structure.&#8221; &#8230; I asked him why &#8230; [and he] said, &#8220;Just look at who&#8217;s on its board of directors.&#8221; &#8230; He said, &#8220;The bank&#8217;s support is necessary for anything that is done in this town including redevelopment.&#8221; (Sounds like a quote from Hunter.)</p>
+</blockquote>
+
+<p>But, of course, Dahl wanted to disprove Hunter, not sound like him, so he never followed up on these leads. But Domhoff does. In the intellectual battle over which version of how cities work is more accurate, he scores a decisive victory over Dahl. He not only takes Dahl&#8217;s method, he also takes Dahl&#8217;s town and indeed his specific case study and shows how the decisions were made by a sinister cabal after all.</p>
+
+<p>And his results are much more convincing. Dahl, after all, was trying to prove a negative: that there <em>wasn&#8217;t</em> anyone pulling the strings. Whereas Domhoff can simply point out who was. Dahl&#8217;s central case study is the question of New Haven urban renewal. A bold Democratic mayor, he claims, came into office and proposed a plan, dragging local businessmen and Federal officials along with him to get it done.</p>
+
+<p>Nonsense, says Domhoff. The plan for urban renewal was drafted by the local chamber of commerce years before. And when the new mayor got elected, the Chamber of Commerce invited him to lunch and explained the whole thing. They even told the mayor who to hire to carry the plan out and, in the end, got exactly what they&#8217;d wanted all along.</p>
+
+<p>But Domhoff doesn&#8217;t simply prove Dahl wrong. He gives an engrossing case study of how powerful businessmen get things like this done, based on extensive archival research and contemporaneous notes. And he tells an entire alternative history of American urban renewal, showing how big business turned a plan to build housing for the poor into an excuse to expel them to make room for upscale businesses.</p>
+
+<p>The result is a <em>tour de force</em>: a complete demolition of one of the most influential books of political science, an engrossing case study of how power really operates, and an example of how to do research into the people who, after all, really rule.</p>
+
+<ul>
+<li><a href="http://sciencethatmatters.com/archives/25">My summary of Domhoff&#8217;s book</a></li>
+<li><a href="http://sociology.ucsc.edu/whorulesamerica/power/new_haven.html">An updated, enhanced, and online version of Domhoff&#8217;s book</a></li>
+<li><a href="http://openlibrary.org/b/OL8091744M/Who-Really-Rules%3F">Domhoff&#8217;s book itself</a></li>
+</ul>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">March 23, 2009</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>What persons/organizations constitute the cabal that gave us our current leadership, i.e. Obama and the Democratic Legislature?</p>
+
+<p class="posted">posted by frint frinterson
+ on March 23, 2009 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="whoreallyrules" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

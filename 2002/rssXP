@@ -1,0 +1,34 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+  <title>RSS: XHTML Profile</title>
+</head>
+<body>
+<div id="head">
+<p><a href="/">Aaron Swartz</a></p>
+  <h1>RSS: XHTML Profile</h1>
+</div>
+<div class="content">
+<p><strong>Draft.</strong> [<a href="/weblog/000738">history and introduction</a>] <a href="mailto:rssxp@aaronsw.com">Send your comments.</a></p>
+<p>If you use <a href="http://www.aaronsw.com/2002/rssXP?">this URI</a> as a profile in your document, then:</p>
+<ul>
+<li>the value of the <code>&lt;title></code> is the title of your site</li>
+<li>(optional)the element with <code>class="description"</code> contains a short description</li>
+<li>each element with <code>class="item"</code> on your page is an item, inside which:<ul>
+	<li>the element with <code>class="title"</code> is the item's title</li>
+	<li>everything else is the content of the item</li>
+	<li>the link with <code>rel="bookmark"</code> is the URI of the item</li>
+	<li>(optional) the element with <code>class="date"</code> is the date</li>
+</ul></li>
+</ul>
+
+<form method="get" action="http://www.w3.org/2000/06/webdata/xslt"
+<p>I modified <a href="http://www.w3.org/2000/08/w3c-synd/home2rss.xsl">Dan Connolly's stylesheet</a> to implement part of this:</p>
+<input type="hidden" name="xslfile" value="http://www.aaronsw.com/2002/rssXP2rss" />
+<p>URI: <input name="xmlfile" type="text" value="http://www.aaronsw.com/weblog/" /> <input type="submit" value="Convert" /></p>
+</form>
+
+</div>
+<div class="footer">
+  <address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</div></body>
+</html>

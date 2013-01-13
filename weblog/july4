@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>SFP: The Spirit Inside (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>SFP: The Spirit Inside</h1>
+
+<p>The sun has set leaving the street lights to cast everything in an eerie yellow glow. People from all over the city leave their houses, joining the growing mass that has taken over the streets carless streets. As the group passes darkened empty buildings, old men stand by the side of the road selling colored luminences. An orchestral soundtrack begins to fade up.</p>
+
+<p>As the group nears the river, the actual size of the proceedings becomes apparent. The entire riverside and its attached street has become inhabited, people bustling back and forth, setting up shop on various patches of grass, laughing and talking. The orchestral score grows louder, coming from a hulking monolith in the sky.</p>
+
+<p>The tune becomes recognizable as the 1812 Overture, reaching its finale. People begin to gasp and point to the other side of the river. &#8216;What&#8217;s going on?&#8217; asks Simon. Before I can reply light begins to shoot out from the ground up to the sky, exploding in a luminous pattern that leaves shards of fire and smoke lingering in the sky.</p>
+
+<p>The music stops.</p>
+
+<p>&#8216;And that was the world-famous Boston Pops playing their signature piece, the 1812 Overture,&#8217; reports a perky female voice from the loudspeaker. &#8216;And a little taste of the fireworks that are yet to come,&#8217; adds the male. &#8216;In just a moment we&#8217;ll be joined by the national audience, so stay tuned to the Boston Pops 4th of July Fireworks Spectacular on CBS!&#8217;</p>
+
+<p>Simon and I find a spot on the grass to sit down as the loudspeaker encourages us to support our corporate and governmental masters. Members of the military are praised for their service. (Even as popular support for the war continues to dwindle, it&#8217;s comforting to see that at least the major television networks will support our babykillers.<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>) &#8216;And tonight&#8217;s fireworks display is presented commercial free for the first time through the generosity of Liberty Mutual. Why don&#8217;t you all show how much you appreciate Liberty Mutual?&#8217; asks the loudspeaker. The crowd, who I didn&#8217;t even think was listening, loudly thanks Liberty Mutual.</p>
+
+<p>The orchestra prepares us for the show with a medley of American songs, ranging from &#8220;Yankee Doodle Dandy&#8221; to &#8220;YMCA&#8221; (which we all do the hand motions for, except Simon). Then, for the TV audience, they present <a href="http://www.ouramerica2005.com/">an incredibly awful</a> combination of combination of country music, hollowed rhetoric, and false patriotism.</p>
+
+<p>But soon enough the fireworks begin and they are indeed spectacular. I can&#8217;t say I&#8217;m up on my fireworks but the show is much better-choreographed and impressive than everything I&#8217;d seen at home. The show lasted nearly half an hour with numerous tunes played, the best being U2&#8217;s &#8220;Vertigo&#8221;, during which large cubes appeared in the sky precisely as they counted off. I also saw smiley faces, supernovae, and an odd sort of color package. Technology!</p>
+
+<p>And then, our eardrums battered, the whole thing exploded in a finale that lit up the entire sky. And then we all walked home. It&#8217;s nice living just a block away from the most spectacular fireworks display in the galaxy.</p>
+
+<div class="footnotes">
+<hr />
+<ol>
+
+<li id="fn:1">
+<p>I have no problem with the troops as people &#8212; I&#8217;m sure there as good as anyone &#8212; but it wasn&#8217;t the people that the media was supporting. They were suggesting the job itself was praiseworthy; it&#8217;s not.&#160;<a href="#fnref:1" rev="footnote">&#8617;</a></p>
+</li>
+
+</ol>
+</div>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">July  5, 2005</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="july4" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

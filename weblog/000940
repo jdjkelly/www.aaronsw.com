@@ -1,0 +1,63 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Recording Industry v. Deep, John (The Aimster Case) (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000939" title="Eldred Petition" />	<link rel="next" href="000970" title="Guilty Pleasures" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Recording Industry v. Deep, John (The Aimster Case)</h1>
+</div>
+
+<div class="content">
+<p>I went to the Aimster Case today. This case is important because it will set an important precedent about what software is illegal. The current law is the <cite>Sony Betamax</cite> (hereafter <cite>Sony</cite>) case which famously <a href="http://www.eff.org/Legal/Cases/sony_v_universal_decision.html">ruled that time-shifting (copying a show to watch it later) was legal and that the VCR was legal because it had a substantial noninfringing use (timeshifting)</a>. The Recording Industry wants to rewrite or weaken Sony Betamax so that it can get more peer-to-peer software declared illegal, but this would have wide-ranging effects for any software that deals with copyrighted material (which is essentially all software since essentially everything is copyrighted).</p>
+
+<p>Aimster (now <a href="http://www.madster.com/">Madster</a>, due to AOL asserting its trademark on AIM, as I recall) is, as I understand it, a program that lets you search the hard drives of the people on your AIM buddy list and download files from them. It’s mostly used for (surprise!) sharing MP3s.</p>
+
+<p>I got there a little late, but I got in and sat down quickly. The courtroom is a big black box with a ceiling of fluorescent lighting and painted portraits of (presumably) justices on the wall. Very nice, but not quite as regal as the Supreme Court. Judges Ripple, Posner, and Williams heard the case.</p>
+
+<p>When I was getting there Deep’s lawyer was trying to make the case that Aimster consisted of several separate components. Deep’s lawyer was hesitant and stumbled a lot and was clearly not familiar with the details of the software. There was some talk about the details of what was necessary to be guilty of contributory infringement: Deep’s lawyer seemed to indicate that advertising the software for infringing use was not enough, that the software had to have functional aspects that encouraged the infringing use. Posner then questioned whether a software/service like Aimster could really use the <cite>Sony</cite> standard, which was for hardware. Then Posner hammered him with technical questions about the software he couldn’t answer until his time was up.</p>
+
+<p>The MPAA’s lawyer was much more confident and familiar with the details of the software, and answered some of the judge’s questions with a slanted perspective. He pointed out that there were no screenshots or evidence in the record of Aimster being used for a non-infringing use. Posner then asked for his definition of contributory infringement. He argued it was a material contribution with knowledge. Posner pointed out <cite>Sony</cite> would fail this test. The MPAA lawyer maintained that <cite>Sony</cite> actually provided a narrow exception to this general rule. He also tried to imply that <cite>Sony</cite> was mostly based on facts of the specific case and is not directly applicable here, but Posner wasn’t buying that.</p>
+
+<p>The MPAA’s lawyer tried to make a distinction about harm and Posner asked him where the evidence was that Aimster was causing any harm. He said that there was no direct evidence of harm, but they did have testimony from Record Industry execs saying that they couldn’t sell music online because of Aimster. He also slipped up and said “we” but corrected himself to say “our clients”. </p>
+
+<p>The MPAA’s lawyer again clarified his theory of Sony providing a limited defense, but Posner said this was a “creative reading” and pointed out the substantial non-infringing use test. The MPAA’s lawyer responded that the non-fringing use had to be of substantial commercial impact. </p>
+
+<p>Posner asked how to distinguish between AIM, whose chatroom software can be used for infringement, and Aimster. He seemed to imply he didn’t want to have a decision that AIM would be guilty of contributory copyright infringement. The MPAA lawyer had three responses. The first I didn’t get, the second said it was not commercially significant, and the third said AOL had <a href="http://www.chillingeffects.org/dmca512/">DMCA Safe Harbor</a> protection. Posner wondered why Aimster didn’t get this protection. </p>
+
+<p>The MPAA’s lawyer also noted that Aimster had an ongoing relationship with their user: they resumed downloads and cleared firewalls for them. (I’m not sure, but this sounds bogus.) He said <cite>Sony</cite> did not provide a defense for Aimster.</p>
+
+<p>Posner wondered whether Aimster might be guilty of vicarious infringement but not contributory and whether there was anything to be gained by pursuing both theories. Judge Williams commented that vicarious seemed like a fallback claim. The MPAA lawyer conceded that having both claims wouldn’t really make a difference in terms of damages, but they’d like both.</p>
+
+<p>Then the court dismissed for a recess. Judge Ripple was silent the whole time I was there. I left soon after that.</p>
+
+<p class="posted">posted June 04, 2003 01:51 PM (<a class="category" href="cat_politics">Politics</a>)  <a href="000940" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000939" title="Eldred Petition">&laquo; prev</a> | <a href="./">up</a> | <a href="000970" title="Guilty Pleasures">next &raquo;</a></p>
+
+<p><a href="000934">Dave Winer Keynote</a><br />
+<a href="000935">Like Father Like Son</a><br />
+<a href="000936">Something&#8217;s Coming</a><br />
+<a href="000938">Joss Update</a><br />
+<a href="000939">Eldred Petition</a><br />
+<strong>Recording Industry v. Deep, John (The Aimster Case)</strong><br />
+<a href="000970">Guilty Pleasures</a><br />
+<a href="000972">Ask Dr. Law: Piercings and the First Amendment</a><br />
+<a href="000977">A Clean, Well-Lighted Place for Specs</a><br />
+<a href="000978">The Voice of America</a><br />
+<a href="000981">Algorithm for Determining Imagination from Reality</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

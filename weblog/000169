@@ -1,0 +1,51 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>CSS: Client-side rendering rules (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/000169.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000168" title="Students, Teachers and Dragons" />	<link rel="next" href="000170" title="CodeCon Wrapup" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>CSS: Client-side rendering rules</h1>
+</div>
+
+<div class="content">
+<p>There have been a lot of questions about CSS and its uses in the last few weeks, so I thought I&#8217;d throw in my two cents. Basically, it&#8217;s just a system for controlling the look of your site. Like server-side templates languages and content management systems, CSS lets users modify the look of their whole site by changing one file. In short, CSS is a system of client-side rendering rules. Let&#8217;s break this down&#8230;</p>
+
+<p>CSS is client-side. This means it can do things that server-side systems can&#8217;t, or usually don&#8217;t. CSS lets users choose how they want the page to look using <a href="http://www.alistapart.com/stories/alternate/">alternate stylesheets</a>, let&#8217;s you adjust settings based on <a href="http://www.w3.org/TR/REC-CSS2/media.html">media types</a> (desktop, handheld, telephone, television, etc.), allows users to override settings with <a href="http://www.oreillynet.com/pub/a/network/2000/07/21/magazine/css_anarchist.html">user stylesheets</a> (making the default font size bigger, get rid of ad banners, etc.).</p>
+
+<p>CSS is a rendering language, which means that it changes the look of the page. Often this will be done by the templating languages in CMSs like <a href="http://radio.userland.com/">Radio</a>, <a href="http://manila.userland.com/">Manila</a> or <a href="http://www.movabletype.org/">Movable Type</a>. Because it&#8217;s separated from the HTML, you can continue writing your web pages like you always have, and a special CSS designer (even one who doesn&#8217;t have write access to your website!) can work on the graphic design. Although, in my experience, CSS&#8217; ease-of-use has allowed me (and I am terrible at designing sites) to create some decent-looking pages.</p>
+
+<p>CSS is unlike most templating languages in that it&#8217;s rules-based. Like the <a href="http://frontier.userland.com/stories/storyReader$3469">pikeRenderer rules</a>, you provide a bunch of attributes (font-family, color, weight, text-decoration) and apply them to a bunch of elements (specifications for sets of HTML tags). CSS even lets you change little things like the size of an &lt;h2> header or the background color of a link. You can do all of this without modifying the HTML at all, letting the HTML simply store the content and CSS take care of the presentation.</p>
+
+<p>CSS has it&#8217;s flaws of course: it can&#8217;t rearrange the structure or order of a page, it doesn&#8217;t let you add content like logos or navigation bars and it has compatibility problems in some browsers. But despite it&#8217;s flaws, it&#8217;s a very useful tool for those who want greater control over the look of their website. I hope that others find it as useful as I do.</p>
+
+<p class="posted">posted February 18, 2002 10:29 PM (<a class="category" href="cat_technology">Technology</a>)  <a href="000169" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000168" title="Students, Teachers and Dragons">&laquo; prev</a> | <a href="./">up</a> | <a href="000170" title="CodeCon Wrapup">next &raquo;</a></p>
+
+<p><a href="000164">The Decline and Fall of ArsDigita</a><br />
+<a href="000165">My Flamboyant Grandson</a><br />
+<a href="000166">CodeCon!</a><br />
+<a href="000167">EarthWeb by Marc Stiegler</a><br />
+<a href="000168">Students, Teachers and Dragons</a><br />
+<strong>CSS: Client-side rendering rules</strong><br />
+<a href="000170">CodeCon Wrapup</a><br />
+<a href="000171">The Copyright Tax</a><br />
+<a href="000172">Goodbye, Brent.</a><br />
+<a href="000173">Aaron&#8217;s Photo Albums</a><br />
+<a href="000174">Aaron joins Creative Commons as RDF Advisor</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

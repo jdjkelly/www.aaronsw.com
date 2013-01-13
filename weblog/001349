@@ -1,0 +1,312 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Priorities (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001349.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001348" title="Watch the Comedians: The Daily Howler" />	<link rel="next" href="001369" title="Watch the Comedians: Fafblog!" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Priorities</h1>
+</div>
+
+<div class="content">
+<p><a href="http://www.corante.com/copyfight/archives/004408.html">INDUCE Act</a>, Sen. Orrin Hatch (R-UT):</p>
+
+<blockquote>
+  <p>Whoever intentionally induces any violation [of copyright law] shall be liable as an infringer.</p>
+</blockquote>
+
+<p><a href="http://www.csgv.org/research/votes/keyvotes108/">Protection of Lawful Commerce in Arms Act</a>, Sen. Larry Craig (R-ID):</p>
+
+<blockquote>
+  <p>a civil action brought by any person against a manufacturer or seller of &#8230; a firearm &#8230; may not be brought in any Federal or State court. </p>
+</blockquote>
+
+<p class="posted">posted June 22, 2004 12:15 PM (<a class="category" href="cat_politics">Politics</a>) (<a href="#comments">11 comments</a>) <a href="001349" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001348" title="Watch the Comedians: The Daily Howler">&laquo; prev</a> | <a href="./">up</a> | <a href="001369" title="Watch the Comedians: Fafblog!">next &raquo;</a></p>
+
+<p><a href="001336">Weblogs: More Driving by the Rear-View Mirror (or, Static Documents by One Person)</a><br />
+<a href="001337">The End of Professionalism: Why do talk radio hosts and Times reporters have no talent?</a><br />
+<a href="001343">Who makes a movie?</a><br />
+<a href="001347">Watch the Comedians: The Daily Show</a><br />
+<a href="001348">Watch the Comedians: The Daily Howler</a><br />
+<strong>Priorities</strong><br />
+<a href="001369">Watch the Comedians: Fafblog!</a><br />
+<a href="001370">Justice Thomas and the Case-Dodgers</a><br />
+<a href="001371">When can I keep an enemy combatant?</a><br />
+<a href="001372">Why Ralph Runs</a><br />
+<a href="001373">What is going on at the Supreme Court?</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c2392">
+
+<p>(Hat tip: <a href="http://www.pycs.net/bbum/2004/5/11/#200405111">bbum</a>.)</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2392">Aaron Swartz</a> at June 22, 2004 12:15 PM <a href="#c2392">#</a></p>
+
+</div><div id="c2397">
+
+<p>If you think of firearms as being one of the most necessary requirements of a free society, than those priorities make more sense.  :-)</p>
+
+<p>My only problem with your comparison is not that it crtiticizes the former, but that it seems to criticize the latter.</p>
+
+<p>I think allowing civil suits against fast food companies, gun companies, and the rest are ridiculous, except in the case where those companies are guilty of fraud, negligience, etc.  This is why I support the tobacco suits, largely, because those companies had committed significant fraud.  Fast food companies don&#8217;t commit fraud in general, but when they do, they should be prosecuted; they should not be prosecuted for people deciding to eat too much.</p>
+
+<p>The overwhelming majority of the fast food cases, and the civil gun cases, represent one of two things: either someone attempting to simply make money any way they can, or someone attempting to bypass the law by legislating through the civil courts.</p>
+
+<p>NY Attorney General Eliot Spitzer is upset that the Congress won&#8217;t pass laws mandating trigger locks.  There are state laws, but no federal laws.  So he sues Smith &amp; Wesson, with the specific intent of forcing the whole industry to adopt a nationwide policy: they would only be able to sell through dealers who would accept restrictions on all guns they sold.</p>
+
+<p>The plan backfired, as dealers instead dropped S&amp;W, instead of requiring the restrictions for all the guns they sold.  Score one for capitalism.  Of course, Spitzer is threatening the other companies with lawsuits, too.</p>
+
+<p>Spitzer says he acts when government does not.  The problem is that he <em>shouldn&#8217;t</em>.  If government is not acting, then he should live with it, or work to fix the government.  If the people want trigger locks, they should have them: they shouldn&#8217;t have locks forced on them by an attorney general, let alone one from only one of the states.</p>
+
+<p>So normally I would be against legislation protecting a single industry.  The problem is that I am against legislation through litigation even more, so if that&#8217;s what it takes, then OK.  To draw an analogy: I am against recess apppointments to bypass Senate confirmations, but I am moreso against using the filibuster to block a vote on a nominee.</p>
+
+<p>I won&#8217;t bother to attack the INDUCE act (preaching and choirs come to mind :-).</p>
+
+<p class="posted">posted by <a target="_blank" title="http://slashdot.org/~pudge/journal" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2397">pudge</a> at June 23, 2004 12:34 AM <a href="#c2397">#</a></p>
+
+</div><div id="c2399">
+
+<p>Could this happen anywhere else than in the land of the free and brave?  Do whatever you like, but don&#8217;t mess with big companies&#8230;</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.lefdal.cc/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2399">Alf Kåre Lefdal</a> at June 23, 2004 12:03 PM <a href="#c2399">#</a></p>
+
+</div><div id="c2402">
+
+<p>Umm, I think he <em>is</em> criticizing the latter.</p>
+
+<p>Normally I&#8217;m opposed to limiting liability. However, keep in mind that a) lawyers are overpaid because they&#8217;re a guild (i.e. state bar exams), and b) lawyers are working contingency on behalf of the plaintiffs in cases brought against gun manufacturers (and losing), but there really isn&#8217;t much point in working contingency for the defense, because the defense doesn&#8217;t get any money if they win!</p>
+
+<p>Conclusion: lawyers are bullying gun manufacturers, essentially extorting them for money. I guess Aaron likes lawyers.</p>
+
+<p>I&#8217;d be perfectly happy to allow lawyers to sue gun manufacturers all they want as soon as they eliminate licensing of the legal profession so that the lawyer good ol&#8217; boys can&#8217;t stifle competition.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://undergroundeconomist.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2402">Sean Lynch</a> at June 23, 2004 10:13 PM <a href="#c2402">#</a></p>
+
+</div><div id="c2406">
+
+<p>Hmmm&#8230;wasn&#8217;t Hatch the one busted for using pirated software on his website? Why, yes, yes he was. Interesting that he&#8217;s involving himself in copyright law.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.zacheverson.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2406">Zach</a> at June 28, 2004 12:01 PM <a href="#c2406">#</a></p>
+
+</div><div id="c2407">
+
+<p>pudge: The point of torts are to solve a problem with capitalism: EvilCarCo saves $5 by not including a safety sprocket, but ends up tearing off the legs of 12 people. Obviously those 12 people&#8217;s legs were worth $5; torts allow the 12 to sue EvilCarCo for the damage they&#8217;ve done. The idea is they&#8217;ll look at the $5 and they&#8217;ll look at what they&#8217;ll have to pay in a lawsuit, and they&#8217;ll do the right thing.</p>
+
+<p>Do you think we should get rid of these torts altogether? If not, can you explain how &#8220;legislative lawsuits&#8221; are different from normal tort suits, and why they shouldn&#8217;t be permitted? And is the suit against EvilCarCo a legislative lawsuit? Should a law requiring safety sprockets be passed instead?</p>
+
+<p>As for my point, it is that it appears some Congressmen think protecting copyrights is more important than protecting people. (If you distribute iPods you have to pay up; if you distribute guns you don&#8217;t.)</p>
+
+<p>As for my position, I oppose both bills. My feeling is that if the tort system is being abused (and I&#8217;m not sure it is), the underlying problem should be remedied instead of putting a protective barrier around one group. As pudge notes, similar problems affect the fast food industry and others. And it seems wrong to shield, say, McDonalds from all claims just because a few are abusive.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2407">Aaron Swartz</a> at June 28, 2004 12:52 PM <a href="#c2407">#</a></p>
+
+</div><div id="c2408">
+
+<p>Sean: I feel that &#8220;practicing law without a license&#8221; should not be a crime, but I don&#8217;t see why allowing it would reduce the cost of lawyers that much. Wouldn&#8217;t most people still want lawyers who went to accredited schools and passed the bar exam, even if it wasn&#8217;t required?</p>
+
+<p>I also agree that things are overly slanted to the plaintiff, although my concern is more about large companies filing massive quantities of copyright lawsuits against average people who can&#8217;t afford a lawyer. Now that <em>is</em> extortion.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2408">Aaron Swartz</a> at June 28, 2004 12:58 PM <a href="#c2408">#</a></p>
+
+</div><div id="c2410">
+
+<p>Actually, the point isn&#8217;t the bar exam itself but the fact that the state bar associations are able to control the number of people who become attorneys every year by setting the pass rate, thus making the bar exam into a throttle choking the flow of lawyers rather than just a bar people must jump over to become lawyers. My main objection is to the fact that existing lawyers can move the &#8220;bar&#8221; up and down rather than having the bar set by the people who should be setting it: consumers of legal services.</p>
+
+<p>It is my opinion that the cost of legal services would go down significantly without this system. If that were not the case, why would the existing lawyers need to be exerting control over the number of new lawyers?</p>
+
+<p>I think you should be concerned about people on both ends. The gun manufacturers who are being sued are not large corporations. They are medium-sized businesses being sued by lawyers. The &#8220;victims&#8221; behind the class actions are being used by the lawyers to make money. Of course, if the &#8220;victims&#8221; also make money they&#8217;ll be happy, but it&#8217;ll be at the expense of my ability to buy an inexpensive gun to defend myself. When I bought my Glock, I already had to pay for a piece of crap lock that I don&#8217;t use. The Glock stays loaded by my bed. </p>
+
+<p>In the case of corporations suing individuals for copyright infringement, well, the coporations and lawyers are hard to distinguish from one another in those cases. Having cheaper legal services available to the defendant in each of those cases would make this a better world. Cheaper legal services for the plaintiffs would make little difference, though it would help big time in lawsuits where the plaintiff is truly harmed and doesn&#8217;t have a lot of money.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://undergroundeconomist.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2410">Sean Lynch</a> at June 28, 2004 03:52 PM <a href="#c2410">#</a></p>
+
+</div><div id="c2413">
+
+<p><em>pudge: The point of torts are to solve a problem with capitalism:</em></p>
+
+<p>No, they are to redress grievances, not specific to capitalism (but certainly inclusive of it).  Regardless, they are designed to fill in the blanks where legislation does not exist, or to fulfill legislation that does, but not to bypass legislation.</p>
+
+<p><em>can you explain how &#8220;legislative lawsuits&#8221; are different from normal tort suits</em></p>
+
+<p>I just did, but let me restate it in a different way:</p>
+
+<p>It&#8217;s where the lawsuit is designed to change behaviors of people or companies against the will of the people as expressed through their legislators, which is clearly the case with guns, for example.  Our legislators chose specifically not to require trigger locks, so they should not be required.  Our legislators chose specifically to allow gun sales, so the misuse of those guns should not make those sellers and manufacturers liable.</p>
+
+<p><em>As for my point, it is that it appears some Congressmen think protecting copyrights is more important than protecting people.</em></p>
+
+<p>I think the way you frame it is unreasonable.  First, do you know that the same Congressmen promoted both?  I wouldn&#8217;t be surprised, but I don&#8217;t know if you know it for a fact.</p>
+
+<p>But more importantly, this is not about protecting people, but protecting rights.  To be against legislation through litigation cannot reasonably be said to be not for protecting people, but for protecting people the proper way.</p>
+
+<p>I think if Hatch were for both acts, a reasonable thing to state would be that he is more for protecting the rights of corporations than of individuals.</p>
+
+<p>Now, just to be clear, the INDUCE Act and the Guns/Commerce act are not analgous.  One is about protecting the integrity of the democratic process, and the other is about going after people because their innocuous speech was used illegally.  On the surface they seem similar, but they really aren&#8217;t.</p>
+
+<p>That said, the Guns act still represents an underlying view about who is and is not liable for a crime, which is what you&#8217;re talking about.  But it&#8217;s a view I wholeheartedly support, and it isn&#8217;t because I am not interested in protecting people, but because I <em>am</em> interested in protecting their rights.</p>
+
+<p>So I am for the Guns act, and against the INDUCE Act, as everyone who values <em>all</em> of the Bill of Rights, and the integrity of the democratic process, should be.  I agree that it seems wrong to specifically shield one company, or one industry, which is why I explained the reason for it.  Perhaps a better way would be to have a general law that shields corporations who sell a legal product that is misused, where no negligience on behalf of the company is at issue, and where nothing unknown about that product contributed to the problem.</p>
+
+<p>This would shield most gun manufacturers from charges stemming from murder by their guns, as well as fast food businesses where all the nutritional information is posted publically.  It would not protect McDonald&#8217;s when it uses animal fat in its french fries and says they are vegetarian, or a gun manufacturer whose guns can be easily converted to be semi-automatic, or a tobacco industry that lies about the health problems of its product for many years.</p>
+
+<p>I don&#8217;t know if such a law is viable, but as long as it isn&#8217;t there, and as long as we have legislation through litigation, I&#8217;ll continue to support such targeted actual legislation as necessary.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://slashdot.org/~pudge/journal" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2413">pudge</a> at June 28, 2004 08:42 PM <a href="#c2413">#</a></p>
+
+</div><div id="c2419">
+
+<p>pudge says that he opposes torts which &#8220;change behavior&#8221; against &#8220;the will [of] legislators&#8221;. Since Congress has passed a law against selling some guns, but not all of them, they clearly want selling guns to be legal. Punished someone for selling a gun would be a legislative lawsuit.</p>
+
+<p>I still don&#8217;t see how this distinguishes my safety sprocket example. Government has legislated other things like seat belts, so under pudge&#8217;s system they think it&#8217;s OK to sell cars without safety sprockets, and a lawsuit punishing BigCarCo would go against their will. Right?</p>
+
+<p>pudge also says anyone who values all of the Bill of Rights would support the Guns act and oppose the INDUCE Act. I see how the INDUCE Act can affect the freedom of speech, but I don&#8217;t see how forcing gun makers to include trigger locks would infringe the right to bear arms. (I&#8217;m probably misunderstanding the amendment or lawsuit pudge is referring to.)</p>
+
+<p>pudge proposes &#8220;a general law that shields corporations who sell a legal product that is misused, where no negligience on behalf of the company is at issue, and where nothing unknown about that product contributed to the problem&#8221;. Maybe I&#8217;m missing something, but I&#8217;ve never heard of such a tort. It&#8217;s probably because of my lack of knowledge on the subject, but it seems to me that pudge is afraid of a problem that doesn&#8217;t exist.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2419">Aaron Swartz</a> at June 28, 2004 10:53 PM <a href="#c2419">#</a></p>
+
+</div><div id="c2420">
+
+<p><em>I still don&#8217;t see how this distinguishes my safety sprocket example.</em></p>
+
+<p>I&#8217;d wager you&#8217;re the only one.</p>
+
+<p><em>Government has legislated other things like seat belts, so under pudge&#8217;s system they think it&#8217;s OK to sell cars without safety sprockets</em></p>
+
+<p>Surely you realize how flawed your reasoning is.  No one can doubt that Congress desires the sale of some guns to remain legal.  No one.  This does not apply to your silly example.</p>
+
+<p><em>pudge also says anyone who values all of the Bill of Rights would support the Guns act and oppose the INDUCE Act. &#8230; I don&#8217;t see how forcing gun makers to include trigger locks would infringe the right to bear arms.</em></p>
+
+<p>I didn&#8217;t say what you say I said.  There was an &#8220;and&#8221; that you missed, regarding the integrity of the democratic process.</p>
+
+<p><em>Maybe I&#8217;m missing something, but I&#8217;ve never heard of such a tort.</em></p>
+
+<p>You&#8217;ve never heard of a lawsuit where a company was sued for the misuse of a legal product, where no negligience was found on behalf of the company, and where nothing unknown about that product contributed to the problem?</p>
+
+<p>It&#8217;s the very thing I&#8217;ve been talking about: trigger locks!  Not including a trigger lock is not negligience, any more than not including a gun safe with the gun is negligience.  Same thing goes for fast food, where nutrition information is clearly provided.</p>
+
+<p>What you&#8217;re pretending is corporate negligience is really pretending that corporations are responsible for the negligience of the consumer.  You say you are interested in individual liberties, but that necessarily implies individual responsibilities, which you seem far too eager to give up.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://slashdot.org/~pudge/journal" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2420">pudge</a> at June 29, 2004 12:56 AM <a href="#c2420">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001349.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1349" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Two Conceptions of Taste (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Two Conceptions of Taste</h1>
+
+<p>Taste is difficult to define and even harder to justify, so let us just take it for granted for a moment. (Alright, for those who don&#8217;t get the picture, here&#8217;s a quick attempt: taste is the ability to create elegance. The people who made the iPod clearly have taste; the people who made Windows do not.) Unfortunately for me, it seems like a lot of people in the US don&#8217;t have much taste. (Try watching the infographics on the network evening news, for example.) But even among people who have taste, I&#8217;ve noticed there are two kinds: positive and negative.</p>
+
+<p>Negative taste is the ability to tell when something is bad. Positive taste is the ability to make something that is good. Indeed, one might even say that there is only one kind of taste and positive taste is simply negative taste plus skills. But since taste is generally inferred from creations, it&#8217;s probably simpler to treat them as two different things.</p>
+
+<p>People with negative taste can make things that look really nice, but they also look very plain. I think the founders of Google have negative taste. John Gruber, as far as I can tell, mostly does. Same with Paul Graham. (As do I, for that matter.) People with negative taste make things by trying something very simple and then stripping away pieces until it looks good. They can detect goodness, but not create it, so they&#8217;re limited to designs with very few variables, because then they can go thru all the options and pick out the ones that look OK.</p>
+
+<p>People with positive taste, on the other hand, can make things that genuinely look good. This gives them a lot more freedom in their designs (they can use colors other than white!). Truly good designers have positive taste. Unfortunately for people like us, Apple seems to have hired most of them and put them to work building fairly bland web sites.</p>
+
+<p>Of course, taste applies to far more fields than design. One could apply the same idea to writing. Positive taste writers can write beautiful flowing prose that looks you in. Negative taste writers can only write beautiful things by staying simple.</p>
+
+<p>People with negative taste can recognize people with positive taste and hire them. People with no taste, on the other hand, fail to see the difference, resulting in disasters like the graphic design department of American Airlines.</p>
+
+<p>People with negative taste can also be critics, which brings us to Joe Clark&#8217;s <a href="http://lists.w3.org/Archives/Public/w3c-wai-ig/2004JulSep/0237.html">famous comment</a> &#8220;Actually, no, it is not the responsibility of the critic to solve the problem. Pauline Kael was not expected to rewrite and redirect the films she disliked.&#8221;</p>
+
+<p>People with negative taste can pick out the bad movies. They just can&#8217;t make great ones.</p>
+
+<p><em>Followups:</em> John Siracusa, <a href="http://arstechnica.com/staff/fatbits/2009/05/hypercritical.ars">Hypercritical</a> (2009)</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">December  1, 2006</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>I&#8217;m not a huge fan of analogies but - this being one my favourite light-hearted topics&#8230;</p>
+
+<p>With these kind of ponderings I&#8217;ve fallen into talking of accelerating and slowing down (as with vehicles). You often have to be able to use both pedals&#8230; and the way you use them depends on where you&#8217;re going and what kind of roads you&#8217;re willing to use.</p>
+
+<p>And - of course - European vehicles usually have more than one gear and no cruise control! ;)</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://tommi.raivio.net">Tommi</a>
+ on December  1, 2006 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>By your definitions, I think I have negative taste, but I wonder if what your&#8217;e calling positive taste isn&#8217;t just people with negative taste who experiment more. If you rule out enough bad things, what you&#8217;re left with is very likely to be good, right?</p>
+
+<p>That some countries (e.g. Japan) seem to collectively have better taste than others (e.g. America) suggests to me that most people just repeat what they&#8217;ve experienced, and only a few care enough to strip away what&#8217;s bad after that (what you&#8217;re calling negative taste), and fewer still care enough to add more and strip away again (what you&#8217;re calling positive taste).</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://typewriting.org/">Scott Reynen</a>
+ on December  1, 2006 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>I think you&#8217;re talking about taste with varying amounts of creativity.</p>
+
+<p class="posted">posted by 
+ on December  1, 2006 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<blockquote>
+  <p>Positive taste writers can write beautiful flowing prose that looks you in</p>
+</blockquote>
+
+<p>s/looks/locks</p>
+
+<p class="posted">posted by 
+ on December  1, 2006 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>You might be oversimplifying things by assuming that negative and positive taste fall on the same axis.  From the way you describe each quality, they sound rather orthogonal.  As you say, people with negative taste can discern the negative as well as the positive qualities of a design.  This sounds independent from your description of positive taste: the ability to create precisely pleasing designs.</p>
+
+<p>Perhaps negative taste could itself define the ability to discern the pleasant designs from the poor, and positive taste could define the <em>potential</em> to create such works.  In the same way that a chemist requires accuracy and precision, a great &#8220;designer&#8221; requires great amounts of discerning taste and creative taste.</p>
+
+<p class="posted">posted by BRi
+ on December  2, 2006 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c6">
+<p>Aaron,</p>
+
+<p>I tend to agree with you on this one, but you sure that your explanation of your own &#8220;negative taste&#8221; isn&#8217;t just justification for your recent cynical outlook on SF, Condé Nast, the higher education system in general, American culture, etc. etc.? >:-p</p>
+
+<p class="posted">posted by Jacob Rus
+ on December  2, 2006 <a href="#c6" rel="bookmark">#</a></p>
+</div>
+<div id="c8">
+<p>BRi,</p>
+
+<p>No, they certainly are not orthogonal.  You need &#8220;negative taste&#8221; before you can have &#8220;positive taste&#8221;.  But to some extent, I think you need a bit of &#8220;positive taste&#8221; before you can have &#8220;negative taste&#8221; as well.  You need to really think deeply about a subject to come to a good enough understanding to criticize it well, and by far the easiest way to come to such and understanding is through your own practice.</p>
+
+<p>Additionally, taste is definitely like a deeply branching tree.  Even within a genre, there are many different styles, which appeal to different &#8220;tastes&#8221; differently.  These tastes can be refined in different ways, and, for instance, some art is only appealing when very closely scrutinized, with a deep understanding of the artist&#8217;s motivations, while other art is pleasing to the unpracticed eye.  Both require just as much care on the part of the artist to execute, but consideration of audience is a key part of such &#8220;positive taste&#8221;.</p>
+
+<p class="posted">posted by Jacob Rus
+ on December  2, 2006 <a href="#c8" rel="bookmark">#</a></p>
+</div>
+<div id="c9">
+<p>Oh, my Lord.  Why did you incite me to look at American Airlines&#8217; web site?</p>
+
+<p>Re: Reynen: &#8220;I wonder if what your&#8217;e calling positive taste isn&#8217;t just people with negative taste who experiment more. If you rule out enough bad things, what you&#8217;re left with is very likely to be good, right?&#8221;</p>
+
+<p>Yes &#8212; that&#8217;s the whole idea of natural selection. But you have to try a <em>lot</em> of things! The search space is too vast without some kind of heuristic pruning.</p>
+
+<p>Aaron: Any ideas for cultivating positive taste?</p>
+
+<p class="posted">posted by David McCabe
+ on December  2, 2006 <a href="#c9" rel="bookmark">#</a></p>
+</div>
+<div id="c13">
+<p>Paul Graham has more than negative taste:</p>
+
+<p>http://paulgraham.com/sl.html</p>
+
+<p>Great post, though.</p>
+
+<p class="posted">posted by Anon
+ on December  3, 2006 <a href="#c13" rel="bookmark">#</a></p>
+</div>
+<div id="c14">
+<blockquote>
+  <p>Aaron: Any ideas for cultivating positive taste?</p>
+</blockquote>
+
+<p>As usual, there are a couple decent books with some general rules (Williams&#8217;s <em>The Non-Designer&#8217;s Design Book</em> isn&#8217;t bad) but mostly I think it&#8217;s just practice.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on December  5, 2006 <a href="#c14" rel="bookmark">#</a></p>
+</div>
+<div id="c15">
+<blockquote>
+  <p>That some countries (e.g. Japan) seem to collectively have better taste than others (e.g. America) suggests to me that most people just repeat what they&#8217;ve experienced, and only a few care enough to strip away what&#8217;s bad after that</p>
+</blockquote>
+
+<p>I don&#8217;t think that&#8217;s it; because design is necessarily unrepetetive
+(otherwise designers start screaming about theft).</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on December  5, 2006 <a href="#c15" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="2taste" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

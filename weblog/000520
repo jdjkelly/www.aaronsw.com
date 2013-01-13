@@ -1,0 +1,47 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Fireworks of Failure (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000519" title="IMS/ISC out of the ICANN Running" />	<link rel="next" href="000521" title="Software and Source Code" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Fireworks of Failure</h1>
+</div>
+
+<div class="content">
+<p>It&#8217;s 1:30AM. Hours ago, my server seemed to stop working. I could ping it, but I couldn&#8217;t do anything else. We drove over to see what was up. Load times, which had never before gone over 1.00 skyrocketed into the 100s. We went back home to pick up some more memory for it. In short, it didn&#8217;t work. I&#8217;ll spare you the gory details because I sold them to ABC for a Sunday-night TV movie, but I&#8217;m allowed to hype it so I&#8217;ll just say that everything broke. Repeatedly.</p>
+
+<p>I suspect the reason was that the new warchalking site was featured on TechTV (and BoingBoing), which caused a flood of visitors to my poorly-tuned Scoop site. I was TechTVdotted. Now I know why Matt wanted to get this warchalking thing off his hands real fast.</p>
+
+<p>I think I have a small idea what it&#8217;s like to be <a href="http://www.evhead.com/">Evan</a> now. This is not what I want to be when I grow up.</p>
+
+<p class="posted">posted August 21, 2002 01:30 AM (<a class="category" href="cat_technology">Technology</a>)  <a href="000520" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000519" title="IMS/ISC out of the ICANN Running">&laquo; prev</a> | <a href="./">up</a> | <a href="000521" title="Software and Source Code">next &raquo;</a></p>
+
+<p><a href="000514">FREE THE MOUSE</a><br />
+<a href="000515">Car Factories and Post Offices</a><br />
+<a href="000516">Electronic Pulsing Spam-Killing Superbrain</a><br />
+<a href="000518">Introducing&#8230; Warchalking! The New Swhack!</a><br />
+<a href="000519">IMS/ISC out of the ICANN Running</a><br />
+<strong>Fireworks of Failure</strong><br />
+<a href="000521">Software and Source Code</a><br />
+<a href="000522">Vote Hank Perritt</a><br />
+<a href="000524">Dear Bigshot</a><br />
+<a href="000527">Scientology threatened by &#8220;unadulterated cyber-terrorism&#8221;</a><br />
+<a href="000528">Screen Savers on the Desktop</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

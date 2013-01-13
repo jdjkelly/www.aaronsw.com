@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Incompleteness: The Proof and Paradox of Kurt Gödel (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Incompleteness: The Proof and Paradox of Kurt Gödel</h1>
+
+<p class="img"><a href="http://books.theinfo.org/go/0393327604"><img src="http://images.amazon.com/images/P/0393327604.01.MZZZZZZZ.jpg" alt="Book cover" /></a></p>
+
+<p>Gödel was a hacker. He attended the meetings of the Vienna Circle, one
+of the most important philosophical groups in history, and sat quietly,
+convinced they were all wrong. Others might try to argue them out of it.
+Not Gödel. Perhaps (rightly) he thought that rational argument would get
+him nowhere with people so detached from reality. So he decided to
+<em>prove</em> them wrong.</p>
+
+<p>The result was Gödel&#8217;s incompleteness theorem, one of the most
+celebrated results in mathematics and logic, elegantly proving that any
+mathematical system complicated enough to do basic arithmetic contains
+statements which, while true, cannot be proven within the system.</p>
+
+<p>But even this was to no avail, the Vienna Circle continued to insist the
+proof was bogus or irrelevant. (The Vienna Circle insisted the world was
+simply language-games, with rules and structures. Gödel, by showing
+something that was clearly true to us but not provable from within the
+game, thought he had proved that such things, like numbers, have an
+independent reality.) Gödel, an incredibly odd and delusional figure,
+remained quiet for many years, practically confiding only in Albert
+Einstein, and little at all after Einstein&#8217;s death.</p>
+
+<p>This is a very bad book. It rambles and prattles and occasionally
+repeats itself practically verbatim. (It is the result of a project to
+improve science writing simply by paying famous authors to write about
+scientific topics. Perhaps the payment should be contingent on some
+measure of quality in the result.) But it is a compelling story and
+Gödel&#8217;s proof is so brilliantly beautiful that it should be learned by
+all educated people. I had never seen it presented in any real detail
+before and once I got to its key principle I exclaimed and tossed the
+book down and paced, admiring its brilliance. But there are many sources
+who will explain the fairly simple idea. I&#8217;d love to tell you about it
+myself.</p>
+
+<ul>
+<li><a href="http://books.theinfo.org/go/0393327604">Buy Goldstein&#8217;s book</a></li>
+<li><a href="http://books.theinfo.org/go/0195046722">Buy Raymond Smullyan&#8217;s explanation of the proof</a></li>
+</ul>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">February 12, 2007</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>One of the best explanations of Gödels incompleteness theorem can be found in Douglas R. Hofstadter&#8217;s &#8220;Gödel, Escher, Bach: an Eternal Golden Braid&#8221;. The book is highly recommended and really a piece of art itself.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://amix.dk/">amix</a>
+ on February 12, 2007 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>I don&#8217;t think that characterization of the <a href="http://en.wikipedia.org/wiki/Vienna_Circle" rel="nofollow">Vienna Circle</a> is very accurate. Read the Wikipedia for a better description of their philosophical positions.</p>
+
+<p class="posted">posted by ThomasW
+ on February 12, 2007 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>amix, congratulations on being able to get through GEB.  I&#8217;d heard great things about the book and bought a copy when I saw it in a local bookstore.</p>
+
+<p>Unfortunately, he struck me as the nerd equivalent of Wiliam F. Buckley, Jr. in terms of filling a lot of space (WFBJr loves to hear himself talk) while managing to say very little - at least that&#8217;s what he did in the preface, which turned me off so strongly that I never got into the actual book.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.briandonovan.info/descriptors/2006/12/23/friday-night/">Brian Donovan</a>
+ on February 12, 2007 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>I second amix&#8217;s recommendation of GEB.</p>
+
+<p>If you want a much shorter and more focused intro to Gödel&#8217;s first incompleteness theorem though, see the wonderful exposition of <a href="http://books.theinfo.org/go/0814758169" rel="nofollow">Ernest Nagel and James R. Newman</a>. This last work is the one that piqued the interest of Hofstadter (and Gregory Chaitin and many others) in Gödel&#8217;s theorem when it came out in &#8217;50s.</p>
+
+<p>There is also an excellent biography by <a href="http://books.theinfo.org/go/1568812566" rel="nofollow">John W. Dawson, Jr.</a>.</p>
+
+<p class="posted">posted by joseph knecht
+ on February 12, 2007 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>I recall a survey of prominent scientists which asked them which single book they would want to have with them if they were stranded on a desert island - the book mentioned most often by far was &#8220;Godel, Escher, Bach&#8221;. I have read it a couple of times myself and it would be the book I would take with me.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.zenatode.org.uk/ian/">Ian Gregory</a>
+ on February 12, 2007 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c7">
+<p>As it happens, I just got tickets to see the author lecture through my school. Anyone in Portland care to join me?</p>
+
+<p class="posted">posted by David McCabe
+ on February 13, 2007 <a href="#c7" rel="bookmark">#</a></p>
+</div>
+<div id="c8">
+<p>Even Roger Penrose gives an overview of the proof, as well as of most of mathematics and physics :) in the Emperor&#8217;s new Mind.</p>
+
+<p class="posted">posted by Steve Balogh
+ on February 13, 2007 <a href="#c8" rel="bookmark">#</a></p>
+</div>
+<div id="c9">
+<p>Not having read <em>New Mind</em>, I&#8217;d be wary of Penrose&#8217;s exposition. He is a brilliant mathematician, to be sure, but he is also a mystical thinker, and I would be surprised if he didn&#8217;t mix in, perhaps subtly, unwarranted interpretation or misapplication of the theorems.</p>
+
+<p>Penrose&#8217;s approach seems to be: &#8220;Hmmm, what would I like to be true? &#8230; Alright, now how would the universe need to be for that to be possible?&#8221; And then he goes on to think up a brilliantly clever reason that the universe might be compatible with his desires. For example, &#8220;quantum morality&#8221; (scare quotes, not quoting Penrose), or the massless charged particle he postulates to get cyclical time.</p>
+
+<p>Disclaimer: I could be misunderstanding and misrepresenting him &#8212; his lectures are difficult to follow.</p>
+
+<p class="posted">posted by David M.
+ on February 14, 2007 <a href="#c9" rel="bookmark">#</a></p>
+</div>
+<div id="c10">
+<p>I&#8217;ll second amix recommandation. GEB is a very interresting and well written book. And unfortunately for you, the french translation bring event more to it. Douglas Hofstadter wrote the french preface to the french translation himself.</p>
+
+<p>Apart of this, this book is really brilliant !</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://sansfiltre.fgranger.com">François Granger</a>
+ on February 14, 2007 <a href="#c10" rel="bookmark">#</a></p>
+</div>
+<div id="c11">
+<p>You might be interested in E. C. R. Hehner&#8217;s version of the proof; see his paper <a href="http://www.cs.toronto.edu/~hehner/God.pdf" rel="nofollow">Beautifying Godel</a> for details.</p>
+
+<p>The distinction between program and data, the use of the character string data type, the use of an interpreter, and counting from zero allow the proof to be reduced to three lines.</p>
+
+<p class="posted">posted by Alan
+ on February 15, 2007 <a href="#c11" rel="bookmark">#</a></p>
+</div>
+<div id="c12">
+<p>I second Brian&#8217;s recommendation to skip GEB. It&#8217;s very cleverly written, but the insights it offers are few. For example: the author dedicates a sonnet to Russel&#8217;s paradox when a sentence would suffice. It&#8217;s also guilty of jumping to the &#8220;exciting&#8221; popular science subjects - AI, DNA, robots, etc. - while providing little background or depth.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://watermargincoop.org"></a>
+ on February 16, 2007 <a href="#c12" rel="bookmark">#</a></p>
+</div>
+<div id="c13">
+<p>But it&#8217;s so very clever!</p>
+
+<p class="posted">posted by David M.
+ on February 17, 2007 <a href="#c13" rel="bookmark">#</a></p>
+</div>
+<div id="c14">
+<p>Actually, I&#8217;d advise you to try reading the original paper, which you can find here: http://www.research.ibm.com/people/h/hirzel/papers/canon00-goedel.pdf (and there are other translations too, some of them using either the original or a newer logic notation); try googling for &#8220;on formally undecidable&#8221; and Gödel.</p>
+
+<p>It&#8217;s very interesting to read the proof itself, instead of the usual human-translation.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.hernan.moraldo.com.ar">Hernan Moraldo</a>
+ on February 24, 2007 <a href="#c14" rel="bookmark">#</a></p>
+</div>
+<div id="c17">
+<p>GEB is very lucid if extremely long-winded and tangential.  I had a great time reading it as a teenager.  I don&#8217;t know if I&#8217;d have the patience for it now.  But it presents Gödel&#8217;s proof in a way that&#8217;s both complete (no serious technical gaps) and quite accessible to non-math people.  I later took the standard intro-to-mathematical-logic class (Math 125A at Berkeley) whose main result is Gödel&#8217;s proof, and found I already understood the subject pretty well just from having read GEB.  However, if you want a more serious (but still accessible) treatment from a standard math book, Herbert Enderton&#8217;s &#8220;Introduction to Mathematical Logic&#8221; is quite good.  It treats proof theory, model theory, and I think discusses axiomatic set theory to some extent, though he has a separate book for that.  Really, everyone should know a bit about this stuff.</p>
+
+<p>Wikipedia&#8217;s coverage of these subjects is also quite good.  I guess I&#8217;d start with [[Mathematical logic]] and follow the links from there.</p>
+
+<p class="posted">posted by Paul
+ on March  1, 2007 <a href="#c17" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="godel" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

@@ -1,0 +1,55 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Bake, Don&#8217;t Fry (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000402" title="Gnutella Pioneer Gene Kan Dies at 25" />	<link rel="next" href="000405" title="Train Dream" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Bake, Don&#8217;t Fry</h1>
+</div>
+
+<div class="content">
+<p>I really got started with this whole Web mess with the ArsDigita Prize where I learned how to build database-backed websites by building one myself. However, it was always assumed that these sites would be built by having a bunch of code on the server which generated pages for the user on demand by calling the database. That was simply how such sites were built, I never questioned it.</p>
+
+<p>Now, a number of tools are challenging that assumption. <a href="http://movabletype.org/">Movable Type</a>, the program that runs this weblog, has a series of Perl scripts which are used to build your webpage, but the end result is a bunch of static pages which are served to the public. All the content here is plain old web pages, served up by Apache. <a href="http://eastgate.com/Tinderbox/">Tinderbox</a> uses a similar system, drawing from your database of notes to produce a bunch of static pages. <a href="http://www.aaronsw.com/books/">My book collection pages</a> are done this way. Radio UserLand statically generates the pages on your local computer and then &#8220;upstreams&#8221; them to your website.</p>
+
+<p>Finally, while researching <a href="http://webmake.taint.org/">Webmake</a>, the Perl CMS that generates pages like <a href="http://taint.org/">Jmason&#8217;s Weblog</a> and <a href="http://spamassassin.sourceforge.net/">SpamAssassin</a>, I found a good bit of terminology for this. Some websites. <a href="http://webmake.taint.org/dist/doc/concepts.html">the documentation explains</a>, are fried up for the user every time. But others are baked once and served up again and again.</p>
+
+<p>Why bake your pages instead of frying? Well, as you might guess, it&#8217;s healthier, but at the expense of not tasting quite as good. Baked pages are easy to serve. You can almost always switch servers and software and they&#8217;ll still work. Plus, you get to take advantage of the great features built into your web server, like content-negotiation, caching, ETags, etc. You don&#8217;t get the bells and whistles like providing a personalized greeting on every page, but those are things that aren&#8217;t very good for you anyway.</p>
+
+<p>The one problem with the &#8220;bake&#8221; philosophy is dependencies. It&#8217;s difficult to keep track of which pages depend on which others and regenerate them correctly when they change. Movable Type handles this in the obvious cases, but when you do anything other than creating or editing an entry, it makes you manually rebuild the corrector portions of the site. Tinderbox, a speedy C++ program, seems to regenerate the whole site every time. It seems that for this philosophy of database-backed static pages to take off, we&#8217;d need a really good dependency system to back it. Has anyone built such a system? <a href="mailto:me@aaronsw.com/">Let me know.</a></p>
+
+<p><strong>Update:</strong> Some people seem to think that I want to bake because of perfomance. Honestly, I don&#8217;t care about performance. I don&#8217;t care about performance! I care about not having to maintain cranky AOLserver, Postgres and Oracle installs. I care about being able to back things up with scp. I care about not having to do any installation or configuration to move my site to a new server. I care about being platform and server independent. I care about full-featured HTTP implementations, including ETags, Content-Negotiation and If-Modified-Since. (And I know that nobody else will care about it enough to actually implement it in a frying solution.) I hope that clarifies things.</p>
+
+<p>If you liked this article, also check out the sequel, <a href="http://www.aaronsw.com/weblog/000406">Building Baked Sites</a>.</p>
+
+<p class="posted">posted July 09, 2002 12:09 PM (<a class="category" href="cat_technology">Technology</a>)  <a href="000404" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000402" title="Gnutella Pioneer Gene Kan Dies at 25">&laquo; prev</a> | <a href="./">up</a> | <a href="000405" title="Train Dream">next &raquo;</a></p>
+
+<p><a href="000398">Another thing cooking</a><br />
+<a href="000399">Herodotus: A Peer-to-Peer Web Archival System</a><br />
+<a href="000400">Special Gifts</a><br />
+<a href="000401">No!</a><br />
+<a href="000402">Gnutella Pioneer Gene Kan Dies at 25</a><br />
+<strong>Bake, Don&#8217;t Fry</strong><br />
+<a href="000405">Train Dream</a><br />
+<a href="000406">Building Baked Sites</a><br />
+<a href="000408">locked up all alone</a><br />
+<a href="000409">after a busy day of overthrowing governments&#8230;</a><br />
+<a href="000410">Glorious Linkfulness</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

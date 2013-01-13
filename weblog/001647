@@ -1,0 +1,217 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Stanford: Schoolwork (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001647.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001646" title="Stanford: My So-Called Terrorist Life" />	<link rel="next" href="001648" title="Stanford: To the Hypnotist" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Stanford: Schoolwork</h1>
+</div>
+
+<div class="content">
+<p class="dateline">March 10</p>
+
+<ul>
+<li><a href="http://www.aaronsw.com/weblog/static/social-time.html">Social Construction of Time Perspective</a> (pretty good, IMO)</li>
+<li><a href="http://www.aaronsw.com/weblog/static/pwrletter.pdf">PWR Wrapup Letter</a> [PDF] (pretty funny, IMO)</li>
+</ul>
+
+<p class="posted">posted March 26, 2005 06:55 PM (<a class="category" href="cat_education">Education</a>) (<a href="#comments">3 comments</a>) <a href="001647" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001646" title="Stanford: My So-Called Terrorist Life">&laquo; prev</a> | <a href="./">up</a> | <a href="001648" title="Stanford: To the Hypnotist">next &raquo;</a></p>
+
+<p><a href="001642">Michael Scheuer on Imperial Hubris</a><br />
+<a href="001643">Stanford: Unscripted</a><br />
+<a href="001644">Stanford; Home Alone</a><br />
+<a href="001645">Stanford: Private Meeting</a><br />
+<a href="001646">Stanford: My So-Called Terrorist Life</a><br />
+<strong>Stanford: Schoolwork</strong><br />
+<a href="001648">Stanford: To the Hypnotist</a><br />
+<a href="001649">Stanford: Stop Hiring Me</a><br />
+<a href="001650">Stanford: Textbooks for Idiots</a><br />
+<a href="001651">Stanford: Feats of Memory</a><br />
+<a href="001652">Lessons in Capitalism #3: Sycophancy</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c4688">
+
+<p>I now see why my gen-ed instructors kept harping about the A-B-C format for writing papers.  ;-)</p>
+
+<p>Some thoughts on SCoTP:</p>
+
+<p>A hunter-gather way of life is one that can work well with small groups of people, but does not scale well to 6 billion people.  Assuming that the population could even build to that size on H-G, the surface of the planet would be stripped of all edible plant and animal life in short order, whereupon the population would then have to switch to either agriculture or cannibalism.  And each of these can be problematic.</p>
+
+<p>Re &#8220;We can use easily transform our society to be more humane, free, and democratic&#8221;</p>
+
+<p>If this were actually true, then it would already have been done - and probably several thousands of years ago.  The fact that Communism failed to achieve it&#8217;s stated objective and that communes are not rampantly establised everywhere would seem to demonstrates that &#8220;Easily transform&#8221; is in the mind of the idealistic holder, who doesn&#8217;t actually knows foster such a transformation within a society. I can guarantee that simply pointing to a great idea and saying &#8220;this is simple, this will work&#8221; won&#8217;t get you 6 billion followers.  Or even 296 million.</p>
+
+<p>Now I do realize that whoever said that may have meant &#8220;easily transform&#8221; in a different context that this.  My point is that it&#8217;s not &#8220;easy&#8221; if it&#8217;s not easy to get people to buy into it.</p>
+
+<p>Digression and two Question:</p>
+
+<p>In my Lit class, as an exercise, the teacher asked  us to describe how a Utopian society would look in terms of Laws, Money, Education, Human Rights, Calendar, and Work.  It was interesting to hear all of the responses. :-)</p>
+
+<p>But to the point, in order to know how to transform our society to a Utopian one, one has to know what it looks like.  And then one has to know how to get, say, 296M people from here to there.  And then the rest of the 6B people after that.</p>
+
+<p>So the questions are:  What does Utopia look like? And how do you get 6B people to agree on it and migrate their own cultures to it?</p>
+
+<p class="posted">posted by D.Meyer at March 29, 2005 09:20 PM <a href="#c4688">#</a></p>
+
+</div><div id="c4692">
+
+<p>&#8220;If this were actually true, then it would already have been done&#8221;</p>
+
+<p>Do you have any evidence for this rather stunning claim? In any event, it has been done on small scales (like anarcho-syndicalist Spain). Obviously it takes a lot of preparation to convince people to join in the transformation, but the transformation itself is easy.</p>
+
+<p>I don&#8217;t see how Communism is at all relevant. Like Democracy, its &#8220;stated objectives&#8221; were a smokescreen.</p>
+
+<p>I don&#8217;t think you need to migrate culture, but this topic has been thoroughly discussed in the anarchist literature.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=4692">Aaron Swartz</a> at March 30, 2005 11:12 AM <a href="#c4692">#</a></p>
+
+</div><div id="c4721">
+
+<p>I think that the point I was attempting making with the Communism and  SCoTP comment is that if the underlying principle of &#8220;From each, according to his ability, to each according to his need&#8221; (aka fair distribution of wealth) were all that popular of a principle with humans in the first place, that even though the government was doing a bad job of it, the people at the base of the economic pyramid would have been enthusiastic enough about it to make it work, given that it is supposed to be in their best interest.  But the government was opressive and unpleasant to be around, and also - all the producers of the goods and services didn&#8217;t necessarily have their full hearts and enthusiasm in producing as much high quality product as they all needed to make the process work.  And so it didn&#8217;t.  An I suspect that this is because a lot of people don&#8217;t want to produce if there isn&#8217;t &#8220;something in it for them&#8221;, i.e., an incentive.  That it should have been in their collective best interest to produce enough for all to have what they need must not have been a tangable enough incentive for them, because they didn&#8217;t make that system of wealth distribution work.</p>
+
+<p>Which brings up an interesting point about the fair and humane distribution of &#8220;wealth&#8221; on this planet.</p>
+
+<p>What wealth is is the production and consumption of goods and services.  It is not money - that&#8217;s simply a convenience in dealing with the production and consumption of wealth in an economy (something I learned last quarter in Econ). :-)  Many forms of wealth (goods and services) must be replenished for there to continue to be wealth.  Otherwise, once it&#8217;s consumed, it&#8217;s gone.  Some other forms of goods are a bit more durable and last for many uses, so to speak.</p>
+
+<p>If we hypothetically say that we&#8217;ll redistribute all of the wealth evenly to everyone, what will happen is that you will be guaranteed the one cycle of production and consumption of goods and services, both durable and non-durable.  At that point, the goods that can be consumed once will need to be produced again.</p>
+
+<p>Now, the people from whom the wealth was taken to redistribute it to others may not necessarily be in the mood to keep on producing it because their incentive to do so just went away - there&#8217;s nothing in it for them anymore.  And they may even have bad feelings about it. So others will have to take up the slack. And that&#8217;s were the part about getting the buy-in of others in the continued production and distribution of wealth/goods/services came in. If they don&#8217;t do it, then lots of people will run out of the consumables - food, water, fuel, small household products so near and dear to us (like toilet paper).  They will probably have shelter for a long while - that&#8217;s multi-use and more durable.  And Clothing - multi-use and semi-durable.</p>
+
+<p>But unless you can get the population in general interested in producing all forms of goods and services for the common good of all, then I expect that one would end up with a lot of hungry, naked people living in poorly maintained shelters after a while.</p>
+
+<p>Now yes, people would then be interested in producing sufficient goods and services for themselves and their immediate family - and maybe even their friends.  But not necessarily enough of high enough quality so that people they don&#8217;t even know will have enough to exist comfortably on.</p>
+
+<p>That&#8217;s what I think would happen to the fair and equitable distribution of wealth if we were to actually do it.  The one-use goods would be consumed and we&#8217;d be back where we were before - and even worse.  The people who had been producing the goods and services before would probably greatly reduce production or stop altogether, because there&#8217;d be no point to continuing doing so.  And so many more would be doing without, unless other producers stepped up to take up the slack in production.</p>
+
+<p>And from what we&#8217;ve seen of what happened in the Soviet Union, I don&#8217;t think that enough people would produce enough high-quality products to satisfy the needs of all.  And I think that they would not because there would be little tangible incentive for them to do so.</p>
+
+<p>That&#8217;s what I was attempting to say with my comment about the success of Communist principles (the government aside).  And why all those people (cultures) would have to buy into the idea.</p>
+
+<p>Now someone might be thinking that we could just fairly and equitably redistribute all of the money.  What I learned from Econ class is that it would probably destabilize whatever currencies we tried to distribute wealth in and the value of the unit of that currency would go way down.  Another way of looking at that is that people would get greedy and charge &#8220;what the market would bear&#8221; for goods and services. And the value of the unit of currency versus what it would buy would change for the worse. And that would almost certainly happen if the production of goods slowed for any reason.  Like the people who we took the money from to distribute it saying &#8220;no spank you&#8221; and stopping production.</p>
+
+<p class="posted">posted by D.Meyer at April  4, 2005 11:51 PM <a href="#c4721">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001647.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1647" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

@@ -1,0 +1,186 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>New York City: Winter Vacation (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001561.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001560" title="Home: Gloom and Loneliness" />	<link rel="next" href="001562" title="Stanford: Back to School" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>New York City: Winter Vacation</h1>
+</div>
+
+<div class="content">
+<p class="dateline">New York City, New York &#8212; December 21, 2005 through December 27, 2005</p>
+
+<p>We spend a week in New York City on vacation. I take few notes, but I have some memories of wandering around the city, visiting stores and chess shops. We tour MOMA where someone in my family spots Jeffrey Toobin eating lunch near us. We also see a committee, which could have been performance art but probably wasn&#8217;t, deciding where to hang a painting, eventually having to call in reinforcements via cell phone.</p>
+
+<p>On December 23 (apparently), I wrote this:</p>
+
+<blockquote>
+  <p>I sit here, at the MOMA in New York, 800 miles away from my home, which is 2000 miles away from where I live, eyes closed, deep in relaxation, when my hip buzzes. It has buzzed because a server in California wouldn&#8217;t talk to a server in Chicago, which sent a message to me, which meant sending it to California, which meant sending it to another server, which sent it to a cell phone tower in New York, which sent broadcasted it over the air, which allowed it to be received by this little device at my side.</p>
+</blockquote>
+
+<p>We take a tour of CNN&#8217;s new digs in the new Time Warner building. The tour is remarkably uninformative, although my brother does get to read a teleprompter in front of a green screen.</p>
+
+<p>We take a tour of the UN building. There&#8217;s very little security, you can walk just about everywhere (although a guard once asks us not to use the delegates&#8217;s computers). As we enter the room where the Security Council meets, the body with the power to make war legal, I feel a giant knot in my stomach and can&#8217;t stop thinking &#8220;two illegal wars&#8221; (referring to Afghanistan and Iraq).</p>
+
+<p>Another day, I wrote this:</p>
+
+<blockquote>
+  <p>In Manhattan, new ad-dispensing TV screens dot the landscape. They&#8217;re larger and higher quality than those I&#8217;ve seen before. They might even be HD or widescreen. I note that they&#8217;re all owned by Clear Channel. No doubt they&#8217;ll be provided to the President when he institutes the Three Minutes Hate, or maybe just for his next press conference.</p>
+  
+  <p>A voice would come booming out thru unseen speakers, from all TV stations and radios. &#8220;Attention ladies and gentlemen,&#8221; it would say. &#8220;Please direct your attention to the President of the United States.&#8221; Then his face would appear on the screen, sitting in front of his standard Oval Office backdrop. Crowds would collect around the screens, people standing on tiptoes to get a better look.</p>
+  
+  <p>&#8220;It&#8217;s a dangerous world,&#8221; the head would say, &#8220;but we have struck a major blow against the terra&#8217;ists&#8230;&#8221;</p>
+  
+  <p>I snap out of this daydream as my brother drags me across the street.</p>
+</blockquote>
+
+<p><!-- def. before Jan 3 --></p>
+
+<p>We visit the Museum of Television, which is surprisingly popular, and Ellis Island, which is rather boring. I&#8217;m sure we did a bunch of other stuff too, but I just don&#8217;t remember.</p>
+
+<p class="posted">posted February 13, 2005 10:45 PM (<a class="category" href="cat_education">Education</a>) (<a href="#comments">1 comments</a>) <a href="001561" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001560" title="Home: Gloom and Loneliness">&laquo; prev</a> | <a href="./">up</a> | <a href="001562" title="Stanford: Back to School">next &raquo;</a></p>
+
+<p><a href="001552">Edward Tufte on Beautiful Evidence (and more Stanford: December 8)</a><br />
+<a href="001557">Stanford: Thursday, December 9</a><br />
+<a href="001558">Home Again</a><br />
+<a href="001559">Home: Life and Love</a><br />
+<a href="001560">Home: Gloom and Loneliness</a><br />
+<strong>New York City: Winter Vacation</strong><br />
+<a href="001562">Stanford: Back to School</a><br />
+<a href="001563">Stanford: I Miss Zooko</a><br />
+<a href="001564">Stanford: Fuzzier Heads Prevail</a><br />
+<a href="001565">Stanford: Artists and Aliens</a><br />
+<a href="001566">Stanford: Meeting the Man in Shadow</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c3980">
+
+<p>Re: “A voice would come booming out thru unseen speakers, from all TV stations and radios. &#8216;Attention ladies and gentlemen,&#8217; it would say. &#8216;Please direct your attention to the President of the United States.&#8217;”</p>
+
+<p>You do realize that <a HREF="http://www.fcc.gov/eb/easfact.html">the infrastructure to do this very thing</a> is already in place?</p>
+
+<p class="posted">posted by anonymous at February 15, 2005 01:24 PM <a href="#c3980">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001561.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1561" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

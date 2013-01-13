@@ -1,0 +1,80 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+  <title>IRC Style Guide</title>
+  <link rel="stylesheet" type="text/css" href="http://logicerror.com/mainstyle" />
+</head>
+<body>
+<div id="head">
+  <h1>IRC Style Guide</h1>
+</div>
+<div class="content">
+<p>by Aaron Swartz, because he knows better than you</p>
+
+<h2>Proper use of /me</h2>
+<p>Imagine the IRC channel is a physical place. All the people in the channel are sitting around and talking. Normally you communicate by saying things, but occasionally you communicate thru physical actions. /me is for these times when you actually <em>act</em>. For example:</p>
+
+<pre>* exampleBoy punches exampleGirl in the nose</pre>
+
+<p>Often /me is abused, used for things that no one could possibly see and involve no physical action. For example:</p>
+
+<pre>* exampleBoy thinks that monkey salad is the right choice here</pre>
+
+<p>Instead, simply tell people this fact:</p>
+
+<pre>&lt;exampleBoy> Monkey salad is the right choice here</pre>
+
+<p>There are occasional things that could go either way, such as:</p>
+
+<pre>* exampleBoy thinks about exampleGirl's new program</pre>
+
+<p>It's possible that a comic-style thought bubble has appeared above your head with this thought (although unlikely). Cases like these should be used sparingly. If you're not actually doing it or saying it, people probably don't care.</p>
+
+<p>Another common abuse is to put a period after an action and then go into a statement. For example:</p>
+
+<pre>* examplezilla eats a sandwich. Mmmm, yummy!</pre>
+
+<p>This is wrong. Please stop.</p>
+
+<h2>Addressing</h2>
+
+<p>There are three main kinds of addressing. The first is when you're making a comment to someone:</p>
+
+<pre>Morbus, can you please pass me the cheese?</pre>
+
+<p>The second is when you are quoting someone, such as when transcribing a telecon or movie.</p>
+
+<pre>Jon: lifestyle is a common cause of suicide in the young</pre>
+
+<p>Quote marks indicate that this is a direct quote.</p>
+
+<pre>Tim: "I hate peanuts, they get on my nerves."</pre>
+
+<p>The third kind is when  quoting a comment that was made on IRC:</p>
+
+<pre>&lt;exampleDude> wow, like, where are the tree files?</pre>
+
+<h2>Other Common Problems</h2>
+<ul>
+<li>Do not include the channel name in the topic. It is implicitly included.</li>
+<li>Do not use ALL CAPS, colors, or bold. It's just annoying. Especially if you're Ash.</li>
+<li>By the same token, running into a wall is a tactic that should be used sparingly. Especially if you're redmonk.</li>
+<li>If you're in a wild off-topic discussion with just one other person, move it to another room and announce it in the channel. If you think it may be of interest to the majority of the channel, you may /invite the channel to the new room.</li>
+<li>The same goes if you're making out with the female members of the channel. Like, get a room! Especially if you're Morbus.</li>
+</ul>
+
+<h2>FAQs</h2>
+<h3>Isn't this the most boring document in existence?</h3>
+
+<p>No, that's the <a href="http://infomesh.net/notes/n3styleguide/">N3 Style Guide</a>.</p>
+
+<h3>How come you violate these rules?</h3>
+<p>When I violate them it's for experimentation and research. When you violate them it's out of ignorance.</p>
+
+<h3>Um, do you just wish that IRC was a MUD or MOO where you could be in multiple rooms at the same time?</h3>
+
+<p>Yeah, so? What's it to you, pal?</p>
+
+</div>
+  <address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

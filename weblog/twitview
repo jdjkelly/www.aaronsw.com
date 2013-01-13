@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Twitter Viewer (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>My Twitter Viewer</h1>
+
+<p>I published this <a href="http://twitter.com/aaronsw">on Twitter</a>, but here&#8217;s a blog post as well:</p>
+
+<p>I made a little <a href="http://twitter.theinfo.org/">Twitter viewer</a> that takes a Tweet ID (you can find them in the URL of a tweet&#8217;s page on twitter.com) and shows you the whole conversation for that tweet.</p>
+
+<p>Some examples:</p>
+
+<ul>
+<li><a href="http://twitter.theinfo.org/20496113098301440">Glenn Greenwald on the insurance file</a></li>
+<li><a href="http://twitter.theinfo.org/21994946588319745">The epic Ptacek-Kaminsky debate</a></li>
+<li><a href="http://twitter.theinfo.org/20293552433004544">Kevin Poulsen explains what&#8217;s not in the logs</a></li>
+</ul>
+
+<p>The idea is to a) make it easier to read these conversations, b) make it easier to provide replies, c) provide a permanent link to what&#8217;s becoming an increasingly-important conversation space.</p>
+
+<p>Let me know what you think.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">January  4, 2011</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>Excellent work.</p>
+
+<p class="posted">posted by James
+ on January  4, 2011 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>Great idea.  Nice.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://bluebones.net/">Thomas David Baker</a>
+ on January  4, 2011 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>It&#8217;s absurd that Twitter doesn&#8217;t provide this service itself.</p>
+
+<p class="posted">posted by Carl
+ on January  4, 2011 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>Very nice. I found myself looking for time of day on the tweets to see how much time had elapsed between the various messages.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://neoformix.com">Jeff Clark</a>
+ on January  4, 2011 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>Nice work Aaron!</p>
+
+<p>I actually built the same thing a year ago at http://twitlr.com/ but it was before the related_results method was available in the API so it&#8217;s very hacky and only supports a single thread.</p>
+
+<p>Can&#8217;t believe Twitter still don&#8217;t provide a UI for conversation threading. The #newtwitter interface does show you the preceding tweet in a conversation but that&#8217;s it. I guess they&#8217;re happy enough to let client applications implement it.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://lud.icro.us/">John Blackbourn</a>
+ on January  4, 2011 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c6">
+<p>Very nice.  I&#8217;ve been using http://bettween.com for this, but yours is nicer.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://ry4an.org">Ry4an</a>
+ on January  4, 2011 <a href="#c6" rel="bookmark">#</a></p>
+</div>
+<div id="c7">
+<p>This is fantastic.  Thanks.</p>
+
+<p class="posted">posted by Lawrence
+ on January  4, 2011 <a href="#c7" rel="bookmark">#</a></p>
+</div>
+<div id="c8">
+<p>Nice! There’s http://www.exquisitetweets.com/ which does almost exactly the same and let’s you create random collections of tweets, but it’s a little slow sometimes due to loading lots of background images.</p>
+
+<p class="posted">posted by Julian
+ on January  4, 2011 <a href="#c8" rel="bookmark">#</a></p>
+</div>
+<div id="c9">
+<p>I’ve seen other services that try to do this, and all of them so far have had a fatal shortcoming: if @tom writes multiple replies to a single one of @harry’s tweets, then the tool finds only one of them. So you get only a shard of the actual conversation. This is further compounded if @harry then responds to tweets from @tom that the tool didn’t detect as part of the conversation. Sometimes the thread shown is so incomplete as to be completely useless.</p>
+
+<p>Does yours handle this situation?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://plasmasturm.org/">Aristotle Pagaltzis</a>
+ on January  4, 2011 <a href="#c9" rel="bookmark">#</a></p>
+</div>
+<div id="c10">
+<p>It&#8217;s just so much work having to a.)open the time stamp link in a new tab, b.) copy the Tweet ID from the url c.) go the Twitter conversation viewer page and d.) paste the Tweet ID into the box. Couldn&#8217;t you make a Fire Fox extension that I could just right click the the time stamp and select a menu item that would open a tab with the url &#8220;http://twitter.theinfo.org/&#8221; appended with the Tweet ID in a new tab?</p>
+
+<p>This is also my complaint for every time that I have used it, I get a message saying that I should complain to you.</p>
+
+<p>But seriously, I am trying to make such an extension in my own slow way. It seems like an easy enough idea to start with. I doubt if any thing I came up with would suit anyone. However if you came up with one, you could probably make some money from ads. If not on the conversation page, from a page that would appear every time the extension was updated.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://twitter.theinfo.org/22439019438678016">James Hardy</a>
+ on January  5, 2011 <a href="#c10" rel="bookmark">#</a></p>
+</div>
+<div id="c11">
+<p>I saw this tool mentioned on Twitter and I quite like it, Aaron.  Thanks for putting it together and making it available.</p>
+
+<p>One immediate minor upgrade I&#8217;d like to see: allow the user to supply the permalink for the tweet in question and have your software pull the Tweet ID out of that.  Far easier for a human (well, me, anyway) to be reading my twitter stream, find a tweet where I&#8217;d like to see the whole conversation, right-click and copy the link, and then open your site in a new tab, say, from a bookmark.</p>
+
+<p>I grant that your bookmarklet already does a lot of this; e.g., if I open the particular tweet in the new tab and then click your bookmarklet, but even though the first process sounds more complicated, it&#8217;s the more natural way I think of doing something like this.  Don&#8217;t make me think, as the saying goes.</p>
+
+<p>I agree with James Hardy above that it&#8217;d be even handier to have a Firefox extension to further streamline the process, but the request I&#8217;m making seems considerably quicker and easier to implement.  (Perhaps in the meantime, if you&#8217;re thinking about doing more work on this.)</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://bjkeefe.blogspot.com/">bjkeefe</a>
+ on January  6, 2011 <a href="#c11" rel="bookmark">#</a></p>
+</div>
+<div id="c12">
+<p>I meant to add another minor gripe I have with the bookmarklet:  Call me obsessive, but browser screen real estate is always at a premium for me, particularly vertically.  Therefore, I dislike having to have the bookmark toolbar in Firefox showing.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://bjkeefe.blogspot.com/">bjkeefe</a>
+ on January  6, 2011 <a href="#c12" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="twitview" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

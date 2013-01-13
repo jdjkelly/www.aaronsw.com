@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<!DOCTYPE scriptingNews SYSTEM "http://www.scripting.com/dtd/scriptingNews.dtd">
+<scriptingNews>
+  <header>
+    <copyright>Copyright 1997-1998 UserLand Software, Inc.</copyright>
+    <scriptingNewsVersion>1.0</scriptingNewsVersion>
+    <pubDate>Fri, 07 Aug 1998 07:00:00 GMT</pubDate>
+    <lastBuildDate>Sat, 08 Aug 1998 12:01:07 GMT</lastBuildDate>
+    <docs>http://www.scripting.com/frontier5/xml/scriptingNews.html</docs>
+    </header>
+  <item>
+    <text>Douglas Adams:  "His opinions are passionately held, well-informed, intelligent, argumentative and quite often wrong."</text>
+    <link>
+      <url>http://www.userland.com/slideshows/daveNetReaderProfiles/slide14.html</url>
+      <linetext>Douglas Adams</linetext>
+      </link>
+    </item>
+  <item>
+    <text>XML-related changes coming in Frontier 5.1.3.</text>
+    <link>
+      <url>http://www.scripting.com/frontier5/xml/stories/513changes.html</url>
+      <linetext>XML-related changes</linetext>
+      </link>
+    </item>
+  <item>
+    <text>Today's Scripting News XML file.  There's one file for every day that we publish. Josh Lucas's nightly mailing of Scripting News is based on this feature, as is Vignette's experimental StoryServer displayer.</text>
+    <link>
+      <url>http://www.scripting.com/98/08/news07.xml</url>
+      <linetext>Today's Scripting News XML file</linetext>
+      </link>
+    <link>
+      <url>http://www.stonecottage.com/josh/scriptingNews.html</url>
+      <linetext>mailing</linetext>
+      </link>
+    <link>
+      <url>http://www.scripting.com/frontier5/xml/experiments/scriptingNews.html</url>
+      <linetext>feature</linetext>
+      </link>
+    <link>
+     <url>http://demo.vignette.com/publishing/scriptingnews/</url>
+      <linetext>StoryServer displayer</linetext>
+      </link>
+    </item>
+ <item>
+    <text>Tallent: Frontier ODBC Extension 1.0b8. &lt;i>Mac and Windows.&lt;/i></text>
+    <link>
+      <url>http://www.tallent.com/frontier/odbc/</url>
+      <linetext>Frontier ODBC Extension 1.0b8</linetext>
+      </link>
+    </item>
+  <item>
+    <text>Seth Dillingham on List-based support.</text>
+    <link>
+      <url>http://betty.userland.com/stories/daveWiner/98/08/dillinghamOnListBasedSuppo.html</url>
+      <linetext>Seth Dillingham</linetext>
+      </link>
+    </item>
+  <item>
+    <text>Fat Page: scriptingNewsToXML.</text>
+    <link>
+      <url>http://www.scripting.com/fatPages/websites/scriptingNewsToXML.html</url>
+      <linetext>scriptingNewsToXML</linetext>
+      </link>
+    </item>
+  <item>
+    <text>News.com: Web technologies usurp DCE. IMHO, eventually this will become the XML-RPC story.</text>
+    <link>
+      <url>http://www.news.com/News/Item/0,4,25043,00.html?st.ne.fd.mdh</url>
+      <linetext>Web technologies usurp DCE</linetext>
+      </link>
+    <link>
+      <url>http://www.scripting.com/davenet/98/07/xmlRpcForNewbies.html</url>
+      <linetext>story</linetext>
+      </link>
+    </item>
+  <item>
+    <text>News.com missed something. Microsoft's COM is an implementation of DCE. It has more momentum than they thought.</text>
+    <link>
+      <url>http://www.microsoft.com/presspass/press/1996/sept96/dcompr.htm</url>
+      <linetext>COM is an implementation of DCE</linetext>
+      </link>
+    </item>
+  <item>
+    <text>Reuters: Eudora security flaw discovered.</text>
+    <link>
+      <url>http://www.zdnet.com/zdnn/stories/zdnn_smgraph_display/0,3441,2126115,00.html</url>
+      <linetext>Eudora security flaw discovered</linetext>
+      </link>
+    </item>
+  <item>
+    <text>http://www.webstandards.org/.</text>
+    </item>
+  <item>
+    <text>SJ Merc: Here's a great picture of Microsoft's Steve Ballmer having a strong physical reaction to something Becky Morgan said. Here's the rest of the story...</text>
+    <link>
+      <url>http://www.sjmercury.com/business/microsoft/media/photos/ballmer080798.jpg</url>
+      <linetext>picture</linetext>
+      </link>
+    <link>
+      <url>http://www.sjmercury.com/business/microsoft/docs/move080798.htm</url>
+      <linetext>story</linetext>
+      </link>
+    </item>
+  <item>
+    <text>Our friend Thea is looking for mind-blowing  Frontier projects that she can showcase in her Galleria. &lt;i>A great flowbuilder!&lt;/i></text>
+    <link>
+      <url>mailto:thea@yes.net</url>
+      <linetext>Thea</linetext>
+      </link>
+    <link>
+      <url>http://www.scripting.com/thea/</url>
+      <linetext>Galleria</linetext>
+      </link>
+    </item>
+  <item>
+    <text>Douglas Adams on his nose.</text>
+    <link>
+      <url>http://www.tdv.com/personal_worlds/douglas_a/nose/nose.html</url>
+      <linetext>his nose</linetext>
+    </link>
+  </item>
+</scriptingNews>

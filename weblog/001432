@@ -1,0 +1,314 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Stanford: Day 16 (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001432.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001431" title="Stanford: Day 15" />	<link rel="next" href="001433" title="Of Conspiracies and Filing Cabinets" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Stanford: Day 16</h1>
+</div>
+
+<div class="content">
+<p>Sociology class is getting more interesting. In the book, we learn how only selfish and greedy people get in the world, although we don&#8217;t really discuss that in class.</p>
+
+<p>At IHUM we spend the class discussing the pretty silly theories of John Locke. The teachers tell us that this is just another guy, you should disagree with him if you want, but I think this is just more reverse psychology. The very act of standing in front of a class and parsing this guy&#8217;s words says pretty clearly otherwise. (More training in Irrational Attitudes of Submission to Authority.)</p>
+
+<p>There is a large career fair today, with booths for all sorts of companies. Already, we are being pointed towards careers. During orientation week, we met with a career advisor who helped us plan are career plan and an associated class track before we even started school. And all through school people have complimented me on not deciding what I&#8217;m interested in yet, consciously or not emphasizing how abnormal it is. And now this giant career fair in the middle of campus. The message is pretty clear: you&#8217;ve got a real job to worry about &#8212; work hard and don&#8217;t waste time with that fluffy stuff.</p>
+
+<p>I do a little recon and ask the representative from evil PR firm Burson-Marsteller a few questions, but don&#8217;t get much. Talking to people totally freaks me out for some reason.</p>
+
+<p class="posted">posted October 06, 2004 12:33 AM (<a class="category" href="cat_education">Education</a>) (<a href="#comments">18 comments</a>) <a href="001432" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001431" title="Stanford: Day 15">&laquo; prev</a> | <a href="./">up</a> | <a href="001433" title="Of Conspiracies and Filing Cabinets">next &raquo;</a></p>
+
+<p><a href="001427">Stanford: Day 10</a><br />
+<a href="001428">Stanford: Day 11</a><br />
+<a href="001429">Stanford: Day 12</a><br />
+<a href="001430">Stanford: Day 14</a><br />
+<a href="001431">Stanford: Day 15</a><br />
+<strong>Stanford: Day 16</strong><br />
+<a href="001433">Of Conspiracies and Filing Cabinets</a><br />
+<a href="001434">TextMate</a><br />
+<a href="001436">Got Money?</a><br />
+<a href="001437">Misstated Union: An Interview with David Brock</a><br />
+<a href="001438">Stewart on Crossfire</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c3000">
+
+<p>&#8220;The teachers tell us that this is just another guy, you should disagree with him if you want, but I think this is just more reverse psychology. The very act of standing in front of a class and parsing this guy’s words says pretty clearly otherwise. (More training in Irrational Attitudes of Submission to Authority.)&#8221;</p>
+
+<p>The teachers mean what they say. You can disagree with John Locke if you want. You can disagree with the teachers if you want. I&#8217;ve vigorously disagreed with many Stanford professors and I&#8217;m doing quite fine. When will you realize that this isn&#8217;t just one big you vs. them?</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.blakeross.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3000">Blake</a> at October  6, 2004 01:04 AM <a href="#c3000">#</a></p>
+
+</div><div id="c3001">
+
+<p>&#8220;The message is pretty clear: you’ve got a real job to worry about — work hard and don’t waste time with that fluffy stuff.&#8221;</p>
+
+<p>I&#8217;ve been at Stanford for over a year now. That isn&#8217;t the message I&#8217;ve gotten here, ever. This is college, Aaron, and Stanford houses everyone from freshmen to graduate students. There are many people on this campus interested in their careers. A job fair on a campus of 20,000 students isn&#8217;t directed toward freshmen. You&#8217;re certainly welcome to go.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.blakeross.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3001">Blake</a> at October  6, 2004 01:07 AM <a href="#c3001">#</a></p>
+
+</div><div id="c3002">
+
+<p>I&#8217;m growing increasingly convinced that you simply don&#8217;t want to accept the college experience. You disagree with the professors then grow suspicious when they ask you to disagree with them. You claim that school absorbs free time and that your lack of formal schooling is what has allowed you to be so successful yet you are sound frustrated that Stanford is limiting your time in class and that you have so much free time. You wonder how your peers could have hobbies and jobs when they wasted their time in high school but you refuse to explore their hobbies or jobs when they present them to you.</p>
+
+<p>I was amazingly jealous when I first discovered your blog (a coworker linked to your &#8220;Day 1&#8221; post). I figured that Stanford was full of people such as yourself, people who were already influencing the world and that was why they rejected me when I applied. I discovered that you have done things while still a teenager that most would never do during their entire lives.</p>
+
+<p>Now, however, I hope that Stanford is not full of students such as yourself. In fact, I know that it isn&#8217;t &#8212; my girlfriend is starting her PhD in Immunology at Stanford this year and I have met her friends. My best friend&#8217;s sister is a Stanford freshman. I also see your opinion of the rest of us and am glad that I &#8220;just&#8221; went to high school and lead boring, oppressed life. I hope that you are simply venting on here and that you don&#8217;t actually hold such a dour outlook on life.</p>
+
+<p>Maybe college simply isn&#8217;t for you. You seem to have done quite well without a formal high school education, why put yourself through the frustration and the expense of college?</p>
+
+<p class="posted">posted by Ryan Nielsen at October  6, 2004 02:57 AM <a href="#c3002">#</a></p>
+
+</div><div id="c3003">
+
+<p>I expect that the undergrad and grad experiences are very different.  People often talk about a school without specifying which level they mean, but I think this leads to misunderstandings (&#8220;School X has culture Y!&#8221; &#8212; &#8220;No it doesn&#8217;t!  It has culture Z!&#8221;).  Personally I usually include whether I mean undergrad or grad school when I make a generalization like that.</p>
+
+<p>If I understand correctly, there is a tradition in which students who&#8217;ve just finished their undergrad at a school are encouraged to go to a different school for grad work.  That helps explain this difference in culture: the grad and undergrad levels at a single school have completely disjoint sets of students!</p>
+
+<p class="posted">posted by <a target="_blank" title="http://zooko.com/log.html" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3003">Zooko</a> at October  6, 2004 03:35 AM <a href="#c3003">#</a></p>
+
+</div><div id="c3005">
+
+<p>I don&#8217;t know what the syllabus for your IHUM class is, but I have certainly taken classes that included both works of John Locke and the works of people who disagree very strongly with John Locke; the teacher stood up at the front of the room and parsed both documents.  So I don&#8217;t think you can assume that your teachers want you to believe in Locke <em>simply because</em> he&#8217;s on the syllabus.</p>
+
+<p>Regarding the career fair: is it possible that this is a response to pressure <em>from</em> students (or their parents), rather than a way to put pressure <em>on</em> them?  I went through my undergraduate years with the conviction that I was there to Get an Education, and I wouldn&#8217;t worry about Learning a Trade until grad school &#8230; but given the state of the economy, I can understand why other students would be more concerned about careers.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://dynamic.ropine.com/yo/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3005">Seth Gordon</a> at October  6, 2004 09:28 AM <a href="#c3005">#</a></p>
+
+</div><div id="c3006">
+
+<p>Now that I&#8217;ve started reading the comments along with the posts I find it amusing to see Blake getting more aggrevated by your posts.</p>
+
+<p>You can either put down as defence of an institution he has invested in OR you can see it as a good prod to get your head out your ass :)</p>
+
+<p>I wonder which you&#8217;ll go for.</p>
+
+<p>Tangential Thoughts Department: Why are we more candid (or bitchy) in our online presence then perhaps we are face-to-face?  While it seems intuitive that we have more anonymity and freedom when our words are divorced from our faces, it seems to me online speech is more permament and accessible and hence subject to more prolonged scrutiny.</p>
+
+<p>The rational thing to do would seem to be use candour in person and lie sweetly online.</p>
+
+<p>Just a random thought.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.monkeyx.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3006">Seyed Razavi</a> at October  6, 2004 10:05 AM <a href="#c3006">#</a></p>
+
+</div><div id="c3007">
+
+<p>Reading your series has been eye-opening for me. Here&#8217;s why:</p>
+
+<p>As I read and read, it pained me to see you putting down your school, especially since I live in a poor country (Panama Rep.) and probably will never have the chance to have access to the things you take for granted. Me and my friends have been watching the lectures for CS106X and some other classes online and sure wish we had teachers like Mehran (many thanks for the link, I wasn&#8217;t aware they were available).</p>
+
+<p>I realized then that I tend to think about my school in a similar way to how you think of yours, (this sucks, this could be so much better, etc). I&#8217;ve gained since a new appreciation for what I have: My school sucks compared to Stanford, but it is a privilege nonetheless. My resolution was to try make the best out of the tools I have.</p>
+
+<p>I decided to share these reflections hoping that maybe you could benefit from them as well. It would be a shame if you missed out on the many good things your tools have to offer because you&#8217;re unconciously filtering them out, just like with the unconcious racial filter you weren&#8217;t aware of.</p>
+
+<p class="posted">posted by Ariel Arjona at October  6, 2004 10:23 AM <a href="#c3007">#</a></p>
+
+</div><div id="c3009">
+
+<p>Zooko: I don&#8217;t know if you&#8217;re claiming I made a generalization or if Aaron made a generalization&#8230; I was not trying to claim that all Stanford students are like the small handful that I know. I was simply claiming that all Stanford students aren&#8217;t like Aaron &#8212; which I found to be a relief. I should also note that I have already met 5 or 6 interesting Stanford students (note: all but 1 are grad) who have fascinating lives outside of their classes and I&#8217;m not even a Stanford student! If you simply get to know the people around you Aaron, I bet you would be surprised at what they have to offer you&#8230;</p>
+
+<p>Also, Zooko, I agree, undergrads and grads are completely different populations. Not only do most schools strongly discourage undergraduates from applying to grad school (with hopes of increasing the diversity of both their student population and of the student&#8217;s education) but the focus of the undergraduate and graduate populations are drastically different. Many undergrads are in college simply because it&#8217;s what is expected of them, not because they necessarily want to be there. Grad students want to be there (or are masochists, take your pick).</p>
+
+<p>Try walking around with a &#8220;Candor Club&#8221; button, Aaron. Interact. Experience. Live. I&#8217;m assuming you&#8217;ve Heinlein&#8217;s <em>Stranger in a Strange Land</em>. You can&#8217;t &#8220;grok&#8221; Stanford or the college experience until you know every aspect of it. Simply observing, recording and criticizing won&#8217;t help you understand. </p>
+
+<p class="posted">posted by Ryan Nielsen at October  6, 2004 02:11 PM <a href="#c3009">#</a></p>
+
+</div><div id="c3012">
+
+<p>Even though Stanford might not be the place that Aaron though it was going to be (although I&#8217;m not sure what that is&#8230;) doesn&#8217;t mean that he (you, Aaron) can&#8217;t enjoy it.  It&#8217;s the small things in University that I found to make the difference.  And to be honest if my school had been exactly as I thought it would be, it would have sucked.  </p>
+
+<p>I think that even with the classes as they are, it sounds like you have picked an awesomely liberal school and that it would be a dream to go there.  An entire class on Chomsky??  That&#8217;s amazing.  I would have died for something like that in school.  </p>
+
+<p>Plus if you&#8217;re really bored, go check out the Stanford varsity squash team&#8230;.they&#8217;re really good.</p>
+
+<p class="posted">posted by Andrew Huff at October  6, 2004 03:08 PM <a href="#c3012">#</a></p>
+
+</div><div id="c3013">
+
+<p>Aron is simply representative of generation D (drama).. Everything must be dramatic, whiney, boo hoo, or great great highs..yipeee yeah!!!</p>
+
+<p>It can&#8217;t just simply be </p>
+
+<p>&#8220;Well, things are moving a little slowly. It&#8217;s kinda&#8217; strange but I&#8217;ll work it out.&#8221;</p>
+
+<p>Nope! You&#8217;ll never get that from generation D. Every aspect of their life is approached like MTV&#8217;s Real World. Dramatic!</p>
+
+<p class="posted">posted by hijhia at October  6, 2004 04:51 PM <a href="#c3013">#</a></p>
+
+</div><div id="c3014">
+
+<p>hijhia: no, not necessarily.  We&#8217;re not all dramatic just for the sake of being dramatic.  It must be just a personal thing. </p>
+
+<p>(Besides, I always thought the D stood for digital?  No?)</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.ottergreen.blogspot.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3014">janna</a> at October  6, 2004 05:37 PM <a href="#c3014">#</a></p>
+
+</div><div id="c3015">
+
+<p>Ryan: I wasn&#8217;t really directing my comments at anyone in particular.  The undergrads I met at the University of Colorado at Boulder were mostly dumb, but a small contingent of them were brilliant and delightful.  I didn&#8217;t attend Berkeley, but I attended a few parties hosted by a small contingent of Berkeley grad students and they were all brilliant and delightful.</p>
+
+<p>hijhia: most people experience strong and life-changing emotions when they first leave home, go to university, become late-teenish-early-twentiesh, and so on.  Anyone who went through that experience without expressing intense emotions about it would be unusual.  However, since you and I are of generation C, we Complain and Carp Cynically and Caustically Cause we Can.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://zooko.com/log.html" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3015">Zooko</a> at October  6, 2004 05:50 PM <a href="#c3015">#</a></p>
+
+</div><div id="c3017">
+
+<p>Don&#8217;t change course Aaron based on these comments-I doubt anyone really knows you. Your attempt to be honest and record you experience from a realism view point is excellent. But do keep a relative perspective and realize that relationships between objects are important and not the objects themselves. A  class or professor or party or event or person (object) will mean many different things (relationship) depending on the other object involved. You&#8217;re just one object, although I agree with you one your take of most things &#8216;cause there are some serious problems with our &#8216;fake&#8217; (best word I can think of) society. But then again, people are just trying to get by, grasping around in the dark especially as young adults trying to make the right choices for their lives.</p>
+
+<p class="posted">posted by jefree at October  7, 2004 12:26 AM <a href="#c3017">#</a></p>
+
+</div><div id="c3018">
+
+<p>Zooko: Small world&#8230; when did you go to CU? I&#8217;m Computer Science, class of 2004 (graduated in May). Hopefully I&#8217;m one of those who you found to be &#8220;brilliant and delightful&#8221;! ;-)</p>
+
+<p>What I wouldn&#8217;t give to be on Perl St. right now, drinking a beer and enjoying the brisk fall weather&#8230; <em>sigh</em></p>
+
+<p class="posted">posted by Ryan Nielsen at October  7, 2004 12:58 AM <a href="#c3018">#</a></p>
+
+</div><div id="c3019">
+
+<p>hey aaron, i went to the career fair in white plaza, too. what did you think about the distribution of companies this year? i agree with you, i think the school puts a bit too much emphasis on finding a job, what&#8217;s the big deal? Most of those companies are offering dead-end positions&#8230;</p>
+
+<p class="posted">posted by <a target="_blank" title="http://xanga.com/nosleepyboy" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3019">Michael</a> at October  7, 2004 02:59 AM <a href="#c3019">#</a></p>
+
+</div><div id="c3020">
+
+<p>I went to CU from 1993 to 1995 and from 1998 to 1999.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://zooko.com/log.html" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3020">Zooko</a> at October  7, 2004 04:32 AM <a href="#c3020">#</a></p>
+
+</div><div id="c3035">
+
+<p>Maybe you answered this earlier in your blog, but why did you come here?  You sound a lot like my cousin&#8230; IQ of 170+, noted programmer&#8230; you might be happier at a community college.  I know he was.</p>
+
+<p class="posted">posted by Curt at October  9, 2004 05:35 AM <a href="#c3035">#</a></p>
+
+</div><div id="c3149">
+
+<p>Horray, first weeks at Standford, introduction to sociology.  I&#8217;ll get soon my master in sociology and will follow your progress with great interest. Locke is just a node in a pretty huge network of thoughts. So stay cool, let you inspire and go on &#8220;thinking deeply about things.&#8221; Complexity will come. Thanks for your work on RSS and the Semantic Web. Greetings from Europe. Stefan</p>
+
+<p class="posted">posted by Stefan at October 20, 2004 04:22 PM <a href="#c3149">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001432.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1432" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

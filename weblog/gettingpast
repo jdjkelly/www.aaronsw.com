@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Getting Past (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Getting Past</h1>
+
+<p>He called me into his office. It was an imposing room, wood paneling and a window opening on to a picturesque view of the water. An ornate light fixture hung from the ceiling, illuminating the mahogany desk, neatly organized with boxes OUT and IN, with a stack of paper, with a pad for writing on. There was no computer. He didn&#8217;t need a computer. A computer would have ruined the look.</p>
+
+<p>The walls were lined with bookshelves and the bookshelves were lined with management texts. Books on how to make people eat cheese, how to make them say yes, how to make them think positive thoughts, how to make them get rich. Books on locks and unlocking, thoughts and unthinking, beings and unbeing.</p>
+
+<p>&#8220;Take a seat, Geoffrey,&#8221; he said, looking at me from behind glasses, a tailored suit hanging on his frame. I obeyed, as I always did. It was an order.</p>
+
+<p>&#8220;There&#8217;s been concern around the office,&#8221; he said. No agent. Not &#8220;people are concerned&#8221;, not &#8220;I&#8217;m concerned&#8221;, simply that &#8220;there&#8217;s been concern&#8221;, as if it was some poisonous gas that had been leaking out of my cubicle, green fumes floating in mid-air.</p>
+
+<p>&#8220;There&#8217;s been concern that you&#8217;re not being a team player.&#8221; A sports metaphor. Here we are, all rocketing towards the goal, filing our TPS reports in tandem, and me? I&#8217;m not being a team player. I&#8217;m sitting in the corner playing Minesweeper or one of those online flash games with the little jewels. The team&#8217;s let down. I&#8217;m holding everyone up.</p>
+
+<p>&#8220;I think that the best way forward is for us to get past this,&#8221; he explains. Isn&#8217;t that always the case? If we&#8217;re on a path, and there&#8217;s a rock, then obviously we have to go past it to go forward. We could go a different direction, but then we wouldn&#8217;t be going forward anymore. But how did I become a rock?</p>
+
+<p>&#8220;It&#8217;s clear to all of us,&#8221; he says. But who&#8217;s &#8220;us&#8221;? There&#8217;s only him here. &#8220;It&#8217;s clear to all of us that your heart&#8217;s not in it.&#8221; I imagine myself, lying on the surgery table, the bright light shining from above, with an army of hims surrounding me; they&#8217;re the us. One of him asks another for the scalpel, takes it, begins cutting out my still-beating heart. Aha, they think, his heart&#8217;s not in it &#8212; it&#8217;s still in him.</p>
+
+<p>They toss the heart in the trash and file out. They need to interview another job candidate.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">February  8, 2007</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>Those in a &#8220;closed world group&#8221; always know who needs to be rejected to maintain the group as such. It only hurts while your heart is still in the group. Welcome to the outside world :)</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://fastblogit.com/seth">Seth Russell</a>
+ on February  8, 2007 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>Somedays I wish this would happen to me.</p>
+
+<p class="posted">posted by Anonymous
+ on February  8, 2007 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="gettingpast" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

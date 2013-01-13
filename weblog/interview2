@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Lengthy Interview (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Lengthy Interview</h1>
+
+<p>The other day I had <a href="http://blog.outer-court.com/archive/2007-05-07-n78.html">a lengthy interview</a> with Philipp Lenssen of Google Blogoscoped, which he&#8217;s now posted with little editing. It&#8217;s interesting to see how stilted my normal IM conversation sounds when reformated into paragraphs.</p>
+
+<p>I say a bunch of things in the interview that are probably going to upset various people I know. In my defense, it was an interview &#8212; I didn&#8217;t rehearse my remarks in advance &#8212; but I&#8217;ll post corrections here if I said anything outrageously wrong.</p>
+
+<p>Postscript: I did finish <cite>Intuition</cite>. It took me surprisingly long to realize it was just a novelization of the Baltimore affair!</p>
+
+<p><strong>Update:</strong> <a href="http://valleywag.com/tech/archetypes/the-nontrepreneur-258466.php">Help, I&#8217;m trapped in a trend story!</a></p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">May  7, 2007</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>Intuition == Baltimore affair !</p>
+
+<p>..nice :)-</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://peterdawson.typepad.com">/pd</a>
+ on May  7, 2007 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>&#8220;(I slept in a cupboard)&#8221;. Funny how you keep repeating that. Especially since Alex said it was only one night. Nice soundbite I guess&#8230;</p>
+
+<p class="posted">posted by et
+ on May  7, 2007 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>It wasn&#8217;t just one night; but if you sleep in a cupboard you justify it to yourself by saying you&#8217;ll get to tell stories about it later.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on May  7, 2007 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>Juz read on your quite cool interview, really interesting. I especially liked the tshirt.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://i5bala.com">Balakumar Muthu</a>
+ on May  8, 2007 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>Hi Aaron,
+   Very interesting interview and very interesting follow-up on reddit discussions as well. I enjoyed the whole slugfest tremendously not for the arguments but for the insight they provided both for the arguments and the people involved in the arguments. As an aside, am planning to check out Web.py for use in a project ;-) &#8230; All the best for the future.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://rootshell.be/~timmyj">Timmy Jose</a>
+ on May  8, 2007 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c6">
+<p>Yay Aaron..But, hey I didn&#8217;t know you looked so geeky as a kid :P</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://atunu.blogspot.com">Naser</a>
+ on May  8, 2007 <a href="#c6" rel="bookmark">#</a></p>
+</div>
+<div id="c7">
+<p>Enjoyed it immensely.</p>
+
+<p>Don&#8217;t let all the critics bring you down. Many will try to cast stones at those in the public limelight, warranted or not.</p>
+
+<p>You&#8217;re a bright kid, still. Keep on your desires, not theirs.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://azspot.net">naum</a>
+ on May  8, 2007 <a href="#c7" rel="bookmark">#</a></p>
+</div>
+<div id="c8">
+<p>nice interview. yeah, it would be a big mistake if you take those critics (in reddit especially) personally. You have achieved so much in such a young age and should just be proud of that. keep the good work up.</p>
+
+<p class="posted">posted by simul
+ on May  8, 2007 <a href="#c8" rel="bookmark">#</a></p>
+</div>
+<div id="c10">
+<p>In the interview, you said &#8220;Blogs, TV, newspapers, and magazines barely do a good job helping us understand the news of the day, let alone the larger issues of the world.&#8221;</p>
+
+<p>I think I&#8217;ve actually got a draft e-mail somewhere about this. I&#8217;ve been looking for some site that addresses this. It seems a site could work, one that updates the state of countries based on several variables at several time scales. A table of countries and performance variables with a zoom button, but the zoom is temporal: 1 week, 1 month, 6 months, 1 year, 2 years, 5 years, 10 years, 20 years, 50 years, 100 years, 200 years. Maybe a temporal scroll function, so you can, in the time scale of your choice, step through the data: 1990s, 1980s, 1970s, 1960s, etc. Hans Rosling indicates this data is out there in his <a href="http://www.ted.com/index.php/talks/view/id/92" rel="nofollow">TED talk</a> and names some of the data sources.</p>
+
+<p>Each number in every table could presumably link through to a historical wiki article about that time period, providing non-numeric context.</p>
+
+<p>How to measure peformance? Some baseline characteristics would have to be included: acreage, population, immigration rate, emigration rate, a cohort plot. <a href="http://www.sasi.group.shef.ac.uk/worldmapper/textindex/text_index.html" rel="nofollow">World Mapper</a> has an interesting array of other variables, but the data should be in tabular form for purpose of massively multivariate comparison, at least at the density of the stocks page or the sports page.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://nielsolson.us/Haversian/">Niels Olson</a>
+ on May  9, 2007 <a href="#c10" rel="bookmark">#</a></p>
+</div>
+<div id="c11">
+<p>Oh, and the NGOs could have links, so if someone sees a trend that bothers them, they can go to the site of the organization that works on such issues.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://nielsolson.us/Haversian/">Niels Olson</a>
+ on May  9, 2007 <a href="#c11" rel="bookmark">#</a></p>
+</div>
+<div id="c12">
+<p>That was a good interview. Always interesting to hear what smart people (who are also voracious readers &#8212; with the time to do all that reading!) think about things.</p>
+
+<p>Aaron, what do you mean &#8220;recovering programmer&#8221;? Do you plan on doing any world-changing software projects? Or are you shifting your efforts to other pursuits?</p>
+
+<p class="posted">posted by John
+ on May  9, 2007 <a href="#c12" rel="bookmark">#</a></p>
+</div>
+<div id="c13">
+<p>Whoops. Sorry. Nevermind that last question. You already said &#8220;no comment&#8221; to that in the interview.</p>
+
+<p class="posted">posted by John
+ on May 10, 2007 <a href="#c13" rel="bookmark">#</a></p>
+</div>
+<div id="c14">
+<p>Aaron, I agree with your thinking about subtle sexism and racism in our industry, that the problem is widely misunderstood (as evidenced in the comments at blogoscoped).</p>
+
+<p>There are at least four phases that organizations go through in addressing the problem, and there is lots of variability as to how quickly they progress.  1) the identification of overt sexist and racism, 2) attempts to enhance ?diversity? with awkward explicit or implicit quotas, 3) the recognition that organizations are more powerful, more effective, when they take advantage of individual differences, and 4) recognizing and driving  heterogeneity in thought, perspective, methods, as a competitive advantage.</p>
+
+<p>I am a manager at Cisco.  The Cisco US engineering community is not particularly diverse by conventional measurement.  But the corporate culture is strongly driven by principles of inclusiveness and collaboration, harder to measure but better goals.  As more and more engineering happens outside the US the conventional metrics will take care of themselves.</p>
+
+<p>One interesting stat: soon, worldwide, fewer that 30% of Cisco buy decisions will be made by white men.</p>
+
+<p>Lastly, I?d like to better understand your mention of Cisco?s role in content filtering in China, will investigate further.</p>
+
+<p class="posted">posted by Carty
+ on May 19, 2007 <a href="#c14" rel="bookmark">#</a></p>
+</div>
+<div id="c15">
+<p>I did a little reading, and I speak here as an individual, not a Cisco employee.</p>
+
+<p>It looks like the Chinese government (or their agents) use standard Cisco router packet filtering technology to build ?the great firewall?.  There are no Cisco engineers ?building? the firewall, there are no features or functionality being developed for the Chinese government.</p>
+
+<p><i> ?Google?s hackers are a lot smarter than the Cisco people building the Great Firewall of China.</i> therefore may be a tad unfair.</p>
+
+<p>There are, broadly, two classes of packet filters.  Filters that act on information available in IP packet headers (source IP, destination IP, etc.).  These filters are gross but can be executed very fast.  Finer filters can filter based on packet payload contents (keywords, patterns, etc.).  These finer filters exist primarily for signature-based intrusion detection.  They run much slower.  It appears that the Chinese government uses both</p>
+
+<p>I?m not a Google engineer or even a Cisco engineer but both mechanisms would be trivial to circumvent with multiple hops/spoofing and encryption.   I suspect this is not a technology issue at all but one of policy, and for Chinese citizens, non-trivial personal risk.</p>
+
+<p>As for Cisco?s role, I?ll continue to learn more.  It appears that Cisco?s actual contribution to the Great Firewall is its unwillingness to refuse to sell standard routers, not clear to me that that?s evil.  I?d be interested in and open to alternative views.</p>
+
+<p class="posted">posted by 
+ on May 19, 2007 <a href="#c15" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="interview2" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

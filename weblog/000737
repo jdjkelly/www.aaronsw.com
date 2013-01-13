@@ -1,0 +1,47 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>bandwidth and open spectrum (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/000737.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000736" title="photographic beauty" />	<link rel="next" href="000738" title="the rss rebellion" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>bandwidth and open spectrum</h1>
+</div>
+
+<div class="content">
+<p><strong>Geeky detail:</strong> For some reason I had set Apache to try and parse every file on the site for server-side includes. Now it only parses certain pages but I may have missed some that need it. If you find anything broken, let me know. (A nice side-effect is that now all pages will have ETags and Last-Modified dates.) I also turned on mod_gzip so now HTTP/1.1 clients can get the same information with less bits (and hopefully sooner).</p>
+
+<p><a href="http://www.reed.com/OpenSpectrum/FCC02-135Reed.html">Reed&#8217;s submission to the FCC on open spectrum</a> explains why using &#8220;bandwidth&#8221; to mean &#8220;information rate&#8221; is wrong. Bandwidth is a measurement of how much of the radio &#8220;spectrum&#8221; is being used. We used to think that bandwidth was directly proportional to information rate (like bits per second) so many used the terms interchangably (more frequencies used meant more bits per second). This specific confusion turned into a generic one when bandwidth begun being used to mean information rate even when radio is not involved. But even with radio waves, we&#8217;ve since discovered that this isn&#8217;t true &#8212; there are ways to increase information rate within the same bandwidth.</p>
+
+<p>This open spectrum stuff is really exciting. I couldn&#8217;t really get excited about ultrawideband or software defined radio, but the larger picture is much more interesting. I hope to write a <a href="http://logicerror.com/">LogicError</a> article explaining why soon.</p>
+
+<p class="posted">posted November 25, 2002 08:48 PM (<a class="category" href="cat_technology">Technology</a>)  <a href="000737" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000736" title="photographic beauty">&laquo; prev</a> | <a href="./">up</a> | <a href="000738" title="the rss rebellion">next &raquo;</a></p>
+
+<p><a href="000729">greenspan# make economy</a><br />
+<a href="000731">I&#8217;ll be at Comdex</a><br />
+<a href="000733">Stirling Engine introduced on 60 Minutes, Segway on Amazon.com</a><br />
+<a href="000735">cupcake controls a prior restraint?</a><br />
+<a href="000736">photographic beauty</a><br />
+<strong>bandwidth and open spectrum</strong><br />
+<a href="000738">the rss rebellion</a><br />
+<a href="000742">Total Information Awareness Demo</a><br />
+<a href="000743">Creative Commons Launch!</a><br />
+<a href="000745">the next eldred</a><br />
+<a href="000746">web publishing is also typography (The Elements of Typographic Style)</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

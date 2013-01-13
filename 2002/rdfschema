@@ -1,0 +1,628 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>RDF Schema 1.0</title>
+<style type="text/css">
+.EXAMPLE { margin-left: 1em }
+td { vertical-align: top}
+tr { background: #7898bf;}
+tr.odd { background: transparent}
+.added {
+   color: green;
+   text-decoration: underline;
+   background: white;
+}
+.removed {
+   color: red;
+   background: white;
+   text-decoration: line-through;
+}
+
+.actionLabel {
+   font-weight: bold
+}
+
+.actionDecision {
+   color: black;
+   background: #99ffff;
+}
+
+div.issue,
+div.block,
+div.note  { margin-left: 2em; }
+
+.todo {
+  color: red;
+
+}
+
+div.productionOuter {
+/*
+   border: 4px double gray;
+*/
+   margin: 0em;
+   padding: 0em;
+}
+
+div.productionInner {
+   color: black;
+   /* tan */
+   /* background-color: #d2b48c; */
+   /* cyan */
+   /* background-color: #99ffff; */
+   /* mauve */
+   background-color: #efeff8;
+/*
+   border-top-style: double;
+   border-top-color: #d3d3d3;
+   border-bottom-width: 4px;
+   border-bottom-style: double;
+   border-bottom-color: #d3d3d3;
+*/
+   padding: 0.5em;
+   margin: 0em;
+}
+
+div.productionInner p {
+   margin-left: 0em;
+   margin-top: 0em;
+   margin-bottom: 0em
+}
+
+div.ntripleOuter {
+/*
+   border: 4px double gray;
+*/
+   margin: 0em;
+   padding: 0em;
+}
+
+div.ntripleInner {
+   color: black;
+   /* tan */
+   /* background-color: #d2b48c; */
+   /* cyan */
+   /* background-color: #99ffff; */
+   /* mauve */
+   /* background-color: #efeff8; */
+   /* LightGoldenrod1 */
+   background-color: #ffec8b;
+/*
+   border-top-style: double;
+   border-top-color: #d3d3d3;
+   border-bottom-width: 4px;
+   border-bottom-style: double;
+   border-bottom-color: #d3d3d3;
+*/
+   padding: 0.5em;
+   margin: 0em;
+}
+
+div.ntripleInner p {
+   margin-left: 0em;
+   margin-top: 0em;
+   margin-bottom: 0em
+}
+
+div.exampleOuter {
+   border: 4px double gray;
+   margin: 0em;
+   padding: 0em;
+}
+
+div.exampleInner {
+   color: black;
+   /* tan */
+   /* background-color: #d2b48c; */
+   /* cyan */
+   /* background-color: #99ffff; */
+   /* mauve */
+   background-color: #efeff8;
+   border-top-style: double;
+   border-top-color: #d3d3d3;
+   border-bottom-width: 4px;
+   border-bottom-style: double;
+   border-bottom-color: #d3d3d3;
+   padding: 4px;
+   margin: 0em;
+}
+
+div.exampleInner pre {
+  margin-left: 0em;
+  margin-top: 0em;
+  margin-bottom: 0em;
+  font-family: monospace;
+  /* font-size: smaller */
+}
+
+span.termdef {
+  color: #850021 
+}
+
+a.termref:visited, a.termref:link {
+  font-family: sans-serif;
+  font-style: normal;
+  color: black;
+  text-decoration: none
+}
+
+span.arrow {
+  font-style: normal;
+  font-weight: bold
+}
+
+</style>
+    <link rel="stylesheet" type="text/css"
+    href="http://www.w3.org/StyleSheets/TR/W3C-WD" />
+  </head>
+  <body>
+    <div class="head">
+      <p>
+        <a href="http://www.w3.org/"><img height="48" width="72"
+        src="http://www.w3.org/Icons/w3c_home" alt="W3C"
+        border="0" /></a>
+      </p>
+    </div>
+    <h1>RDF Schema 1.0</h1>
+    <h2>
+      W3C Working Draft, April 23 2002
+    </h2>
+    <dl>
+      <dt>
+        This Version:
+      </dt>
+      <dd>
+        <a
+        href="http://www.aaronsw.com/2002/rdfschema">http://www.aaronsw.com/2002/rdfschema</a>
+      </dd>
+      <dt>
+        Latest Version:
+      </dt>
+      <dd>
+        <a href="@@">@@xxx</a>
+      </dd>
+      <dt>
+        Previous Version:
+      </dt>
+      <dd>
+        <a href="http://www.w3.org/TR/2000/CR-rdf-schema-20000327">http://www.w3.org/TR/2000/CR-rdf-schema-20000327</a>
+      </dd>
+      <dt>
+        Editors:
+      </dt>
+      <dd>
+        Dan Brickley, W3C &lt;danbri@w3.org&gt;
+      </dd>
+      <dd>
+        R.V. Guha &lt;guha@guha.com&gt;
+      </dd>
+    </dl>
+    <p class="copyright">
+      <a
+      href="http://www.w3.org/Consortium/Legal/ipr-notice#Copyright">
+      Copyright</a> &copy;1998-2002 <a
+      href="http://www.w3.org/"><abbr
+      title="World Wide Web Consortium">W3C</abbr></a><sup>&reg;</sup>
+      (<a href="http://www.lcs.mit.edu/"><abbr
+      title="Massachusetts Institute of Technology">MIT</abbr></a>,
+      <a href="http://www.inria.fr/"><abbr lang="fr"
+      title="Institut National de Recherche en Informatique et Automatique">
+      INRIA</abbr></a>, <a href="http://www.keio.ac.jp/">Keio</a>),
+      All Rights Reserved. W3C <a
+      href="http://www.w3.org/Consortium/Legal/ipr-notice#Legal_Disclaimer">
+      liability</a>, <a
+      href="http://www.w3.org/Consortium/Legal/ipr-notice#W3C_Trademarks">
+      trademark</a>, <a
+      href="http://www.w3.org/Consortium/Legal/copyright-documents-19990405">
+      document use</a> and <a
+      href="http://www.w3.org/Consortium/Legal/copyright-software-19980720">
+      software licensing</a> rules apply.
+    </p>
+    <hr />
+    <h2>
+      Abstract
+    </h2>
+    <p>
+      The Resource Description Framework (RDF) is a general-purpose
+      language for representing information in the Web. This
+      specification describes how to use RDF to describe RDF
+      vocabularies. This specification also defines a basic
+      vocabulary for this purpose, as well as conventions that can
+      be used by Semantic Web applications to support more
+      sophisticated RDF vocabulary description.
+    </p>
+    <h2>
+      Status of this document
+    </h2>
+    <p>
+      This section describes the status of this document at the
+      time of its publication. Other documents may supersede this
+      document.
+    </p>
+    <p>
+      <strong>EDITOR'S WORKING COPY!</strong> This is not yet a W3C
+      WD.
+    </p>
+    <p>
+      This document is a <a
+      href="/Consortium/Process-20010719/tr#RecsWD">Working
+      Draft</a> of the <a href="/2001/sw/RDFCore/">RDF Core</a>
+      Working group, and has been produced as part of the <a
+      href="/2001/sw/">Semantic Web Activity</a> and a revision of the Candidate
+      Recommendation of <a
+      href="http://www.w3.org/TR/2000/CR-rdf-schema-20000327">March
+      27 2000</a>,
+    </p>
+    <p>
+      The Resource Description Framework is part of the <a
+      href="http://www.w3.org/2001/sw/">W3C Semantic Web
+      Activity</a>. The goal of this activity, and of RDF
+      specifically, is to produce a language for the exchange of
+      machine-understandable information using the Web. Separate
+      specifications describes the RDF <a href="#refs@@">data model
+      and syntax</a>.@@primer etc here
+    </p>
+    <p>
+      It is inappropriate to use a W3C Working Draft as reference
+      material or to cite them as other than "work in progress".
+      This is work in progress and does not imply endorsement by,
+      or the consensus of W3C. A list of current W3C
+      Recommendations and other technical documents can be found at
+      <a href="http://www.w3.org/TR">http://www.w3.org/TR</a>.
+    </p>
+    <h2>
+      Contents
+    </h2>
+        <p class="todo">
+        @@check before publication
+      </p>
+    <h2>
+      <a id="intro" name="intro"></a>Introduction
+    </h2>
+    <p>
+      The language defined in this specification consists of a
+      collection of RDF resources that can be used to describe
+      properties of other RDF resources (including properties)
+      which define application-specific RDF vocabularies. The core
+      vocabulary is defined in a namespace informally called
+      '<code>rdfs</code>' here, and identified by the URI reference
+      <code>http://www.w3.org/2000/01/rdf-schema#</code>. This
+      specification also uses the prefix '<code>rdf</code>' to
+      refer to the core RDF namespace
+      <code>http://www.w3.org/1999/02/22-rdf-syntax-ns#</code>.
+    </p>
+    <p>
+      <strong>Editorial Note:</strong> this Working Draft does not
+      propose a change to the namespace URIs use, nor to the prefix
+      'rdfs' traditionally used to indicate the vocabulary
+      description language's namespace URI . The Working Group seek
+      seekback from implementors on the costs and benefits of
+      moving to a new RDFS namespace URI.
+    </p>
+    <h2>RDF Terms</h2>
+    <table border="0">
+    <tr class="odd"><td>rdfs:Resource</td><td>All things described by RDF are called <em>resources</em>, and are members of the class <code>rdfs:Resource</code>.</td></tr>
+    <tr><td>rdfs:Literal</td><td><code>rdfs:Literal</code> represents to the self-denoting nodes called the 'literals' in the RDF graph structure. Atomic values such as textual strings are examples of RDF literals.</td></tr>
+
+    <tr class="odd"><td>rdfs:Class</td><td>
+      This corresponds to the generic concept of a <em>type</em> or
+      <em>category</em> of resource.
+      RDF class membership is used to represent types or categories
+      of resource. Two classes may happen to have the same members,
+      while remaining distinct resources.</td></tr>
+
+    <a id="rdfproperty" name="rdfproperty"></a> 
+    <tr><td>
+      rdf:Property
+    </td><td>
+      <code>rdf:Property</code> represents those resources that are
+      RDF properties.</td></tr>
+    <tr class="odd"><td>
+      rdf:type
+    </td><td>
+    <div>
+      The <code>rdf:type</code> property indicates that a resource
+      is a member of a class.
+    </div>
+    <div>
+      When a resource has an <code>rdf:type</code> property whose
+      value is some specific class, we say that the resource is an
+      <em>instance of</em> the specified class.
+    </div>
+    <div>
+      The value of an <code>rdf:type</code> property will always be
+      a resource that is an instance of <code>rdfs:Class</code>.
+      The resource known as <code>rdfs:Class</code> is itself a
+      resource of <code>rdf:type</code> <code>rdfs:Class</code>.</td></tr>
+    </div>
+    <a id="rdfssubclassof" name="rdfssubclassof"></a> 
+    <tr><td>
+      rdfs:subClassOf
+    </td><td>
+      The <code>rdfs:subClassOf</code> property represents a
+      specialisation relationhip between classes of resource. The
+      <code>rdfs:subClassOf</code> property is transitive.</td></tr>
+    </div>
+    <tr class="odd"><td>
+      rdfs:subPropertyOf
+    </td><td>
+    <p>
+      The property <code>rdfs:subPropertyOf</code> is an instance
+      of <code>rdf:Property</code> that is used to specify that one
+      property is a specialization of another.
+    </p>
+    <p>
+      Sub-property hierarchies can be used to express hierarchies
+      of range and domain constraints. All <code>rdfs:range</code>
+      and <code>rdfs:domain</code> properties that apply to an RDF
+      property also apply to each of its sub-properties.
+    </p></tr></td>
+    <tr><td>
+      rdfs:range
+    </td><td>
+    <p>
+      An instance of <code>rdfs:Property</code> that is used to
+      indicate the class(es) that the values of a property will be
+      members of.
+    </p>
+    <p>
+      The value of an <code>rdfs:range</code> property is always a
+      <code>Class</code>. The <code>rdfs:range</code> property can
+      itself be used to express this: the <code>rdfs:range</code>
+      of <code>rdfs:range</code> is the class
+      <code>rdfs:Class</code>. This indicates that any resource
+      that is the value of a range property will be a class.
+    </p>
+    The <code>rdfs:range</code> property is only applied to
+    properties. This can also be represented in RDFusing the
+    <code>rdfs:domain</code> property. The <code>rdfs:domain</code>
+    of <code>rdfs:range</code> is the class
+    <code>rdf:Property</code>. This indicates that the
+    <code>range</code> property applies to resources that are
+    themselves properties. <br /></td></tr>
+     <br />
+     
+    <tr class="odd"><td>
+      rdfs:domain
+    </td><td>
+    <p>
+      An instance of <code>rdfs:Property</code> that is used to
+      indicate the class(es) that will have as members any resource
+      that has the indicated property.
+    </p>
+    <p>
+      The <code>rdfs:domain</code> of <code>rdfs:domain</code> is
+      the class <code>rdf:Property</code>. This indicates that the
+      domain property is used on resources that are properties.
+    </p>
+    <p>
+      The <code>rdfs:range</code> of <code>rdfs:domain</code> is
+      the class <code>rdfs:Class</code>. This indicates that any
+      resource that is the value of a domain property will be a
+      class.
+    </p>
+    <h5>
+      Note: range, domain and sub-property hierarchies
+    </h5>
+    <p>
+      Sub-property hierarchies can be used to express hierarchies
+      of range and domain constraints. All <code>rdfs:range</code>
+      and <code>rdfs:domain</code> properties that apply to an RDF
+      property also apply to each of its sub-properties.
+    </p></tr></td>
+    <tr><td>
+      rdfs:label
+    </td><td>
+    <p>
+      The <code>rdfs:label</code> property is used to provide a
+      human-readable version of a resource's name.
+    </p>
+    <tr class="odd"><td>
+      rdfs:comment
+    </td><td>
+    <p>
+      The <code>rdfs:comment</code> property is used to provide a
+      human-readable description of a resource.
+    </p>
+    <p>
+      A textual comment helps clarify the meaning of RDF classes
+      and properties. Such inline documentation complements the use
+      of both formal techniques (Ontology and rule languages) and
+      informal (prose documentation, examples, test cases). A
+      variety of documentation forms can be combined to indicate
+      the intended meaning of the classes and properties described
+      in an RDF Schema.
+    </p>
+    <p>
+      Multilingual documentation of schemas is supported at the
+      syntactic level through use of the <code>xml:lang</code>
+      language tagging facility. Since RDF schemas are expressed as
+      RDF graphs, vocabularies defined in other namespaces may be
+      used to provide richer documentation.
+    </p></td></tr></table>
+    <h3>
+      RDF Container Classes and Properties
+    </h3>
+    <table border="0"><tr><td>
+      rdfs:Container
+    </td><td>
+    <p>
+      The <code>rdfs:Container</code> class is used to represent
+      the core RDF Container classes, ie. <code>rdf:Bag</code>,
+      <code>rdf:Seq</code>, <code>rdf:Alt</code>.
+    </p>
+    <tr class="odd"><td>
+      rdf:Bag
+    </td><td>
+    <p>
+      The <code>rdf:Bag</code> class represents RDF's 'Bag'
+      container construct, and is a subclass of
+      <code>rdfs:Container</code>.
+    </p>
+    <tr><td>
+      rdf:Seq
+    </td><td>
+    <p>
+      The <code>rdf:Seq</code> class represents RDF's 'Sequence'
+      container construct, and is a subclass of
+      <code>rdfs:Container</code>.
+    </p>
+    <tr class="odd"><td>
+      rdf:Alt
+    </td><td>
+    <p>
+      The <code>rdf:Seq</code> class represents RDF's 'Alt'
+      container construct, and is a subclass of
+      <code>rdfs:Container</code>.
+    </p>
+    <tr><td>
+      rdfs:ContainerMembershipProperty
+    </td><td>
+    <p>
+      The <code>rdfs:ContainerMembershipProperty</code> class has
+      as members the properties <code>_1, _2, _3 ...</code> that
+      can be used to indicate membership of Bag, Seq and Alt
+      containers. <code>rdfs:ContainerMembershipProperty</code> is
+      a subclass of <code>rdf:Property</code>. Each container
+      membership property is a <code>rdfs:subPropertyOf</code> the
+      <code>rdfs:member</code> property.
+    </p>
+    <tr class="odd"><td>
+      rdfs:member
+    </td><td>
+    <p>
+      The <code>rdfs:member</code> property is a super-property of
+      the container membership properties.
+    </p></td></tr></table>
+    <h3>
+      RDF Utility Classes and Properties
+    </h3>
+    <table border="0"><tr><td>
+      rdfs:seeAlso
+    </td><td>
+    <p>
+      The property <code>rdfs:seeAlso</code> is used to indicate a
+      resource that might provide additional information about the
+      subject resource.
+    </p>
+    <a id="rdfsisdefinedby" name="rdfsisdefinedby"></a> 
+    <tr class="odd"><td>
+      rdfs:isDefinedBy
+    </td><td>
+    <p>
+      The property <code>rdfs:isDefinedBy</code> is a subproperty
+      of <code>rdfs:seeAlso</code>, and indicates the resource
+      defining the subject resource. As with
+      <code>rdf:seeAlso</code>, this property can be applied to any
+      instance of <code>rdfs:Resource</code> and may have as its
+      value any <code>rdfs:Resource</code>.
+    </p>
+    <!-- editorial: we consider proposing rdfs:namespace instead -->
+    <tr><td>
+      rdf:value
+    </td><td>
+    <p>
+      Identifies the principal value (usually a string) of a
+      property when the property value is a structured resource.
+    </p>
+    <tr class="odd"><td>
+      rdf:Statement
+    </td><td>
+    <p>
+      The <code>rdf:Statement</code> class represents statements
+      about the properties of resources.
+    </p>
+    <p>
+      <code>rdf:Statement</code> is the domain of the properties
+      <code>rdf:predicate</code>, <code>rdf:subject</code> and
+      <code>rdf:object</code>.
+    </p>
+    <p>
+      Different individual <code>rdf:Statement</code> instances may
+      happen to have the same values for their predicate, subject
+      and object properties.
+    </p>
+    <tr><td>
+      rdf:subject
+    </td><td>
+    <p class="schemacomment">
+      The subject of an RDF statement.
+    </p>
+    <p>
+      The <code>rdf:subject</code> property indicates a resource
+      that is the subject of some RDF statement.
+    </p>
+    <p>
+      The <code>rdfs:domain</code> of <code>rdf:subject</code> is
+      <code>rdf:Statement</code> and the <code>rdfs:range</code> is
+      <code>rdfs:Resource</code>. This property can be used to
+      specify the resource described by an RDF statement.
+    </p>
+    <tr class="odd"><td>
+      rdf:predicate
+    </td><td>
+    <p class="schemacomment">
+      The predicate of an RDF statement.
+    </p>
+    <p>
+      The <code>rdfs:domain</code> of <code>rdf:predicate</code> is
+      <code>rdf:Statement</code> and the <code>rdfs:range</code> is
+      <code>rdfs:Resource</code>. This property can be used to
+      specify the predicate used in an RDF statement.
+    </p>
+    <tr><td>
+      rdf:object
+    </td><td>
+    <p class="schemacomment">
+      The object of an RDF statement.
+    </p>
+    <p>
+      The <code>rdfs:domain</code> of <code>rdf:object</code> is
+      <code>rdf:Statement</code>. No range is defined for this
+      property since values of <code>rdfs:object</code> can include
+      both Literals and Resources. This property can be used to
+      specify the object of an RDF statement.
+    </p>
+    </table>
+    <h2>
+      <a id="refs" name="refs"></a>References
+    </h2>
+    <a id="s8.1" name="s8.1"></a> 
+    <h3>
+      Normative References <span
+      class="todo">@@TODO:update/check</span>
+    </h3>
+    <dl>
+      <dt>
+        <a id="rdfmscite" name="rdfmscite"></a> [RDFMS]
+      </dt>
+      <dd>
+        <a
+        href="http://www.w3.org/TR/1999/REC-rdf-syntax-19990222"><cite>
+        Resource Description Framework (RDF) Model and
+        Syntax</cite></a>, W3C Recommendation, 22 February
+        1999<br />
+         <small><tt><a
+        href="http://www.w3.org/TR/1999/REC-rdf-syntax-19990222">http://www.w3.org/TR/1999/REC-rdf-syntax-19990222</a></tt></small><br />
+      </dd>
+      <dt>
+        <a id="xmlnscite" name="xmlnscite"></a>[XMLNS]
+      </dt>
+      <dd>
+        <a
+        href="http://www.w3.org/TR/1999/REC-xml-names-19990114"><cite>
+        Namespaces in XML</cite></a>; W3C Recommendation, 14
+        January 1999<br />
+         <small><tt><a
+        href="http://www.w3.org/TR/1999/REC-xml-names-19990114">http://www.w3.org/TR/1999/REC-xml-names-19990114</a></tt></small><br />
+      </dd>
+    </dl>
+    <hr />
+    <address>
+      <a href="mailto:www-rdf-comments@w3.org">Comments</a><br />
+       $Date: 2002/04/22 14:15:56 $
+    </address>
+  </body>
+</html>
+

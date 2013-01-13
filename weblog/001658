@@ -1,0 +1,190 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Stanford: Another New Beginning (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001658.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001628" title="Stanford Interactive: What classes should I take?" />	<link rel="next" href="001661" title="Stanford: Taxonomies of Love" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Stanford: Another New Beginning</h1>
+</div>
+
+<div class="content">
+<p>Classes begin, and the campus hums to life again. The ceiling of clouds moves to reveal a bright blue sky and a beautiful sun illuminating as far as the I can see. Happy music begins to play as familiar characters reprise their roles in cameos here and there.</p>
+
+<p>From the posters popping up around school, one can guess that student government elections are going to be held soon. Like student governments everywhere, this one has no power (although it does appear to have a lot of money, but there are already lots of procedures in place on how it can be spent) so electoral appeals are even more vapid than those in normal elections (hard to believe, I know). Posters promoted a candidate by:</p>
+
+<ul>
+<li>implying he had a long penis</li>
+<li>suggesting she&#8217;s ugly, just like you</li>
+<li>offering to simplify student government regulations</li>
+<li>hinting that she&#8217;s black</li>
+<li>listing words that rhymed</li>
+<li>offering to provide free rental cars</li>
+<li>noting that their last name begins with the letter C</li>
+</ul>
+
+<p>Can&#8217;t wait to see the latest polling&#8230;</p>
+
+<p class="posted">posted March 31, 2005 11:28 PM (<a class="category" href="cat_education">Education</a>) (<a href="#comments">3 comments</a>) <a href="001658" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001628" title="Stanford Interactive: What classes should I take?">&laquo; prev</a> | <a href="./">up</a> | <a href="001661" title="Stanford: Taxonomies of Love">next &raquo;</a></p>
+
+<p><a href="001651">Stanford: Feats of Memory</a><br />
+<a href="001652">Lessons in Capitalism #3: Sycophancy</a><br />
+<a href="001653">Stanford: Spring Break</a><br />
+<a href="001654">Home: Spring Break</a><br />
+<a href="001628">Stanford Interactive: What classes should I take?</a><br />
+<strong>Stanford: Another New Beginning</strong><br />
+<a href="001661">Stanford: Taxonomies of Love</a><br />
+<a href="001667">articles: the finest of the short nonfiction form</a><br />
+<a href="001668">Giraffes? Giraffes. No, seriously, giraffes!</a><br />
+<a href="001671">Stanford: Radiant Garden City Beautiful</a><br />
+<a href="001672">SFP: The Story So Far</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c4709">
+
+<p>Hey, it&#8217;s everywhere - NCSU apparently even has <a href="http://www.wral.com/news/4335535/detail.html">a Pirate running for office</a></p>
+
+<p class="posted">posted by <a target="_blank" title="http://people.engr.ncsu.edu/jayoung" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=4709">Jason Young</a> at April  1, 2005 01:52 PM <a href="#c4709">#</a></p>
+
+</div><div id="c4765">
+
+<p>At Vassar College, which I currently attend part-time, I&#8217;ve seen many posters like those. One showed &#8220;before&#8221; and &#8220;after&#8221; shots of Michael Jackson &#8212; one as a dark-skinned full-nosed young boy with an afro, and one in his pale, straight-haired modern form. The caption was something like this:</p>
+
+<blockquote>
+  <p><em>Some people make bad decisions in life.</em></p>
+  
+  <p><em>Don&#8217;t be one of them. Elect [candidate] for [whatever office].</em></p>
+</blockquote>
+
+<p>However, I wouldn&#8217;t say that these are significantly worse than real political campaigns. In fact, I for one would love to see someone run for President on a platform of ugliness.</p>
+
+<p class="posted">posted by Adam at April  8, 2005 10:37 AM <a href="#c4765">#</a></p>
+
+</div><div id="c4773">
+
+<p>Maybe we need to update the thing about &#8220;all politics are local&#8221; to be &#8220;All politics are about sex (unless you&#8217;re a conservative, then politics are about lack of sex)&#8221;</p>
+
+<p class="posted">posted by person at April  8, 2005 10:06 PM <a href="#c4773">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001658.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1658" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

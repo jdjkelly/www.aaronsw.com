@@ -1,0 +1,23 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+  <title>Internet Access at Hotels</title>
+  <link rel="stylesheet" type="text/css" href="/style.css" />
+</head>
+<body>
+<div id="head">
+  <h1>Internet Access at Hotels</h1>
+</div>
+<div class="content">
+<p>It's difficult to find out whether a hotel has Internet access without actually staying there. They rarely knows what you mean. Web pages often claim they have "in-room Internet" when all they have is a phone jack. So this is  a list of hotels with information about available Internet access. Please <a href="mailto:nethotel@aaronsw.com">send me corrections and additions</a>.</p>
+<p>
+<a href="http://www.mercerhotel.com/">Mercer Hotel</a>: Dial-up, wireless coming soon. (2002-08-27, front desk)<br />
+<a href="http://www.charleshotel.com/">Charles Hotel</a>: STSN T1. (2002-01-01, <a href="http://www.preferredhotels.com/values/hotel_descr.asp?membercode=BOSCH">preferred hotels</a>, Aaron Swartz)</p>
+
+<p>Often hotel internet access is referred to as "high-speed Internet" or "broadband Internet". Asking whether the hotel has a "T1" is not effective since many hotels have a voice, not data T1 line.</p>
+
+</div>
+<div class="footer">
+  <address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+<a href="http://validator.w3.org/check/referer">Valid HTML</a>
+</div></body>
+</html>

@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Philosophical Puzzles Resolved (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Philosophical Puzzles Resolved</h1>
+
+<h2>Puzzle 1: Equality and Disability</h2>
+
+<p>Daniel Wikler posed to me the following problem he encountered while Staff Ethicist at the WHO.<sup id="fnref:fn1"><a href="#fn:fn1" rel="footnote">1</a></sup> The WHO recommends two principles: first, treat all citizens equally; second, aim to maximize overall quality of life. But imagine two citizens will die without a kidney transplant, one of whom is seriously disabled, but there is only one kidney. The first principle requires that both have an equal chance of getting the kidney. But the second principle requires we give it to the non-disabled person: if the disabled person dies, overall quality of life in the society will be higher, since it will have one less disabled person. (We accept, by definition, that disability lowers quality of life.) What to do?</p>
+
+<p><em>Response:</em> It seems pretty clear that the first value is simply wrong. We have no interest in promoting the health of the population; the population is simply an abstraction. Our interest is in promoting the health of (the sum of) individual people, who are conscious and therefore have moral interests.</p>
+
+<p>One can see this clearly by looking at the cases where the population changes but people do not: birth, death, exile, and immigration:</p>
+
+<p><strong>Birth:</strong> The society has a controlled population growth program and assigns birth permits; birth permits are assigned to parents with the healthiest genes.</p>
+
+<p><strong>Death:</strong> The society has a limited number of organs; organs are given to the least-injured.</p>
+
+<p><strong>Exile:</strong> Sick people are tossed out of the society.</p>
+
+<p><strong>Immigration:</strong> Only healthy people are allowed to immigrate.</p>
+
+<p>In all four such cases, it seems pretty clear to me that the population health position is wrong. (Exile seems particularly cruel.)</p>
+
+<h2>Puzzle 2: The Repugnant Conclusion</h2>
+
+<p>Derek Parfit <a href="http://en.wikipedia.org/wiki/Mere_addition_paradox">poses</a> the following problem. 1: Imagine there are a group of happy people (A). 2: Now imagine that some other people are created in some other completely unconnected place that are happy, but less happy than the previous group (B). 3: Now imagine that both groups are adjusted to be at some equal, but intermediate point of happiness between A and A+. 4: Now imagine these two societies are connected, resulting in C: more people at a lesser degree of happiness.</p>
+
+<p>2 is no worse than 1, since the additional people are happy and do not affect anyone. 3 is no worse than 2, since the people in B are made happier by more than the people in A are made unhappy. 4 is no worse than 3, since we are simply introducing folks to each other. But continue this and you reach the repugnant conclusion: a huge swarm of people who are just barely happy is better than a handful of people who are extremely happy.</p>
+
+<p><em>Response:</em> The problem is step 2, which is in fact worse than 1. Parfit assumes that simply adding extra people whose lives are worth living cannot make things worse. But that&#8217;s ridiculous. Imagine our society, then imagine our society with a bunch more feral people living on the huge island of garbage in the middle of the Pacific, unable to speak except in a growl, with none of the surrounding societies ever noticing. I think the people living in the garbage heap&#8217;s lives would be worth living (I wouldn&#8217;t want to kill them, nor would they want to be killed), but I distinctly prefer the former society.</p>
+
+<h2>Puzzle 3: The Logic of the Larder</h2>
+
+<p>Many people say that we shouldn&#8217;t eat animals, because that would mean killing them. But for many of these animals, if they aren&#8217;t going to be killed and eaten, they would never be born in the first place. What if the animal preferred to have a short, pleasant existence before being consumed as food rather than having no existence at all? Wouldn&#8217;t that mean we should breed the animal, give it a nice life, then kill and eat it?</p>
+
+<p><em>Response:</em> This is a ridiculous hypothetical &#8212; you&#8217;re suggesting an animal that doesn&#8217;t exist yet has a preference about existing. I don&#8217;t respect hypothetical creatures&#8217; hypothetical desires to not be hypothetical. If I did, you could get me to do all sorts of absurd things just by hypothesizing them. You could, say, simply hypothesize a utility monster&#8217;s very strong desire to exist and I would be morally bound to try to create one. Or perhaps my hypothetical children really want to exist, so I have to hurry to procreate. That&#8217;s ridiculous.</p>
+
+<p>I think we should maximize the actual interests of actual people.</p>
+
+<h2>Puzzle 4: Addition vs. Subtraction</h2>
+
+<p>As a consequentialist, if I support not adding people (as I do in my resolution to 2 and 3), then I must support removing people, since the consequences are identical. If I prefer a society with fewer, happier people, then I must support euthanizing some people to make the rest better off. Sure, there are practical questions with implementing this, but philosophically, I must be in favor of eliminationism.</p>
+
+<p><em>Response:</em> I am not a consequentialist about societies, I&#8217;m a utilitarian: I think we should work toward outcomes that maximize the interests of individuals.</p>
+
+<p>There&#8217;s a fundamental disanalogy between addition and contraction. Addition means creating new people with interests that didn&#8217;t exist before the addition. Contraction, on the other hand, means getting rid of actually-existing people. I do not respect the hypothetical interests of hypothetical individuals to not be hypothetical, but I do respect real people with real interests right now, who presumably have an interest in not being gotten rid of. Thus, I support not getting rid of people and not arbitrarily creating new ones.</p>
+
+<div class="footnotes">
+<hr />
+<ol>
+
+<li id="fn:fn1">
+<p>The problem is also discussed in F.M. Kamm, &#8220;<a href="http://scholar.google.com/scholar?cluster=8494272529527506736">Disability, Discrimination, and Irrelevant Goods</a>&#8220;&#160;<a href="#fnref:fn1" rev="footnote">&#8617;</a></p>
+</li>
+
+</ol>
+</div>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">March  8, 2010</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>Thanks, nice post.</p>
+
+<blockquote>
+  <p>As a consequentialist, if I support not adding people (as I do in my resolution to 2 and 3), then I must support removing people, since the consequences are identical.</p>
+</blockquote>
+
+<p>I don&#8217;t understand the intuition for thinking that these consequences are identical &#8212; it seems to me that removing people from a society is going to affect the existing people in that society more than refusing to create new people will.  The existing citizens might be sad that their loved ones are now gone, or worried that they will be the next person to be involuntarily euthanized.  Their level of upset, multiplied across the entire group, may actually be large enough to deny the removal of the unhappier people on purely consequentialist terms.</p>
+
+<p>In other words, I think you might be making the mistake of only looking at the first-order effects of the consequentialist decision to euthanize some people in order to increase happiness.  We don&#8217;t have to leave societal-scale consequentialism in order to discover that doing this may not be moral:  we just have to drill deeper into the set of consequences and utility changes that the decision would ultimately produce, and not be content to stop at the first measurable change that we find.</p>
+
+<p>A similar argument has been leveled at consequentialists regarding torture &#8212; something like &#8220;consequentialists would support torturing one person to definitely save the lives of ten innocents, but we reject torture, therefore consequentialism is defective&#8221;.  I think the answer is the same as above:  the first-order effect would (we&#8217;re assuming by assertion) be to save ten people, but the second-order effect would be to inflict the societal damage upon each citizen that comes from knowing that you live in a community that is willing to torture, that you might be tortured yourself one day as a result, and that you can no longer claim to be a just and fair society.  That small (compared to the utility cost of innocents dying) decrease in utility per person gets multiplied across the part of population, and possibly even on to new generations as well; maybe it&#8217;s going to be a larger decrease in utility than the decrease caused by the death of the ten innocents and the people who know them.</p>
+
+<p>Hope that makes sense.  I&#8217;m bringing this up because your statement of:</p>
+
+<blockquote>
+  <p>I am not a consequentialist about societies, I’m a utilitarian: I think we should work toward outcomes that maximize the interests of individuals.</p>
+</blockquote>
+
+<p>isn&#8217;t a distinction that I&#8217;d heard before, which makes me wonder whether it&#8217;s actually necessary.  Perhaps we reach the same answers regardless of whether we measure changes to society or changes to individuals, as long as we&#8217;re performing the kind of complete analysis that I describe above?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://blog.printf.net/">Chris Ball</a>
+ on March  8, 2010 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>Those are precisely the &#8220;practical questions&#8221; that I blocked by fiat. The puzzle requires you imagine the elimination happens in such a way that it doesn&#8217;t upset or worry anyone left alive.</p>
+
+<p>I think one can do the same thing with torture, in which case I think the obvious answer is that in such a scenario torture is OK. The more interesting question, I find, is the similar one Searle poses about freedom of speech.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on March  8, 2010 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>I enjoyed this post; interesting questions to ponder. I have a few comments/questions:</p>
+
+<p>In puzzle 1, I think there might be an error. The second principle should require us to give the kidney to the non-disabled person, no? Following the logic, because both people will surely die without the kidney, maximizing the quality of life in the population means keeping the non-disabled person alive and letting the disabled person die. Perhaps I didn&#8217;t interpret it correctly&#8230;</p>
+
+<p>Forgive me for generalizing&#8212;I realize these puzzles don&#8217;t allow for much nuance&#8212;but I sensed some malthusian/neo-malthusian contentions. What are your thoughts?</p>
+
+<p>I think your philosophical logic about hypothetical individuals/societies/interest/etc is right on. However, there might be some dangerous implications here. When you ask a collective/nation of individuals to pragmatically define what is hypothetical and what is real, anything outside of their perceived worldview (be it unintentional or intentional) will be defined as hypothetical. In other words, people can choose, or simply remain ignorant, to what is and is not real. This is the inherent problem with puzzle 2; it&#8217;s fragmented inter-group/international context allows hypothetical societies to exist. Applying the same puzzle with a global/systemic perspective makes all groups/nations real.</p>
+
+<p>Please let me know what your thoughts are. Again, I liked the post, thanks.</p>
+
+<p class="posted">posted by Ryan Birkholz
+ on March  8, 2010 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="unpuzzled" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

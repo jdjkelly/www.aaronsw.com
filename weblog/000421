@@ -1,0 +1,65 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>confessions of a time-waster (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000420" title="temperature rising" />	<link rel="next" href="000422" title="MacWorld Keynote Coverage" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>confessions of a time-waster</h1>
+</div>
+
+<div class="content">
+<p>Looks like <a href="http://itools.mac.com/unavailable/">iTools is down for the .mac transition</a>.</p>
+
+<p>I&#8217;m listening to the <a href="http://www.apple.com/quicktime/qtv/earningsq302/">Apple&#8217;s Earnings Call</a> and all I can think is &#8220;that switchboard guy sounds like <a href="http://www.powazek.com/zoom/log/">Derek Powazek</a>.</p>
+
+<p>Two new switchers: <a href="http://www.apple.com/switch/ads/ellenfeiss.html">Ellen Feiss</a> (&#8220;It, like, devoured my paper [&#8230;] I&#8217;m a student&#8221;), <a href="http://www.apple.com/switch/ads/tessbethune.html">Tess Bethune</a> (&#8220;I&#8217;m kinda seduced by good looking things [&#8230; the iBook has] increased my functionality in everything I do [&#8230;] I design clothing and quilts&#8221;).</p>
+
+<p>What&#8217;s with <a href="http://images.amazon.com/images/P/006251587X.01.LZZZZZZZ.jpg">this crazy cover image</a> for Weaving the Web? Heh, I just listened to <a href="http://cdl.prod.audible.com/cgi-bin/aw_streamer.pl?file=bk/harp/000681/bk_harp_000681_sample&player=real">the audio sample</a>. He reads so slowly&#8230; they must have given him a sedative or something. Argh, but why do they waste half the audio sample on intro music?</p>
+
+<p><a href="http://www.amazon.com/webservices/">Amazon.com Web Services</a>. Obviously inspired by Google (kits, tokens, etc.). <a href="http://associates.amazon.com/exec/panama/associates/join/developer/faq.html">FAQ</a>: &#8220;There are two ways in which you can use Amazon.com Web Services: 1) an XML over HTTP interface [&#8230;] We didn&#8217;t want to force people to use a protocol they were not comfortable using.&#8221; They&#8217;ll even do server-side XSLT for you.</p>
+
+<p>&#8220;The first Web services that we have exposed are: Product Display: The ability to search for and retrieve product information from the Amazon.com catalog and Shopping Cart: The ability to add Amazon.com products to shopping carts, wish lists, and registries from third party locations.&#8221; They even use GET and POST correctly. <em>Right on!</em></p>
+
+<p><a href="http://markBernstein.org/Jun0201.html#note_18070">Mark Bernstein&#8217;s notes on Interstital Arts</a> remind me <a href="http://www.ursulakleguin.com/OnDespisingGenres.html">Ursula K. LeGuin&#8217;s rant on genres</a>.</p>
+
+<p><a href="http://www.lileks.com/bleats/archive/02/0702/070202.html#071202">A beautiful memoir on a young daughter&#8230;</a></p>
+
+<p>Uh oh, Zooko and MNet are <a href="http://zooko.com/log#d2002-07-16">being infiltrated by the secret Twisted org</a>. Careful, Zooko! And whatever you do&#8230; don&#8217;t leave them alone with Irby!</p>
+
+<p>&#8220;133 sites have helped <a href="http://not.invisible.net/dot/">spread the dot</a>, 278 real people have <a href="http://not.invisible.net/signals/bin/000055.shtml">voiced their support</a>.  At this rate of growth, our team of crack actuarial scientists is projecting unanimous support for the IMS/ISC .org bid by the time ICANN announces their results.&#8221;</p>
+
+<p>My email to Gene Kan bounced.</p>
+
+<p>Poor Kragen. I wish I could do something to help, but he&#8217;s probably heard any advice I have to give.</p>
+
+<p class="posted">posted July 16, 2002 09:32 AM (<a class="category" href="cat_others">Others</a>)  <a href="000421" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000420" title="temperature rising">&laquo; prev</a> | <a href="./">up</a> | <a href="000422" title="MacWorld Keynote Coverage">next &raquo;</a></p>
+
+<p><a href="000413">today&#8217;s featured superhero: Seth Schoen</a><br />
+<a href="000414">Public Speaking and Writing</a><br />
+<a href="000415">smiling dogs</a><br />
+<a href="000418">the circle of life continues</a><br />
+<a href="000420">temperature rising</a><br />
+<strong>confessions of a time-waster</strong><br />
+<a href="000422">MacWorld Keynote Coverage</a><br />
+<a href="000423">empty jaguar-skin wallet</a><br />
+<a href="000424">Reflections on the Keynote</a><br />
+<a href="000425">i&#8217;m not dead yet</a><br />
+<a href="000429">you may already have one</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

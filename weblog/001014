@@ -1,0 +1,68 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Letter from Knuth (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/001014.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001011" title="Super Searching" />	<link rel="next" href="001016" title="Privacy, Accuracy, Security: Pick Two" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Letter from Knuth</h1>
+</div>
+
+<div class="content">
+<p>Half a year ago I read Knuth’s book <cite><a href="http://www-cs-faculty.stanford.edu/~knuth/sn.html">Surreal Numbers</a></cite>. Written in the style of a children’s book it explains a new way of doing mathematics using sets, but more generally explores the process of discovering such a method. Knowing <a href="http://www-cs-faculty.stanford.edu/~knuth/books.html">Knuth’s ruthless attention to detail</a> and seeing some things that appeared to be errors, I sent an email to him explaining the issues.</p>
+
+<p>I was surprised and excited to receive <a href="http://www.aaronsw.com/2002/knuthLetter" title="A printout from a webmail system with responses written between the lines with a graphite mechanical pencil.">a handwritten response from Knuth</a>:</p>
+
+<p>Knuth’s responses are written in mechanical pencil and I couldn’t get them to scan clearly so here’s a transcription:</p>
+
+<ol>
+  <li>“Not true; you don’t understand the empty set. See Martin Gardner, <u>Mathematical Magic Shop</u>, chapter 1.”</li>
+</ol>
+
+<ol>
+  <li>“? They are not on a desert island, they are in Yemen.”</li>
+</ol>
+
+<ol>
+  <li>“Live and learn, I guess.”</li>
+</ol>
+
+<ol>
+  <li>“Glad to hear it”</li>
+</ol>
+
+<p>end. “Thanks for reading as far as page 110 in spite of perceived errors<br />
+Best wishes don knuth”</p>
+
+<p>Some of his responses seem quite dodgy. I didn’t describe the context for the errors, perhaps he’d forgotten some of the details of the book so they didn’t make much sense.  Or maybe he didn’t want to correct minor errors in it anymore. (Both of which seem rather likely.) Anyway, it’s still cool to receive a letter from such a great scholar.</p>
+
+<p class="posted">posted July 29, 2003 02:19 PM (<a class="category" href="cat_superheroes">Superheroes</a>)  <a href="001014" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001011" title="Super Searching">&laquo; prev</a> | <a href="./">up</a> | <a href="001016" title="Privacy, Accuracy, Security: Pick Two">next &raquo;</a></p>
+
+<p><a href="000994">San Francisco Moment</a><br />
+<a href="000998">Aaron&#8217;s Censorware</a><br />
+<a href="001008">Cards</a><br />
+<a href="001010">Dodging Trains</a><br />
+<a href="001011">Super Searching</a><br />
+<strong>Letter from Knuth</strong><br />
+<a href="001016">Privacy, Accuracy, Security: Pick Two</a><br />
+<a href="001024">Live from victoria.bc.ca</a><br />
+<a href="001025">Postel&#8217;s Law Has No Exceptions</a><br />
+<a href="001026">Canadians Do It Right</a><br />
+<a href="001027">Secrets of Standards</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

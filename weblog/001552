@@ -1,0 +1,254 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Edward Tufte on Beautiful Evidence (and more Stanford: December 8) (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001552.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001551" title="Stanford: Wednesday, December 8" />	<link rel="next" href="001557" title="Stanford: Thursday, December 9" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Edward Tufte on Beautiful Evidence (and more Stanford: December 8)</h1>
+</div>
+
+<div class="content">
+<p><strong>UPDATE:</strong> <a href="http://www.aaronsw.com/weblog/001552#c3933">Edward Tufte writes in</a>. That is unspeakably cool.</p>
+
+<p>Edward Tufte, the great information designer, is here! He&#8217;s scheduled to give a talk, his first, about his personal history: &#8220;a world-renowned political scientist, who transformed himself mid-career into a graphic design expert.&#8221; (The talk is very cleverly titled &#8220;An Academic and Otherwise Life, N=1&#8221;.)</p>
+
+<p>And C.J. (psuedonym), the tall and extremely attractive girl who also happens to write the incredibly-hilarious dorm newsletter, sent out an email looking for people to join her in seeing &#8220;arguably the best graphic designer of all time&#8221;!</p>
+
+<p>It seems too good to be true, and it is. When the time for the talk rolls around, I get an email saying it&#8217;s canceled because &#8220;Professor Tufte has come down with laryngitis and will not be able to attend.&#8221; Wounded, I bike over to where the talk was supposed to be, just to see if Tufte&#8217;s ghost appears or something. It does not.</p>
+
+<p>There is one other chance: Tufte is giving a lecture about his forthcoming book, <em>Beautiful Evidence</em>, tonight. The only problem is that it&#8217;s scheduled at the same time as my IHUM final. I try to calculate what grade I will get if I skip the final. I decide that if I zip through the test answering the easy questions and jog over to where Tufte is speaking, I should be able to get enough of both. So that&#8217;s exactly what I do.</p>
+
+<p>Tufte&#8217;s speaking in a huge lecture hall in the alumni building, but I get there late (because of the exam, which turns out to be ridiculously easy) and it&#8217;s packed full and they&#8217;re turning people away at the door. I didn&#8217;t run all the way here for this, so I find a way to sneak in, but even then people standing up are literally taking up all the room that isn&#8217;t taken up by chairs. Even though I can&#8217;t see over their heads, I try to listen in and follow what Tufte&#8217;s saying. </p>
+
+<p>He&#8217;s talking about his invention of <a href="http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0001OR&amp;topic_id=1&amp;topic=">sparklines</a>, compressed graphs that can be used inline with text, just like a word. They&#8217;re &#8220;just evidence&#8221;, he explains, no they shouldn&#8217;t be segregated. He gets off on a tangent on how he has to use 3 applications to make them because, unlike the original GUI at Xerox PARC, modern computers are filled with needless distinctions between operating systems and applications, with &#8220;marketing experiences&#8221; popping up everywhere. &#8216;It&#8217;s all because of political and economic power,&#8217; he says to scattered applause.</p>
+
+<p>He gets back on track: His first three books were about producing information graphics but all the same rules apply to consuming them as well. He does his case study: <a href="http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0000Rs&amp;topic_id=1&amp;topic=Ask%20E%2eT%2e">the Columbia PowerPoint</a>.</p>
+
+<p>The Columbia space shuttle was blasting off when <a href="http://www.spaceref.com/Columbia/post.launch.video.html">a piece of foam broke off and hit the wing</a>, which is covered in tiles that protect the ship from the severe heat that occurs when it reenters the atmosphere. Now that the spaceship is in the air, the obvious question to be asked is whether the wing is damaged so much that the spaceship cannot safely land.</p>
+
+<p>Naturally, a PowerPoint presentation is commissioned and Tufte analyzes the key slide: &#8220;Review of Test Data Indicates Conservativism for Tile Penetration&#8221;. The problems begin with the title. &#8220;Conservativism&#8221;, Tufte says, is a &#8216;common rhetorical ploy&#8217; &#8212; everybody wants to be conservative. The &#8216;conservativism&#8217; referred to, however, is not in problems but in the <em>choice of models</em>!</p>
+
+<p>Below the misleading title is a complex outline with six full levels of hierarchy. This preocupation with hierarchy, Tufte says, is medieval. The word &#8216;significant&#8217; is used five times on the slide. How significant? Well, on this one slide, the same word has &#8220;<em>de facto</em> meanings ranging from &#8216;detectable in a largely irrelevant calibration case study&#8217; to &#8216;an amount of damage so that everyone dies&#8217;&#8221;. (<a href="http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0000Rs&amp;topic_id=1&amp;topic=Ask%20E%2eT%2e">More on the slide on Tufte&#8217;s website</a> or in <em>The Cognitive Style of PowerPoint</em>, a recently released excerpt from his forthcoming book).</p>
+
+<p>&#8220;Velocity squared is like shipping and handling,&#8221; Tufte explains, &#8220;it will get you every time.&#8221;</p>
+
+<p>Tufte sent his results to the Columbia Accident Investigation Board (CAIB) who included a bit in their report on &#8216;engineering by PowerPoint&#8217; (they &#8220;did not like it&#8221;). He also put them up on his website and soon received a all from Boeing&#8217;s &#8220;ethics committee&#8221; saying that the slide was a trade secret. Tufte was worried because &#8220;Boeing has some pretty powerful weapons&#8221; (laughter) so he called his friend Keith, who runs a NASA-Watch website who told him not to worry, &#8216;they do that to me all the time&#8217;.</p>
+
+<p>&#8216;NASA does some cool things,&#8217; Tufte concludes, &#8216;but they&#8217;re stuck with 30-year-old equipment and they&#8217;re not hiring any new MIT grads.&#8217;</p>
+
+<p>He goes on to give a little bit of history about how he started making his famed book series. Tufte demanded lots of charts and graphs so Yale University press explained that they would have to sell it for $120 a copy, since they only planned to sell 2000 copies. So Tufte decided to publish it himself. </p>
+
+<p>You need three things to publish a book, he explains: lots of money, a big garage, and a book designer. So he mortgaged his house at 18.9% interest (the loan officer said it was the second-most unusual loan he had granted after a circus who wanted to buy an elephant) and just threw money at it, going all out until he ran out of money. He printed 5000 copies and bought a small ad in <em>Scientific America</em>.</p>
+
+<p>When he got back from vacation he found his mailbox overflowing with orders. It&#8217;s since sold over a million copies.</p>
+
+<hr />
+
+<p>As people empty out of the room, I try to pick up some of the handouts that people leave behind on the floor (being late, I didn&#8217;t get any). I then watch Tufte talk to the various hangers-on. He seems desperate to give away the book copies he brought with them, trying to foist them off on anyone who can find an excuse to take them.</p>
+
+<p>As he leaves, I follow behind him at a respectful distance. Alone, he takes long purposeful strides, his tall black cloak flapping in the quiet darkness of the night&#8217;s small breeze, silhouetted against the streetlights. He walks quickly, eventually finding his car, getting in, and pulling away.</p>
+
+<hr />
+
+<p>On the way back I go past the IHUM test which is still going on. I ask the TA if she has a moment to chat and we discuss my paper outside in the courtyard. She insists that I don&#8217;t really believe what I say, that I only say it to be provocative. If I really thought school did what I said, why am I here?</p>
+
+<p>I tell her that it was just the path of least resistance and that I have to be constantly vigilant to keep it from changing me too much. (I also email her later explaining that just because, on the whole, institutions do negative things, doesn&#8217;t mean that they don&#8217;t contain some good parts, what Chomsky calls &#8220;internal contradictions&#8221;.)</p>
+
+<p>She has to be getting back but she invites me to apply to her IHUM next term so we can continue the discussion. I don&#8217;t think so as she disappears.</p>
+
+<p class="posted">posted February 07, 2005 07:38 PM (<a class="category" href="cat_education">Education</a>) (<a href="#comments">8 comments</a>) <a href="001552" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001551" title="Stanford: Wednesday, December 8">&laquo; prev</a> | <a href="./">up</a> | <a href="001557" title="Stanford: Thursday, December 9">next &raquo;</a></p>
+
+<p><a href="001545">Your Congress is a Bunch of Idiots</a><br />
+<a href="001546">Stanford: Sunday, December 5</a><br />
+<a href="001547">George Ryan on the Penalty of Death</a><br />
+<a href="001548">Stanford: Tuesday, December 7</a><br />
+<a href="001551">Stanford: Wednesday, December 8</a><br />
+<strong>Edward Tufte on Beautiful Evidence (and more Stanford: December 8)</strong><br />
+<a href="001557">Stanford: Thursday, December 9</a><br />
+<a href="001558">Home Again</a><br />
+<a href="001559">Home: Life and Love</a><br />
+<a href="001560">Home: Gloom and Loneliness</a><br />
+<a href="001561">New York City: Winter Vacation</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c3920">
+
+<p>What&#8217;s with the dates? Your headings are two months behind, ie, December 8 instead of February 8.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.leatherwoodonline.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3920">Allan Moult</a> at February  7, 2005 08:58 PM <a href="#c3920">#</a></p>
+
+</div><div id="c3921">
+
+<p>That&#8217;s because the entries are two months behind.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3921">Aaron Swartz</a> at February  7, 2005 09:00 PM <a href="#c3921">#</a></p>
+
+</div><div id="c3923">
+
+<p>Great story. You have to admire someone that considers skipping a final to hear Tufte. Your priorities are where they should be in my opinion.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.nixlog.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3923">Paul Nixon</a> at February  8, 2005 12:56 AM <a href="#c3923">#</a></p>
+
+</div><div id="c3929">
+
+<p>Wow!  Edward Tufte has some of the coolest design stuff I&#8217;ve seen in a while.  Thanks for sharing that, Aaron!</p>
+
+<p class="posted">posted by Russ Schwartz at February  8, 2005 08:58 AM <a href="#c3929">#</a></p>
+
+</div><div id="c3933">
+
+<p>Dear Aaron,  </p>
+
+<p>I would have so enjoyed talking with you. Next time let me know.   </p>
+
+<p>Best,</p>
+
+<p>ET</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.edwardtufte.com/tufte/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3933">Edward Tufte</a> at February  8, 2005 11:46 PM <a href="#c3933">#</a></p>
+
+</div><div id="c3938">
+
+<p>So&#8230; when will we be getting entries from say&#8230; February? ;)</p>
+
+<p class="posted">posted by <a target="_blank" title="http://dominik.net/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3938">Dominik Rabiej</a> at February  9, 2005 08:22 AM <a href="#c3938">#</a></p>
+
+</div><div id="c3939">
+
+<p>I envy you so much for having the opportunity of attending one of Edward Tufte&#8217;s talks. I&#8217;ve been a great admirer of his work. I have all three of his books on information design and can&#8217;t wait for Beautiful Evidence to appear. Reading Tufte changed forever the way I look at tables, graphics, presentations, and most importantly,  the way I evaluate evidence. Now if only Dr. Tufte could be persuaded to do an European tour&#8230;</p>
+
+<p class="posted">posted by <a target="_blank" title="http://branimir.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3939">Branimir Dolicki</a> at February  9, 2005 11:08 AM <a href="#c3939">#</a></p>
+
+</div><div id="c3944">
+
+<p><i>I tell her that it was just the path of least resistance and that I have to be constantly vigilant to keep it from changing me too much. </i></p>
+
+<p>But interestingly, you don&#8217;t apply the same argument to blacks in your essay. Apparently, they should be making difficult decisions, rather than doing what&#8217;s best/easiet for them, so they can hold up your anti-authoritarian ideals.</p>
+
+<p><i>You</i> are vigilant to not be changed by the system, but make no hints of this vigilance in others. You are an individual who can &#8220;resist the system&#8217; from the inside, but others are just ants who do be what the system tells them to be.</p>
+
+<p class="posted">posted by person at February 10, 2005 04:57 PM <a href="#c3944">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001552.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1552" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

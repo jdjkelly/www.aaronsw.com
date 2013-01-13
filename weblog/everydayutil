@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Everyday Utilitarianism: Who Gets the TV First? (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Everyday Utilitarianism: Who Gets the TV First?</h1>
+
+<p>I&#8217;ve often thought it would be fun to write a book on &#8220;everyday utilitarianism&#8221; &#8212; how to apply mathematical formalizations of utilitarianism and game theory to help you solve everday life dilemmas, like who should get to use the television first or whether you should go out with that guy.</p>
+
+<p>The basic idea would be that each chapter would revolve around a particular mathematical principle and demonstrate it using a concrete example from everyday life. Since I&#8217;ll probably never get around to writing such a book, I figured I&#8217;d just write up such examples on my blog when I encountered them and maybe someone else would take the idea and run with it.</p>
+
+<p>So here&#8217;s the first example:</p>
+
+<p>It&#8217;s 8pm, and you settle down in front of the television to watch <em>American Idol</em>. Unfortunately, at the very same time your roommate is also settling down in front of the television to play one of his video games. Quickly, the two of you get into a tiff about who will get to use the television first. You both would prefer using the television first rather than second, yet, since <em>American Idol</em> is a live show, watching it now is a rather different experience from watching it later, while the video game will remain the same all night. How can you prove mathematically to your roommate that you should get to use the television first?</p>
+
+<p>Let U(TV_0 = A), which we&#8217;ll write AT0, represent the number of <em>utiles</em> (essentially, a measure of enjoyment) you get from watching the TV first, while BT0 represents the number of utiles your roommate gets from watching the TV first. (AT1 and BT1 represent the utiles from watching it second.) Obviously our goal is to maximize the total number of utiles (i.e. enjoyment) in the world, by picking the solution that leads to our greatest number.</p>
+
+<p>First we write down what we know. Obviously you both would prefer to watch the show first, rather than second:</p>
+
+<p>AT0 > AT1<br />
+BT0 > BT1</p>
+
+<p>But since <em>Amereican Idol</em> is live, we can also say that the benefit you get from watching it first is bigger than the benefit your roommate gets from playing his game first. In other words:</p>
+
+<p>AT0 - AT1 > BT0 - BT1</p>
+
+<p>Finally, we want to find out which is bigger: you going first and him second, or you going second and him first. Let >&lt; represent &#8220;which is bigger?&#8221;</p>
+
+<p>AT0 + BT1 >&lt; AT1 + BT0</p>
+
+<p>Now, to solve, we take what we know:</p>
+
+<p>AT0 - AT1 > BT0 - BT1</p>
+
+<p>And we add AT1 to both sides:</p>
+
+<p>AT0 > BT0 - BT1 + AT1</p>
+
+<p>And then add BT1 to both sides:</p>
+
+<p>AT0 + BT1 > BT0 + AT1</p>
+
+<p>Which precisely answers are question above: it&#8217;s better for you to go first.</p>
+
+<p>By this time in the proof, however, your roommate should have wandered off, leaving you to watch <em>American Idol</em> in peace. Unfortunately, not having seen your proof, he thinks you&#8217;re just a selfish ass as opposed to trying hard to do what&#8217;s best for the whole world.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">August 24, 2008</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>That&#8217;s a terribly short term view, though.  The long-term better solution would probably be for your friend to play the video game, and for you to watch a summary of American Idol.  Then you can spend the rest of your time doing something productive.  Even if you want to watch the whole show and not just a summary, at least if you Tivo it you can fast forward through the commercials, thereby saving a good 20% or so of your time.  Surely there&#8217;s something better you can do for the world than watch commercials.</p>
+
+<p>If you really want to approach this mathematically, you need to define your utiles a lot better.  Honestly, I&#8217;m not even sure this can be done.  Are you talking about average enjoyment, or the sum of all enjoyment?  If the latter, where do you set the zero point?  Can someone&#8217;s enjoyment be negative?  What about the time-value of enjoyment?  Is a lot of enjoyment 1000 years from now worth more, less, or the same compared to a little enjoyment today?</p>
+
+<p>My questions are mostly rhetorical.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://blog.p2pedia.org/">Anthony</a>
+ on August 24, 2008 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>I realize that this is supposed to be somewhat humorous, but I have tried to apply this reasoning in my own life, but the problem with this methodology is that it requires individuals to assess their enjoyment levels honestly, and with complete loyalty to the outcome as decided by the equation. In real life, we might expect persons to lie or misrepresent the level of enjoyment they claim they would get by having their way. In other words, this method assumes that individuals are committed to doing the &#8216;right thing&#8217; as it applies to the goal of creating maximum enjoyment in the world, and having all participants enjoy the maximum enjoyment that they could receive in the long term. Realistically, I would tend to think that most people would try to maximize their <em>own</em> enjoyment instead of trying to maximize the pleasure of all, a motivation which subverts the ability for us to use a formula, since the formula depends on participants to act in a manner that does not necessarily secure their own interests before those of others.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://emg.blackpitchpress.com">Rahul Kamath</a>
+ on August 25, 2008 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>Alas, everyday utilitarianism is not exempt from the theory&#8217;s larger problems.</p>
+
+<p>How, exactly are you to measure how much utility you get from watching American Idol (at any time) versus how much utility he gets from playing videogames? In practical terms, it may be that videogames will make your roommate an unproductive person and destroy all of his aspirations. On the contrary, they may give him the skills to pursue to his dream career (http://www.slate.com/id/2195751/). But beyond any practical concerns, there&#8217;s a more fundamental issue.</p>
+
+<p>Intersubjective utility comparisons are epistemologically impossible. Your roommate may be a utility monster who derives 10,000 times as much pleasure from a single minute of Halo at T0 as you derive from watching an entire season of American Idol. In that case you should just donate the television to him as he clearly gets a lot more utility from it.</p>
+
+<p>And that doesn&#8217;t even take into account deserts. If your roommate is a bad person (and you are an especially morally worthy one), the world might be a better place if his utility were lower.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://obviated.blogspot.com">Mikey</a>
+ on August 25, 2008 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>I find utilitarianism hard to defend.  Let&#8217;s say, for argument&#8217;s sake, that the world would be a much happier place if you ate George Bush.  Straight utilitarianism would tell you to go right ahead.</p>
+
+<p>Most people who subscribe to utilitarianism therefore have additional principles they throw into the mix when rating different actions, but once you start to do that, you lose what I always thought was the main selling point - a less-arbitrary way to rate actions.</p>
+
+<p class="posted">posted by Lawrence
+ on August 25, 2008 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>Mikey, you can&#8217;t have it both ways.  Either intersubjective utility comparisons are epistemologically impossible, but then you can&#8217;t know that your roommate is a utility monster; or you can know this fact, but then comparisons are possible.</p>
+
+<p>Lawrence, you might as well imagine that the world would be a better place if everyone was burned alive.  Such hypothetical scenarios are so removed from the actual world that they cannot be used to reliably test our moral intuitions.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.stafforini.com">Pablo Stafforini</a>
+ on August 25, 2008 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c6">
+<p>@Pablo,</p>
+
+<p>The first objection is a practical one (you can&#8217;t, in fact, ever know whether your roommate is a utility monster).</p>
+
+<p>If there ever were some way to measure utility and your roommate actually was a utility monster, the proper utilitarian decision would look morally questionable (sacrificing all of your utility (and everyone else&#8217;s) for his proportionally greater benefit).</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://obviated.blogspot.com">Mikey</a>
+ on August 25, 2008 <a href="#c6" rel="bookmark">#</a></p>
+</div>
+<div id="c7">
+<p>Pablo, my point stands even if my off-the-cuff example is ridiculous.  Utilitarianism doesn&#8217;t make sense without <em>some</em> added rules.  Another example - why not dismember one person so that several other people in need of organ transplants can live?  Let&#8217;s even specify that the dismembered person has no friends or relatives, and all the recipients have many that will also enjoy their recovery and that we can guarantee that the transplants will work.</p>
+
+<p>I&#8217;m not being original in critiquing utilitarianism; I&#8217;m just saying that once you subscribe to a modified utilitarianism, it&#8217;s very hard to defend one modified version over many others.</p>
+
+<p>Testing moral intuitions against a standard of utilitarianism (if I understood you correctly) seems backwards to me.  Aren&#8217;t you interested in testing utilitarianism, not accepting it as a given?</p>
+
+<p class="posted">posted by Lawrence
+ on August 25, 2008 <a href="#c7" rel="bookmark">#</a></p>
+</div>
+<div id="c8">
+<p>Mikey, your two objections may be jointly raised against utilitarianism as a standard of rightness&#8212;i.e., a theory of what acts are morally right or wrong.  Aaron&#8217;s post, however, was considering utilitarianism as a decision procedure&#8212;i.e., a theory of how we should decide what to do.  (For more on this distinction, see perhaps <a href="http://plato.stanford.edu/entries/consequentialism/#WhiConActVsExpCon" rel="nofollow">here</a>.)  Since you can never know that your roommate is a utility monster, utilitarianism won&#8217;t ever require that you act on this putative fact.  So I think my point stands.</p>
+
+<p>Lawrence, I agree that you can restate the objection using thought experiments that are less removed from the actual world than your original example was.  I&#8217;m not sure, however, whether they are sufficiently similar to the real world to serve as reliable tests for our moral intuitions.  (I mean it when I say I&#8217;m not sure; I honestly don&#8217;t know what to think about such cases.)  In any case, I believe that deontological intuitions such as these have a suspect evolutionary origin and neural basis, and that, furthermore, it is not clear why we should rely on intuitions at all when doing moral theory.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.stafforini.com">Pablo Stafforini</a>
+ on August 26, 2008 <a href="#c8" rel="bookmark">#</a></p>
+</div>
+<div id="c9">
+<p>Lawrence, I didn&#8217;t answer the question you raised in your last paragraph, above.  I reply that I&#8217;m indeed interested in testing utilitarianism rather than accepting it as given, but that I don&#8217;t think we should rely on intuition to test it.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.stafforini.com">Pablo Stafforini</a>
+ on August 26, 2008 <a href="#c9" rel="bookmark">#</a></p>
+</div>
+<div id="c10">
+<p>Barring religious motivations, what&#8217;s the motivation for doing moral theory if not moral intuitions?</p>
+
+<p>I view moral theory as an attempt to take our moral intuitions and &#8220;clean them up.&#8221;  We&#8217;d like our morals to be free from personal bias - our moral intuitions <em>themselves</em> want us to have an objective system of morals.</p>
+
+<p>Otherwise, in what way is utilitarianism preferable as a moral system than &#8220;do whatever makes Lawrence most happy?&#8221;  They both provide a system for rating possible actions, and to try to explain the advantage of utilitarianism by saying &#8220;but it makes more people happy&#8221; begs the question.</p>
+
+<p class="posted">posted by Lawrence
+ on August 26, 2008 <a href="#c10" rel="bookmark">#</a></p>
+</div>
+<div id="c11">
+<p>You raise a good question, Lawrence.  If no other being has the right to lay a moral claim on me, at the end of the day I must answer only to myself.  But then, why am I trying to be good?  Because it is the right thing to do?  That is question-begging.  Because I derive pleasure from it?  Then maximizing my own pleasure should be my ethic.  But who can seriously follow Ayn Rand down this trail?</p>
+
+<p>Perhaps hedonism (or the &#8220;virtue of selfishness&#8221;) is a self-defeating quest - part of our happiness could subsist in that we are not directly seeking our own happiness.  Maybe we invent moral guides like utilitarianism to try and create for us the illusion that we aren&#8217;t completely selfish beings, because we find selfishness for some reason repugnant.  Then you come along and point out that the emperor has no clothes&#8230;</p>
+
+<p class="posted">posted by Paul
+ on August 26, 2008 <a href="#c11" rel="bookmark">#</a></p>
+</div>
+<div id="c12">
+<p>Lawrence, you are not alone in viewing moral theory &#8220;as an attempt to take our moral intuitions and &#8216;clean them up.&#8217;&#8221;  That&#8217;s not, however, my own approach.  I think the goal of moral theory is to get at the truth of morality.  Since I don&#8217;t think we have reasons to expect intuitions to be truth-tracking &#8212; there were no pressures in the ancestral environment selecting for creatures with a capacity of &#8220;moral intuition&#8221; &#8212; I don’t see how a process of “cleaning up” your intuitions would leave you with anything valuable.  Garbage in, garbage out.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.stafforini.com">Pablo Stafforini</a>
+ on August 26, 2008 <a href="#c12" rel="bookmark">#</a></p>
+</div>
+<div id="c13">
+<p>But &#8220;the truth of morality&#8221; is still worse.  Each moral theory <em>defines</em> morality, or at least one version of it.</p>
+
+<p>If we have access to an abstract platonic moral truth, we don&#8217;t need utilitarianism.  So if you&#8217;d subscribe to utilitarianism and you want to critique it, and you&#8217;re measuring it against &#8220;the truth of morality,&#8221; isn&#8217;t that an oblique way of saying you&#8217;re measuring it against itself?</p>
+
+<p class="posted">posted by Lawrence
+ on August 27, 2008 <a href="#c13" rel="bookmark">#</a></p>
+</div>
+<div id="c14">
+<p>It seems entirely reasonable that <code>(AT0-AT1)/AT0 &gt; (BT0-BT1)/BT0</code> &#8212; that is, in relative terms, the utility gain from watching a live show is greater than the utility gain from playing a video game without any specific time commitments.  In absolute terms, though, that isn&#8217;t so clear.</p>
+
+<p>Suppose that last night person A wanted to watch Joe Biden&#8217;s speech, and person B wanted to watch a video &#8212; a relatively comparable scenario in terms of the live vs. non-live components.  The relative cost of person A postponing watching would likely be greater than person B&#8217;s relative costs &#8212; but all of this must be modified by the absolute intensity of interest in watching either.  If person A gets utility from watching Joe Biden, but not all that much, the absolute gains for person B might actually be greater than those of person A, even though the gains in percentage terms go the other direction.</p>
+
+<p>Your assumption <em>might</em> hold if the intensity with which you want to watch American Idol matches the intensity with which your roommate wants to play video games, but that&#8217;s hard to measure.</p>
+
+<p>Peace,<br />
+Daniel Lawson<br />
+Assistant Professor of Economics<br />
+Drew University</p>
+
+<p class="posted">posted by Daniel Lawson
+ on September 19, 2008 <a href="#c14" rel="bookmark">#</a></p>
+</div>
+<div id="c15">
+<blockquote>
+  <p>Let&#8217;s say, for argument&#8217;s sake, that the world would be a much happier place if you ate George Bush. Straight utilitarianism would tell you to go right ahead.</p>
+</blockquote>
+
+<p>Not if there is some higher-utility alternative.  In that case, it would be unethical to choose a lower-utility alternative over a higher-utility one.</p>
+
+<p>Now you&#8217;re going to say that George W. Bush is a member of the Illuminati, wants to kill us all, and will just keep on coming back to life unless someone eats him.  In that case, how the hell could anyone <em>not</em> want him eaten?</p>
+
+<p class="posted">posted by John
+ on October 16, 2008 <a href="#c15" rel="bookmark">#</a></p>
+</div>
+<div id="c17">
+<p>I&#8217;m not sure you can get solid math from qualitative measures. Your love of watching American Idol might be outstripped by your roommate&#8217;s love of video games. It&#8217;s different for everyone, and try as we might, we can&#8217;t quite walk in another man&#8217;s shoes. In this regard, you&#8217;re both going to rate your preferred activities very highly. Unless you wanted to measure neural corralates, there&#8217;s no way to tell for sure which activity is more fun.</p>
+
+<p>Regards,
+Royal Irish Academy</p>
+
+<p class="posted">posted by Shtanto
+ on June 11, 2011 <a href="#c17" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="everydayutil" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

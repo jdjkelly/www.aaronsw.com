@@ -1,0 +1,43 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>The Columbia Small World Project (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/000121.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000120" title="Sean B. Palmer has started" />	<link rel="next" href="000122" title="Python RSS Parsing Tools" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>The Columbia Small World Project</h1>
+</div>
+
+<div class="content">
+<p>The <a href="http://smallworld.sociology.columbia.edu/">Columbia Small World Project</a> is testing the &#8220;six degrees&#8221; theory. Seems like a worthwhile study to participate in. <p /><p />I wonder what happened to the <a href="http://www.sixdegrees.com/">data from sixdegrees</a>.</p>
+
+<p class="posted">posted January 17, 2002 02:51 AM (<a class="category" href="cat_"></a>)  <a href="000121" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000120" title="Sean B. Palmer has started">&laquo; prev</a> | <a href="./">up</a> | <a href="000122" title="Python RSS Parsing Tools">next &raquo;</a></p>
+
+<p><a href="000116">It&#8217;s great when code falls</a><br />
+<a href="000117">Locust 2.4 GHz DSSS Drive-Study</a><br />
+<a href="000118">Rael imitating his speech-recognition-using officemate:</a><br />
+<a href="000119">Anyone know if there&#8217;s a</a><br />
+<a href="000120">Sean B. Palmer has started</a><br />
+<strong>The Columbia Small World Project</strong><br />
+<a href="000122">Python RSS Parsing Tools</a><br />
+<a href="000123">Fun in the Snow</a><br />
+<a href="000124">New Server Arrives Today</a><br />
+<a href="000125">Hmm&#8230; want to send me</a><br />
+<a href="000126">Ken Rawlings drops a line</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

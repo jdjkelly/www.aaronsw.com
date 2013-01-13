@@ -1,0 +1,760 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Four Myths About Politics (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001374.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001373" title="What is going on at the Supreme Court?" />	<link rel="next" href="001375" title="Fahrenheit 9/11 Transcript: The Saudi Flights" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Four Myths About Politics</h1>
+</div>
+
+<div class="content">
+<p>Chris (sorry to pick on you) gives a perfect example of the logic that&#8217;s causing Democrats to lose so badly:</p>
+
+<blockquote>
+  <p>Kerry does not have to waste time [on] the left, given that Bush [is] pushing these people to Kerry more effectively than Kerry could pull them&#8230;. It&#8217;s far more effective for Kerry as an electoral strategy to aim for the center and center right to pull those who would normally be voters for Bush. </p>
+</blockquote>
+
+<p>Let&#8217;s look at the assumptions made here:</p>
+
+<ol>
+<li><p>Bush&#8217;s misbheavior is pushing the left to Kerry. </p>
+
+<p>This may appears to be true for activists, but what about the other <em>half of the country</em> who doesn&#8217;t even vote? They might look at Bush&#8217;s misdeeds against his still relatively-high approval ratings and become even more cynical. They might hear all the talk about swing states and decide to tune out. They might not be inspired by Kerry&#8217;s rather empty platform and decide that while they might vote they won&#8217;t volunteer. The worse-off might not even pay attention to the race at all. They&#8217;ve got their own lives to worry about, and pushing out some other guy, however bad, isn&#8217;t going to make them much better.</p></li>
+<li><p>There are voters in the center which Kerry can take from Bush.</p>
+
+<p>It&#8217;s far from clear there is a &#8220;center&#8221;. Instead, it appears there are voters who are confused about which party is for them. Bush is friendly and religious and talks a lot about family values. Kerry is a little stuffy but talks about things like protecting the environment, raising the minimum wage, and worker conditions. These voters aren&#8217;t voting for Bush because they care deeply about privatization. They&#8217;re voting for him because they&#8217;re confused.</p></li>
+<li><p>Kerry can pick up these folks by moving to the right.</p>
+
+<p>Moving to the right will only make these voters more confused! What&#8217;s needed is a grander, bigger strategy that&#8217;ll clear things up for them: cutting taxes on average Americans, universal health care, clean government, greater regulation of corporations, protecting the environment. These are all things the majority of Americans believe in. And on the things Americans disagree about, you need to lead, not follow. </p>
+
+<p>Americans were evenly divided on gay marriage because they were scared. But the more they saw photos of happy couples and the more it was discussed, the more support there was for the measure. When polls tell you how many Americans believe X, they omit how strongly they believe it. And support for these conservative wedge-issues is really very soft.</p></li>
+<li><p>Above all, we should be concerned about getting Kerry elected.</p>
+
+<p>There&#8217;s a presidential election every four years. There&#8217;s a congressional election every two. It would certainly be nice to have a decent guy in the White House, but not if the cost is destroying the movement. Clinton had the White House for eight years, but because he bought into these myths he had few major achievements. Kerry could squander the White House for another eight if we&#8217;re not careful.</p>
+
+<p>It&#8217;s not enough to put the right guy in the Oval. We also need to build the support for him to get things done once he&#8217;s there. A the-other-guy-was-worse base of support isn&#8217;t going to let you do much. Energizing the left, bringing back non-voters, and pulling over the confused center will. </p></li>
+</ol>
+
+<p>I&#8217;m tempted to argue more, but I think I&#8217;ll save my energy. I&#8217;ve decided to record what I&#8217;ve learned by writing a book explaining American politics. It will cover errors like these in detail, and hopefully it will convince you. And hopefully I&#8217;ll be able to write it; I&#8217;m tryng my best.</p>
+
+<p class="posted">posted June 30, 2004 01:15 PM (<a class="category" href="cat_politics">Politics</a>) (<a href="#comments">32 comments</a>) <a href="001374" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001373" title="What is going on at the Supreme Court?">&laquo; prev</a> | <a href="./">up</a> | <a href="001375" title="Fahrenheit 9/11 Transcript: The Saudi Flights">next &raquo;</a></p>
+
+<p><a href="001369">Watch the Comedians: Fafblog!</a><br />
+<a href="001370">Justice Thomas and the Case-Dodgers</a><br />
+<a href="001371">When can I keep an enemy combatant?</a><br />
+<a href="001372">Why Ralph Runs</a><br />
+<a href="001373">What is going on at the Supreme Court?</a><br />
+<strong>Four Myths About Politics</strong><br />
+<a href="001375">Fahrenheit 9/11 Transcript: The Saudi Flights</a><br />
+<a href="001376">Stupid Criticisms of Fahrenheit 9/11</a><br />
+<a href="001377">Fact Check</a><br />
+<a href="001379">Web Development Restarts</a><br />
+<a href="001391">Press Clipping</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c2444">
+
+<p>Since I&#8217;m being picked on, here&#8217;s a response. I&#8217;ve omitted the lengthier portions, and included the headers for brevity&#8217;s sake.</p>
+
+<p><i>1. Bush&#8217;s misbheavior is pushing the left to Kerry.</i></p>
+
+<p>About the uninterested people in all this, you might take a look at the DailyKos post at</p>
+
+<pre>http://www.dailykos.com/story/2004/6/29/10578/3489
+</pre>
+
+<p>It references a story at the Washington Post about people who have been unengaged from politics starting to participate and donate their money. This might affect your view that this is an activists-only trend.</p>
+
+<p><i>2. There are voters in the center which Kerry can take from Bush.</i></p>
+
+<p>I think you&#8217;re oversimplifying things here. I&#8217;m usually more open to accepting the Republican platform because of its underlying principles. (Free markets, fiscal conservatism, limited gov&#8217;t) However, as someone who was rooting for Bush to beat Gore in 2000 (though I voted Libertarian after Bush&#8217;s smears against McCain), four years later, I find it imperative that Bush is pushed out of office. This trumps the party loyalty as Bush has done much to destroy the traditional principles that I found attractive in the GOP. (This is all independent of my opinion of Kerry, who I thought was one of the worst Democratic candidates.) I think that there are many educated people out there who are not simply confused, but are appalled at how Bush and his ideology is destroying the good things about the GOP (and the nation). That&#8217;s not to say that there are not any confused people out there (I know plenty.), it&#8217;s just that it&#8217;s far to simplistic to say that all these people are voting for Bush because they&#8217;re confused.</p>
+
+<p><i>3. Kerry can pick up these folks by moving to the right.</i></p>
+
+<p>By phrasing things above the way you have, people will accept them. However, the first rule of campaigns is &#8220;Spin. Spin. Spin&#8221;. I can think of any number of ways to spin each of the ideas above so that they sound like liberal foolishness that is a danger to the American Way of Life(tm). And I&#8217;m just a rank amateur compared to those who are those out there making a business of crafting messages.</p>
+
+<p>As for moving right, one of the things that I&#8217;ve been thinking about these days is why races are always so close. Why don&#8217;t we have 60% v. 30% more often, and why are things like 47% v. 43% results more common? The conclusion that I&#8217;ve come to is that the guy on the losing end of the race must compromise on enough things to bring over enough voters to win the race, but not stray too far away from their core preferences. Given our system, it&#8217;s the best strategy for me if I&#8217;m losing to compromise enough to get just enough votes to put me over the edge. The outcome is the same as if I simply cloned the other guy, but I&#8217;m much closer to where I want to be in the first place.</p>
+
+<p>I think the victor of Bush v. Kerry is going to be determined by who best triangulates. IMHO.</p>
+
+<p><i>4. Above all, we should be concerned about getting Kerry elected.</i></p>
+
+<p>Normally, I&#8217;d agree with you about the idea that &#8220;he&#8217;s only there for four years, we can weather him.&#8221; I&#8217;m not so sure with Bush. Given his crazy deficit spending, distraction with Iraq, and degradation of American alliances and military readiness (Who will we send to North Korea if they decide to get hostile and do something dumb?) as a conservative, I can&#8217;t stomach the thought of him in office in four more years. For all the bashing Clinton gets from the right, he was a pretty good president. He balanced the budget, had a sensible foreign policy, was relatively transparent in his dealings, and didn&#8217;t screw anything up.</p>
+
+<p>I wonder if we&#8217;re in the odd position where it&#8217;s more important to me to get Bush out of office than progressives like yourself? That would be really odd situation, no?</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aetherial.net" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2444">Chris</a> at June 30, 2004 01:39 PM <a href="#c2444">#</a></p>
+
+</div><div id="c2445">
+
+<p>I have no question Bush is drawing people in by himself, but with an aggressive Kerry, it would be far more effective. Kerry is squandering an extremely rare moment by moving to the center.</p>
+
+<p>I&#8217;m pretty sure the confused people are a much bigger group than the strategic intellectuals.</p>
+
+<p>Spin only goes so far. In the absence of debate, sure, people can spin things. But with an aggressive strategy like I suggest, it&#8217;s much more difficult.</p>
+
+<p>The reason I think results are 47% to 43% is because most voters see little difference between the candidates and so end up voting essentially randomly.</p>
+
+<p>I&#8217;m not sure we could really whether four more years of Bush either, but I think a strategy that both defeated Bush and built a progressive coalition would be a much better investment than one which only defeated Bush.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2445">Aaron Swartz</a> at June 30, 2004 01:54 PM <a href="#c2445">#</a></p>
+
+</div><div id="c2446">
+
+<p>Also, to (somewhat) put my money where my mouth is, a proposal:</p>
+
+<p>According to the Center for Voting and Democracy, presidential voter turnout has varied from 48.9% (1924) to 62.8% (1960). </p>
+
+<p>http://www.fairvote.org/turnout/preturn.htm</p>
+
+<p>I&#8217;m willing to wager a $50 Amazon gift certificate that this election will push enough non-activist Kerry-voting Americans to the polls for the presidential election that turnout in 2004 will top 62.5%. (Which has only been surpassed since 1924 with the 1960 election at 62.8%.) </p>
+
+<p>If your theory is correct that the people who will come out to vote are mostly activists and not common folk, it will be hard to pass the mark I&#8217;ve set and you win $50 in free money. If turnout surpasses 62.5% and Bush wins, I&#8217;ll still give your the gift certificate. </p>
+
+<p>However, if turnout is higher than 62.5% of the population and Kerry wins, you send a $50 Amazon gift certificate my way.</p>
+
+<p>What do you say? Are you up for a friendly wager?</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aetherial.net/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2446">Chris</a> at June 30, 2004 01:58 PM <a href="#c2446">#</a></p>
+
+</div><div id="c2448">
+
+<p>The wager sounds like fun, but I don&#8217;t think the terms are quite right. It fails to take into account the possibility that Kerry might come around and follow the advice of progressives. (If he does, which after all is our goal, then the results should be reversed.)</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2448">Aaron Swartz</a> at June 30, 2004 02:06 PM <a href="#c2448">#</a></p>
+
+</div><div id="c2449">
+
+<p>Ok, an amendment then: 62.5% turnout, Kerry wins, and Kerry does not campaign on a grand liberal / progressive vision for the United States (but instead triangulates to the center by going rightward) wins me $50.</p>
+
+<p>Are the terms more clear now?</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aetherial.net/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2449">Chris</a> at June 30, 2004 02:11 PM <a href="#c2449">#</a></p>
+
+</div><div id="c2462">
+
+<p>Phew.  I thought you meant me at first, and I was trying to remember where I said those things.</p>
+
+<p>Anyway, I agree with both Chris and Aaron.  The problem is that there are matters of degree.</p>
+
+<p>Certainly, more people will vote against Bush that wouldn&#8217;t otherwise vote, and Kerry will wrap up the left voters regardless.  But there are also people who won&#8217;t vote unless they really LIKE a candidate.</p>
+
+<p>Certainly, there is no perfect center.  I am planning on seeing F 9/11 (not because of the movie, but because of the dinner and conversation following) with a few friends, and none of us fit the traditional left/right/center mold.  One is a Republican Hindu vegetarian, one is an independent who leans socially liberal and is anti-immigration, one is a very libertarian-leaning independent, one is me.  Each of us have views that are all over the map.  Nevertheless, there are a lot of voters who fall &#8220;in between&#8221; the Republicans and Democrats, and Kerry can win a lot of them.</p>
+
+<p>(And Aaron, saying these people vote for Bush because they are confused is unreasonably condescending.)</p>
+
+<p>And yes, Aaron is right that some voters will be more confused by Kerry moving to the right, but how do you think Kerry won the nomination in the first place?  He was right, and moved left, and then after Dean was dispatched, moved right again.  How do you think Bush won in 2000?  By moving left.  This is how things are done, and it works.</p>
+
+<p>Similarly, I agree with Aaron that normally one election is not worth sacrificing your principles for, and with Chris that a given election might be.  It all depends on how strongly you feel about your principles vs. the candidates, doesn&#8217;t it?</p>
+
+<p class="posted">posted by <a target="_blank" title="http://slashdot.org/~pudge/journal" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2462">pudge</a> at July  1, 2004 02:27 PM <a href="#c2462">#</a></p>
+
+</div><div id="c2463">
+
+<p>Chris, you say: <em>I voted Libertarian after Bush’s smears against McCain</em>.  What are you referring to?</p>
+
+<p>If you mean the &#8220;push poll&#8221; &#8212; wherein it is said that Bush called thousands of voters, supposedly polling them, but really spreading negative smears about him &#8212; there&#8217;s no reasonable evidence it ever happened.</p>
+
+<p>The only evidence it ever happened was the one woman who claimed it happened, in a McCain town meeting in South Carolina.  Donna Duren said her 14-year-old son, who idolized McCain, had answered the phone the night before and had become distressed. &#8220;He was so upset,&#8221; Duren told McCain. &#8220;He said, &#8216;Mom, someone told me that Senator McCain is a cheat and a liar and a fraud.&#8217;&#8221;</p>
+
+<p>Now, it is true that Bush made advocacy calls where they said Bush was &#8220;working hard and stressing his message of reform with results,&#8221; and, &#8220;Unfortunately, the race has turned ugly,&#8221; and urged listeners, &#8220;Don&#8217;t be misled by McCain&#8217;s negative tactics.&#8221;  This is common tactics, and very different from what the popular myth says happened.</p>
+
+<p>The LA Times looked into the matter, and could find no one who would corroborate Duren&#8217;s story.  The McCain campaign themselves came up with only six complaints, three of which who described to the Times questions &#8220;that, while negative, appear to have been part of a legitimate poll. Another said she heard no negative information at all.&#8221;</p>
+
+<p>It is possible what Duren said is entirely true, but there&#8217;s no evidence that this was not a completely isolated incident, even if it is.  And the lack of evidence is indeed evidence that it is isolated, because usually, in such cases of push polling, someone somewhere has a tape of the call, or there&#8217;s lots of people who independently report it.</p>
+
+<p>For example, Pat Robertson made a negative McCain call on Bush&#8217;s behalf, and there was a tape.  McCain&#8217;s campaign did its negative &#8220;Catholic voter alert&#8221; calls, and there was a tape.</p>
+
+<p>The same holds true of the allegations that McCain fathered an illegitimate black child.  There&#8217;s no hard evidence these calls ever took place.</p>
+
+<p>Frankly, it seems just as &#8212; if not more &#8212; likely that the McCain campaign made up the allegations of these as it is that Bush&#8217;s campaign made them in the first place.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://slashdot.org/~pudge/journal" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2463">pudge</a> at July  1, 2004 02:43 PM <a href="#c2463">#</a></p>
+
+</div><div id="c2465">
+
+<p>Pudge, it&#8217;s been a while since I&#8217;ve revisited the subject, but I think the book &#8220;The Buying of the President, 2004&#8221; covered the situation very well within its section on Bush.</p>
+
+<p>(McCain&#8217;s former campaign manager wrote about the smear campaign at http://reforminstitute.org/cgi-data/article/files/180.shtml.)</p>
+
+<p>Are you disputing that the smear campaign actually took place or that Bush and his campaign had no part in it? I&#8217;m just wondering if you&#8217;re contradicting Charles Lewis from CPI who wrote about the McCain and Cleland campaigns:</p>
+
+<p><i>&#8220;Hit-and-run political organizations are the bane of any open democracy. Who can forget the infamous Willie Horton commercial in the 1988 presidential campaign or the dozen groups all coincidentally friendly to George W. Bush that suddenly materialized in the 2000 GOP primary in South Carolina, spending millions of dollars and spreading the worst kind of vituperative bile to defame Senator John McCain and his wife? Who can forget the below-board tactics used to bring down incumbent Democratic Georgia Senator Max Cleland two years later, in which his opponent paid for TV commercials questioning the patriotism of Vietnam War hero Cleland. In an interview for The Buying of the President 2004 (HarperCollins), McCain told me that the same people who quietly assisted Bush in South Carolina in his 2000 primary showdown there also were involved in Georgia. The slander was &#8216;run by the same people, [former Christian Coalition executive director and Bush &#8220;Pioneer&#8221;] Ralph Reed &#8230; The same outfit, the same organizations, and I will never, ever get over them running a picture of Max Cleland, Saddam Hussein, and Osama bin Laden, [this about] a man who left three limbs on the battlefield in Vietnam. That&#8217;s just something I will never get over.&#8217;&#8221;</i></p>
+
+<p>Just so we&#8217;re clear, are you telling me that I&#8217;m being misled by these folks?</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aetherial.net/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2465">Chris</a> at July  1, 2004 03:22 PM <a href="#c2465">#</a></p>
+
+</div><div id="c2466">
+
+<p>Before someone asks - the excerpt above comes from the piece at the following URL:</p>
+
+<p>http://www.openairwaves.org/report.aspx?aid=194&amp;sid=200</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aetherial.net/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2466">Chris</a> at July  1, 2004 03:23 PM <a href="#c2466">#</a></p>
+
+</div><div id="c2468">
+
+<p>Overall, I wonder, &#8220;Why write a book?&#8221; when you can simply have people read George Lakoff&#8217;s books. </p>
+
+<p>But I take issue with Aaron&#8217;s point 4. It is simply imperative that Bush be defeated in this election. There&#8217;s a million points of disagreement I have with Bush and his policies, but there are two things of vital concern that must be reversed and can only be fixed if Bush loses.</p>
+
+<p>First, and most importantly, Bush and his administration (particularly Cheney) have created an Imperial Presidency. The level of secrecy and amount of power that the Bush administration claims is beyond Nixon&#8217;s.</p>
+
+<p>If Bush is re-elected, it&#8217;s tanamount to endorsing the Imperial Presidency with the will of the people. This must not happen.</p>
+
+<p>Second, Bush&#8217;s anti-science agenda is extremely detrimental to America&#8217;s chances for long term success. The trumping of ideology over science in health (aborton, sex ed, birth control), stem cell research, and the environment (global warming) all  threaten us. If America becomes a place where scientists can&#8217;t do business without undue government interference, where will be? </p>
+
+<p>If Bush is re-elected, the effects of the repurcussions of endorsing his policies will be felt for many, many years to come.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.bushout.tv" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2468">Luke Francl</a> at July  1, 2004 04:53 PM <a href="#c2468">#</a></p>
+
+</div><div id="c2469">
+
+<p>More smear campaign sources:</p>
+
+<p><a href="http://www.boston.com/news/globe/editorial_opinion/oped/articles/2004/03/21/the_anatomy_of_a_smear_campaign/">Boston Globe op-ed by McCain&#8217;s campaign manager</a> <br />
+<a href="http://archives.lists.indymedia.org/imc-houston/2002-December/004984.html">Esquire profile by Ron Suskind</a> <br />
+<a href="http://www.guardian.co.uk/uselections2004/comment/story/0,14259,1232440,00.html"><em>Observer</em> profile of McCain</a></p>
+
+<p>It&#8217;s possible all these sources are repeating rumors, but you&#8217;d think at least one of them would have a decent fact-checking staff or print a correction.</p>
+
+<p>Luke: I don&#8217;t think Lakoff&#8217;s books cover the subject, but I haven&#8217;t finished reading them.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2469">Aaron Swartz</a> at July  1, 2004 05:04 PM <a href="#c2469">#</a></p>
+
+</div><div id="c2470">
+
+<p><em>Are you disputing that the smear campaign actually took place or that Bush and his campaign had no part in it?</em></p>
+
+<p>I am disputing there is evidence of a smear campaign that is significantly worse than those performed by any other recent candidate (including Gore, McCain, Kerry, etc.).  Like this claim:</p>
+
+<p>Davis writes: <em>Anonymous opponents used &#8220;push polling&#8221; to suggest that McCain&#8217;s Bangladeshi born daughter was his own, illegitimate black child.</em>  But where&#8217;s the evidence for that claim?</p>
+
+<p>And Chris, you bring up Horton, and Cleland.  These are even more of a joke.  First, Bush didn&#8217;t start the Horton thing.  It was promoted by a group called the &#8220;National Security Political Action Committee,&#8221; a third-party organization.  As Salon <a href="">says</a>:</p>
+
+<p><em>Likewise, it bears mentioning that neither Carmen nor the National Security PAC &#8212; nor, even, Americans for Bush &#8212; had any direct ties to the 1988 presidential campaign of then-Vice President George H.W. Bush.</em></p>
+
+<p>And as to the claim that Cleland&#8217;s patriotism was questioned in TV ads &#8230; it&#8217;s just false.  Absolutely, 100% false.  What happened is that Cleland ran an ad claiming he supported Bush&#8217;s homeland security efforts, when in fact, he opposed Bush&#8217;s homeland security bills.  The ad even showed Cleland in a picture with Bush to emphasize the false impression.</p>
+
+<p>So Chambliss responded with an ad that showed pictures of war: Osama Bin Laden, U.S. soldiers, U.S. fighter planes, and Saddam Hussein, all in separate portions of the screen.  The voiceover:   &#8220;As America faces terrorists and extremist dictators, Max Cleland runs television ads claiming he has the courage to lead.&#8221;</p>
+
+<p>Then the video images change to Cleland, and the voiceover continues: &#8220;He says he supports President Bush at every opportunity, but that&#8217;s not the truth. Since July, Max Cleland has voted against the president&#8217;s vital homeland-security efforts eleven times. Max Cleland says he has the courage to lead. But the record proves Max Cleland is just misleading.&#8221;</p>
+
+<p>This ad does not question his patriotism one bit, or do anything close to it.  It questions his judgment in voting against the homeland security bills.  It did question his courage, somewhat (or, at least, questioned his statement that he has courage :-), but that is not the same thing as patriotism.</p>
+
+<p>So yes, you are being misled.</p>
+
+<p>Aaron writes:</p>
+
+<p><em>It’s possible all these sources are repeating rumors, but you’d think at least one of them would have a decent fact-checking staff or print a correction.</em></p>
+
+<p>Come now, Aaron, this from the guy who complains that so many media people take it as gospel truth that Gore claimed to have invented the Internet, something that is far more easily shown to be false, rather than something like this, which can&#8217;t be shown to be false, but can only be shown to lack sufficient evidence?</p>
+
+<p class="posted">posted by <a target="_blank" title="http://slashdot.org/~pudge/journal" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2470">pudge</a> at July  1, 2004 05:25 PM <a href="#c2470">#</a></p>
+
+</div><div id="c2472">
+
+<p><em>First, and most importantly, Bush and his administration (particularly Cheney) have created an Imperial Presidency. The level of secrecy and amount of power that the Bush administration claims is beyond Nixon’s.</em></p>
+
+<p>People need to have some perspective here.  Yes, there&#8217;s a level of secrecy that I am uncomfortable with, but look at all that the Bush administration has <em>not</em> squelched, for example, Anonymous&#8217; recent book, Imperial Hubris, which was reviewed by the CIA before it was released to the publishers.  They did not change one thing in it and said it could be published.  They changed very little in Clarke&#8217;s book.  There&#8217;s been an unprecedented openness to journalists in a battlezone, balking only at journalists who endanger troops (e.g., Geraldo, and even then, giving him a second chance later).</p>
+
+<p>I agree that they&#8217;ve exercised too much power in some areas, but that&#8217;s normal, especially during war time.  I don&#8217;t condone it, but I don&#8217;t panic over it either: our courts have so far acted as a sufficient buffer (for example, consistently ruling against Bush in the Gitmo detainees cases).</p>
+
+<p><em>Second, Bush’s anti-science agenda is extremely detrimental to America’s chances for long term success.</em></p>
+
+<p>That&#8217;s an opinion, one I don&#8217;t share, and it indeed should be one of the main focuses of this election.  For example:</p>
+
+<p><em>The trumping of ideology over science in health (aborton, sex ed, birth control), stem cell research, and the environment (global warming) all threaten us.</em></p>
+
+<p>Funny, I think the left is the one who puts their ideology over science in these areas.</p>
+
+<p><em>If America becomes a place where scientists can’t do business without undue government interference, where will be?</em></p>
+
+<p>If you really don&#8217;t understand the opposition to abortion and stem cell research, then you cannot reasonably debate these issues.  Until you understand the opposition, you can&#8217;t debate them.  And by saying that someone who believes a specific act is a violation of human rights should allow those acts to be performed shows you either don&#8217;t understand how deeply felt this violation is, or you don&#8217;t understand morality itself.</p>
+
+<p><em>If Bush is re-elected, the effects of the repurcussions of endorsing his policies will be felt for many, many years to come.</em></p>
+
+<p>Lord, I hope so.  If re-electing Bush means restricting abortion more and permanently banning human cloning (including research cloning), then that just means I am going to campaign harder for him.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://slashdot.org/~pudge/journal" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2472">pudge</a> at July  1, 2004 05:37 PM <a href="#c2472">#</a></p>
+
+</div><div id="c2474">
+
+<p>Pudge, the Horton and Cleland bit was part and parcel of the quote I took from the former head of the Center for Public Integrity. (I&#8217;m not a fan of wholesale quote editing when I can avoid it.) I&#8217;m curious which campaigns have used smear tactics in recent elections that have risen to the level of the 2000 Republican primary. I remember following the primaries that year very well - the Democrats didn&#8217;t rise to that level then. Also, thinking back to the very lively 2004 Democratic primary, I don&#8217;t remember things getting that nasty this last winter and spring. I could be mistaken, and such campaigning is the status quo, but I honestly haven&#8217;t seen things devolve to the level of the GOP primary in South Carolina in 2000.</p>
+
+<p>You seem to be a pretty adamant Bush supporter. I&#8217;m wondering how defensible the Bush administration is with respect to things like respecting fundamental tenets of our system of government such as transparency and accountability and respect for the rule of law.</p>
+
+<p>I&#8217;ll cite Cheney&#8217;s closed door task force meetings, Ashcroft&#8217;s DoJ stating that they can&#8217;t meet Freedom of Information Act requests because of a fragile database until after the election, the president&#8217;s advisors writing notes saying that what he has a final say on what is legal and what isn&#8217;t, and the wholesale contempt shown to fundamental principles such as due process under the law. (What part of &#8220;All men are created equal&#8221; was unclear?) You think that this is fine as long as the courts hold their ground, but what happens when Bush pulls an Andrew Jackson and gives us the modern version of &#8220;John Marshall has made his 
+decision, now let him enforce it.&#8221; (AJ&#8217;s famous statement about the Supreme Court decision that moving the Cherokees out of Florida was illegal and unconstitutional. The results were also known as &#8220;The Trail of Tears&#8221;.)</p>
+
+<p>The reason that I&#8217;m opposing Bush as vigorously as I can this election is that the pattern I&#8217;m seeing in the actions mentioned above are a fundamental danger to our society and system of government. I think this administration&#8217;s contempt of basic civic values is atrocious, whether one is on the right wing or left. You cite above that we&#8217;re at war. Is this a war that has a definite end point where we can say that it&#8217;s over, and we can now go back to being a (small d) democratic society? Given the administration&#8217;s track record in truthfulness of goals in Iraq, can we even trust this administration to let us know when &#8220;the war is over&#8221;?</p>
+
+<p>I&#8217;ll stop there. I&#8217;m interested to hear why you support the Bush administration despite these things.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aetherial.net" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2474">Chris</a> at July  1, 2004 11:00 PM <a href="#c2474">#</a></p>
+
+</div><div id="c2475">
+
+<p>If Bush wins, John Ashcroft will still be AG, Dick Cheney will still be VP, and he will put 1-3 new faces on the Supreme Court like J. Scalia and J. Thomas and then we can really all kiss any hope of true freedom and democracy goodbye.  I know that everyone says every election is the most important.  Unfortunately, this one could be - will be.  The conservative wing (not true Conservatives I might add) of the R  party controls both houses of Congress (and all legislation), it controls the lobbyists that influence Congress, it controls the Supreme Court except for occasional stubbornness of O&#8217;Connor, Kennedy etc. and it has more money than anyone else can think of, and can raise more.  If the Presidency does not return to the Democratic Party, with all its imperfections, the effect will be horrendous.  And my kids and grandkids will pay for it, either by going to the next new War via the draft or paying taxes etc. to support the bloated Defense Department necessary to fend off those who would harm troops stationed overseas and the Homeland Security Dept. which cannot by any stretch of imagination be able to protect all of our porous borders.  So, Kerry may not be perfect, but he&#8217;s sure as heck better than Bush and Cheney and crew.</p>
+
+<p class="posted">posted by Victoria at July  2, 2004 12:52 AM <a href="#c2475">#</a></p>
+
+</div><div id="c2477">
+
+<p>Another thought I had while reading your post, Pudge. You seem to think that this administration, while secretive in many respects, is surprisingly open in others. Can you give me an example when this administration was open to the public and press when it didn&#8217;t suit their ends or when not being open would have been worse for them than the alternative, such as with Richard Clarke&#8217;s book? Why was the administration so eager to let reporters tag along with the military going into Iraq, but was steadfast in their refusal to allow the media to cover the dead coming back from Iraq? </p>
+
+<p>Also, another pet peeve I have is Bush&#8217;s interviews. The reporters either have to submit their questions in advance, or the president does not play. Where is the opportunity for the public (via the press or other means) to engage in honest questioning with the president without any sort of filtering or screening. If the president is a public servant and serves on behalf of the citizens, why is it that he choses what will be asked and answered, and not the members of the public and press?</p>
+
+<p>Tony Blair seems to be able to handle such things (such as Question Time) routinely. Why not Bush?</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aetherial.net" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2477">Chris</a> at July  2, 2004 08:44 AM <a href="#c2477">#</a></p>
+
+</div><div id="c2479">
+
+<p><em>I’m curious which campaigns have used smear tactics in recent elections that have risen to the level of the 2000 Republican primary.</em></p>
+
+<p>What smear tactics?  I debunked the couple mentioned (the one about the push poll that ripped McCain, and the one about McCain fathering an illegitimate child).  You are arguing against something that, as best I can tell, never happened.  I keep asking for evidence, and the best anyone can come up with is people repeating the claims.</p>
+
+<p><em>You seem to be a pretty adamant Bush supporter. I’m wondering how defensible the Bush administration is with respect to things like respecting fundamental tenets of our system of government such as transparency and accountability and respect for the rule of law.</em></p>
+
+<p>About as good as most of the rest (that is to say, not very).</p>
+
+<p><em>I’ll cite Cheney’s closed door task force meetings</em></p>
+
+<p>Something that is perfectly reasonable, legal, and has happened under many other administrations?  Excuse me while I yawn.</p>
+
+<p><em>Ashcroft’s DoJ stating that they can’t meet Freedom of Information Act requests because of a fragile database until after the election</em></p>
+
+<p>Maybe it&#8217;s true, I don&#8217;t know.  It does smell fishy, and I fully support the use of the judicial system to find out if it is true and to get the information.</p>
+
+<p><em>the president’s advisors writing notes saying that what he has a final say on what is legal and what isn’t</em></p>
+
+<p>Sorry, I thought you were talking about actual decisions and actions taken by the administration, not advice some people gave him on what the law means, that wasn&#8217;t even followed by the administration.</p>
+
+<p><em>and the wholesale contempt shown to fundamental principles such as due process under the law. (What part of “All men are created equal” was unclear?)</em></p>
+
+<p>The part where this has nothing to do with who has the right to due process, perhaps?  You&#8217;re conflating.</p>
+
+<p><em>You think that this is fine as long as the courts hold their ground, but what happens when Bush pulls an Andrew Jackson and gives us the modern version of “John Marshall has made his decision, now let him enforce it.”</em></p>
+
+<p>In some cases, I might admire it.  It depends on the case.</p>
+
+<p><em>The reason that I’m opposing Bush as vigorously as I can this election is that the pattern I’m seeing in the actions mentioned above are a fundamental danger to our society and system of government.</em></p>
+
+<p>And I think you&#8217;re overreacting and have no sense of perspective.</p>
+
+<p><em>You cite above that we’re at war. Is this a war that has a definite end point where we can say that it’s over, and we can now go back to being a &#8230; democratic society?</em></p>
+
+<p>That&#8217;s irrelevant to my statements and first-order thoughts on the matter.  That&#8217;s a problem to be overcome, not a consideration negating the fact or necessity of war.  That is, it&#8217;s beside the point.</p>
+
+<p><em>Given the administration’s track record in truthfulness of goals in Iraq, can we even trust this administration to let us know when “the war is over”?</em></p>
+
+<p>Why would you trust any government to do so?  Maybe the problem here is that you want to be able to trust the government, to have a government that will do what you think is right.  I take it for granted that I cannot ever trust the government and that I will often disagree with what it does, and I keep my eye on the end result (e.g., the courts slapping down the decisions to disallow court access to American enemy combatants).</p>
+
+<p><em>I’m interested to hear why you support the Bush administration despite these things.</em></p>
+
+<p>I don&#8217;t know why anyone has a problem understanding this.  I believe Kerry won&#8217;t be significantly better (i.e., doing things how I think they should be done).  He voted for the Patriot Act, which so many liberals bemoan.  He voted to authorize war with Iraq.  He lies about his record, and keeps his secrets, like they all do.</p>
+
+<p>Even Clinton says war with Iraq was warranted, he just would have done it later, not sooner.  I know your problem is this perceived abuses of liberty, but I just don&#8217;t think it is that bad, in fact or in theory.</p>
+
+<p>The things people cite are almost all very minor.  People say, well, it amounts to a pattern.  To which I say, oh, whatever.  Most people then talk about library records, which are not even specifically mentioned in the Patriot Act, and which may only be requested with a warrant.</p>
+
+<p>The only big problem I can think of off the top of my head with the Patriot Act is the overbroadness of the FISA expansions, but again, that&#8217;s how things work.  The executive branch or Congress goes overbroad, and the court bats them back.  I agree fundamentally with COPA, but I don&#8217;t want it to be overbroad, either, and if they need to go back and try again, so be it.  It just pissess me off that it took 6 years.  But I digress.</p>
+
+<p>I think, actually, these &#8220;abuses&#8221; of liberty are is good, but not for the reason many Bush supporters might: I think it is good because we&#8217;ve been complacent too long about the distribution of power in the federal government, and that this is helping redefine the lines (hopefully, in the end, for the better).</p>
+
+<p>I don&#8217;t support Bush because of some of these things, however minor I think they are; I support him in spite of some of them.  But it should be instructive to you that I consider the actual abuses, like the Padilla thing, to be few and far between.</p>
+
+<p><em>You seem to think that this administration, while secretive in many respects, is surprisingly open in others.</em></p>
+
+<p>Not &#8220;surprisingly&#8221; to me, no.  Surprisingly to those who have what I believe to be a warped view of the administration, yes.</p>
+
+<p><em>Can you give me an example when this administration was open to the public and press when it didn’t suit their ends or when not being open would have been worse for them than the alternative, such as with Richard Clarke’s book?</em></p>
+
+<p>I did.  See &#8220;Anonymous.&#8221;  They could have squelched the entire thing, pretty easily.</p>
+
+<p><em>Why was the administration so eager to let reporters tag along with the military going into Iraq, but was steadfast in their refusal to allow the media to cover the dead coming back from Iraq?</em></p>
+
+<p>Did you ever stop to consider there&#8217;s a damned good reason for not letting the media into Dover?  Because if not, well, let me edumucate you.  How many dead bodies have we had so far?  Over 850, last I saw.  If we allow the public into Dover, all the families &#8212; whether they can afford it or not &#8212; will feel obligated to be there.  It benefits no one in any real sense to allow the public in, except emotionally, and yet it is a huge burden to many who would come.</p>
+
+<p>So they open up the destinations to the public (according to the will of the families), and not the rest of the trip, to save everyone a lot of burden.  You can disagree with the decision, but don&#8217;t pretend the purpose is to close off information about the war.  Casualties are released as soon as possible, there is no attempt whatever to hide the losses.</p>
+
+<p><em>Also, another pet peeve I have is Bush’s interviews. The reporters either have to submit their questions in advance, or the president does not play.</em></p>
+
+<p>That&#8217;s not true.  Maybe it has happened in some cases, but it is not universally true as you state it, and it is not the norm.  And I, as a reporter, would never submit to it.  The press is more to blame here than the President: they have a responsibility, and are shirking it.  Of course the President wants to get questions in advance, and if he can get them, most Presidents <em>would</em> ask for them, whether I want them to or not.  The question is why he gets them?</p>
+
+<p>(Note also that this is a new problem, since post-FDR: in the past, the President would not give taped interviews, and would be free to not respond or even encourage &#8212; usually successfully &#8212; the reporter to not report something that is said.)</p>
+
+<p>I have a degree in journalism, and am an avid critic of the press.  I could go on a lot about this.  :-)</p>
+
+<p><em>Tony Blair seems to be able to handle such things (such as Question Time) routinely. Why not Bush?</em></p>
+
+<p>You act like you didn&#8217;t know four years ago that Bush was not a good communicator.  Newsflash.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://slashdot.org/~pudge/journal" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2479">pudge</a> at July  2, 2004 12:03 PM <a href="#c2479">#</a></p>
+
+</div><div id="c2480">
+
+<p>Victoria:</p>
+
+<p>If Kerry wins, he will put 1-3 new faces on the Supreme Court like Ginsberg and Stevens and then we can really all kiss any hope of true freedom and democracy goodbye.</p>
+
+<p>If the Presidency does not remain in the Republican Party, with all its imperfections, the effect will be horrendous. And my kids and grandkids will pay for it, either by going to the next new War via the draft (you do know that the GOP and Pentagon are all against the draft, and that only Democrats support it, right?) or paying taxes etc. to support the bloated welfare state necessary to keep the Democrats in power.  Som Bush may not be perfect, but he’s sure as heck better than Kerry and crew.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://slashdot.org/~pudge/journal" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2480">pudge</a> at July  2, 2004 12:11 PM <a href="#c2480">#</a></p>
+
+</div><div id="c2481">
+
+<p>pudge, I suspect you&#8217;re not being serious, but that&#8217;s really unfair. No Democrats have promoted the draft. One (Rangel) proposed a bill as a political tactic to get people to realize the cost of the war, but even he says he&#8217;s not going to push it.</p>
+
+<p>Meanwhile, if the Democrats were in power your kids would only be paying taxes if they made over $200,000 a year.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2481">Aaron Swartz</a> at July  2, 2004 12:23 PM <a href="#c2481">#</a></p>
+
+</div><div id="c2482">
+
+<p><em>pudge, I suspect you’re not being serious, but that’s really unfair. No Democrats have promoted the draft. One (Rangel) proposed a bill as a political tactic to get people to realize the cost of the war, but even he says he’s not going to push it.</em></p>
+
+<p>Well, it&#8217;s certainly more fair to say the Democrats support the draft than it is to say the Republicans do, and yet you didn&#8217;t say a word to Victoria when she made the absurd claim.  Why do you think that is?</p>
+
+<p><em>Meanwhile, if the Democrats were in power your kids would only be paying taxes if they made over $200,000 a year.</em></p>
+
+<p>When my kids get older, if the Democrats had their way, only rich people would pay any taxes at all?  According to whom?</p>
+
+<p class="posted">posted by <a target="_blank" title="http://slashdot.org/~pudge/journal" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2482">pudge</a> at July  2, 2004 01:28 PM <a href="#c2482">#</a></p>
+
+</div><div id="c2484">
+
+<p>I didn&#8217;t say a word to Victoria because you responded before I read her post. I also didn&#8217;t respond to that claim because it&#8217;s a reasonable opinion (certainly as likely as Ashcroft continuing to be AG) supported by the facts (Frum and Perle have said they want to invade several more countries, we don&#8217;t have enough troops to do that without a draft). This is not to say that a draft is a certainty; just that I don&#8217;t think it&#8217;s an unreasonable belief. I also don&#8217;t respond to every post on the site, even when they are factually incorrect.</p>
+
+<p>(Chris&#8217;s claim that the press submits questions in advance is more serious, but you took care of that too.)</p>
+
+<blockquote>
+  <p>to support the bloated welfare state necessary to keep the Democrats in power</p>
+</blockquote>
+
+<p>Empirically, you should notice that this supposed plan simply hasn&#8217;t worked. The poor, who benefit the most directly from the welfare programs, hardly vote at all. Wealthy Democrats, who end up paying for the system, vote overwhelmingly. People just don&#8217;t vote their self-interest.</p>
+
+<p>And as for this being a response to Victoria, the Defense Department is <em>far</em> bigger than &#8220;welfare state&#8221; programs.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2484">Aaron Swartz</a> at July  2, 2004 08:31 PM <a href="#c2484">#</a></p>
+
+</div><div id="c2485">
+
+<p><em>Empirically, you should notice that this supposed plan simply hasn&#8217;t worked.</em></p>
+
+<p>That&#8217;s only because there&#8217;s not as many poor people than there used to be, thanks to Reagan and the Bushes!  :-)</p>
+
+<p>I was being facetious, anyway.  Victoria was making these grand, unsupportable, statements about how evil the Republicans are, so I parrotted her form with some of my own.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://slashdot.org/~pudge/journal" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2485">pudge</a> at July  3, 2004 02:16 AM <a href="#c2485">#</a></p>
+
+</div><div id="c2486">
+
+<p>Thanks for the response and clarifications, Pudge. I&#8217;ll have to think on them and look around to validate them, but your comments are valuable nonetheless.</p>
+
+<p>Is it a fair assessment that in 2004, you are voting more against Kerry than you are voting for Bush? You don&#8217;t seem all that enthusiastic about Bush as a politician, but I get the impression that you have ideological differences with Kerry (and the Democratic platform) that are pushing you to Bush. Is that a fair assessment?</p>
+
+<p>Also, Aaron - are you planning on taking me up on that bet?</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aetherial.net" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2486">Chris</a> at July  3, 2004 09:49 AM <a href="#c2486">#</a></p>
+
+</div><div id="c2491">
+
+<p><em>Is it a fair assessment that in 2004, you are voting more against Kerry than you are voting for Bush?</em></p>
+
+<p>No.  I am voting for the Republican platform over the Democratic one.  Even though both parties and candidates stray often from their respective platforms, 1. more often than not they follow their own platform more than they follow the other guys&#8217; platform, and 2. more often than not they follow their own platform more than the other guys follow it.</p>
+
+<p>It&#8217;s not that I have a problem with Bush but more of a problem with Kerry.  I actually like Kerry (I lived in MA for many years, and respect the man), but this isn&#8217;t about likes and dislikes.</p>
+
+<p><em>You don’t seem all that enthusiastic about Bush as a politician, but I get the impression that you have ideological differences with Kerry (and the Democratic platform) that are pushing you to Bush. Is that a fair assessment?</em></p>
+
+<p>Yes.  I was never enthusiastic about Bush in 2000, either, FWIW.  In 2000, even though it was still more about the platform, I couldn&#8217;t stand Gore.  I would have rather had four more years of Clinton than any time with Gore.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://slashdot.org/~pudge/journal" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2491">pudge</a> at July  4, 2004 07:59 PM <a href="#c2491">#</a></p>
+
+</div><div id="c2503">
+
+<p>More on McCain.</p>
+
+<p>On CNN:</p>
+
+<blockquote>
+  <p>KARL: Here at Choice Hills, much of the rumor and innuendo is traceable to a four-page e-mail message that purports to give McCain&#8217;s life story.</p>
+  
+  <p>&#8220;He chose to focus his life then on partying, playing, drinking and womanizing,&#8221; the message reads &#8212; adding &#8220;McCain chose to sire children without marriage.&#8221;</p>
+  
+  <p>The top of the message says, &#8220;Feel free to copy and/or send it to others.&#8221; CNN traced the authorship of the e-mail to Richard Hand, a professor at Bob Jones University. Hand now acknowledges he has no evidence for his explosive charges.</p>
+  
+  <p>(on camera): Professor, with all due respect, you say that this man had children out of wedlock. He did not have children out of wedlock. Now this is being spread&#8230;</p>
+  
+  <p>RICHARD HAND, PROFESSOR, BOB JONES UNIVERSITY: Oh, wait a minute. That&#8217;s a universal negative. That&#8217;s a universal negative. Can you prove that, there aren&#8217;t any?</p>
+</blockquote>
+
+<p><a href="http://www.cnn.com/TRANSCRIPTS/0002/14/ip.00.html">Inside Politics, Feb. 14, 2000</a></p>
+
+<p>CNN also has a bunch of man-on-the-street interviews that show the rumors were widespread.</p>
+
+<blockquote>
+  <p>UNIDENTIFIED FEMALE: McCain for a while, I was thinking he was really down the way we were going, but there&#8217;s too many things that have popped up lately.</p>
+  
+  <p>UNIDENTIFIED MALE: I read that &#8212; I got a thing across on the Internet the other day.</p>
+</blockquote>
+
+<p><a href="http://www.worldmag.com/world/issue/02-19-00/cover_1.asp">World Magazine</a>:</p>
+
+<blockquote>
+  <p>fell in love with the 25-year-old former cheerleader. She was rich, attractive, and well-connected &#8230; His wife, Carol, who had lobbied for his release throughout his captivity in Hanoi, let him off the hook easily when she granted him an uncontested divorce. &#8230; </p>
+  
+  <p>charges of carpet-bagging and buying the election, Mr. McCain won his first political contest &#8230; doesn&#8217;t appear to be a particularly attentive husband &#8230; addicted to barbiturates &#8230; stealing &#8230; from &#8230; a Third World relief agency &#8230; jail time &#8230; federal diversion program &#8230; claimed not to know</p>
+</blockquote>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2503">Aaron Swartz</a> at July  6, 2004 04:05 PM <a href="#c2503">#</a></p>
+
+</div><div id="c2504">
+
+<p>Right.  There&#8217;s no evidence whatsoever that the claims had anything to do with the Bush campaign, or any GOP group.</p>
+
+<p>Both sides have people saying things they don&#8217;t like.  I am sure Kerry doesn&#8217;t agree with or condone everything people on the left are saying about Bush, such as MoveOn comparing Bush to Hitler, or Jesse Jackson saying our soldiers are the instruments of &#8220;murder&#8221; in Iraq.</p>
+
+<p>When Jesse says something stupid, I attack Jesse, not the Democrats.  Now, you can attack Bush for pandering to Bob Jones, and various Democrats for pandering to Jackson, but that doesn&#8217;t make them guilty of what Bob Jones and Jackson do.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://slashdot.org/~pudge/journal" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2504">pudge</a> at July  6, 2004 04:46 PM <a href="#c2504">#</a></p>
+
+</div><div id="c2505">
+
+<p><a href="http://www.aaronsw.com/weblog/001374#c2479">pudge, July 2</a>: &#8220;What smear tactics? I debunked &#8230; the one about McCain fathering an illegitimate child[]. You are arguing against something that, as best I can tell, never happened. I keep asking for evidence, and the best anyone can come up with is people repeating the claims.&#8221;</p>
+
+<p>[I post CNN transcripts featuring the smears.]</p>
+
+<p><a href="http://www.aaronsw.com/weblog/001374#c2504">pudge, July 6</a>: &#8220;Right.  There&#8217;s no evidence whatsoever that the claims had anything to do with the Bush campaign, or any GOP group.&#8221;</p>
+
+<p>&#8230;</p>
+
+<p><a href="http://www.aaronsw.com/weblog/001375#c2490">pudge, July 4</a>: &#8220;There’s nothing in [F 9/11] that can be trusted without significant further investigation on your own, so why not just investigate on your own and skip the movie?&#8221;</p>
+
+<p><a href="http://www.aaronsw.com/weblog/001375#c2490">pudge, July 4</a>: &#8220;Richard Clarke was the one who gave the OK for the Saudis to be flown out&#8221;</p>
+
+<p>(Clarke referred it to the FBI.)</p>
+
+<p><a href="http://www.aaronsw.com/weblog/001374#c2504">pudge, July 6</a>: &#8220;MoveOn compar[ed] Bush to Hitler,&#8221;</p>
+
+<p>(Someone sent MoveOn an ad that compared Bush to Hitler as part of a contest, but MoveOn quickly took the ad down and denounced it.)</p>
+
+<p>&#8230;</p>
+
+<p>Will pudge apologize for spreading falsehoods and smears? Can we ever trust him again?</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2505">Aaron Swartz</a> at July  6, 2004 05:15 PM <a href="#c2505">#</a></p>
+
+</div><div id="c2506">
+
+<p><em>[I post CNN transcripts featuring the smears.]</em></p>
+
+<p>Do you really not understand the context?  Chris wrote, <em>though I voted Libertarian after Bush’s smears against McCain</em>.  I was showing &#8212; and you helped prove with your quotes &#8212; that &#8220;Bush&#8217;s smears&#8221; didn&#8217;t exist.</p>
+
+<p>I thought this clear, since that is what I was responding directly to.  I know we broadened the subject a little bit, but even then, Chris was talking about &#8220;campaigns.&#8221;</p>
+
+<p><em>Right. There’s no evidence whatsoever that the claims had anything to do with the Bush campaign, or any GOP group.</em></p>
+
+<p>And you&#8217;ve shown nothing contradicting this.  I don&#8217;t really know what your point is here, what you think you&#8217;ve shown that contradicts what I&#8217;ve said.</p>
+
+<p><em>(Clarke referred it to the FBI.)</em></p>
+
+<p>That&#8217;s only part of the story.  Clarke <a href="http://www.hillnews.com/news/052604/clarke.aspx">also said</a>, “I take responsibility for it. I don’t think it was a mistake, and I’d do it again.”</p>
+
+<p>And then: &#8220;It didn’t get any higher than me,&#8221; he said. &#8220;On 9-11, 9-12 and 9-13, many things didn’t get any higher than me. I decided it in consultation with the FBI.&#8221;</p>
+
+<p>Shouldn&#8217;t that put it to bed, that Clarke made the decision, since he <em>said just over one month ago that he made the decision</em>?</p>
+
+<p>Also, from the 9/11 Commission: “The FBI cleared the names [of the passengers on the flights] and Clarke’s CSG [Counterterrorism Security Group] team cleared the departure,” Hamilton said.</p>
+
+<p><em>MoveOn compar[ed] Bush to Hitler</em></p>
+
+<p>Yes, sorry, I didn&#8217;t mean to imply the ad came from MoveOn, I was just thinking of something Kerry supporters said, that Kerry himself would not condone, and noted the source.  Though certainly MoveOn deserves blame for putting them up in the first place, the ad did not directly come from them, and this changes my point not in the least.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://slashdot.org/~pudge/journal" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2506">pudge</a> at July  6, 2004 05:37 PM <a href="#c2506">#</a></p>
+
+</div><div id="c2507">
+
+<p>I don&#8217;t think anyone&#8217;s ever claimed they had evidence Bush was the source of the smear. (How could they? Even if you could trace the push poll calls, it seems highly unlikely they&#8217;d be made from someplace affiliated with the campaign.) So I don&#8217;t see how emails by Richard Hand are different from anonymous phone calls in that sense.</p>
+
+<p>As for Clarke&#8217;s later statements, <em>The Hill</em> appears to be the only source for them and they&#8217;re quoted without context. It seems odd that he&#8217;d make such an important announcement in a Washington gossip paper, so excuse me for being skeptical. Anyway, even <em>The Hill</em> admits he referred it to the FBI, so it was wrong to suggest that it was simply &#8220;his expert advice&#8221;.</p>
+
+<p>If someone here posts a comparison of Bush and Hitler, do I deserve blame for &#8220;putting [it] up in the first place&#8221;?</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2507">Aaron Swartz</a> at July  6, 2004 06:01 PM <a href="#c2507">#</a></p>
+
+</div><div id="c2508">
+
+<p><em>I don&#8217;t think anyone&#8217;s ever claimed they had evidence Bush was the source of the smear.</em></p>
+
+<p>Why are you still on this?  Chris was talking about Bush&#8217;s smears.  I was refuting their existence.  Is it absolutely proven they did not come from Bush?  No, of course not, but so what?  I set out to show &#8220;there’s no reasonable evidence it ever happened,&#8221; and I did just that (with your help).</p>
+
+<p>Get over it.  There&#8217;s nothing to see here.</p>
+
+<p><em>As for Clarke&#8217;s later statements, <em>The Hill</em> appears to be the only source for them and they&#8217;re quoted without context.</em></p>
+
+<p>It was an interview with The Hill &#8212; so of course they are the only source &#8212; and he has not said he was misquoted in the past 1+ months; while I wish more context were provided, I see no way to read &#8220;I decided it in consultation with the FBI&#8221; to mean anything else but that.</p>
+
+<p><em>It seems odd that he’d make such an important announcement in a Washington gossip paper, so excuse me for being skeptical.</em></p>
+
+<p>Important announcement?  It is largely congruous with his other statements, and merely confirmed what the 9/11 Commission themselves already said happened.</p>
+
+<p><em>Anyway, even <em>The Hill</em> admits he referred it to the FBI, so it was wrong to suggest that it was simply &#8220;his expert advice&#8221;.</em></p>
+
+<p>You&#8217;re looking at what I said backward.  I never implied there was nothing more than Clarke&#8217;s expert advice in regard to the Bin Laden families, only that 1. Moore implied Clarke&#8217;s expert advice was sufficient to do something differently pre-9/11, and therefore, by Moore&#8217;s logic, 2. Clarke&#8217;s expert advice should have been sufficient to allow the Bin Laden family to leave.</p>
+
+<p><em>If someone here posts a comparison of Bush and Hitler, do I deserve blame for “putting [it] up in the first place”?</em></p>
+
+<p>You really think that&#8217;s a fair analogy?  I hope not.  The fact that MoveOn removed the file later is proof they knew they shouldn&#8217;t have posted it in the first place.</p>
+
+<p>On Slashdot, we don&#8217;t delete comments, as a rule.  However, when we held a t-shirt contest, we probably wouldn&#8217;t have posted obscene entries for the public to view.  There&#8217;s a higher degree of responsibility there.</p>
+
+<p>Again, I said I was incorrect when I attributed it offhandedly to MoveOn, when I meant to say they hosted it.  But to say they are not responsible is to refute their own taking of responsibility.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://slashdot.org/~pudge/journal" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2508">pudge</a> at July  6, 2004 06:42 PM <a href="#c2508">#</a></p>
+
+</div><div id="c2533">
+
+<p>Pudge,</p>
+
+<p>You are the very definition of a demagogue.</p>
+
+<p>Keep in retrofeeding your own verbiable and repeat it ad-nauseam. With enough verbal acrobatics, anything goes. At the end of the day, you must know what kind of a human being you are.</p>
+
+<p>There is so much contained hatred in your demeanor and words. I really feel sorry for you</p>
+
+<p class="posted">posted by  at July 12, 2004 08:43 PM <a href="#c2533">#</a></p>
+
+</div><div id="c2575">
+
+<p>Dudes:  have you ever heard of Ralph Nader!?
+If Kerry takes those to his left (or war critics, generally) for granted, he can lose votes to Ralph Nader.  This did, in fact, cost Gore Florida and, hence, the White House.</p>
+
+<p class="posted">posted by Antaeus at July 19, 2004 04:14 PM <a href="#c2575">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001374.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1374" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

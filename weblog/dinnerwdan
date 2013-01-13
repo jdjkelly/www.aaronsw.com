@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>SFP: Dinner with Dan (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>SFP: Dinner with Dan</h1>
+
+<p>One of the many nice things about living at MIT is that Stuff Happens Here. Just down the street, for example, is the Frank Gehry-designed Stata Center (<a href="http://web.mit.edu/evolving/projects/stata/images.html">photos</a> (<a href="http://www.figure-ground.com/travel/image.php?stata/0014">my favorite</a>)) which hosts, among many other things, the MIT Computer Science and Artificial Intelligence Laboratory (LCS+AI Lab=CSAIL), the World Wide Web Consortium (W3C), Noam Chomsky, and so on.</p>
+
+<p>The W3C happens to be hosting their <a href="http://www.w3.org/2001/tag/">Technical Architecture Group</a> meeting, where the Web&#8217;s biggest minds come together to argue about such pressing issues as whether a URL can be said to refer to a physical object, like a truck. Dan Connolly, who might be considered the #2 guy at the W3C (after Tim Berners-Lee, the Web&#8217;s inventor, of course), saw that I was in Cambridge and invited me to come over this evening.</p>
+
+<p>When I got there he introduced me to fellow TAG members Norm Walsh (who some readers may know as the DocBook guy) and Henry Thompson (author of xsv) and we all headed to a pool hall. Tired from a long day arguing about such weighty subjects, they tried to avoid talking about them, which ended up meaning that they mostly talked about pool. I&#8217;d never played pool before but in two games I was able to make one or two half-way decent shots. I need to work on doing all the various things at once.</p>
+
+<p>Dan Connolly is very dismissive of my swearing off of competitive games. &#8220;Oh, pool isn&#8217;t pool a competitive game?&#8221; he sneered to me in email. (To be honest, playing was sort of a breach.) And when I described the application process he grumbled about it sounding competitive. (It wasn&#8217;t a game, though!) I assume it&#8217;s because Dan&#8217;s a social conservative. While we were walking there someone suggested a union picket line might just be an attempt to extort money and on the way back there were grumbles about people who didn&#8217;t know well enough to pay off credit card debts. (Why isn&#8217;t this taught in school? they wondered.)</p>
+
+<p>After pool, we headed over to a restaurant just next door and ordered food. Sitting in the little booth, as we talked about friends and food, I realized how absurdly detailed TAG problems really are. Did Ma Bell have a department that sat and thought about the meaning of a phone number? A team to come up with recommendations about the uses of a phone? Surely this is the only technology in history to have such philosophical problems.</p>
+
+<p>As we walked into town, Dan told us excitedly about the weekly CSAIL hockey game, which I&#8217;d never heard of before. Then we parted ways and I headed home and called my mom.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">June 16, 2005</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="dinnerwdan" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

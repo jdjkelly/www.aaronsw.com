@@ -1,0 +1,57 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Super Searching (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/001011.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001010" title="Dodging Trains" />	<link rel="next" href="001014" title="Letter from Knuth" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Super Searching</h1>
+</div>
+
+<div class="content">
+<p>(Updated 2002-07-29, see below.)</p>
+
+<p><a href="http://www.nytimes.com/2003/07/21/technology/21AMAZ.html?ex=1374206400&amp;en=f3c6539cd1b29480&amp;ei=5007&amp;partner=USERLAND">The New York Times reports</a> that Amazon is considering a service to allow their users to do a full-text search on the text of all books, and then view the surrounding excerpt. When combined with Amazon’s tabs for <a href="http://www.amazon.com/exec/obidos/tg/browse/-/562436/">Movie Showtimes</a> and <a href="http://www.amazon.com/exec/obidos/tg/browse/-/913908/">Restaurants</a> (including scanned menus), the Times suggests, it almost looks like Amazon is trying to compete with Google.</p>
+
+<p>This reminds me of an idea I had the other day: TV searching. Google hooks up a bunch of their machines to video capture cards and begins recording all the TV channels. Then, they make a full-text available using the closed captioning information.</p>
+
+<p>So, let’s say you’re curious about Howard Dean’s stance of smallpox vaccinations. You Google TV for “Howard Dean smallpox” and get back a bunch of animated GIFs showing key scenes (basically a still whenever the picture majorly changes) from the surrounding show, perhaps with a short textual excerpt from cleaned up closed captioning data. You can quickly scan and pick out the one you want — an interview with Dean on Meet the Press. Google then streams the TV excerpt to you live so you can see and hear first-hand what Dean said.</p>
+
+<p>Google’s mission is to “organize the world’s information and make it universally accessible and useful.” Giving people access to the content they see on TV would go a long way towards this.</p>
+
+<p>If Google isn’t up for this, maybe the Internet Archive is. They have <a href="http://www.televisionarchive.org/">a Television Archive of news around the world after September 11</a>. What about the rest of time?</p>
+
+<p><strong>Update:</strong> Rob Hague points out <a href="http://www.uk.research.att.com/dart/attv/">AT&amp;TV</a>, an AT&amp;T Cambridge research project which did essentially what I describe. The screenshots look awesome.</p>
+
+<p>Joel Abrams and Paul Bausch pointed to <a href="http://consumer.tveyes.com/">TVEyes</a>, whose free consumer service will email you an excerpt whenever a selected word or phrase comes through in the closed captioning. Apparently they also have <a href="http://www.tveyes.com/">for-pay services</a> that do more.</p>
+
+<p class="posted">posted July 21, 2003 02:00 PM (<a class="category" href="cat_technology">Technology</a>)  <a href="001011" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001010" title="Dodging Trains">&laquo; prev</a> | <a href="./">up</a> | <a href="001014" title="Letter from Knuth">next &raquo;</a></p>
+
+<p><a href="000993">Scott McCloud is Back!</a><br />
+<a href="000994">San Francisco Moment</a><br />
+<a href="000998">Aaron&#8217;s Censorware</a><br />
+<a href="001008">Cards</a><br />
+<a href="001010">Dodging Trains</a><br />
+<strong>Super Searching</strong><br />
+<a href="001014">Letter from Knuth</a><br />
+<a href="001016">Privacy, Accuracy, Security: Pick Two</a><br />
+<a href="001024">Live from victoria.bc.ca</a><br />
+<a href="001025">Postel&#8217;s Law Has No Exceptions</a><br />
+<a href="001026">Canadians Do It Right</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

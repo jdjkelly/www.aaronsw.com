@@ -1,0 +1,13 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+  <title>Fixed xmlns Test</title>
+</head>
+<body>
+<h1>Fixed xmlns Test</h1>
+<p>Prereq: This test won't make sense if your browser doesn't support XHTML.</p>
+<p style="color: green">This paragraph should be an HTML paragraph (and green, if your browser supports it).</p>
+<h2>Results</h2>
+<p>Gecko/20021114 fails this test.</p>
+</body>
+</html>

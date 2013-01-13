@@ -1,0 +1,51 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Algorithm for Determining Imagination from Reality (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000978" title="The Voice of America" />	<link rel="next" href="000985" title="Time for Forward Motion" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Algorithm for Determining Imagination from Reality</h1>
+</div>
+
+<div class="content">
+<p>Let’s say you’re torn between two worlds. You know that one is a fevered delusion that your mind has created and the other one is reality, but which is which? (Also, you can do accurate multiplication by hand.) Apply this algorithm in both worlds:</p>
+
+<ol>
+  <li>Pick a reasonably large random number. (It has to be large enough that you can’t find the square root in your head.)</li>
+  <li>Ask someone else in the world to find the square root using a calculator.</li>
+  <li>On your own, square the number and see if it matches the number from step 1.</li>
+</ol>
+
+<p>If the world is real, then the calculator will come up with the correct answer. If it’s in your head, you won’t be able to calculate the square root, and the number the imaginary-person-with-calculator you ask will be wrong.</p>
+
+<p class="posted">posted June 20, 2003 03:23 PM (<a class="category" href="cat_technology">Technology</a>)  <a href="000981" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000978" title="The Voice of America">&laquo; prev</a> | <a href="./">up</a> | <a href="000985" title="Time for Forward Motion">next &raquo;</a></p>
+
+<p><a href="000940">Recording Industry v. Deep, John (The Aimster Case)</a><br />
+<a href="000970">Guilty Pleasures</a><br />
+<a href="000972">Ask Dr. Law: Piercings and the First Amendment</a><br />
+<a href="000977">A Clean, Well-Lighted Place for Specs</a><br />
+<a href="000978">The Voice of America</a><br />
+<strong>Algorithm for Determining Imagination from Reality</strong><br />
+<a href="000985">Time for Forward Motion</a><br />
+<a href="000986">Google AdSense</a><br />
+<a href="000987">Trip Announcement</a><br />
+<a href="000988">Dave Winer said&#8230;</a><br />
+<a href="000989">Progress</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

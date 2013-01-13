@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>When Brute Force Fails (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>When Brute Force Fails</h1>
+
+<p>Liberals don&#8217;t like talking about crime. The classic answer&#8212;fixing the root causes of crime&#8212;now seems hopelessly ambitious. And our natural sympathy for the millions ground down by an out-of-control prison system and a pointless war on drugs doesn&#8217;t play well with voters, especially when most criminals can&#8217;t vote. The general belief seems to be that the problem of crime has been solved&#8212;after all, crime levels have dropped dramatically since the law-and-order 80s&#8212;and that the real problem now is not too much crime, but too much punishment. If voters don&#8217;t agree, it&#8217;s because TV news continues to obsess over violent crime even as actual occurrences of it have cratered, leaving behind a population who wants to do even more to crack down on an army of bad guys who don&#8217;t really exist. The smartest liberal position on crime seems to be changing the subject and talking about white-collar crime instead (which, as recent economic news has made clear, is a real epidemic).</p>
+
+<p>Mark Kleiman, in his brilliant new book, <em>When Brute Force Fails</em>, takes a different view. Crime, aside from drug crimes (where his work persuasively argues that &#8220;the abuse of illicit drugs is a human tragedy but not a major threat to the social order&#8221;), is serious. (Presumably this only applies to classic violent crimes; it&#8217;s obvious this logic doesn&#8217;t work for violations of copyright law and civil disobedience.) Even where there&#8217;s a small amount of actual crime, it&#8217;s possible that&#8217;s just because people are wasting so much time preventing it. There&#8217;s a serious social cost to having to remember to lock our doors and carry our keys around all the time, let alone the money we waste on burglar alarms and car-tracking services and all the rest.</p>
+
+<p>While I find the methodology he uses to show it wildly problematic<sup id="fnref:fn1"><a href="#fn:fn1" rel="footnote">1</a></sup>, I agree with his point that crime really sucks. Even if a burglar only causes $400 worth of damage, I&#8217;d pay far more than $400 to prevent a burglary &#8212; the loss of privacy, the sense of violation, the disruption of my normal order, the distraction of having to deal with police and repairmen and insurance agents, etc. all add up to make burglary a nightmare well above the direct economic damage it causes.</p>
+
+<p>Such things are a frustration for white suburbanites, but for poor people stuck in the ghetto, they&#8217;re a nightmare. Crime is yet another disadvantage and a particularly noxious one at that. Even aside from all the other indignities suffered by the poor, just imagining life in a crime-ridden neighborhood is enough to make your skin crawl.</p>
+
+<p>But, Kleiman insists, we also have to count the harm to the criminals! Going through lengthy court proceedings, spending years in abusive prisons, having to deal with officious parole officers and the loss of liberty they cause are all serious costs and we can&#8217;t wave them away just because they happen to the bad guys. Law enforcement isn&#8217;t a zero-sum game: both criminals and victims can benefit from less punishment.<sup id="fnref:fnr"><a href="#fn:fnr" rel="footnote">2</a></sup></p>
+
+<p>So there&#8217;s the question: How can we have less crime with less punishment? The first thing to notice is that low-crime is an equilibrium state: if nobody is committing any crimes, all anti-crime resources can be focused on anyone who decides to break the law, making it irrational for them to even try. But high-crime is also an equilibrium (assuming reasonable levels of punishment): if everyone is breaking the law, the police can&#8217;t possibly stop all of them, so it&#8217;s not so risky to keep on breaking the law.</p>
+
+<p>To reduce both crime and punishment, you just need to tip the society from one equilibrium to the other. And, Kleiman argues, we can do that with a technique he calls &#8220;dynamic concentration.&#8221; Imagine there are three robbers (Alice, Bob, and Carol) and one policeman (Eve). Eve can only stop one robber at a crime, so if more than one person is committing a burglary at the same time, she decides to be fair and switch around who she arrests &#8212; sometimes she nabs Alice, sometimes Bob, sometimes Carol.</p>
+
+<p>The problem is that the robbers know this and they know it means they only have a 1/3 chance of getting caught. A guaranteed arrest is bad news, but a 1/3 chance of getting arrested isn&#8217;t worth quitting over. So the robbers keep on robbing and the cop keeps failing to keep up with them.</p>
+
+<p>But now imagine Eve adopts a new policy: dynamic concentration. Instead of randomly deciding who to go after, she goes after people in alphabetical order. So if Alice is committing a crime, Eve always goes after her first if she&#8217;s committing a crime &#8212; otherwise Bob, and then Carol. Now Alice knows that if she robs someone, she&#8217;s guaranteed to get caught (instead of just having a one-third chance), so she decides to sit this one out. You might think this would just lead Bob to step into the breach, but now that Alice is out, Eve can turn her focus to Bob instead. So Bob also decides to call it quits. That just leaves Carol, who Eve now gets to watch like a hawk, and so Carol also gives up the game. And there you have it: dynamic concentration stops all the crime without adding any more police.</p>
+
+<p>Obviously things aren&#8217;t so clean in the real world, but I think this is the first game-theoretic argument I&#8217;ve read that seems to have some real force. Kleiman backs it up with some messier simulations and some real-life examples. Unfortunately, most are stories about cracking down on drugs or other unserious crimes like squeegee men, but the general point seems to work.</p>
+
+<p>For twenty years, High Point, North Carolina had tried to fight the crack dealing in the city&#8217;s African-American West End neighborhood. Any viewer of <em>The Wire</em> can guess the results: as soon as they made a case against one drug dealer, another would jump in to take his place. So with the help of crime scholar David Kennedy, they tried a new approach. First, they spent months building trust between the police and the community to build consensus that the drug trade was something worth stopping. Then they pushed extra resources into the neighborhood and started putting together cases against the dealers &#8212; but didn&#8217;t make any arrests. Only when they had a case against every known dealer did they act.</p>
+
+<p>Even then they didn&#8217;t make arrests. They visited the dealer&#8217;s homes with a neighborhood leader, who told them that the neighborhood had decided they had to go straight. Meanwhile a cop presented them with the legal case against them. The pair asked the dealer to quit and offered whatever services&#8212;tattoo removal, job training&#8212;would help them do that. Ten of the thirteen dealers took them up on the offer, leaving plenty of room for the justice system to lock up the remaining three, plus the one new dealer who tried to take over their old business. Five years later, the market is still closed, and the police have been able to direct their resources to pull the same trick on the other drug markets. Crime is down, and arrests are down too. Dynamic concentration works, with the city&#8217;s different drug markets standing in for Alice, Carol, and Bob. (The other examples&#8212;especially Hawaii&#8217;s HOPE program&#8212;are even more interesting, but take longer to tell.)</p>
+
+<p>Dynamic concentration isn&#8217;t a panacea. Obviously it only works where the costs of monitoring are much less than the costs of enforcement. But this still leaves lots of opportunities and clever selection of the population to concentrate on can significantly decrease the cost of monitoring.</p>
+
+<p>While the big idea of dynamic concentration is at the center of the book, it&#8217;s not one of those one-trick monographs where the author lays out one good idea and then spends the rest of the book repeating it. Instead, the book ranges over the whole theory and practice crime control in America and nearly every page is filled with interesting facts and a new perspective.</p>
+
+<p>And in a brilliant final chapter, he turns his lens on himself and asks what could go wrong with his proposals. For an intellectual, the level of humility and self-criticism involved is truly impressive. (He confesses to probably all of the complaints that you&#8217;re thinking about raising right now.)</p>
+
+<p>For anyone interested in policy analysis, this book should be a classic. It shows how simple tools (calculating the scale of the problem, modeling it with game theory, and calculating the costs of a solution) can have radical implications.</p>
+
+<ul>
+<li><a href="http://books.theinfo.org/go/0691142084">Buy the book</a></li>
+</ul>
+
+<div class="footnotes">
+<hr />
+<ol>
+
+<li id="fn:fn1">
+<p>Kleiman uses surveys asking people how much they would pay to achieve a ten percent reduction in a crime. Aside from all the usual problems with such willingness-to-pay metrics, this seems like a particularly meaningless question. I don&#8217;t have a good sense of what the crime rate is, let alone what a 10% decrease in it would look like. I can&#8217;t possibly assign a sensible monetary value to something so abstract. It&#8217;d be better to ask people what they&#8217;d pay to prevent one crime, assuming the crime rate is low enough that <a href="http://yalepress.yale.edu/yupbooks/book.asp?isbn=9780300120905">Karelis-type effects</a> don&#8217;t come into play.&#160;<a href="#fnref:fn1" rev="footnote">&#8617;</a></p>
+</li>
+
+<li id="fn:fnr">
+<p>Since a rational criminal would by definition be better off committing the crime, this mainly comes up in cases of information asymmetry. Unlike in playground games of Cops and Robbers, real police are better off warning the criminals away from doing crime than tricking them into doing it and then sneaking up and catching them.&#160;<a href="#fnref:fnr" rev="footnote">&#8617;</a></p>
+</li>
+
+</ol>
+</div>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">October 18, 2010</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>Since a rational criminal would by definition be better off committing the crime, this mainly comes up in cases of information asymmetry.
+<a href="http://www.cngongwen.com" rel="nofollow">优文网</a> <a href="http://www.bestmishu.com" rel="nofollow">好秘书</a></p>
+
+<p class="posted">posted by scs
+ on October 19, 2010 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<blockquote>
+  <p>And there you have it: dynamic concentration stops all the crime without adding any more police.</p>
+</blockquote>
+
+<p>Sigh. Why do people take this old mathematical-induction joke seriously? It&#8217;s worse than the Laffer curve (which was at least arguable  at an upper limit). A while back,  elsewhere, it was seriously being posted about file-sharing, to much shredding in comments.</p>
+
+<blockquote>
+  <p>The pair asked the dealer to quit and offered whatever services鈥攖attoo removal, job training鈥攚ould help them do that</p>
+</blockquote>
+
+<p>I think the key phrase there is &#8220;offered whatever services&#8221;.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://sethf.com/">Seth Finkelstein</a>
+ on October 19, 2010 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<blockquote>
+  <p>Kleiman backs it up with some messier simulations and some real-life examples.</p>
+</blockquote>
+
+<p>Is this his only evidence for a multiple-equilibrium model with sharp discontinuities or shifts, as opposed to some sort of linear or quasi-linear model?</p>
+
+<p>(There seem to be plenty of places where crime rates vary considerably without sudden enormous shifts like multiple equilibria suggest. Japan, America, or England&#8217;s crime rates over the 20th century seem like possible examples.)</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.gwern.net/">gwern</a>
+ on October 19, 2010 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="bruteforce" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

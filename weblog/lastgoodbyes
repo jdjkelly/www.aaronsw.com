@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Last Goodbyes (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Last Goodbyes</h1>
+
+<p>It&#8217;s minutes to midnight and I&#8217;m hurriedly packing. Early tomorrow morning I catch a flight to Boston and start <a href="movingon">my new life</a>. I haven&#8217;t really gotten much of a chance to pack until now, because I&#8217;ve spent the past few days in a rush of meetings, getting in my last goodbyes for everyone I know in San Francisco.</p>
+
+<p>It&#8217;s been great seeing everyone, but like most locals, they&#8217;re all puzzled as to why I&#8217;m leaving. I&#8217;ve been struggling to explain why. When I say the weather, everyone just laughs. When I say San Francisco is too loud, they start arguing. When I say it&#8217;s the people, they tell me to find a better group of friends.</p>
+
+<p>And the thing is, they&#8217;re right. It&#8217;s none of these. I&#8217;ve been spectacularly unable to articulate it, but the real answer is simpler and more prosaic. And now, after great thought and struggle, I realize the answer is simply this: <em>Cambridge is the only place that&#8217;s ever felt like home.</em> It&#8217;s that simple. And when you put it that way, it&#8217;s clear why I have to go.</p>
+
+<p>So goodbye Stanford, goodbye Palo Alto; goodbye south bay, goodbye peninsula; goodbye Change Congress, goodbye Creative Commons; goodbye Mission, goodbye SOMA; goodbye friends, goodbye loved ones; goodbye San Francisco, home to everyone I&#8217;ve ever loved. You&#8217;ll always have my heart.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">June 19, 2008</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>Bye, Aaron.  I feel the same way about New Mexico, sigh.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://josephhall.org/nqb2/">joe</a>
+ on June 19, 2008 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>That, my friend, is an un-arguable point. Home is home. And whatever and wherever you feel it, enjoy it. We&#8217;ll miss you&#8230;but undoubtedly throw an internet tether around you now and again.</p>
+
+<p>Cheers and safe travels!</p>
+
+<p class="posted">posted by Japhet
+ on June 19, 2008 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>While one can&#8217;t argue with your feelings, I still think moving from sunny San Francisco to miserable-weather Cambridge, is crazy. You can&#8217;t go home again, as home is a moment in time.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://sethf.com/">Seth Finkelstein</a>
+ on June 20, 2008 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>it&#8217;s understandable. for all the back and forth on the merits of this place and that, it was when you told me that it felt like home i stopped arguing. well, about what you should do, anyway.</p>
+
+<p class="posted">posted by q
+ on June 22, 2008 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>Welcome back. I&#8217;m glad to hear you had such a positive experience here.  Hope you you keep that warm fuzzy feeling as you settle down, reconnect with the scene, develop a strong local network, and realize what a bunch of a-holes we are.  (BTW, my one-word response to complaints about New England weather: Iowa.)</p>
+
+<p class="posted">posted by sierra
+ on July  3, 2008 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="lastgoodbyes" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

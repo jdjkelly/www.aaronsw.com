@@ -1,0 +1,25 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+    <title>ADTRT: Aaron's Do The Right Thing</title>
+    <link rel="stylesheet" type="text/css" href="../style.css" />
+</head>
+<body>
+<div id="head">
+<h1>ADTRT: Aaron's Do The Right Thing</h1>
+<span class="description">A CGI to take you where you want to go.</span>
+</div>
+<div class="content">
+
+<p>Designed to be <a href="http://www.macslash.com/articles/01/10/10/1828238.shtml">installed into IE5.1/Mac</a> (with <a href="http://www.aaronsw.com/2002/dtrt.cgi?secret=one&q=%s">magic string</a>). <a href="http://impressive.net/services/dtrt/">Original concept</a> by Gerald. Special thanks to HTTP GET, and those who build services with it.</p>
+
+<form method="GET" action="dtrt.cgi">
+? <input name="q" type="text" /> (<a href="dtrt.py">source</a>)
+</form>
+
+</div>
+<div class="footer">
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+<em>This</em> is <a href="http://www.gnu.org/philosophy/free-sw.html">free software</a>.
+</div>
+</body>
+</html>

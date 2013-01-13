@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>God Is My Dungeonmaster (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>God Is My Dungeonmaster</h1>
+
+<p style="text-align: center"><a href="http://www.cafepress.com/godismydm"><img src="http://jitcrunch.cafepress.com/jitcrunch.aspx?bG9hZD1ibGFuayxibGFuazoxMTJfRi5qcGd8bG9hZD1MMCxodHRwOi8vaW1hZ2VzLmNhZmVwcmVzcy5jb20vaW1hZ2UvMTczMzI1NDBfNDAweDQwMC5qcGd8fHNjYWxlPUwwLDExNyw1MixXaGl0ZXxjb21wb3NlPWJsYW5rLEwwLEFkZCwxODYsMTE3fGNwPXJlc3VsdCxibGFua3xzY2FsZT1yZXN1bHQsMCw0ODAsV2hpdGV8Y29tcHJlc3Npb249OTV8" alt="GOD IS MY DUNGEONMASTER" /></a></p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">February 16, 2007</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>mine 2 lololol</p>
+
+<p class="posted">posted by geek4god
+ on February 16, 2007 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>This would go well with the shirt based off the slogan &#8220;Jesus Saves! The rest of you take full damage.&#8221; (http://www.cafepress.com/ariesdiscord)</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://culix.infogami.com">culix</a>
+ on February 23, 2007 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="godismydm" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

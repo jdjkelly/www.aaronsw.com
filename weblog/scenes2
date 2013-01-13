@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Scenes 2 (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Scenes 2</h1>
+
+<p>After a long delay, we&#8217;re finally allowed to board the plane. As we wait in line, the businessman in front of me takes out his phone and makes a call. &#8220;Hi, honey,&#8221; he says, apparently leaving a message. &#8220;We&#8217;re only boarding the plane just now, so I&#8217;ll probably be about an hour late. See you then.&#8221; He hangs up the phone and then dials again. &#8220;Hi, honey,&#8221; he says, in a similar voice. &#8220;We&#8217;re only boarding the plane just now, so I&#8217;ll probably be an hour and forty minutes late. See you then.&#8221;</p>
+
+<hr />
+
+<p>A man paces his apartment in a robe. He lives on the penthouse suite of a modern residential building in an industrial section of Manhattan. He has the whole top floor; the elevator opens right into his apartment. I don&#8217;t think he&#8217;s left the place in days; for food, he orders delivery and pays at the elevator door. &#8220;Can you get me some pot?&#8221; he asks. He&#8217;s desperate for it. I give him a piece of paper with the number for a coke delivery service &#8212; &#8220;anytime, anywhere&#8221;. &#8220;Do you think they do weed too?&#8221; he asks. A copy of <em>Infinite Jest</em> lies unopened by his bed.</p>
+
+<hr />
+
+<p>There&#8217;s a cafe across the street that has the world&#8217;s most perfect corn muffins. But they only seem to stock just one each day. Every day, I carefully watch the clock: if I go there too early, I&#8217;m not particularly hungry; if I go there too late, I find them out of corn muffins and leave empty-handed. Finding the right minute is a constant struggle.</p>
+
+<p>Today I show up and, as usual, there&#8217;s just one left. One clerk is getting it for me (I don&#8217;t even have to ask anymore; the clerks all know I always get just the corn muffin) while another is taking the order of the woman next to me. &#8220;I&#8217;ll have the&#8212;oh, he got the last one,&#8221; she says. She turns to me. &#8220;You got the best muffin!&#8221; She walks away empty-handed.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">August 17, 2009</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>Previously: <a href="http://www.aaronsw.com/weblog/scenes" rel="nofollow">Scenes 1</a>. Again, these are all completely true.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on August 17, 2009 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>I missed your first post and was about to ask if you were experimenting with storytelling through vignettes here (related to your earlier post about writing).</p>
+
+<p>I want to figure out why but I found the first scene here very easy to read and enjoyed it. The second one was harder to read and I didn&#8217;t really get it. The third one I found hard to read and so I just scanned it. If this wasn&#8217;t an experiment in telling a story through a vignette, though, these insights are probably next to pointless.. :)</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://twitter.com/peterc">Peter Cooper</a>
+ on August 17, 2009 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="scenes2" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

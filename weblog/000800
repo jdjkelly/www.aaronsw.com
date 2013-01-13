@@ -1,0 +1,55 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>the 13th is supposed to be tomorrow! (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000798" title="good thing they&#8217;re finite" />	<link rel="next" href="000801" title="Declaration of ICANN Independence" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>the 13th is supposed to be tomorrow!</h1>
+</div>
+
+<div class="content">
+<p>A relative came over. We wanted to play a networked game of Jedi Knight II with him. This is our story:</p>
+
+<p>We set it up on the Windows machine: Mac1 couldn&#8217;t talk to the Windows machine. We set it up on Mac2: it required the CD to be in the drive of both of them. We tried to make a disk image of the CD: it errored the first time and got stuck and chewed up all the disk space the second. We tried to do it on Mac3: it refused to read any CDs we put in. We went back to Mac2: it no longer responded to keyboard or mouse input. We forced a reboot: it lost all the email settings. We went back to Mac1: it couldn&#8217;t see our DVD burner. We downloaded Toast drivers for it: we needed to upgrade Toast. We upgraded Toast: it still didn&#8217;t work. We reset it: it started working. We finally got the networked up and working.</p>
+
+<p>Our relative had just left.</p>
+
+<p>Oh well. I went back up to my room. My machine no longer responded to mouse or keyboard input, or to an external mouse I plugged in. But the screen saver kept animating and the volume keys adjusted the volume. <em>Aargh!</em> I forced a reset. I&#8217;m afraid to open my email program.</p>
+
+<p>I thought this kind of stuff was behind me. I thought these things only happened to jwz. (<strong>Update:</strong> He was dealing with a, um, <a href="http://www.livejournal.com/talkread.bml?journal=jwz&amp;itemid=139348">much more sticky situation</a>.) I thought it didn&#8217;t happen anymore. This doesn&#8217;t usually happen to us. What caused these six serious failures in a row?</p>
+
+<p>I&#8217;m going to go open my email now. If you don&#8217;t hear from me again, you know why.</p>
+
+<p><strong>Second Update:</strong> <a href="http://www.museworld.com/">Curt Siffert</a> provides a plausible explanation for the preference-losing problem that&#8217;s inflicted me and others:</p><blockquote><p>When the disk space is chewed up, the *.plist files can&#8217;t be written out when you try and quit the application.  I don&#8217;t know why the hell they aren&#8217;t left as they are on disk before you start the application.</p></blockquote><p></p>
+
+<p class="posted">posted January 12, 2003 11:40 PM (<a class="category" href="cat_technology">Technology</a>)  <a href="000800" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000798" title="good thing they&#8217;re finite">&laquo; prev</a> | <a href="./">up</a> | <a href="000801" title="Declaration of ICANN Independence">next &raquo;</a></p>
+
+<p><a href="000794">TiVo and Macs and Networks, oh my!</a><br />
+<a href="000795">&#8220;I helped hijack an airplane&#8221;</a><br />
+<a href="000796">DO THIS NOW</a><br />
+<a href="000797">Last Chance to Comment</a><br />
+<a href="000798">good thing they&#8217;re finite</a><br />
+<strong>the 13th is supposed to be tomorrow!</strong><br />
+<a href="000801">Declaration of ICANN Independence</a><br />
+<a href="000802">Great Commercial</a><br />
+<a href="000804">Tips for Book Authors</a><br />
+<a href="000806">Day of Mourning</a><br />
+<a href="000807">I WANT TO BELIEVE</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

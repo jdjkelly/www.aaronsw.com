@@ -1,0 +1,304 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>George Ryan on the Penalty of Death (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001547.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001546" title="Stanford: Sunday, December 5" />	<link rel="next" href="001548" title="Stanford: Tuesday, December 7" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>George Ryan on the Penalty of Death</h1>
+</div>
+
+<div class="content">
+<p>Imagine this scene: A man is stretched out onto a gurney. Belts tie him down. He is rolled into a curtained room. A technician straps on rubber gloves. He swabs the man&#8217;s arm. He takes out a needle. He inserts it. Poison begins to flow thru the needle. He opens the curtains. An audience looks on as the man dies.</p>
+
+<p>Someone screams: &#8220;What the hell kind of society does that to people?&#8221;</p>
+
+<p>It&#8217;s George Ryan and he didn&#8217;t always feel that way. In fact, he didn&#8217;t feel that way until quite recently. For most of his life, his thoughts on the death penalty, had anyone thought to ask him, would be that of any Republican&#8217;s: &#8216;Criminals ought to be caught and tried and if found guilty thrown in jail and if their crime is really horrible they ought to be put to death.&#8217;</p>
+
+<p>The first time he had to confront the issue was in 1976. The Supreme Court had recently voted to throw out the death penalty in America, saying it was implemented so carelessly that it was &#8220;cruel and unusual&#8221;. Ryan was in the Illinois House, where a bill was being considered to strengthen Illinois&#8217;s safe guards so the death penalty could be reinstated. It was time to vote. Ryan hit the green button without thinking about it much.</p>
+
+<p>And then a man addressed the floor. &#8216;To all of you who just voted green,&#8217; he said, &#8216;I ask you, are you willing to be the man who throws the switch?&#8217; And Ryan considered it.</p>
+
+<p>He didn&#8217;t know it then, but soon enough he was that man: the Governor of Illinois.</p>
+
+<p>After just one month in office, a man, Anthony Porter, was set to be executed after 16 years on death row. Just 48 hours before his execution, he was released. A group of journalism students had looked into his case and found that he couldn&#8217;t possibly have committed the crime he was convicted of. Sixteen years on death row and he was freed, not by the Court, not by the defender, but by journalism students.</p>
+
+<p>More investigations are done and twelve more men are released and twelve more men are executed. &#8216;It was like flipping a coin.&#8217; The <em>Chicago Tribune</em> investigates and finds 33 men represented by lawyers who had been disbarred, lawyers who were drunk or asleep or worse. 35 were black men convicted by all-white jurors. 46 had their cases depend on jailhouse snitches who cut deals to win their own freedom. </p>
+
+<p>Ryan declares a moratorium and appoints a commission to investigate. The commissions members are biased in favor of the death penalty. The commission investigates every case. When they&#8217;re done, not a single member is in favor of the death penalty anymore. The commission proposes some regulations to prevent further errors in the system, but the congress fails to implement them. And so the moratorium stays. It stays until this day.</p>
+
+<p>Ryan has since become an anti-death penalty activist, speaking out around the world. &#8216;I ask you to be leaders. The future is in your hands and if there will ever be a change it will be because of you. Help me get a national moratorium against the death penalty.&#8217;</p>
+
+<p class="posted">posted February 06, 2005 08:21 PM (<a class="category" href="cat_education">Education</a>) (<a href="#comments">11 comments</a>) <a href="001547" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001546" title="Stanford: Sunday, December 5">&laquo; prev</a> | <a href="./">up</a> | <a href="001548" title="Stanford: Tuesday, December 7">next &raquo;</a></p>
+
+<p><a href="001540">Stanford: Thursday, December 2</a><br />
+<a href="001541">Stanford: Friday, December 3</a><br />
+<a href="001542">Stanford: Saturday, December 4</a><br />
+<a href="001545">Your Congress is a Bunch of Idiots</a><br />
+<a href="001546">Stanford: Sunday, December 5</a><br />
+<strong>George Ryan on the Penalty of Death</strong><br />
+<a href="001548">Stanford: Tuesday, December 7</a><br />
+<a href="001551">Stanford: Wednesday, December 8</a><br />
+<a href="001552">Edward Tufte on Beautiful Evidence (and more Stanford: December 8)</a><br />
+<a href="001557">Stanford: Thursday, December 9</a><br />
+<a href="001558">Home Again</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c3897">
+
+<p>I don&#8217;t know if you knew this&#8230;I&#8217;m sure you did. But Ryan is under Federal Indictment for crooked &#8216;Liscense for money&#8217; fiasco here in Illinois. Long story short&#8230;a preachers whole family was killed by one of the drunken, unqualified drivers he was handing out liscense&#8217; to. The fact that he is now remembered for his &#8216;moratorium&#8217; on the death penalty is nothing but a smoke screen. Ryan&#8230;could give two shits about those convicts sitting on death row in Illinois. He did what he had to do to get the heat from his &#8216;own&#8217; crimes to simmer down. Eventually they did catch up with him. Ryan certainly is no hero&#8230;in anybodys book. You may want to do some more background research on the man. He is an idiot&#8230;and a murderer.</p>
+
+<p class="posted">posted by P.J. Dexheimer at February  6, 2005 10:04 PM <a href="#c3897">#</a></p>
+
+</div><div id="c3902">
+
+<p>One thing I never understood is libertarians, or people who support the idea that &#8220;People should be free to do whatever they wish, to the extent that it doesn&#8217;t infringe on other people&#8217;s similar right&#8221;, could support the death penalty in particular and harsh punishments in general.
+The liberalistic/libertarian/liberty-loving principle would be that indeed we have no right to actually <em>punish</em>, we merely have the right to take the steps that are absolutely needed to protect our own freedoms. In other words, you can&#8217;t put someone in jail for life if it&#8217;s not absolutely necessary for your own safety - if a year would do, then you are unfairly infringing on that person&#8217;s liberties.</p>
+
+<p>Needless to say, revenge should be completely unacceptable to people who believe in personal freedom, and if you have the opportunity to put people away for life anyway, there&#8217;s no way capital punishment can be necessary to protect one&#8217;s freedoms.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://vintermann.paranoidkoala.org" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3902">Harald Korneliussen</a> at February  7, 2005 04:13 AM <a href="#c3902">#</a></p>
+
+</div><div id="c3905">
+
+<p>I think the death penalty has its place in a justice system where trials are held fairly.  Some criminals may only be permanently stoppable through the death penalty.  In other cases the crimes they have committed may be so egregious (Oklahoma City, for example) that the death penalty is the only fitting one.</p>
+
+<p>However, due to its irrevocability, I would have to agree that it has a place only in cases where there exist no doubts about the guilt of the person accused of the crime.  (I don&#8217;t know how this would be assessed, because I don&#8217;t know that I trust a jury to be the only entity to make that call.)  I would also suggest that it only apply to those who have committed multiple crimes at the level of murder, rape, and the like or who have committed one crime of far greater magnitude than the typical crime (like Oklahoma City) that would make a person a candidate for the death penalty.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://whereswaldo.mit.edu/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3905">Jeff Walden</a> at February  7, 2005 09:41 AM <a href="#c3905">#</a></p>
+
+</div><div id="c3907">
+
+<p>&#8220;Some criminals may only be permanently stoppable through the death penalty&#8221;</p>
+
+<p>You can be &#8220;permanently stopped&#8221; at the jail. Works fine.</p>
+
+<p class="posted">posted by Cn at February  7, 2005 10:07 AM <a href="#c3907">#</a></p>
+
+</div><div id="c3908">
+
+<p><em>Imagine this scene: A man is stretched out onto a gurney. Belts tie him down. He is rolled into a curtained room. A technician straps on rubber gloves. He swabs the man’s arm. He takes out a needle. He inserts it. Poison begins to flow thru the needle. He opens the curtains. An audience looks on as the man dies.</em></p>
+
+<p>Imagine this scene: A woman is seated on a couch, her hands tied behind her. She is asking about her baby. &#8220;Your baby is fine,&#8221; says a man off camera. The woman is taunted, threatened, and finally breaks down before two men, who perform sexual acts upon her before killing her. Her baby was most likely already dead. Then YOU PRESS THE STOP BUTTON BECAUSE <a href="http://www.crimelibrary.com/serial_killers/predators/ng/remains_4.html">THE KILLERS GOT ALL THIS ON VIDEO.</a></p>
+
+<p>The men who committed that crime deserve the death penalty. I can bring up case after case where the only fitting penalty for the crime is the ultimate payment.</p>
+
+<p>It is wrong to suggest that society has no interest in using the death penalty as a form of justice. By doing so (in extremely heinous cases and with a higher-than-normal level of evidence), society speaks to the world that life is valuable.</p>
+
+<p>What? you ask. But George saint-boy Ryan says otherwise. George Ryan made a wise decision in suspending the executions in Illinois, but a stupid decision by commuting the sentences of all those on death row who <em>deserved</em> the death penalty for their heinous crimes.</p>
+
+<p>A society that is incapable of administering the death penalty <em>devalues</em> life. In effect, it says &#8220;life is not even valuable enough that we will provide an equivalent penalty for those who take life in a heinous manner.&#8221;</p>
+
+<p>George Ryan won&#8217;t address the families whose loved ones were killed by these animals. Make no mistake, I&#8217;m not talking about those who were released after serving time on death row. I&#8217;m talking about those who were guilty beyond a reasonable doubt. Indeed, those who were guilty beyond a <em>shadow</em> of a doubt.</p>
+
+<p>As to the argument that &#8220;life without parole&#8221; will keep them off the street: that&#8217;s hopefully true, except they are then given free reign to enjoy the remainder of their lives in relative ease, and even able, if so inclined, to commit other crimes inside the big house (remember Richard Speck?). What can you do to them? Solitary?</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.arguewithsigns.net" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3908">bryan</a> at February  7, 2005 11:23 AM <a href="#c3908">#</a></p>
+
+</div><div id="c3909">
+
+<p>I don&#8217;t understand this notion of erasing death penalty because of faults in court proceedings. It seems to me the thing you have to correct is judiciary system, not the death penalty.</p>
+
+<p>Somehow this discussion about death penalty doesn&#8217;t seem to be asking the right question. Probably because it is commonly felt that it can&#8217;t be answered: 
+Is it right to give death penalty? In that you have to dig a lot deeper in you thinking. Like:</p>
+
+<ul>
+<li>Why things are wrong and some things are right. If there is only consensus which is based on feelings of right and wrong, it certainly isn&#8217;t enough. If this is a democracy thing, then the idea that the writer of this story is dangerous and should be destroyed is enough put him to death, if majority agrees. That&#8217;s why there have to be laws, but the laws certainly have to be based on some guiding principle. Naturally this leads to question of what gives validity to that guiding principle etc.</li>
+</ul>
+
+<p>So i think the final question remains: Is it right to give death penalty and where does that rightness come from? I think that any discussion about the subject should involve the above question. If left unanswered i don&#8217;t think that there is any credence in claims to either direction.</p>
+
+<p class="posted">posted by Jari Laukkanen at February  7, 2005 01:34 PM <a href="#c3909">#</a></p>
+
+</div><div id="c3910">
+
+<p>Jari wrote:</p>
+
+<blockquote>
+  <p>I don&#8217;t understand this notion of erasing death penalty because of faults in court proceedings. It seems to me the thing you have to correct is judiciary system, not the death penalty.</p>
+</blockquote>
+
+<p>Yeah, this puzzled me too. Ryan was not really able to explain it. There are some obvious possibilities:</p>
+
+<ol>
+<li>People conclude it&#8217;s easier to end the death penalty than fix the judicial system</li>
+<li>Considering the issue makes them realize that the death penalty is wrong</li>
+<li>They conclude that the cost of making a mistake is just too high</li>
+</ol>
+
+<p>I suspect it&#8217;s probably some combination of all three.</p>
+
+<blockquote>
+  <p>If this is a democracy thing, then the idea that the writer of this story is dangerous and should be destroyed is enough put him to death, if majority agrees.</p>
+</blockquote>
+
+<p>I don&#8217;t know of any better guiding principle than democracy and I fully support it. Since no existing countries are actual democracies, a lot of people imagine democracy as being subject to certain problems like this, but I think that if you investigate, actual democracies will not have these problems and will achieve the goals people want out of government.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3910">Aaron Swartz</a> at February  7, 2005 03:14 PM <a href="#c3910">#</a></p>
+
+</div><div id="c3911">
+
+<p>bryan: By killing people society tells the world that life is valuable? Explain that one to me.</p>
+
+<p>This article was not about my personal views on the death penalty, but if you&#8217;re interested, I agree with Harald: I honestly don&#8217;t understand why we condone vengeance at all. Why do two wrongs make a right?</p>
+
+<p>Harald, my understanding is that classical libertarians (as in libertarian socialists) hold that position. Libertarian Party-style libertarians are just sort of a joke, though.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3911">Aaron Swartz</a> at February  7, 2005 03:29 PM <a href="#c3911">#</a></p>
+
+</div><div id="c3913">
+
+<p>Aaron: You said that as a guiding principle, you don&#8217;t know any better than democracy. I&#8217;m not an expert in democracy as an ideology and am very open to ideas, how you can better judiciary system through it.</p>
+
+<p>Above i described what to me is clearly a danger in a judiciary system based on democracy: it is only as good, as the people who are wielding it. In order for it to be without problems, people who are wielding it ought to be morally excellent and equipped with crystal balls, because it is them that decide about law and guilt in democracy.</p>
+
+<p>I don&#8217;t see that this kind of perfection is available anywhere. So innocents do get condemned for reasons, which you can count as honest mistakes and sometimes maybe not. It&#8217;s unavoidable. But as you said its the best system you know.</p>
+
+<p>I think that&#8217;s the problem with this public discussion about death penalty, too. People who argue about it, aren&#8217;t qualified and really don&#8217;t understand. I include myself in this group. </p>
+
+<p>There was a terrible row in Finland a few years ago about women being allowed to being priests in our national Lutheran church (almost 90 % belong). Emotions flared and argument&#8217;s flew. I was wondering why nobody, not even the leaders of the church, said why don&#8217;t we ask God. After all it&#8217;s His Church. He&#8217;s the only one qualified to say what He want&#8217;s to happen in His Church.</p>
+
+<p>I think, that this death penalty problem of yours can&#8217;t be really solved except by going back to the roots of you democracy. </p>
+
+<p class="posted">posted by Jari Laukkanen at February  7, 2005 05:28 PM <a href="#c3913">#</a></p>
+
+</div><div id="c3914">
+
+<p>Jari wrote:
+<i>It seems to me the thing you have to correct is judiciary system, not the death penalty.</i></p>
+
+<p>True, but that still necessitates a moratorium on the death penalty until the judiciary system can be fixed. If you realize that your mechanic did a bad job fixing the brakes on your car, you don&#8217;t keep driving the car around while you&#8217;re sorting things out with the mechanic. You stop driving the car, because otherwise innocent people could get hurt.</p>
+
+<p class="posted">posted by Riana at February  7, 2005 06:00 PM <a href="#c3914">#</a></p>
+
+</div><div id="c3917">
+
+<p>Cn:
+If you&#8217;re in jail, you always have some chance of getting out, either by an improbable jailbreak or through faking good behavior to achieve parole (should you have the chance of being eligible for it).  As I look back at what I wrote, however, I think you&#8217;re probably right that that particular point was poorly chosen.</p>
+
+<p>More importantly, tho, trials exist to mete out punishment to those who deserve it.  Taking the life of a convicted criminal is the highest possible punishment that can be meted because there&#8217;s no hope whatsoever (ignoring the possibility of an afterlife, which if popular opinion holds wouldn&#8217;t be particularly kind to the criminal anyway).  If you&#8217;ve done enough bad, I think you deserve the hardest punishment that can be given.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://whereswaldo.mit.edu/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3917">Jeff Walden</a> at February  7, 2005 07:29 PM <a href="#c3917">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001547.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1547" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

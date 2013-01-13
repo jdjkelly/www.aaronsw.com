@@ -1,0 +1,47 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Fascinating User Interface Research (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000812" title="calling all First Amendment lawyers!" />	<link rel="next" href="000817" title="Happy Birthday to Mac" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Fascinating User Interface Research</h1>
+</div>
+
+<div class="content">
+<p>Ka-Ping Yee: <a href="http://zesty.ca/peep/">Peephole Displays</a>. This most innovative UI ideas per minute I&#8217;ve ever seen: Lists you can select from using spacial memory. Maps you can zoom by moving up and down. And coolest of all, a 2-dimensional clipboard that you copy into by pulling something up and paste by punching it down. Awesome, awesome stuff. Watch the first video and the end of the second to get a quick idea.</p>
+
+<p>The paper includes a list of unimplemented ideas: 3D folder navigation (with file-moving using 3D drag and drop), using different lanes for comparing versions of a changing document, and a Web browser. <em>Drool.</em></p>
+
+<p>Only problem: lots of papers but no code!</p>
+
+<p class="posted">posted January 20, 2003 11:14 PM (<a class="category" href="cat_technology">Technology</a>)  <a href="000813" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000812" title="calling all First Amendment lawyers!">&laquo; prev</a> | <a href="./">up</a> | <a href="000817" title="Happy Birthday to Mac">next &raquo;</a></p>
+
+<p><a href="000808">802.11b Theremin (two geeky pursuits that geek well together)</a><br />
+<a href="000809">new thinking, new laws</a><br />
+<a href="000810">inside the secret government</a><br />
+<a href="000811">the secret life of Professor Lessig</a><br />
+<a href="000812">calling all First Amendment lawyers!</a><br />
+<strong>Fascinating User Interface Research</strong><br />
+<a href="000817">Happy Birthday to Mac</a><br />
+<a href="000820">Tolkien&#8217;s Lawyers Harass Small Publisher</a><br />
+<a href="000821">Between Iraq and a Hard Place</a><br />
+<a href="000823">Happy Birthday, Weblog!</a><br />
+<a href="000824">War Tax</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

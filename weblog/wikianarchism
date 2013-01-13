@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>The Politics of Wikis (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>The Politics of Wikis</h1>
+
+<p>Anarchism has a pretty bad rap. Put aside all the people who think it&#8217;s about smashing windows and shooting presidents and just focus on the idea (<em>an arch</em> &#8212; without rulers). If someone told you that you should start a business where basically no one is in charge of anything and everyone shares ownership of everything and all decisions are made by consensus, you&#8217;d think they were a hopeless utopian about to get a large dose of reality. Yet that&#8217;s pretty much what Wikipedia is.</p>
+
+<p>There&#8217;s the obvious anarchism of wikis: namely, &#8220;anyone can edit&#8221;. No intelligence tests or approval rules or even a temporary probation. Anyone can just wander up and hit that edit button and get started. Where in the world can a random person get a larger audience?</p>
+
+<p>That&#8217;s pretty radical in itself, but things go much deeper. There&#8217;s no ownership over text. If you write something, as soon as you post it to Wikipedia, it&#8217;s no longer &#8220;yours&#8221; in any real sense. Others will modify and mangle it without a second thought and anyone who quotes those words in the future will attribute them to &#8220;Wikipedia&#8221; and not to you. In a culture where directors are suing people for fastforwarding over the smutty scenes in their movies, that&#8217;s pretty wild.</p>
+
+<p>And while there are a few technical tricks to give some people more software features than others, for the most part the Wikipedia community is pretty flat. Every non-edit decision, from which pages get deleted to what the logo in the corner is, gets made by consensus with everyone getting a chance to have their say.</p>
+
+<p>In real life, few people are willing to take such a radical stand. Even the farthest reaches of the far left hold back from proposing such extreme ideas, suggesting that not only that such extreme freedom wouldn&#8217;t fly in a capitalist culture like ours, but that perhaps some of these restrictions are just necessary because of human nature. But it&#8217;s humans who edit Wikipedia, and mostly humans raised in capitalist culture as well. Perhaps it&#8217;s time to give more extremism a chance.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">December 11, 2006</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c2">
+<p>Ownership here belies the same fundamental belief of &#8220;Intellectual Property&#8221; - that one can &#8220;own&#8221; a work, whereas the most you can really do it create it. See all free software, which is pretty similar to Wikipedia in that anyone can change the source how they want, just without Wikipedia&#8217;s self-effacing nature.</p>
+
+<p>I realise you&#8217;re aware of free software, but I just wanted to emphasize the points that a) freedom to fork implies anarchy b) if you can&#8217;t fork (eg, with physical objects), anarchy becomes a lot harder.</p>
+
+<p class="posted">posted by James
+ on December 12, 2006 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>Functioning anarchies have been around in the computer communications world for a long time now; I thought back in the early 90s that the usenet had proved itself to be a particularly successful example.</p>
+
+<p>But is it really an anarchy when the &#8220;community&#8221; is excercising highly coercive methods of control over its members? Sure, anybody can edit a page on Wikipedia and put up whatever they want. But if it&#8217;s a viagra advertisement, or is not consdered to be &#8220;POV-neutral&#8221; by certain people, it&#8217;s going to be deleted immediately. And this is necessary for Wikipedia to be what it is; if they really let anybody do what they wanted to, rather than forcing people to follow the Wikipedia way, it would be a true anarchy, and would be useless as an encyclopedia.</p>
+
+<p>So in terms of level and amount of coercion, there&#8217;s not much difference between Wikipedia and a totalitarian state. So what&#8217;s the real difference between these two things? One would be that you&#8217;re allowed to leave the Wikipedia &#8220;state&#8221; if you want to, of course. But beyond that?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.starling-software.com/">Curt Sampson</a>
+ on December 12, 2006 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>Wikipedia might <i>ostensibly</i> be flat, but I&#8217;m not quite sure that it is in practice. There&#8217;s the group of &#8220;regular users&#8221; at Wikipedia whom, by virtue of expertise, experience or coercion have more control over content than another group of people whose contributions don&#8217;t fit into what the other group upholds as model Wikipedianism. That looks like a hierarchy, albeit a fluid one, to me. That, and what can otherwise be a beneficial lack of individual ownership almost covers up the forces at play.
+<br /><br /> 
+My question is, how do you draw a line such that Wikipedia is an example of (relatively) utopian self-policing and not totalitarianism?</p>
+
+<p class="posted">posted by Jacqueline
+ on December 12, 2006 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>&#8220;Server Farm Revolutionary Commune&#8221; is no more an anarchy than such projects were anarchies. There is the Charismatic Leader, The Committee Of The Apparatus &#8230; and, frankly, the proletariat.</p>
+
+<p>It&#8217;s an anarchy like any corporation which is poorly managed is an anarchy!</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://sethf.com/">Seth Finkelstein</a>
+ on December 12, 2006 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="wikianarchism" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

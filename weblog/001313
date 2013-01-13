@@ -1,0 +1,299 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Film Recommendation: Brazil (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001313.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001269" title="Miller and Brock" />	<link rel="next" href="001314" title="Brazil: The Sucky Story of Sid Sheinberg" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Film Recommendation: Brazil</h1>
+</div>
+
+<div class="content">
+<p>Terry Gilliam&#8217;s <cite>Brazil</cite> is probably my favorite film. It has soaring visuals by Terry Gilliam. It has beautiful writing by Tom Stoppard. It has action, plot twists, a vast scope, great depth, and a subversive message. It has beautiful dances of office life and a great soundtrack. But it is a serious film. And if there were ever a time to watch it, it is now; it&#8217;s all happening to us (all links go to real news stories):</p>
+
+<p><a href="http://news.google.com/news?q=%22computer+error%22">Complex technology does not work.</a></p>
+
+<p><a href="http://mpt.phrasewise.com/stories/storyReader$374">Instead of eliminating cruft, we sell it in different colors.</a></p>
+
+<p><a href="http://news.bbc.co.uk/1/hi/world/americas/3752163.stm">Terrorists (terrorists?) run around blowing things up.</a></p>
+
+<p><a href="http://seattletimes.nwsource.com/html/localnews/2001949987_fingerprint07m.html">A completely wrong man is arrested because of a smudge.</a></p>
+
+<p><a href="http://www.discourse.net/archives/2004/06/justice_dept_wants_to_charge_padilla_minor_hitch_no_dirty_bomb_no_admissable_evidence.html">It&#8217;s not until after the wrong man, arrested because of a smudge, was tortured that we notice he&#8217;s innocent, and then we try to cover it up.</a></p>
+
+<p><a href="http://digbysblog.blogspot.com/2004_06_06_digbysblog_archive.html#108684497863346405">Bureaucrats sit in fancy offices pushing papers about torture.</a></p>
+
+<p><a href="http://inteldump.powerblogs.com/archives/archive_2004_06_07.shtml#1086610719">The leader decides he doesn&#8217;t have to follow the law.</a></p>
+
+<p><a href="http://en.wikipedia.org/wiki/Abu_Ghraib_prisoner_abuse">The employees decide they don&#8217;t have to follow the law (or maybe those are their orders).</a></p>
+
+<p><a href="http://msnbc.msn.com/id/5159912/">The executives decide what to do by random processes.</a></p>
+
+<p>The movie is like a filmed <a href="http://www.aaronsw.com/weblog/001222">puzzle game</a>, ala Myst. One man pulls a thread and the tapestry of society unravels before your eyes. And it discusses the question perhaps we all should be asking: <em>What do you do when one morning you wake up in a dystopia?</em></p>
+
+<p><strong>Watch it:</strong> <a href="http://www.netflix.com/MovieDisplay?movieid=329815">Netflix</a>, <a href="http://www.walmart.com/catalog/product.gsp?product_id=1102502&amp;path=0%3A5430%3A95740%3A95745">Wal-Mart Rent</a>, <a href="http://www.walmart.com/catalog/product.gsp?product_id=1102502">Wal-Mart Buy</a>, <a href="http://www.amazon.com/exec/obidos/ASIN/0780022181/coolbooks02/">Amazon</a></p>
+
+<p><a href="http://www.rottentomatoes.com/m/Brazil-1003033/">Rotten Tomatoes gives it</a> an incredible 95% positive rating. (And yes, while Ebert did give it a bad review originally, he later apologized.)</p>
+
+<p class="posted">posted June 10, 2004 10:43 AM (<a class="category" href="cat_tv">TV</a>) (<a href="#comments">12 comments</a>) <a href="001313" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001269" title="Miller and Brock">&laquo; prev</a> | <a href="./">up</a> | <a href="001314" title="Brazil: The Sucky Story of Sid Sheinberg">next &raquo;</a></p>
+
+<p><a href="001229">I Hate Books</a><br />
+<a href="001230">Completely Outrageous</a><br />
+<a href="001234">Brown and Goodridge</a><br />
+<a href="001244">Conservative Losers</a><br />
+<a href="001269">Miller and Brock</a><br />
+<strong>Film Recommendation: Brazil</strong><br />
+<a href="001314">Brazil: The Sucky Story of Sid Sheinberg</a><br />
+<a href="001315">James Surowiecki&#8217;s The Wisdom of Crowds: A Review</a><br />
+<a href="001335">Did You Know? Ronald Reagan Edition</a><br />
+<a href="001336">Weblogs: More Driving by the Rear-View Mirror (or, Static Documents by One Person)</a><br />
+<a href="001337">The End of Professionalism: Why do talk radio hosts and Times reporters have no talent?</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c2312">
+
+<p>Great recommendation Aaron! Thats been one of my favorite movies for years. </p>
+
+<p>Of all the scenarios where life is going to imitate art, I would prefer it not be this one, but it sure looks like that is where we are headed.</p>
+
+<p>-t</p>
+
+<p class="posted">posted by <a target="_blank" title="http://the-geek.net" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2312">T. Casper</a> at June 10, 2004 12:42 PM <a href="#c2312">#</a></p>
+
+</div><div id="c2313">
+
+<p>Have you watched <a href="http://www.imdb.com/title/tt0114746/">Twelve Monkeys</a>?</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.robertbrook.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2313">robert</a> at June 10, 2004 03:29 PM <a href="#c2313">#</a></p>
+
+</div><div id="c2314">
+
+<p>You imply Mayfield and Padilla are the same person, but their cases are very different.  You also imply Padilla is innocent, which is a stretch, by any standard.</p>
+
+<p>Also, there is <i>absolutely no evidence</i> that Bush &#8220;decide(d) he doesn&#8217;t have to follow the law.&#8221;  That was a memo sent to Bush, and there is no evidence at all that he acted on the advice contained therein.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://slashdot.org/~pudge/journal" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2314">pudge</a> at June 10, 2004 05:20 PM <a href="#c2314">#</a></p>
+
+</div><div id="c2315">
+
+<p>I agree, Brazil&#8217;s the greatest movie ever. Shame I&#8217;ve only seen it once.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://eleves.ec-lille.fr/~kroeger" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2315">Emile</a> at June 10, 2004 09:35 PM <a href="#c2315">#</a></p>
+
+</div><div id="c2316">
+
+<p>Brazil is amazing. It sure is up the within 5 most favorite movies I&#8217;ve seen. Glad to hear I am not alone in this respect. ;)</p>
+
+<p class="posted">posted by zzen at June 10, 2004 10:27 PM <a href="#c2316">#</a></p>
+
+</div><div id="c2317">
+
+<p>The irony of it is, that Brazil was heavily inspired by Orwell&#8217;s 1984 (and was released in 1985, which I guess was meant to be 1984 originally ;)). It is heavily targeted at comunism, trying to ridicule it in every occassion (like the excelent inclusion of Robert de Niro as a super-hero plumber!). I was fortunate enough to live under comunism for a brief period of time (and only that) and I can get the feel of it in every moment of the movie.</p>
+
+<p>Now saying this movie is showing where US is headed is scary. Just the fact that you actually mention it, even though the country has such a huge communism-hatred&#8230; Scary&#8230;</p>
+
+<p class="posted">posted by zzen at June 10, 2004 10:34 PM <a href="#c2317">#</a></p>
+
+</div><div id="c2318">
+
+<p>Very cool recommendation, Aaron. Terry Gilliam has been one of my favorite directors for a long time. </p>
+
+<p>First, you say RT (rottentomatoes.com) has give it a great score. Then, you mention the only critic I read religiously (Ebert) apologized for giving it a bad review. And one of my best friends always raves about it.</p>
+
+<p>I&#8217;m definitely going to have to watch <i>Brazil</i>.  :-)</p>
+
+<p>Tim</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.1-romance.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2318">Tim</a> at June 11, 2004 04:22 PM <a href="#c2318">#</a></p>
+
+</div><div id="c2319">
+
+<p>I&#8217;m glad to hear others have liked or plan to watch the film. </p>
+
+<p>To pudge: I didn&#8217;t mean to imply Mayfield and Padilla were the same, which is why I reiterated the &#8220;arrested because of a smudge&#8221;. </p>
+
+<p>I don&#8217;t know how you can disagree that Padilla is innocent of the charge he was snatched on. <a href="http://msnbc.msn.com/id/5175105/site/newsweek/site/newsweek">As Newsweek says</a> &#8220;administration officials now concede that the principal claim &#8230; that [Padilla] was dispatched to the United States for the specific purpose of setting off a radiological &#8216;dirty bomb&#8217;—has turned out to be wrong&#8221; and a &#8220;recently declassified Pentagon report on Padilla &#8230; [suggests]  the &#8216;dirty-bomb plan would not work&#8217; &#8230; [and]  &#8216;He says he &#8230; proposed the dirty-bomb plot only as a way to &#8230; avoid combat &#8230;&#8217;&#8221;.</p>
+
+<p>And Bush has tacitly confirmed he feels he isn&#8217;t bound by the law <a href="http://www.washingtonpost.com/wp-dyn/articles/A34053-2004Jun11.html">by refusing to oppose torture in response to direct questions</a>. I don&#8217;t expect Bush to come out and say he supports torture, so this statement appears to be the closest thing we will get to confirmation he has adopted the memo&#8217;s approach.</p>
+
+<p>To zzen: David Brock claims, as a subtheme in his two recent books, that the radical conservatives currently controlling the country are actually quite eager to adopt Communist tactics and methods, even though politically they were the most ardent anti-Communists. This seems like an interesting phenomenon that I hope to learn more about. (I suspect it&#8217;s a reverse form of the up-is-down projection so common among radical conservatives.)</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2319">Aaron Swartz</a> at June 11, 2004 05:42 PM <a href="#c2319">#</a></p>
+
+</div><div id="c2325">
+
+<p><em>I don’t know how you can disagree that Padilla is innocent of the charge he was snatched on.</em></p>
+
+<p>I don&#8217;t know how you can assert he <em>is</em> innocent.</p>
+
+<p>I&#8217;ve seen not one official has said the information about him was wrong; they&#8217;ve only said the evidence they have against him can&#8217;t be used in court.  That doesn&#8217;t mean he is innocent, it means he won&#8217;t be found guilty.  There&#8217;s a big difference between the two.</p>
+
+<p>Yes, Newsweek says the principal claim was wrong, according to administration officials.  Who cares?  There&#8217;s no direct quote, let alone a name, and I have no reason to believe their intepretation of what the officials said is accurate.  Officials get misinterpreted every day, when their quotes are actually on the record, and probably far moreso when they are anonymous.</p>
+
+<p>Considering we have NO quote and NO names to back up the claim, yet we DO have quotes and names backing up the claim about lack of usable evidence, it&#8217;s only reasonable to assume that&#8217;s what Newsweek meant, and that it was misinterpreting.  If it wishes to publish actual facts in a future story, then I will reconsider.</p>
+
+<p><em>And Bush has tacitly confirmed he feels he isn’t bound by the law</em></p>
+
+<p>Oh, stop lying.  It&#8217;s boring.  In fact, what he asserted is exactly opposite of what you say: he kept reiterating that he expects everyone under his command to follow the law.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://slashdot.org/~pudge/journal" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2325">pudge</a> at June 14, 2004 01:53 AM <a href="#c2325">#</a></p>
+
+</div><div id="c2326">
+
+<p>Brilliant Post! (^_^)</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.interiority.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2326">Massimo</a> at June 14, 2004 02:09 AM <a href="#c2326">#</a></p>
+
+</div><div id="c2336">
+
+<p>Pudge - When Justice Department lawyers are tasked with the job of figuring out how the President of the United States can get away with war crimes, you know that we are living in a world like that of Brazil.</p>
+
+<p>(I note that one DoJ lawyer had the decency to resign, rather than become an accessory.)</p>
+
+<p class="posted">posted by Angry American at June 16, 2004 10:50 PM <a href="#c2336">#</a></p>
+
+</div><div id="c2340">
+
+<p>pudge, there&#8217;s a reason confessions extracted thru torture can&#8217;t be used in court. Can you think of what it is? (Hint: Salem, Mass. Spanish Inquisition.)</p>
+
+<p>As for Bush, take this exchange</p>
+
+<p>REPORTER: Mr. Bush, we have memos saying that your Justice Department feels it can torture prisoners while following the law. Saying you&#8217;ll &#8220;follow the law&#8221; is not enough. Do you think it&#8217;s OK to torture prisoners or not?</p>
+
+<p>BUSH: We&#8217;ll follow the law.</p>
+
+<p>(paraphrased) Now why won&#8217;t Bush answer the question? Is it:</p>
+
+<p>a) because he&#8217;s allowed the torture of prisoners but doesn&#8217;t want to say that <br />
+b) because he thinks it&#8217;s hilarious not to answer <br />
+c) because he doesn&#8217;t know the answer <br />
+d) none of the above</p>
+
+<p>pudge appears to think there&#8217;s no way we can know. I&#8217;m using my judgment and deciding it&#8217;s a. If I turn out to be wrong I will apologize and correct the story. But judging from the mountains of evidence that pour from these guys, I am extremely confident I am correct.</p>
+
+<p>In other news, <a href="http://www.msnbc.msn.com/id/5226957/">Pentagon officials say Rumsfeld personally authorized a violation of the Geneva Conventions</a> But I guess since there are no names attached, that must be wrong too. (Although considering the no-mistakes-were-made policy of the President, maybe torture will be the only way to get people to confess on the record.)</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2340">Aaron Swartz</a> at June 17, 2004 12:17 PM <a href="#c2340">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001313.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1313" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

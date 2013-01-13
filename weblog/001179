@@ -1,0 +1,370 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Sue for Freedom: Saving Steamboat Roy (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/001179.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001177" title="San Francisco Protects the Freedom to Marry" />	<link rel="next" href="001185" title="Shorter Tom DeLay" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Sue for Freedom: Saving Steamboat Roy</h1>
+</div>
+
+<div class="content">
+<p>Are you an enterprising lawyer who wants to join the fight for freedom? Here are some lawsuits you might consider filing:</p>
+
+<p><strong>DMCA:</strong> It is settled law that code is speech, and its distribution protected by the First Amendment. But the DMCA makes sharing certain types of code (that which lets you view copyrighted works) illegal. </p>
+
+<p>Test case: Sue to protect <a href="http://www.aaronsw.com/weblog/001142">Seth Schoen&#8217;s right to distribute his DeCSS Haiku</a>. </p>
+
+<p><strong>Patents:</strong> Patent law similarly restricts speech, when it prevents people from sharing code that implements patented algorithms. Code is the language of algorithms, just as equations are the language of physics. The law cannot stop us from discussing certain algorithms just because someone else came up with them first.</p>
+
+<p>Test case: Sue to protect <a href="http://burnallgifs.org/">Don Marti&#8217;s right to describe how to compress pictures and play music</a> or <a href="http://cr.yp.to/patents.html">Daniel Bernstein&#8217;s right to publish encryption software</a>.</p>
+
+<p><strong>Injunctions and Damages:</strong> As Ninth Circuit Judge Alex Kozinski <a href=http://notabug.com/kozinski/fairuse">has suggested</a> (and his former clerk and now First Amendment law professor <a href="http://www1.law.ucla.edu/~volokh/copyinj.htm">agrees with</a>), preliminary injunctions for copyright infringements may well violate the First Amendment. I&#8217;ll let the witty Judge Kozinski explain:</p>
+
+<blockquote>
+	<p>What&#8217;s that you say? Classified documents about our Vietnam war effort have been stolen from the Pentagon and given to the newspapers? You want an injunction to avoid risking the death of soldiers, the destruction of alliances, the prolongation of war? No way, Jose; this is the land of the brave and the home of the free. But wait a minute &#8212; did you say someone drew a picture of O.J. Simpson wearing a goofy stovepipe hat? Light the bonfires, it&#8217;s Nuremberg time!</p>
+	
+	<p>[&#8230;] [Imagine] instead [the Courts] are to treat copyright injunctions in these cases the way equitable relief is usually treated, granting them only when there is strong reason to believe that damages will be inadequate. This is what we already do in patent law, where probability of success on the merits does not create a presumption of irreparable harm.</p>
+</blockquote>
+
+<p>Volokh <a href="http://www1.law.ucla.edu/~volokh/speechip.pdf">also suggests</a> that statutory damages, essentially a form of punitive damages, may also be unconstitutional.</p>
+
+<p>Test case: Create a short film called Steamboat Roy. Roy Disney captains a ship. Big brute Michael Eisner pushes him off the bridge. Roy grabs Steve Jobs and pulls him on board. Steve accidentally drops his laptop, which gets eaten by a goat. Steve tries to retrieve it, but the goat turns computer-animated. Eisner throws everyone including the goat overboard, and the ship sinks. Sue for the right to distribute this satire. (more: <a href="http://en.wikipedia.org/wiki/Steamboat_Willie">Steamboat Willie</a>, <a href="http://www.savedisney.com/">Roy Disney</a>)</p>
+
+<p><strong>Fair Use:</strong> Artists routinely quote small snippets of a musical works, a process now fraught with absurd legalities. I am rarely sued for quoting Martin Luther King, quoting the great musicians should be little different.</p>
+
+<p>Test case: Create a clever song using only 2-3 second snippets from other works. Sue for the right to put it on your website.</p>
+
+<p><em>What are your suggestions? And why isn&#8217;t anyone doing this?</em></p>
+
+<p class="posted">posted February 25, 2004 11:57 PM (<a class="category" href="cat_politics">Politics</a>) (<a href="#comments">17 comments</a>) <a href="001179" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001177" title="San Francisco Protects the Freedom to Marry">&laquo; prev</a> | <a href="./">up</a> | <a href="001185" title="Shorter Tom DeLay">next &raquo;</a></p>
+
+<p><a href="001171">Gerrymandering: How Politicians Steal Votes and You Can Return Them</a><br />
+<a href="001173">Up is Down: How Stating the False Hides the True</a><br />
+<a href="001174">Down is Up: What This Stuff Is</a><br />
+<a href="001175">Up With Facts: Finding the Truth in WikiCourt</a><br />
+<a href="001177">San Francisco Protects the Freedom to Marry</a><br />
+<strong>Sue for Freedom: Saving Steamboat Roy</strong><br />
+<a href="001185">Shorter Tom DeLay</a><br />
+
+</p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c629">
+
+<p>You get what you pay for.  Find someone willing to pony up the dough and a flock of lawyers will appear &#8220;as if by magic.&#8221;</p>
+
+<p>We are, after all, legal whores.  We take your money, do our tricks, and leave with no conscience.</p>
+
+<p class="posted">posted by <a href="mailto:attorneyadams@sbcglobal.net">Mark Adams</a> at February 26, 2004 12:46 AM <a href="#c629">#</a></p>
+
+</div><div id="c630">
+
+<p>Aaron-</p>
+
+<p>re. DMCA: Not all speech is permissible - the yelling &#8220;fire&#8221; in a crowded theater argument. Congress has made a judgment that the potential damage of such &#8220;speech&#8221; overrides any presumption of first amendment protection. This is essentially a political matter and I believe that the courts will be loath to overturn the DMCA on this basis.</p>
+
+<p>re. Patents: as silly as the current patent system is, it limits property not speech (constitutionally at least, I believe that was, and is the intent).</p>
+
+<p>re. Fair Use: Modern technology allows us to produce exact copies of most media and the courts may have to decide the difference between &#8220;facimile&#8221;, &#8220;representation&#8221; and &#8220;interpretation&#8221;. I ask you, what&#8217;s the difference between a 2-3 second snippet of music and a 2-3 minute snippet of music? It&#8217;s probably the intent of the &#8220;snipper&#8221; and the context in which it is used. Despite the best efforts of congress to pass laws admitting no subjective judgement I believe that the courts will need to establish precedent regarding this morass. A long acrimonious process!</p>
+
+<p class="posted">posted by KJO at February 26, 2004 07:27 AM <a href="#c630">#</a></p>
+
+</div><div id="c631">
+
+<p>The Supreme Court has construed Article III, Section 2 of the Constitution to mean that they won&#8217;t issue opinions just because someone is unsure of what the law is; there has to be a &#8220;case&#8221; or &#8220;controversy&#8221; before the Federal courts will get involved.</p>
+
+<p>
+So generally speaking, Seth Schoen can&#8217;t sue anyone else to protect his right to distribute the DeCSS Haiku.  He has to either wait for someone to sue <em>him</em>, or convince a judge that such a lawsuit is imminent so he might as well get the first shot in.  In the latter case, Schoen would be asking for a &#8220;declaratory judgement&#8221;.</p>
+
+<p>
+In <i>Felten v. RIAA</i>, a group of researchers tried to get a declaratory judgement that their research on how to defeat DRM systems was not violating the DMCA.  The RIAA had, in fact, threatened some researchers in this field, who withdrew their papers from USENIX out of fear of legal action.  So Felten et al. sued.  But then the RIAA said, oh no, go ahead and publish, and the courts dismissed the lawsuit.</p>
+
+<p class="posted">posted by <a href="http://dynamic.ropine.com/yo/">Seth Gordon</a> at February 26, 2004 08:23 AM <a href="#c631">#</a></p>
+
+</div><div id="c633">
+
+<p>Aaron, as someone who has actually, bona-fide, devoted quite a bit of my life to this very idea (and now regrets it greatly), let me tell you - it is not easy.</p>
+
+<p>Look at my write-up reporting issues concerning the <a href="http://sethf.com/censorware/legal/edelman_n2h2_hearing.php">N2H2</a>    case.</p>
+
+<p>As Seth Gordon explained, declaratory cases can&#8217;t be speculative. I&#8217;d joke about this, that I supposedly had to do enough to be in peril of being sued, but not to actually get sued :-)</p>
+
+<p>By the way, it is possible to get counter-sued and  <em>lose</em>. That&#8217;s basically what happened in the 321 Studios vs. MGM case (DVD copy programs)</p>
+
+<p>Court cases are expensive :-(.</p>
+
+<p class="posted">posted by <a href="http://sethf.com/anticensorware/">Seth Finkelstein</a> at February 27, 2004 02:03 AM <a href="#c633">#</a></p>
+
+</div><div id="c635">
+
+<p>KJO: That&#8217;s nonsense &#8212; the whole point of the First Amendment is to stop Congress. And patent law is routinely applied to software (speech).</p>
+
+<p>Seth Gordon: When I said &#8220;sue for the right&#8221; I was referring to a declaratory judgment. But you might need to do some provocation or shopping around to get someone who&#8217;d be willing to fight in court, as you note.</p>
+
+<p>You could also rig the case (e.g. get hypothetical Bob to create an encryption system, break it, and have Bob sue you) but this might be frowned upon and also would be more expensive.</p>
+
+<p>Seth Finkelstein: Are there significant costs other than the time of a lawyer?</p>
+
+<p class="posted">posted by <a href="http://www.aaronsw.com/">Aaron Swartz</a> at February 27, 2004 04:21 PM <a href="#c635">#</a></p>
+
+</div><div id="c638">
+
+<p>&#8220;Rig the case&#8221; is another name for:</p>
+
+<p>collusive action
+n. a lawsuit brought by parties pretending to be adversaries in order to obtain by subterfuge an advisory opinion or precedent-setting decision from the court. If a judge determines the action does not involve a true controversy he/she will dismiss it.</p>
+
+<p>Regarding significant costs, don&#8217;t forget &#8220;opportunity costs&#8221;. Any lawyer willing to do <em>pro bono</em> civil-libertaries work will be deluged with supplicants and worthy causes - why waste time bringing a case which will likely be, at best, <em>ignored</em>, and at worst, bring harm to the plaintiffs? (or even disciplinary action against the lawyer for being frivolous)</p>
+
+<p class="posted">posted by <a href="http://censorware.net/articles/01/07/19/0540233.shtml">Seth Finkelstein</a> at February 27, 2004 09:28 PM <a href="#c638">#</a></p>
+
+</div><div id="c648">
+
+<p>Aaron,</p>
+
+<p>First off, the First Amendment only stops Congress in a limited way:  “Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the government for a redress of grievances.”</p>
+
+<p>Second, there&#8217;s nothing stopping <em>you</em> from sueing or creating Steamboat Roy or a clever song with 2-3 second clips from other works.  So why haven&#8217;t you done so?  </p>
+
+<p>Test case:  Ask your parents if they will foot your legal bills as you protest the DMCA, patents and intellectual property.  Or better yet, convince Larry Flynt to take on the cases—he&#8217;s ornery and rich enough to possibly do it.</p>
+
+<p class="posted">posted by <a href="http://boston.conman.org/">Sean Conner</a> at March  1, 2004 03:09 AM <a href="#c648">#</a></p>
+
+</div><div id="c649">
+
+<p>Oh, and there seems to be a bug in mt-comments.cgi.  I entered the HTML entities for quotes, &amp;ldquo; and &amp;rdquo; and somehow, between preview and posting, they got mangled somehow.  Might want to report a bug to the authors.</p>
+
+<p class="posted">posted by <a href="http://boston.conman.org/">Sean Conner</a> at March  1, 2004 03:12 AM <a href="#c649">#</a></p>
+
+</div><div id="c650">
+
+<p>Aaron-</p>
+
+<p>The first amendment does not grant an <strong>absolute</strong> right of free speech; nor does it enjoin congress from passing laws which limit certain types of speech. It is the responsibility of our lawmakers to balance the rights of the citizen under the first amendment with the rights of the citizen under the other articles of the constitution. As Sean Conner says the restrictions placed on Congress by the first amendment are &#8220;limited&#8221;. The DMCA is an attempt to balance the rights of speech with the rights of property. It may be heavy-handed, misguided and unnecessary but I don&#8217;t believe the current supreme court will strike it down in its entirety on 1st amendment grounds. </p>
+
+<p>Patent law is applied to property. It is never applied to speech. Your contention that software equals speech is a non sequitur.</p>
+
+<p class="posted">posted by KJO at March  1, 2004 07:39 AM <a href="#c650">#</a></p>
+
+</div><div id="c651">
+
+<p>King&#8217;s family can/might sue you to protect their copyright of his 1963 &#8220;I Have a Dream&#8221; speach. Licensing fees start at $2,000. see these articles:
+<a href="http://www.phillyburbs.com/pb-dyn/news/219-08272003-148920.html">an editorial from www.phillyburbs.com</a> and a <a href="http://edition.cnn.com/SPECIALS/1999/century/episodes/07/currents/">CNN aritlce</a> or just google it.</p>
+
+<p class="posted">posted by <a href="http://sonicrabbit.go.dyndns.org">hary wilke</a> at March  1, 2004 10:07 AM <a href="#c651">#</a></p>
+
+</div><div id="c652">
+
+<p>Sean Conner and KJO both note that the First Amendment is not absolute. Sure, of course it&#8217;s not, but these cases aren&#8217;t even close. Under long-established First Amendment law, they&#8217;re content-based, so they get strict scrutiny, and they don&#8217;t fall under any special exception. Now the Supreme Court can always make a new special exception, but I doubt they will, and until they do the laws are unconstitutional.</p>
+
+<p>The First Amendment is not about &#8220;balancing&#8221; interests &#8212; it&#8217;s the exact opposite. All laws get struck down except those in narrow exceptions. There is no magical power of property that overrules the First Amendment. There is a narrow First Amendment exception for copyright law, but it&#8217;s far too narrow to apply to the DMCA or patent law.</p>
+
+<p>Sean: I haven&#8217;t sued yet because I haven&#8217;t finished law school. And I reported your bug to the authors of Movable Type &#8212; good catch.</p>
+
+<p>KJO: How can software not be speech? I can put it on billboards and tshirts, it&#8217;s the best method of communication with fellow programmers, and it has a very high degree of expressiveness. It&#8217;s like mathematical equations (which also have First Amendment protection), but far more expressive.  Anyway, the courts have all agreed that software is speech.</p>
+
+<p>And since software is speech, patent law is applied to speech when it prevents me from distributing software. So, if you have a patent on the MP3 compression technique, and you use it to stop me from distributing my MP3 player, then you&#8217;re stifling my speech.</p>
+
+<p class="posted">posted by <a href="http://www.aaronsw.com/">Aaron Swartz</a> at March  1, 2004 11:03 AM <a href="#c652">#</a></p>
+
+</div><div id="c653">
+
+<p>Not all laws that violate the First Amendment are struck down—I can think of at least one instance where Congress itself violated the first portion:  &ldquo;Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof &hellip;&rdquo; and it hasn&#8217;t been struck down for over a century (actually, in this case, Congress defintely violated the First, and possibly the Tenth&mdash;check the history of Utah for more information).</p>
+
+<p>Other than age, I don&#8217;t see how finishing law school prevents you from suing anyone.  You can sue anyone for anything, but passing the Laughing Test is another matter.</p>
+
+<p>Also, software is a strange beast; it can be patented, copyrighted and in some cases, even falls under the First Amendment as speech.  Nothing else I know of has been classified under so many different branches of intellectual property and we&#8217;re (as a society) are still trying to figure out how it should work (in a legal, protected sense).</p>
+
+<p class="posted">posted by <a href="http://boston.conman.org/">Sean Conner</a> at March  1, 2004 04:26 PM <a href="#c653">#</a></p>
+
+</div><div id="c656">
+
+<p><strong>All</strong> law is about balancing interests with respect to citizens&#8217; rights and duties. (I never said that the First Amendment was about anything other that what it actually says). Your contention that, until the Supreme Court makes an exception, the &#8220;laws are unconstitutional&#8221; is arrant nonsense. The reality of the matter is that until the court determines otherwise the laws remain in force and are presumed constitutional. Whither the suits, if otherwise?</p>
+
+<p>&#8220;Software&#8221; is <strong>not</strong> &#8220;Speech&#8221;: the two terms are not absolutely equivalent. Although software <i>may</i> be considered speech for particular purposes, patented algorithms are <i>by definition</i> property, and under Art. 1, Sec. 8 of the Constitution their inventors are granted for &#8220;limited times&#8221; the &#8220;exclusive right&#8221; to those discoveries.</p>
+
+<p>Finally, you&#8217;re absolutely correct that the Art. 1, Sec. 8 of the constitution has no &#8220;magical power&#8221; that trumps the First Amendment; but the opposite is also true, the First Amendment has no supremacy over Art. 1, Sec. 8. In short, we have a &#8220;conflict of rights&#8221; and it is the responsibility of legislative branch to pass laws which respect those rights, it is the responsibility of the judiciary to ensure that this is so and it is our responsibility to keep them all honest. Every election we get to vote for those lawmakers who share our <i>opinions</i> of how those conflicts should be resolved.</p>
+
+<p class="posted">posted by KJO at March  2, 2004 07:01 AM <a href="#c656">#</a></p>
+
+</div><div id="c659">
+
+<p>I never said that &#8220;software&#8221; and &#8220;speech&#8221; were absolutely equivalent, I said that software was a form of protected speech (equal vs. subclass).</p>
+
+<p>Patented algorithms are not property &#8212; where in Art 1, Sec. 8 do you see the word property? But I&#8217;m not sure what benefit you get from calling them that anyway &#8212; property or not, patents are still a content-based speech restriction subject to strict scrutiny.</p>
+
+<p>The First Amendment is supreme over Art. 1, Sec. 8 &#8212; it was passed afterwards. Is there a &#8220;conflict of rights&#8221; between the eighteenth (prohibition) and twenty-first (prohibition repealed) amendments? No! The twenty-first obviously repeals the eighteenth. </p>
+
+<p>Now the courts may take Art. 1, Sec. 8 into mind when deciding how to carve out new First Amendment exceptions (as they apparently did for copyright), but they are by no means required to (otherwise how could you explain <em>Harper &amp; Row</em> and <em>Eldred</em>?). </p>
+
+<p>It emphatically remains the job of the judiciary to strike down laws when they violate the Constitution.</p>
+
+<p class="posted">posted by <a href="http://www.aaronsw.com/">Aaron Swartz</a> at March  2, 2004 10:36 AM <a href="#c659">#</a></p>
+
+</div><div id="c663">
+
+<p>No, Art. 1, Sec. 8 does not use the word &#8220;property&#8221;; nor does it use the word &#8220;copyright&#8221; or &#8220;patent&#8221;. However, patent and copyright law flows from it and if &#8220;writings&#8221; and &#8220;discoveries&#8221; cannot be considered intellectual property then what exactly are we talking about? </p>
+
+<p>Now, just because you label patents as &#8220;content-based speech restriction&#8221; doesn&#8217;t make it so, but the the very fact that a item can be copyrighted or patented does make it property, <i>de facto</i> and <i>de jure</i>; <strong>at least until such time as a court determines otherwise</strong>. </p>
+
+<p>The First Amendment does not trump Art. 1, Sec. 8; even the judgement handed down in the case of <i>Eldred</i> says as much. Also, it seem to me that the suit brought by Eldred dealt with &#8220;carving out&#8221; an exception to Art. 1, Sec. 8 based on First Amendment arguments, arguing that Congress had exceeded its authority. The court was unconvinced. </p>
+
+<p>Furthermore, any court would be less than dilligent if they did not consider <strong>all</strong> articles, amendments and precedents while settling law. 
+There is no conflict between the 18th and 21st amendment because the 21st amendment explicitly repeals the 18th i.e. the framers&#8217; view is <strong>not</strong> open to interpretation. Rarely are other cases so simple. </p>
+
+<p>I completely agree with your opinion of what constitutes the responsibility of the Judiciary, I said as much in the last paragraph of my previous comment. Its job is to ensure that all laws passed by Congress pass constitutional muster. If your contention is that certain laws are unconstitutional then of course you can exercise your rights and &#8220;petition the government for the redress of grievances&#8221;; you can sue. Of course, this brings us right back to the start of your thought provoking post.</p>
+
+<p class="posted">posted by KJO at March  2, 2004 12:11 PM <a href="#c663">#</a></p>
+
+</div><div id="c666">
+
+<p>Aaron: </p>
+
+<p>I can&#8217;t spend a billion years on this, but its worthwhile to note that for the most part (the cases that come to mind are specifically DVD CCA v. Bunner and Reimerdes v. Universal Studios, the speech regulation was considered a content-neutral restriction on speech, and thus wasn&#8217;t given strict scrutiny, but intermediate scrutiny &#8212; a much lower standard.   </p>
+
+<p>If Congress passes a law (in this case, the DMCA) that has nothing to do whatsoever with a coder&#8217;s content, but instead is focused on it&#8217;s expression or conduct, this is content-neutral.  Kaplan argued this in the Reimerdes case.   It isn&#8217;t always quite as cut and dry as the way you lay it out. </p>
+
+<p>I agree some of these cases should be raised, but the time, money, effort, and support you need is huge.  Getting all of those factors figured around a triable issue (injury/controversy) can be a real bitch.  </p>
+
+<p class="posted">posted by <a href="http://www.ipnewsblog.com">Carey Lening</a> at March  3, 2004 04:55 PM <a href="#c666">#</a></p>
+
+</div><div id="c668">
+
+<p>Does the DMCA promote the promote the progress? Arguable. Is it for limited times? No. Does it secure the exclusive rights of writings and discoveries? No.  So Art. 1, Sec. 8 doesn&#8217;t even apply here. The DMCA isn&#8217;t a copyright act, it creates broad new rights in things called &#8220;technical protection measures&#8221; &#8212; not writings or discoveries.</p>
+
+<p>But even if it did fall under Art. 1, Sec. 8, the Supreme Court still disagrees. They&#8217;ve clearly said that copyright exists because of a special exception to the First Amendment, not the other way around. Just like First Amendment exceptions for fighting words, obscenity, libel, etc., the Supreme Court has said that copyright acts for limited times with fair use provisions are Constitutional. </p>
+
+<p>&#8220;If Congress passes a law (in this case, the DMCA) that has nothing to do whatsoever with a coder’s content, but instead is focused on it’s expression or conduct, this is content-neutral.&#8221;</p>
+
+<p>Oh, so when Ohio banned the advocation of criminal syndicalism, this law was OK because it focused on the speaker&#8217;s expression or conduct? <a href="http://www.oyez.org/oyez/resource/case/47/">I don&#8217;t think so</a>. And when the US government banned the export of strong encryption software, that was OK because they focused on software&#8217;s expression or conduct? <a href="http://cr.yp.to/export/docs.html">Nope, wrong again</a>. </p>
+
+<p>The regulating-what-source-code-is-content-neutral test is an excuse made up by Second Circuit judges to get out of applying the law. The test to see whether a regulation is content-based or content-neutral is very simple: do you need to look at the content to decide whether it violates the law or not? The answer here is obviously yes. There&#8217;s no way you can see whether something violates a patent or the DMCA without looking at it&#8217;s content.</p>
+
+<p class="posted">posted by <a href="http://www.aaronsw.com/">Aaron Swartz</a> at March  5, 2004 12:47 PM <a href="#c668">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/2002/001179.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/mt-comments.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1179" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /><br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

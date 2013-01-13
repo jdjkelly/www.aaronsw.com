@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>The Politics of Wikipedians (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>The Politics of Wikipedians</h1>
+
+<p>A film director named Jaron Lanier recently published <a href="http://www.edge.org/3rd_culture/lanier06/lanier06_index.html">an essay titled &#8220;Digital Maoism&#8221;</a>. The essay is a dreadful mishmash of name-calling, whining, and downright incoherence, but insofar as Lanier has a point, it is this: people often attribute facts and claims to &#8220;Wikipedia&#8221;, as if it was some giant hive mind that combined all our individual thoughts into one group opinion. But, in reality, Wikipedia is simply written by people, people with individual voices and ideas. And technology is making us lose sight of that.</p>
+
+<p>(I maybe doing Lanier too great a service by attributing such a coherent view to him as nothing quite so clear is ever actually expressed in the article. Nonetheless, I will continue as if this is Lanier&#8217;s view.)</p>
+
+<p>It is an interesting point, but what Lanier finds so frightening is precisely what I find so exciting about these technologies. I still remember the light bulb that went off in my head when my friend Dan Connolly answered a question by saying &#8220;According to Google, X is the case.&#8221; &#8220;Google&#8221; had said no such thing, of course, but the Google algorithm had processed all the links on the Web and send Dan the page it thought most relevant to his query. It was this particular page that said X, of course, but the notion that Google itself was answering questions in this way was a revelation.</p>
+
+<p>The same is true of Wikipedia. There are individual people, obviously, but what makes Wikipedia so fascinating are the technical and social processes that combine their work, turning it into something no individual person is responsible for or would necessarily endorse.</p>
+
+<p>I often find myself wondering what Wikipedia would say about such-and-such a subject or how important Wikipedia thinks something else is. I refuse to edit my Wikipedia page, not only because it&#8217;s bad form, but because I&#8217;m genuinely curious about how Wikipedia sees me. It&#8217;s an odd thing, to think a site that anyone can edit actually has opinions or concerns or a point of view on the world, but it does, and it&#8217;s a fascinating one.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">December 12, 2006</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>If this were a wiki page, I would correct it to say Jaron Lanier is not a film director.</p>
+
+<p class="posted">posted by Carl
+ on December 12, 2006 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>&#8220;A film director named Jaron Lanier &#8230;&#8221;</p>
+
+<p>Just to make clear, since irony doens&#8217;t travel well on the net - that was a joke, right?</p>
+
+<p>I think you&#8217;re misreading the essay, understandable since he&#8217;s a bit hard to follow. He&#8217;s basically talking about the downsides of collectivism here (something I really dislike about the fad for it, but is not going to be heard much).</p>
+
+<p>You seem to be talking about anthropomorphizing an algorithmic result or process outcome.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://sethf.com/">Seth Finkelstein</a>
+ on December 12, 2006 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>It was a joke.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on December 12, 2006 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>I actually thought Lanier&#8217;s article was really excellent! He challenges us to really think about the whole idea of online collectivism. At the end of the day, he is not against it in principle but simply warns that sometimes it can lead to the lowest common denominator. He then gives some tips on how to avoid this fate.</p>
+
+<p>The other point to note is the really interesting discussion that took place around the original article. So I hope your readers will read Digital Maoism.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.onlinelearning.unu.edu">Brendan Barrett</a>
+ on December 12, 2006 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>Summary:</p>
+
+<p>Sometimes, the extreme is one way, but the other extreme is another way. Other times, all of something is something, but ironically, very little of something else is something else. When you can magnitude the meta me myself, Google Myspace Myself should would something pedagogical.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://drewyates.net">Andrew Yates</a>
+ on December 12, 2006 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="wikimao" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

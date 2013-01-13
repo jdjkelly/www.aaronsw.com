@@ -1,0 +1,616 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Visiting Olin College (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Visiting Olin College</h1>
+
+<p>Olin College is that rarest of breeds: a new one. &#8220;I didn&#8217;t realize people were still starting colleges,&#8221; I heard someone say when they first heard about it. The Franklin W. Olin Foundation, after funding engineering buildings on lots of college campuses, finally decided to try to build a whole school itself, eventually putting all of its money (an estimated $400 million) into Olin College and dissolving itself.</p>
+
+<p>The college is not shy about spending the money. Every Olin student gets completely free tuition and a laptop full of engineering software. It has a big beautiful campus on the outskirts of Boston with three huge classroom buildings and six wings of dorms; each student gets a state-of-the-art dorm room.</p>
+
+<p>The buildings are big and imposing. I first visited several years ago over the summer, back when Olin was just starting and no one was around. It was odd walking through the large, newly-built buildings all alone. I tried to imagine what it would be like when class was in session.</p>
+
+<p>And here I am, years later, as I head to my first class. A kind and eager student, who I&#8217;ll call Lex, picked me up at the T stop and drove me to the campus and is now delivering me to the Computer Architecture course, which everyone insists is one of the best-taught on campus (by which, they apparently mean that the teacher is really funny). As we walk through the hallways at 9am I again don&#8217;t see a single other person. &#8220;Guess nobody wakes up this early,&#8221; I say.</p>
+
+<p>Lex hands me off to a student in the Computer Architecture class who looks exactly like I imagined: long beard, geeky shirt, started several open source projects. He takes me into class &#8212; which, despite Olin&#8217;s reasonable gender balance in the student population as a whole, remains mostly male &#8212; where students are gabbing about things they&#8217;ve built with op-amps and breadboards before things start. While I&#8217;ve heard of breadboards, I&#8217;ve never seen one, let alone played with one before class, and I have to admit I&#8217;m not sure what an op-amp is. <em>Wow</em>, I think, <em>these kids are smart.</em></p>
+
+<p>Nobody here knows who I am &#8212; an odd experience for me, since lately I&#8217;ve only been hanging out with friends or going to conferences where people know of me. When they ask, I simply say I&#8217;m from Cambridge &#8212; a programmer at a startup if they push, but few do. Everybody just assumes I&#8217;m a prospective student visiting and looks down on me accordingly. I just try to keep quiet.</p>
+
+<p>The class itself is taken up by having students do exercises on the whiteboards and then share their results with the class. Students here seem a little less embarrassed about getting things wrong in front of everyone; they&#8217;re happy to describe what they did from their seats. After everyone has shared, the class ends, and I leave, disappointed.</p>
+
+<p>It&#8217;s still early, so Lex decides to take me on a tour of the facilities. Olin College was designed by and for engineers, the idea being that students who complete the program will have a full, rounded education in engineering. So there are classes in math and physics and basic principles of engineering, all unified into a project-based integrated courseblock or something like that. Then there are classes in materials science and biological science, classes in human factors and understanding the requirements of actual users, classes in building stuff and classes in using it.</p>
+
+<p>There are lots of toys all over, great food, and an administration which is always asking how they can improve things further. The place reminds me of nothing so much as Google, which even has a similar kind of campus. I suppose it makes sense: this is what happens when you have engineers build an institution.</p>
+
+<p>I grab some pasta for lunch (like at Google, the food isn&#8217;t really my style) and follow Lex to a table. Unlike at other schools, Lex explains, kids here don&#8217;t sit in cliques. Everybody knows everybody else, so the tables just fill up in order. We sit across from two kids who somehow turn the conversation from Dean Kamen&#8217;s ego to mobius strips, before telling us about a paper they&#8217;d written proving that a certain kind of graph of odd <em>n</em> can be reformulated on a mobius strip as a series of pentagons, showing us how by drawing on a napkin. (There are boxes of napkins on the tables, I notice, but not boxes of pens. Pay attention, institution builders!) The work seems quite impressive; I wonder if it could be published in an actual journal.</p>
+
+<p>The kids also gab about student life. So-and-so is having a birthday and they&#8217;re going to get a keg later to celebrate. Everybody laughs and then they assure me that it&#8217;s only a root beer keg. Then they&#8217;re going to get a bunch of ice cream too, so it&#8217;ll be a huge root beer float. After lunch, I head out with them to downtown Boston to grab the keg and head back, a process that takes up most of the afternoon.</p>
+
+<p>On the way back we stop at a music store. Bored, I pull out my Sidekick and check my email, which draws a store employee&#8217;s attention. Long-haired and with a weathered face in a tight black shirt, he speaks in a rocker&#8217;s drawl. &#8220;Whooaaaa, what is thaaaat?&#8221; he says and I quietly explain. He tells us how he thinks computers will eventually be replaced by miniature devices, which will be able to communicate with each other by bouncing satellite signals off the moon. &#8220;Or the sun,&#8221; he adds.</p>
+
+<p>To distract him, I think of saying that my companions are just the geniuses to build such a thing, but they save me the trouble. &#8220;Are you guys at MIT?&#8221; he asks. &#8220;No,&#8221; they say, and I realize Olin has a ways to go before its brand catches up with its curriculum. He says he has a friend who&#8217;s an expert in seeing the big picture and offers to hook the guys up so they can take on the small device manufacturers. (The Olin students immediately begin thinking about the tools they&#8217;d need to build small devices.) He takes down their names and emails before we head back.</p>
+
+<p>&#8220;You have to recognize that everyone has a point of view about technology,&#8221; one Olin student says thoughtfully. &#8220;They taught us that on the designing-for-humans course.&#8221; &#8220;And even if he is crazy,&#8221; the other adds, &#8220;his friend might be cool.&#8221;</p>
+
+<p>When we get back, I beg off from my guide Lex, saying I&#8217;d like to just tour the place for myself for a bit. Lex and her circle remind me a little of Olin cultists &#8212; whenever I ask about Olin their eyes go wide and they tell me that it&#8217;s the greatest place ever. Perhaps that&#8217;s true, I think, but I want to see for myself.</p>
+
+<p>As I walk around the campus in the middle of the afternoon, I notice it&#8217;s still empty. As far as I can tell, the campus never fills out much more. It turns out 300 people don&#8217;t really fill up a large campus (they barely fill up a large auditorium) which means the whole place feels like a ghost town. The immaculately cleaned, yet mysteriously empty buildings everywhere make just walking around feel creepy and lonely.</p>
+
+<p>I catch up with an old friend of mine, who I&#8217;ll call Rob, who ended up going to Olin. Rob is deeply cynical about the place and we head to the campus of Babson College (a leading business school which is literally located across the sidewalk from Olin) to dish. The Babson campus, although designed by the same hideous architect, feels like a breath of fresh air after Olin&#8217;s imposing emptiness. For one thing, there are students everywhere &#8212; Babson is over ten times the size of Olin. For another, the place is filled with trees, making the whole thing feel smaller and cozier. I don&#8217;t recall a single tree on the Olin campus, for whatever reason.</p>
+
+<p>The mistake everyone makes, Rob explains, is that they think Olin is a school for <em>hackers</em>, This isn&#8217;t unreasonable, since in the computer industry, hackers are often formally called engineers. But Olin is using engineer in its traditional sense, as people who just generally build stuff. Computer hacking makes up just a tiny part of the curriculum and an even smaller part of the culture. And so computer geeks who end up attending Olin just end up feeling left out. Rob is even thinking of taking programming classes at Babson.</p>
+
+<p>Plus, things aren&#8217;t as friendly as they seem. At orientation they were big on insisting Olin was a &#8220;feedback culture&#8221; &#8212; complete with role-playing exercises about how to properly give feedback (which Rob failed; he insists they claimed his invitation to lunch was &#8220;too negative&#8221;) &#8212; but apparently they don&#8217;t actually listen to the feedback much. The kids sitting near Rob at the dinner table all agree. One even pulls out a card they gave him with tips on the proper way to give feedback. (When I ask her later, Lex insists that every new batch of students has its own culture. And this one, she says, enjoys &#8220;shaking things up&#8221; while hers enjoys stabilizing them.)</p>
+
+<p>Despite Olin&#8217;s claims to be &#8220;working with&#8221; students, Rob insists that the place feels a lot more like &#8220;doing to&#8221;. Instead of having rules, for example, they have a loose honor code with provisions like &#8220;respect for others&#8221;. But &#8220;respect for others&#8221; apparently turns out to mean &#8220;respect for authority&#8221; in practice &#8212; a student who ran their own WiFi base station even after the campus IT department asked for it to be taken down was hauled before the student tribunal on charges of showing insufficient &#8220;respect for others&#8221;.</p>
+
+<p>All of this just makes the place feel even more creepy. I think back to the kids tittering about pretending to drink alcohol, about their soliloquies for Olin&#8217;s greatness. <em>Friendly fascism</em> is the term that comes to mind.</p>
+
+<p>It&#8217;s getting late so I try to find Lex to give me a ride home, but we end up at the kegger party. Olin students insist they know how to party just like everyone else, but as you might expect, it&#8217;s the weirdest party I&#8217;ve ever been too. The lights are turned down low and an iTunes visualizer is placed on the TV screen, as some kids try to awkwardly dance. But it&#8217;s not dark or drunk enough for that, so instead the girls go around standing on tip toes and giving each other hugs while speaking in high-pitched voices, before going to get costumes to prance around in.</p>
+
+<p>Finally they break open the keg (there is some humor at how the engineering students can&#8217;t figure out how to operate it) but the root beer doesn&#8217;t improve the scene much. I finally manage to find Lex and prevail upon her for a ride back to the train station and as we ride through the darkness she muses about Olin on the way home. I try to tell her what I feel, but it&#8217;s clear she doesn&#8217;t really want to hear it. To her Olin is a place of wonder; she wants validation, not refutation. I suppose my feedback is &#8220;too negative&#8221;.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">October 10, 2006</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>Aaron, how do you have so much free time?!</p>
+
+<p>I&#8217;m not asking this to be snarky; I&#8217;m really impressed with the variety of stuff you do, and I wonder if you have any tricks or things that you do differently than other people in the time-management area.</p>
+
+<p class="posted">posted by Aaron Brown
+ on October 10, 2006 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>I am completely horrified that you would take one small, small, small group of Olin students (and believe me, I know EXACTLY about whom you are speaking) and assume them to represent the entire culture.  For example, while the &#8220;kegger&#8221; was going on, my friends and I were on a different floor drinking actual beer, and, quite frankly, making fun of the &#8220;kegger.&#8221;  We&#8217;re the group of Olin students who do know how to dance, drink, and throw non-awkward parties.  We&#8217;ll tell you the truth about the Honor Code (which mostly works), the administration (which is, in general, becoming more and more relaxed as we do crazier and crazier stuff), the party culture (which DOES exist, and rarely involves root beer), and anything else you want to hear.  Not all Olin students are cultists, nor are we all non-alcoholic, beard-bearing, geeky-t-shirt-wearing nerds.</p>
+
+<p>Come back and visit.  But don&#8217;t hang out with &#8220;Lex&#8221; this time.  And don&#8217;t think I don&#8217;t know her real name&#8230;</p>
+
+<p class="posted">posted by An Olin student
+ on October 10, 2006 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+
+
+<p class="posted">posted by Yet another Olin student
+ on October 10, 2006 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>Aaron - great essay. You really were able to capture a lot of the feelings here that are so hard for some of us here to put into words.</p>
+
+<p>I think you grow to accept that this place is generally empty - it&#8217;s one of those drawbacks of choosing a place that&#8217;s smaller then most pre-schools. It helps to have a car. There are no coffee shops near here (Oh Diesel, I miss thee), or any other sane way to easily walk off campus at night - it is no cambridge.</p>
+
+<p>And your take on the respect clause is right on - it&#8217;s one of the most abused/problematic parts of out honor code structure. (That, and how there is a large book of rules that can be changed at whim which accompany the honor code in the student handbook, which sort of negates the honor code&#8217;s all-mightiness).</p>
+
+<p>Many of the points that you hit on are unchangeable features - we don&#8217;t have the resources to have 1000 students here. And our student body is so overworked, we&#8217;re ridiculously apathetic about changing the things we can control. We struggle to even fix the things that have the greatest impact in our lives - amending the honor code for example. Olin is a testament to the fact that if you give students who once had lives 60 hours of school a week, it won&#8217;t be hard for them to fill out the remaining 25 with the sports/music/jobs they left behind, at which point there is no time left to really care about the rest - which leaves the administration and a few individuals in even greater control. And what the administration wants, is not always what many of our students desire; the sterility of our campus, or recent censorship guidelines are great examples.</p>
+
+<p>We&#8217;re so caught up in our &#8220;bubble&#8221; that we don&#8217;t realize how ridiculous our college can be sometimes - Once in my life I was appalled at the wifi decision you reference, but now I just accept it as a fact of Olin&#8217;s culture. As you saw this weekend, we thrive in our not-normalness, building our bubble even closer in. Now, I promise you if you came again, I could find you a good beer or a shot of liqueur. We do drink like any other school does, but I can&#8217;t promise you the parties will be any less weird - it&#8217;s very different when you know everyone at a party every single time you party with them. The newness of meeting people doesn&#8217;t exist here.</p>
+
+<p>In summary, I don&#8217;t like to think of Olin as a college persay, as it hardly shares any of the positive student life traits that I like to think of as college. When you think of Olin as a college you get caught up in all of the above problems. Instead, students at Olin are participating in a startup, with the startup investing heavily into each student to become a great founder/employee later in life. Here the experience is extremely well worth it. The work is fun,and so we readily dedicate our lives to work. I know that after four years from the experiences and dedication taught here, I will be one hell of a good employee. (most likely the founder as well ;)) There&#8217;s nothing inherently wrong with this - it&#8217;s just different.</p>
+
+<p>-Michael Ducker 
+Olin College &#8216;09</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.miradu.com">Michael Ducker</a>
+ on October 10, 2006 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>Gotta agree wholeheartedly with An. The biggest issue at Olin, if you asked me, would be the huge gap between the camps of students who are some combination of sexless, hyperactive, intensely religious or sheltered (and will, yes, glaze over and talk cultishly about how no one drinks or does anything bad, ever, when asked anything about the school) and those who are perfectly normal but still rather brilliant and would love to see us talken off the Princeton Review&#8217;s Stone Cold Sober list. Those, my friend, are the cliques Miss Lex told you we don&#8217;t have.</p>
+
+<p class="posted">posted by Yet another Olin student
+ on October 10, 2006 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c6">
+<p>Wdup kid,</p>
+
+<p>Your shit was sent on a list, and I&#8217;ve read your blog. Here&#8217;s what I wrote to the list, just some of my thoughts on your blog.</p>
+
+<p>I have so many things to say about this kid&#8217;s blog, but I won&#8217;t go into all of them.</p>
+
+<p>One thing I will say though is that if &#8216;Rob&#8217; and &#8220;the kids sitting near Rob&#8221; think that Olin isn&#8217;t up to par with their standards and if &#8216;Rob&#8217; is &#8220;deeply cynical about the place&#8221;, then they should get the fuck out of Olin and find a place that does suit them properly because apparently Olin isn&#8217;t good enough for them. Don&#8217;t come a college that we&#8217;re supposed to $@<em>$ing build and then bitch about it being incomplete and not good enough. DUH it&#8217;s not complete yet, you dumb @</em>%$; that is our job as the students here. We&#8217;re suppoed to build the college and make it great for future generations. And FYI, feedback does work here you dumbshit. Why do you think the curriculum changes so much every year, and for the better? It&#8217;s because the previous class gave feedback to make it better for future classes. Olin&#8217;s not perfect (duh), just like no college is. What the hell did this kid and &#8216;Rob&#8217; expect from college? I mean, you gotta be fucking kidding me here. Have you been to other colleges and heard from your friends? Or do you not have any? I wouldn&#8217;t be surprised. Not many colleges have the opportunities and great environment that Olin offers.</p>
+
+<p>FYI, Olin isn&#8217;t as empty and like a &#8216;ghost-town&#8217; like you said. There&#8217;s always people on the great lawn and people in the lounges. Just yesterday was Open&#8217;s coming out day with over 50 people there for a good number of hours. The day before that, I was out with a bunch of people juggling and doing random things; just hanging out. This kid obviously didn&#8217;t really get to talk to that many people if he thinks that everyone at Olin only talks about schoolwork and op-amps. I mean, come on. It&#8217;s just laughable: this kid and his mouth.  I think this kid had some kind of weird fantasy about college and how it&#8217;s supposed to be perfect for him and suit him perfectly, and that it should change for his own selfish pleasure. &#8216;The food isn&#8217;t really my style&#8217;. Boo-hoo. We&#8217;re sorry that our institution doesn&#8217;t have food that you&#8217;re used to (no doubt this kid is a spoiled little pampered momma&#8217;s boy). Go eat at 1000 other institutions and I bet that you won&#8217;t be able to tell me that 5 of them had better food. This kid and his friend Rob can go suck a fat one. And if you got a problem with that &#8216;Rob&#8217;, then you can come talk to me yourself. %#$%ing ignorant, ungrateful kid.</p>
+
+<p>=],</p>
+
+<p>Hector</p>
+
+<p>P.S. If you think that the parties at Olin are &#8216;awkward&#8217; and it was the &#8216;weirdest party&#8217;, then you obviously weren&#8217;t at the last Man-Hall party, which was fuck-awesome. Also, if you truly felt like that then obviously you are not Olin material, and are not awesome like everyone that I know and care about here at Olin. We don&#8217;t fucking want you.</p>
+
+<p class="posted">posted by Hector
+ on October 10, 2006 <a href="#c6" rel="bookmark">#</a></p>
+</div>
+<div id="c7">
+<p>The feeling I get is that this guy came in with a lot of assumptions (or made some very snap judgements upon arrival), and was looking as much for validation of his point of view as he claims those overjoyedly describing Olin were.</p>
+
+<p>&#8220;Everybody just assumes I&#8217;m a prospective student visiting and looks down on me accordingly.&#8221;</p>
+
+<p>I have never witnessed this behavior in all my experiences as a prospective student, in classes with one visiting, or even in the talking-about-them-when-they-can&#8217;t-hear.  We love prospies, and it seems to me like we work really hard to make them feel welcome and involved.</p>
+
+<p>&#8220;After everyone has shared, the class ends, and I leave, disappointed.&#8221;</p>
+
+<p>He doesn&#8217;t say what he&#8217;s disappointed by, or what he was expecting, which seems expecially odd since it seems a pretty positive description of the class.</p>
+
+<p>And yes, the campus looks a little empty on a Friday afternoon at the beginning of a long weekend (or in the halls of the academic center at a time when few classes are running).  Is that terribly surprising?  Isn&#8217;t that a kind of common occurence at college campuses?  Isn&#8217;t it a little presumptuous to say that because things looked a little quiet in the maybe four hours he was going around campus, it always looks like that?</p>
+
+<p>Also, his friend &#8220;Rob&#8221; aside, do we actually have people who are &#8220;deeply cynical&#8221; of the place?  If that&#8217;s how they feel, what are they doing here?  Certainly, we do have students who aren&#8217;t 100% satisfied, and who are willing to be more critical, but Olin has always seemed to me like one of those places that works mostly because people buy into it, and will go ahead and play along with the culture.</p>
+
+<p>&#8220;The mistake everyone makes, Rob explains, is that they think Olin is a school for hackers&#8230;.Computer hacking makes up just a tiny part of the curriculum and an even smaller part of the culture. And so computer geeks who end up attending Olin just end up feeling left out.&#8221;</p>
+
+<p>If &#8216;everyone&#8217; is making this mistake, wouldn&#8217;t that mean that there would at least be enough that they have a culture?  Are there really people who feel left out because they are too interested in computers?  I&#8217;ve felt left out because of the exact opposite condition, though I know I&#8217;m below the average on computer literacy.</p>
+
+<p>He has some very strange opinions of our campus, including &#8220;I don&#8217;t recall a single tree on the Olin campus&#8221;.  This is one of those statements that emphasizes my inpression that he was only seeing what he wanted to see from this.  No, our trees aren&#8217;t as tall as the ones at Babson (because they were all planted within the last five years&#8230;.).  But they are around, and in kind of conspicuous places (i.e. in front of the dorms, in the middle of the O).  When the point you want to make is that the school is empty and creepy feeling, why bother payingattention to the the actual conditions?</p>
+
+<p>Basing one&#8217;s opinion of the honor code on one case of somebody who wasn&#8217;t following IT policy misses a lot of the point of the honor code, and the reason people like it.  There was no mention made of the comfort and trust it allows in daily life (unlocked doors, cash sitting on white boards), or the academic allowances from it (take home tests, etc.).</p>
+
+<p>And, really, basing an assumption on Olin&#8217;s party culture on Alex Wheeler&#8217;s root beer kegger is pretty ridiculous.  It was mentioned repeatedly throughout that event that it was a silly imitation of a party, and that we ought to go find someone from Man Hall down below who could explain what people are supposed to do with a keg.  And those are girls who go around hugging each other and speaking in high-pitched voices regardless of atmosphere.  They&#8217;re affectionate, and have high-pitched voices.</p>
+
+<p>So yes, this is &#8220;Olin from an outsider&#8217;s perspective&#8221;.  But not a terribly broad look at Olin, nor a terribly close one, nor (as best as I can tell) a terribly typical one.</p>
+
+<p>Love,
+Bonnie</p>
+
+<p class="posted">posted by Bonnie
+ on October 10, 2006 <a href="#c7" rel="bookmark">#</a></p>
+</div>
+<div id="c8">
+<p>I would say that if this is what you think of us, you should spend more time at Olin.  Except that really, I&#8217;d rather you didn&#8217;t.</p>
+
+<p class="posted">posted by Another Olin student
+ on October 10, 2006 <a href="#c8" rel="bookmark">#</a></p>
+</div>
+<div id="c9">
+<p><i>Instead of having rules, for example, they have a loose honor code with provisions like &#8220;respect for others&#8221;. But &#8220;respect for others&#8221; apparently turns out to mean &#8220;respect for authority&#8221; in practice &#8212; a student who ran his own WiFi base station even after the campus IT department asked for it to be taken down was hauled before the student tribunal on charges of showing insufficient &#8220;respect for others&#8221;.</i></p>
+
+<p>The student in question wasn&#8217;t dragged before the Honor Board by IT.  The complaint was brought by other students who were unable to connect to the internet because this student&#8217;s ad-hoc network was interfering with their wireless internet connections.</p>
+
+<p class="posted">posted by Sam
+ on October 10, 2006 <a href="#c9" rel="bookmark">#</a></p>
+</div>
+<div id="c10">
+<p>As a suggestion, although I don&#8217;t know this &#8216;campus visiting&#8217; series means - what - exactly. If you are after something - in that 3, 4 years slot of your life - probably you need to get down to write them down and seek compromise - there&#8217;d be many inputs from the readers of this blog, I assume.</p>
+
+<p>I just wonder why not try England or UK - or say Europe. There might be less connection between &#8216;Silicon Valley (instant wealth)&#8217; thing and computation, society is generally more left leaning (generally, now it&#8217;s more of &#8216;at transitions&#8217;- difficult ones) - but you might like there better - for a while and come back. London. Berlin. etc.</p>
+
+<p>Just a suggestion.</p>
+
+<p class="posted">posted by a.kusaka
+ on October 10, 2006 <a href="#c10" rel="bookmark">#</a></p>
+</div>
+<div id="c11">
+<p>I would like to take direct issue with the comments that Mike Ducker made.</p>
+
+<blockquote>
+  <blockquote>
+    <p>I think you grow to accept that this place is generally empty - it&#8217;s one of those drawbacks of choosing a place that&#8217;s smaller then most pre-schools. It helps to have a car. There are no coffee shops near here (Oh Diesel, I miss thee), or any other sane way to easily walk off campus at night - it is no cambridge.</p>
+  </blockquote>
+</blockquote>
+
+<p>I have not &#8220;grown to accept that Olin is empty,&#8221; as Ducker implied the majority to do.  I would be willing to bet, in fact, that the majority of Oliners have not, either, but I wouldn&#8217;t state that, as it&#8217;s rather rude to assert on a public web space exactly what other people think.</p>
+
+<blockquote>
+  <blockquote>
+    <p>And your take on the respect clause is right on - it&#8217;s one of the most abused/problematic parts of out honor code structure.</p>
+  </blockquote>
+</blockquote>
+
+<p>How about an &#8220;I think&#8221; in there?  I disagree strongly with this statement.  I&#8217;ll bet many other Oliners do, too.</p>
+
+<blockquote>
+  <blockquote>
+    <p>And our student body is so overworked, we&#8217;re ridiculously apathetic about changing the things we can control.</p>
+  </blockquote>
+</blockquote>
+
+<p>No, Ducker.  I&#8217;m not.  Nor are the other 100+ students serving on committees, those working their asses off to change the curriculum, those building stronger relationships with Wellesley, and those generally make Olin a better place.</p>
+
+<blockquote>
+  <blockquote>
+    <p>&#8230;at which point there is no time left to really care about the rest - which leaves the administration and a few individuals in even greater control. And what the administration wants, is not always what many of our students desire; the sterility of our campus, or recent censorship guidelines are great examples.</p>
+  </blockquote>
+</blockquote>
+
+<p>There are students working on all sides of that.  For example, the Office of Student Life recently outlawed weapons, but with some pressure put on the right officials in a public setting makes it so as long as you claim that your knives, swords etc. are for martial arts purposes, you&#8217;re just fine.  Also, there are students protesting the student publications guidelines, even as you and I waste time commenting about it.</p>
+
+<blockquote>
+  <blockquote>
+    <p>We&#8217;re so caught up in our &#8220;bubble&#8221; that we don&#8217;t realize how ridiculous our college can be sometimes</p>
+  </blockquote>
+</blockquote>
+
+<p>I realize exactly how ridiculous our college is.  It is ridiculous that these people, who are smarter, better socialized, and more intense than most any other cross-section of modern society are given a chance to live together, for close to free, for 4 years.  That&#8217;s fucking ridiculous.  It&#8217;s ridiculous that while here, we can breathe fire, brew home-made beer, go rafting on Lake Waban on Wellesley College campus, stay up &#8216;til 5 talking about music, sit around and smoke pot, use school money and supplies to go rock-climbing, or do whatever else you want.  I, for one, am not &#8220;so caught up in the bubble,&#8221; that I don&#8217;t realize this; I was in the North End Saturday night with friends from Wellesley and beyond, and most the way to Framingham Sunday night with Olin alumni.  On Saturday I came back to a party, where several cases of beer were consumed at flip-cup, while in another of the party&#8217;s suites, people were just hanging out and talking.</p>
+
+<p>So please, please, please, don&#8217;t talk in generalizations that just aren&#8217;t true.</p>
+
+<blockquote>
+  <blockquote>
+    <p>Now, I promise you if you came again, I could find you a good beer or a shot of liqueur. We do drink like any other school does</p>
+  </blockquote>
+</blockquote>
+
+<p>I would argue with that, and say that there is less pressure to drink here than I have seen at other schools.</p>
+
+<blockquote>
+  <blockquote>
+    <p>but I can&#8217;t promise you the parties will be any less weird - it&#8217;s very different when you know everyone at a party every single time you party with them. The newness of meeting people doesn&#8217;t exist here.</p>
+  </blockquote>
+</blockquote>
+
+<p>You obviously don&#8217;t attend all the parties on campus, and it would be really nice if you didn&#8217;t post, publicly, &#8220;facts&#8221; like this.  I, personally, have hosted parties that were 1/2 Wellesley students, and you didn&#8217;t know any of them.</p>
+
+<blockquote>
+  <blockquote>
+    <p>In summary, I don&#8217;t like to think of Olin as a college persay, as it hardly shares any of the positive student life traits that I like to think of as college.</p>
+  </blockquote>
+</blockquote>
+
+<p>This comment brings me to a side-point: Most of all, I would like to point out that your degree is only worth what those who come after you make of it.  That is to say, if the school turns out like Mike Ducker has described it, no student of quality (academic, social, or other) would attend, and the school&#8217;s reputation would go down the drain.  Spreading ideas like that only serves to weaken your own degree by discouraging people like me, and the other people who are still passionate about this place, from showing up.</p>
+
+<p>So there, I disagree with pretty much everything Ducker said, especially the part where he implies that the majority of the college feels the same way he does.</p>
+
+<p>Which brings me to one last point of disagreement: the honor code.  I still consider Ducker a friend, and would trust him with anything.  I&#8217;m pretty angry at him for having taken liberty with my school, and for implying that I think poorly of it, or at least that I have come to accept it as anything but wonderful.  But hey, we Oliners stick together, right?</p>
+
+<p class="posted">posted by George Jemmott
+ on October 10, 2006 <a href="#c11" rel="bookmark">#</a></p>
+</div>
+<div id="c12">
+<p>Reply to Hector.  While your passion to defend your school is admirable - as far as it goes - you seem to be confused as to whom &#8220;this kid&#8221; is you keep referring to.  Let me give you a tiny clue:
+http://en.wikipedia.org/wiki/Aaron_Swartz</p>
+
+<p>What&#8217;s frightening is how sketchy and incomplete is that profile of his accmplishments.  Seriously, though, do some research before you go flaming off: it will help you frame your comments within the proper context.</p>
+
+<p class="posted">posted by Reg Aubry
+ on October 10, 2006 <a href="#c12" rel="bookmark">#</a></p>
+</div>
+<div id="c13">
+<p>I can&#8217;t say I&#8217;m shocked at your conclusions based on the sample of students you happened to meet.  I am however, shocked at both Hector and Michael&#8217;s responses for opposite reasons.  I am apalled that Hector would attack you for your opinions, ironically reinforcing your belief that feedback is not taken well at Olin.  I&#8217;m possibly even more strongly revolted by, but not entirely surprised that Michael would speak his opinions as if they represented a larger part of the community.  The truth is that the Honor Code hasn&#8217;t changed because it was written by us and we still like it.  Like any set of rules, it can be abused, and we are constantly encouraging discussion about what it means to everyone here and how it should be used.  One clause I find particularly important is &#8220;Do Something&#8221; which urges students not to sit back and let problems fester.  By posting here, I am invoking it.  I will further invoke it in the form of pointed e-mails to the people in question very shortly, initiating a process of negative feedback that I can only hope will induce change.</p>
+
+<p>I know it&#8217;s hard for you to believe the things I do about Olin College after being given the Grand Tour by a select few of our more fringe students, and then having your ideas supported by someone who exists on the other fringe.  On the other hand, the fact that these people are allowed to exist at Olin is a sign of our culture, which I truly believe to be widely accepting and benevolent.  At Olin, people are free to be who they want to be.  For some, this is a liberating change.  For others, it seems that it fails to provide them with the negative feedback they need to discover &#8220;Hey, having a nappy chin beard makes me look unemployable&#8221;, or &#8220;Talking like fingernails on a chalkboard isn&#8217;t cute; it&#8217;s annoying, possibly even painful&#8221;.  These are concepts that are not lost on 90% of the student population here.  In fact, I&#8217;ve been involved in many a doomsday scenario discussion where we discussed the inescapable eventuality that these exact people will soon enter the world and reflect back on Olin.  Every outcome appears to be grim.</p>
+
+<p>You have essentially no incentive to ever come back to Olin and reassess your findings after being treated to what seems to be one of the most depressing accounts of a college visit I&#8217;ve ever read, and then being insulted and lambasted by what appears to be an angry 12 year old who just learned the F-word.  If you ever find yourself in the Boston area, in a forgiving mood, and wanting a free meal, I will extend this offer to you.  My suitemates and I will treat you to lunch or dinner (transportation included) anywhere in the Greater Boston area and talk to you about being an <em>average</em> Olin student.  We promise to shave, wear big-people clothing, and speak at a frequency safe for glassware.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.olin.edu/student_life/meet_our_students.asp#2006">Lee Edwards</a>
+ on October 10, 2006 <a href="#c13" rel="bookmark">#</a></p>
+</div>
+<div id="c14">
+<p>Aaron, I&#8217;d like to start off by saying that I think you&#8217;re a very effective writer. I read your posts pretty regularly, and if there&#8217;s one thing I notice consistently it&#8217;s that your writing craft always seems to gracefully support the points that you&#8217;re trying to make. However, I also know that an effective writer and an unbiased writer are easily confused by some readers, so I&#8217;d like to offer a disclaimer to those who read the post: an outsider&#8217;s one-day visit to a place, visiting one class and under one tenth of the population, cannot accurately represent the place. The resulting impressions are impressions of their experience, not necessarily reflections of reality.</p>
+
+<p>Overall, I feel that the tone that you&#8217;re going for in the piece is negative, but your tone doesn&#8217;t always seem to gel with your observations, and your observations don&#8217;t always seem to gel with what I know as my daily reality.</p>
+
+<p>That said, I guess I&#8217;d like to address some more specific points of your post as best I can.</p>
+
+<p>First, everyone doesn&#8217;t agree that Comp Arch is the best-taught course on campus. I took that class. I thought that it was well taught, and the professor IS funny. That class is one of the most effective uses I&#8217;ve ever seen of a tablet PC in the classroom. However, it sounds like you came for a review day, which means that you saw a bunch of students collectively sharing knowledge and preparing for a test. If you&#8217;re disappointed in the &#8220;teaching&#8221;, then keep in mind that it&#8217;s because you didn&#8217;t actually see any. It was collaborative review time. Everything else that you say about the class actually sounds overwhelmingly positive, so it seems like that&#8217;s the only thing that could make you come away &#8220;disappointed&#8221;.</p>
+
+<p>I&#8217;m sorry that you felt you were looked down upon in class as a prospie. I&#8217;d echo what others said earlier and say that I generally feel that we treat prospectives very well. Maybe what you were actually experiencing is awkwardness because students knew that you weren&#8217;t a prospie but didn&#8217;t know what you might be instead and it didn&#8217;t feel polite to ask?</p>
+
+<p>I can&#8217;t tell if your ninth paragraph (&#8220;this is what happens when you have engineers build an institution&#8221;) is supposed to be positive or negative. All of the listed evidence sounds positive, but the final phrase still sounds negative in the context of the piece. I continually notice this mismatch throughout your post.</p>
+
+<p>&#8220;Lex and her circle&#8221; ARE Olin cultists, in a way. When you&#8217;re building something, you do become attached to it, but the level of attachment and the ability to rationally distance yourself from it vary with the individual. Not all students are cultists, and we talk about Olin very differently to people within the community (what needs to change mode - primarily negative) vs. people from outside (what&#8217;s really great mode - primarily positive). I would argue that the literature and admissions staff of most institutions do the same thing. At such a small, new school, we all take on the role of admissions staff externally to a certain extent.</p>
+
+<p>I don&#8217;t know who Rob is, but I&#8217;m going to have to respectfully disagree with his statement that Olin isn&#8217;t a school for hackers. In my opinion, Olin is the ideal school for hackers. I consider myself primarily a computer hacker and I love it here. There is so much opportunity in and out of the curriculum to just pursue projects and wild ideas that I find interesting and actually receive credit for it. And most of the school&#8217;s resources (computer equipment, faculty, electronic components) are available for personal projects with only minor caveats. If anything, I&#8217;d say that non computer geeks are the ones who feel more left out here (and I&#8217;ve had several conversations with friends about that exact occurrence.)</p>
+
+<p>It&#8217;s apparent that you only have a cursory understanding of the issues surrounding the one honor board case that you cite. The student was brought before the honor board because their wireless AP was interfering with other students&#8217; ability to connect to the actual wireless network. That&#8217;s the only reason it came before the honor board: it was a respect for others issue. Not a simple case of breaking written rules.</p>
+
+<p>Finally, in response to the entire sub-thread about &#8220;kids pretending to drink alcohol&#8221;. Please don&#8217;t let your one experience with an Olin &#8220;party&#8221; color your impressions of the entire student body. Just because Olin is smaller doesn&#8217;t mean that our population is more homogeneous than at other schools. We have a wide range of people ranging from &#8220;never leaves their room&#8221; to &#8220;never sleeps in their room&#8221;, just like at any school. I&#8217;m not sure if you were expecting people passed out in the hallways or what. Luckily there&#8217;s less of that here than most places because we have a little more respect for each other. But that doesn&#8217;t mean that a root-beer kegger is a typical Olin party any more than it would be a typical party elsewhere. I&#8217;m pretty sure the root-beer kegger was actually meant to be ironic. It&#8217;s just a function of the people you happened to hang out with. There are all kinds of people everywhere. We&#8217;re no different from any other school in that regard, so take your experience with a grain of salt and please don&#8217;t transform a single observation into a school-wide norm. That&#8217;s a dangerous proposition with any group larger than one.</p>
+
+<p>Whew, OK that was long. I wouldn&#8217;t worry so much about replying to this (I&#8217;m sure many more will responses will be coming) but I know that you have an audience, and I don&#8217;t want you to color their perceptions of our school just because you can make a very limited experience sound convincing by way of effective writing.</p>
+
+<p>Finally, a warning for the future (probably of limited usefulness at this point): Don&#8217;t use pseudonyms on Olin students and expect it to stay anonymized for anyone within the community. We&#8217;ve only got 300 students. Small size has both positive and negative consequences.</p>
+
+<ul>
+<li>Sean McBride</li>
+</ul>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.seanmcb.com">Sean McBride</a>
+ on October 10, 2006 <a href="#c14" rel="bookmark">#</a></p>
+</div>
+<div id="c15">
+<p>An addendum: Some of my peers have expressed concern that I was trying to speak for the entire student body in my post. Like most blog comments, I was speaking for myself, from my own observations and concerns regarding my personal experiences at the school. While it is my personal belief that there are others who share many parts of my thinking, as one can see by the other posts, there are many different and opposing views to mine at Olin.</p>
+
+<p>-Michael Ducker 
+Olin College &#8216;09</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.miradu.com">Michael Ducker</a>
+ on October 10, 2006 <a href="#c15" rel="bookmark">#</a></p>
+</div>
+<div id="c16">
+<p>I didn&#8217;t mean to present this as a definitive, representative word about Olin. It is what it is: one person&#8217;s experience. But I&#8217;m glad that others have chosen to share theirs here.</p>
+
+<p>It is surprising, though, that the people defending Olin have all chosen to remain anonymous while the people criticizing it have signed their names. Usually it&#8217;s the opposite.</p>
+
+<p>Hector: The problem is that Olin is stuck in between; it neither trusts its students enough to let them build it nor is finished enough to let them fight enough. (And my comment about the food was in reference to Google.)</p>
+
+<p>Bonnie: Coming in, as I think the article suggests, I wanted to <em>love</em> Olin. I came because I thought it would be amazing. To see the other side of it took me quite a while.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on October 10, 2006 <a href="#c16" rel="bookmark">#</a></p>
+</div>
+<div id="c17">
+<p>Aaron,
+     As a new student to Olin College this year, I was disappointed to read your weblog insulting what we are trying to build here. Most (though not all) of the students with whom I interact everyday take great pride in their school, as they are personally responsible for its reputation, its culture, and everything else that Olin is. Many of our students turned down very prestigious, ivy-level colleges to come to unaccredited little Olin, not to be disappointed in it, but to risk their future in making it what they feel it should be. I will rely on the &#8220;Respect for Others&#8221; clause of the Honor Code when I respectfully disagree with almost everything Michael Ducker says, deferring to George for the details. However, I have no less respect for him as a person, and will treat him no differently, because that is an important part of the culture here.
+     Also, I was at the root beer kegger that you attended. I take offense at the insulting manner in which you describe the wonderful seniors who hosted what was actually a 21st birthday celebration, as well as the way in which you describe the party go-ers. Possibly a little background is in order: this was a party for a student who doesn&#8217;t drink, with a group of friends who are mostly (though certainly not universally) abstinent from alcohol. I find this group of people to be an important support group for my similar decisions, as well as a set of wonderful people I am proud to call friends. Please don&#8217;t accept our invitation to our brand of party, just to berate and insult us later. Of course there are parties with alcohol on campus. I vehemently oppose underaged drinking, but I hold the respect and trust of my schoolmates above all us and will respect their decisions as long as they respect mine. You&#8217;ll find this is a fairly mainstream view here. I would also like to remind the other Olin students posting here or on the mailing list to stand by this view and not to belittle root beer keggers or high, squeaky voices, as I enjoy both.
+Thank you for accepting my negative feedback, and please revisit Olin anytime. I would love to try to show you why most people here love their school so intensly.</p>
+
+<p>-Jeff Moore, Olin College C/O 2010</p>
+
+<p class="posted">posted by Jeff Moore
+ on October 10, 2006 <a href="#c17" rel="bookmark">#</a></p>
+</div>
+<div id="c18">
+<p>Sorry Jeff, I didn&#8217;t mean to be insulting. I was just trying to describe what I saw.</p>
+
+<p>To be clear, I think Olin has a lot of really impressive aspects as well as some less-than-ideal ones. But nobody should take my one day&#8217;s worth of experience as the final word, nor assume that what I like and dislike will be the same for them.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on October 10, 2006 <a href="#c18" rel="bookmark">#</a></p>
+</div>
+<div id="c19">
+<p>Aaron, I would like to respectfully disagree with your assertion that &#8220;It is surprising, though, that the people defending Olin have all chosen to remain anonymous while the people criticizing it have signed their names. Usually it&#8217;s the opposite.&#8221;
+There are at least four very well-written &#8220;defenses&#8221; of our school posted above that have been signed.</p>
+
+<p class="posted">posted by Sylvia Schwartz
+ on October 10, 2006 <a href="#c19" rel="bookmark">#</a></p>
+</div>
+<div id="c20">
+<p>Just making a point about the &#8220;anonymity&#8221; of those defending Olin; George Jemmott, Lee Edwards, Sean McBride, and I are not anonymous.  I only see one anonymous &#8220;defending&#8221; comment and one anonymous &#8220;offending&#8221; (?) comment with regards to Olin, minus the few that seem to be defending or attacking you personally.</p>
+
+<p>And, I&#8217;d like to stand up for the so called &#8220;sexless, hyperactive, intensely religious or sheltered&#8221; students.  Everybody knows that sex, drinking, and other acts of debauchery happen.  Not everyone talks about them because they have a lot less influence on their personal experience here, but we will acknowledge their existence if asked the same way non-participants would about sports teams, religious groups, fire breathing, and Republicans.  Generally, we&#8217;re pretty good about not judging those who make different choices.  At any school, you will find people who participate in these activities and people who don&#8217;t, and there is often a pretty wide disconnect in the cultures.  The root beer kegger did have a back room with alcohol, but it&#8217;s not what that party was for.</p>
+
+<p class="posted">posted by Bonnie
+ on October 10, 2006 <a href="#c20" rel="bookmark">#</a></p>
+</div>
+<div id="c21">
+<p>&#8220;To be clear, I think Olin has a lot of really impressive aspects as well as some less-than-ideal ones. But nobody should take my one day&#8217;s worth of experience as the final word, nor assume that what I like and dislike will be the same for them.&#8221;</p>
+
+<p>Aaron, I agree completely. I guess the &#8220;just my experience&#8221; part just wasn&#8217;t clear to me in the post.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.seanmcb.com">Sean McBride</a>
+ on October 10, 2006 <a href="#c21" rel="bookmark">#</a></p>
+</div>
+<div id="c22">
+<p>Aaron,</p>
+
+<p>While your perspective may have been formed a bit too quickly, overall I&#8217;d like to thank you for telling the truth.</p>
+
+<p>I have noticed the &#8220;friendly fascism&#8221; from the very beginning (I am a freshman now).  On one of the first nights, we had a floor meeting in West Hall about dorm policies where the atmosphere was supposed to be &#8220;open&#8221; and &#8220;understanding.&#8221;  After realizing that people were avoiding the sensitive issues, I started speaking up about drinking, sex, etc.  The awkwardness/fear that I sensed from the rest of my class was overwhelming, so now I understand that &#8220;openness&#8221; excludes any real conversation.</p>
+
+<p>I do not feel socially accepted by a significant portion of my class.  This is due mostly to the fact that I have sex every day and drink on the weekends - entirely private things - rather than any rudeness/unfriendliness that I show in person.  People love to say that they respect everyone regardless of their lifestyle, but this is bullshit.</p>
+
+<p>In spite of these things, I am optimistic and I feel you should be too.  Consider that during the first few years of Olin, there were no upperclassmen to show the freshmen &#8220;the ways&#8221; of college, for example how to party.  Now that we have upperclassmen, things are getting better.  I know that certain members of my class hold the specific desire to corrupt Olin further.  We have only been here for one month.  Give us time.</p>
+
+<ul>
+<li>Matt Bowes</li>
+</ul>
+
+<p class="posted">posted by Matt Bowes
+ on October 10, 2006 <a href="#c22" rel="bookmark">#</a></p>
+</div>
+<div id="c23">
+<p>While I don&#8217;t agree with everything you have to say, I certainly appreciate the perspective you&#8217;ve given. Your article has sparked a lot of interesting discussion on campus that has helped me figure out, as a freshman, a lot about how I view my school.</p>
+
+<p class="posted">posted by Nikki Lee
+ on October 10, 2006 <a href="#c23" rel="bookmark">#</a></p>
+</div>
+<div id="c24">
+<p>I would like to comment on &#8220;building&#8221; Olin College.  As a bit of background, I am currently Olin&#8217;s VP of Campus Life (a position formerly held by Lee Edwards, who commented on this post previously), and deal regularly with issues that fall under the heading of &#8220;building Olin College.&#8221;  The most recent example of this are the so-called &#8220;censorship&#8221; guidelines.</p>
+
+<p>They are in fact titled &#8220;publication guidelines.&#8221;  The Board of Trustees wished us to have something in place to encourage student publications to carefully consider the possible consequences of any and all material that they publish.  The first draft was not written by a student, and has been essentially rejected by the student body.  We (a 5-student committee) have drafted a new set of guidelines, approximately 3 sentences in length, and basically saying &#8220;abide by the honor code, and if you are unsure, ask somebody.&#8221;  This draft will be revised further by the entire student government, then shared with the student body along with further solicitations for feedback before being sent to the Board of Trustees at the end of the month.</p>
+
+<p>In telling you this, I would like you to notice a few things: guidelines are not imposed on us with no hope of changing them, and are not imposed on us at all without first soliciting feedback unless absolutely necessary (the previously mentioned weapons guideline was in response to a Massachusetts state law requiring us to have such a guideline).  Also, we are certainly trusted enough to be allowed to &#8220;build&#8221; large parts of the College (the Honor Code, the Constitution, guidelines, etc.), and &#8220;they&#8221; (the administration) has stopped nobody from &#8220;fighting&#8221; for change.  My position is evidence for this, if nothing else.  As well as serving on the student government Executive Board, I serve on the Board of Trustees&#8217; Student Life Subcommittee (which has on the order of 5 other members), and my voice is certainly not ignored.  (There are student representatives on other BOT committees, as well.)  I would then like you to note that there are certainly students passionate enough about Olin to put lots of time and effort into improving it.</p>
+
+<p>I will not say that improving Olin is easy.  It isn&#8217;t.  It can take time to affect change.  The real difference with Olin, however, is that change is encouraged, and the &#8220;time&#8221; it takes is often on the order of weeks (occasionally months, as with more major changes, such as curriculum or scheduling, etc.).  I certainly don&#8217;t feel powerless to change Olin.  No Olin student should feel powerless, in fact.  Feedback is solicited all the time, from multiple sources - student government, faculty, staff, the Office of Student Life, etc.  An Olin student is only made powerless by his or her own apathy.</p>
+
+<p>There is so much more I could say on this subject, but unfortunately I have a Partial Differential Equations problem set due tomorrow, and it really can&#8217;t wait.</p>
+
+<p>Angela Sharer
+Class of 2009
+Council of Olin Representatives
+Vice President of Campus Life and Ambassador to Babson
+angela.sharer@students.olin.edu</p>
+
+<p class="posted">posted by Angela Sharer
+ on October 10, 2006 <a href="#c24" rel="bookmark">#</a></p>
+</div>
+<div id="c25">
+<p>&#8220;Students here seem a little less embarrassed about getting things wrong in front of everyone; they&#8217;re happy to describe what they did from their seats.&#8221;</p>
+
+<p>Oh man, I totally got that review problem wrong in Comp Arch!  Can I get a pseudonym?</p>
+
+<p class="posted">posted by Jeffrey DeCew
+ on October 10, 2006 <a href="#c25" rel="bookmark">#</a></p>
+</div>
+<div id="c26">
+<p>Aaron, you&#8217;re visiting all these schools; what are you looking for? Do you have an ideal in mind? Just looking for ideas? Are you considering becoming a teacher? The answers might make an interesting blog entry.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://myweb.cableone.net/gmcnutt/">Gordon</a>
+ on October 10, 2006 <a href="#c26" rel="bookmark">#</a></p>
+</div>
+<div id="c27">
+<p>I was debating whether or not to post, but I ultimately decided to.</p>
+
+<p>I&#8217;m an alumni, one of the first graduating class. I am an Olin cultist. Among fellow Olin students/alumni, I will bitch and moan with the best of them. When talking to prospective students, I am selling a product. Of course I&#8217;m going to accentuate the positive. Olin is something that I helped to create and I have a ton of ownership in it and while I recognize the problems, I&#8217;m excited to tell people about what has gone right. You&#8217;ve created a thing or two of your own, I know &#8212; I have to imagine that when &#8220;selling&#8221; your creations you talk about the good stuff, even though you know it may not necessarily be perfect, right? So understand that when people saw you as a prospie, they were seeing you as a customer. When we get people like reporters (as we did in IEEE Spectrum, for example, last year) we&#8217;ll be a little more candid, because we&#8217;re not trying to convince them to come. I think it&#8217;s reasonably standard practice.</p>
+
+<p>Anyhow, overall, I just wanted to say that having invested SO much of myself in Olin, I am incredibly proud of it. I&#8217;m proud of the way it prepared me for the &#8220;real world&#8221;, of the people we&#8217;ve attracted since opening our doors, and of the fact that within five short years we have people like you interested in checking us out and writing about us. I&#8217;m also proud that this is sparking so many discussions at Olin (or so I hear). This is good. This is exactly why Olin is a great place &#8212; because someone will take this discussion and DO SOMETHING about it. I hope that your friend &#8220;Rob&#8221; will be involved in that, if he is so disenchanted. Every year, the freshmen need to find their own reason to make their mark on the school. Maybe this is the motivation this year.</p>
+
+<p>There will always be Olin cultists because someone will always find their happy niche and be really thrilled about it. I&#8217;m glad for those people. It is up to the others who are unhappy to really make it something they can be happy with. Olin will be forever changing and evolving because of this. There is no &#8220;right&#8221; state. There is a &#8220;better&#8221; state. Rather like evolution, it takes a while to see and some strange mistakes will happen along the way, but it will happen.</p>
+
+<p>Thank you for your insights. As a very wise frosh on here said, it&#8217;s good for people to really think about what Olin means to them. I hope you&#8217;ll have a chance to visit Olin in a few years&#8217; time to see how things have changed.</p>
+
+<p class="posted">posted by Mikell Taylor
+ on October 11, 2006 <a href="#c27" rel="bookmark">#</a></p>
+</div>
+<div id="c28">
+<p>First of all, I&#8217;m &#8220;Lex,&#8221; as many of the Oliners have undoubtedly figured out long ago. My name is Mel, my usual handle is mchua, and I have been called a hacker by other hackers; those are all the credientials I&#8217;ll present at this time.</p>
+
+<p>Note that I&#8217;ll be making sweeping generalizations in this reply. These are my own viewpoints, narrow as they may be. I would like to expand them. Consider this an open invitation (to anyone) to talk about anything (including and especially negative feedback). Hell, I&#8217;ll come visit you if you&#8217;ll have me; I may be an odd guest, but I&#8217;ll do my best to get to know you on your own turf. And I can only speak for myself, but I hope that others would and will say the same thing I just have. To put my money where my mouth is, my email is mallory dot chua at students dot olin dot edu. Please spam.</p>
+
+<p>Background: Aaron was at the Olin panel at the Wikimania conference this summer and came up to talk to us (students &amp; profs) afterwards, mentioning he was interested in a visit. I ran across my notes to that effect a few weekends ago and sent an email offering a ride from the T. So I don&#8217;t really know Aaron. I would have done the same for anyone who&#8217;d asked about visiting Olin (or getting a ride to somewhere or questions answered about something), and I believe a reasonable number of Oliners (from different groups) would have done the same, so it was to an extent purely chance that Aaron got the viewpoint of Olin that he did. He could easily have gotten a different one; it wouldn&#8217;t have been more accurate or complete, just different.</p>
+
+<p>I don&#8217;t think Aaron&#8217;s post was badly intended. In fact, much of it&#8217;s great, if a melodramatic. There were many truths in it, some of which we have a hard time admitting to ourselves. However, the impression was also incomplete for a variety of reasons (not the least of which is that you can&#8217;t get to know a school in a day). Aaron, I apologize for not being able to show you the full range of this school; it&#8217;s tough to show someone else a viewpoint that you don&#8217;t share. I&#8217;m glad to see all the different responses - especially the conflicting and contradictory ones, especially the ones I completely disagree with - to this blog post. Ironically, our replies to this blog entry may give him (and us) a better idea of what Olin is like than his visit actually did.</p>
+
+<p>Others have made excellent points about what Olin &#8220;actually is like&#8221; from their viewpoint. I won&#8217;t rehash them here.</p>
+
+<p>I&#8217;ll be the first (well, would have been the first had I checked my email earlier) to admit that my views, friends, and life are not that of the &#8220;average&#8221; Oliner, if there is such a thing. Folks, there is no &#8220;average&#8221; Oliner. And I&#8217;m not being public-relationsy here. I&#8217;m optimistic, hard of hearing, asexual, geeky, don&#8217;t drink (until I&#8217;m 21; give me 7 months), insomniac, and I&#8217;m sure you could rattle off a long string of surface adjectives here; you could rattle a similar list off for any of us, and the lists would all be different, although some would occur more frequently than others. But I&#8217;ve never heard that any adjective other than &#8220;non-Oliner&#8221; (by school attendance) makes you a non-Oliner. My point is that adjectives != people; when I get to know you, I want to get to know you, not the tag cloud surrounding you. People shouldn&#8217;t be pigeonholed. Kat wrote a particularly good post on this some time back. (http://katzor.blogspot.com/2006_07_01_katzor_archive.html#115297768084009037)</p>
+
+<p>Aaron, I&#8217;m sorry that you don&#8217;t feel like you were able to give your feedback on Olin on the way back; I would greatly like to hear it if you&#8217;ve got any more thoughts, and will glady email you or come by in person the next time I&#8217;m in Cambridge. I&#8217;m hearing impaired and rely heavily on lipreading (which I can&#8217;t do that very well in a darkened car), which leads to me musing more than listening when I&#8217;m driving at night, as you noted - but I should have warned you about that, so that&#8217;s my fault. I apologize if that made you feel like you weren&#8217;t able to speak freely, but I do hope you&#8217;ll take up the offer to talk again if there are other things you&#8217;d like to say. As an aside, it&#8217;s usually considered good form to give people (and institutions) feedback to their face instead of having them find out through other channels; it&#8217;s not something I&#8217;m upset about in the slightest, but might be something to consider in the future (have you shown any of the other schools what you wrote about them?) especially if you want to make any changes happen.</p>
+
+<p>I also hope you&#8217;ll take Lee (or other Oliners&#8217;) offers to visit again and see the school from their point of view. You&#8217;ll find it a very different place.</p>
+
+<p>Finally, please don&#8217;t think that the more cynical and critical among us are the only ones that see Olin &#8220;as it really is,&#8221; or that they are the only ones &#8220;unafraid to speak the truth.&#8221; They do speak truth; it is, like all truth, part of a larger story.</p>
+
+<p>Thanks for listening.</p>
+
+<p class="posted">posted by Mel Chua
+ on October 11, 2006 <a href="#c28" rel="bookmark">#</a></p>
+</div>
+<div id="c29">
+<p>&#8220;The work seems quite impressive; I wonder if it could be published in an actual journal.&#8221;
+  &#8212;Aaron Swartz</p>
+
+<p>First of all, thank you for this positive comment.  I enjoyed working on this paper, and I guess I still have quite a bit enthusiasm when I grab the napkins at the lunch table&#8230;</p>
+
+<p>As an informational sidenote in response to the shielded critism I sensed, this research work was a continuation of research that was done the year before, by an Olin freshman and faculty from Olin and Babson.  The paper crafted from that year has recently been published in IEEE Transactions; I can give you more information if you are interested in reading it.  As for the paper that I was involved in, it has been submitted to Discrete Applied Mathematics (DAM).</p>
+
+<p>I think this underlies an important quality of Olin students.  This is by no means the only research paper created by students&#8212;in fact, we have had a number of papers published in &#8220;actual journals&#8221;, and a number of presentations at &#8220;actual conferences&#8221;.  In addition, students can (and do) get involved in this undergraduate research any time&#8212;even as freshmen.  I feel it is important that at Olin, you are encouraged to tackle large problems, such as getting published in an actual journal, as early as freshman year.</p>
+
+<p>Again, if you are interested in any of this information, I can give you copies of research papers, lists of papers published by Olin students, and any other information you might be interested in.</p>
+
+<p>&#8212;Matt Tesch</p>
+
+<p>And we do have trees here.  Quite a few.  I got my stunt kite tangled in one of them the other weekend&#8230;</p>
+
+<p class="posted">posted by Matthew Tesch
+ on October 11, 2006 <a href="#c29" rel="bookmark">#</a></p>
+</div>
+<div id="c30">
+<p>Gee, it was so much easier <a href="http://www.aaronsw.com/weblog/missionhill" rel="nofollow">writing about the kids who couldn&#8217;t talk back</a>. ;-)</p>
+
+<p>Seriously, though, thanks to everyone for sharing their perspective.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on October 11, 2006 <a href="#c30" rel="bookmark">#</a></p>
+</div>
+<div id="c31">
+<p>And to finish things off with a bit of humor&#8230;</p>
+
+<p>Olin hires facilities staff 
+One task of the facilities staff is to blow leaves
+Leaves come from trees!
+QED Olin has trees!</p>
+
+<p>(the post is useless without the picture!)
+<a href="http://photobucket.com/" target="_blank" rel="nofollow"><img src="http://i58.photobucket.com/albums/g248/bmatt98/blog/trees.jpg" border="0" alt="Photobucket - Video and Image Hosting" /></a></p>
+
+<p class="posted">posted by Matty
+ on October 19, 2006 <a href="#c31" rel="bookmark">#</a></p>
+</div>
+<div id="c32">
+<p>It certainly looks like those trees are on the border.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on October 19, 2006 <a href="#c32" rel="bookmark">#</a></p>
+</div>
+<div id="c33">
+<p><img src="http://photos-159.ak.facebook.com/ip002/v45/37/68/214500066/n214500066_30377159_4033.jpg" /></p>
+
+<p>No trees here!</p>
+
+<p class="posted">posted by An Olin Student
+ on October 24, 2006 <a href="#c33" rel="bookmark">#</a></p>
+</div>
+<div id="c34">
+<p>So I will be one of the anonymous critisizers of Olin, just so you know that we exist. I agree with you on many points. I feel, indeed, that Olin seems very happy about positive feedback, but a bit wary of negative feedback. I also feel that not having a fixed curriculum can, at times, be inefficient toward the learning process. I agree that Olin&#8217;s academic buildings are less populated than most, and that Olin&#8217;s collection of baby trees isn&#8217;t as scenic as Babson&#8217;s shadow-imposing trees.</p>
+
+<p>But I go to Olin, so to wallow in the negative isn&#8217;t really productive. As an outsider, you&#8217;re allowed to critisize every imperfection, but if you were actually attending Olin, and people in high places were actually asking you for feedback, you might have to adopt a different strategy - it isn&#8217;t cultish at all to want to spew positive feedback, if it&#8217;s about your product. I, like Ducker, have learned to live with Olin&#8217;s imperfections if only because its perfections outweigh them tenfold. One thing to keep in mind: Olin offers free tuition to all admitted students. We may not be prestigious, if only because we don&#8217;t care about prestige. We care about learning. I&#8217;ve attended too many places where the level of knowledge someone learns overshadows the quality of the process of learning. Maybe teachers not spewing facts will keep us from knowing as much as someone from a more traditional setting, but it won&#8217;t keep us from being able to learn it faster. All these things make Olin&#8217;s wierdness worth it.</p>
+
+<p>And about the ghost-town thing, it&#8217;s been covered already, but, well, you really need to visit West Hall in the evenings. That&#8217;s where the college life really is. That, or Ben Linder&#8217;s office at 2AM.</p>
+
+<p class="posted">posted by anon
+ on November 20, 2006 <a href="#c34" rel="bookmark">#</a></p>
+</div>
+<div id="c35">
+<p>There&#8217;s some great discussion here, so I&#8217;m going to wait to properly digest it before posting some real content.  For now, I&#8217;d like to say that in my experience, Hector has a terrible mouth online but is otherwise a great guy and the best player of Smash Brothers I have ever met.  I just felt apologetic after reading that &#8230;</p>
+
+<p class="posted">posted by Cheryl ('06)
+ on December  2, 2006 <a href="#c35" rel="bookmark">#</a></p>
+</div>
+<div id="c40">
+<p>Yes, Aaron, those trees are &#8220;on the border.&#8221;</p>
+
+<p>They&#8217;re on the border of our marsh.</p>
+
+<p>Olin&#8217;s marsh.</p>
+
+<p>I.e., they are on Olin&#8217;s campus, and therefore: we have trees.</p>
+
+<p>We also have a forest.  It&#8217;s the big green thing in the picture with all the red x marks, in the middle, beyond the soccer field.  But that&#8217;s another issue, I suppose.</p>
+
+<p class="posted">posted by Another Olin Student
+ on August  9, 2007 <a href="#c40" rel="bookmark">#</a></p>
+</div>
+<div id="c41">
+<p>I am probably going to go to Olin next year and reading your post and the honest responses from students is way more helpful than reading collegeconfidential forums or anything of that sort. Thank you so much for posting this/letting people comment&#8230;it was tremendously helpful.</p>
+
+<p class="posted">posted by incognito
+ on April  4, 2008 <a href="#c41" rel="bookmark">#</a></p>
+</div>
+<div id="c42">
+<p>I visited Olin in Feb &#8216;08 and also found the campus to be rather empty.  After walking around for a while I discovered that the students were all in their classrooms 40 minutes before the start of the class period.  They were busy chatting and making last minute preparations for class.  My overall impression was that the students seem serious about their work without being neurotic.</p>
+
+<p class="posted">posted by visitor to olin
+ on July 18, 2008 <a href="#c42" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="visitingolin" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

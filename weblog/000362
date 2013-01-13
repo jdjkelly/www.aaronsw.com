@@ -1,0 +1,43 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>My Cocoa App (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000360" title="License Haiku" />	<link rel="next" href="000363" title="EFF Rudeness" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>My Cocoa App</h1>
+</div>
+
+<div class="content">
+<p>While reading <a href="http://www.amazon.com/exec/obidos/ASIN/046504316X/coolbooks02/">Machine Beauty</a> I came up with a wonderful idea (as seems to happen often with Gelernter books&#8230;) for a cool information-managing Cocoa app. I thought about the idea for a while and decided it was cool and exciting enough for me to start learning Cocoa. So I went downstairs and picked up that old classic, <a href="http://cm.bell-labs.com/cm/cs/cbook/">K&amp;R</a>, and started reading. I&#8217;ve reserved <a href="http://www.bignerdranch.com/Book/">Aaron Hillegass&#8217;s Cocoa Programming Book</a> and plan to go thru that next. Whee!</p>
+
+<p class="posted">posted June 23, 2002 01:55 AM (<a class="category" href="cat_technology">Technology</a>)  <a href="000362" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000360" title="License Haiku">&laquo; prev</a> | <a href="./">up</a> | <a href="000363" title="EFF Rudeness">next &raquo;</a></p>
+
+<p><a href="000355">Do you trust Microsoft&#8217;s Trusted Computing Platform?</a><br />
+<a href="000356">David Sifry is Online</a><br />
+<a href="000357">[more|less] annoying than an NPR Pledge Drives</a><br />
+<a href="000358">cloudmark</a><br />
+<a href="000360">License Haiku</a><br />
+<strong>My Cocoa App</strong><br />
+<a href="000363">EFF Rudeness</a><br />
+<a href="000364">Emergent Hypertext</a><br />
+<a href="000365">Microsoft Attempts to Cement Monopoly Under Guise of Continuing Copyright Terrorism</a><br />
+<a href="000366">An Anti-DRM Video Game</a><br />
+<a href="000367">Public Trust, Not Public Trough</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

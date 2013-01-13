@@ -1,0 +1,188 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Presidential Candidate Bob Williams, part 2: Television Commentary (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001206.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001205" title="Presidential Candidate Bob Williams, part 1: Excerpts from Public Speeches" />	<link rel="next" href="001207" title="Presidential Candidate Bob Williams, part 3: Newspaper Headlines" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Presidential Candidate Bob Williams, part 2: Television Commentary</h1>
+</div>
+
+<div class="content">
+<p>CNN&#8217;s Inside Politics with Judy Woodruff:</p>
+
+<p>WOODRUFF: We&#8217;re here with CNN election analyst Bill Schneider to discuss how this could impact the campaign.</p>
+
+<p>BILL SCHNEIDER: Well, Judy, being a serial killer could help Roberts win over the key Latino and African-American demographics. On the other hand, it will likely seriously hurt him with the &#8220;soccer Mom&#8221; population. We&#8217;ll be watching the poll numbers very carefully.</p>
+
+<p>&#8230;</p>
+
+<p>CNN&#8217;s Larry King Live:</p>
+
+<p>KING: Welcome back. My guest tonight is presidential candidate Bob Williams. Now we&#8217;ll take your phone calls. Amy from D.C., you&#8217;re on the air.</p>
+
+<p>CALLER: Hi. I just wanted to say that I don&#8217;t feel comfortable with a serial killer in the Oval Office. I&#8217;m really glad Bob Williams is running.</p>
+
+<p>WILLIAMS: Thanks, Amy. See, it&#8217;s just that kind of spirit that&#8217;s been motivating me in this campaign.</p>
+
+<p>KING: Seth from San Francisco, you&#8217;re on the air.</p>
+
+<p>CALLER: I&#8217;m really curious if Williams has any positions on the <em>real</em> issues, li&#8212;</p>
+
+<p>KING: Hm, it appears we&#8217;ve lost Seth. Next caller&#8230;</p>
+
+<p>&#8230;</p>
+
+<p>ABC&#8217;s Nightline with Ted Koppel:</p>
+
+<p>KOPPEL: And now a conversation with Joseph Stanson, a spokesman from the Roberts campaign. Joseph, how do you respond to these latest allegations?</p>
+
+<p>STANSON: Well, I think Williams&#8217;s, well, it&#8217;s practically an obsession with serial killers might hint that he himself is a serial killer.</p>
+
+<p>KOPPEL: But that&#8217;s absurd! Williams has repeatedly denied being a serial killer.</p>
+
+<p>STANSON: But he might be lying &#8212; he is running for President, after all.</p>
+
+<p>KOPPEL: That can&#8217;t be &#8212; 70% of Americans say that Bob Williams has an honest face. But I think you&#8217;ve hit upon the real issue here: the American people just don&#8217;t trust traditional politicians.</p>
+
+<p>&#8230;</p>
+
+<p>CNN&#8217;s Paula Zahn Now: </p>
+
+<p>ANN COULTER: I think we need to start thinking about just what it would be like to knowingly re-elect a serial killer to our highest office. What would we tell the children? How could we explain this terrible moral failing? Wouldn&#8217;t we be putting cabinet officials in danger?</p>
+
+<p class="posted">posted April 27, 2004 12:12 PM (<a class="category" href="cat_politics">Politics</a>) (<a href="#comments">0 comments</a>) <a href="001206" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001205" title="Presidential Candidate Bob Williams, part 1: Excerpts from Public Speeches">&laquo; prev</a> | <a href="./">up</a> | <a href="001207" title="Presidential Candidate Bob Williams, part 3: Newspaper Headlines">next &raquo;</a></p>
+
+<p><a href="001191">Against All Enemies: The Movie</a><br />
+<a href="001193">How iTMS Works</a><br />
+<a href="001194">Free Culture Wiki: Piracy Hits a New Low</a><br />
+<a href="001204">Press Clipping</a><br />
+<a href="001205">Presidential Candidate Bob Williams, part 1: Excerpts from Public Speeches</a><br />
+<strong>Presidential Candidate Bob Williams, part 2: Television Commentary</strong><br />
+<a href="001207">Presidential Candidate Bob Williams, part 3: Newspaper Headlines</a><br />
+<a href="001215">Presidential Candidate Bob Williams, part 4: Political Debate</a><br />
+<a href="001218">Presidential Candidate Bob Williams, part 5: The Verdict of History</a><br />
+<a href="001222">Physics&#8217;s Puzzle</a><br />
+<a href="001223">Where&#8217;s Okrent? The End of the Times</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001206.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1206" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

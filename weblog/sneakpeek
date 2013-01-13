@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Sneak Peek (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Sneak Peek</h1>
+
+<p>VOICEOVER: <em>Aaron Swartz: The Stanford Diaries</em> will return in September. Here&#8217;s a sneak preview of what to expect next season.</p>
+
+<p>KIEFER SUTHERLAND appears in a completely black room.</p>
+
+<p>KIEFER: Hi, I&#8217;m Kiefer Sutherland. You might know me better as Aaron Swartz in <em>Aaron Swartz: The Stanford Diaries</em>. (beat) It&#8217;s been an exciting year, culminating in a jam-packed season finale. But that&#8217;s not all there is to the story. Next year, I again play Aaron Swartz in <em>Aaron Swartz: The Stanford Diaries</em>, but this time there&#8217;s a whole lot more to the story.</p>
+
+<blockquote>
+  <p>AARON SWARTZ and UNSEEN TEACHER meet in a parking garage. Teacher stays in the shadows, face never revealed, although he or she is clearly wearing a trenchcoat.</p>
+  
+  <p>AARON: Oh, hey. I just wanted to tell you I read that book you recommended.</p>
+  
+  <p>TEACHER: Oh, good!</p>
+  
+  <p>AARON: Well, I guess I&#8217;ll see you next year.</p>
+  
+  <p>As Aaron turns to head away the teacher GRABS him by the arm.</p>
+  
+  <p>TEACHER: Wait, there&#8217;s something I need to tell you.</p>
+  
+  <p>AARON: Oh?</p>
+  
+  <p>TEACHER: I read your last paper, Aaron. That wasn&#8217;t appropriate.</p>
+  
+  <p>AARON: What do you mean?</p>
+  
+  <p>TEACHER: I think you know what I mean.</p>
+  
+  <p>AARON: The assignment was to write about sex, the body, or reproduction. I wrote about sex.</p>
+  
+  <p>TEACHER: Well, in the context of what you said to me, I had to take it to the sexual harrassment center. We just had a consult about it and it&#8217;s going in your file, but they&#8217;re not opening an investigation on you or anything. I&#8217;m sure you didn&#8217;t mean it as harrassment but I had to take it to them just to be safe.</p>
+  
+  <p>AARON: Oh. OK.</p>
+  
+  <p>TEACHER: I didn&#8217;t really have a choice, Aaron, given what you said. Don&#8217;t worry, you&#8217;re not in trouble or anything.</p>
+  
+  <p>AARON: I said OK. Is there anything more you can tell me?</p>
+  
+  <p>TEACHER: Well, it&#8217;s confidential.</p>
+  
+  <p>AARON: But it&#8217;s about me! I waive my confidentiality rights.</p>
+</blockquote>
+
+<p>KIEFER: Was the sexual harrassment claim responsible for the meeting with [unnamed authority figure]? Will this &#8220;file&#8221; open on Aaron cause later misunderstandings to be seen in a negative light, causing Aaron to be suspended or even expelled for the things he said, forcing him to turn around and hire the right-wing Foundation for Individual Rights in Education to sue Stanford University under California&#8217;s Leonard Law which extends First Amendment protection to private universities? Who knows? I just read the scripts they give me.</p>
+
+<p>The actual AARON SWARTZ marches out in front of Kiefer.</p>
+
+<p>AARON: OK, that&#8217;s enough. Hi, I&#8217;m Aaron Swartz, author of <em>Aaron Swartz: The Stanford Diaries</em>. Despite the 24 season finale and Deep Throat references I&#8217;ve chosen to use in this post, I&#8217;d just like to let folks out there know that this meeting actually did happen, although not in a parking garage.</p>
+
+<p>KIEFER: Are we done here because, uh, I&#8217;ve got some people in my trunk I need to take care of.</p>
+
+<p>AARON: Yeah, let me give you a  hand with that.</p>
+
+<p>Kiefer and Aaron walk off into the SUNSET that has just appeared in their solid black room.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">June  6, 2005</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c42">
+<p>Hello Kiefer Sutherland,</p>
+
+<p>Great name!  I am a huge fan of your work, especially 24.  Keep up the great work!</p>
+
+<p>Aron</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aronswebsites.com">Aron Kiefer</a>
+ on September 20, 2007 <a href="#c42" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="sneakpeek" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

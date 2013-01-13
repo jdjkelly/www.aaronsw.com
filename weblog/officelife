@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Life at the Office (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Life at the Office</h1>
+
+<p>It started when he stopped going home. The rent in San Francisco was so
+expensive and the commutes so painful that it just seemed easier not to
+leave. Nobody really noticed at first&#8212;the cleaning crew came in around
+7 and just assumed he was staying late, while the other employees just
+assumed he was an early riser. And really, who&#8217;s going to complain about
+an employee who puts in too much time at the office? Especially when he
+wasn&#8217;t using it to get additional work done.</p>
+
+<p>Then he started wondering if he could eliminate the trip for food too.
+He found a website that sold nutritionally-balanced diet bars and
+ordered a whole tub, which he placed under his desk. All day he&#8217;d be
+munching on one bar or another, no longer feeling hungry around lunch or
+dinner. So he just sat at his desk munching instead. Strangely, this
+didn&#8217;t seem to make him any more productive.</p>
+
+<p>Between the lack of exercise and nonstop eating, he began growing fat.
+Nobody really said anything to him about it. He was rail-thin when he
+started so many co-workers were secretly happy to see him put on a few
+pounds. But it quickly got out of hand, with rolls of fat oozing between
+the cracks in his Aeron chair. Still, nobody wants to insult a fat man,
+so he just continued to grow. He never really needed to leave his chair
+anymore, so he didn&#8217;t mind it much.</p>
+
+<p>Soon he began&#8212;I&#8217;m not quite sure how to describe it, I guess he was
+sort of <em>fusing</em> with the chair. The rolls of fat would sneak through a
+crack and then continue growing, like vines crawling through a gate. It
+quickly got to the point where he couldn&#8217;t even get out of the chair if
+he wanted too, the fat had locked him in. He could still roll around the
+office on it but that movement quickly became tiring and as he grew
+fatter the wheels snapped off.</p>
+
+<p>Nobody really seemed to mind, though. He had become an office
+fixture&#8212;people came to him now. He&#8217;d chat with them about their day or
+keep an eye on things for them. Since he was always there he knew
+everything that went on in the office and people could always rely on
+him for gossip or signing for their packages.</p>
+
+<p>Soon it seemed like he was part of the office itself, like some sort of
+roboreceptionist you read about in Negroponte novels. Desks began subtly
+organizing themselves around him and employees began treating him as
+just another office fixture. There&#8217;s the bathroom and there&#8217;s the
+kitchen and there&#8217;s, well, you know&#8230;</p>
+
+<p>And then, one day, they left. Some corporate restructuring or something;
+they were all being moved to a different building. People packed their
+stuff in boxes, cleaners cleaned one more time, and then suddenly they
+were all gone. He was all that was left, keeper of an office without any
+officers.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">November 10, 2006</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>Bathroom breaks?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://deadhobosociety.com">Carl</a>
+ on November 10, 2006 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="officelife" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

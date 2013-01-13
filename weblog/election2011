@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Election Ballot 2011 (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Election Ballot 2011</h1>
+
+<p>It&#8217;s like <a href="http://www.aaronsw.com/weblog/election09">2009 all over again</a>.</p>
+
+<p>Everyone seems to have moved to the middle since last time &#8212; the decent candidates have descended into vague blandness; the terrible have begun spouting the same rhetoric. But, fortunately, this time there&#8217;s a candidate I actually quite like: Matt Nelson sounds awesome. <strong>Vote Matt Nelson.</strong></p>
+
+<ol>
+<li>Matt Nelson (grassroots organizing, pedestrian H^2)</li>
+<li>Larry Ward (inclusionary zoning)</li>
+<li>Kenneth E. Reeves (Harlem Children&#8217;s Zone)</li>
+<li>Sam Seidel (bikes, TOD)</li>
+<li>Leland Cheung (simplify regulation, bike share)</li>
+<li>Minka vanBeuzekom (smart growth)</li>
+<li>Marjorie Decker (no CCTV, banning trans fats)</li>
+<li>Charles Marquardt (planning, sustainability)</li>
+<li>James M. Williamson (no corporate money, slow development)</li>
+<li>Tim Toomey (vagueness, fuel efficient vehicles)</li>
+<li>David Maher (consensus building)</li>
+<li>Henrietta Davis (healthy kids, green buildings)</li>
+<li>E. Denise Simmons (bus shelters)</li>
+<li>Tom Stohlman (do nothing)</li>
+<li>Gary Mello (cut spending, insurance reform)</li>
+<li>Gregg Moree (crazy blandness)</li>
+<li>Pascual (psychic reform, poetry)</li>
+<li>Craig Kelley (traffic enforcement, not campaigning)</li>
+</ol>
+
+<p>School issues are inevitably depressing. Everyone says they oppose the achievement gap and so on, so, again, my first test was to see how people felt about standardized tests (ordered from opposition to support):</p>
+
+<ol>
+<li>Alice Turkel (portfolios, high quality preschool)</li>
+<li>Nancy Tauber (no teaching to the test)</li>
+<li>Bill Forster (stop teaching to the test)</li>
+<li>Marc McGovern (alternative assessments)</li>
+<li>Patty Nolan (no more tests)</li>
+<li>Richard Harding (not a fan, but it has its benefits)</li>
+<li>John Holland (might interfere)</li>
+<li>Joyce Gerber (dodged the question)</li>
+<li>Mervan Osborne (dodged)</li>
+<li>Charles Stead, Sr. (tight ship principal)</li>
+<li>Fred Fantini (more assessment)</li>
+</ol>
+
+<p>Happy Election Day!</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">November  8, 2011</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="election2011" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

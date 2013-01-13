@@ -1,0 +1,13 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+  <title>Amazon Link</title>
+<link rel="stylesheet" href="/style.css" /></head><body>
+
+<h1>Amazon Link</h1>
+
+<p>Drag this link to your bookmarks bar:</p>
+
+<p><a href="javascript:var%20re=/([\/-]|is[bs]n=)(\d{7,9}[\dX])/i;if(re.test(location.href)==true){var%20isbn=RegExp.$2;window.location='http://www.amazon.com/o/ASIN/'+isbn+'/coolbooks02/'}">amazon</a></p>
+
+<p>Then, just click it whenever you're on an Amazon product page to give me a kickback.</p>
+
+</body></html>

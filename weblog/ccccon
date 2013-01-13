@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Welcome to the Panopticon (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Welcome to the Panopticon</h1>
+
+<p>&#8220;Your picture is going to be on the front door of Wired News,&#8221; Quinn told me. &#8220;That&#8217;s almost like being a journalist,&#8221; I replied. &#8220;No,&#8221; she explained. &#8220;The thing about being a journalist is that it&#8217;s never about you. You&#8217;re like the person sitting next to the journalist.&#8221; &#8220;Funny that,&#8221; I replied, &#8220;because that&#8217;s exactly what I am.&#8221;</p>
+
+<blockquote>
+  <p>This year&#8217;s Chaos Communication Congress opens with a unique opportunity &#8212; your chance to track the movements of a Wired News&#8217; reporter on the scene, as well as nearly a thousand other visitors to the annual hacker convention.</p>
+  
+  <p>[&#8230;]</p>
+  
+  <p>track Quinn Norton (ID 254135) and Wired Digital&#8217;s Aaron Swartz (ID 254260), two of nearly 1,000 participants wearing RFID trackers for the duration of the congress.</p>
+</blockquote>
+
+<p>(Quinn Norton, <a href="http://www.wired.com/news/technology/0,72364-0.html">Hacker Con Submits to Spychips</a>, <em>Wired News</em>, December 28, 2006)</p>
+
+<p>&#8220;It&#8217;s funny,&#8221; I noted. &#8220;The first time my employers find out where I am this week may be when they report it on their own news site.&#8221;</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">December 28, 2006</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="ccccon" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

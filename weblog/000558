@@ -1,0 +1,48 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>There&#8217;s Only One Way To Do It (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000557" title="MJD&#8217;s File of Good Advice" />	<link rel="next" href="000559" title="JavaScript Form Validation Done Right" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>There&#8217;s Only One Way To Do It</h1>
+</div>
+
+<div class="content">
+<p>To balance out the Perl I thought I&#8217;d share this quote. [<a href="http://www.ddj.com/documents/s=1712/ddj1029798360502/do200208py002.htm">PyURL</a>]</p>
+
+<p>&#8220;I thought that it was a firm principle of language design&#8212;out of concern for programming as a human activity&#8212;that in all respects equivalent programs should have few possibilities for different representation [&#8230;]. Otherwise completely different styles of programming arise unnecessarily, thereby hampering maintainability, readability and what have you. This requires from the language designers the courage to make up their minds!&#8221;<br />
+ - Edsger W. Dijkstra on GREEN, an early version of Ada</p>
+
+<p>My personal goal when writing Python libraries is that the code one writes without looking at the documentation should work. Sadly, it seems few people understand the concept of ease-of-use when applied to libraries. Ken MacLeod is one of the few excellent library designers.</p>
+
+<p class="posted">posted September 02, 2002 10:33 PM (<a class="category" href="cat_technology">Technology</a>)  <a href="000558" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000557" title="MJD&#8217;s File of Good Advice">&laquo; prev</a> | <a href="./">up</a> | <a href="000559" title="JavaScript Form Validation Done Right">next &raquo;</a></p>
+
+<p><a href="000550">IMS/ISC Takes their Case to the BOGSAAT</a><br />
+<a href="000551">The Emergent Internet</a><br />
+<a href="000553">Books Consume Life</a><br />
+<a href="000554">got spam?</a><br />
+<a href="000557">MJD&#8217;s File of Good Advice</a><br />
+<strong>There&#8217;s Only One Way To Do It</strong><br />
+<a href="000559">JavaScript Form Validation Done Right</a><br />
+<a href="000564">Don&#8217;t Napsterize the Discussion, Guys!</a><br />
+<a href="000565">jwz is angry</a><br />
+<a href="000566">the neighborhood just got a lot bigger</a><br />
+<a href="000567">What&#8217;s the Berman Bill for?</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

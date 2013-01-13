@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Some Announcements (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Some Announcements</h1>
+
+<p>My new Python web application library, <a href="http://webpy.org/">web.py</a>, is out.</p>
+
+<p><a href="http://www.aaronsw.com/weblog/productivity">An essay of mine about productivity</a> has made the rounds. I&#8217;m not sure it&#8217;s finished, but lots of people have already read it and loved it, so I thought I might as well tell you about it.</p>
+
+<p>On a similar note, over the winter break I wrote a program called <a href="http://www.aaronsw.com/2002/arcget/">arcget</a> to download web sites from the Internet Archive&#8217;s Wayback Machine. There are still a few more changes I&#8217;d like to make, but I&#8217;m unlikely to get to them anytime soon.</p>
+
+<p>The reason I built arcget was so I could put up the <a href="http://linguafranca.mirror.theinfo.org/">Lingua Franca archive</a>. <cite>Lingua Franca</cite> was a fantastic magazine about academic life that ran for several years before going bust in the recession. Their website, with many of their fantastic articles, sadly disappeared with it (and thus from Google).</p>
+
+<p>Now you can read such classics as <a href="http://linguafranca.mirror.theinfo.org/9911/darwin.html">Oh My Darwin!</a>, <a href="http://linguafranca.mirror.theinfo.org/9402/method.html">A Most Dangerous Method</a>, and <a href="http://linguafranca.mirror.theinfo.org/9605/sixties.html">Who Owns The Sixties?</a>.</p>
+
+<p>Of course, these and many others are collected into the wonderful collection <em><a href="http://www.amazon.com/o/ASIN/0374528632/coolbooks02">Quick Studies</a></em> which, along, with <a href="http://www.amazon.com/o/ASIN/0393324303/coolbooks02">Boob Jubilee</a> is some of the most enjoyable and edifying material out there &#8212; combining both dazzlingly intriguing writing with meaty subjects.</p>
+
+<p>Anyway, that should keep you busy for a while.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">January  5, 2006</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>Note that Lingua Franca&#8217;s editor, Alexander Star, later went on to <a href="http://www.slate.com/id/2073550/" rel="nofollow">improve the Boston Globe&#8217;s weekly &#8220;Ideas&#8221; section</a>. As you&#8217;d expect, there&#8217;s the same pronounced emphasis on academic controversies.</p>
+
+<p class="posted">posted by Mike Sierra
+ on January  5, 2006 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>I find playing classical music helps me be productive.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://josephhall.org/nqb2/">joe</a>
+ on January  5, 2006 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>You might also be interested in Warrick:</p>
+
+<p>&#8220;Warrick is a command-line utility for reconstructing or recovering a website that has been lost due to a hard drive crash, fire, failed backup, etc. Warrick will search the Internet Archive, Google, MSN, and Yahoo for stored
+pages and images and will save them to your filesystem.&#8221;</p>
+
+<p>http://www.cs.odu.edu/~fmccown/research/lazy/warrick.html</p>
+
+<p>I haven&#8217;t tried it and it&#8217;s &#8220;not yet available for download&#8221; but looks like it might be available on request from the author.</p>
+
+<p>&#8212;
+Regarding arcget&#8217;s policy of retrieving the oldest version of any page, &#8220;because generally the newest version is whatever lame site has replaced the site you want to archive&#8221;:</p>
+
+<p>If you know a threshold date for which you don&#8217;t want any later captures, you can use the Wayback Machine&#8217;s ranged datespecs to limit the results you see. So, for example, the last version of the linguafranca.com homepage in the IA that looks like a normal active publication appears to be as of 20020207200457:</p>
+
+<p>http://web.archive.org/web/20020207200457/http://www.linguafranca.com/index.html</p>
+
+<p>You could then limit any search results page to return include only results before that date with an URL construction like:</p>
+
+<p>http://web.archive.org/web/0-20020207200457*/linguafranca.com</p>
+
+<p>&#8212;
+Finally, also of potential interest for any such tools: there&#8217;s an undocumented method of getting (pseudo-)XML lists of URL captures from the Wayback Machine: append a &#8220;xm_&#8221; to the datespec portion of the retrieval URL. So the above would become:</p>
+
+<p>http://web.archive.org/web/0-20020207200457*xm_/linguafranca.com</p>
+
+<p>(I say pseudo-XML because there&#8217;s no attempt to properly escape reported URLs, so you can get illegal XML from this interface.)</p>
+
+<p>Caveat: this underdocumented/undertested/unsupported avenue could have other problems or go away unexpectedly. Ideally it would be replaced with a OpenSearch API-compliant interface, with some domain-specific special operators, but no such change is imminent.</p>
+
+<ul>
+<li>Gordon @ IA</li>
+</ul>
+
+<p class="posted">posted by <a rel="nofollow" href="http://gojomo.blogspot.com">Gordon Mohr</a>
+ on January  9, 2006 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="webproductivity" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

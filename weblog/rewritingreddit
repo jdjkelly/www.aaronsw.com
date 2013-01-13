@@ -1,0 +1,711 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Rewriting Reddit (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Rewriting Reddit</h1>
+
+<p><strong>Translations:</strong> <a href="http://science.webhostinggeeks.com/ponovno-pisanje-reddit">Srpsko-Hrvatski</a></p>
+
+<p><em>2012 note: This article was first published in 2005. After it was published, Django launched a RemovingTheMagic project to address some of my criticisms (though personally I still find it unusable), <a href="http://webpy.org/">web.py</a> inspired FriendFeed&#8217;s <a href="http://www.tornadoweb.org/">tornado.web</a> and Google&#8217;s <a href="https://developers.google.com/appengine/docs/python/gettingstarted/usingwebapp">gae.webapp</a> and others (though I still prefer web.py), and this article led to a permanent surge in Reddit traffic that still hasn&#8217;t really stopped growing.</em></p>
+
+<p><a href="http://reddit.com/"><img align="right" src="http://webpy.org/static/redditino.png" alt="reddit mascot" /></a></p>
+
+<p>Over at <a href="http://reddit.com/">reddit.com</a>, we rewrote the site from Lisp to Python in the past week. It was pretty much done in one weekend. (Disclosure: We used my <a href="http://webpy.org/">web.py</a> library.) The others knew Lisp (they wrote their whole site in it) and they knew Python (they rewrote their whole site in it) and yet they decided liked Python better for this project. The Python version had less code that ran faster and was far easier to read and maintain.</p>
+
+<p>The idea that there is something better than Lisp is apparently inconceivable to some, judging from comments <a href="http://reddit.com/blog/2005/12/night-of-living-python.html">on the reddit blog</a>. The Lispers instead quickly set about trying to find the <em>real</em> reason behind the switch.</p>
+
+<p>One assumed it must have been divine intervention, since &#8220;there seems to be no other reason for switching to an inferior language.&#8221; Another figured something else must be going on: &#8220;Could this be&#8230;a lie? To throw off competition? It&#8217;s not as though Paul Graham hasn&#8217;t hinted at this tactic in his essays&#8230;&#8221; Another chimed in: &#8220;I decided it was a prank.&#8221; Another suggested the authors simply wanted more &#8220;cut corners, hacks, and faked artisanship.&#8221;</p>
+
+<p>These were, of course, extreme cases. Others assumed there must have been outside pressure. &#8220;Either libraries or hiring new programmers I guess.&#8221; Another concluded: &#8220;some vc suit wants a maintainable-by-joe-programmer product. I hope he pays you millions.&#8221;</p>
+
+<p>The Lisp newsgroup, <code>comp.lang.lisp</code>, was upset about the switch that they&#8217;re currently <a href="http://groups.google.com/group/comp.lang.lisp/browse_frm/thread/f560fdfb211aa8cb/c0159fbbc6496def">planning to <em>write a competitor</em> to reddit in Lisp</a>, to show how right they are or something.</p>
+
+<p>The more sane argued along the lines of saying Lisp&#8217;s value lies in being able to create <a href="http://reddit.com/blog/2005/12/night-of-living-python.html#113382802678872391">new linguistic constructs</a> and that for something like a simple web app, this isn&#8217;t necessary, since the constructs have been already built. But even this isn&#8217;t true. <a href="http://webpy.org/">web.py</a> was built pretty much from scratch and uses all sorts of &#8220;new linguistic constructs&#8221; and &#8212; even better &#8212; these constructs have syntax that goes along with them and makes them reasonably readable. Sure, Python isn&#8217;t Perl 6, so you can&#8217;t add arbitrary syntax, but you can often find a clever way to get the job done.</p>
+
+<hr />
+
+<p>Python, on the other hand, has problems of its own. The biggest is that it has dozens of web application frameworks, but none of them are any good. Pythonists are well aware of the first part but apparently not of the second, since when I tell them that I&#8217;m using my own library, the universal response is &#8220;I don&#8217;t think Python needs another web application framework&#8221;. Yes, Python needs fewer web application frameworks. But it also needs one that doesn&#8217;t suck.</p>
+
+<p>The framework that seems most promising is <a href="http://djangoproject.com/">Django</a> and indeed we initially attempted to rewrite Reddit in it. As the most experienced Python programmer, I tried my best to help the others out.</p>
+
+<p>Django seemed great from the outside: a nice-looking website, intelligent and talented developers, and a seeming surplus of nice features. The developers and community are extremely helpful and responsive to patches and suggestions. And all the right goals are espoused in their philosophy documents and FAQs. Unfortunately, however, they seem completely incapable of living up to them.</p>
+
+<p>While Django claims that it&#8217;s &#8220;loosely coupled&#8221;, using it pretty much requires fitting your code into Django&#8217;s worldview. Django insists on executing your code itself, either through its command-line utility or a specialized server handler called with the appropriate environment variables and Python path. When you start a project, by default Django creates folders nested four levels deep for your code and while you can move around some files, I had trouble figuring out which ones and how.</p>
+
+<p>Django&#8217;s philosophy says &#8220;Explicit is better than implicit&#8221;, but Django has all sorts of magic. Database models you create in one file magically appear someplace else deep inside the Django module with a different name. When your model function is called, new things have been added to its variable-space and old ones removed. (I&#8217;m told they&#8217;re currently working on fixing both of these, though.)</p>
+
+<p>Another Django goal is &#8220;less code&#8221;, at least for you. But Django is simply full of code. Inside the django module are 10 different folders and inside each of those are a few more. By the time you actually build a site in the Django tutorial, you&#8217;ve imported <code>django.core.meta</code>, <code>django.models.polls</code>, <code>django.conf.urls.defaults.*</code>, <code>django.utils.httpwrappers.HttpResponse</code>, and <code>django.core.extensions.render_to_response</code>. It&#8217;s not clear how anyone is supposed to remember all that, especially since there appear to be no guiding principles for what goes where or how it&#8217;s named. Three of these are inserted automatically by the start scripts, but you still need to memorize such names for every other function you want to use.</p>
+
+<p>But Django&#8217;s most important problem is that its developers seem incapable of designing a decent API. They&#8217;re clearly capable Python programmers &#8212; their code uses all sorts of bizarre tricks. And they&#8217;re clearly able to write code that works &#8212; they have all sorts of interesting features. But they can&#8217;t seem to shape this code into something that other people can use.</p>
+
+<p>Their APIs are ugly and regularly missing key features: the database API figures out queries by counting underscores but has no special syntax for JOINs, the template system requires four curly braces around every variable and can&#8217;t do any sort of computation, the form API requires 15 lines to process a form and can&#8217;t automatically generate the template.</p>
+
+<p>I tried my best to fix things &#8212; and the Django community was extremely supportive &#8212; but the task simply dwarfed me. I just couldn&#8217;t do it mentally, let alone with the time constraints of having to actually build my own application for my own startup.</p>
+
+<hr />
+
+<p>And so, Lisp and Django found wanting, we&#8217;re left with <a href="http://webpy.org/">web.py</a>. I&#8217;d like to say that web.py learned from these mistakes and was designed to avoid them, but the truth is that web.py was written long before all this and managed to avoid them anyway.</p>
+
+<p>The way I wrote web.py was simple: I imagined how things should work and then I made that happen. Sometimes making things just work takes a lot of code. Sometimes it only takes a little. But either way, that fact is hidden from the user &#8212; they just get the ideal API.</p>
+
+<p>So how should things work? The first principle is that code should be clear and simple. If you want to output some text, you call web.output. If you want to get form input, you call web.input. There&#8217;s nothing particularly hard to remember.</p>
+
+<p>The second principle is that web.py should fit your code, not the other way around. Every function in web.py is completely independent, you can use whichever ones you want. You can put your files wherever you like, and web.py will happily follow along. If you want a piece of code to be run as a web app, you call web.run, you don&#8217;t put your code in the magical place so that web.py can run you.</p>
+
+<p>The third principle is that web.py should, by default, do the right thing by the Web. This means distinguishing between GET and POST properly. It means simple, canonical URLs which synonyms redirect to. It means readable HTML with the proper HTTP headers.</p>
+
+<p>And that, as far as I&#8217;m concerned, are pretty much all the principles you need. They seem pretty simple and obvious to me and I&#8217;m even willing to fudge on some of them, but no other Python web app framework seems to even come close. (If you know of one, tell me and I&#8217;ll happily recant. I don&#8217;t want to be in this business.) Until then, it looks like I&#8217;m forced to do that horrible thing I&#8217;d rather not do: release one more Python web application framework into the world.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">December  6, 2005</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>I appreciate the Django feedback and look forward to fixing the issues you brought up. ETA: 1.5 weeks.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.holovaty.com/">Adrian Holovaty</a>
+ on December  6, 2005 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>Django obviously isn&#8217;t broken for us, or for Greenpeace, or for the Washington Post, or for&#8230; That said I look forward to checking out web.py; looks nice and light-weight.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://jacobian.org/">Jacob Kaplan-Moss</a>
+ on December  6, 2005 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>What about TurboGears? Also, Cheetah? ew.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://franklinmint.fm">Robert Sayre</a>
+ on December  7, 2005 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c6">
+<p>And yet there was in a sense a &#8220;<i>real</i> reason&#8221; (or at least proximate cause) for the switch that hasn&#8217;t yet been disclosed, wasn&#8217;t there?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://paulgraham.com">Paul Graham</a>
+ on December  7, 2005 <a href="#c6" rel="bookmark">#</a></p>
+</div>
+<div id="c7">
+<p>Just wondering if you happened to check out TurboGears? (www.turbogears.org).</p>
+
+<p>At a minimum, it too uses SQLObject. And they have the oh so pretty screencasts.</p>
+
+<p>And I think that &#8220;unsatisfactory&#8221; may have been a better word, as opposed to &#8220;broken&#8221;. The word &#8220;broken&#8221; really has an implication of &#8220;there&#8217;s no way whatsoever to get this thng to work&#8221;, which is obviously not the case for Django. It just happened to be the case for what you wanted to do with it.</p>
+
+<p class="posted">posted by Jay P.
+ on December  7, 2005 <a href="#c7" rel="bookmark">#</a></p>
+</div>
+<div id="c8">
+<p>So what exactly is the problem with Cheetah?</p>
+
+<p>Problem one with TurboGears is that their website is hideous. Other problems from a skim: It creates a lot of files, Kid seems pretty unfriendly, CherryPy doesn&#8217;t let you pick your own URL scheme, and functions seem to be distributed randomly across cherrypy and turbogears modules</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on December  7, 2005 <a href="#c8" rel="bookmark">#</a></p>
+</div>
+<div id="c9">
+<p>The Reddit guys have started a funny geek drama.  The snarkyness of the language camps is killing me.</p>
+
+<p>To people that might be sitting on the fence about which language is best or most powerful:  try them and find out for yourself.  These advocacy outbursts are just as much about justifying the zealot&#8217;s choice as they are about influencing yours.</p>
+
+<p>What&#8217;s P.G. talking about?  Could one of the projects for next year&#8217;s Summer Founders be to finish Arc?  The Lisp guys need some cheering up.</p>
+
+<p class="posted">posted by Egg Shen
+ on December  7, 2005 <a href="#c9" rel="bookmark">#</a></p>
+</div>
+<div id="c10">
+<p>Always seems to me that web publishing is a fairly complex business, there&#8217;s just lots of different things that need to be handled: form processing, ORM, templates/output, then app level stuff, pagination, search, permissions, admin, etc, etc. And that&#8217;s before you get into your own app code. Web developers should not rewrite this code per app, their platform should do it. Their platform should be a large OSS project to provide security, management and code reuse benefits.</p>
+
+<p>Django, Rails, even Zope 3, try to provide that answer: lots of code for almost everything you need and an API for putting together your own stuff, with the emphasis on cohesion. From what you&#8217;ve revealed of web.py so far it doesn&#8217;t seem to provide cohesion, the glueing-together tasks need to be done and done again. Django may have magic innards, but it provides more code for solving more tasks. Zero to simple site time might be the same, but zero to site with all the niceties required by an increasingly savvy audience will always be quicker with a more full-featured environment.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://aftnn.org/">Afternoon</a>
+ on December  7, 2005 <a href="#c10" rel="bookmark">#</a></p>
+</div>
+<div id="c11">
+<p>&#8220;And yet there was in a sense a &#8220;real reason&#8221; (or at least proximate cause) for the switch that hasn&#8217;t yet been disclosed, wasn&#8217;t there?
+- Paul Graham&#8221;</p>
+
+<p>So how about letting us in on the secret?</p>
+
+<p class="posted">posted by 
+ on December  7, 2005 <a href="#c11" rel="bookmark">#</a></p>
+</div>
+<div id="c12">
+<p>I think Paul is suggesting that the reddit folks switched to Python because of my influence. I don&#8217;t think this is quite true, but you&#8217;ll have to ask the reddit folks to be sure.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on December  7, 2005 <a href="#c12" rel="bookmark">#</a></p>
+</div>
+<div id="c13">
+<p><i>Problem one with TurboGears is that their website is hideous.</i></p>
+
+<p>OK&#8230;</p>
+
+<p><i>So what exactly is the problem with Cheetah?</i></p>
+
+<p>It&#8217;s a templating mini-language. These things always turn into unmaintainable goo. As templating goo languages go, it&#8217;s not that bad. Functions are split across CherryPy and Turbogears because they are reusing CherryPy, which has been debugged.</p>
+
+<p>Still, I can understand the file layout objection. web.py seems like a pretty similar setup to TBNL, which I really like. Let me hazard a guess about the proximate cause: CMUCL on FreeBSD, UFFI, and/or mod_lisp falling over for no good reason.</p>
+
+<p>Don&#8217;t understand the Cheetah choice. What are the benefits that make you favor Cheetah over Kid?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://franklinmint.fm">Robert Sayre</a>
+ on December  7, 2005 <a href="#c13" rel="bookmark">#</a></p>
+</div>
+<div id="c14">
+<p>Is web.py going open source ?</p>
+
+<p>Rams</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://reddit.com/user/rams/">Rams</a>
+ on December  7, 2005 <a href="#c14" rel="bookmark">#</a></p>
+</div>
+<div id="c15">
+<p>I think in many cases, the framework is more important as the language itself. I&#8217;m inclined to think web.py must do something right if the Reddit guys gave up TBNL for it. I look forward to the public release; it&#8217;s one more sharp thing for my toolbox.</p>
+
+<p class="posted">posted by Zak
+ on December  7, 2005 <a href="#c15" rel="bookmark">#</a></p>
+</div>
+<div id="c16">
+<p>I&#8217;ve tried out TurboGears and Django, and I agree that they involves too many files and too much boilerplate code.  Still, I really like most of the decisions that went into TurboGears.  (Web.py looks even better in a lot of ways, and I look forward to using it.)</p>
+
+<p>Regarding Kid:  I&#8217;ve worked in a lot of templating systems and template languages (Cheetah, CFML, Mason, ASP, PHP&#8230;) and Kid is my favorite.  But I realize that this depends a lot on use cases and on personal aesthetics.</p>
+
+<p>Kid involves a small amount of bondage-and-discipline, which seems like a contrast with Python.  But I really like the &#8220;feel&#8221; of Kid, and I find that it has important benefits.  For example, Kid&#8217;s guarantees about well-formed XML mean that data that you insert is escaped as needed unless you explicitly say otherwise.  Among other things, this helps Kid avoid the &#8220;insecure by default&#8221; problem in most templating systems, where the programmer has to escape every output string explicitly or cause cross-site-scripting vulnerabilities.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://advogato.org/person/mbrubeck/">Matt Brubeck</a>
+ on December  7, 2005 <a href="#c16" rel="bookmark">#</a></p>
+</div>
+<div id="c17">
+<p>&#8220;Broken&#8221; usually means that something doesn&#8217;t work the way it was intended, and is often seen as disparaging to the designers or implementors of the artifact.  I certainly admit to having been guilty of using the word in a disparaging manner, too.  But you should know that it&#8217;s not a respectful way to talk about someone else&#8217;s work.</p>
+
+<p>As for a better word, well, respect isn&#8217;t something that comes across merely by the choice of a single word.  I&#8217;m still working on learning it myself.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://wolog.net/">Ping</a>
+ on December  7, 2005 <a href="#c17" rel="bookmark">#</a></p>
+</div>
+<div id="c18">
+<p>Sorry, but actually all that above on &#8220;perfect API&#8221; and stuff just reads to me as yet another case of &#8220;not invented here&#8221;. It&#8217;s fun to discuss web frameworks (as it is fun to write one or two or more), but it&#8217;s not fun to have highly emotional attacks like &#8220;can&#8217;t design a decent API&#8221; that are just based on personal preference, stated as universal truth &#8230;</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://rfc1437.de/">hugo</a>
+ on December  7, 2005 <a href="#c18" rel="bookmark">#</a></p>
+</div>
+<div id="c19">
+<p>Nice to see the HTTP method thing. Just one question about it:
+From the tutorial, I gather that you&#8217;re mapping URI&#8217;s to classes by using regular expressions (I&#8217;m  not sure whether I prefer this over the cherrypy approach, but that&#8217;s another matter). The leftover captures seem to get passed to the GET, (or POST or whatever) method. Any reason why not to the <strong>init</strong> method? (URI gets resolved to an object, method gets called on that object, instead of: URI gets partially resolved, further resolving is done in the method)</p>
+
+<p class="posted">posted by polaar
+ on December  7, 2005 <a href="#c19" rel="bookmark">#</a></p>
+</div>
+<div id="c20">
+<p>&#8220;And so, Lisp and Django found wanting, we&#8217;re left with web.py.&#8221;</p>
+
+<p>That statement is obviously absurd. Among the many counter examples is Ruby on Rails. I don&#8217;t understand why reddit went with a closed solution in python that currently has a small user base (no offense) rather than the rapidly swelling, open source RoR, written in Ruby which, imho, is much shinier. I wonder if they considered Rails and found it technically lacking, or if they suffer from some kind of popularity snobbery (hence lisp, but there it did them a favour) which prevents them using saomething that everyone else uses.</p>
+
+<p class="posted">posted by robbie
+ on December  7, 2005 <a href="#c20" rel="bookmark">#</a></p>
+</div>
+<div id="c21">
+<p>Hm. Interesting. web.py sounds like a good fit for some projects: to echo a previous post - another sharp tool to add to the toolbox. Next to Rails.</p>
+
+<p class="posted">posted by Robert Brook
+ on December  7, 2005 <a href="#c21" rel="bookmark">#</a></p>
+</div>
+<div id="c22">
+<p>The same motivation led me to do something very similar to web.py, specifically for use with mod_python, <a href="http://pragmatron.org/docs/pymplex.html" rel="nofollow">Pymplex</a> I wonder if there&#8217;s any way the things could be combined (or&#8230;if there&#8217;s anything in Pymplex that might be usable in web.py, help yourself ;-)</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://dannyayers.com">Danny</a>
+ on December  7, 2005 <a href="#c22" rel="bookmark">#</a></p>
+</div>
+<div id="c23">
+<p>&#8220;Hm. Interesting. web.py sounds like a good fit for some projects: to echo a previous post - another sharp tool to add to the toolbox. Next to Rails.&#8221;</p>
+
+<p>i couldnt agree more&#8230;</p>
+
+<p class="posted">posted by 
+ on December  7, 2005 <a href="#c23" rel="bookmark">#</a></p>
+</div>
+<div id="c24">
+<p>Yes, web.py looks very nice, but only because I now nothing about it. Others (Django, TG, ) have published their source so it is easy to comment: favorably or not. web.py yet remains to be seen: so far it looks like simple url to function mapper with everything else left to the app developer.</p>
+
+<p class="posted">posted by qvx
+ on December  7, 2005 <a href="#c24" rel="bookmark">#</a></p>
+</div>
+<div id="c25">
+<p>web.py sucks&#8230; Everything sucks&#8230; I&#8217;m going to do my own thing.</p>
+
+<p class="posted">posted by D B Dweeb
+ on December  7, 2005 <a href="#c25" rel="bookmark">#</a></p>
+</div>
+<div id="c26">
+<p>IMO the web app problem has not found any single framework simply because the problem of building web applications can be very easily modularized, and there are already excellent modules that provide specific orthogonal functionalities.</p>
+
+<p>When I also faced the task of having to write web app code that I did not want to commit to any framework (I want future flexibility of changing the components), I defined a set of interfaces (http://furius.ca/indra), and then provided them by plugging a variety of existing and non-existing modules (I had to write some of the modules, e.g. http://furius.ca/atocha for form processing, http://furius.ca/htmlout for HTML output).</p>
+
+<p>The fact is that you do not need a framework.  You need to choose the technology you&#8217;d like to use (i.e. do you need templates?  What database back-end are you using?  What language do you want to write to?  How do you want to bind the URLs to code?  etc.) and then pick the modules and put them together.</p>
+
+<p>Unfortunately, this is a fair bit of work in itself, which is why people build frameworks.  I have yet to see a framework which works for everyone.</p>
+
+<p>I don&#8217;t think this problem has a solution.  You either bend over to the limits of a framework, or you assemble your own.</p>
+
+<p>As for LISP: it would be worthwhile looking into a way to access the Python libraries from a LISP interpreter.  Sure enough, the interfaces are not going to be very lispy and the speed is going to be as slow as Python (that is, much slower), but it would at least provide a good set of well-tested libraries to work from.  I would love to see that happen&#8230;</p>
+
+<p>cheers,</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://furius.ca">Martin Blais</a>
+ on December  7, 2005 <a href="#c26" rel="bookmark">#</a></p>
+</div>
+<div id="c27">
+<p>Aaron: Looks very nice&#8212;-in the style of <a href="http://openacs.org" rel="nofollow">OpenACS</a> and WWDJBD (What Would DJB Do :) When I was doing some web programming a little while back, I tried out several of the Python frameworks. But none of them gave me an easy way to do the exact two things you mentioned: abstract URI mapping, and ability to distinguish between the different HTTP verbs. IMHO, these are the basic building blocks of any web application or framework; the rest of the infrastructure can be built around them.</p>
+
+<p>I look forward to the release of web.py&#8212;-keep up the good work :)</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.cs.uwaterloo.ca/~agrossku">Alan</a>
+ on December  7, 2005 <a href="#c27" rel="bookmark">#</a></p>
+</div>
+<div id="c28">
+<p>What an API can do is an objective question, not a personal preference. How easy it is to use is, ultimately, also an objective question &#8212; you can look at its the experience across a large number of users. I sat down with the reddit team and watched them try to use the Django API and the web.py API. For both of them I did my best to help modify the API so things were easier, but it became pretty clear which won out. Sure, it&#8217;s a small sample size, but I think the results wouldn&#8217;t be much different with a larger one.</p>
+
+<p>As for the people calling web.py closed source, it seems a little silly &#8212; it says right on the web site that it&#8217;s free software. I just thought I&#8217;d clean it up before I released it.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on December  7, 2005 <a href="#c28" rel="bookmark">#</a></p>
+</div>
+<div id="c29">
+<p>It was game over for Lisp when the authors limited themselves to free implementations of Lisp (even though they could have purchased a commercial version).</p>
+
+<p>Then they chose to do cross platform development on Mac and FreeBSD, which no free lisp supports (but which some commericial lisps support).</p>
+
+<p>If I&#8217;d seen this on a business plan I&#8217;d have rejected it right away.   It was a plan doomed to failure.  Sadly it was Lisp that got a black eye in this and not the people who decided to start the project with such crazy preconditions.</p>
+
+<p>There are commercical Lisps which can support development across Mac OS and FreeBSD and which have serious libraries for web programming and database access.   If one of these were chosen there would have been no need to switch to a lesser language.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.franz.com">John Foderaro</a>
+ on December  7, 2005 <a href="#c29" rel="bookmark">#</a></p>
+</div>
+<div id="c30">
+<p>Just curious: How come web.py uses a list to do url-function-mapping instead of a dictionary?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.cs.uwaterloo.ca/~agrossku">Alan</a>
+ on December  7, 2005 <a href="#c30" rel="bookmark">#</a></p>
+</div>
+<div id="c31">
+<p>&#8220;Problem one with TurboGears is that their website is hideous.&#8221;</p>
+
+<p>As compared to the web.py site?  I&#8217;m not sure you want to go down this road&#8230;  :)</p>
+
+<p class="posted">posted by Matt Brubeck
+ on December  7, 2005 <a href="#c31" rel="bookmark">#</a></p>
+</div>
+<div id="c32">
+<p>What? Yet another blog article telling us how the Python Web frameworks scene is, making sweeping statements like &#8220;none of them are any good&#8221;, focusing on the bad points of one singled-out framework, and then presenting a magic solution whose source code isn&#8217;t out there yet.</p>
+
+<p class="posted">posted by The Badger
+ on December  7, 2005 <a href="#c32" rel="bookmark">#</a></p>
+</div>
+<div id="c33">
+<p>Wow&#8230; they are re-discovering the CGI.pm lessons!</p>
+
+<p class="posted">posted by Sergio
+ on December  7, 2005 <a href="#c33" rel="bookmark">#</a></p>
+</div>
+<div id="c34">
+<p>A few quick comments:</p>
+
+<p>Django is open source, not closed as robbie&#8217;s message implied. (To be fair, robbie may have only been referring to web.py as closed, but his message could have been interpreted either way.)</p>
+
+<p>As far as Python templating goes, Spyce is easily the best in terms of flexibility and ease of integration of HTML and complex coding. (See this new Wikipedia page: http://en.wikipedia.org/wiki/Spyce ) If only it wasn&#8217;t such a jumbled mess in places.</p>
+
+<p>I have already used an alternative templating system (HTML Template &#8212; http://freespace.virgin.net/hamish.sanderson/htmltemplate.html ) within a Django app and that worked fine. I intend to try Django/Spyce and perhaps webpy/Spyce over the holidays. Interesting times.</p>
+
+<p class="posted">posted by Rock Howard
+ on December  7, 2005 <a href="#c34" rel="bookmark">#</a></p>
+</div>
+<div id="c35">
+<p><i>developers seem incapable of designing a decent API</i></p>
+
+<p>A common issue, across languages and domains, that deserves much more attention than the Lisp vs trivia, the Django vs trivia, etc that the reddit controversy has generated.  Good API design is not accidental, or easy, a fact too many code wizards ignore.</p>
+
+<p class="posted">posted by creat()
+ on December  7, 2005 <a href="#c35" rel="bookmark">#</a></p>
+</div>
+<div id="c36">
+<p>&#8220;Sadly it was Lisp that got a black eye in this and not the people who decided to start the project with such crazy preconditions.&#8221;</p>
+
+<p>A full language that works on Mac OS X and FreeBSD.  How crazy!  I guess not too crazy for Perl, Python, Ruby, Java, C++, Haskell, (we don&#8217;t have all day) managed to do it.</p>
+
+<p>&#8220;If one of these were chosen there would have been no need to switch to a lesser language.&#8221;</p>
+
+<p>That&#8217;s the way to win converts!  Insult their choices!</p>
+
+<p class="posted">posted by 09820983
+ on December  7, 2005 <a href="#c36" rel="bookmark">#</a></p>
+</div>
+<div id="c37">
+<p>I&#8217;m rather partial to <a href="http://www.mems-exchange.org/software/quixote/" rel="nofollow">Quixote</a>.</p>
+
+<p class="posted">posted by Kendall Clark
+ on December  7, 2005 <a href="#c37" rel="bookmark">#</a></p>
+</div>
+<div id="c38">
+<p>Oh, and isn&#8217;t reddit&#8217;s real problem that they&#8217;re busy changing implementation languages (!) while digg is sorta kicking their butts? I don&#8217;t know which site is doing better financially (does either one even have a biz model? What might it be, one wonders), but digg seems more polished, has a more pleasent UI, seems more featureful, and more popular.</p>
+
+<p>Setting aside the Python v. Lisp debate (which is <em>so</em> boring and pointless), I&#8217;d hate to be in what seems to be reddit&#8217;s position: serious, robust competition and remaking fundamental tech decisions.</p>
+
+<p>Eek!</p>
+
+<p class="posted">posted by Kendall Clark
+ on December  7, 2005 <a href="#c38" rel="bookmark">#</a></p>
+</div>
+<div id="c39">
+<p>Why does everyone take this attitude of creating an entirely new framework? In most other places, people fix bugs in existing software and contribute their skills rather than creating yet another framework. Though I may be biased, web.py looks suspiciously similar to Subway (as does TG). Why didn&#8217;t you opt to contribute to Subway rather than, again, divide the Python web framework community&#8217;s limited resources? When I started Subway, Django or TG hadn&#8217;t come out yet, and there wasn&#8217;t a non-Zope standard full-stack framework. I wanted to reuse as many existing components as possible to minimize this sort of thing. Don&#8217;t you think it would be a bit more productive if you had contributed to one of the many existing frameworks rather than invent yet another half-baked SQLObject/Cheetah framework? &#8220;They all suck&#8221; isn&#8217;t a good answer; the only way to create a non-sucky framework is to work together.</p>
+
+<p>Peter Hunt</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.gosubway.org/">Peter Hunt</a>
+ on December  7, 2005 <a href="#c39" rel="bookmark">#</a></p>
+</div>
+<div id="c40">
+<p>What lisp needs the most is a lot of new hackers willing to play with it. Lisp was abandoned for a very long time. Those other languages mentioned in the discussion were not. Right now I&#8217;m expecting very good things from projects like CFFI, wxCL and others.</p>
+
+<p>It&#8217;s a good thing they rewrote reddit. I usually implement and refactor an algorithm in lisp, because it has lots of features to help that, and then, I just implement the whole thing in other language just because it fits better with the task at hand, other languages have more libraries and that helps a lot.</p>
+
+<p>I just like lisp more than Python and Ruby but this is just a personal preference. We need better lisp implementations, because almost nobody used lisp in a long time some problems went unnoticed but this is starting to change.</p>
+
+<p>A good thing that Lisp makes very well is helping us identify the features and abstractions of other languages. A good lisp hacker has to be a good programmer in several languages, not just lisp.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.macondobits.com">Nicolay77</a>
+ on December  7, 2005 <a href="#c40" rel="bookmark">#</a></p>
+</div>
+<div id="c41">
+<p>Why does everyone take this attitude of creating an entirely new framework? In most other places, people fix bugs in existing software and contribute their skills rather than creating yet another framework. Though I may be biased, web.py looks suspiciously similar to Subway (as does TG). Why didn&#8217;t you opt to contribute to Subway rather than, again, divide the Python web framework community&#8217;s limited resources? When I started Subway, Django or TG hadn&#8217;t come out yet, and there wasn&#8217;t a non-Zope standard full-stack framework. I wanted to reuse as many existing components as possible to minimize this sort of thing. Don&#8217;t you think it would be a bit more productive if you had contributed to one of the many existing frameworks rather than invent yet another half-baked SQLObject/Cheetah framework? &#8220;They all suck&#8221; isn&#8217;t a good answer; the only way to create a non-sucky framework is to work together.</p>
+
+<p>Peter Hunt</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.gosubway.org/">Peter Hunt</a>
+ on December  7, 2005 <a href="#c41" rel="bookmark">#</a></p>
+</div>
+<div id="c42">
+<p>What lisp needs the most is a lot of new hackers willing to play with it. Lisp was abandoned for a very long time. Those other languages mentioned in the discussion were not. Right now I&#8217;m expecting very good things from projects like CFFI, wxCL and others.</p>
+
+<p>It&#8217;s a good thing they rewrote reddit. I usually implement and refactor an algorithm in lisp, because it has lots of features to help that, and then, I just implement the whole thing in other language just because it fits better with the task at hand, other languages have more libraries and that helps a lot.</p>
+
+<p>I just like lisp more than Python and Ruby but this is just a personal preference. We need better lisp implementations, because almost nobody used lisp in a long time some problems went unnoticed but this is starting to change.</p>
+
+<p>A good thing that Lisp makes very well is helping us identify the features and abstractions of other languages. A good lisp hacker has to be a good programmer in several languages, not just lisp.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.macondobits.com">Nicolay77</a>
+ on December  7, 2005 <a href="#c42" rel="bookmark">#</a></p>
+</div>
+<div id="c43">
+<p>Spyce is the most flexible tool out there. You can start of with a php like approach and then go on to use active handles and custom tags. I like turbogears (the screen cast is cool) but i&#8217;ve figured out how to do everthing in spyce (authetication, charting, ajax) so its really hard to switch for work</p>
+
+<p class="posted">posted by Chris
+ on December  7, 2005 <a href="#c43" rel="bookmark">#</a></p>
+</div>
+<div id="c44">
+<p>Is there anyhting like web.py or Ruby on Rails for PHP?</p>
+
+<p class="posted">posted by pwb
+ on December  7, 2005 <a href="#c44" rel="bookmark">#</a></p>
+</div>
+<div id="c45">
+<p>Lisp&#8217;s value does not only lie in macros; it&#8217;s just the most hyped feature. Take for example the Condition System, which goes beyond exceptions and return codes. For robust software. Maybe one day a Matz or Guido will offer it to his users.</p>
+
+<p>Lisp users are likely insane, but that&#8217;s probably not a bug, it&#8217;s a&#8230;</p>
+
+<p>While I thought Reddit&#8217;s technical decisions were reasonable, if Marc Battyani feels like spending several hours replicating their site, more power to him. People constantly demand that &#8220;the Lisp community&#8221; replicate things like Ruby on Rails or provide &#8220;proof&#8221; for their productivity claims or&#8230; ok, so someone decides to take the challenge, and it&#8217;s damned-if-you-do-damned-if-you-don&#8217;t.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.democracynow.org/">Tayssir John Gabbour</a>
+ on December  7, 2005 <a href="#c45" rel="bookmark">#</a></p>
+</div>
+<div id="c46">
+<p>The Lisp guys rewriting Reddit are missing the point.  Who here doubted that some Lisp pros could build Reddit?  Building something that already exists is easy:  the idea and prototype have already been made for you.</p>
+
+<p>The point is that some relative Lisp newbies tried to build their project in Lisp and found it not worth it.  Every time someone builds something in a language that isn&#8217;t Lisp is there going to be a big freakout followed by some Lisp pros duping something that&#8217;s already been done?  What a waste of time!  The Lisp guys rewriting Reddit should be looking at where the finger is pointing instead of the finger itself.</p>
+
+<p class="posted">posted by Egg Shen
+ on December  8, 2005 <a href="#c46" rel="bookmark">#</a></p>
+</div>
+<div id="c47">
+<p>I (respectfully) disagree, Egg Shen. The biggest waste of time I see is the soap opera of emotional pundits. (If any of my comments have been emotional, then I surely admit I&#8217;m part of the problem.)</p>
+
+<p>Take for example the fellow who&#8217;s competing with Reddit. I think despite the non-technical criticism which is all too common on blogs, whose only real effect is to increase Lisp&#8217;s bad-boy notoriety, some tech-minded developers are honestly waiting to see Marc&#8217;s progress and code. In fact, I&#8217;ve watched one or two very interesting presentations he gave on web frameworks. <a href="http://www.fractalconcept.com/download/framework-presentation.ppt" rel="nofollow">1</a></p>
+
+<p>People interested further in honest discussion might look at Espen Vestre&#8217;s slides on his successful stocktrading startup, PrimeTrader. <a href="http://weitz.de/eclm2005/" rel="nofollow">2</a></p>
+
+<p>http://fresh.homeunix.net/files/ilc02/proceedings/marc-battyani.pdf</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.democracynow.org/">Tayssir John Gabbour</a>
+ on December  8, 2005 <a href="#c47" rel="bookmark">#</a></p>
+</div>
+<div id="c48">
+<p>It seems this forum ate my three links. One more try, then I have other things to do&#8230; <a href="http://www.fractalconcept.com/download/framework-presentation.ppt" rel="nofollow">web-framework-1</a> link, <a href="http://fresh.homeunix.net/files/ilc02/proceedings/marc-battyani.pdf" rel="nofollow">web-framework-2</a> link, <a href="http://weitz.de/eclm2005/" rel="nofollow">primetrader</a> link.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.democracynow.org/">Tayssir John Gabbour</a>
+ on December  8, 2005 <a href="#c48" rel="bookmark">#</a></p>
+</div>
+<div id="c49">
+<p>Opinionated Software Lives!</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.inkdroid.org">Ed Summers</a>
+ on December  8, 2005 <a href="#c49" rel="bookmark">#</a></p>
+</div>
+<div id="c50">
+<p>I still wonder why nobody seems to care about Snakelets (http://snakelets.sf.net), which has zero hype yet a lot of interesting functionality.</p>
+
+<p>Ah, yes, zero hype. Sorry about that :)</p>
+
+<p class="posted">posted by Michael Affleck
+ on December  8, 2005 <a href="#c50" rel="bookmark">#</a></p>
+</div>
+<div id="c51">
+<p>Peter Hunt: &#8220;When I started Subway, Django or TG hadn&#8217;t come out yet, and there wasn&#8217;t a non-Zope standard full-stack framework.&#8221;</p>
+
+<p>This either shows how little research the average &#8220;megaframework&#8221; inventor does, or how unwilling they are to admit that other comparable solutions already existed. Ever heard of Webware, Peter?</p>
+
+<p class="posted">posted by The Badger
+ on December  8, 2005 <a href="#c51" rel="bookmark">#</a></p>
+</div>
+<div id="c52">
+<p>Why postgres and not mysql?</p>
+
+<p class="posted">posted by mthorley
+ on December  8, 2005 <a href="#c52" rel="bookmark">#</a></p>
+</div>
+<div id="c53">
+<p>Why emacs and not vi</p>
+
+<p class="posted">posted by bloug
+ on December  8, 2005 <a href="#c53" rel="bookmark">#</a></p>
+</div>
+<div id="c54">
+<p>Why not use Twisted.Web with Nevow?</p>
+
+<p class="posted">posted by Mikearagua
+ on December  8, 2005 <a href="#c54" rel="bookmark">#</a></p>
+</div>
+<div id="c55">
+<p>We&#8217;ve been fixing bugs, smoothing corners and adding features to twisted nevow over the last three years and it&#8217;s doing agreat job on a variety of sites handling traffix in excess of 50 pages per second. It&#8217;s also delivering multi-lingual content for the country of Oman and powering Athena powered websites for the health care industry (check your greek history for the her relation with Ajax). However, instead of starting with the flashy bits, the time has been spent getting the foundations right first so don&#8217;t expect a ruby on rails replacement just yet (in fact probably never, which is a good thing).</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://pollenation.net">Tim Parkin</a>
+ on December  8, 2005 <a href="#c55" rel="bookmark">#</a></p>
+</div>
+<div id="c56">
+<p>Don&#8217;t know if you&#8217;ve noticed, but Webware has stagnated for the past few years and doesn&#8217;t support WSGI. It&#8217;s also a bit too J2EE-ish for many Python people. Have you ever even used Webware? You&#8217;ll see that the current types of Rails-inspired frameworks are totally different.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.gosubway.org">Peter Hunt</a>
+ on December  8, 2005 <a href="#c56" rel="bookmark">#</a></p>
+</div>
+<div id="c57">
+<p>I think stagnation in terms of webware means stability rather then a lack of use or interest. Really all the new frameworks like TG, subway, django don&#8217;t really offer much more in terms of web framework then webware. They are just slightly different. The likes of FormKit (or FFK) are only just now being implemented in TG and from reading the forums, it seem as if these groups think the ideas are new and unique. Don&#8217;t get me wrong, there are improvements, but to think that all this is somehow new and exciting is ego fluff. Same goes for web.py it may seem simple now, but that&#8217;s only because it was written to do something simple. Just wait until it gets used, then the bloat and complexity will come. It&#8217;s just the nature of things.</p>
+
+<p class="posted">posted by Huy Do
+ on December  8, 2005 <a href="#c57" rel="bookmark">#</a></p>
+</div>
+<div id="c58">
+<p>This problem : no framework is exactly right leading to replication of effort is a sign that no language really fits well with the web.</p>
+
+<p>What&#8217;s needed is a new, higher level language for descriping web-apps with web-concepts, sessions, continuations, whatever, as built in primitives.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.synaesmedia.net">phil jones</a>
+ on December  8, 2005 <a href="#c58" rel="bookmark">#</a></p>
+</div>
+<div id="c59">
+<p>pbw: www.phpontrax.org</p>
+
+<p class="posted">posted by Paul Wib
+ on December  9, 2005 <a href="#c59" rel="bookmark">#</a></p>
+</div>
+<div id="c60">
+<p>Peter Hunt: &#8220;When I started Subway, Django or TG hadn&#8217;t come out yet, and there wasn&#8217;t a non-Zope standard full-stack framework.&#8221;</p>
+
+<p>Incorrect. There was Webware, SkunkWeb, and possibly one or two others.</p>
+
+<p>&#8220;Don&#8217;t know if you&#8217;ve noticed, but Webware has stagnated for the past few years and doesn&#8217;t support WSGI.&#8221;</p>
+
+<p>Straight away, you contradict yourself: how many years has Subway been around?</p>
+
+<p>&#8220;It&#8217;s also a bit too J2EE-ish for many Python people. Have you ever even used Webware? You&#8217;ll see that the current types of Rails-inspired frameworks are totally different.&#8221;</p>
+
+<p>Yes, but Webware was a &#8220;full-stack framework&#8221;: URL dispatching, presentation, persistence, the rest. It might not have been polished or even 1.0, and it might have been Java-like, but Rails and friends don&#8217;t suddenly define &#8220;full-stack&#8221;. Moreover, there are Webware derivatives that do support WSGI.</p>
+
+<p class="posted">posted by The Badger
+ on December 12, 2005 <a href="#c60" rel="bookmark">#</a></p>
+</div>
+<div id="c61">
+<p>Any ETA on the web.py code?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://unicast.org/">Guan Yang</a>
+ on December 12, 2005 <a href="#c61" rel="bookmark">#</a></p>
+</div>
+<div id="c62">
+<p>An easier option might have been to use Lisp to generate PHP.</p>
+
+<p class="posted">posted by Asim Jalis
+ on December 12, 2005 <a href="#c62" rel="bookmark">#</a></p>
+</div>
+<div id="c63">
+<p>&#8220;it says right on the web site that it&#8217;s free software. I just thought I&#8217;d clean it up before I released it. &#8220;</p>
+
+<p>Release Early, Release Often !</p>
+
+<p class="posted">posted by max_
+ on December 15, 2005 <a href="#c63" rel="bookmark">#</a></p>
+</div>
+<div id="c64">
+<p>OK - I have read Aaron&#8217;s post and most of the commentary about reddit, django, why the switch, etc&#8230;  Most because it got redunant towards the end&#8230;  I have one question&#8230;</p>
+
+<p>The religious arguement seems to have started over a new site (Reddit) that is a weak copy of Digg.  Am I missing something here?  Arent we talking about the best way to do something that has been very well done in the first place?</p>
+
+<p>][MS][</p>
+
+<p class="posted">posted by Matt Shannon
+ on December 30, 2005 <a href="#c64" rel="bookmark">#</a></p>
+</div>
+<div id="c65">
+<p>http://www.conversionrater.com/index.php/2005/12/22/interview-with-redditcom-founder-alexis-ohanian/</p>
+
+<p>OK - so it is born of /., Digg, and del.icio.us.  I answered my own question.  Wish I had done so before the post.  Please let the religious languages arguement continue&#8230;</p>
+
+<p>][ms][</p>
+
+<p class="posted">posted by Matt Shannon
+ on December 30, 2005 <a href="#c65" rel="bookmark">#</a></p>
+</div>
+<div id="c66">
+<p>I think the main point of the comp.lang.lisp newsgroup posters was that they not only created two different renditions of reddit within 24 hours, but that one rendition  was up and running within 3 hours of initial code and was in production in seven hours!</p>
+
+<p>So, hmmmm, 7 hours for Common Lisp and 7 days for Python - which is most productive/stable?</p>
+
+<p>In the end, the Reddit people were Pythonistas who  had merely dabbled in Common Lisp. Their most serious problems arose from their insistence upon conflicting choices of development platform versus implementation platforms. Pardon me if I do not sympathize with stupidity.</p>
+
+<p class="posted">posted by lardo
+ on January  1, 2006 <a href="#c66" rel="bookmark">#</a></p>
+</div>
+<div id="c67">
+<p>That could hardly have been the point since at the time I wrote this they&#8217;d written nothing. if it was their point, it was a stupid one, since reddit did just as much as they did (in fact, probably more) in the same amount of time. The reason it took a week is because the reddit team built a production service, with reliability and scalability, and numerous little features. Some of the lisp clones didn&#8217;t even save things to disk. I fail to see how something that loses all your users data when the computer is rebooted counts as &#8220;more stable&#8221;.</p>
+
+<p>Furthermore, reddit&#8217;s author is not a &#8220;pythonista&#8221; but a long-time dedicated lisp fan who wrote a thesis with the language.</p>
+
+<p>And how is it &#8220;stupidity&#8221; to want to be able to develop on your laptop? It&#8217;s convenient to be able to work from planes, for example. (In fact, I&#8217;m posting this from one.)</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on January  1, 2006 <a href="#c67" rel="bookmark">#</a></p>
+</div>
+<div id="c68">
+<p>Any progress releasing webpy?</p>
+
+<p class="posted">posted by stn
+ on January  3, 2006 <a href="#c68" rel="bookmark">#</a></p>
+</div>
+<div id="c69">
+<p>It&#8217;s currently in beta testing, with the goal of releasing in a couple days or so. Send me an email if you want to try it out.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on January  3, 2006 <a href="#c69" rel="bookmark">#</a></p>
+</div>
+<div id="c70">
+<p>I already knew that self-aggrandizement on web logs knows no bounds, but still I must say this was a terrific stunt - first complain that &#8216;none of the web application frameworks are any good&#8217; and then publish some cobbled-together, copied-and-pasted piece of &#8230;. such as web.py as the solution. Wow. Congrats to the first hot-air balloon ride into outer space.</p>
+
+<p class="posted">posted by Michael Palmer
+ on January 10, 2006 <a href="#c70" rel="bookmark">#</a></p>
+</div>
+<div id="c71">
+<p>I can&#8217;t wait to see the Reddit team
+crash and burn. Their implementation choiced and
+&#8216;reasons&#8217; for the switch (let alone the actual product) clearly demonstrate to me that they are 
+a bunch of incompetents, lured by the latest hype
+disregarding common sense in the process.</p>
+
+<p>I sincerely hope that they are equipped with the 
+King Midas touch of shit.</p>
+
+<p class="posted">posted by Steve M
+ on May 18, 2006 <a href="#c71" rel="bookmark">#</a></p>
+</div>
+<div id="c81">
+<p>web.py is very very very cool! Better then Zope ;) or django. Yes, it&#8217;s right: Zope/django - API/model&#8217;s/accent mistakes = web.py!</p>
+
+<p>Some reflection:
+1. way &#8220;less code&#8221; - is good!
+2. template independent - is good! (not only chetaah, may be EMPY as less (1 file!)
+3. independent moduls - is good! (I can change one module by other or remove it from my distribution)</p>
+
+<p>Aaron, big thanks for web.py! :) (little site for 1 day)</p>
+
+<p class="posted">posted by phx aka GNU
+ on September 29, 2006 <a href="#c81" rel="bookmark">#</a></p>
+</div>
+<div id="c92">
+<p>i&#8217;m using web.py with kid (or vice versa?) and this works just fine. switching from cheetah to kid was a total no-brainer, and i&#8217;m both a python n00b and a web.py n00b. this is a testament to how little web.py gets in your way. however, i don&#8217;t object to cheetah being the default templating engine and being nicely wrapped in web.py; IMHO it&#8217;s slightly inferior to kid, but it&#8217;s not that bad either.</p>
+
+<p>i&#8217;m just not sure yet if the frustration of being given so little to work with from web.py weighs less than the frustration of being burdened with the superfluous fluff of full-blown frameworks. i hope that there will soon be a lib that lets you do anything you need, in a simple, straightforward way, with Less Code(tm), but still allows you to do it your way, without hidden magic, auto-generated code, etc. and if i have to write that lib myself &#8230;</p>
+
+<p class="posted">posted by nex
+ on November  2, 2006 <a href="#c92" rel="bookmark">#</a></p>
+</div>
+<div id="c112">
+<p>I&#8217;ve been learning web.py these two days, and I have to say that web.py is cool, elegant and well-designed. Thanks so much for Aaron&#8217;s good job! Also thanks the current maintaining team. And I really hope that Aaron may continue to improve web.py to make it &#8220;next to RoR&#8221;.</p>
+
+<p class="posted">posted by 6yf
+ on January 30, 2010 <a href="#c112" rel="bookmark">#</a></p>
+</div>
+<div id="c117">
+<p>For weird historical reasons, the original version of this article implied I wasn&#8217;t involved in the rewrite. I&#8217;ve changed the first paragraph to make it clear that I was.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/weblog/">Aaron Swartz</a>
+ on November 17, 2012 <a href="#c117" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="rewritingreddit" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

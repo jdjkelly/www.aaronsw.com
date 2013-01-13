@@ -1,0 +1,221 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Stanford: Mr. Unincredible (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001629.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001627" title="The Truth About Maryland" />	<link rel="next" href="001632" title="Lessons in Capitalism #1: Division of Labor" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Stanford: Mr. Unincredible</h1>
+</div>
+
+<div class="content">
+<p class="dateline">February 14</p>
+
+<p>Most people, it seems, stretch the truth to make themselves seem more impressive. I, it seems, stretch the truth to make myself look worse.</p>
+
+<p>At CodeCon the other day, all sorts of people asked me what I was working on these days. I could have said &#8220;I&#8217;ve been put in charge of Roosevelt Labs, a center to write cool software with political implications&#8221;. Or I could have said &#8220;I&#8217;m writing a book about how the world really works&#8221;. But instead I say, &#8220;oh, nothing, just focusing on schoolwork&#8221;.</p>
+
+<p>Maybe that&#8217;s because that&#8217;s what I really want to be doing. I jut wante to live a nice quiet life at Stanford and then one ay someone puts me in charge of a whole technology think tank thing. It&#8217;s crazy.</p>
+
+<p>And then the other night, when [redacted] asked me why I switched from computer science to sociology, I said it was because Computer Science was hard and I wasn&#8217;t really good at it, which really isn&#8217;t true at all. The real reason is because I want to save the world. Maybe I didn&#8217;t say that because it sounds sort of crazy.</p>
+
+<p class="posted">posted March 26, 2005 03:20 PM (<a class="category" href="cat_education">Education</a>) (<a href="#comments">5 comments</a>) <a href="001629" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001627" title="The Truth About Maryland">&laquo; prev</a> | <a href="./">up</a> | <a href="001632" title="Lessons in Capitalism #1: Division of Labor">next &raquo;</a></p>
+
+<p><a href="001616">Fraud in Science</a><br />
+<a href="001618">How is Disney like the Soviet Union?</a><br />
+<a href="001622">Summer Founders</a><br />
+<a href="001626">The Truth About the Drug Companies</a><br />
+<a href="001627">The Truth About Maryland</a><br />
+<strong>Stanford: Mr. Unincredible</strong><br />
+<a href="001632">Lessons in Capitalism #1: Division of Labor</a><br />
+<a href="001633">Stanford: Out at the Movies</a><br />
+<a href="001634">Stanford: Form Without Content</a><br />
+<a href="001635">Stanford: A Wired Rave</a><br />
+<a href="001639">David M. Clark on Cognitive Therapy</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c4650">
+
+<p>Aaron: When you are young you are supposed to want to save the world! Don&#8217;t apologize for being an idealist, that is a character trait to be admired and affirmed, rather than hidden! I am glad you posted it to your blog.</p>
+
+<p>What you need to do to change the world is become a teacher. Last summer when a spent a week at Stanford at the Digital Media Academy I dropped in your College of Education there, and was impressed that their actual slogan is &#8220;Teach to Change the World.&#8221; This is what all of us in education should be about&#8212; and many of us are!</p>
+
+<p>Changing the world doesn&#8217;t mean changing the entire world, it can mean just being a positive influence on one person&#8217;s life. But as a teacher, you have an opportunity to affect much more than just one person. You never know what impact you will have at the time, but when students come back and talk to you years later&#8212; then you know for sure. I like the following quote from Emerson that talks about practical idealism, this may give you some food for thought:</p>
+
+<p>SUCCESS</p>
+
+<p>To laugh often and much;
+to win the respect of intelligent people and affection of children;
+to earn the appreciation of honest critics and endure the betrayal of false friends;
+to appreciate beauty, to find the best in others;
+to leave the world a bit better, whether by a healthy child a garden patch or a redeemed social condition;
+to know even one life has breathed easier because you have lived.</p>
+
+<p>This is to have succeeded.</p>
+
+<p>&#8212;-end of quotation&#8212;-</p>
+
+<p>So good luck with the sociology major! Keep blogging honestly, and go check out your College of Education. There are few callings higher than being a teacher (being a parent is about the only thing I can think of that is even better and higher on my list)&#8230;.</p>
+
+<p>Wesley</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.wesfryer.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=4650">Wesley Fryer</a> at March 26, 2005 04:51 PM <a href="#c4650">#</a></p>
+
+</div><div id="c4652">
+
+<p>It doesn&#8217;t sound crazy to me.</p>
+
+<p>You can save the world from many things: abuses, war, hunger, pollution, lock-ins, etc. Next time, just choose something you want to save the world from &#8212; something the other person cares about &#8212; and this will surly bring an interesting conversation.</p>
+
+<p>Wesley is right, don&#8217;t be ashamed of trying to save the world. These days I go out with protestation sign on my back, to protest government budget cuts in education here in Québec. I&#8217;m doing my part to solve the problem and I&#8217;m proud of it. And I haven&#8217;t been criticized for that yet.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.michelf.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=4652">Michel Fortin</a> at March 26, 2005 05:19 PM <a href="#c4652">#</a></p>
+
+</div><div id="c4672">
+
+<p>Why do you think that majoring in sociology will allow you to save the world moreso than had you majored in computer science?</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.simonbc.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=4672">Simon Carstensen</a> at March 28, 2005 01:33 AM <a href="#c4672">#</a></p>
+
+</div><div id="c4691">
+
+<p>I second Simon. Particularly with those artificial brains and all :-)
+No, seriously, I can see why you want to understand the things that upset you, and not just the things that fascinate you.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://vintermann.paranoidkoala.org" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=4691">Harald Korneliussen</a> at March 30, 2005 03:03 AM <a href="#c4691">#</a></p>
+
+</div><div id="c4854">
+
+<p>The options on the table:</p>
+
+<ol>
+<li>Learn how to make machines work, and find ways to make them help humans.</li>
+<li>Learn how humans work, and apply existing knowledge about machines to change that for the better.</li>
+</ol>
+
+<p>Option #2 seems like a perfectly rational choice to me.</p>
+
+<p class="posted">posted by Jason at April 20, 2005 11:25 PM <a href="#c4854">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001629.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1629" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Bandwagon (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Bandwagon</h1>
+
+<p><a href="http://ridethebandwagon.com/"><img src="http://farm1.static.flickr.com/179/392021925_6abad29d98.jpg?v=0" alt="Bandwagon" /></a></p>
+
+<p>A new service called <a href="http://ridethebandwagon.com/">Bandwagon</a> is launching soon that automatically backs up the music libraries of iTunes users to Amazon S3 for a flat rate. It looks very cleanly-designed; if only they did it <a href="http://www.aaronsw.com/weblog/lazybackup">for your whole hard drive</a>.</p>
+
+<p><em>Disclosure:</em> By posting this blog post, they&#8217;re giving me a free one-year account.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">February 17, 2007</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>Too bad their logo looks like a penis.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://billy.com">Billy</a>
+ on February 17, 2007 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>Nice score, Aaron.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.littleblur.com">Ben Donley</a>
+ on February 18, 2007 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>I like this blog a lot more when you stay out of the business of advertising in the site&#8217;s core content.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://mako.cc">mako</a>
+ on February 19, 2007 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c6">
+<p>I assume you got the e-mail this afternoon with the freebie code? Have you, can you, look under the hood at their code? Would greatly appreciate your assessment in the coming weeks.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://nielsolson.us/">Niels Olson</a>
+ on February 23, 2007 <a href="#c6" rel="bookmark">#</a></p>
+</div>
+<div id="c7">
+<p>It&#8217;s closed source but it actually seems quite nice and the people behind it have been doing a great job revving it.</p>
+
+<p>I was going to remove this post from the front page after I got the code, but this post got more attention than a usual post of mine and I&#8217;m actually pretty impressed with the software.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on February 23, 2007 <a href="#c7" rel="bookmark">#</a></p>
+</div>
+<div id="c8">
+<p>Aaron:</p>
+
+<p>I read your blog with great interest. Sadly your objectivity has take a great hit in my eyes. Here is quote from David Pogue about a blogger taking something free:</p>
+
+<p>&#8220;“Being provided an evaluation computer from Acer is not a ‘bribe,’” argued blogger Blake Handler, after receiving one of the free laptops. “It simply allows me to accelerate my evaluations, documentation and demonstrations of Windows Vista.”</p>
+
+<p>OMG! You’ve got to be kidding me, Blake. I guess just being <em>lent</em> a laptop wouldn’t have been enough to accelerate your evaluations? I guess only being given a freebie from Microsoft would do the trick.</p>
+
+<p>Now, I realize it must be hard to send a shiny new laptop back to the mother ship just because it’s the right thing to do. Still, I think very little of the bloggers who are keeping Microsoft’s bribe laptops.</p>
+
+<p>Clearly, they’re exploiting the lawless, Brave New World of the blogsophere, where, since they’re Not Quite Journalists, they don’t feel constrained by any of those pesky journalistic ethics guidelines. Like the one that says, “You don’t keep $2,200 gifts from the subject of your review. You might think you can still write an impartial review, but it’s highly unlikely-and either way, nobody will believe it.”&#8221;</p>
+
+<p>All people make mistakes. I hope that you learn from this one.</p>
+
+<p class="posted">posted by T.
+ on February 25, 2007 <a href="#c8" rel="bookmark">#</a></p>
+</div>
+<div id="c15">
+<p><a href="http://www.jungledisk.com/" rel="nofollow">Jungle Disk</a> is a pretty good general backup solution based on Amazon S3 (I&#8217;m using the free beta, but I am receiving no goodies in exchange).</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://omniorthogonal.blogspot.com">mtraven</a>
+ on March  6, 2007 <a href="#c15" rel="bookmark">#</a></p>
+</div>
+<div id="c16">
+<p>The explanation is so terse&#8230; I think this is an experiment on Aaron&#8217;s part to see what people will say about this.  I don&#8217;t think he&#8217;s getting anything for free.  He&#8217;s something of a rich man these days so he wouldn&#8217;t be much tempted by this kind of offer anyway.</p>
+
+<p class="posted">posted by Ethan
+ on March  7, 2007 <a href="#c16" rel="bookmark">#</a></p>
+</div>
+<div id="c18">
+<p>Aaron, you might be interested&#8230;</p>
+
+<p>http://onlyubuntu.blogspot.com/2007/03/backup-and-restore-ubuntu-system-using.html</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://blog.ridethebandwagon.com">Terence Pua</a>
+ on March 22, 2007 <a href="#c18" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="bandwagon" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

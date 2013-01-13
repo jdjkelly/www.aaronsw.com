@@ -1,0 +1,344 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>The Furious Rise of the Anonymous Writer (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/001158.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001149" title="The Trippi Story" />	<link rel="next" href="001160" title="Nader&#8217;s Negligence" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>The Furious Rise of the Anonymous Writer</h1>
+</div>
+
+<div class="content">
+<p>Christopher Farah, Salon: <a href="http://www.salon.com/ent/col/fix/2004/02/04/wed/">I know you are but who am I? The furious rise of the anonyblogger.</a></p>
+
+<p>Parody:</p>
+
+<p>You don&#8217;t have to look long to find the names of a slew of public figures held up for some serious derision on the Federalist Papers. </p>
+
+<p><a href="http://memory.loc.gov/const/fed/fed_09.html">No. 9</a> called opponents &#8220;advocates of despotism,&#8221; for arguing for a republic, adding they&#8217;ve &#8220;indulged themselves in malicious exultation&#8221;. And <a href="http://memory.loc.gov/const/fed/fed_02.html">No. 2</a> suggested opponents were shouting &#8220;FAREWELL! A LONG FAREWELL TO ALL MY GREATNESS.&#8221;</p>
+
+<p>It takes a certain courage to shoot half-cocked into the media landscape like that. Or does it? These and other anonymous authors have made names for themselves by having no names at all &#8212; and by using the safety and security of their secret identities to spread gossip, make accusations and levy the most vicious of insults with impunity.</p>
+
+<p>Anonywriters have given various reasons for the decision to withhold their identity. The Federalists were concerned that if their identity were known, it could &#8220;detrimentally affect their employment,&#8221; given their piece&#8217;s controversial content.</p>
+
+<p>But what about the hypocrisy in attacking others while protecting oneself from any sort of retaliation? [Huh? How does anonymity prevent retaliation? Just look at the <a href="http://www.constitution.org/afp/afp.htm">Anti-Federalist Papers</a>. - Ed.]</p>
+
+<p>Not surprisingly, journalism experts suggest anonymous writers are operating outside of any reasonable ethical line. &#8220;One of the things that&#8217;s going to have to become a standard for newspapers is, if you want to be taken seriously, you have to be identified,&#8221; says Alex Jones, director of Harvard&#8217;s Shorenstein Center. &#8220;Anonymity is almost always, for the mainstream anyway, something that says, &#8216;Be very, very careful.&#8217;&#8221;</p>
+
+<p>But it hasn&#8217;t stopped the mainstream from citing the anonymous writers. The Federalist Papers were included in the most popular newspapers of the day and have been widely-read and quoted since, and the Economist Magazine has a circulation of <a href="http://www.economistgroup.com/MediaInformation/results2003.html">nearly a million</a>.</p>
+
+<p>And in this one respect, perhaps, lies some nobility in anonymous writing. Unlike some talented writers who have turned blogging into high-profile gigs, how can an anonymous writer ever capitalize on any success? Benjamin Franklin, a longtime writer himself, calls his anonymous brethren &#8220;a bunch of misguided souls who don&#8217;t understand that the whole point of writing is self-promotion.&#8221;</p>
+
+<p>Commentary:</p>
+
+<p>I find this whole criticism of anonymity bizarre. Anonymous writers are no less accountable than any other form of writer. If I don&#8217;t like what Atrios (a popular anonymous blogger mentioned in the original piece) says, I can respond and I can attack Atrios. The only thing I <em>can&#8217;t</em> do is scare his children, or try to lose him his job. (The latter, I&#8217;ve heard, is common retaliation for Internet enemies.) There&#8217;s no reason why folks like Atrios should have to put their jobs and families on the line to share their thoughts. Salon should be cheering for the increasing popularity of anonymity, as it only helps thoughtful debate &#8212; it does nothing to hurt it.</p>
+
+<p class="posted">posted February 04, 2004 10:58 AM (<a class="category" href="cat_politics">Politics</a>) (<a href="#comments">23 comments</a>) <a href="001158" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001149" title="The Trippi Story">&laquo; prev</a> | <a href="./">up</a> | <a href="001160" title="Nader&#8217;s Negligence">next &raquo;</a></p>
+
+<p><a href="001142">Freedom of Speech, or The DeCSS Haiku</a><br />
+<a href="001143">The Media vs. The Facts</a><br />
+<a href="001144">Trippi Dumps Dean</a><br />
+<a href="001148">rss2email</a><br />
+<a href="001149">The Trippi Story</a><br />
+<strong>The Furious Rise of the Anonymous Writer</strong><br />
+<a href="001160">Nader&#8217;s Negligence</a><br />
+<a href="001166">Campaign Finance Reform: The Problem and Solution</a><br />
+<a href="001168">Third Parties: Why They Spoil and How to Stop It</a><br />
+<a href="001171">Gerrymandering: How Politicians Steal Votes and You Can Return Them</a><br />
+<a href="001173">Up is Down: How Stating the False Hides the True</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c451">
+
+<p>Amen, anonymous brother! (oops, boss coming, back to work)</p>
+
+<p class="posted">posted by anonymous at February  4, 2004 11:22 AM <a href="#c451">#</a></p>
+
+</div><div id="c452">
+
+<p>well put.</p>
+
+<p class="posted">posted by <a href="http://www.thedailybrew.com">brew</a> at February  4, 2004 11:50 AM <a href="#c452">#</a></p>
+
+</div><div id="c453">
+
+<p>There is a difference between anonymous and pseudonymous (a pen name).</p>
+
+<p>This comment I am writing is (mostly) anonymous.  I could write up libelous, with no accountability.</p>
+
+<p>Atrios is pseudonymous.  He risks the reputation of his weblog if he is defamatory.</p>
+
+<p class="posted">posted by Anon. at February  4, 2004 12:20 PM <a href="#c453">#</a></p>
+
+</div><div id="c454">
+
+<p>Atrios has also risked his weblog over the (possibly) defamatory comments of others.</p>
+
+<p>Anonymous (or, indeed, pseudonymous, with more than one writer employing the same pseudonym) writing in newspapers is rather more commonplace in the UK, it would seem, with distinct &#8216;leaders&#8217; as opposed to bylined &#8216;comment/opinion&#8217; and letters pages. Salam Pax, half-pseudonymous writer of Where Is Raed?, has become the UK&#8217;s blogging superstar, even tho&#8217; we don&#8217;t know his last name. Nothing &#8216;furious&#8217; about the rise of the anonyblogger at all&#8230;</p>
+
+<p class="posted">posted by TheaLogie at February  4, 2004 12:30 PM <a href="#c454">#</a></p>
+
+</div><div id="c455">
+
+<p>And don&#8217;t forget about the societal contributions of all of the super-heroes who hide their true identities? <br />
+I could never fight crime as effectively if people knew that I was Bruce Wayne.</p>
+
+<p>Oh shit.</p>
+
+<p class="posted">posted by <a href="http://www.batman.com/">Batman</a> at February  4, 2004 12:32 PM <a href="#c455">#</a></p>
+
+</div><div id="c456">
+
+<p>I used to be pseudonymous, but now I&#8217;m nymous.  Does that mean I&#8217;m credible now?  Also, that sonofabitch Zizka is still more famous than I am.  I hate him.</p>
+
+<p class="posted">posted by <a href="http://www.seetheforest.blogspot.com ">zizka / John Emerson</a> at February  4, 2004 12:36 PM <a href="#c456">#</a></p>
+
+</div><div id="c457">
+
+<p>I find that when some people don&#8217;t like what you have to say, and you are anonymous (or even if you just don&#8217;t put your surname), they claim it somehow invalidates your arguments.  It&#8217;s nothing more than an ad-hominem attack, but is surprisingly common.</p>
+
+<p class="posted">posted by Jim at February  4, 2004 12:40 PM <a href="#c457">#</a></p>
+
+</div><div id="c458">
+
+<p>The only reason the anonyblogger concept is being slammed is because it scares the Christ out of the people who write for a LIVING to see people doing the same thing for FREE.</p>
+
+<p>To argue otherwise, one must first admit that the named writers who decry the concept are illogical; as has been mentioned countless times, there is no logic behind blasting someone&#8217;s anonyimity.</p>
+
+<p>Ex: 2 + 2 will always be 4, no matter the name of supporters of the equation.</p>
+
+<p class="posted">posted by Ron at February  4, 2004 12:44 PM <a href="#c458">#</a></p>
+
+</div><div id="c459">
+
+<p>people who get paid to do commentary full-time are the equivalent of the RIAA screaming about P2P networks.</p>
+
+<p class="posted">posted by <a href="http://noamchimpsky.blogspot.com">noam chimpsky</a> at February  4, 2004 01:26 PM <a href="#c459">#</a></p>
+
+</div><div id="c460">
+
+<p>Convert named to pseudo to anonymous.  Problem of the day.</p>
+
+<p class="posted">posted by  at February  4, 2004 01:43 PM <a href="#c460">#</a></p>
+
+</div><div id="c464">
+
+<p>Hey, Mark Twain was a newspaper columnist, was he not?</p>
+
+<p class="posted">posted by Sen. HayZeus Braunschweiger at February  4, 2004 02:18 PM <a href="#c464">#</a></p>
+
+</div><div id="c465">
+
+<p>I would just say that it is a shame that people here are defending anonymity and pseudonymity by irresponsible bloggers who are able to libel and distort with impunity. It is a shame that false allegations are being made against authorities in government and business by cowardly anonymous bloggers, who claim to fear &#8220;repurcussions&#8221; should their identities as the authors of hateful screeds being revealed.</p>
+
+<p>It is highly inappropriate to suggest that either government or corporate bosses would in any way attempt to curtail any citizen&#8217;s right to free expression, nor attempt to harm anyone for excercising his or her right to an opinion, however misguided.</p>
+
+<p>This administration urges all anonymous and pseudonymous bloggers to live up to the journalistic ethics they so othen cite when libelling others, to come out from under the irresponsible and hurtful cover of anonymity, and for the benefit of this country, to state, clearly and for the record, their plames &#8230; er,  that is, to state their NAMES.</p>
+
+<p class="posted">posted by Scott McClellan at February  4, 2004 03:50 PM <a href="#c465">#</a></p>
+
+</div><div id="c466">
+
+<p>Who wrote the PNAC script?</p>
+
+<p>Who wrotes the part about 9/11 happened , therefore invade Iraq?</p>
+
+<p>Who write Bushes speeches?</p>
+
+<p>If not for anonymity, Bush would have NO place to hide his stupidity.</p>
+
+<p class="posted">posted by <a href="http://www.ambidexterity.blogspot.com">Maccabee</a> at February  4, 2004 04:00 PM <a href="#c466">#</a></p>
+
+</div><div id="c467">
+
+<p>Excellent points, Maccabee.</p>
+
+<p class="posted">posted by <a href="http://www.sideshow.idps.co.uk">Avedon</a> at February  4, 2004 07:16 PM <a href="#c467">#</a></p>
+
+</div><div id="c468">
+
+<p>The thing is, anybody can say they&#8217;re Atrios, but it&#8217;s harder for anyone to say they&#8217;re, for example, Aaron Swartz.</p>
+
+<p class="posted">posted by Rich at February  4, 2004 07:26 PM <a href="#c468">#</a></p>
+
+</div><div id="c470">
+
+<p>This whole attack on Atrios was started by Andrew Sullivan.</p>
+
+<p>He&#8217;s a jealous idiot.</p>
+
+<p class="posted">posted by miguel at February  4, 2004 08:43 PM <a href="#c470">#</a></p>
+
+</div><div id="c471">
+
+<p>Anybody can say they&#8217;re Atrios, but can anyone post an article on Atrios&#8217;s website?  In this world of dumpster-diving and identity theft, a pseudonym can be just as secure as a real-life name - perhaps even more so.  &#8220;Atrios&#8221; is more of a brand than an identity.  I don&#8217;t know or care what the person&#8217;s real-life name is, or even if it&#8217;s a group effort.  What I do care about is that when I see the name &#8220;Atrios&#8221; on an article I can associate it with other things that have appeared under that name and have some idea what I&#8217;m getting.  That&#8217;s a critical difference between anonymity and pseudonymity; methinks some folks need to read Brin&#8217;s &#8220;Transparent Society&#8221; to understand more.</p>
+
+<p class="posted">posted by <a href="http://pl.atyp.us">Jeff Darcy</a> at February  4, 2004 10:03 PM <a href="#c471">#</a></p>
+
+</div><div id="c473">
+
+<p>&#8220;This administration urges all anonymous and pseudonymous bloggers to live up to the journalistic ethics they so othen cite when libelling others, to come out from under the irresponsible and hurtful cover of anonymity, and for the benefit of this country, to state, clearly and for the record, their plames ? er, that is, to state their NAMES.&#8221;</p>
+
+<p>What?
+Of course they (Atrios etc.) can be sued for libel.
+They just can&#8217;t be harassed without a real case against them.</p>
+
+<p class="posted">posted by <a href="http://www.ujournal.org/users/fd/">Firas</a> at February  5, 2004 07:39 AM <a href="#c473">#</a></p>
+
+</div><div id="c485">
+
+<p>Always shooting the messenger&#8230;</p>
+
+<p class="posted">posted by <a href="mailto:ileana714@earthlink.net">ileana</a> at February  5, 2004 09:14 PM <a href="#c485">#</a></p>
+
+</div><div id="c486">
+
+<p>Always shooting the messenger&#8230;</p>
+
+<p class="posted">posted by <a href="mailto:ileana714@earthlink.net">ileana</a> at February  5, 2004 09:14 PM <a href="#c486">#</a></p>
+
+</div><div id="c526">
+
+<p>What I find intriguing about this conversation is its focus on the writer and their subjects matter. Regardless of source, named or not, I as an information consumer am able to determine what I believe to be credible. I use more than a named source to provide me the criteria to establish the credibility of information. Being a cynic is predicated on being told lies by those I know.</p>
+
+<p class="posted">posted by <a href="mailto:cecil@hotmail.com">Cecil</a> at February 13, 2004 11:48 AM <a href="#c526">#</a></p>
+
+</div><div id="c533">
+
+<p>I would like to defend the anonymous writer. I think there is a lot to be said about dealing with what a writer is saying as opposed to focusing on who is saying it. Many an ad hominem attack arises from one person knowing something about another. It helps to know who is writing what, but it&#8217;s not an ethical principle wether or not you reveal your actual identity, it is merely a method. Anonymity protects meaning and can help in avoiding personal attacks. </p>
+
+<p class="posted">posted by <a href="http://politicalpundit.com">Publius</a> at February 13, 2004 11:31 PM <a href="#c533">#</a></p>
+
+</div><div id="c558">
+
+<p>I would like to take a stand for anonynous writers everywhere! I&#8217;d like to go with your statement that writers should have a choice if they&#8217;d like to have their lives in possible danger or&#8230;NOT! Especially if you&#8217;re a writer of a highly controvirsal(sp?) issue. </p>
+
+<p>Being kept anonymous is the same, in my opinion, as protecting your life as well as your future. In at least many different aspects. </p>
+
+<p class="posted">posted by <a href="mailto:MoonPrincess2097@bellsouth.net">Lena's Mouth </a> at February 18, 2004 06:17 PM <a href="#c558">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/2002/001158.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/mt-comments.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1158" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /><br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

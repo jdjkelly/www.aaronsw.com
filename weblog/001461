@@ -1,0 +1,170 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Stanford: Day 47 (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001461.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001460" title="Stanford: Day 46 " />	<link rel="next" href="001462" title="David Boies on the Dispensation of Justice" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Stanford: Day 47</h1>
+</div>
+
+<div class="content">
+<p>I wake up with a terrible headache. As I stumble out of bed, my roommate says &#8220;Kerry conceded&#8221;. &#8220;Why?&#8221; I respond.</p>
+
+<hr />
+
+<p>At IHUM, we learn some lessons about schoolwork: &#8220;The more difficult you think it is, the better off you are. &#8230; The hard way gets As.&#8221;</p>
+
+<hr />
+
+<p>Yesterday the sky was cloudless. Today it&#8217;s so cloudfilled it is completely white. I still have a headache.</p>
+
+<hr />
+
+<p>In the hallways, I overhear one kid suggest we use operant conditioning to educate Republicans, specifically with thugs. He has concluded that democracy just doesn&#8217;t work. Ironic, considering he&#8217;s a Democrat.</p>
+
+<p class="posted">posted November 05, 2004 04:42 PM (<a class="category" href="cat_education">Education</a>) (<a href="#comments">1 comments</a>) <a href="001461" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001460" title="Stanford: Day 46 ">&laquo; prev</a> | <a href="./">up</a> | <a href="001462" title="David Boies on the Dispensation of Justice">next &raquo;</a></p>
+
+<p><a href="001454">November Surprise: The Votemaster is Andrew Tanenbaum</a><br />
+<a href="001457">Money and Politics</a><br />
+<a href="001458">The Facts About Money and Politics</a><br />
+<a href="001459">Stanford: Day 45</a><br />
+<a href="001460">Stanford: Day 46 </a><br />
+<strong>Stanford: Day 47</strong><br />
+<a href="001462">David Boies on the Dispensation of Justice</a><br />
+<a href="001463">Stanford: Day 48</a><br />
+<a href="001464">Amy Goodman (and guests) on the Election</a><br />
+<a href="001467">Stanford: Day 50</a><br />
+<a href="001468">Stanford: Day 51</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c3367">
+
+<p>Greg Palast claims that there was enough fraud in New Mexico and Ohio (particularly with manipulation of provisional ballots, this time) that Kerry would have legitimately won.</p>
+
+<p>Of course, this may just be wishful thinking, and in any case, I realize that there&#8217;s no chance that they&#8217;ll overturn the election results and have a recount or revote. But for what it&#8217;s worth&#8230; <a href="http://www.tompaine.com/articles/kerry_won.php">Kerry Won</a> by Greg Palast.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.adamatlas.org" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3367">Adam</a> at November  5, 2004 05:40 PM <a href="#c3367">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001461.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1461" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

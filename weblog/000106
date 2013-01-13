@@ -1,0 +1,43 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Hmmph, I&#8217;m running into the (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/000106.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000105" title="Does someone have an OPML" />	<link rel="next" href="000107" title="Tony Collen: &#8220;Personally, I think" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Hmmph, I&#8217;m running into the</h1>
+</div>
+
+<div class="content">
+<p>Hmmph, I&#8217;m running into the old &#8220;Can&#234;t evaluate the expression because the name &#150;template&#148; hasn&#234;t been defined.&#8221; that I got back with the very first versions of Radio. It goes away when I quit and relaunch Radio, tho. It appears to occur when I modify the site template.</p>
+
+<p class="posted">posted January 14, 2002 04:54 AM (<a class="category" href="cat_"></a>)  <a href="000106" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000105" title="Does someone have an OPML">&laquo; prev</a> | <a href="./">up</a> | <a href="000107" title="Tony Collen: &#8220;Personally, I think">next &raquo;</a></p>
+
+<p><a href="000101">It&#8217;s always cool to run</a><br />
+<a href="000102">I just completed a major</a><br />
+<a href="000103">Dave Winer: &#8220;Life is good.</a><br />
+<a href="000104">Sean wants a Radio mug&#8230;a</a><br />
+<a href="000105">Does someone have an OPML</a><br />
+<strong>Hmmph, I&#8217;m running into the</strong><br />
+<a href="000107">Tony Collen: &#8220;Personally, I think</a><br />
+<a href="000108">Tony Collen found our secret</a><br />
+<a href="000109">Salon: e.e. cummings reads four</a><br />
+<a href="000110">Wow! I&#8217;m number three in</a><br />
+<a href="000111">&#8220;I think there is a</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>What Does Blogspace Look Like? (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>What Does Blogspace Look Like?</h1>
+
+<p>I&#8217;ve been analyzing the content of blogs lately, looking for patterns. It&#8217;s a huge amount of data, which makes for some tricky technical problems. Finally, tonight, thanks to some help from friends and the <a href="http://lgl.sourceforge.net/">Large Graph Layout</a> package, I&#8217;ve finally got some results. And they&#8217;re stunning. Ladies and gentlemen, the blogosphere:</p>
+
+<p><img src="static/blogspace" alt="graph of blogspace" /></p>
+
+<p>And, for fun, let&#8217;s zoom in one one of those small splotches:</p>
+
+<p><img src="static/hitchens" alt="graph of the hitchens node" /></p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">July 26, 2006</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>Interesting. So when do we get more details? How are you determining the proximity of concepts? And what are those three giant splotches in the middle?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://weblog.randomchaos.com/">Scott Reynen</a>
+ on July 26, 2006 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>Bush, academia, and law, I think. As I said, this is just the very first result; hopefully I can share more interesting stuff later.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on July 26, 2006 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>Aaron - where did you get your dataset from?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.whatspop.com">Kunal</a>
+ on July 26, 2006 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>Kunal, you could work based off of Alexa&#8217;s platform and just fiddle with linking.</p>
+
+<p class="posted">posted by Jeremy Dunck
+ on July 26, 2006 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>The data is from <a href="http://feeds.reddit.com/" rel="nofollow">http://feeds.reddit.com/</a>.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on July 26, 2006 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c6">
+<p>The above graph appears to be a scale-free network (not surprising, really). Aaron, have you analyzed it with regard to its scale-free properties?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://cbcg.net/">Toby</a>
+ on July 26, 2006 <a href="#c6" rel="bookmark">#</a></p>
+</div>
+<div id="c7">
+<p>Not surprisingly, it looks an awful lot like the most other small networks.  Interesting to note are the patterns supported by the Power Law.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://greghartnett.com">greg</a>
+ on July 26, 2006 <a href="#c7" rel="bookmark">#</a></p>
+</div>
+<div id="c8">
+<p>No chance to get an anti-aliased version of that graph to see a bit more of the structure?  This is totally wicked.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://josephhall.org/nqb2/">joe</a>
+ on July 26, 2006 <a href="#c8" rel="bookmark">#</a></p>
+</div>
+<div id="c9">
+<p>&#8230;it would be cool to lay it out inside a 3D sphere&#8230; then it would really be the blogosphere.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://josephhall.org">joe</a>
+ on July 26, 2006 <a href="#c9" rel="bookmark">#</a></p>
+</div>
+<div id="c10">
+<p>That dataset of yours probably doesn&#8217;t have an open license? ;)</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://artofcomputing.infogami.com/">Chris Laux</a>
+ on July 26, 2006 <a href="#c10" rel="bookmark">#</a></p>
+</div>
+<div id="c11">
+<p>I don&#8217;t believe Reddit has an API yet.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.whatspop.com">Kunal Anand</a>
+ on July 28, 2006 <a href="#c11" rel="bookmark">#</a></p>
+</div>
+<div id="c21">
+<p>Very appealing; I would like to get more information on how you decomposed the data, and how you produced the layout.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www-rp.lip6.fr/~latapy/index.php?lang=en">Matthieu Latapy</a>
+ on July 25, 2007 <a href="#c21" rel="bookmark">#</a></p>
+</div>
+<div id="c22">
+<p>Very appealing; I would like to get more information on how you decomposed the data, and how you produced the layout.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www-rp.lip6.fr/~latapy/index.php?lang=en">Matthieu Latapy</a>
+ on July 25, 2007 <a href="#c22" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="blogviz" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

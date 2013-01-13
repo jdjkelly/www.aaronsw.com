@@ -1,0 +1,245 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>When can I keep an enemy combatant? (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001371.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001370" title="Justice Thomas and the Case-Dodgers" />	<link rel="next" href="001372" title="Why Ralph Runs" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>When can I keep an enemy combatant?</h1>
+</div>
+
+<div class="content">
+<p>A while ago I did some work on a project where I would chart the votes of presidential candidates, Supreme Court Justices, and congressmen. While I never finished it, I thought I&#8217;d use my advanced ColorVote&trade; technology to help people understand today&#8217;s Supreme Court rulings on prisoners in Guantanamo. The first column shows the judgment is done. (Some prediction is done for the third row, since the Court <a href="http://www.aaronsw.com/weblog/001370">didn&#8217;t rule directly because of jurisdiction</a>.)</p>
+
+<table>
+<thead><tr><th style="text-align: center">Citizen of/Captured in</th><th>Court</th><th>Stevens</th><th>Ginsburg</th><th>Souter</th><th>Breyer</th><th>O&#8217;Connor</th><th>Kennedy</th><th>Rehnquist</th><th>Thomas</th><th>Scalia</th></tr></thead>
+<tr><th><a href="http://supct.law.cornell.edu/supct/html/03-334.ZS.html">Foreigner / foreign land</a></th><td class="hear"><strong>Hear</strong></td><td class="hear">Hear</td><td class="hear">Hear</td><td class="hear">Hear</td><td class="hear">Hear</td><td class="hear">Hear</td><td class="hear">Hear*</td><td class="none">Keep</td><td class="none">Keep</td><td class="none">Keep</td></tr>
+<tr><th><a href="http://supct.law.cornell.edu/supct/html/03-6696.ZS.html">US citizen / foreign land</a></th><td class="hear"><strong>Hear</strong></td><td class="free">Free</td><td class="free">Free</td><td class="free">Free</td><td class="hear">Hear</td><td class="hear">Hear</td><td class="hear">Hear</td><td class="hear">Hear</td><td class="none">Keep</td><td class="free">Free</td></tr>
+<tr><th><a href="http://supct.law.cornell.edu/supct/html/03-1027.ZS.html">US citizen / United States</a></th><td class="free"><strong>Free&dagger;</strong></td><td class="free">Free</td><td class="free">Free</td><td class="free">Free</td><td class="free">Free</td><td class="hear">Hear&dagger;</td><td class="hear">Hear&dagger;</td><td class="hear">Hear&dagger;</td><td class="none">Keep&dagger;</td><td class="free">Free&dagger;</td></tr>
+</table>
+
+<p>* Only in Guantanamo Bay. <br />
+&dagger; Did not reach the question so I&#8217;ve predicted the position. For Justices, I took the most liberal view from another case.</p>
+
+<p><strong>Key:</strong> <br />
+<span class="free">Free</span> means the President has no right to keep him. <br />
+<span class="hear">Hear</span> means he has the right to a trial about whether he should be kept. <br />
+<span class="none">Keep</span> means the President can arrest him without trial.</p>
+
+<p class="posted">posted June 28, 2004 02:45 PM (<a class="category" href="cat_politics">Politics</a>) (<a href="#comments">8 comments</a>) <a href="001371" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001370" title="Justice Thomas and the Case-Dodgers">&laquo; prev</a> | <a href="./">up</a> | <a href="001372" title="Why Ralph Runs">next &raquo;</a></p>
+
+<p><a href="001347">Watch the Comedians: The Daily Show</a><br />
+<a href="001348">Watch the Comedians: The Daily Howler</a><br />
+<a href="001349">Priorities</a><br />
+<a href="001369">Watch the Comedians: Fafblog!</a><br />
+<a href="001370">Justice Thomas and the Case-Dodgers</a><br />
+<strong>When can I keep an enemy combatant?</strong><br />
+<a href="001372">Why Ralph Runs</a><br />
+<a href="001373">What is going on at the Supreme Court?</a><br />
+<a href="001374">Four Myths About Politics</a><br />
+<a href="001375">Fahrenheit 9/11 Transcript: The Saudi Flights</a><br />
+<a href="001376">Stupid Criticisms of Fahrenheit 9/11</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c2411">
+
+<p>Curious as to why you&#8217;d think Breyer wouldn&#8217;t be in the &#8220;hear&#8221; column for Padilla just as he was for Hamdi. After all, the Padilla dissent that Breyer joins is a ringing endorsement for giving a hearing, not for setting the guy free.</p>
+
+<p>My own cockeyed speculation is that the Court ducked the merits on Padilla because they were deadlocked 4-4-1, just like Hamdi, only in Padilla, Ginsburg and Souter had no reason to concur with the plurality in the judgment (i.e., to give Hamdi a hearing). If Souter and Ginsburg had not concurred in the judgment, the Court would have been deadlocked, the lower court ruling would have been left to stand, and Hamdi would rot in the brig forever.</p>
+
+<p>In Padilla, though, the lower court ruled in his favor, right? So a deadlocked Supreme Court would have resulted in his release &#8212; at least until the Bush administration thought up some other rationale to hold him. </p>
+
+<p class="posted">posted by Lori at June 28, 2004 07:54 PM <a href="#c2411">#</a></p>
+
+</div><div id="c2412">
+
+<p>The Padilla opinion is less than clear, but I believe this passage means Padilla should be set free:</p>
+
+<blockquote>
+  <p>Executive detention [&#8230;] may not, however, be justified by the naked interest in using unlawful procedures to extract information. Incommunicado detention for months on end is such a procedure. Whether the information so procured is more or less reliable than that acquired by more extreme forms of torture is of no consequence. For if this Nation is to remain true to the ideals symbolized by its flag, it must not wield the tools of tyrants even to resist an assault by the forces of tyranny.</p>
+</blockquote>
+
+<p>Your speculation makes some sense but although it doesn&#8217;t explain why Breyer didn&#8217;t sign on to the dodge. And wouldn&#8217;t Thomas agree to concede Padilla a trial rather than set him free unconditionally? (He&#8217;s certainly signed a lot of opinions he felt didn&#8217;t go far enough in the past!)</p>
+
+<p>I think my vote count theory makes more sense: Breyer was voting to set Padilla free and if Scalia had signed on they would command a majority. Scalia was OK about standing for principle when his vote made no difference, but when it was going to set a criminal free, he agreed to the dodge. (Especially if the majority would have outlawed material witness holdings; I&#8217;m not sure if it would or not.)</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2412">Aaron Swartz</a> at June 28, 2004 08:26 PM <a href="#c2412">#</a></p>
+
+</div><div id="c2414">
+
+<p>I really wish Breyer had written something, even a few paragraph concurrence in either Hamdi or Padilla so we could make sense of what he thinks.  And, this is fundamentally important, because he seems to be the key.</p>
+
+<p>Regardless, I think that Breyer could sign on to Hamdi and on the Stevens&#8217; dissent in Padilla without raising any red flags.  The one critical distinction that exists between the two is the situs of capture.</p>
+
+<p>To that end, the AUMF could authorize detention of Hamdi because he was (or so it is alleged) captured on a battlefied.  The only way to apply the AUMF to Padilla would be to classify the US as such a battlefield.</p>
+
+<p>I was struck by reading the opinion of the &#8220;O&#8217;Connor four&#8221; in Hamdi how often it is that her language seemed to address seizures in Afghanistan of people waging war against the US.  My guess is that that was the cost of Breyer signing on.  If he didn&#8217;t sign on, and O&#8217;Connor&#8217;s opinion were not geographically limited, Breyer could have separately concurred that AUMF applied to Hamdi because of geography.</p>
+
+<p>That situation would create a 1-3-1-4 court&#8230;with Thomas being the crazy outlier.  </p>
+
+<p>The most important part of this post is this:  What in god&#8217;s name is going on with the first sentence of Section III and especially FN 8?  If Breyer does not agree with the language below, shouldn&#8217;t he have at least made that clear? Alternatively, it the first sentence below a nod to Breyer&#8217;s disagreement with the FN?</p>
+
+<p>&#8220;Whether respondent is entitled to immediate release is a question that reasonable jurists may answer in different ways.&#8221; (FN 8: Consistent with the judgement of the COA, I believe that the Non-Detention Act, 18 USC Sec. 4001(a) prohibits-and the AUMF Joint Resolution, 115 Stat. 224, adopted on September 18, 2004 does not authorize - the protracted incommunicado detention of Americans citizens arrested IN THE UNITED STATES.&#8221;</p>
+
+<p class="posted">posted by <a target="_blank" title="http://babounakis.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2414">Jim</a> at June 28, 2004 10:25 PM <a href="#c2414">#</a></p>
+
+</div><div id="c2415">
+
+<p>I suspect the &#8220;reasonable jurists&#8221; thing was simply trying to be polite to the majority. But the footnote 8 really does make it clear to me that Breyer wants Padilla to be set free. (Unless he didn&#8217;t sign on to the footnotes or something&#8230;)</p>
+
+<p>What&#8217;s the COA?</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2415">Aaron Swartz</a> at June 28, 2004 10:36 PM <a href="#c2415">#</a></p>
+
+</div><div id="c2418">
+
+<p>I abbreviated the FN.  COA=Court of Appeals.</p>
+
+<p>I would totally agree with you if that nice sentence where not there only to be followed by a FN full of qualifications like the word &#8220;protracted.&#8221;</p>
+
+<p>On the whole, I think you are right.  Nevertheless, the first sentence of Section III has me kinda nervous.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://babounakis.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2418">Jim</a> at June 28, 2004 10:46 PM <a href="#c2418">#</a></p>
+
+</div><div id="c2421">
+
+<p>Well, that guy Thomas sure is consistent.  You&#8217;d think a man who descended from slaves would be a little more sensitive to the idea that people can&#8217;t be held against their will without due process.  But that show how complex a man can be.  </p>
+
+<p>I suppose my stereotypical thoughts about Thomas stem from a culture of racism&#8230;</p>
+
+<p class="posted">posted by Jon R. Koppenhoefer at June 29, 2004 03:23 AM <a href="#c2421">#</a></p>
+
+</div><div id="c2422">
+
+<p>Wouldn&#8217;t it be really cool if President Bush declaired Justice Thomas as an Enemy Combatant?</p>
+
+<p class="posted">posted by Chuck Peterka at June 29, 2004 05:46 AM <a href="#c2422">#</a></p>
+
+</div><div id="c2443">
+
+<p>Chuck, your comment caused me spit my cola on my desk.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.texasonline.net/langley/columns/thomas.htm" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2443">Justice Thomas</a> at June 30, 2004 01:26 PM <a href="#c2443">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001371.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1371" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

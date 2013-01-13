@@ -1,0 +1,199 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Jeff Hawkins on the Brain (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001517.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001516" title="Stanford: Day 62" />	<link rel="next" href="001518" title="Stanford: Day 63" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Jeff Hawkins on the Brain</h1>
+</div>
+
+<div class="content">
+<p>(<a href="http://www.aaronsw.com/weblog/static/hawkins.mp3">low-quality MP3 recording of the talk: 1hr, 35MB</a>)</p>
+
+<p>Jeff Hawkins practically bounces into the room, full of energy, even though there is hardly anyone is there. He is unfazed. &#8220;Well, at the very least my mom is coming,&#8221; he says. (Sure enough, his mom soon arrives &#8212; with a friend, even.) He needn&#8217;t worry though, the room fills up as it gets closer to the start time.</p>
+
+<p>Hawkins is here to talk about his new book, <em>On Intelligence</em>, which, he says, is &#8220;a book about brains &#8230; a functional, biological theory about how the neocortex works&#8221;. The book exudes the same cheerful, almost goofy enthusiasm Hawkins does. &#8220;It can be a very technical field and I didn&#8217;t want it to be a very technical book,&#8221; Hawkins says, so he hired <em>New York Times</em> science writer Sandra Blakeslee as his co-author.</p>
+
+<p>Hawkins seems like an odd person to write a book about brains. After all, he is a self-admitted &#8220;computer guy&#8221;. But upon reading a special issue of <em>Scientific American</em> about the brain, he realized he wanted to be the guy who figures out how the brain actually works. He tried to get started immediately but found there wasn&#8217;t much of an opportunity to do this without a lot of money, so he decided to make some money in the computer industry first.</p>
+
+<p><!--
+He studied EE as an undergrad and quickly got a job at Intel. But four months into his job he got his copy of _Scientific American_, which was running a special issue entirely about the brain. The last article, by Francis Crick, lamented that despite the vast amount of details we had about the brain, we still had no overall theory about how it all worked. </p>
+
+<p>This struck Hawkins. "Gee, how hard can it be?" Hawkins said. "It's hard to figure things out but it's generally not hard to understand them." And it was an important problem too -- the brain! -- so he just latched right onto it. He first asked Intel to start a department to study the brain. They refused. Then he applied to the MIT AI Lab. They said they weren't interest in studying _actual_ brains, just programming computers. A few years later, he managed to leave his computer industry job to get into a biophysics program at Berkeley.</p>
+
+<p>He tried to study this as a graduate student and he even wrote up a thesis, which was well-received, but he was told he couldn't study it. As a graduate student, you have to work in someone else's lab, studying what they want to study, and nobody was studying this. So he decided to go back into the computer industry for four years so he could make enough money to afford to be a student again.</p>
+
+<p>"I figured I was up against not just a science problem, but an institutional problem," he said. "If someone like myself _really_ wanted to study what everyone agreed was a very important topic and you couldn't do it then something was wrong." So he hoped he would also learn how to change institutions. "This all happened but it didn't take four years it took ... more like eighteen years." --></p>
+
+<p>As he well did. During his time in the industry, he invented the PalmPilot, the Treo smart phone, and other industry successes. &#8220;But all this time as an entrepreneur I was working part-time. The other part of my time was on neuroscience and I had a lot of friends in the neuroscience community.&#8221; About three years ago those friends convinced him to create a new institution to study this kind of stuff. It&#8217;s called the Redwood Neuroscience Institute (RNI) and it&#8217;s nearby in Menlo Park. &#8220;And over the last few years a lot of progress has been made &#8212; a tremendous amount &#8212; and that&#8217;s in the book.&#8221;</p>
+
+<p><!--So what is the theory? He pulls out a model of the brain. "We can roughly divide the brain into two parts. ... There's the old brain, which goes up the center like a post. And then there's the new brain -- the neocortex -- and in the human brain it's this big wrinkly thing on the top." The neocortex is the key -- it handles all our high-level thought, everything from language to perception.--></p>
+
+<p>The book is about the neocortex, the white wrinkly stuff that covers the brain and handles high-level thought. He pulls out a large dinner napkin. &#8220;This is a model of the neocortex,&#8221; he says. &#8220;It gets crumpled up to fit into your head, that&#8217;s why it&#8217;s all wrinkly.&#8221; There are two important things to understand about the cortex. First, there are different regions of the cortex that do different things (sight, motor control, listening, speech, etc.). Second, the entire cortex &#8212; the whole dinner napkin &#8212; is pretty much identical everywhere.</p>
+
+<p><!--This leads us to believe that the cortex is doing the same thing everywhere. The process that understands speech is the same process that reads words is the same process that composes music is the same process that thinks high-level thoughts. "This is a really amazing observation! ... It is true. I've tested a lot of biologists about it and about half of them believe it and about half of them either don't believe it or ignore it because it just seems so hard to believe. But there's a tremendous amount of evidence."--></p>
+
+<p><!--The cortex is about making predictions. It builds a model of the world which it uses to predict how things will behave. Not even conscious predictions, just simple stuff like when you walk it predicts when your foot is going to stop and what it's going to feel like. And you can tell this because if anything is just a little different you notice. You do this all the time -- you predict what letters will look like what people sound like what words will be where in sentences and so on.</p>
+
+<p>What's the point? Well, take a lizard and a rat. They both have an old brain but the rat has a new brain -- a neocortex. Well, if you put them in mazes and have them find cheese, the rat can remember the patterns he's seen before and play back the predictions so he can quickly find the cheese.</p>
+
+<p>The difference is that the human cortex is _really_ big and it's connected directly to our motor system. The predictions drive our human behavior. If you take out the motor part of the cortex in a human, they're paralyzed. You do it in a rat and you hardly notice the difference.</p>
+
+<p>So how does the cortex do this? First, it connects the various regions of the big sheet together in a hierarchical way. --></p>
+
+<p>The whole thing is a big pattern-matching machine. The pieces at the bottom of the hierarchy are connected directly to sensory inputs, like the eyes. They get messy, blurry signals back and try to make sense out of them: &#8220;that&#8217;s a line, that&#8217;s a circle&#8221;. Then they pass this up to the next level of the hierarchy. The next region is about half as small as the first one, because each piece combines a couple of the results from a piece below to make a larger result. &#8220;Line, line, line, line? That&#8217;s a rectangle.&#8221; And so on. Then they all pass it up the chain again, to another part which again puts them together. &#8220;Oh, that&#8217;s a piece of paper. That&#8217;s a bottle of water.&#8221; Finally, they get passed up to the higher-level portions of the brain. &#8220;Oh, this is my room.&#8221;</p>
+
+<p>There are several key points here. First, each piece tries to match relationships, not things themselves. You listen to the musical distance between notes, not the notes. This is why you can&#8217;t notice if a song is sung in a different key without perfect pitch and why you can recognize people&#8217;s faces even under different colored lights. Even though the levels all change, the relationships between them stay the same.</p>
+
+<p>Second, the connections all go in two directions. Once it&#8217;s bubbled up and your brain realizes its in your room, it passes the information about the layout of your room back down so that your eyes no where to look and your head knows where to turn. If you think &#8220;fan&#8221;, it passes that information back down the chain so that the eyes know to look for a white circle and the neck muscles know to look left.</p>
+
+<p>Third, if any part sees something it <em>doesn&#8217;t</em> recognize, it passes it up to the next highest level. If nothing recognizes it, it goes to the hippocampus which makes a new memory for it. If you see the thing over and over again, the same pattern eventually gets learned at lower and lower levels, making your responses to things faster and more ingrained. This explains what an expert is: they&#8217;re someone who has pushed the details of a specific field down into their brain so they can process things more quickly.</p>
+
+<p>(I&#8217;ve cut some details out of this report for length; you can see them by viewing source and reading the comments.)</p>
+
+<p class="posted">posted January 23, 2005 08:16 PM (<a class="category" href="cat_education">Education</a>) (<a href="#comments">1 comments</a>) <a href="001517" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001516" title="Stanford: Day 62">&laquo; prev</a> | <a href="./">up</a> | <a href="001518" title="Stanford: Day 63">next &raquo;</a></p>
+
+<p><a href="001502">D.J. Bernstein: The Good News Archive</a><br />
+<a href="001504">Pick A Side</a><br />
+<a href="001512">In His Own Words</a><br />
+<a href="001515">Newspaper Writers on the Election</a><br />
+<a href="001516">Stanford: Day 62</a><br />
+<strong>Jeff Hawkins on the Brain</strong><br />
+<a href="001518">Stanford: Day 63</a><br />
+<a href="001523">Stanford: Day 64</a><br />
+<a href="001524">Stanford: Day 65</a><br />
+<a href="001526">Quick Takes</a><br />
+<a href="001527">Stanford: Day 66</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c4104">
+
+<p>I just wanted to thank you for posting this.  I&#8217;ve been interested in Hawkins&#8217; work ever since I relatively recently found out about it.  The notion of a guy deciding to make a lot of money (and then doing it!) before going back to study the nature of intelligence is amazing.</p>
+
+<p>It is clear to me that computational power is increasing far faster than our ability to write &#8216;intelligent&#8217; software for it.  There&#8217;s just so much yet to discover there!  I&#8217;m certainly envious of the guy, though I really shouldn&#8217;t be.</p>
+
+<p class="posted">posted by Rich at February 28, 2005 02:46 AM <a href="#c4104">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001517.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1517" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

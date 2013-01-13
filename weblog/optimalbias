@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>What are the optimal biases to overcome? (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>What are the optimal biases to overcome?</h1>
+
+<p><em>This is a bonus post for my series <a href="http://www.aaronsw.com/weblog/rawnerve">Raw Nerve</a>. It originally appeared in <a href="http://lesswrong.com/lw/dya/what_are_the_optimal_biases_to_overcome/" rel="nofollow">somewhat different form</a> on Less Wrong.</em></p>
+
+<p>I&#8217;ve noticed that some people have complimented my series <a href="http://www.aaronsw.com/weblog/rawnerve">Raw Nerve</a> by saying it&#8217;s a great explanation of cognitive biases. Which always amuses me, since the series grew out of frustrations I had with the usual way that term gets used. There&#8217;s a group of people (call them the cognitive bias community) who say the way to be more rational &#8212; to get better at making decisions that get you what you want &#8212; is to work at overcoming your biases. But if you&#8217;re overcoming biases, surely there are some lessons that will help you more than others.</p>
+
+<p>You might start with the most famous ones, which tend to be the ones popularized by Kahneman and Tversky. But K&amp;T were academics. They weren&#8217;t trying to help people be more rational, they were trying to prove to other academics that people were irrational. The result is that they focused not on the most important biases, but the ones that were easiest to prove.</p>
+
+<p>Take their famous anchoring experiment, in which they showed the spin of a roulette wheel affected people&#8217;s estimates about African countries. The idea wasn&#8217;t that roulette wheels causing biased estimates was a huge social problem; it was that no academic could possibly argue that this behavior was somehow rational. They thereby scored a decisive blow for psychology against economists claiming we&#8217;re just rational maximizers.</p>
+
+<p>Most academic work on irrationality has followed in K&amp;T&#8217;s footsteps. And, in turn, much of the stuff done by the wider cognitive bias community has followed in the footsteps of this academic work. So it&#8217;s not hard to believe that cognitive bias types are good at avoiding these biases and thus do well on the psychology tests for them. (Indeed, many of the questions on these tests for rationality come straight from K&amp;T experiments!)</p>
+
+<p>But if you look at the average person and ask why they aren&#8217;t getting what they want, very rarely do you conclude their biggest problem is that they&#8217;re suffering from anchoring, framing effects, the planning fallacy, commitment bias, or any of the other stuff in these tests. Usually their biggest problems are far more quotidian and commonsensical, like procrastination and fear.</p>
+
+<p>One of the things that struck me was watching Eliezer Yudkowsky, one of the most impressive writers on the topic of cognitive biases, try to start a new nonprofit. For years, the organization he founded struggled until recently, when Luke Muehlhauser was named executive director. Eliezer readily agrees that Luke has done more to achieve Eliezer&#8217;s own goals for the organization than Eliezer ever did.</p>
+
+<p>But why? Why is Luke so much better at getting what Eliezer wants than Eliezer is? It&#8217;s surely not because Luke is so much better at avoiding the standard cognitive biases! Luke often talks about how he&#8217;s constantly learning new rationality techniques from Eliezer.</p>
+
+<p>No, it&#8217;s because Luke did what seems like common sense: he bought a copy of <em>Nonprofits for Dummies</em> and did what it recommends. As Luke himself <a href="http://lesswrong.com/lw/cbs/thoughts_on_the_singularity_institute_si/6klg?context=1#6l4h">says</a>, it wasn&#8217;t lack of intelligence or resources or willpower that kept Eliezer from doing these things, &#8220;it was a gap in general rationality.&#8221;</p>
+
+<p>So if you&#8217;re interested in closing the gap, it seems like the skills to prioritize aren&#8217;t things like commitment effect and the sunk cost fallacy, but stuff like &#8220;figure out what your goals really are&#8221;, &#8220;look at your situation objectively and list the biggest problems&#8221;, &#8220;when you&#8217;re trying something new and risky, read the For Dummies book about it first&#8221;, etc. That&#8217;s the stuff I&#8217;m interested in writing about.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">August 29, 2012</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>Maybe some things that are clearly biases, when studied in isolated/reductionist experiments, are even rational.</p>
+
+<p>Say there&#8217;s a simple folk &#8216;rule of thumb&#8217; that&#8217;s right 90% of the time, but results in a wrong/&#8217;biased&#8217; response 10% of the time. However, the cost of being wrong is small, and the marginal benefit of the sensors/rules/neurons/etc for distinguishing that 10% is less than devoting that same decisionmaking-machinery to some other purpose.</p>
+
+<p>So there are errors/biases everywhere&#8230; but they&#8217;re roughly the <em>right</em> errors/biases given the complexity-budget and circumstances (childhood/evolution/founding-constraints) under which they arose. Or at least, close enough to the &#8216;right&#8217; errors that they&#8217;re only well-teased out in modern, rapid-cultural-change, laboratory-study conditions. The &#8216;bias&#8217; is locally irrational, but globally as efficient as any other strategy implementable within the same constaints.</p>
+
+<p>Outside laboratory-like conditions, can we reliably tell the difference between &#8216;bias&#8217; and &#8216;tacit knowledge&#8217;? And conversely, won&#8217;t some imperfect/overconfident laboratory conditions miscategorize &#8216;tacit knowledge&#8217; or &#8216;globally efficient reasoning given a firm cognitive budget&#8217; as &#8216;bias&#8217;?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://memesteading.com">Gordon Mohr</a>
+ on August 29, 2012 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>Your third article in the Raw Nerve series highlight the benefits of fighting confirmation bias (we tend to look for evidence to confirm we don;t need to change) and the fundamental attribution error (when we fail it is situational, when others fail it is a flaw in their character), although you do not name these specifically.</p>
+
+<p class="posted">posted by 
+ on September  2, 2012 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="optimalbias" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

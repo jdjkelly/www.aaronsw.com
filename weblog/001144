@@ -1,0 +1,231 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Trippi Dumps Dean (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/001144.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001143" title="The Media vs. The Facts" />	<link rel="next" href="001148" title="rss2email" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Trippi Dumps Dean</h1>
+</div>
+
+<div class="content">
+<p>Joe Trippi, the man who brought Howard Dean from a relatively-unknown Governor to the frontrunner in the Democratic Presidential primary, has <a href="http://blog.deanforamerica.com/archives/003442.html">officially dropped his candidate</a>. </p>
+
+<p>The move comes after Dean was widely criticized for an outburst after the Iowa caucuses and several interviews about the absence of his wife. In addition, numerous attacks from other candidates have brandished Dean as &#8220;angry&#8221;, &#8220;indecisive&#8221;, &#8220;lying&#8221;, &#8220;irreligious&#8221;, and &#8220;crazy&#8221;.</p>
+
+<p>Dean has decided to continue his campaign with a boring Washington insider who helped Al Gore&#8217;s presidential bid go down in flames. Experts predicted Dean will soon begin spouting platitudes about &#8220;the people versus the powerful&#8221; while hiding his liberal political views and failing to make any innovative policy suggestions. This could make Dean stand out even less in an already-crowded race.</p>
+
+<p>Commentators suggested the move would be difficult for Trippi, since Dean is still first in money, infrastructure, and delegates. &#8220;Rebuilding your constituency after a change like this is always difficult,&#8221; said one unnamed source. &#8220;This is certainly going to be a major blow to the Trippi campaign.&#8221;</p>
+
+<p>Trippi has not yet named his new candidate.</p>
+
+<p class="posted">posted January 28, 2004 05:55 PM (<a class="category" href="cat_politics">Politics</a>) (<a href="#comments">8 comments</a>) <a href="001144" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001143" title="The Media vs. The Facts">&laquo; prev</a> | <a href="./">up</a> | <a href="001148" title="rss2email">next &raquo;</a></p>
+
+<p><a href="001136">Visiting Libertopia: The Magical Power of Property</a><br />
+<a href="001138">Aaron Swartz: The Interview</a><br />
+<a href="001141">Why Raise Children?</a><br />
+<a href="001142">Freedom of Speech, or The DeCSS Haiku</a><br />
+<a href="001143">The Media vs. The Facts</a><br />
+<strong>Trippi Dumps Dean</strong><br />
+<a href="001148">rss2email</a><br />
+<a href="001149">The Trippi Story</a><br />
+<a href="001158">The Furious Rise of the Anonymous Writer</a><br />
+<a href="001160">Nader&#8217;s Negligence</a><br />
+<a href="001166">Campaign Finance Reform: The Problem and Solution</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c396">
+
+<p>I think that&#8217;s a bit overly dramatic don&#8217;t you?  They said the same thing about the Kerry campaign <i>months</i> ago when he fired his guy (or he quit).  This is essentially still a 4 horse race.  Kerry, Dean, Clark and Edwards are all still realistic shots.</p>
+
+<p>Of course, the Dean campaign <i>may well be</i> over.  I certainly hope not.  But I think it would be unfair to say that Joe Trippi is the only person on the face of the Earth that can take Dean to the nomination and if he is gone then Dean is done.</p>
+
+<p>I&#8217;m sticking by my guy Dean, and then at in the general election I&#8217;m casting my vote for the donkey that is up against Bush.</p>
+
+<p class="posted">posted by <a href="http://www.patandkat.com/pat/weblog/">Pat</a> at January 28, 2004 06:04 PM <a href="#c396">#</a></p>
+
+</div><div id="c397">
+
+<p>I am in agreement with Pat. You seem somewhat contemptuous of change.</p>
+
+<p>Perhaps another good reason to unsubscribe from this rss.</p>
+
+<p class="posted">posted by <a href="mailto:igo4mtns@gmavt.net"></a> at January 28, 2004 06:47 PM <a href="#c397">#</a></p>
+
+</div><div id="c398">
+
+<p>Aaron, when you revise an entry in response to a user comment, be forthright and mark the time.  Pat&#8217;s comments make a lot more sense when one knows that you declared the Dean campaign &#8220;officially over&#8221;.</p>
+
+<p>This draft makes it seem as if Trippi quit in disgust, that Dean then brought in Neel, and that Trippi no longer supports Dean.  In fact, Neel has been with the campaign since the beginning of the year as an advisor; Dean asked Trippi to remain in charge of the Internet campaign while Neel took over meatspace operations, and Trippi declined.  In both the Dean weblog and press interviews, Trippi has urged voters to stand by Dean.</p>
+
+<p class="posted">posted by Tom at January 29, 2004 01:38 AM <a href="#c398">#</a></p>
+
+</div><div id="c400">
+
+<p>Also, there&#8217;s no evidence that Dean is first in money any more. It sounds like Trippi spent boatloads of it in a gamble to win Iowa and New Hampshire and end the nomination there, then raise tons of money from the grassroots (John McCain still holds the internet fundraising record: $1 million online the day after he won the New Hampshire primary). If he&#8217;d pulled it off, he&#8217;d be hailed as a genius.</p>
+
+<p>But he didn&#8217;t pull it off and now the campaign is strapped for cash and facing John Kerry who is raking in money hand over fist.</p>
+
+<p class="posted">posted by <a href="http://www.bushout.tv">Luke Francl</a> at January 29, 2004 10:14 AM <a href="#c400">#</a></p>
+
+</div><div id="c401">
+
+<p>BTW, here&#8217;s <a href="http://lfinmn.dailykos.com/story/2003/11/11/22220/762">something I wrote in a similar style  about Kerry a few weeks ago</a>:</p>
+
+<p>Tue Nov 11th, 2003 at 16:02:20 CST</p>
+
+<p>BOSTON (AP) &#8212;</p>
+
+<p>John Kerry&#8217;s campaign for president is in turmoil following news that Kerry would quit the campaign. Citing differences of opinion on how the campaign should be run, Kerry formally stepped down as candidate today. This is the third tumultuous departure from the Kerry campaign in as many months. Previously, campaign spokesman Chris Lehane stepped down and campaign manager Robert Jordan was fired.</p>
+
+<p>Former Kerry spokesman Chris Lehane said the campaign was looking into replacing Kerry with another candidate, &#8220;preferably Clark.&#8221; Lehane said that Clark&#8217;s military record would resonate with former Kerry supporters. &#8220;Failing that,&#8221; Lehane said, &#8220;maybe we could find an obscure governor from a small state to run.&#8221; </p>
+
+<p class="posted">posted by <a href="http://www.bushout.tv">Luke Francl</a> at January 29, 2004 10:19 AM <a href="#c401">#</a></p>
+
+</div><div id="c402">
+
+<p>I&#8217;ve got to say, anyone who&#8217;s been following the West Wing could&#8217;ve told you the Iowa/New Hampshire gamble wouldn&#8217;t pay off:</p>
+
+<p>&#8220;So, we finish second in South Carolina, we pick up some steam, some endorsements, mostly some money, going into South Dakota, Vermont, Maine &#8212; where we come away with a split, maybe better, and now the prohibitive nominee for the democratic candidate has lost 3 out of seven contests &#8212; and half the actual primaries. Leading into Super Tuesday. Hoynes will take the South. We’ll take the North and the Pacific Northwest. This race will be decided a week later in Illinois. [&#8230;] If we win in Illinois, we&#8217;re going to run the table.</p>
+
+<p>&#8220;BARTLET: Well, that&#8217;s it, then. And we saved people the trouble of voting. What&#8217;s next?&#8221;</p>
+
+<p class="posted">posted by <a href="http://www.aaronsw.com/">Aaron Swartz</a> at January 29, 2004 11:26 AM <a href="#c402">#</a></p>
+
+</div><div id="c412">
+
+<p>Aaron, uh, the gamble seems to be paying off for John Kerry, who was pronounced DOA a few weeks before Iowa. He lent himself $5,000,000 and put it all into Iowa. He won, and instantly replaced Dean as the front-runner.</p>
+
+<p class="posted">posted by <a href="http://www.bushout.tv">Luke Francl</a> at January 29, 2004 06:10 PM <a href="#c412">#</a></p>
+
+</div><div id="c416">
+
+<p>Sorry, I meant for Dean. Kerry is obviously Hoynes.</p>
+
+<p class="posted">posted by <a href="http://www.aaronsw.com/">Aaron Swartz</a> at January 30, 2004 10:40 AM <a href="#c416">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/2002/001144.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/mt-comments.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1144" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /><br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

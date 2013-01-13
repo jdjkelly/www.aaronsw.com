@@ -1,0 +1,53 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>CodeCon Wrapup (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/000170.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000169" title="CSS: Client-side rendering rules" />	<link rel="next" href="000171" title="The Copyright Tax" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>CodeCon Wrapup</h1>
+</div>
+
+<div class="content">
+<p><a href="http://codecon.deor.org/">CodeCon 2002</a> (<a href="http://www.aaronsw.com/weblog/000166">blog entry</a>) is now over. After <a href="http://codecon.deor.org/schedule.html">three days</a> of <a href="http://codecon.deor.org/program.html">presentations</a> from friends and fellow hackers, I now know what most of them sound like and what some of them look like. Plus there are a bunch of cool goodies&#8230;</p>
+
+<p>After getting <a href="http://slashdot.org/comments.pl?sid=28189&amp;cid=3028647">slashdotted</a>, <a href="http://www.jwz.org/">jwz</a> has <a href="http://cerebrum.dnalounge.com/archive/">pulled the audio archive</a>&#8230; maybe someone will offer to help host using <a href="http://bitconjurer.org/BitTorrent/">BitTorrent</a>, one of the P2P file swarming tools presented at the conference.</p>
+
+<p>Meanwhile, when the CodeCon folks decided to <a href="http://www.linuxfund.org/mirrors/codecon/goodies/freedom/">host the Freedom Server 2.x source code</a> and got slashdotted themselves, <a href="http://www.venona.com/rdl/">Ryan</a> of <a href="http://www.sealandgov.com/">Sealand</a>/<a href="http://www.havenco.com/">HavenCo</a> pulled their access to his server (where <a href="http://www.codecon.org/">CodeCon.org</a> is hosted) and refused to give up the domain name. The site was moved to <a href="http://codecon.deor.org/">codecon.deor.org</a> in the middle of the conference. Ryan plans to use the CodeCon name for a set of conferences run the way he wants them to be run.</p>
+
+<p>The interesting parts of the conference were the unscheduled bits. The Freedom source code release, Eric Hughes revealing that the he posted the <a href="http://groups.google.com/groups?selm=3555ls%24fsv%40news.xs4all.nl">RC4 source code</a> to sci.crypt from a diskette he received in the mail and <a href="http://tinfoilhat.cultists.net/">Tinfoilhat Linux</a> (a Linux distro for really paranoid people).</p>
+
+<p>The panels were also interesting, and revealed the hacker value system on display. The first night was &#8220;Money: Do we need it?&#8221; where hackers explained they just wanted a way to hack on their code with a nice machine and fast Internet connection and not starve. The second night was &#8220;Legality: Could we be in trouble?&#8221; where hackers explained how they dodged the less-liked parts of the law.</p>
+
+<p>Overall, CodeCon was an insightful look into the hackers who are developing today&#8217;s interesting software. Now we just need to find a way to keep them developing it.</p>
+
+<p class="posted">posted February 19, 2002 10:08 AM (<a class="category" href="cat_technology">Technology</a>)  <a href="000170" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000169" title="CSS: Client-side rendering rules">&laquo; prev</a> | <a href="./">up</a> | <a href="000171" title="The Copyright Tax">next &raquo;</a></p>
+
+<p><a href="000165">My Flamboyant Grandson</a><br />
+<a href="000166">CodeCon!</a><br />
+<a href="000167">EarthWeb by Marc Stiegler</a><br />
+<a href="000168">Students, Teachers and Dragons</a><br />
+<a href="000169">CSS: Client-side rendering rules</a><br />
+<strong>CodeCon Wrapup</strong><br />
+<a href="000171">The Copyright Tax</a><br />
+<a href="000172">Goodbye, Brent.</a><br />
+<a href="000173">Aaron&#8217;s Photo Albums</a><br />
+<a href="000174">Aaron joins Creative Commons as RDF Advisor</a><br />
+<a href="000175">Learning on the Road</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

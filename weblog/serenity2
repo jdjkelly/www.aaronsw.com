@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Serenity: A Review (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Serenity: A Review</h1>
+
+<p>Joss Whedon&#8217;s film <em><a href="http://serenitymovie.com/">Serenity</a></em> comes out tomorrow, the first new episode of his series <em>Firefly</em> in years. Go see it; you won&#8217;t be disappointed. It&#8217;s almost certainly Joss&#8217;s best work yet &#8212; mixing storyline tricks with biting humor with amazing battles and beautiful surroundings. The cinematography, special effects, and music are all grand. But most importantly, it&#8217;s just really, really fun.</p>
+
+<p>I received a &#8220;press pass&#8221; as part of the &#8220;Serenity Blogger Bonanza&#8221; &#8212; they invited bloggers to come see a free preview if they promised to write about it. (My companion thought this seemed rather risky &#8212; what if a bunch of opinionated bloggers all give it bad reviews?) They also invited blog readers, but then they claimed that all the screenings were full &#8212; I actually received a rejection letter &#8212; yet when we went to the theater they were handing free tickets to people walking by on the street and the theater wasn&#8217;t anywhere near full.</p>
+
+<p>Still, it was a good turnout and full of fans. The person to my left said she&#8217;d already seen the film twice (they previously did previews without finished music and so on for hardcore fans) and planned to go to the real premiere (her fourth screening) dressed as one of the characters. But while the movie fits in perfectly with the story of the TV series (I was surprised; I would have thought the studio would demand changes (actually, I can&#8217;t recall of the space battles were silent like they were in the TV show (sound can&#8217;t travel in space, of course))), one need not have seen the TV series to understand or enjoy the film. In fact, while the trailers mention <cite>Buffy</cite> and <cite>Angel</cite>, they don&#8217;t mention <cite>Firefly</cite> at all.</p>
+
+<p>It seemed like everyone there loved the film. As we left, my companion commented, still in awe, &#8220;I can see why they let the bloggers into see it.&#8221;</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">September 29, 2005</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>You&#8217;re right, it&#8217;s an excellent film (I was at the premiere, and had the satisfaction of updating the Wikipedia page to say it had been officially premiered :) ). There&#8217;s been lots of interesting press coverage here in the UK about Serenity. I can only presume because Whedon has such a high profile from the Buffy thing. One can only hope this will mean lots of interesting publicity when it goes on general release.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.livejournal.com/users/brokenhut/">Ithika</a>
+ on October  2, 2005 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="serenity2" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

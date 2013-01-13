@@ -1,0 +1,60 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>The Numbers Don&#8217;t Lie (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/000638.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000637" title="to the courthouse" />	<link rel="next" href="000640" title="Our Dumb Pipeline" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>The Numbers Don&#8217;t Lie</h1>
+</div>
+
+<div class="content">
+<p>Lessig is fond of saying copyright has been extended &#8220;eleven times in the past forty years&#8221;. This is true, but a much stronger case can be made: <strong>copyright has been extended for forty years over the past forty years</strong>. How many acts were passed doesn&#8217;t seem so important&#8212;the key point is that the term of copyright keeps going up. Here&#8217;s the proof:</p>
+
+<p><img src="http://www.aaronsw.com/2002/copychart" alt="Chart of Copyright Extensions over Time" align="left"/><strong>Year: Length (Difference) Mickey&#8217;s Age (Difference)</strong><br />
+1790: 28<br />
+1909: 42 (14)<br />
+1962: 56 (14) 35 (21)<br />
+1965: 59 (3) 38 (21)<br />
+1967: 61 (2) 40 (21)<br />
+1968: 62 (1) 41 (21)<br />
+1970: 64 (2) 43 (21)<br />
+1971: 65 (1) 44 (21)<br />
+1972: 67 (2) 45 (22)<br />
+1974: 69 (2) 47 (22)<br />
+1976: 85 (16) 49 (36)<br />
+1992: 90 (5) 65 (25)<br />
+1997: 95 (5) 70 (25)<br /><br clear="all" /></p><p>I&#8217;ve also plotted the age of Mickey Mouse (the straight dark line). As you can see, copyright lengths go up as soon as Mickey gets a little too close to freedom, ensuring that Mickey&#8217;s eternally &#8220;20 years away&#8221; from entering the Public Domain. </p>
+
+<p>Thanks to Zooko for suggesting I plot Mickey and Bill Coltire for his superb <a href="http://www.title17.com/">Hypertext Annotated Title 17</a> which made this possible.</p>
+
+<p class="posted">posted October 06, 2002 02:34 AM (<a class="category" href="cat_politics">Politics</a>)  <a href="000638" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000637" title="to the courthouse">&laquo; prev</a> | <a href="./">up</a> | <a href="000640" title="Our Dumb Pipeline">next &raquo;</a></p>
+
+<p><a href="000624">quick hack</a><br />
+<a href="000625">never a cent</a><br />
+<a href="000632">is that your final answer?</a><br />
+<a href="000635">RedHat 8 (Psyche) via BitTorrent</a><br />
+<a href="000637">to the courthouse</a><br />
+<strong>The Numbers Don&#8217;t Lie</strong><br />
+<a href="000640">Our Dumb Pipeline</a><br />
+<a href="000641">Eldred Press Watch</a><br />
+<a href="000643">Iran Pushes UN Intervention Against US</a><br />
+<a href="000644">Apple: Heinous DVD Pirates</a><br />
+<a href="000647">Trip Notes</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

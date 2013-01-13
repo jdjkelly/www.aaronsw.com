@@ -1,0 +1,82 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Trusted Clothing / Trusted Computing: A Parable (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/000726.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000725" title="book connections: death and life, future of ideas, elements of typography" />	<link rel="next" href="000727" title="Is the intuitive hypertext interface finally here?" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Trusted Clothing / Trusted Computing: A Parable</h1>
+</div>
+
+<div class="content">
+<table class="comparison">
+<tr><td class="comparison">As you probably know, Megasoft Clothing (Slogan: &#8220;What do you want to wear today?&#8221;) has announced their new line of &#8220;Trusted Clothing&#8221;, made from Palladium. There&#8217;s been a lot of talk about whether this is good or bad. Richard Tallman of the Free Clothing Foundation has suggested it be called &#8220;Treacherous Clothing&#8221; and be banned. The Wearable Frontier Foundation has been considering what they should do. And the clothing-wearing public has been wondering what it&#8217;s all about. I&#8217;d like to attempt to explain.</td>
+
+<td>As you probably know, Microsoft (Slogan: &#8220;Where do you want to go today?&#8221;) has announced their new line of &#8220;Trusted Computing&#8221;, code-named Palladium. There&#8217;s been a lot of talk about whether this is good or bad. Richard Stallman of the Free Software Foundation has suggested it be called &#8220;Treacherous Computing&#8221; and be banned. The Electronic Frontier Foundation has been considering what they should do. And the computer-using public has been wondering what it&#8217;s all about. I&#8217;d like to attempt to explain.</td></tr>
+</table>
+<table class="comparison">
+<tr><td class="comparison">Trusted Clothing stems from recent concerns by the entertainment industry about the rash of kids sneaking backstage or behind-the-scenes at their concerts and amusement parks for free. Taking the view that anyone who owns land has the right to decide what can be done on it (a view that is certainly not endorsed by our laws or Constitution), Megasoft has decided not to control hopping, but the hoppers themselves.</td>
+
+<td>Trusted Computing stems from recent concerns by the entertainment industry about the rash of kids making unauthorized copies of their songs and music. Taking the view that anyone who holds the copyright to a work has the right to decide what can be done with it (a view that is certainly not endorsed by our laws or Constitution), Microsoft has decided not to control copying, but the copiers themselves.</td></tr>
+
+<tr><td>Clothing with Palladium in it will be remotely controllable by the land-owner. They can make you go rigid when you get close to the backstage entrance. They can make you put your fingers in your ears if you don&#8217;t leave after the 30 minutes you paid for. The policy is completely up to the land-owner.</td>
+
+<td>Computers with Palladium will be, in a sense, controllable by the copyright holder. They can make it impossible to copy a file of theirs. They can make it inaccessible after the 30 minute &#8220;subscription&#8221; you paid for. The policy is completely up to the copyright holder.</td></tr>
+
+<tr><td>So instead of installing defenses at all backstage entrances, the entertainment industry simply has to make sure that everyone who enters the place is wearing Palladium. Then they can leave secure places completely defended. Megasoft is pushing this as providing security to the average person too: they can make sure no one robs your house. This claim falls down on further inspection, though: it&#8217;s unlikely that you can prevent a robber from entering your house. If you could, then you don&#8217;t need Palladium anyway.</td>
+
+<td>So instead of making their files impossible to copy, the entertainment industry simply has to make sure that everyone who downloads it from them is using Palladium. Then they don&#8217;t need any more security. Microsoft is pushing this as protecting the privacy of the average person too: you can make sure no one shares your email address. This claim falls down on further inspection, though: it&#8217;s unlikely that you&#8217;ll have the leaverage to tell corporations how to use your data. If you could, then you don&#8217;t need Palladium anyway.</td></tr>
+
+<tr><td>You might have already realized the obvious attack on Palladium&#8217;s security: wear your Palladium clothes into the building and then take them off. Megasoft says that Palladium isn&#8217;t designed to be secure against nudity attacks and they&#8217;re hoping that the average consumer will be afraid of walking around nude in public.</td>
+
+<td>You might have already realized the obvious attack on Palladium&#8217;s security: run Palladium and download the file, then use special computer hardware to get it out. Microsoft says that Palladium isn&#8217;t designed to be secure against hardware attacks and they&#8217;re hoping that the average consumer will be afraid of modifying their computer.</td></tr>
+
+<tr><td>Now Megasoft has said they&#8217;re not interested in forcing Palladium on anyone by law. However, it&#8217;s very likely to be forced on you through other means. The latest fashions, for example, might require you to wear Palladium. If you don&#8217;t, your friends might get upset. And obviously, these concerts and amusement parks won&#8217;t let you in without it. Wearing Palladium is likely to be like carrying ID or giving out your social security number: while it&#8217;s technically not required, the social pressure is so strong that most people do it, even if they don&#8217;t want to. Plus, they&#8217;ll soon be including it with most new clothing, whether you ask for it or not.</td>
+
+<td>Now Microsoft has said they&#8217;re not interested in forcing Palladium on anyone by law. However, it&#8217;s very likely to be forced on you through other means. The latest versions of Microsoft Office, for example, might require you to use Palladium. If you don&#8217;t, your co-workers will get angry, since you can&#8217;t read their files. And obviously, these you won&#8217;t be able to download these movies and music files without it. Using Palladium is likely to be like carrying ID or giving out your social security number: while it&#8217;s technically not required, the social pressure is so strong that most people do it, even if they don&#8217;t want to. Plus, they&#8217;ll soon be including it with most new computers, whether you ask for it or not.</td></tr>
+
+<tr><td>If you&#8217;re like me, your first reaction might be similar to that of Richard Tallman&#8217;s: this clothing isn&#8217;t trusted, it&#8217;s treacherous! Having our persons controlled by others is likely to be a strange and unwelcome experience, and not something we want social pressures to force on us. Is there a way we can prevent this? Getting it banned sounds like a good idea.</td>
+
+<td>If you&#8217;re like me, your first reaction might be similar to that of Richard Stallman&#8217;s: these computers aren&#8217;t trusted, they&#8217;re treacherous! Having our computers controlled by others is likely to be a strange and unwelcome experience, and not something we want social pressures to force on us. Is there a way we can prevent this? Getting it banned sounds like a good idea.</td></tr>
+
+<tr><td>But the Wearable Frontier Foundation is cautious. Palladium has some legitimate uses (like keeping your dog from running away or eating the neighbor&#8217;s garden); it seems wrong to want to ban a potentially useful technology. Also, remotely controllable clothing is a technically neat idea!</td>
+
+<td>But the Electronic Frontier Foundation is cautious. Palladium has some legitimate uses (actually, I can&#8217;t think of any); it seems wrong to want to ban a potentially useful technology. Also, remotely controllable computers is a technically neat idea!</td></tr>
+
+<tr><td>I think that the best route is to get mass public refusal. If we can explain to people what Palladium is really about, and get them to see through the cloud of confusion, then maybe they will refuse to buy Palladium clothing. Then it would be suicidal for Megasoft not to provide a Palladium-free option: everyone would wear their old clothing or switch to a competitor.</td>
+
+<td>I think that the best route is to get mass public refusal. If we can explain to people what Palladium is really about, and get them to see through the cloud of confusion, then maybe they will refuse to buy Palladium computers. Then it would be suicidal for Microsoft not to provide a Palladium-free option: everyone would use their old computers or switch to a competitor.</td></tr>
+</table>
+
+<p>I hope this sheds some light on the confusion that is Palladium. This split-column parody is a new form for me; does it work for you? Does my analogy help you think about the issues in a new way? Answers to these questions and any other comments you might have <a href="mailto:clothing@aaronsw.com">should be sent my way</a>, as always.</p>
+
+<p class="posted">posted November 11, 2002 03:51 PM (<a class="category" href="cat_politics">Politics</a>)  <a href="000726" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000725" title="book connections: death and life, future of ideas, elements of typography">&laquo; prev</a> | <a href="./">up</a> | <a href="000727" title="Is the intuitive hypertext interface finally here?">next &raquo;</a></p>
+
+<p><a href="000720">The Case for Source Code Escrow</a><br />
+<a href="000721">File Cabinet Lib</a><br />
+<a href="000722">today&#8217;s featured superhero: Dean Kamen</a><br />
+<a href="000723">today is my birthday</a><br />
+<a href="000725">book connections: death and life, future of ideas, elements of typography</a><br />
+<strong>Trusted Clothing / Trusted Computing: A Parable</strong><br />
+<a href="000727">Is the intuitive hypertext interface finally here?</a><br />
+<a href="000729">greenspan# make economy</a><br />
+<a href="000731">I&#8217;ll be at Comdex</a><br />
+<a href="000733">Stirling Engine introduced on 60 Minutes, Segway on Amazon.com</a><br />
+<a href="000735">cupcake controls a prior restraint?</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

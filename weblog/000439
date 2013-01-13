@@ -1,0 +1,73 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Richard Stallman: Where This All Came From (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000438" title="Larry Lessig: Freeing Culture" />	<link rel="next" href="000440" title="Guido van Rossum: State of the Python Union" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Richard Stallman: Where This All Came From</h1>
+</div>
+
+<div class="content">
+<p>Richard Stallman says we don&#8217;t talk about and fight for our freedom enough. (<a href="http://conferences.oreillynet.com/cs/os2002/view/e_sess/3047">O&#8217;Reilly Page</a>) Full coverage is below. </p>
+<p>TimO: our next keynoter will talk about freedom. we but heads. but larry&#8217;s shown me what richard has to  teach us. in a world that&#8217;s good you can let people make a choice (i&#8217;ve always preferred the bsd) but in a world where copyright is a weapon we need this kind of protection. richard&#8217;s the leader.  we need to hear his stand in this government. unprescedented level of control. jujitsu with the gpl. californians need to let our senators know. need to get them, not hollywood. welcome richard and thanks.</p>
+
+<p><br />
+richard: well. i&#8217;m not an opensource developer except for a few minutes in 1998 when i thought about it.  i work in the free software movement. i work for our freedom. [recants history] i was an OS developer. i could do technical improvement, prettying up the walls. but no, i had to make the possibility of freedom. not just a little bit, had to make all of it free. some part with a chain. can&#8217;t share with your neighbor. deliberately kept helpless. OS had to be first but then you need to make the rest. UNIX-cpmpatibility were good practical reasons. GNU the name was programmer humor.</p>
+
+<p>in 1980 people said free oses were too hard big job. only idealists did it. practical people didn&#8217;t even try. some of those people helped for other reasons, like XWindows. good fortune led them to release as free software. but tit was coincidence. X Consortium was going to release next version as non-free but they died instead. that&#8217;s what happens when freedom is not a goal. it&#8217;s just coincidence. to protect freedom we need to vaslue it. freedom is always in danger. </p>
+
+<p>[expains freedoms] had to interpret these freedoms by asking ourselves why it was important. commercial? yes, it&#8217;s useful and important. if it can&#8217;t be included it causes problems for the community. always a matter of what the community needs to use the material. manuals? properly written software needs docs. if the manual isn&#8217;t free the software isn&#8217;t quite there. o&#8217;reilly&#8217;s publishing some free manuals. this is a good first step but i hope they make all manuals free so we don&#8217;t havw to rewrite them.</p>
+
+<p>in 1991 GNU was carried across the finish line by a college student name Linus Torvalds. i made a major techical mistake.. i thought making microkernels would make us faster but linus did a kernel in less than a year. we combined the kernel with the gnu system and it caught on. unfortunately, there was a confusion&#8230; people thought the whole system was Linux. this made it hard for us to spread the philosophy. we need to teach the users to value freesom so they will defend it. we got millions of users for this version of the GNU systyem where linux was the kernel. but they didn&#8217;;t know it was the GNU system so they ignored us, or they didn&#8217;t even know aboiut is. thought it was just a noher os for success. jokled that the goal was world domination. they were joking, didn&#8217;;t want to enslave just to be popular. but to use that slogan you&#8217;ve gorgotten the goal of world liberation! but please give us equal mention: GNU/Linux, GNU+Linux. Linux sounds like it was entirely developed or started by Linus for the prupose of learning about kerneles and habing fun. but this misses the point we need to spread. if they hear GNU/Linux when they listen to the GNU philosophy they&#8217;ll see it&#8217;s related to GNU and pay attention. they may not be convinced but they at least deserve attention. so please give us the credit we deserve not just for selfish reasons but so we can tell people about freedom.</p>
+
+<p>in 90s lots of users thought that the ideals were silly and impracitcal. didn&#8217;t know they were using the practical result of the idealism because they thought they were using linux. so they formed a new movement, teh open source movement. cosnciously doesn&#8217;t say you&#8217;re morally entitled to fredom. they&#8217;ve done a lot to contribute. convincing mozilla andopenoffice to be free software contributed a lot. free software developers motivated by the open source movement are doing a good thing. open source moevement isn&#8217;t bad, but the gulf in philosophy is big. we cite different values for reverything we do. we can work together because we&#8217;re similar but the users won&#8217;t defend their freedom if they don&#8217;t know about it. </p>
+
+<p>used to be we could just write free software. other people didn&#8217;t say they would crush us. people said we could work together. hard to say something&#8217;s wrong if a business does it in our society. people have been taught to regard that as unthinkable! we need to relearn that. need to say profit isn&#8217;t important. any business can go out of business, don&#8217;t need to extend them through laws. need to learn to say no to what biz wants.</p>
+
+<p>they&#8217;d pat us on the head because they thought we&#8217;;d never succeed. they thought we&#8217;d fail. but no! we built two classes of free software systems. now they&#8217;re pushing laws to stomp us out. but writing software is no longer enough. we need to organize politically. we need hundreds of thousands or millions to act politcally to fight against these laws. Sen. Feinstein supports the consume but don&#8217;t try programming act which will wipe us out completely. need to make sure that we picket every time she shows up so candidates stop wanting her support and make her stay away. need to be there in sufficient numbers, make our voice loud. tkae time away from today&#8217;s work to think about the loing term task. i know what it&#8217;s like to be a geek and focus on today&#8217;s job in expense of the century&#8217;s job. can&#8217;t let them take our freedom while our nose is busy writing programs. geeks like to think they can leave politics alone. you can stop paying attention to politics but it won&#8217;t stop payuing attention to you. you better not leave it alone, join orgs.</p>
+
+<p>laws are pushed to stop people from helping their neighbor.t ahts their excuse for digital restricitions management. don&#8217;t use their propaganda term. treacherous computing, not trusted. you&#8217;re the ones who deserve conterl, not microsoft or the MPAA. have to stop conceding the first battle to the enemy. it&#8217;s not an inmjustice to make a copy. we need to reject that goal of not sharing. until 1909 copying something was not an infringement, only publication was infringement. industrial regulation on business and it needs to be that again. need to tell them that making copies doesn&#8217;t matter. if some other system works that&#8217;s enough. thinking you deserve more money is no reason to trample our freedom. need to reject their basic assumption. copyright shouldn&#8217;t pay them anytime they want. we matter the most, not them. readers, listeners are supposed to matter. we have to give voice to the actual views of the people who use things like napster. people who think it&#8217;s ok to make copies. we need to give voice to that view, not something we can&#8217;t say. if we concede that vital battle, that it&#8217;s aproblem not a freedom, then they&#8217;ll push us into conceding and we&#8217;ll always lose. we&#8217;ve argued on side effects not ht ebasic view. when shairng with your neighbor is theft or piracy we need to say no, stealing our computers (DRM) and freedom is theft. that&#8217;s how we get the support of the millions of people. </p>
+
+<p>[five minutes left.] FSF contact forms. if you want the FSF to get back in touch with you. or you can make a donation. i&#8217;ve decided i will sign copies of the book about me. there are some major errors in it, but i will sign in exchange for a $10 donation. i don&#8217;t get a salary, i&#8217;m a full time volunteer. FSF president refuses to pay my travel expenses! (I&#8217;m the FSF president.) He says I know we can get stallman to work for nothing so why should we pay him. (He&#8217;s right.) we&#8217;ll use the money to organize groups agains the horrible laws.</p>
+
+<p>some people say i have a holier-than-thou. it&#8217;s true. i am holy, i&#8217;m a saint. i&#8217;m supposed to be holy. [puts on st. iGNUcius costume.] [wild applause] [raises hand] I am Saint iGNUcius of the Church of Emacs. I bless your compuyer, my child. EMACS started out a s atext editor but became a way of life and ultimately a religion. we even have a great schism and even saints. fortunately no gods. must cite the confession of the faith: &#8220;There is no system but GNU and Linux is one of its kernels.&#8221; to be a saint does not rrequire celebacy. certain others i won&#8217;t name. a life of moral purity. must exorcise evil proprieatry operating systems. must install holy  (wholly) free OS and then only free applications. not good enough to be open source, have to be free software. if you make that comittment you too will be a saint. you can eventuall have a halo if you can find one because they don&#8217;t make them anymore.[tips his halo]</p>
+
+<p>Larry Wall: I agree with very much everything you said except that open source authors are not concerned about freedom. I&#8217;m an open source developer and i view myself as planning for freedom not in a pugilistic sense but more an akido sense &#8212; you agree with the opponent until their flat ont he floor. Richard: there are people who say they&#8217;re open source developers and care about freedom and talk like free software movewment. this is because articles like one in new scientist which say i founded the open source movement. but when you look at what the movement says it doesn&#8217;t say that. so i invite you to wave our banner, the banner of those views. i&#8217;m happy if you agree! but i invite you to wave the banner that stands for the views you hold. as for aikdo idea, if it works, it&#8217;s great. if you can write free software without pugilisim it&#8217;s an important way to contribute. but they&#8217;re starting to bring oiut the fists. liking to write free software is enough if yhery&#8217;re not stopping you. but people asked the FCC to prohibit digital TV tuners that uses free software! we need tens of tyhousands to write to the FCC to send a commetn saying this whole idea is disgusting. tell them we shouldn&#8217;t listen to the movie companies. </p>
+
+<p>Q: to follow up with larry, the free software movement is a gateway. you haeva n uncomfortable view of freedom. they see an open source project like perl and they see the ideals and they begin to learn from the support and friendsship and then they get the values and other ideals without a formal protection. i believe in the gpl and fsf but there&#8217;s a need for both sides and more cooperation. A: many people say this &#8212; a two-step procedure for introducing freedom. [let me take off the halo. it&#8217;s really hard to wear the halo for a long period of time. i wonder if that has implications.] this might be good but almost everyone is focussing on step one and step two is being neglected! we need a balance or the buffer in between just overflows. we&#8217;ve got a buffer overflow problem here. millions of people like the software but no one taught them about freedom. result is that they&#8217;re the bul;k of the community and represent us. i gave a speech. someone came up after and said &#8216;i&#8217;v ebeen using the system for five years and this is the first time i&#8217;ve heard anyone say this is for freedom&#8217;. we&#8217;ve got loads on stage 1, but join me on stage 2&#8212;plenty of people taking care of stage 1. </p>
+
+<p>Q: Tim, call this the open source and free software convention next year. [loud cheers] Nat: we thought about it but it wouldn&#8217;t fit on the signs. Richard: i&#8217;m sure we can overcome the pracitcal problem.</p>
+
+<p>well, i&#8217;m being pulled off the stage with an invisible hook.</p>
+
+<p class="posted">posted July 24, 2002 11:36 AM (<a class="category" href="cat_technology">Technology</a>)  <a href="000439" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000438" title="Larry Lessig: Freeing Culture">&laquo; prev</a> | <a href="./">up</a> | <a href="000440" title="Guido van Rossum: State of the Python Union">next &raquo;</a></p>
+
+<p><a href="000434">OSCON Bloggers</a><br />
+<a href="000435">everyone looks like me</a><br />
+<a href="000436">plane day</a><br />
+<a href="000437">free larry</a><br />
+<a href="000438">Larry Lessig: Freeing Culture</a><br />
+<strong>Richard Stallman: Where This All Came From</strong><br />
+<a href="000440">Guido van Rossum: State of the Python Union</a><br />
+<a href="000441">HelixCommunity.org</a><br />
+<a href="000442">RMS and Miguel: Straight Talking</a><br />
+<a href="000443">blue gene</a><br />
+<a href="000445">Carl Malamud: NetTopBox</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

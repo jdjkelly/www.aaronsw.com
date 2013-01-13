@@ -1,0 +1,59 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>explain it to me (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000831" title="Enabling IPv6 on OS X" />	<link rel="next" href="000838" title="News Update" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>explain it to me</h1>
+</div>
+
+<div class="content">
+<p><a href="http://tekka.net/">Tekka</a>, the official magazine of <a href="http://markbernstein.org/">Mark Bernstein</a>, launched today. I found <a href="http://tekka.net/01/?Hamlet">My Friend, Hamlet</a> and <a href="http://tekka.net/01/?Bauhaus">Looking At The Bauhaus</a> very interesting. They&#8217;re intelligent and innovative looks at modern technology, drawing from classical sources in other fields. Tekka sounds like it will be quite fun to read. And, being one of Mark&#8217;s friends, I&#8217;ll have <a href="http://www.aaronsw.com/weblog/000826">a column</a> in it.</p>
+
+<p><strong>Update:</strong> <a href="http://markbernstein.org/Feb0301.html#note_31108">Mark Bernstein replies</a>.</p>
+
+<p>Tekka starts from the assumption that the reader is smart and interested, if not knowledgable about every subject. Doing this makes for great reading. Even if you know about the subject, hearing it described without all the jargon is often insightful. This is why I love reading things by <a href="http://cr.yp.to/djb.html">D. J. Bernstein</a> and Richard Feynman (<a href="http://history.nasa.gov/rogersrep/v2appf.htm">thoughts on the Shuttle</a>, <a href="http://www.longnow.org/about/articles/ArtFeynman.html">Danny Hillis remembers</a>). So why don&#8217;t more people do this?</p>
+
+<p>Most explanations either spare the interesting details and assume I&#8217;m an idiot (&#8220;Electricity makes the car go!&#8221;) or is so full of confusing people, places, dates, and jargon that it&#8217;s unreadable (&#8220;Kristof Elect created the first cyclatonic megatactor in 1927.&#8221;).</p>
+
+<p>I think there&#8217;s a great need for a series of explanations from experts for smart people: I&#8217;m curious about architecture. Explain it to me. What is the underlying goal? What are the great discoveries? What are the big ideas? If written well, I think this series would be fascinating.</p>
+
+<p>This would not only be greatly enjoyable (I love learning new things) but also important. As we learn more, we become increasingly more specialized and we ignore the lessons other groups have learned in other contexts, since we don&#8217;t understand the language they&#8217;re explained in. We stay away from the edge where our field blends into another, and we miss out on the richness that comes from mixing technology with design, science with engineering, functionality with art. (This is where some of the most interesting stuff in Tekka comes from; translating insights from other fields. But where&#8217;s the background so we can translate insights for ourselves?)</p>
+
+<p>Does anybody write these things? Does anyone want to? Does anybody else want it done?</p>
+
+<p>For my part, I&#8217;m trying to explain everything I understand over on <a href="http://logicerror.com/">LogicError</a> in this fashion. (Although it&#8217;s taking me a while, since I have little incentive to do it.) I&#8217;d love to take submissions from other people, who want to explain their field or something they love in the same way. If you&#8217;re looking for a model, a good example is the section on <a href="http://logicerror.com/internet">The Internet</a> which links to quality explanations by me, D. J. Bernstein, and Paul Jarc.</p>
+
+<p>If you know of other people who explain subjects in a similar way, or want to do so yourself, <a href="mailto:generalists@aaronsw.com">email me</a>. </p>
+
+<p class="posted">posted February 10, 2003 08:48 PM (<a class="category" href="cat_education">Education</a>)  <a href="000834" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000831" title="Enabling IPv6 on OS X">&laquo; prev</a> | <a href="./">up</a> | <a href="000838" title="News Update">next &raquo;</a></p>
+
+<p><a href="000825">Activity Log</a><br />
+<a href="000826">Small is Beautiful</a><br />
+<a href="000828">Attention State Employees</a><br />
+<a href="000829">Why &#8220;Intellectual Property&#8221; is not Property</a><br />
+<a href="000831">Enabling IPv6 on OS X</a><br />
+<strong>explain it to me</strong><br />
+<a href="000838">News Update</a><br />
+<a href="000842">The Wireless Future</a><br />
+<a href="000848">Just My Luck</a><br />
+<a href="000849">Notes from the DRM Conference: Impacts of DRMs on flows of information</a><br />
+<a href="000850">Trip Report</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

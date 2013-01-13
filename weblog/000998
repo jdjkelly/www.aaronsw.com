@@ -1,0 +1,47 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Aaron&#8217;s Censorware (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/000998.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000994" title="San Francisco Moment" />	<link rel="next" href="001008" title="Cards" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Aaron&#8217;s Censorware</h1>
+</div>
+
+<div class="content">
+<p>Ed Felten <a href="http://www.freedom-to-tinker.com/archives/000412.html">half-seriously suggests that we create censorware</a> that doesn’t overblock and has an open list, so that US libraries who want to receive federal funding can do so without unduly harming free speech. (A recent Supreme Court ruling says that the CIPA law which makes having censorware a condition of federal funding is constitutional.)</p>
+
+<p>Up for the challenge, I’ve written a simple censorware program (the censor code is only a couple of lines): <a href="http://www.aaronsw.com/2002/censor/">censor.py</a></p>
+
+<p>By default it only blocks www.microsoft.com, but the list is adjustable.</p>
+
+<p class="posted">posted July 06, 2003 11:27 PM (<a class="category" href="cat_technology">Technology</a>)  <a href="000998" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000994" title="San Francisco Moment">&laquo; prev</a> | <a href="./">up</a> | <a href="001008" title="Cards">next &raquo;</a></p>
+
+<p><a href="000989">Progress</a><br />
+<a href="000990">Party Geek</a><br />
+<a href="000991">ILAW 5</a><br />
+<a href="000993">Scott McCloud is Back!</a><br />
+<a href="000994">San Francisco Moment</a><br />
+<strong>Aaron&#8217;s Censorware</strong><br />
+<a href="001008">Cards</a><br />
+<a href="001010">Dodging Trains</a><br />
+<a href="001011">Super Searching</a><br />
+<a href="001014">Letter from Knuth</a><br />
+<a href="001016">Privacy, Accuracy, Security: Pick Two</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

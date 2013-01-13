@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Eat and Code (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Eat and Code</h1>
+
+<p>Dear Diary: Sorry I haven&#8217;t written so long. Running a startup is <em>hard</em>! That and finally having people to talk to sort of takes some of the time and desire out of writing. I&#8217;m thinking maybe instead of a full blow-by-blow account of what happened, I&#8217;ll write posts about different topics, that will recap the story so far. My first attempt follows. -ASw</p>
+
+<p>Life seems so incredibly overworked and overcomplicated that you pare it down to the bare essentials: eat and code. Surely you should be able to handle this without distraction. Unfortunately, it&#8217;s not so easy.</p>
+
+<hr />
+
+<p>Let&#8217;s take eating.</p>
+
+<p>To be honest, I&#8217;ve always had a problematic relationship with food. I always liked plain things &#8212; the year before college I lived mostly off of eating plain, microwaved bagels. At oriental restaurants I would always just order steamed white rice. Wes Felter, noting I would apparently only eat white food joked, referencing a Science Fiction novel, that I would eat light bulbs, but &#8220;only the white ones&#8221;. This reached its extremes at a World Wide Web conference where all the food was white, even the plate it was on. Tim Berners-Lee later pulled my mother aside to share his concerns about this diet.</p>
+
+<p>Finally, one day at an oriental restaurant by Stanford (years before I went to school there), we had the typical discussion except this time Cory Doctorow spoke up: &#8216;are you sure you&#8217;re not a supertaster?&#8217; he asked. I had heard the They Might Be Giants song but never considered the possibility. I thought about it as the conversation continued and it seemed to make sense to me. [At this point I imagine a crane shot lifting up and up over the conversation at the restaurant. Fade to:] I did some research on the Internet and did the test (which formally consists of putting blue food coloring on your tongue, taking a piece of paper with a three-hole punch, placing it over the tongue and counting the number of taste buds in it) and indeed, I am a supertaster. This hasn&#8217;t eliminated the discussions about my eating habits, but it does shift the blame.</p>
+
+<p>In any event, I&#8217;m not one for the fine arts of cooking. So it&#8217;s always seemed attractive to me to have a simple food that tastes decent that I can just pull out and eat whenever I want. And, lo, it appeared that I had found it: Cheerios. Cheerios claimed on the box to be healthy, they had little in the way of taste, I could eat them whenever I want, they had big boxes of them at the corner grocery store &#8212; everything seemed great. Cheerio boxes piled up in the corner. (Photo to follow.)</p>
+
+<p>There were some problems, though. I didn&#8217;t eat them with water or milk, which meant that a fine Cheerio dust went everywhere. This dust was so fine that it got into invisible cracks in my laptop&#8217;s surface and apparently bonded with the metal and had to be scraped out each time I ate. And then I begun to discover that the Cheerio dust was also into my system, possibly even my lungs and giving me some Cheerio form of silicosis; they made it difficult to breathe deeply. &#8216;Wouldn&#8217;t it be ironic if I died of pneumonoultramicroscopicsilicovolcanoconiosis?&#8217; I asked Simon. (I chose pneumonoultramicroscopicsilicovolcanoconiosis as a spelling word in 6th grade.)</p>
+
+<p>At the same time, I was suffering from bouts of acid reflux which continued to grow in frequency and severity. First just some acid. Then, one night walking back from a Noam Chomsky lecture, I began to cough of what felt like my stomach lining. I gave up the Cheerios but it didn&#8217;t help. Last night I threw up my entire dinner.</p>
+
+<p>And then what do I eat instead? We go for regular meals at 12 and 6 but I&#8217;m only sporadically hungry and the food is getting boring. In Science Fiction stories, we imagine small packets of food that are healthy but taste like whatever we enjoy. Forget that, I&#8217;d be happy with just packets of food that are healthy. I&#8217;m sick of having to worry about food.</p>
+
+<hr />
+
+<p>And then there&#8217;s programming. When I&#8217;m feeling good, I&#8217;ll have bouts of just amazing productivity, doing everything that needs to be done in hours. The only problem is that these good days are followed by a week of bad ones, where I feel tired or depressed or scared and can&#8217;t quite force myself to sit and face the code.</p>
+
+<p>I used to think this was just cowardice, that I just needed to sit down and program and I&#8217;d get the same level of productivity again. But what if this is some serious limit in my brain? What if programming takes so much out of me that it takes days to recharge? I&#8217;ve never seriously considered this possibility before, but it&#8217;s not just fatalism &#8212; it has real implications for how I should structure my days.</p>
+
+<p>The last time I was fighting procrastination I was watching a bunch of good television shows. And as part of this, I would read Tim Goodman, the Roger Ebert of television critics. I was struck to learn one day that even Tim Goodman, whose job was to literally sit down and watch TV, could not bring himself to accomplish this task. I mean, I knew all about <a href="http://www-csli.stanford.edu/~john/procrastination.html">Structured Procrastination</a> but surely it had its limits. How could someone procrastinate sitting down and watching TV? And yet, here it was before my eyes &#8212; my favorite television critic, a hardworking and thoughtful man who had even spent a column answering a question I sent him, even though I lived in Chicago at the time.</p>
+
+<p>The lesson I drew from this is that the human mind is such that whatever you do, it will try to avoid it. So you might as well aim high. Now the question is: what do you do with the rest of time?</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">August  2, 2005</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>Comments are working now!</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on August  2, 2005 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>Joel (of Joel On Software fame) wrote what I thought was one of his better essays on the problems of procrastination among developers: <a href="http://www.joelonsoftware.com/articles/fog0000000339.html" rel="nofollow">Fire and Motion</a>.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://figureten.com/blog">mike</a>
+ on August  2, 2005 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>&#8220;what do you do with the rest of time?&#8221;</p>
+
+<p>All that other BS everyone complains about, emails, paperwork, etc. I think the ability to output tons of work is something that has to be built up, like a muscle. And mine is pretty weak I think, considering what I have to do right now.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.flickr.com/photos/jhleblanc/">J. LeBlanc</a>
+ on August  2, 2005 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>I find that it takes me some time where I have to think about a problem before I can actually do any programming.  It&#8217;s funny, because this time looks completely unproductive; I&#8217;m just surfing the web or whatever.  But then I can write good quantities of code in a small amount of time.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://plam.csail.mit.edu">plam</a>
+ on August  2, 2005 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>http://www.google.com/search?q=oriental+vs+asian
+http://en.wikipedia.org/wiki/Oriental</p>
+
+<p>Think of this as a chance to increase your mental social awareness, not as a criticism of the vocabulary you (may or may not consciously have chosen to) use.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://msittig.wubi.org/">Micah</a>
+ on August  3, 2005 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c6">
+<p>Have you considered that your focus problem and your diet are related? The brain loves it&#8217;s calories remember. The trick for me&#8217;s to stop as soon as I have to re-read a line, get up, go do  something mindless and physical, make a snack then go back to it. It works for me everytime.</p>
+
+<p class="posted">posted by rjl
+ on August  3, 2005 <a href="#c6" rel="bookmark">#</a></p>
+</div>
+<div id="c7">
+<p>absolutely. it&#8217;s got to be difficult to get 2000 calories a day out of Cheerios. and if you&#8217;re only getting 1000 or so, you might be on the way to being malnourished. i read somewhere, once, i think, that an adult male subsisting on less than 1500 calories meets the UN&#8217;s definition of &#8216;starving&#8217;. that sounds a bit extreme now that i right it, but no one&#8217;s going to function well if they&#8217;re not putting in enough raw fuel - although i&#8217;m sure it&#8217;s possible for a time, especially while you&#8217;re young and handsome ; )</p>
+
+<p>i don&#8217;t have any great answers though. you could try those slimming shakes, as a simple and temporary measure for getting calories down you. my kid brother had an eating disorder for a time, i dont know how he figured his way out of that one either.</p>
+
+<p class="posted">posted by anna
+ on August  4, 2005 <a href="#c7" rel="bookmark">#</a></p>
+</div>
+<div id="c8">
+<p>Two options for the food problem&#8230;
+->Seedless Grapes
+->Keebler sesame seed crackers.  Surprisingly addictive.</p>
+
+<p>Also, I&#8217;d argue in favor of explicitly leaving an hour or two to slack each day&#8230;I crash and burn whenever I go into a task trying to immerse myself into it completely and forego all other seemingly-expendable essentials in life.</p>
+
+<p>(Hooray for the return of commenting!)</p>
+
+<p class="posted">posted by J.
+ on August  4, 2005 <a href="#c8" rel="bookmark">#</a></p>
+</div>
+<div id="c9">
+<p>If I recall correctly the brain runs (or runs better) off the diet&#8217;s protien and uses something insane like 1/4 of your total caloric intake. I eat lots of tofu and tuna to help with this &#8212; tuna has a pretty strong taste though. I would imagine tofu might be a nice bland food that isn&#8217;t all carbs. But I know next to nothing about nutrition.</p>
+
+<p>For performance one thing I recommend is coffee, but only use coffee as an amplifier if you&#8217;re already awake. Using coffee when you&#8217;re tired just makes you alert but tired and you continue to underperform. When I&#8217;m stuck on a problem any active entertainment (web browsing, tv, newspapers) just prolongs the agony. The only way I know to get unstuck is to go for a run, a walk, or just sit in a chair outside and stare at nothingness. I&#8217;m extremely visual, however, which could be why I find it next to impossible to get creative thinking in front of a colorful computer screen.</p>
+
+<p>(In fact, I&#8217;m going to change my screen to black and white for a few days.)</p>
+
+<p class="posted">posted by Jeremiah Rogers
+ on August  7, 2005 <a href="#c9" rel="bookmark">#</a></p>
+</div>
+<div id="c10">
+<p>I have horrific issues with acid reflux and peptic ulcers.  I really recommend taking a blocker for the acid reflux &#8212; acid reflux <i>will</i> screw you up badly with tearing up the bottom of your esophagus, ripping away the lining of your stomach, etc.</p>
+
+<p>Secondly, eat whatever you want.  Come over some Friday after I&#8217;ve made the Kupel&#8217;s run and enjoy some bagels.  :)  I personally don&#8217;t eat a lot because I also believe I&#8217;m a supertaster (food dye makes me sick) but also I grew up with a mother who couldn&#8217;t cook.  So whatever.  I survive a lot of the time on Ritz crackers.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.gayrepublicanmetalheadwiccans.org/">Jessica Allan</a>
+ on August 11, 2005 <a href="#c10" rel="bookmark">#</a></p>
+</div>
+<div id="c11">
+<p>I survive on a <a href="http://27degrees.blogspot.com/2005/08/taking-out-trash.html" rel="nofollow">diet of Tesco noodles (13c a pack) &amp; wheetabix.</a>
+The only meat I get is when Im eating at my mothres or some one elses(which works out to about 2-3 times a week).
+I also have the same problems of very going from productive to dead though so maybe not a good idea.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://27degrees.blogspot.com">James McCarthy</a>
+ on August 12, 2005 <a href="#c11" rel="bookmark">#</a></p>
+</div>
+<div id="c13">
+<p>Jeremiah,</p>
+
+<p>The brain runs on glucose. In fact, pretty much the whole body runs on glucose, though it does use fat and protein for maintenance. If you are low on calories, the body can produce enough glucose from fat to keep your brain going, but it will not be pleasant. If this happens during long-duration exercise, it&#8217;s called &#8220;Hitting the wall&#8221;, and it&#8217;s a very unpleasant experience.</p>
+
+<p>Aaron,</p>
+
+<p>Supertaster or not, you&#8217;re going to have to find a way to increase the variety of food that you eat. Vegetables are especially important, both for the nutrients and for the fiber. Your long-term health is in the balance. I have a friend who works to much and eats chicken and brocoli (sp?) every night for dinner, and he&#8217;s headed for trouble.</p>
+
+<p>As far as programming goes, you need to figure out what it takes to get into the flow. Some people need quiet, others need music. The right environment can allow you to flow even if you aren&#8217;t in the right frame of mind.</p>
+
+<p>However, there are days that you won&#8217;t be able to get into it. If I&#8217;m sick or otherwise down, I can&#8217;t get there no matter what the environment.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://msdn.microsoft.com/ericgu">Eric Gunnerson</a>
+ on August 15, 2005 <a href="#c13" rel="bookmark">#</a></p>
+</div>
+<div id="c14">
+<p>some things to try:
+1. better nutrition, especially veggies, and fiber - more what we grew up on as a species
+2. aerobic exercise - causes your mitochondria to reproduce, which are what provide your body with glucose. once i got up to 20min a day on my underdesk exercycle (highly recommended), my crashing out episodes decreased dramatically.
+3. cut yourself off after a certain time limit, even if you&#8217;re on a roll - your brain gets tired out and takes a while to recover, hence the crashing out. i learned to stop at 11 hours, even if i was dying to keep working, and my net productivity went way up. you&#8217;re younger though, and might be able to handle more. but all that constant firing of the same neurons is quite fatiguing on them - there&#8217;s a lot of machinery turning over in those cells, they need to rest and recover!
+4. eat fish and/or essential fatty acids in pills - neurons need these for their fatty coating, which is their electrical insulation. see the aquatic ape theory for one idea of how we evolved into such an (sometimes) intelligent species.</p>
+
+<p>best of luck :)
+brian</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://neomem.org">Brian Burns</a>
+ on August 23, 2005 <a href="#c14" rel="bookmark">#</a></p>
+</div>
+<div id="c15">
+<p>oops, meant to say mitochondria are what supply you with ATP, which is kind of the universal energy shuttle molecule, used to power ion pumps, muscle movement, cargo transport, etc. manufactured by this fascinating protein that spins like a turbine.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://neomem.org">Brian Burns</a>
+ on August 23, 2005 <a href="#c15" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="eatandcode" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

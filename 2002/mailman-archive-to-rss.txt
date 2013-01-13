@@ -1,0 +1,311 @@
+#!/usr/bin/perl
+#
+# mailman-archive-to-rss -- scrape the archives of a MailMan list and
+# convert to an RSS feed using XML::RSS.
+#
+# To use, either edit and update the @LISTS array, or run with -help
+# to view the options used to specify list details on the command line.
+# Requires XML::RSS.
+#
+# Released under the same license as Perl itself.
+# 
+# Nov 28 2001 jm
+#
+
+use strict;
+use vars qw(@LISTS);
+
+@LISTS = (
+  {
+    rss_version =>	'1.0',
+    archive =>		'http://lists.userland.com/pipermail/radio-outline/%Y-%B/date.html',
+    description =>	'The Radio UserLand Outliner list',
+    num_visible =>	10,
+    scrape_text =>	1,
+    rss_output =>	'/var/www/aaronsw/2002/radio-outline.rss',
+  }
+);
+
+sub usage { warn "
+
+usage: mailman-archive-to-rss [ [ -option \"value\" ] ... ]
+
+options:  (default value specified)
+
+";
+  foreach my $opt (sort keys %{$LISTS[0]}) {
+    printf STDERR "  -%-12s \"%s\"\n", $opt, $LISTS[0]->{$opt};
+  }
+  die "\n";
+}
+
+while ($_ = shift @ARGV) {
+  /^-(\S+)/ or usage();
+  if (!defined $LISTS[0]->{$1}) { usage(); }
+
+  $LISTS[0]->{$1} = (shift @ARGV);
+  @LISTS = ($LISTS[0]);		# remove any other lists
+}
+
+use XML::RSS;
+use LWP::Simple;
+use HTML::TokeParser;
+
+my $DEBUG = 0;
+
+foreach my $list (@LISTS) {
+  my $rss = XML::RSS->new (version => $list->{rss_version});
+  my $archiveurl = $list->{archive};
+
+  use POSIX qw(strftime);
+  $archiveurl = strftime ($archiveurl, gmtime());
+
+  #print "list: $archiveurl\n";
+  my $content;
+  my $file;
+  if ($DEBUG) {
+    $file = 'date.html';
+  } else {
+    $file = get_cachefile_for_url ($archiveurl);
+    my $rcode = mirror ($archiveurl, $file);
+    if (handle_http_errors ($archiveurl, $rcode)) { next; }
+  }
+
+  open (IN, "<$file") or die "cannot open $file";
+  $content = join ('', <IN>); close IN;
+
+  my $archiver = 'mailman';
+  if ($content =~ /<!-- MHonArc v\S+ -->/) {
+    $archiver = 'mhonarc';
+  }
+
+  my $urlbase = $archiveurl;
+  $urlbase =~ s,/[^/]+$,/,gs;
+
+  # man, I shoulda done this with regexps. Still, TokeParser
+  # is a nice idea...
+  my $stream = HTML::TokeParser->new( \$content ) or die $!;
+
+  my $tag = $stream->get_tag ("title");
+  my $title = $stream->get_trimmed_text('/title');
+  my $url;
+
+  my $infourl = $archiveurl;
+
+  if ($archiver eq 'mailman') {
+    while ($tag = $stream->get_tag('a')) {
+      $url = $tag->[1]{href} || "--";
+      if ($url =~ /listinfo/) {
+	$infourl = $url; last;
+      }
+    }
+  }
+
+  # remove MailMan verbage:
+  # The FoRK 2001-November Archive by Date => FoRK
+  $title =~ s/^The //gs;
+  $title =~ s/ \d\d\d\d-\S+ Archive by Date//gs;
+  $title =~ s/ by date//gs;	# mhonarc fmt
+
+  my @posts = ();
+  while ($tag = $stream->get_tag("li")) {
+    $tag = $stream->get_tag('a');
+    $url = $tag->[1]{href} || "--";
+
+    # only follow Mailman-style numeric links
+    next unless ($url =~ /^(\d+|msg\d+)\.html$/);
+    $url =~ s/&/&amp;/g;
+    $url = $urlbase.$url;
+
+    my $headline = $stream->get_trimmed_text('/a');
+    $headline =~ s/&/&amp;/g;
+    $headline =~ s/</&lt;/g;
+    $headline =~ s/>/&gt;/g;
+
+    my $who;
+    if ($archiver eq 'mhonarc') {
+      $tag = $stream->get_tag('em');
+      $who = $stream->get_trimmed_text('/li');
+      $who =~ s/^From(?:<\/em>|) //gs;
+      $who =~ s/ (?:\&lt;|<).*$//gs;
+
+    } else {
+      $tag = $stream->get_tag('i');
+      $who = $stream->get_trimmed_text('/i');
+    }
+
+    push (@posts, {
+      url => $url,
+      headline => $headline,
+      who => $who
+    });
+  }
+
+  # now create the rss
+  $rss->channel(
+    title        => $title,
+    link         => $infourl,
+    description  => $list->{description}
+  );
+  
+  my @postnums;
+  if ($archiver eq 'mhonarc') {
+    @postnums = (0 .. $list->{num_visible} - 1);
+
+  } else {
+    my $start = $#posts - ($list->{num_visible} - 1);
+    if ($start < 0) { $start = 0; }
+    @postnums = (reverse $start .. $#posts);
+  }
+
+  for my $i (@postnums) {
+    my $post = $posts[$i];
+
+    my $desc = $post->{who}.": ".$post->{headline};
+    if ($list->{scrape_text}) {
+      $desc .= ": ".scrape_message ($post->{url});
+    }
+
+    $rss->add_item(
+    	title => $post->{who},
+	link => $post->{url},
+	description => $desc
+    );
+  }
+
+  $rss->save($list->{rss_output});
+  #print "rss: $list->{rss_output}\n";
+}
+
+expire_cache();
+exit 0;
+
+sub scrape_message {
+  my $url = shift;
+  local ($_);
+
+  #print "msg: $url\n";
+
+  my $content;
+  my $file;
+  if ($DEBUG) {
+    $file = 'message.html';
+
+  } else {
+    $file = get_cachefile_for_url ($url);
+
+    # only check mod time if the file doesn't already exist
+    if (!-f $file) {
+      my $rcode = mirror ($url, $file);
+      if (handle_http_errors ($url, $rcode)) { next; }
+    }
+  }
+
+  open (IN, "<$file") or die "cannot open $file";
+  $content = join ('', <IN>); close IN;
+
+  my $stream = HTML::TokeParser->new( \$content ) or die $!;
+
+  my $tag = $stream->get_tag ("pre");
+  my $text = $stream->get_text('/pre');
+
+  $text = mail_body_to_abstract ($text);
+  # make it valid-ish HTML
+  $text =~ s/\&/\&amp;/gs;
+  $text =~ s/\</\&lt;/gs;
+  $text =~ s/\>/\&gt;/gs;
+  $text =~ s/\n\n+/\n<br \/>\n/gs;
+  return $text;
+}
+
+sub mail_body_to_abstract {
+  my $text = shift;
+  local ($_);
+
+  # strip quoted text, replace with \002
+  # This is tricky, to catch the "> quote blah chopped\nin mail\n" case
+  my $newtext = '';
+  my $lastwasquote = 0;
+  my $lastwasblank = 0;
+
+  foreach (split (/^/,$text)) {
+    s/^<\/I>//gi;
+
+    if (/^\s*$/) {
+      $lastwasblank = 1; $newtext .= "\n"; next;
+    } else {
+      $lastwasblank = 0;
+    }
+
+    if (/^\s*\S*\s*(?:>|\&gt;)/i) {
+      $lastwasquote = 1; $newtext .= "\002"; next;
+    } else {
+      if ($lastwasquote && !$lastwasblank && length($_) < 20) { next; }
+      $newtext .= $_;
+      $lastwasquote = 0;
+    }
+  }
+  $text = $newtext;
+
+  # collapse \002's into 1 [...]
+  $text =~ s/\s*\002[\002\s]*/\n\n[...]\n\n/igs;
+
+  # PGP header
+  $text =~ s/-----BEGIN PGP SIGNED MESSAGE-----.*?\n\n//gs;
+
+  # MIME crud
+  $text =~ s/\n--.+?\n\n//gs;
+  $text =~ s/This message is in MIME format.*?\n--.+?\n\n//gs;
+  $text =~ s/This is a multipart message in MIME format.*?\n--.+?\n\n//gs;
+  $text =~ s/^Content-\S+:.*$//gm;
+
+  # quoting lines:
+  $text =~ s/^\n*[^\n]+ (?:quote|quotation|wrote|said|mentioned|scribbled):\n//gs;
+
+  # trim sigs etc.
+  $text =~ s/\n-- \n.*$//gs;	# trad-style
+  $text =~ s/\n_____+.*$//gs;	# Hotmail
+  $text =~ s/\n-----.*$//gs;	# catches PGP sigs
+
+  # now trim down to about 300 chars
+  $text =~ s/^(.{250,300}[\.\!\?\;\[\]]).*$/$1 \[...\]/gs
+  	or $text =~ s/^(.{250,300})\n.*$/$1 \[...\]/gs;
+
+  $text;
+}
+
+sub handle_http_errors {
+  my $url = shift;
+  my $rcode = shift;
+
+  if (LWP::Simple::is_error ($rcode)) {
+    #warn "HTTP get $url failed: HTTP error code $rcode\n";
+    return 1;
+  }
+  return 0;
+}
+
+sub get_cachefile_for_url {
+  my $url = shift;
+
+  my $dir = $ENV{'HOME'}."/.mailman2rss";
+  if (!-d $dir) { mkdir ($dir, 0755); }
+
+  my $tmpfile = $url;
+  $tmpfile =~ s/[^-_=\.\,\+A-Za-z0-9]+/_/gs;
+  return $dir."/".$tmpfile;
+}
+
+sub expire_cache {
+  use File::Find;
+
+  my $dir = $ENV{'HOME'}."/.mailman2rss";
+  if (!-d $dir) { return; }
+
+  File::Find::find (\&expire_wanted, $dir);
+}
+
+sub expire_wanted {
+  if (-M $_ > 14.0) { unlink $_; }
+}
+

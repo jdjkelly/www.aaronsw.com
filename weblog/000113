@@ -1,0 +1,43 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>My new server vorpal shipped (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/000113.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000112" title="Retrospect for OS X" />	<link rel="next" href="000114" title="Apple: A special message to" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>My new server vorpal shipped</h1>
+</div>
+
+<div class="content">
+<p>My new server <em>vorpal</em> shipped today. Dell, after taking forever to build it and having a horribly designed website, couldn&#8217;t seem to give me the tracking number for it. Luckily I found that UPS&#8217; website has a search mechanism that let me find it myself. So now I&#8217;m <a href="http://wwwapps.ups.com/etracking/tracking.cgi?InquiryNumber1=1Z423E7W4202551871&amp;TypeOfInquiryNumber=T&amp;HTMLVersion=4.0&amp;tracknums_displayed=5&amp;sort_by=status&amp;line1=1Z423E7W4202551871%2C303187891862bb0000df8eaacbedaafba7202020%2C%2C303187891862bb0000df8eaacbedaa3948202020%2CI%2C%2C20020114%2C215700%2CCACH%2CIL%2CUS%2C%2C%2C%2C%2C%2C20020114%2CHIGHLAND+PARK%2CIL%2CUS%2CGROUND%2C40.00%2CLBS%2C1%2C20020117%2C%2C%2C+%2Ctdts%2CIT%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C2020202020202020202020202020202020202020202020202020202020202020202020%2C2020202020202020202020202020202020202020%2C423E7W%2C%2C%2C423E7W%2C%2C%2C%2C%2C&amp;DCRError=0&amp;tdts1.x=7&amp;tdts1.y=15">eagerly following it</a>. (Hmm, imagine that in RSS&#8230;)<p /><p />The last time I tracked a UPS package, I reloaded the tracking page and found that it had been delivered. Somewhat surprised, I went downstairs and opened the door and there it was!</p>
+
+<p class="posted">posted January 16, 2002 04:59 AM (<a class="category" href="cat_"></a>)  <a href="000113" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000112" title="Retrospect for OS X">&laquo; prev</a> | <a href="./">up</a> | <a href="000114" title="Apple: A special message to">next &raquo;</a></p>
+
+<p><a href="000108">Tony Collen found our secret</a><br />
+<a href="000109">Salon: e.e. cummings reads four</a><br />
+<a href="000110">Wow! I&#8217;m number three in</a><br />
+<a href="000111">&#8220;I think there is a</a><br />
+<a href="000112">Retrospect for OS X</a><br />
+<strong>My new server vorpal shipped</strong><br />
+<a href="000114">Apple: A special message to</a><br />
+<a href="000115">BBC: Wallace and Grommit return</a><br />
+<a href="000116">It&#8217;s great when code falls</a><br />
+<a href="000117">Locust 2.4 GHz DSSS Drive-Study</a><br />
+<a href="000118">Rael imitating his speech-recognition-using officemate:</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

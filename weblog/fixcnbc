@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Journalistic Capture and Fixing CNBC (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Journalistic Capture and Fixing CNBC</h1>
+
+<p><em>Attention conservation notice:</em> Just <a href="http://fixcnbc.com/a">Fix CNBC!</a> and add your name.</p>
+
+<p>Sometimes the government will set up a new regulatory agency, like a Mine Safety and Health Administration or something to keep watch on the mining industry. And off they go, investigating the mining industry to make sure they&#8217;re being safe.</p>
+
+<p>Only something funny happens. It turns out all the people they talk to all day are mining industry officials. And whenever they hold meetings to ask for advice, the only people who show up are mining industry officials. When they make proposals and ask for public comment, all the comments are from mining industry officials. And pretty soon, they start thinking like mining industry officials.</p>
+
+<p>Academics call this regulatory capture &#8212; an office was put in place to regulate an industry, but it ended up just being a tool of the industry.</p>
+
+<p>But what&#8217;s striking is that the problem isn&#8217;t just limited to regulation; the same thing happens to journalists as well. Call it journalistic capture. And there are few examples of it more obvious than that of CNBC.</p>
+
+<p>CNBC, a channel supposed to cover economic news, basically acts as a full-time cheerleader for the financial industry. When the market was booming, this wasn&#8217;t so noticeable. Whole swaths of the country started daytrading and checking the CNBC ticker regularly to feed their buy-sell trigger fingers.</p>
+
+<p>But now that the market&#8217;s gone belly-up, it all seems a whole lot less appealing. Which is what Jon Stewart has been getting at with his critiques of the network.</p>
+
+<p>Well, it&#8217;s less satisfying to complain when you can actually do something about it, so some friends and I have started a new campaign: <strong>Fix CNBC!</strong> <a href="http://www.huffingtonpost.com/2009/03/16/economists-progresses-pet_n_175249.html">As HuffPo reported</a>, we&#8217;re demanding CNBC commit to holding Wall Street accountable, starting with hiring someone who was <em>right</em> about the economic crisis.</p>
+
+<p>We&#8217;d really love for you to sign our open letter:</p>
+
+<ul>
+<li><a href="http://fixcnbc.com/a">Fix CNBC!</a></li>
+</ul>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">March 16, 2009</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>I applaud your efforts, but I doubt this campaign, even if it succeeds in getting CNBC to hire more trustworthy and knowledgeable analysts with proven track records, will really change CNBC or the large problem of &#8216;journalistic capture&#8217; in the general media.  If anything, it would serve as a short term PR boost for CNBC as they signal that they do care, but once the heat is off, they will revert back to what makes the most financial sense for them, not their audience.</p>
+
+<p>Since you are close with Larry Lessig, and no doubt are aware of his Change Congress initiative, have you thought of solutions along similar lines applied to this problem?  Lessig correctly identified a deeper root cause of the problems of government to be systemic corruption caused by the politicians need to raise finances for re-election and thus becoming indebted to their benefactors.</p>
+
+<p>So then a deeper root cause of &#8216;journalistic capture&#8217; would be the networks reliance on ad dollars and the most lucrative target audiences, who don&#8217;t really care about thoughtful insight or unbiased truth.</p>
+
+<p class="posted">posted by haig
+ on March 16, 2009 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>I&#8217;ve been grumbling to Dan Gillmor about this general issue for a while. The problem is there&#8217;s no  incentive to be accurate, as opposed to being a crowd-following booster. And then if you are evangelizing a system which celebrates the destruction of any sort of journalistic institution, in favor of pure attention-grabbing monetization of eyeballs by advertising, that&#8217;s going to make the problem enormously worse.</p>
+
+<p>Unfortunately, there&#8217;s no money in saying this, so it looks like I&#8217;m wasting my time :-(.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://sethf.com/">Seth Finkelstein</a>
+ on March 19, 2009 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="fixcnbc" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

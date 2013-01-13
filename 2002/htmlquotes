@@ -1,0 +1,49 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+  <title>Quoting in HTML</title>
+  <link rel="stylesheet" type="text/css" href="/style.css" />
+  <style type="text/css">
+<!--
+q.q { quotes: '\201C' '\201D' '\2018' '\2019'; }
+q.q:before, q.p:before { content: open-quote; }
+q.q:after, q.p:before { content: close-quote; }
+-->
+  </style>
+</head>
+<body>
+<div id="head">
+  <h1>Quoting in HTML</h1>
+</div>
+<div class="content">
+<h2>Using the &lt;q&gt; Tag</h2>
+<ol>
+<li><strong>Bare:</strong> <q><q>What's this <q>subermaket</q>?</q> Jane asked.</q></li>
+<li><strong>CSSed bare:</strong> <q class="p"><q class="p">What's this <q class="p">subermaket</q>?</q> Jane asked.</q></li>
+<li><strong>CSSed w/ <code>quotes</code>:</strong> <q class="q"><q class="q">What's this <q class="q">subermaket</q>?</q> Jane asked.</q></li>
+<li><strong>Entities:</strong> <q>&#x201c;<q>&#x2018;What's this <q>&#x201c;subermaket&#x201d;</q>?&#x2019;</q> Jane asked.&#x201d;</q></li>
+<li><strong>ASCII:</strong> <q>"<q>'What's this <q>"subermaket"</q>?'</q> Jane asked."</q></li>
+</ol>
+
+<h3>Browser Support</h3>
+<ul>
+<li>Gecko/20020910-20021014 displays treats the &lt;q&gt; tag as a straight double quote in 1/2 and as a curly double quotes in 3. It mixes &lt;q&gt; quotes with author-supplied quotes in 4/5. (<a href="htmlquotes-sbp">screenshot</a>)</li>
+<li>IE 6.0 ignores the quote tag. (<a href="htmlquotes-sbp">screenshot</a>)</li>
+<li><code>links</code> 0.92 ignores the quote tag. (<a href="htmlquotes-deltab">screenshot</a>)</li>
+<li>Opera 6 treats the &lt;q&gt; tag as a straight double quote in 1/2 and gets very confused in 3. It mixes &lt;q&gt; quotes with author-supplied quotes in 4/5. (<a href="htmlquotes-sbp">screenshot</a>)</li>
+<li><code>lynx</code> 2.8.5dev.8 (28 May 2002) (development version) displays 1/2/3 with the proper quotes. It mixes &lt;q&gt; quotes with author-supplied quotes in 4/5. (<a href="htmlquotes-deltab">screenshot</a>)</li>
+<li>If you have a different browser, <a href="mailto:quotes@aaronsw.com">let me know how it fares</a>.</li>
+</ul>
+
+<h2>Not Using the &lt;q&gt; Tag</h2>
+<ol>
+<li><strong>Entities:</strong> &#x201c;&#x2018;What's this &#x201c;subermaket&#x201d;?&#x2019; Jane asked.&#x201d;</li>
+<li><strong>ASCII:</strong> "'What's this "subermaket"?' Jane asked."</li>
+</ol>
+
+</div>
+<div class="footer">
+  <address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+<a href="http://validator.w3.org/check/referer">Valid HTML</a>
+</div></body>
+</html>

@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Why I Won't Use Rimuhosting (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Why I Won&#8217;t Use Rimuhosting</h1>
+
+<p>I originally got a VPS at Rimuhosting because their website lauded their &#8220;fanatical service&#8221; and a friend had concurred. In September 2006, I ordered my first server.</p>
+
+<p>In December, a friend asked if I knew any good VPS hosts. I said I used Rimuhosting and hadn&#8217;t had any problems. &#8220;That&#8217;s funny,&#8221; he replied. &#8220;rimuhosting is the company that&#8217;s just given me horrible support over the last 2 weeks. No answers to email for 2+ days, then a claim that they didn&#8217;t receive it, then I send them the mail server log that says they should have received it, then they say &#8216;oh, that&#8217;s interesting. oh well.&#8217;&#8221;</p>
+
+<p>I guess that should have been a sign for me. But instead, he changed his tune: &#8220;Well, if everyone thinks they&#8217;re so great, maybe I&#8217;ll give them another chance.&#8221;</p>
+
+<p>The server went down for maintenance three times and was moved to a new IP once. In April 2008, the real trouble started. I was dinged for bandwidth overruns, apparently because Yahoo! was crawling the same files on my server hundreds of times a day. In June, they complained I was monopolizing the CPU, even though when I logged in the machine was 100% idle. They complained again in October and November and December and offered to take a look at the problem if I gave them root on the box. &#8220;Over my dead body,&#8221; I thought.</p>
+
+<p>In December they set a CPU cap on my VPS. Then came the amazing bit. Despite already having sold me a VPS and put a CPU cap on my usage of it, they manually edited my partition to add their SSH key to my <code>authorized_keys</code>, used that to <strong>gain root on my box</strong>, noticed that a CGI script was using up CPU, and responded by <strong>turning off Apache</strong>. They didn&#8217;t even try to call me to talk about it in advance. They didn&#8217;t even call me at all. They just sent a little email. After the fact. The subject? &#8220;index.cgi is causing high CPU usage&#8221;</p>
+
+<p>I asked them what was going on. Here was their reply:</p>
+
+<blockquote>
+  <p>In our welcome email we do mention that we have installed our key on your server.</p>
+  
+  <p>We use that to help our customers.  You are able to remove that if you are not comfortable with that.</p>
+</blockquote>
+
+<p>Of course, I did remove it. They used their control of the hardware to add it back in.</p>
+
+<blockquote>
+  <p>We work to ensure that customer&#8217;s get a fair share of the CPU, and that their servers perform well.</p>
+  
+  <p>If everyone is trying to max out the CPU then everyone&#8217;s performance will be poor.  We can set it so that you get a fixed amount of CPU (and then we don&#8217;t mind how much CPU want to use).  Or we can let your CPU burst up to 100% of a host server CPU core, in which case your server will run fast, but in which case we&#8217;d need to make sure you do not monopolize the CPU.</p>
+</blockquote>
+
+<p>Or, they can break into my box and turn off my webserver. Oddly they don&#8217;t mention that last option.</p>
+
+<blockquote>
+  <p>If you think we can help in any other way, e.g. investigating that script or anything, just let us know.</p>
+</blockquote>
+
+<p>I suppose this is the service Rimuhosting is known for. I won&#8217;t be taking advantage of it again.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">August 27, 2009</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>I have used Rimu for several years now, and have recommended them to numerous clients.</p>
+
+<p>It is true they add a key to gain root access, which I was duly informed about.  However, if I didn&#8217;t like it I could delete the key.</p>
+
+<p>I had a case where they identified a problem with one of our server processes that had gone wild and used up enough memory that Linux started killing processes to keep itself alive.  I got an email from them indicating this issue &#8212; they noticed that my database server was down before I did.  I am very surprised that there was no communication via any of their supported channels after that action.  Are you sure?</p>
+
+<p>I think you&#8217;re being a little unfair.  Any process that pegs the CPU is pretty much a rogue process, IMHO.  It sounds like your issue was how they handled it.  Our cases are similar: for me, they saved some downtime.</p>
+
+<p>Their service has been truly exceptional for the several years I have used them.</p>
+
+<p>Anyway, it&#8217;s your option to not like them :-).  I just thought they deserved a chance to have an alternate view.</p>
+
+<p>Tom</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://fivepercent.us/">Tom Harrison</a>
+ on August 27, 2009 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>I can recommend Joyent accelerators as an alternative. They use OpenSolaris containers, which IMO is superior technology.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.majid.info/">Fazal Majid</a>
+ on August 27, 2009 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>This sort of problem is a great reason to go with a Xen-based VPS host. Xen actually does resource limiting between VPSs properly which would have avoided this entire mess.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://mikecantelon.com">Mike Cantelon</a>
+ on August 27, 2009 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>Rimuhosting does use Xen.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on August 27, 2009 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>I know it shouldn&#8217;t matter, but you think they&#8217;d have some canned responses that had been proofread.  (customer’s)</p>
+
+<p class="posted">posted by Rich Wilson
+ on August 27, 2009 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c7">
+<p>I have to say that I&#8217;ve been using Rimuhosting for a couple of years and have always been amazed by their service. If they added back their SSH key after you had removed it then that&#8217;s pretty terrible, but generally when dealing with their support people I feel I&#8217;m talking to clued up people who are actually care about getting stuff fixed. Seems like they went a bit too far in your case.</p>
+
+<p class="posted">posted by Rich
+ on August 27, 2009 <a href="#c7" rel="bookmark">#</a></p>
+</div>
+<div id="c8">
+<p>You&#8217;re a moron. Get a dedicated box with a reliable company.  Wanting a good VPS setup is like asking for a girlfriend that also wants you to sleep with her friends&#8230;  Ain&#8217;t happenin.</p>
+
+<p class="posted">posted by anon
+ on August 27, 2009 <a href="#c8" rel="bookmark">#</a></p>
+</div>
+<div id="c9">
+<p>They use Xen, but don&#8217;t know how to throttle CPU per VPS. Yikes. I will make sure I avoid them.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://mikecantelon.com">Mike Cantelon</a>
+ on August 28, 2009 <a href="#c9" rel="bookmark">#</a></p>
+</div>
+<div id="c10">
+<p>Give slicehost a try. I hear good things.</p>
+
+<p class="posted">posted by 
+ on August 28, 2009 <a href="#c10" rel="bookmark">#</a></p>
+</div>
+<div id="c11">
+<p>+1 for slicehost, and also definitely these dudes&#8212; really tempted to try it
+http://prgmr.com/xen/</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://prgmr.com/xen/">Todd Troxell</a>
+ on August 28, 2009 <a href="#c11" rel="bookmark">#</a></p>
+</div>
+<div id="c12">
+<p>Have to disagree about Joyent accelerators.  Mine (with their image) was unstable, going down ever month or so and they were a hassle to deal with.  After 6 months of poor replies I left, issue still unresolved.</p>
+
+<p class="posted">posted by Josh
+ on August 28, 2009 <a href="#c12" rel="bookmark">#</a></p>
+</div>
+<div id="c14">
+<p>Aw, man&#8230;I&#8217;d never heard of Rimuhosting until last night, when I started researching java (ie scala :) hosting. They looked great&#8230;java specialists, start at $20/mo, scale up to monster dedicated servers if necessary. I thought I&#8217;d found my host.</p>
+
+<p>Now I check the aggregator and find this post.</p>
+
+<p>I&#8217;d use slicehost, but I think my setup might be really ram-heavy after a while&#8230;ram is cheap and rimu pricing reflects that. Slicehost doesn&#8217;t have an option for adding lots of ram cheap.</p>
+
+<p>I guess I could bite the bullet and start with dedicated, but it&#8217;d be nice to keep it cheap for starters in case traffic stays light.</p>
+
+<p class="posted">posted by Dennis
+ on September  1, 2009 <a href="#c14" rel="bookmark">#</a></p>
+</div>
+<div id="c16">
+<p>It seems you guys in the US get really raw deals in the hosting business.
+Looking at the rimu page they ask $49 for the &#8220;biggest&#8221; VPS which has not that great stats after all.</p>
+
+<p>In Germany e.g. you get a dedicated root server with a Core i7, 8 GB Ram and 750 GB Raid 1 Disks for 49 € (~ $70)</p>
+
+<p>For example here: http://www.hetzner.de/en/hosting/produktmatrix/rootserver-produktmatrix/Produktmatrix</p>
+
+<p class="posted">posted by Ulrich Petri
+ on September  8, 2009 <a href="#c16" rel="bookmark">#</a></p>
+</div>
+<div id="c18">
+<p>I agree with the issues that others have had with RimuHosting. They used to be great, until, on top of a number of similar occurrences to those mentioned, one day they completely WIPED my VPS and I was forced to restore from week-old backups.
+This was supposedly due to a security compromise that was actually a non-issue. I was running portsentry, which was listening on a number commonly exploited ports, for the purpose of denying port scans.
+I had changed my recorded root password, as to deny access. So, during a &#8216;routine security scan&#8217;  of their network (which had never been performed before), a rep saw a number of trojan ports open on the box (their scanning host would have been blocked and all ports would have shown closed, if they had thought to try again). So, they saw the ports open, tried to log in as root, were denied, and assumed the machine was compromised. And reformatted it.
+This is TERRIBLE from a security standpoint, as no forensics would have been possible if it HAD in fact been compromised. Instead, they wiped all evidence that would have been present. No knowledge of the origin of the attacker or methodology involved.
+I would have recommended powering it down and notifying me, or at least denying all network traffic to the machine. Instead, after a few failed attempts, I log into a fresh install, with no data at all. I was not even notified &#8212; I had to contact them to find out what happened. Their response: Oh, we will note this on your account so this doesn&#8217;t happen again. Yeah&#8230; thanks.
+Needless to say, that was enough cause for me to take my service elsewhere.</p>
+
+<p class="posted">posted by elixx
+ on December  8, 2009 <a href="#c18" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="rimuhosting" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

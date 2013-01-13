@@ -1,0 +1,45 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+  <title>Boston Trip (2002-04-23)</title>
+  <link rel="stylesheet" type="text/css" href="../style.css" />
+</head>
+<body>
+<div id="head">
+  <h1>Boston Trip (2002-04-23)</h1>
+  <span class="description">Learning, teaching, talking...</span>
+</div>
+<div class="content">
+<h2>Schedule of 2002-04-23</h2>
+<p><img align="right" src="bostonmap.gif" />
+Jeremiah arrives: 6:20a (<a href="http://maps.yahoo.com/py/ddResults.py?&amp;newaddr=145+dartmouth+st.&amp;newcsz=boston%2C+ma&amp;newcountry=us&amp;newTFL=Use+Address+Below&amp;newtaddr=vassar+street&amp;newtcsz=Cambridge%2C+MA+02139&amp;newtcountry=us">map from amtrak station to mit</a>)<br />
+Leave ORD: 8:45a<br />
+Arrive BOS: 12:02p<br />
+take a cab to bldg. 26 (77 Massachusetts Avenue, Cambridge, MA)<br />
+Class: 1-2:30p (<a href="http://philip.greenspun.com/teaching/6171/2002-spring/">class info</a>, <a href="6171talk/">talk notes</a>, <a href="http://whereis.mit.edu/bin/map?locate=bldg_26">MIT Map</a>, <a href="http://whereis.mit.edu/primitives/bldg_26.html">building info</a>)<br />
+see eikeon, dominik, davb, etc.<br />
+SWAD: 2-4p (<a href="http://lists.w3.org/Archives/Member/w3c-semweb-ad/2002Apr/0032">agenda</a>, <a href="http://whereis.mit.edu/bin/map?locate=tech_sq_bldg">NE43 map</a>, <a href="http://whereis.mit.edu/primitives/bldg_ne43.html">building info</a>)<br />
+hang out at student center, see nada (<a href="http://web.mit.edu/namin/www/schedule.html">sched</a>)<br />
+[find some way to get back to airport. take T? @@]<br />
+OpenACS Social: 6-9p (<a href="http://openacs.org/news/item.tcl?news_item_id=100073">announcement</a>, <a href="http://www.redbonesbbq.com/">restaurant</a>)<br />
+Leave BOS: 7:00p<br />
+Arrive ORD: 8:40p<br />
+jeremiah leaves: 9:10p
+</p>
+<h2>Notes</h2>
+<pre>
+Subject: SWARTZ, AARON
+**********************   Itinerary   ************************
+AIR> Apr 23 UA # 506  ORD --> BOS   8:45 am 12:02 pm 
+AIR> Apr 23 UA # 529  BOS --> ORD   7:00 pm 8:40 pm 
+*************************************************************
+</pre>
+<p>Philip on bringing friends: <code>Yes, of course.  Anyone you like.  It is a huge room and we only use a corner (it is a new concept classroom with big round tables).</code></p>
+
+<h2>General Info</h2>
+<a href="http://web.mit.edu/is/help/wireless/">wireless MITnet access</a>, <a href="http://lcs.www.media.mit.edu/projects/Davis-Net/">ad-hoc davis street</a>
+</div>
+<div class="footer">
+  <address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+<a href="http://validator.w3.org/check/referer">Valid HTML</a>
+</div></body>
+</html>

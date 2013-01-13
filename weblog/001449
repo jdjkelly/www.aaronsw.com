@@ -1,0 +1,586 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Stanford: Day 41 (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/001449.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001448" title="Stanford: Day 40" />	<link rel="next" href="001450" title="Philip Zimbardo on the Psychology of Evil" />
+<!--
+<rdf:RDF xmlns="http://web.resource.org/cc/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<Work rdf:about="http://www.aaronsw.com/weblog/001449.html">
+<dc:title>Stanford: Day 41</dc:title>
+<dc:description>I walk over to sociology class. On the way a girl in one of my other classes waves to me...</dc:description>
+<dc:creator>Aaron Swartz</dc:creator>
+<dc:date>2004-10-28T18:19:29-06:00</dc:date>
+<license rdf:resource="http://web.resource.org/cc/PublicDomain" />
+</Work>
+<License rdf:about="http://web.resource.org/cc/PublicDomain">
+<permits rdf:resource="http://web.resource.org/cc/Reproduction" />
+<permits rdf:resource="http://web.resource.org/cc/Distribution" />
+<permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+</License>
+</rdf:RDF>
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Stanford: Day 41</h1>
+</div>
+
+<div class="content">
+<p>I walk over to sociology class. On the way a girl in one of my other classes waves to me and I wave back. It&#8217;s funny &#8212; she&#8217;s probably the prettiest girl I&#8217;ve seen here, but she, like everyone else, does not inspire the bizarre feeling TGIQ does. </p>
+
+<p>I end up at class early and take a random seat, half-watching for TGIQ. It&#8217;s odd, I think, that the body should pick a single girl and act bizarre around her. What purpose does it serve? How does it decide who? How does it know who before even the conscious mind does?</p>
+
+<p>The whole thing seems silly. Obviously it&#8217;s drawing me to her, but why? How would it know if she&#8217;s of similar temperment or style of mind or interest? We haven&#8217;t even spoken to each other! She clearly isn&#8217;t very interested in sociology &#8212; she took forever to finish the midterm and class started minutes ago and she still isn&#8217;t here.</p>
+
+<p>Wouldn&#8217;t it make more sense for such feelings to develop after you meet a person? Perhaps they do, and this is the body&#8217;s way of nudging someone who refuses to try to meet anyone. Still, the whole thing seems bizarre &#8212; even more so than the usual curelties of love.</p>
+
+<p>Then finally she walks in &#8212; still with her trademark jacket and now with a messenger-style bag. she takes a seat several rows in front of me and to the side, yet I still have a clear view of her. As much as I try to focus on the lecture, which seems unusually boring today, my eyes are bizarrely pulled to her. All I can see, of course, is the hair hanging from the back of her head &#8212; not that different from everyone else&#8217;s hair, although somehow it seems straigter and more radiant &#8212; and yet I am still pulled to look at her. It is another of the habit&#8217;s cruel insanities.</p>
+
+<p>As I think about what little I&#8217;ve seen of her face, it seems so glaringly familiar, although I can&#8217;t place it. A TV star perhaps? Although I don&#8217;t think it is, it would be funny if she was the same as Driving School Girl.</p>
+
+<p class="posted">posted October 28, 2004 06:19 PM (<a class="category" href="cat_education">Education</a>) (<a href="#comments">36 comments</a>) <a href="001449" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001448" title="Stanford: Day 40">&laquo; prev</a> | <a href="./">up</a> | <a href="001450" title="Philip Zimbardo on the Psychology of Evil">next &raquo;</a></p>
+
+<p><a href="001440">P2P Politics</a><br />
+<a href="001444">The World Is Watching</a><br />
+<a href="001445">The Politics of Lying</a><br />
+<a href="001446">Stanford: Day 39</a><br />
+<a href="001448">Stanford: Day 40</a><br />
+<strong>Stanford: Day 41</strong><br />
+<a href="001450">Philip Zimbardo on the Psychology of Evil</a><br />
+<a href="001451">Stanford: Day 42</a><br />
+<a href="001452">Stanford: Day 43</a><br />
+
+</p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c3247">
+
+<p>I&#8217;ve been enjoying watching this saga unfold&#8230; I&#8217;m a junior at Harvard, and I&#8217;m reminded of the strangeness that was my freshman year.  </p>
+
+<p>My advice: go up to the girl and tell her that you&#8217;ve seen her in class, that she seems interesting, and that you want to meet her.  Chances are, she&#8217;ll be flattered, you&#8217;ll actually get to talk to her, and you can figure out if you&#8217;re still interested.  I know it&#8217;s hard to do, but it&#8217;s the type of thing that gets easier as you go along.  I&#8217;ve met some of my best friends in college that way.  </p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.people.fas.harvard.edu/~mdmalon" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3247">Margaret</a> at October 28, 2004 09:13 PM <a href="#c3247">#</a></p>
+
+</div><div id="c3249">
+
+<p>I love reading about a crush from the boy&#8217;s point of view.  It&#8217;s very interesting.  </p>
+
+<p>Do try and talk to her&#8212; and smile!  Good luck!</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.ottergreen.blogspot.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3249">janna</a> at October 28, 2004 10:16 PM <a href="#c3249">#</a></p>
+
+</div><div id="c3250">
+
+<p>an interesting and somewhat related post over on marginal revolution about pickup line success rates on campus: <a href="http://www.marginalrevolution.com/marginalrevolution/2004/10/the_difference_.html">http://www.marginalrevolution.com/marginalrevolution/2004/10/the<em>difference</em>.html</a></p>
+
+<p class="posted">posted by sms at October 28, 2004 11:39 PM <a href="#c3250">#</a></p>
+
+</div><div id="c3252">
+
+<p>I remember my first year at university which can be summed up in one word - surreal.</p>
+
+<p>I agree with the above comments - talk to her - it&#8217;s good to talk and you&#8217;ll probably meet more people through her;-)</p>
+
+<p>Several of my friends met their better halves because they fixed their computers&#8230;..</p>
+
+<p>Above all else, listen more than speak, but that&#8217;s just advice, nothing more.</p>
+
+<p>Have fun, there are loads of opportunities for you!</p>
+
+<p class="posted">posted by Rowland at October 29, 2004 03:14 AM <a href="#c3252">#</a></p>
+
+</div><div id="c3253">
+
+<p>Time&#8217;s wasting, man.  It&#8217;s already Day 41 and you still haven&#8217;t said &#8220;Hello&#8221; to TGIC.  Hurry up and get it over with.  Your readers are waiting with baited breath.  Although I guess if it goes really well, you&#8217;ll stop blogging about it.  ;-)</p>
+
+<p class="posted">posted by <a target="_blank" title="http://zooko.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3253">Zooko</a> at October 29, 2004 04:22 AM <a href="#c3253">#</a></p>
+
+</div><div id="c3254">
+
+<p>Aaron, it seems you can&#8217;t decide, so I&#8217;ll tell you just one thing you will gain if you talk to her: hormones. Human body is architected as a message-passing system and hormones are he messages. What you are feeling is the body saying &#8220;Go talk to her NOW&#8221;. BUT, you may say, what can I gain? Hell, I know one thing for sure: when you get lots of hormones ragning around your body, you WILL CODE FASTER, like 5x speed or something. It&#8217;s like you have been living all time on 80% power-saving mode and now your system has awakened and is working at full clock speed. Just think about it, if you pay half of your free time by running after girls and then the other half you can code at 5x speed, it&#8217;s a net gain!</p>
+
+<p>ps. This can seem bizarre but at least it worked for me :)</p>
+
+<p class="posted">posted by <a target="_blank" title="http://wind.codepixel.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3254">wind</a> at October 29, 2004 05:51 AM <a href="#c3254">#</a></p>
+
+</div><div id="c3255">
+
+<p>I&#8217;m a stranger, but I recognize and understand your situation from my youth. I&#8217;ll give it to you straight. You&#8217;ll thank me 10 years from now ;-)</p>
+
+<p>Walk up to TGIQ. Maintain firm eye contact. Say hi, pause, gauge reaction. Continue to iterate as needed.</p>
+
+<p>Two important points. 1. Be confident: truly force yourself not to care about the outcome of talking to her, and view it as a learning opportunity. This nonchalance will prevent her from freaking out on you. 2. Constantly gauge her reaction. You notice and describe your own body reactions well: watch for hers. When her reaction is positive, continue and increase intensity. When her reaction is negative, slow down, re-assess, again proceed. You learn this with time; it&#8217;s the same skill you need to know when to kiss a girl. How do you get this skill? Practice, practice, practice.</p>
+
+<p>Based on your other entris you seem to be uncomfortable with your own sexuality. Everyone is at first. But humans are sexual beings, not rational computers. Sex is animalistic, crude, violent - but EVERY PERSON on the planet wants it; the human species biologically needs it for continued survival. Remember this when you talk to girls. They are not some object on a pedastal to be adored and worshipped: they are human beings, they have sexual desire, and so do you. Treat them as equals, but don&#8217;t be afraid to express your sexual desire. If you never take a chance, she may never know of your sexual interest (and your interest is sexual, don&#8217;t be ashamed to admit it to yourself). </p>
+
+<p>Don&#8217;t fall into the trap of becoming good friends with a girl over months or years then suddenly springing the news that you&#8217;d like her to be your girlfriend. You may now think that this is how it works, but it isn&#8217;t. You will find out that if you try this, the girl &#8220;doesn&#8217;t like you in that way, but you&#8217;re such a nice friend&#8221;. Why? Because you admired the girl from afar for so long and you never made your sexual interest or intent known. There are lots of ways - almost all through body language - of making sexual interest known to the other party. Watch couples together - how they physically interact with each other, and when. Your description of the &#8220;Full moon on the Quad&#8221; night sounded like a perfect opportunity to watch how and when girls and guys will kiss random strangers. WATCH how this happens, WATCH what the guys do and how the girls respond. You say you&#8217;re in sociology class - well start doing some field studies, man!</p>
+
+<p>I could write more, but everyone has to find their own way. If you found this useful, say so and I can continue.</p>
+
+<p>Mr. SW</p>
+
+<p class="posted">posted by  at October 29, 2004 06:39 AM <a href="#c3255">#</a></p>
+
+</div><div id="c3256">
+
+<p>Every guy has to go through this awkward phase. Your currently sitting as a fork in the road. 1. You can make a dash for the prize and risk losing some face or that precious ego that you hold onto so tightly  It might work out great and you&#8217;ll have a great time. Either way its not forever. 2. You hang back and never act. Treading dangerously close to stalker-ville. Running through situations and fantasy in your head is never like the real thing. It takes real experience to become good at anything. Dating is no exception. Some people spend decades doing this. Regret is a real pain in the ass and completely avoidable.</p>
+
+<p class="posted">posted by <a href="mailto:estate200@yahoo.com">matt</a> at October 29, 2004 08:55 AM <a href="#c3256">#</a></p>
+
+</div><div id="c3257">
+
+<p>Amen about regret. They say that when you&#8217;re 70, you&#8217;ll look back on your life and regret the things you DIDN&#8217;T do, not the things you DID do. Go out on a limb! As Young MC says, &#8220;BUST A MOVE!&#8221; (80&#8217;s song, in case you&#8217;re too young ;-) )</p>
+
+<p class="posted">posted by  at October 29, 2004 09:34 AM <a href="#c3257">#</a></p>
+
+</div><div id="c3259">
+
+<p>To the adults out there: Don&#8217;t you have any regrets at all about things you&#8217;ve done?</p>
+
+<p class="posted">posted by <a target="_blank" title="http://unicast.org/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3259">Guan Yang</a> at October 29, 2004 11:14 AM <a href="#c3259">#</a></p>
+
+</div><div id="c3260">
+
+<p>I&#8217;ll try and find a link, but I remember hearing that we have strongest reactions to potential mating partners (don&#8217;t blush) who have a different immune type to our own. Maybe its the immune system of TGIQ that&#8217;s making your heart leap. Or maybe she&#8217;s just a fox.</p>
+
+<p>Good luck with it all.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://autoscopia.com/amelia" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3260">Anna</a> at October 29, 2004 11:32 AM <a href="#c3260">#</a></p>
+
+</div><div id="c3261">
+
+<p>Mm.  Take things as they come, in my opinion.  Personally I would attempt to obtain more information about TGIQ&#8230; e.g. whether she is dating someone else to prevent potential embarassment :-/  That&#8217;s me though.  Ymmv.</p>
+
+<p>Good luck&#8230; and don&#8217;t be afraid to risk it and see what happens!</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.dominik.net/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3261">Dominik Rabiej</a> at October 29, 2004 12:26 PM <a href="#c3261">#</a></p>
+
+</div><div id="c3262">
+
+<p>Aaron, I&#8217;m in no position to give you advice, because I&#8217;m three years younger than you and I have never had the courage to ask anyone out. But I wish you luck.</p>
+
+<p class="posted">posted by <a href="mailto:adam@atommic.com">Adam</a> at October 29, 2004 02:54 PM <a href="#c3262">#</a></p>
+
+</div><div id="c3263">
+
+<p>Mr. SW, your comments are definitely useful.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3263">Aaron Swartz</a> at October 29, 2004 03:54 PM <a href="#c3263">#</a></p>
+
+</div><div id="c3264">
+
+<blockquote>
+  <p>WATCH how this happens, WATCH what the guys do and how the girls respond. You say you&#8217;re in sociology class - well start doing some field studies, man!</p>
+</blockquote>
+
+<p>What do you think I&#8217;m writing? I observed as much as I could, but there&#8217;s only so much you can get without a cutaway.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3264">Aaron Swartz</a> at October 29, 2004 04:53 PM <a href="#c3264">#</a></p>
+
+</div><div id="c3267">
+
+<p>people (and by association, girls) suck.  stick to cigarettes, porn, and emacs.</p>
+
+<p>they are your only true friends.</p>
+
+<p>they will never let you down.  (i would throw vim in there just to show that i am not a bigot, but come on.  let&#8217;s be real.)</p>
+
+<p>guan-yang asks about regrets.  not realizing the above as early as possible is my regret.  girls &#8212; even exceedingly hot ones with the supplest of buttocks &#8212; will not improve your life.  such attitudes are echoes of a victorian artistic exploration bearing no semblance to truth.  this is similar to your disappointment in the academic life.  both are lacking of real substance.</p>
+
+<p>however, if you must bathe in the rejuvinating waters of lake minnetonka, please read <a href="http://www.viceland.com/issues/v10n3/htdocs/the_vice_guide.php">&#8220;the vice guide to being totally crushed out&#8221;</a>:</p>
+
+<blockquote>&#8220;After masturbating about her 16 times, she is basically your girlfriend (in your head). Therefore, the next time you see her you’ll be all laid-back and casual, touching her shoulder and saying, “What’s going on?” in a relaxed, long-term boyfriend kind of way. How could you be uncomfortable around a woman who, just last night, was on her knees in white high heels and turquoise socks BEGGING to feel your cum in her mouth (with Béatrice Dalle tied up behind her, masturbating).&#8221;</blockquote>
+
+<p>truer advice i have never heard.</p>
+
+<p>also, try to land an older girl.  like a phd candidate in comparative lit or french or something like that.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://fratocrates.blogspot.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3267">jhc</a> at October 29, 2004 05:23 PM <a href="#c3267">#</a></p>
+
+</div><div id="c3268">
+
+<p>&#8220;Mr. SW, your comments are definitely useful.&#8221;</p>
+
+<p>Thanks. I&#8217;ll try to avoid overstaying my welcome but will take this opportunity to add one more thought. The sooner you get comfortable with your sexuality, the happier you will be in life. Literally.</p>
+
+<p>As supporting evidence, I cite the highly fascinating site http://violence.de, which has a far-reaching historical, cultural, and physiological study of the causes of violence on this world. Their conclusion? &#8220;CULTURES THAT PUNISH INFANTS OR REPRESS SEXUALITY ARE VIOLENT&#8221;.</p>
+
+<p>Read the study, titled &#8220;Body Pleasure and the Origins of Violence&#8221; - there is tons of supporting evidence. The abstract: &#8220;A neuropsychologist contends that the greatest threat to world peace comes from those nations which have the most depriving environments for their children and which are most repressive of sexual affection and female sexuality.&#8221;</p>
+
+<p>Notice the bit about repression of sexual affection. Being ashamed of or repressing your sexuality is unhealthy and in the broader sense directly causes many ills of this world.</p>
+
+<p>So what does this mean? Let&#8217;s take the somewhat cynical comment of a previous poster to this discussion:</p>
+
+<p>“After masturbating about her 16 times, she is basically your girlfriend (in your head). Therefore, the next time you see her you’ll be all laid-back and casual, touching her shoulder and saying, “What’s going on?” in a relaxed, long-term boyfriend kind of way. How could you be uncomfortable around a woman who, just last night, was on her knees in white high heels and turquoise socks BEGGING to feel your cum in her mouth (with Béatrice Dalle tied up behind her, masturbating).”</p>
+
+<p>Now, it seems that the context and tone of the poster who provided this quote was a bit cynical. However, surprisingly, this quote contains more than a bit of truth. It is right on about &#8220;being laid-back and casual&#8221;, &#8220;touching her shoulder&#8221;, and acting in a comfortable &#8220;long-term boyfriend&#8221; kind of way. And yes, to put it plainly, women do sometimes beg you to cum in their mouth, because once you connect with a woman on a sexual level, you know and she knows that it&#8217;s about mutual body pleasure: a completely natural state of affairs.</p>
+
+<p>This boils down to getting comfortable to the idea that you and women - not speaking in the general sense, but speaking in the very specific case of you particularly - can, should, and will have sex.
+By psychologically becoming comfortable with the idea that sexual pleasure is normal with real human beings and is not some fantasy, you will learn over time to deal with women in a sexual way. Does that sound sexist? It isn&#8217;t. What does (heterosexual) sex factually involve? It factually involves a man and a woman and biologically different sex organs. This means you must become comfortable with the idea that women and men have sexual characteristics because sex is natural. Therefore, you must acknowledge and accept your and their sexuality if you want to connect with them on a sexual level. </p>
+
+<p>Specifically, what this means is that you should be comfortable holding a woman&#8217;s gaze a bit too long, touching a woman lightly on the arm, slipping your arm around her as you dance, kissing her, all the way up the scale to full-blown sexual touching, intercourse, and whatever else is mutually pleasing. The key is knowing when to advance, when to pause, and when to withdraw. This comes through real-life observation of couples&#8217; behavior (forget Hollywood movies, they&#8217;re socially inaccurate marketing propaganda), experimentation, and yes, many many failures.</p>
+
+<p>Push yourself. Make yourself talk to women. Make yourself stare a little longer in her eyes. Make yourself touch her lightly on the arm when appropriate. Watch how she reacts, learn the mutual sexual body language of women and men. It only gets better, so go out on a limb and experiment.</p>
+
+<p>Finally, here&#8217;s a gem I found on the net. http://www.faqs.org/faqs/romance-faq/part1/section-5.html . Caveat: I don&#8217;t necessarily agree with all the other parts of that FAQ, but that particular section is right on target.</p>
+
+<p>That&#8217;s all for now - it took me maybe 10 years of trial and error to finally understand this stuff. You&#8217;re getting a head start! Good luck.</p>
+
+<p>Mr SW</p>
+
+<p class="posted">posted by  at October 29, 2004 09:03 PM <a href="#c3268">#</a></p>
+
+</div><div id="c3269">
+
+<p>Um.  He hasn&#8217;t even spoken to her yet.  You&#8217;re freaking ME out with all this &#8220;sexuality&#8221; talk and you&#8217;re not even addressing me.</p>
+
+<p>Wow.  Don&#8217;t think about it so much!</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.ottergreen.blogspot.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3269">janna</a> at October 29, 2004 09:57 PM <a href="#c3269">#</a></p>
+
+</div><div id="c3270">
+
+<p>Re: &#8220;Don&#8217;t think about it so much&#8221; - this comes from a woman&#8217;s perspective. From a man&#8217;s perspective, it can be paralyzing to be afraid to make a move. You wonder over and over about what might happen. Every guy has been there; I&#8217;m not sure women understand this particularly male condition, or at least women understand it differently. Men need to proactively work to combat this paralysis (or end up with &#8220;Love Shyness&#8221;, see http://en.wikipedia.org/wiki/Love_shyness ). IMHO the most important step to overcoming this paralysis is to become comfortable with people as sexual beings. See the other link I posted (the alt.romance FAQ link) about guys being afraid to &#8220;offend&#8221; women and thus never getting sexually involved. It&#8217;s a real problem for men, and it needs real adressing.</p>
+
+<p>Mr SW</p>
+
+<p class="posted">posted by  at October 29, 2004 10:10 PM <a href="#c3270">#</a></p>
+
+</div><div id="c3273">
+
+<p>this is all just begging to be abstracted away into a group blog/wiki on nerd dating (wikilaidia.com???).  after countless posts and rounds of knock down drag out revisions, we will be able to distill dating to its core.</p>
+
+<p>perhaps we can store this essence as an xml file.</p>
+
+<p>budding lotharios can then download, apply an xslt, and commence with the dalliance&#8230;all while drinking ovaltine.</p>
+
+<p>on second though, maybe this should be in <a href="http://www.opencyc.org/">opencyc</a> and cycL.  the ovaltine still applies.</p>
+
+<p>one shiny nickle goes to the person or persons who organize this most humanitarian of all efforts.  note, that is one nickle <em>in toto</em>, so don&#8217;t try to get 20 of your friends together and bilk me for an entire dollar.</p>
+
+<p>in any case, i would like to conduct a discussion on relationships for my blog with Mr SW and janna via IM:  janna, because you expressed interest in the inner workings of the male mind (watch what you wish for), and Mr SW because you are a man posessing 1.) a mind and 2.) an interesting take on the matter.  if the two of you would like to arrange a chat, please email me at jesus[period]h[period]christos[at]gmail[period]com.  if not, you will force a grown man to cry.</p>
+
+<p>jhc.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://fratocrates.blogspot.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3273">jhc</a> at October 30, 2004 04:48 AM <a href="#c3273">#</a></p>
+
+</div><div id="c3274">
+
+<p>I have read (ridiculously) optimistic and (more accurate) cynical responses, now for the harsh:</p>
+
+<p>You are a typical socially inept home-schooled kid. Most of the freshmen have already internalized a comfortable way of interacting with their peers that they learned in high school. This is foreign to you and explains why you feel more comfortable hanging out with professors than fellow undergrads.</p>
+
+<p>It is your first semester in college and you visit professors and apparently go mute around everyone else? Is that how you want to spend your next four (to ten) years?</p>
+
+<p>Forget about this woman. Most likely you will never talk to her, but even if you do, she will immediately see that you have little to offer, or that if you do you will be unable to convey that to her. Better to leave her to someone who has developed some rudimentary social skills.</p>
+
+<p>All is not lost, though. Eventually you will meet another hardcore nerd, it will be the first serious relationship for the both of you (I predict it will be a CS summer student from Caltech or CMU between your junior and senior year). You will get married. The End.</p>
+
+<p>So, Aaron, in conclusion, it is too late; there is nothing you can do to overcome your delayed social development. Enjoy.</p>
+
+<p class="posted">posted by q-cup kid at October 30, 2004 08:55 AM <a href="#c3274">#</a></p>
+
+</div><div id="c3275">
+
+<p>Aaron says: This is the second time this has happened to me. The first was at driving school. I wondered if the girl felt it too so I started sitting closer to her, but she just ignored me, from which I concluded she didn’t feel it.</p>
+
+<p>A delayed comment on the above. This may have been pathetic and somewhat cute when you were 16, but will be taken as virtually criminal by some women if you are 21.</p>
+
+<p>Read a book on pre-teen social interactions. Not talking to someone you are attracted to but sitting closer to them is a stage that most people were in in the fourth and fifth grade. In sixth grade, most progress to grabbing breasts and buttocks at recess. I look forward to your sophomore year at Stanford.</p>
+
+<p class="posted">posted by q-cup kid at October 30, 2004 09:12 AM <a href="#c3275">#</a></p>
+
+</div><div id="c3276">
+
+<p>Um, Aaron, the fact that you have a fairly popular weblog may not be a secret very long. In that case, the person in question might read this. This will probably drive the situation forward somewhat. But be careful not to write too personal things. For many reasons.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://vintermann.paranoidkoala.org" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3276">Harald Korneliussen</a> at October 30, 2004 09:17 AM <a href="#c3276">#</a></p>
+
+</div><div id="c3277">
+
+<p>with regards to q-cup kid&#8217;s comments:  BOO THIS MAN!</p>
+
+<p>BOOOOOO!</p>
+
+<p>mr. swartz, do your thing.  don&#8217;t even sweat it.</p>
+
+<p>she&#8217;s just a girl.  </p>
+
+<p>no pressure.  (easier said than done at this point in your life, i know, but true none the less.)</p>
+
+<p>i think you&#8217;ve been getting enough advice in the comments, so i will try to refrain from being another voice in your ear.  just remember that the stakes aren&#8217;t as high as your endocrine system would like you to believe.</p>
+
+<p>oh, and one other thing, don&#8217;t forget to have something to talk to her about.  key.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://fratocrates.blogspot.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3277">jhc</a> at October 30, 2004 03:19 PM <a href="#c3277">#</a></p>
+
+</div><div id="c3278">
+
+<p>Hi Aaron,
+I love how you love TGIQ.  Here are some thoughts for you:</p>
+
+<p>As a person who went to a public high school, but was quite shy, let me say that you are perfectly normal, and that even if you had gone to a public high school, you wouldn&#8217;t automatically have had girl friends and sex by now contrary to the beliefs of some of your commentors.  The whole world isn&#8217;t going around grabbing each other and having sex all the time.  (A lot of college students, yes, but not all of them, and it&#8217;s OK if you are not). </p>
+
+<p>I say, take it slow and savor your feelings and your crush.  Watch and observe for a couple of weeks so that you can learn more about TGIQ.  I&#8217;ve no doubt that you can have her as a friend if you just make eye contact and start to say hi to her when you see her.  Then you can sit next to her in class, and maybe walk into or out of class together.  At some point you&#8217;ll even make a date to study for the class. Or, maybe you&#8217;ll see her at a dance or party.  Ask her to dance!  Then get her name.  Then you can go around for weeks remembering the song you danced to and being reminded of her whenever you hear it for the rest of your life!  (That&#8217;s what these crushes do to you). </p>
+
+<p>It&#8217;s so fun to be at your stage.  Looking for her wherever you go, thinking about her, wondering where she is and what she is doing right that moment.  Then when  you see her it makes your day and you are so happy, yet in so much agony. This is good stuff!  </p>
+
+<p>In love, like in life, you can lead with your emotions or with your intelligence.  Your emotions will sometimes lead you into trouble, but your intelligence rarely will.  Sometimes the two converge, and that is when life is the best!</p>
+
+<p>As with anything else, the anticipation is usually really really good, and sometimes the realization isn&#8217;t all it was cracked up to be.
+So, enjoy the anticipation!</p>
+
+<p class="posted">posted by <a href="mailto:dcot@umich.edu">Dianne</a> at October 30, 2004 03:43 PM <a href="#c3278">#</a></p>
+
+</div><div id="c3281">
+
+<p>Of course I had my own &#8220;TGIQ&#8221; as a freshman in college. I would see her in some classes, see her walking around campus, catch glimpses of her here or there&#8230; Always exciting to see her. Always.</p>
+
+<p>Now it is 10 years since I was a freshman in college and we have been married for 5 years.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://anon" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3281">Paul</a> at October 30, 2004 06:44 PM <a href="#c3281">#</a></p>
+
+</div><div id="c3282">
+
+<p>Aaron, you should try to talk to this girl, if for no other reason than to get some experience attempting to interact with women you&#8217;re attracted to.</p>
+
+<p>Be forewarned though, you probably, uh &#8230; how to put this &#8230; won&#8217;t make a good impression on her. In particular, you should not tell her that you&#8217;ve been obsessing over her and writing about it constantly online. That just sounds creepy. If she happens to find that you&#8217;ve been writing about her here and reads it before you ever talk to her in person, the chances of her being interested in you are just about nil.</p>
+
+<p>The crushes won&#8217;t get better. The only thing which helps is sex on a regular basis, and even that doesn&#8217;t help much for some people.</p>
+
+<p class="posted">posted by Bram at October 30, 2004 07:41 PM <a href="#c3282">#</a></p>
+
+</div><div id="c3283">
+
+<p>Like many skills, the best way to improve this skill is practice.</p>
+
+<p>In fact, why don&#8217;t you say &#8220;Hi there!  Nice/terrible weather isn&#8217;t it?&#8221; to at least one female stranger every day.  You&#8217;ll have plenty of opportunities &#8212; waiting for the bus, waiting for class to start, eating lunch, etc.</p>
+
+<p>Choose some random woman nearby who isn&#8217;t busy talking to someone else, and relax, and make eye contact and smile.  If she is willing to engage in small talk at this point, she&#8217;ll maintain eye contact a split second longer than otherwise.</p>
+
+<p>Like I say, it takes practice.</p>
+
+<p>One thing about TGIC is that you now have high stakes about her in your head, because of your hormones, and because of posting about it here, and so on.  Well I still think you should say &#8220;Hi&#8221; to her, but I also think you should make sure to say &#8220;Hi&#8221; to some other people, impromptu &#8212; no high stakes, no getting tense.  It&#8217;s a good way to meet people.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://zooko.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3283">Zooko</a> at October 31, 2004 04:22 AM <a href="#c3283">#</a></p>
+
+</div><div id="c3284">
+
+<p>I don&#8217;t think violence arises in humans because they are insufficiently loved as children.  I think violence arises in humans because it&#8217;s a useful way to solve problems.</p>
+
+<p>Take any creatures which have individual behavior (i.e., excluding individual eusocial insects, pieces of a fungus, etc.), and put a bunch of them in a universe where there is opportunity cost, and you&#8217;ll soon notice that some of them get ahead by beating the other ones up and taking their stuff.  That&#8217;s Mother Nature.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://zooko.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3284">Zooko</a> at October 31, 2004 04:32 AM <a href="#c3284">#</a></p>
+
+</div><div id="c3285">
+
+<p>Aaron, listen to Zooko.  You need <em>practice</em>.</p>
+
+<p>In the same way that you wouldn&#8217;t want a surgeon operating on you as their first patient since they&#8217;d probably screw it up badly, TGIQ probably doesn&#8217;t want to be hit on like the first person that someone ever tried to woo.</p>
+
+<p>So, start talking to other girls that you&#8217;re not as nervous with.  Figure out what you&#8217;re attracted to and what you&#8217;re not.  You might realize that very well dressed girls are high maintenance and expensive :)  You&#8217;ll also learn what you&#8217;re good at, and not so good at in this category, not to mention learning what the opposite sex likes about you.</p>
+
+<p>And if you&#8217;re really that shy, take a bus/train to berkeley and try hitting on some girls there so that you have a greater chance of never seeing them again.  Or go get yourself a webcam and try practicing your small talk over random videoconferences.</p>
+
+<p>Then, when you&#8217;re through with your practice, you&#8217;ll have no problem with TGIQ&#8230;if the infatuation hasn&#8217;t faded by then.  Or THGIQ  (h= hotter)  </p>
+
+<p class="posted">posted by <a href="mailto:blastedtokyo@yahoo.com">BT</a> at October 31, 2004 04:44 AM <a href="#c3285">#</a></p>
+
+</div><div id="c3286">
+
+<p>What Janna said,  Don’t think about it so much. No it&#8217;s not just a matter of female vs. male perspective. Girls can get paralysed too when they have a crush on someone. Every person has their character and behaviour, all the pressure to behave like you&#8217;re supposed to because you&#8217;re a male or female is crap. There&#8217;s no one way you&#8217;re supposed to behave. I don&#8217;t see anything strange in your story, you don&#8217;t know this girl, you&#8217;ve only spotted her a few times, it would be a bit weird if you just walked right up to her asking her out out of the blue. She&#8217;s in your class, so you&#8217;ll probably get a chance to start a conversation with her about what you&#8217;re both doing, if you want to. It has to be natural.</p>
+
+<p>There&#8217;s nothing wrong in keeping crushes as crushes, either. Don&#8217;t think about what you may regret later, you live in the here and now, do only what you like to do now - you just like to watch her from a distance? that&#8217;s fine, nothing &#8216;weak&#8217; or wrong about that. You&#8217;d really like to get to know her? That&#8217;s also fine, just don&#8217;t get too worried about it and you&#8217;ll be able to find an opportunity to do that in a spontaneous way. You&#8217;ll know what to do if you stop thinking about what you think you&#8217;re expected to do and just do as you wish. Better still, on the spur of the moment. Without projecting too much on the girl. In any case, a crush is a delicious feeling, so yes, like Dianne said, savour it. </p>
+
+<p>Regret is a nasty beast because by the time you regret doing or not doing something (and regret applies equally to action or lack of action), the object of regret will have been transformed by memory. Sometimes I find myself regretting things I did, then when I really think honestly about it I realise I remember very clearly that I actually wanted to do them so hard nothing could have stopped me, even the knowledge I&#8217;d get into trouble. Same for things I didn&#8217;t do, it was because I really did not want to do them and no one could have pushed me into doing them at the time. So, better not think about what you may regret later because it&#8217;s just a way to mess up your feelings even more.</p>
+
+<p>The feeling I remember most from being a teenager is all the pressure, most of it self-imposed or absorbed from other people, now that&#8217;s something I could have done without.</p>
+
+<p class="posted">posted by  at October 31, 2004 09:04 AM <a href="#c3286">#</a></p>
+
+</div><div id="c3287">
+
+<p>Also, remember that shyness is nice, and shyness can&#8217;t stop you, from doing all the things in life you&#8217;d like to ;)</p>
+
+<p>(If we can call it &#8216;shyness&#8217;. I call what you described normal civilised behaviour).</p>
+
+<p>Ignore that oh so hilarious q-cup troll. I wouldn&#8217;t take lessons in social skills from someone who needs to offend people on their websites.</p>
+
+<p>BT: well-dressed girl are &#8220;expensive and high-maintenance&#8221; only if you&#8217;re their father. Or rich husband and they don&#8217;t work. She&#8217;s in college. I don&#8217;t think Aaron is contemplating paying for the girl&#8217;s wardrobe and maybe even her tuition fees only to get to talk to her, is he? Sheesh&#8230;</p>
+
+<p>Best advice: do not take advice from anyone.</p>
+
+<p class="posted">posted by  at October 31, 2004 09:19 AM <a href="#c3287">#</a></p>
+
+</div><div id="c3288">
+
+<p>anon writes: Ignore that oh so hilarious q-cup troll. </p>
+
+<p>Thank you, but I wasn&#8217;t trying to be funny. And while harsh, my intent really wasn&#8217;t to troll. It seems that many responders see this event as another manifestation of Aaron&#8217;s (extreme) shyness. To me, most of Aaron&#8217;s blog entries reveal his relationship with campus life as observational rather than participatory and that he rather enjoys this lifestyle.</p>
+
+<p>My sincere commentary is that one may gain much more in life by being a participant than having no personal interactions on even the most basic level, e.g. everything about the filing cabinet and people who know Aaron waving and say &#8216;Hi&#8217; using his name and he does not respond.</p>
+
+<p>As posted by Bram, &#8220;Aaron, you should try to talk to this girl, if for no other reason than to get some experience attempting to interact with women you’re attracted to.</p>
+
+<p>Be forewarned though, you probably, uh … how to put this … won’t make a good impression on her. In particular, you should not tell her that you’ve been obsessing over her and writing about it constantly online. That just sounds creepy. If she happens to find that you’ve been writing about her here and reads it before you ever talk to her in person, the chances of her being interested in you are just about nil.&#8221;</p>
+
+<p>To me this is the most useful and correct suggestion on these comments. It is fine to obsess and write about obsessions and crushes in your secret journal, but deciding to write critically about fellow students in your blog and then asking that &#8216;can you try to stick to discussing private things you’ve learned from the blog on the blog or by email, instead of with me in person?&#8217; is a good way to ensure that it is unlikely any positive social interaction will come with someone that you have never said &#8216;Hi&#8217; to, but have mentioned multiple times in your blog. </p>
+
+<p>For Aaron or anyone else who wants to learn in the &#8216;wisdom&#8217; of the kid, feel free to come to the P.A.Q. most any afternoon</p>
+
+<p>-qck</p>
+
+<p class="posted">posted by q-cup kid at October 31, 2004 10:06 AM <a href="#c3288">#</a></p>
+
+</div><div id="c3290">
+
+<p>Look, q-cup kid, you may not be trolling but you posted a full armchair-psychology report on Aaron based on what exactly, apart from his own public musings about his personal feelings? </p>
+
+<p>Maybe he really embodies your cliché of a socially inept home-schooled nerd kid, I don&#8217;t know him personally, but it strikes me as odd that the magical ability to get a date with a girl after you&#8217;ve spotted her three times in the hall should count more than oh, I don&#8217;t know, intelligence, personality, interests, you know, things that make people interesting rather than college dating champions. </p>
+
+<p>I can&#8217;t judge what kind of social interactions a person can have in real life, if I&#8217;ve never met them. I can only respond to what they write about themselves, and I don&#8217;t believe that not securing a girl&#8217;s favours within a week is necessarily a sign of any lack of social skills. For one thing, he&#8217;s not entitled to her favours. She doesn&#8217;t have to go out with him even if he asks her. He hasn&#8217;t even said he really wants to ask her. He&#8217;ll participate in what he wants to participate when he wants to.</p>
+
+<p>I think the way Aaron writes about his &#8220;crush&#8221; is interesting. I don&#8217;t see what catastrophic effects it could have, even if TGIQ read this and recognised herself in the description. There&#8217;s worse ways that boys can interact with girls on campuses, believe me.</p>
+
+<p class="posted">posted by  at October 31, 2004 01:50 PM <a href="#c3290">#</a></p>
+
+</div><div id="c3311">
+
+<p>I know Aaron slightly better than just from his blog, and I would say that the perception of Aaron&#8217;s personality that you would get from reading this blog is misleading.</p>
+
+<p>Actually, I would say the same about everyone else (including, of course, me).  If you know someone from their blog, keep in mind that you actually know only a distortion or a representation of that person.</p>
+
+<p>P.S.  I keep thinking about the girl that waved to Aaron as he was walking to class.  He should say &#8220;Hithereniceweatherwe&#8217;rehavingisn&#8217;tit?&#8221; to <em>her</em> and other such people who&#8217;ve signalled their friendly interest.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://zooko.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3311">Zooko</a> at November  1, 2004 10:28 AM <a href="#c3311">#</a></p>
+
+</div><div id="c3313">
+
+<p>What&#8217;s the P.A.Q.?</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3313">Aaron Swartz</a> at November  1, 2004 10:45 AM <a href="#c3313">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/001449.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1449" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /><br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)<br />
+All text above by me is in the public domain.</address>
+</body>
+</html>

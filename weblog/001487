@@ -1,0 +1,215 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Stanford: Day 60 (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001487.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001486" title="Network News Presidents on the Election" />	<link rel="next" href="001488" title="Stanford: Day 61" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Stanford: Day 60</h1>
+</div>
+
+<div class="content">
+<p>I wake up to impatient emails from Steven Levy, the technology reporter for <em>Newsweek</em> (among many other impressive things). He wants to meet me for a piece on college blogs. We schedule a time and then I proceed to pace the halls to work out my nervousness. </p>
+
+<p>Unable to do much else, I end up going to sociology class early, getting a seat closer to the front this time. Soon, TGIQ sits down one seat away from next to me. <a href="http://www.aaronsw.com/weblog/001446">This not being the first time</a> I am certain this is not accident (although writing this, upon reflection, that must have been her normal seat &#8212; the one she always sits on; it was I who had moved). As I agonize over forcing myself to say hi to her, she pulls out her laptop and begins pointedly ignoring me.</p>
+
+<p>Her hair is pulled back in a ponytail and I can really see her face for the first time since the attraction seems to have warn off. But no, it&#8217;s still there as I learn as I feel the shocks whenever she looks at me, none so large as the one I get when she laughs at the teacher&#8217;s comment about girls pretending they&#8217;re sexually inexperienced to attract boyfriends while still pointed in my direction.</p>
+
+<p>I tell myself I will say hi after the lecture but when the time come she quickly packs up and walks briskly. Again, it feels like she&#8217;s pointedly ignoring me. I stick around to jog after her bicycle to perhaps see where she lives, but this is obviously futile although I do see her take a turn towards my dorm. (It is unlikely she lives there, though; I would have almost certainly seen her.)</p>
+
+<hr />
+
+<p>After lunch, where they wrecked my favorite meal (an amazingly good pizza), I head over to meet Levy. He sits smiling outside in his trademark glasses. We eat and he asks me about my blog, taking some notes on a yellow legal pad. Soon enough we&#8217;re through. He asks if Lessig&#8217;s around and I lead him to Lessig&#8217;s office. The door is closed but I find it&#8217;s unlocked. Too shy, I let the hardnosed journalist open it. Lessig is indeed inside reading a book. We chat for a bit and <a href="http://www.aaronsw.com/weblog/001467">Lessig talks about my new norm again</a>. He tells a story about how he&#8217;d written something on his blog and gotten a letter from Judge Posner complaining about it. Lessig&#8217;s reaction was something like &#8220;That&#8217;s not fair! You can&#8217;t criticize me for something I wrote on my <em>blog</em> &#8212; that&#8217;s private!&#8221; He tells the story in a tone that shows amusement at his indignation.</p>
+
+<p>We leave and I walk with Levy part of the way back to his car. I ask him what he&#8217;s working on for a next book. He says he can&#8217;t tell me since he doesn&#8217;t want it on a blog. He has just come from visiting Google and he leaves to fly someplace else. Doing a weekly column seems like quite the feat. </p>
+
+<hr />
+
+<p>On the way back from my Chomsky class, I get involved in a long discussion with a fellow journalism-technology fan. I end up missing Faculty Dinner Night (where members of the faculty come to our dorm&#8217;s cafeteria to eat dinner with us).</p>
+
+<p>I also realize I have a paper due the next day which I haven&#8217;t started on. It&#8217;s supposed to be about <em>Brown v. Board of Education</em> so I write it about emergent effects and top-down imposition. I&#8217;ll post it (along with the comments it received) when I get it back.</p>
+
+<p class="posted">posted November 29, 2004 01:17 AM (<a class="category" href="cat_education">Education</a>) (<a href="#comments">5 comments</a>) <a href="001487" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001486" title="Network News Presidents on the Election">&laquo; prev</a> | <a href="./">up</a> | <a href="001488" title="Stanford: Day 61">next &raquo;</a></p>
+
+<p><a href="001478">Stanford: Day 56</a><br />
+<a href="001479">Stanford: Day 57</a><br />
+<a href="001480">Stanford: Day 58</a><br />
+<a href="001485">Stanford: Day 59</a><br />
+<a href="001486">Network News Presidents on the Election</a><br />
+<strong>Stanford: Day 60</strong><br />
+<a href="001488">Stanford: Day 61</a><br />
+<a href="001490">The People Themselves: A Debate</a><br />
+<a href="001497">Subject to the Penalty of Death</a><br />
+<a href="001502">D.J. Bernstein: The Good News Archive</a><br />
+<a href="001504">Pick A Side</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c3488">
+
+<p>Aaron writes:</p>
+
+<blockquote>
+  <p>I tell myself I will say hi after the lecture &#8230; Again, it feels like she’s pointedly ignoring me. I stick around to jog after her bicycle to perhaps see where she lives.</p>
+</blockquote>
+
+<p>Sorry to be harsh, but I feel I have to say this. It seems you are continuing down a somewhat questionable, indeed perhaps bad, path. Don&#8217;t be a stalker! You think she&#8217;s ignoring you, but you want to follow her to see where she lives? Why, exactly? To feel nearer to her by covertly trying to find out more information about her? You need to be very careful - this is a very dangerous line of thinking. It shows that at least one woman, and probably many other women you would find attractive, have power and control over you. Your attraction for this girl is overpowering your common sense and self worth, so that you feel scared even to say hi, but feel willing, indeed driven, to covertly follow her. You must learn to recognize your self worth and NOT WORRY SO MUCH about making a good impression. You need to get rid of self-doubt, simply be laid back, and DIRECTLY initiate contact. You shouldn&#8217;t even care or be thinking about where she lives now, since you haven&#8217;t even talked to her yet. Fixating on her seems unhealthy for you.</p>
+
+<p>With TGIQ, it may be too late for you; your behavior patterns are leading you to increasingly view her, and act towards her, as an object of worship or idolatry. That mindset is an unhealthy and self-deprecating view of women. Know your self-worth; don&#8217;t let anyone, especially not a woman you&#8217;re attracted to, reduce your own value of self. Given your past behavior and the length of time, it may now be impossible for you to break out of that mindset towards her. The best remedy is simply to get out more often into many social situations, especially into challenging or difficult social situations like asking many other girls out. A bar or club is a good place to do this because everyone is anonymous so you won&#8217;t care about the first few stumbles you make. But you gotta walk before you can run. Get out. Get social. Get dates. Get laid. But don&#8217;t become a stalker!</p>
+
+<p>Mr. SW</p>
+
+<p class="posted">posted by  at November 29, 2004 03:21 AM <a href="#c3488">#</a></p>
+
+</div><div id="c3493">
+
+<p>Of course, TGIQ is TGIQ <em>now</em>. TG-Currently-IQ&#8230;</p>
+
+<p>Time passes, it really does.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://robertbrook.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3493">Robert Brook</a> at November 29, 2004 09:07 AM <a href="#c3493">#</a></p>
+
+</div><div id="c3504">
+
+<p>Lennon famously said that life is what happens when you&#8217;re busy making other plans.</p>
+
+<p>You seem too busy making plans on how to approach TGIQ that all that time spent on overhead is keeping you from implementing anything.  </p>
+
+<p>Cut your losses before it&#8217;s too late.  Force yourself to lose interest and try your hand at talking to someone new.  And learn from your mistakes (and inaction) with TGIQ so that you don&#8217;t go through the samemotions with the new one.</p>
+
+<p class="posted">posted by Julian Sanchez at December  1, 2004 11:28 PM <a href="#c3504">#</a></p>
+
+</div><div id="c3508">
+
+<p>Dude you are such a lamer 
+get a life jew</p>
+
+<p class="posted">posted by haxor at December  3, 2004 09:29 AM <a href="#c3508">#</a></p>
+
+</div><div id="c3520">
+
+<p>Mr. SW is right, and haxor is bully.  Try to hang out with various girls; get to know them.  If you force yourself to act brave, you&#8217;ll find yourself getting braver around women after a while.</p>
+
+<p class="posted">posted by M. Strowbridge at December  8, 2004 03:45 PM <a href="#c3520">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001487.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1487" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

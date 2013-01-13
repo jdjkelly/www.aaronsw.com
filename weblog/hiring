@@ -1,0 +1,788 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>How I Hire Programmers (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>How I Hire Programmers</h1>
+
+<p style="text-align: right"><a href="http://www.aaronsw.com/weblog/hiring.es">Espa&ntilde;ol</a></p>
+
+<p>There are three questions you have when you&#8217;re hiring a programmer (or anyone, for that matter): Are they smart? Can they get stuff done? Can you work with them? Someone who&#8217;s smart but doesn&#8217;t get stuff done should be your friend, not your employee. You can talk your problems over with them while they procrastinate on their actual job. Someone who gets stuff done but isn&#8217;t smart is inefficient: non-smart people get stuff done by doing it the hard way and working with them is slow and frustrating. Someone you can&#8217;t work with, you can&#8217;t work with.</p>
+
+<p>The traditional programmer hiring process consists of: a) reading a resume, b) asking some hard questions on the phone, and c) giving them a programming problem in person. I think this is a terrible system for hiring people. You learn very little from a resume and people get real nervous when you ask them tough questions in an interview. Programming isn&#8217;t typically a job done under pressure, so seeing how people perform when nervous is pretty useless. And the interview questions usually asked seem chosen just to be cruel. I think I&#8217;m a pretty good programmer, but I&#8217;ve never passed one of these interviews and I doubt I ever could.</p>
+
+<p>So when I hire people, I just try to answer the three questions. To find out if they can get stuff done, I just ask what they&#8217;ve done. If someone can actually get stuff done they should have done so by now. It&#8217;s hard to be a good programmer without some previous experience and these days anyone can get some experience by starting or contributing to a free software project. So I just request a code sample and a demo and see whether it looks good. You learn an enormous amount really quickly, because you&#8217;re not watching them answer a contrived interview question, you&#8217;re seeing their actual production code. Is it concise? clear? elegant? usable? Is it something you&#8217;d want in your product?</p>
+
+<p>To find out whether someone&#8217;s smart, I just have a casual conversation with them. I do everything I can to take off any pressure off: I meet at a cafe, I make it clear it&#8217;s not an interview, I do my best to be casual and friendly. Under no circumstances do I ask them any standard &#8220;interview questions&#8221; &#8212; I just chat with them like I would with someone I met at a party. (If you ask people at parties to name their greatest strengths and weaknesses or to estimate the number of piano tuners in Chicago, you&#8217;ve got bigger problems.) I think it&#8217;s pretty easy to tell whether someone&#8217;s smart in casual conversation. I constantly make judgments about whether people I meet are smart, just like I constantly make judgments about whether people I see are attractive.</p>
+
+<p>But if I had to write down what it is that makes someone seem smart, I&#8217;d emphasize three things. First, do they know stuff? Ask them <a href="http://www.aaronsw.com/weblog/smalltalkq">what they&#8217;ve been thinking about</a> and probe them about it. Do they seem to understand it in detail? Can they explain it clearly? (Clear explanations are a sign of genuine understanding.) Do they know stuff about the subject that you don&#8217;t?</p>
+
+<p>Second, are they curious? Do they reciprocate by asking questions about you? Are they genuinely interested or just being polite? Do they ask follow-up questions about what you&#8217;re saying? Do their questions make you think?</p>
+
+<p>Third, do they learn? At some point in the conversation, you&#8217;ll probably be explaining something to them. Do they actually understand it or do they just nod and smile? There are people who know stuff about some small area but aren&#8217;t curious about others. And there are people who are curious but don&#8217;t learn, they ask lots of questions but don&#8217;t really listen. You want someone who does all three.</p>
+
+<p>Finally, I figure out whether I can work with someone just by hanging out with them for a bit. Many brilliant people can seem delightful in a one-hour conversation, but their eccentricities become grating after a couple hours. So after you&#8217;re done chatting, invite them along for a meal with the rest of the team or a game at the office. Again, keep things as casual as possible. The point is just to see whether they get on your nerves.</p>
+
+<p>If all that looks good and I&#8217;m ready to hire someone, there&#8217;s a final sanity check to make sure I haven&#8217;t been fooled somehow: I ask them to do part of the job. Usually this means picking some fairly separable piece we need and asking them to write it. (If you really insist on seeing someone working under pressure, give them a deadline.) If necessary, you can offer to pay them for the work, but I find most programmers don&#8217;t mind being given a small task like this as long as they can open source the work when they&#8217;re done. This test doesn&#8217;t work on its own, but if someone&#8217;s passed the first three parts, it should be enough to prove they didn&#8217;t trick you, they can actually do the work.</p>
+
+<p>(I&#8217;ve known some people who say &#8220;OK, well why don&#8217;t we try hiring you for a month and see how it goes.&#8221; This doesn&#8217;t seem to work. If you can&#8217;t make up your mind after a small project you also can&#8217;t make it up after a month and you end up hiring people who aren&#8217;t good enough. Better to just say no and err on the side of getting better people.)</p>
+
+<p>I&#8217;m fairly happy with this method. When I&#8217;ve skipped parts, I&#8217;ve ended up with bad hires who eventually had to be let go. But when I&#8217;ve followed it, I&#8217;ve ended up with people I like so much so that I actually feel bad I don&#8217;t get to work with them anymore. I&#8217;m amazed that so many companies use such silly hiring methods instead.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">November 29, 2009</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>Yup.</p>
+
+<p class="posted">posted by Russell L. Carter
+ on November 29, 2009 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>Thanks for writing this. I&#8217;ve always wondered why tech hiring is so screwed up. For an industry that thinks a lot about a lot of things, hiring is one thing that doesn&#8217;t seem to have changed much over the years. Scaling this method of hiring might be tricky though. Another idea worth trying is to hire everyone as an &#8220;intern&#8221; initially and then, make a decision after a month of actually working with them.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://abi.sh">Abi Raja</a>
+ on November 29, 2009 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>+1. Totally agree.</p>
+
+<p>However, for a different point of view check out this StackOverflow question:</p>
+
+<p>http://stackoverflow.com/questions/1059948/should-inability-to-code-under-pressure-be-a-valid-excuse-when-writing-code-in</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://ramin.firoozye.com">Ramin</a>
+ on November 29, 2009 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>Exception programmers are also creative - nothing was mentioned of that. They can see beyond the smaller details of a task and problem. They can put themselves outside of themselves, into the user space.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://orbum.net/mark">Mark Rushing</a>
+ on November 29, 2009 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>The problem with asking about what a person has done, is almost uniformly, people will answer with what &#8216;their team&#8217; has done, couched as if they did it. They are familiar enough with what the team has done, to talk about it semi-intelligently.</p>
+
+<p>Sorry, i want them to answer something in front of me. It doesn&#8217;t have to be real hard, but it has to be real, and they should ace it.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://fb-contrib.sf.net">MeBigFatGuy</a>
+ on November 29, 2009 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c6">
+<p>&#8220;Someone who gets stuff done but isn’t smart is inefficient: non-smart people get stuff done by doing it the hard way and working with them is slow and frustrating. &#8220;</p>
+
+<p>I couldn&#8217;t read anything passed that stubborn remark.</p>
+
+<p class="posted">posted by 
+ on November 29, 2009 <a href="#c6" rel="bookmark">#</a></p>
+</div>
+<div id="c7">
+<p>I really like your idea for figuring out if people are smart, especially the bit about asking what they&#8217;ve been thinking about, and continually probing (in a non threatening way) to see what level they understand something.</p>
+
+<p>Very good ideas that I&#8217;ll be stealing from next time.</p>
+
+<p>What I didn&#8217;t get though, was how you determine if someone actually gets something done.  I&#8217;ve met a few smart people who have extreme understanding of a variety of complex subjects, but just don&#8217;t produce an awful lot.</p>
+
+<p>Perhaps theres no way to tell for that particular case.  There have also been times, though the exception, when I had talked to someone for an hour, been confident they were smart, and have them utterly fail the most simple programming test (fizbuzz, recursive method, etc.)</p>
+
+<p>I wonder if your method would have &#8216;screened&#8217; out those candidates that appeared smart in the hour I chatted with them&#8230;</p>
+
+<p class="posted">posted by Vincent
+ on November 29, 2009 <a href="#c7" rel="bookmark">#</a></p>
+</div>
+<div id="c8">
+<p>The problem with a code sample is that it can be the product of other people.  Even if the entire thing might not be the product of someone else, it could of been reviewed by many other people.</p>
+
+<p>And if they can&#8217;t code under pressure how are they going to fix a bug that needs to be dealt with immediately.  No one performs excellent under pressure, but a substantial amount of their programming abilities shouldn&#8217;t dissipate because of it.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://qualitycomputerri.com">Kyle</a>
+ on November 29, 2009 <a href="#c8" rel="bookmark">#</a></p>
+</div>
+<div id="c9">
+<p>The comments here and on Hacker News reminded me I left out a step. I&#8217;ve added it:</p>
+
+<blockquote>
+  <p>If all that looks good and I&#8217;m ready to hire someone, there&#8217;s a final sanity check to make sure I haven&#8217;t been fooled somehow: I ask them to do part of the job. Usually this means picking some fairly separable piece we need and asking them to write it. (If you really insist on seeing someone working under pressure, give them a deadline.) If necessary, you can offer to pay them for the work, but I find most programmers don&#8217;t mind being given a small task like this as long as they can open source the work when they&#8217;re done. This test doesn&#8217;t work on its own, but if someone&#8217;s passed the first three parts, it should be enough to prove they didn&#8217;t trick you, they can actually do the work.</p>
+  
+  <p>(I&#8217;ve known some people who say &#8220;OK, well why don&#8217;t we try hiring you for a month and see how it goes.&#8221; This doesn&#8217;t seem to work. If you can&#8217;t make up your mind after a small project you also can&#8217;t make it up after a month and you end up hiring people who aren&#8217;t good enough. Better to just say no and err on the side of getting better people.)</p>
+</blockquote>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on November 29, 2009 <a href="#c9" rel="bookmark">#</a></p>
+</div>
+<div id="c10">
+<p>great post.  i loved it.  it can be applied to so many other jobs besides programming.</p>
+
+<p class="posted">posted by winzoAL
+ on November 29, 2009 <a href="#c10" rel="bookmark">#</a></p>
+</div>
+<div id="c11">
+<p>I am looking to be hired&#8230; it is a great post</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://avanzaweb.net">avanzaweb</a>
+ on November 29, 2009 <a href="#c11" rel="bookmark">#</a></p>
+</div>
+<div id="c12">
+<p>This seems like a good approach, but the one part I disagree with is having to provide a code sample. I don&#8217;t program outside of work, apart from the odd script or php debug. All my code samples would be from uni, and while some of them are pretty good, most are of the oh-god-five-hours-to-deadline-quick-finish-it! level of quality. This might be because I&#8217;ve only just finished uni, but only two of the 40+ people on my course have done any sort of extra-cirricular programming.</p>
+
+<p>I&#8217;d like to think I&#8217;m a pretty decent programmer, but have never written (production-level) code in my free time (I prefer to do things not related to my day job). Sure you&#8217;ll be getting the cream of programmers if you request a code sample, but you&#8217;ll be missing out a lot of decent ones at the same time.</p>
+
+<p class="posted">posted by Fin
+ on November 29, 2009 <a href="#c12" rel="bookmark">#</a></p>
+</div>
+<div id="c13">
+<p>That&#8217;s an interesting way to hire somebody, though I&#8217;m not sure that completely removing the &#8220;interview&#8221; part is a good thing. I mean, if I&#8217;m hiring a programmer for working over giant datasets at the very least I&#8217;d ask for how a binary search works and when it makes sense to use it or how he&#8217;d process a 4Tb file. Besides, I agree that this part should be reduced to a minimum, so we can at least know that the applicant knows the required theory. Then looking at source code he has written is much more interesting than asking him to write down a working quicksort.</p>
+
+<p class="posted">posted by Ivan
+ on November 29, 2009 <a href="#c13" rel="bookmark">#</a></p>
+</div>
+<div id="c14">
+<p>&#8220;Can they explain it clearly? (Clear explanations are a sign of genuine understanding.)&#8221;</p>
+
+<p>Great post but the above is not always true, in my opinion. What if you&#8217;re interviewing a top programmer who happens to be a foreigner? If he&#8217;s speaking to you in his second language he may not necessarily always be as articulate as you expected, yet he may certainly still have a &#8220;genuine understanding&#8221; and be a top programmer.</p>
+
+<p class="posted">posted by Peter
+ on November 29, 2009 <a href="#c14" rel="bookmark">#</a></p>
+</div>
+<div id="c15">
+<p>I&#8217;m surprised not to see a nod to Joel Spolsky here.</p>
+
+<p class="posted">posted by 
+ on November 29, 2009 <a href="#c15" rel="bookmark">#</a></p>
+</div>
+<div id="c16">
+<p>Aaron&#8217;s approach to hiring seems intuitively spot on.</p>
+
+<p>Here&#8217;s what I find lacking in this approach:
+- By no means is this an universal approach. Rather, it&#8217;s much more suitable for startups and companies with relatively small tightly-knit teams. Bigger teams are probably far too heterogeneous to employ anyone who&#8217;s not a smart stand-up comedian with solid coding skills. On the other hand, big companies are most probably messed up already so there&#8217;s no one-size-fits-all solution for them.
+- Sufficient interaction with their potential coworkers is lacking. Even though the most competent person in the company should eventually decide, feedback from future coworkers should be taken into account. Could this rectified by having them work on a little piece of your project in the same environment as others? If the environment is virtual then virtual it is, if not, shouldn&#8217;t be the test take place?
+- In more interesting job positions there are several problem domains that one needs to excel in. For such cases you definitely need a person from each such problem domain repeat the entire &#8220;soft interview&#8221; cycle. Is it feasible? If it&#8217;s possible for you - then I think it is.</p>
+
+<p>Cheers!
+Shonzilla</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://blog.shonzilla.com">Shonzilla</a>
+ on November 29, 2009 <a href="#c16" rel="bookmark">#</a></p>
+</div>
+<div id="c17">
+<p>I&#8217;m sure that process works well for you, but I&#8217;m concerned it may not be entirely legal.</p>
+
+<p>The &#8220;external&#8221; interview is constructed in a way that makes it much more difficult for certain people.  Some mild mental illnesses and personality disorders could make a candidate completely non-functional in such a setting.  The same candidate could be extremely engaging and lucid in an office setting talking about Work Stuff.</p>
+
+<p>Under equal opportunity employment rules, it&#8217;s important that you do not subject a candidate to any tests that are not directly relevant to job performance.  I think this interview&#8212; especially when you somewhat deceitfully tell the candidate that it&#8217;s NOT an interview&#8212; meets that criteria of not being directly relevant.</p>
+
+<p>Of course, the content of the conversation is important, too.  In a more &#8220;relaxed&#8221; setting, there may be more likelihood of the interviewer or candidate accidentally discussing topics which are not legally permissible in the hiring process.</p>
+
+<p>The bottom line is, I would recommend that you and your readers speak to a lawyer before using this process again.</p>
+
+<p class="posted">posted by el_gregorio
+ on November 29, 2009 <a href="#c17" rel="bookmark">#</a></p>
+</div>
+<div id="c18">
+<p>How do you get this process to scale? Especially in an institution like Microsoft or Google..</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.gigpeppers.com/blog/">Cherian</a>
+ on November 29, 2009 <a href="#c18" rel="bookmark">#</a></p>
+</div>
+<div id="c19">
+<p>I&#8217;d given up interviewing because it seemed like people performing the interviews were employing the very techniques Mr. Swartz criticizes, it is a pleasant and welcomed surprise to see that someone from the hiring side thinks like I do.</p>
+
+<p>That said, I&#8217;m still in dismay for if a prospective employer said something like &#8220;I make it clear it’s not an interview&#8221; that&#8217;s a warning sign that the speaker is not being genuine or truthful and at that point, I&#8217;d conclude the interview indicating I do not see a good match.</p>
+
+<p>Bottom line: I stay where I am because I really really like my boss (I feel I should be paid more) and at the end of the day, if I&#8217;m not happy with the people I work with, I&#8217;m not going to produce the kind of work that my employer is paying for.</p>
+
+<p class="posted">posted by Anonymous
+ on November 29, 2009 <a href="#c19" rel="bookmark">#</a></p>
+</div>
+<div id="c20">
+<p>I agree with this post completely. It makes me think of Moneyball. Most companies are like the sports GMs who look for players with certain body types and who perform well at certain athletic tests in individual workouts &#8212; rather than concerning themselves with how the player will play (and has played in the past) in the actual games.</p>
+
+<p class="posted">posted by Greg
+ on November 29, 2009 <a href="#c20" rel="bookmark">#</a></p>
+</div>
+<div id="c21">
+<p>My background is a professional programmer for 4 years, including conducting 20-30 phone interviews and about a dozen or so in person interviews. I&#8217;m no expert, but thought I&#8217;d share a few comments.</p>
+
+<p>I like the holistic approach - is this a smart guy? But I&#8217;m not sure this interview approach is appropriate for programmers:</p>
+
+<ul>
+<li><p>Plenty of excellent coders are social introverts, and would not do well in such a casual setting. These people tend to prefer formality and the work environment, and are articulate and engaging w/ coworkers in a work setting. They may fail miserably in your interview process.</p></li>
+<li><p>Very tech lite interview. Like another poster, I&#8217;ve encountered plenty of guys that seemed really smart in a conversation, but couldn&#8217;t do the most basic programming tasks (omg recursion!?!). I think asking some screener questions before wasting time in person is a good idea (which is what most companies do).</p></li>
+</ul>
+
+<p>I think the concepts borrowed from Joel Spolsky (get things done, smart) are definitely something that should be part of the hiring process. And a code sample is super important - although I prefer to give an offline code question and see the results (due to typical problems with previous pieces of code, i.e. did they write it? is it legal for them to show me another company&#8217;s code?)</p>
+
+<p>But the other stuff, sitting down with them in a cafe, working with the group for a day&#8230; I&#8217;m not sure it&#8217;s much of an improvement.</p>
+
+<p class="posted">posted by Anonymous
+ on November 29, 2009 <a href="#c21" rel="bookmark">#</a></p>
+</div>
+<div id="c22">
+<p>@Greg, speaking of &#8220;Moneyball&#8221; a lot of programmers now have public work records, much like college athletes have stats that pro scouts can examine.</p>
+
+<p>On the subject of getting things done &#8212; hiring managers do seem to be looking at open source contributions, and have been for a while.  But with &#8220;git log&#8221; and &#8220;git blame&#8221; and the equivalents, a hiring manager who knows a little bit about using a DVCS could get a very detailed look at an individual&#8217;s work within a project.  Anyone seeing this happening?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://zgp.org/~dmarti/">Don Marti</a>
+ on November 29, 2009 <a href="#c22" rel="bookmark">#</a></p>
+</div>
+<div id="c25">
+<p>Hey thanks for this, it&#8217;s a helpful discussion for me.  I often have to wear the businessman hat, but I feel like an idiot when it comes to all things business.</p>
+
+<p>This process of course assumes that interviewer is smart enough to discern whether the interviewee is smart ;).  Three cheers for small companies with direct hiring processes, and for dumb people sticking together!</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://jonraasch.com">Jon</a>
+ on November 29, 2009 <a href="#c25" rel="bookmark">#</a></p>
+</div>
+<div id="c26">
+<p>Great post.  As someone who has gone through a lot of hiring processes (I&#8217;m an independent developer/consultant), I wish more organizations would take this approach.  As someone who has occasionally been involved in hiring, I try to use a similar approach as much as possible.  My mantra is to hire primarily based on &#8220;attitude and aptitude&#8221;, which more or less boils down to what you are talking about.  I hope to be in a position of influencing more hiring processes in the future and I will remember your thoughts.  Thanks!</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://wombatspace.blogspot.com/">Shea Phillips</a>
+ on November 29, 2009 <a href="#c26" rel="bookmark">#</a></p>
+</div>
+<div id="c27">
+<p>I don&#8217;t enjoy small-talks and chitchats. At most parties I feel pretty bored. I suspect many techie types have this trait, and we will not leave a good impression during the cafe interview.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://dmnewbie.blogspot.com">BY</a>
+ on November 29, 2009 <a href="#c27" rel="bookmark">#</a></p>
+</div>
+<div id="c28">
+<p>Wow. I really like this method. I was thinking to myself the other day when building business relationships you also are technically just networking with people and making friends. When you are genuinely interested in conversation with another person you can get a better feeling on whether the person is more geared as a potential person to work with, or just a friend, or neither, depending if they pass the steps :)</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.seosmoothdesign.com">Vinnie T</a>
+ on November 29, 2009 <a href="#c28" rel="bookmark">#</a></p>
+</div>
+<div id="c29">
+<p>I wish more interviews where that way.
+Seems like almost large company rather ask to build a binary tree parser over the phone or some other question like that.
+1) One it&#8217;s very hard to do over the phone.
+2) Who remembers that sort of school stuffs years after learning it.
+3) A good programmer will know how to find that kind of info online and use it, and doesn&#8217;t need to memorize it, especially since it changes so fast in this field.</p>
+
+<p>Programming is about logic, quick thinking and perseverance not memorizing !</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://wiki.colar.net">Thibaut Colar</a>
+ on November 29, 2009 <a href="#c29" rel="bookmark">#</a></p>
+</div>
+<div id="c30">
+<p>Aaron, you are overcomplicating. All you need to know is if they care.</p>
+
+<p>If they care about it, they&#8217;ll do whatever it takes to aquire expertise and get smart at it. It will be a means to a clear end and no time will be wasted on distractions.</p>
+
+<p>If they care about it, they&#8217;ll get it done without caring for if they&#8217;re getting things done. Even getting things efficiently is crushing to someone who does not care for what they do.</p>
+
+<p>If they care about it, and you care enough about it, then you&#8217;ll both get on just fine. Most relationships are built on the basis of 2 people having a common interest. If this interest is in  something you work on all day, all the better.</p>
+
+<p class="posted">posted by Gaurav Sharma
+ on November 29, 2009 <a href="#c30" rel="bookmark">#</a></p>
+</div>
+<div id="c31">
+<p>Funny, I&#8217;ve used a similar process when interviewing potential students for my alma mater to provide an alumnus recommendation. I don&#8217;t ask  specific things, but find out if he or she has a passion about something (anything!) that will help drive them through having a meaningful college experience. (True at my a.m. as well as any.)</p>
+
+<p>It&#8217;s often remarkable to me to meet prospectives who seem to have spent their entire lives avoiding feeling very strongly about anything. I&#8217;ve also met incredible kids with world-changing amounts of energy and intelligence.</p>
+
+<p>I should use my college interview techniques (which are parts 2 &amp; 3 of your above notions) for future job candidates.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://blog.glennf.com">Glenn Fleishman</a>
+ on November 29, 2009 <a href="#c31" rel="bookmark">#</a></p>
+</div>
+<div id="c32">
+<p>@Fin: &#8220;I don’t program outside of work, apart from the odd script or php debug.&#8221;  Honestly, that alone is a problem. Good programmers write code; the ones who only do it at work are just doing it because it&#8217;s a job.</p>
+
+<p>Code written for work is often written under conditions guaranteeing it&#8217;s compromised in some way and probably isn&#8217;t representative of the best work you&#8217;re capable of.  The code you write for yourself is going to be your best stuff.</p>
+
+<p>On another topic, I&#8217;m bothered by the fact that this process is slanted in favor of social extroverts. You&#8217;re probably missing good people who just don&#8217;t do well in the kind of situation you&#8217;re creating, which many people find more stressful than a formal interview.</p>
+
+<p class="posted">posted by Jeremy
+ on November 29, 2009 <a href="#c32" rel="bookmark">#</a></p>
+</div>
+<div id="c33">
+<p>Surely no one comes to your casual meeting over drinks or whatever thinking that it is NOT an interview in disguise.</p>
+
+<p>How do you get away without being sued for discrimination?</p>
+
+<p class="posted">posted by John Corbin
+ on November 29, 2009 <a href="#c33" rel="bookmark">#</a></p>
+</div>
+<div id="c34">
+<p>You have to be a little careful of this approach with regards to anti-discrimination laws.  When you don&#8217;t have any sort of firm metrics by which to judge candidates, it&#8217;s easy for someone to say they didn&#8217;t get the job because you don&#8217;t get along with black/white/latino/asian people.</p>
+
+<p class="posted">posted by Sam
+ on November 29, 2009 <a href="#c34" rel="bookmark">#</a></p>
+</div>
+<div id="c35">
+<p>A lot of this is obvious.  Is the person likable?  Do they seem smart and do their answers make sense?  Are they &#8220;learners&#8221;?  Will this person drive me crazy after a month?</p>
+
+<p>Other things like working on small projects for me or temporary evaluation assignments don&#8217;t scale well - at least not any large company that I&#8217;ve ever worked for.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://squidly.com">Bill B</a>
+ on November 29, 2009 <a href="#c35" rel="bookmark">#</a></p>
+</div>
+<div id="c36">
+<p>If I was a programmer and looking to be hired this is the process I would like to go through.  It is applicable to many (but not all) hiring scenarios for a small team. 
+The lack of scalability is why Google and Microsoft won&#8217;t benefit from it, and why it is a legal quagmire for all but the smallest and smartest.
+That it works is attested by the second last sentence, &#8220;I actually feel bad when I don&#8217;t geet to work with them any more&#8221;</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.tumblr.com/tumblelog/hamiltonstreetrailway">Jim Harvie</a>
+ on November 29, 2009 <a href="#c36" rel="bookmark">#</a></p>
+</div>
+<div id="c37">
+<p>I was with you up till the part about asking someone to write code for free. That would immediately turn me off and I would decline. I have nothing against doing work for free but I wouldn&#8217;t give away my work to anyone just to be hired.</p>
+
+<p>Ask me about some freeware that I&#8217;ve done. Ask to see code. Those are fine. But remember, I don&#8217;t know you or your company just like you don&#8217;t know me. There is a huge warning sign when someone wants some work for free instead of hiring a programmer. You may have nothing but the best intentions but I don&#8217;t know that.</p>
+
+<p class="posted">posted by James Bailey
+ on November 29, 2009 <a href="#c37" rel="bookmark">#</a></p>
+</div>
+<div id="c38">
+<p>I&#8217;ve added a few thoughts of my own <a href="http://blog.joshuajabbour.com/post/262566193" rel="nofollow">on my blog</a>, but overall this resonates deeply with me. If you don&#8217;t hire a smart person, then you won&#8217;t be getting a good employee&#8230;</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://blog.joshuajabbour.com">Joshua Jabbour</a>
+ on November 29, 2009 <a href="#c38" rel="bookmark">#</a></p>
+</div>
+<div id="c39">
+<blockquote>“Someone who gets stuff done but isn’t smart is inefficient: non-smart people get stuff done by doing it the hard way and working with them is slow and frustrating. “
+
+I couldn’t read anything passed that stubborn remark.
+</blockquote>
+
+<p>That&#8217;s because you fall into the non-smart category. Otherwise you would have used &#8220;past.&#8221; Sorry, you don&#8217;t get the job.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.theuniversalsteve.com">SSteve</a>
+ on November 29, 2009 <a href="#c39" rel="bookmark">#</a></p>
+</div>
+<div id="c40">
+<p>Let me get this straight&#8230;If they can&#8217;t converse with you, then they are not smart.</p>
+
+<p class="posted">posted by Mike
+ on November 29, 2009 <a href="#c40" rel="bookmark">#</a></p>
+</div>
+<div id="c41">
+<p>Inviting the candidate to a team function (like a game or lunch) sounds like a bad idea, to be frank. First of all, it puts your entire team on the defensive so as not to leak confidential information, opinions of the candidate up to that point, etc.</p>
+
+<p>Secondly, it sends mixed signals to the candidate. If someone I was interviewing with said, &#8220;Hey let&#8217;s play a game of fuzbol with the team&#8221; or something, I&#8217;d interpret that as essentially having the job in the bag.</p>
+
+<p>Like it or not, interviews are professional situations and should be approached professionally. Inviting a candidate in the middle of an interview out for a casual meal or coffee for some chit-chat and then saying it&#8217;s not an interview is also disingenuous. Especially now that you&#8217;ve posted this technique in a blog post entitled &#8220;How I Hire Programmers&#8221;. If you use it to determine whether the candidate is smart, it&#8217;s part of the interview, period. It&#8217;s going to influence your decision.</p>
+
+<p>This is why interactions with candidates during the interview process should be and are kept strictly professional, because any interaction you have with a candidate is going to influence your judgment. By making it more casual, you&#8217;re opening yourself up to a claim that you decided to hire or not hire someone based on factors not relevant to the position.</p>
+
+<p class="posted">posted by Damien Sorresso
+ on November 29, 2009 <a href="#c41" rel="bookmark">#</a></p>
+</div>
+<div id="c42">
+<p>This article is the first I have seen showing someone being smart about the hiring process.</p>
+
+<p>The concern that this is not scalable is a legitimate one but the way things are done today seems like a game show IMO. You can argue that hey if you&#8217;re smart then win the game. To me the accepted mainstream way for getting hired is about putting up a facade.</p>
+
+<p>I was watching a video on interviewing techniques and the HR person said &#8220;This how you should answer question X, it is the ONLY way.&#8221; Wtf? My conclusion is clearly this person is a closed minded idiot.</p>
+
+<p>Personally I don&#8217;t know every data structure and every algorithm and quite frankly with a modern programming languages and APIs where you don&#8217;t implement a linked list everyday it seems reasonable that it&#8217;s not at your fingertips. However, if I have good reason or hobby time to dive deeper I sure would because it&#8217;s fun knowledge and I&#8217;ll most likely know more after such an experience.</p>
+
+<p>Maybe I have the wrong attitude but I too have given up on interviewing, call it quitting if you want, but no job and nothing to do but code and read books just makes me know more everyday than I did the day before.</p>
+
+<p class="posted">posted by John D
+ on November 30, 2009 <a href="#c42" rel="bookmark">#</a></p>
+</div>
+<div id="c43">
+<p>You have to be careful about being [too] social but if the people that are going to work for you are going to be in a comfortable environment then so should the interview process. Yes it is profession but I thought the goal was to learn about the person, seems like the goal is about passing some test. Then again what do I know, seems like the &#8220;scalable&#8221; way is to standardize the process, but I&#8217;ve always thought that people that use standardized tests to get a feel for how smart someone truly is are idiots.</p>
+
+<p class="posted">posted by Stewie
+ on November 30, 2009 <a href="#c43" rel="bookmark">#</a></p>
+</div>
+<div id="c44">
+<p>@Jeremy: Regarding your reply to Fin:</p>
+
+<pre><code>  @Fin: “I don’t program outside of work, apart from the odd
+  script or php debug.” Honestly, that alone is a problem. 
+  Good programmers write code; the ones who only do it at 
+  work are just doing it because it’s a job.
+</code></pre>
+
+<p>I don&#8217;t see not doing programming outside of work as a problem.  There are issues of life/work balance to consider and even if you really love programming and are great at it, that doesn&#8217;t mean that you have any time or energy to do much programming  aside from what you do for your job.  In fact that could mean that you don&#8217;t consider your job just at job and you&#8217;re giving it all your development and programming energy.</p>
+
+<pre><code> Code written for work is often written under conditions
+ guaranteeing it’s compromised in some way and probably
+  isn’t representative of the best work you’re capable of. 
+ The code you write for yourself is going to be your best
+ stuff.
+</code></pre>
+
+<p>Yes, code written for work usually involves compromises: dealing with existing systems, objectives and design decisions didn&#8217;t all go your way, schedule is too short, etc.  But that doesn&#8217;t mean that your code for that project is compromised. Knowing how a developer works under those conditions and the quality of their code under those conditions is something most hiring mangers would dearly love to know.</p>
+
+<p>Also, I&#8217;m sure you didn&#8217;t mean it this way, but your second paragraph above would make me as a hiring manager wonder if you&#8217;re saving your best for yourself and if you have trouble working with others. Is the code you write for yourself more clear, concise, efficient, etc? If so why aren&#8217;t you striving to do the same things for your code at work even in the face of compromises and other work pressures? My concern would also be that your definition of best included a large amount of: &#8220;Everything is exactly the way I want it to be.&#8221;</p>
+
+<p>Sorry if I&#8217;ve misinterpreted what you were trying to say, but I thought another perspective might be useful.</p>
+
+<p class="posted">posted by David Ballenger
+ on November 30, 2009 <a href="#c44" rel="bookmark">#</a></p>
+</div>
+<div id="c45">
+<p>I don&#8217;t belive that hiring developers are that different from hiring in many other fields. You have the same basic questions, just like you described, and there are a fantastic amount of bad hires in most organizations. Unfortunatly a sizeable portion of all humans doesn&#8217;t seem all that employable really.</p>
+
+<p>The quirky hiring processes are more than likely the long evolution of inept people hiring others. Being scared of screwing up (btw, people who are afraid to screw up more than often so screw up because of their fear) and being &#8220;clever&#8221; by devising tests.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://Flekkzo.blogspot.com">Flekkzo</a>
+ on November 30, 2009 <a href="#c45" rel="bookmark">#</a></p>
+</div>
+<div id="c46">
+<p>Anything I&#8217;ve written worth a damn is owned by my employer. If you are looking for people just starting out, asking for a sample is fine. But as someone else said, I have too many other interests to go home and do the same thing I&#8217;ve been doing all day. Otherwise yes, the only reason I&#8217;d ever ask someone to swap variables without using a temp is to hear them explain why that&#8217;s a terrible (and useless) idea.</p>
+
+<p class="posted">posted by Dave
+ on November 30, 2009 <a href="#c46" rel="bookmark">#</a></p>
+</div>
+<div id="c47">
+<p>el_gregorio, are you by any chance a lawyer who doesn&#8217;t have enough work to do?</p>
+
+<p class="posted">posted by John C. Randolph
+ on November 30, 2009 <a href="#c47" rel="bookmark">#</a></p>
+</div>
+<div id="c48">
+<p>@David Ballenger:</p>
+
+<p>I would be deeply suspicious of a &#8220;programmer&#8221; who never writes his own code. Have you really never solved a problem of your own by writing code to do it? How is that even possible? I use my own code just to make my own computer work the way I want, let alone things like running a website or whatever. Did you just learn it in school as a job?  My experience is that really good programmers aren&#8217;t those people.</p>
+
+<p>What I meant about your own code being better is simply that, when you&#8217;re writing code for work, you are usually severely restricted by working within someone else&#8217;s design; working with a large, existing codebase; working with other programmers; conforming to badly-thought-out coding guidelines; etc.  Looking at someone&#8217;s code written under those conditions without knowing about them will probably result in being less impressed than you might be. &#8220;Why did you do this in this convoluted way?&#8221;  &#8220;Because I had to.&#8221;  If you fully understood the restrictions it might even be more impressive, but you can&#8217;t.</p>
+
+<p class="posted">posted by Jeremy
+ on November 30, 2009 <a href="#c48" rel="bookmark">#</a></p>
+</div>
+<div id="c49">
+<p>Congratulations, you&#8217;ve just selected for likability over smarts.</p>
+
+<p class="posted">posted by Xofis
+ on November 30, 2009 <a href="#c49" rel="bookmark">#</a></p>
+</div>
+<div id="c50">
+<p>Ah, I&#8217;ve missed the getting to know them bit by going out to lunch. That is just up my alley, and if I find myself back in that position, I&#8217;ll definitely utilize that.</p>
+
+<p>Thanks for sharing.</p>
+
+<p class="posted">posted by Ben
+ on November 30, 2009 <a href="#c50" rel="bookmark">#</a></p>
+</div>
+<div id="c51">
+<p>You might find &#8220;First, Break All the Rules: What&#8217;s the World&#8217;s Greatest Managers Do Differently&#8221; by Marcus Buckingham.</p>
+
+<p>From Amazon &#8212; no affiliate link:
+http://www.amazon.com/exec/obidos/ASIN/0684852861/managementcon-20/102-3775167-1472903</p>
+
+<p class="posted">posted by Bill Quinn
+ on November 30, 2009 <a href="#c51" rel="bookmark">#</a></p>
+</div>
+<div id="c52">
+<p>Any interview method that does not focus on revealing the passion the programmer brings to a project is a waste.  I know great programmers that don&#8217;t care enough about their projects to write any decent code, and I know fair programmers that have risen to the challenge to create creative and surprising answers to tough programming problems.</p>
+
+<p>Find the passion and you will find the programmer.</p>
+
+<p class="posted">posted by js
+ on November 30, 2009 <a href="#c52" rel="bookmark">#</a></p>
+</div>
+<div id="c53">
+<p>@Jeremy</p>
+
+<p>Sure I write code to do things and solve problems on my own systems.  I never said never. But that code is not representative of the types of stuff I&#8217;ve done at &#8220;work&#8221; where I&#8217;ve worked on compilers, operating systems components and utilities, and large scale distributed systems.  And while I like to think that the code I&#8217;ve written at home is well written I don&#8217;t feel that it is a a scope to show what I do on the job.</p>
+
+<p>I also have other interests that I like to spend time on as well, plus spend time with family and friends, so the amount of time that I have to code on my own compared with work is much more limited.</p>
+
+<p>Maybe I&#8217;ve been lucky in that the projects that I&#8217;ve worked on were rarely &#8220;just a job&#8221;. They were projects with interesting problems to solve and new things to learn and do. And I had the chance to work with some great software engineers and programmers who also didn&#8217;t look at what we we&#8217;re doing as just a job. The great ones were passionate about the projects they were working on. Probably a lot of us were still thinking about the project &#8220;after work&#8221; whenever that was. Those types of &#8220;jobs&#8221; take up a lot of technical focus and energy.  While you might do some of your own programming after work, it helps to have other interests that will let your mind recharge for the next day.</p>
+
+<p class="posted">posted by David Ballenger
+ on November 30, 2009 <a href="#c53" rel="bookmark">#</a></p>
+</div>
+<div id="c54">
+<p>@js: &#8220;I know great programmers that don’t care enough about their projects to write any decent code&#8221;</p>
+
+<p>I wouldn&#8217;t call those great programmers.  They might have great knowledge and maybe skills, but if they don&#8217;t apply those skills, they aren&#8217;t great programmers.</p>
+
+<p class="posted">posted by 
+ on November 30, 2009 <a href="#c54" rel="bookmark">#</a></p>
+</div>
+<div id="c55">
+<p>When I interview with a company for a position, it&#8217;s is as much about whether they are an acceptable employer as whether I am an acceptable employee.</p>
+
+<p>If you want samples of my code, be prepared to pay for them. I am a professional; code is my product. The best code I&#8217;ve written is either only shared under NDA or client-proprietary. Some of it requires a security clearance.</p>
+
+<p>If you insist that we have a conversation about non-job related topics, it&#8217;s likely that a you have criteria for employment that violate the law, and that could get you into a real mess.</p>
+
+<p>If you say &#8220;this isn&#8217;t an interview,&#8221; you&#8217;ve just lied to me. I don&#8217;t work for people I can&#8217;t trust.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.drinkingfromthefirehydant.com">Jim Nicholson</a>
+ on November 30, 2009 <a href="#c55" rel="bookmark">#</a></p>
+</div>
+<div id="c56">
+<p>Great article - Most of these comments can apply to non-programmer hiring as well!  It&#8217;s all about working together as a team with smart people!</p>
+
+<p class="posted">posted by Chris Hedley
+ on November 30, 2009 <a href="#c56" rel="bookmark">#</a></p>
+</div>
+<div id="c57">
+<p>Awesome article! I posted a &#8220;response&#8221; to it on my blog relating it to Web Developers. http://jrtashjian.com/blog/be-a-better-programmer/</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://jrtashjian.com">JR Tashjian</a>
+ on November 30, 2009 <a href="#c57" rel="bookmark">#</a></p>
+</div>
+<div id="c58">
+<p>How about vetting lots of interviews?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://sensei.zenunit.com/">sensei</a>
+ on November 30, 2009 <a href="#c58" rel="bookmark">#</a></p>
+</div>
+<div id="c59">
+<p>Interesting way to interview for a small business, but when you have a larger business with an HR department that has to hire anyone from programmers to sales people to accountants to shippers, the HR are limited in understanding what you, the boss, wants, and people that would probably be what the boss want might not necessarily make it past the HR department due to some missing magic keyword or some odd spelling error.</p>
+
+<p>Sometimes the HR departments use interesting cookie cutter paste-n-copy such as 5 years experience with CPU X (which has only existed 3 months).</p>
+
+<p>Overall, it is an interesting blog and I could see this method of interview being used by a small creative team where the boss is the one that hires (and not a 3rd party like an HR department).</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.joescat.com">Joe</a>
+ on November 30, 2009 <a href="#c59" rel="bookmark">#</a></p>
+</div>
+<div id="c60">
+<p>I guarantee EVERY &#8220;engineer&#8221; from India would fail your test. They are money suckers and code leeches.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.indiansfail.org">Indian</a>
+ on November 30, 2009 <a href="#c60" rel="bookmark">#</a></p>
+</div>
+<div id="c61">
+<p>This validates my own process - thank you. On the two occassions I have failed to stick to such principles, things have fallen apart. If an engineer (or anyone else for that matter) oversells themselves or pressures you, that is a red flag moment. Summary: Remain 100% inside your mutual comfort zone - for as long as the relationship lasts.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.owonder.com">Oflife</a>
+ on November 30, 2009 <a href="#c61" rel="bookmark">#</a></p>
+</div>
+<div id="c62">
+<p>To know if they are any good at work it usually boils down to the fact if they know the answer to life , the universe and everything.</p>
+
+<p>If they don&#8217;t you can order the bill.</p>
+
+<p>Jolly</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.jinx.de/JollysFastVNC.html">Patrick aka Jolly</a>
+ on November 30, 2009 <a href="#c62" rel="bookmark">#</a></p>
+</div>
+<div id="c63">
+<p>&#8220;Programming isn�t typically a job done under pressure&#8221;</p>
+
+<p>Really? I have never worked anywhere where there is not a significant amount of pressure.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://devmentia.blogspot.com">Devmentia</a>
+ on November 30, 2009 <a href="#c63" rel="bookmark">#</a></p>
+</div>
+<div id="c64">
+<p>One problem, though. It takes a smart person to recognize another smart person. There&#8217;s been research to back this. So your advice falls flat on its back when applied by a not-so-smart interviewer.</p>
+
+<p class="posted">posted by icyclectic
+ on November 30, 2009 <a href="#c64" rel="bookmark">#</a></p>
+</div>
+<div id="c65">
+<p>Aaron,</p>
+
+<p>You should probably take this article down right now.</p>
+
+<p>Every single candidate that you interviewed with this process over the past years and that you ended up not hiring can sue you and your company for discrimination, and with this article as supporting evidence, they will most likely prevail in court.</p>
+
+<p class="posted">posted by Harold
+ on November 30, 2009 <a href="#c65" rel="bookmark">#</a></p>
+</div>
+<div id="c66">
+<p>That last sanity check is important&#8230; we are hiring a new programmer and we have seen people make it through the interview with flying colors&#8230; only to crash and burn during the sanity check.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.designfrontier.net">Daniel Sellers</a>
+ on November 30, 2009 <a href="#c66" rel="bookmark">#</a></p>
+</div>
+<div id="c67">
+<p>Would someone mind telling me what you&#8217;re hiring for?  What business/startup do you (Aaron) run?</p>
+
+<p class="posted">posted by Brendan
+ on November 30, 2009 <a href="#c67" rel="bookmark">#</a></p>
+</div>
+<div id="c68">
+<p>@Joe:</p>
+
+<p>In a large company it doesn&#8217;t have to be just HR involved in hiring.</p>
+
+<p>I worked for a reasonably large firm (offices in 10 countries) with a pretty big IT department.  For IT hires the interview process included someone from HR but also the line manager and the team leader of the team they would be working in.  Sometimes senior developers would be involved as well.  The HR person was only there to cover the bureaucratic stuff.  The line manager and team lead were there for the technical stuff, and to see if the prospective hire would fit in.  Worked well.</p>
+
+<p class="posted">posted by SimonTewbi
+ on December  1, 2009 <a href="#c68" rel="bookmark">#</a></p>
+</div>
+<div id="c69">
+<p>I couldn&#8217;t agree more. This method has worked extremely well for me.</p>
+
+<p class="posted">posted by Twylo
+ on December  1, 2009 <a href="#c69" rel="bookmark">#</a></p>
+</div>
+<div id="c70">
+<p>So&#8230; the bottom line is, you only hire stupid and naive programmers who don&#8217;t mind being deceived, lied to and manipulated?</p>
+
+<p>Well, I&#8217;m sure the result is mutually satisfying. Like an S&amp;M relationship.</p>
+
+<p class="posted">posted by Rick
+ on December  1, 2009 <a href="#c70" rel="bookmark">#</a></p>
+</div>
+<div id="c71">
+<p>I couldn&#8217;t agree more.</p>
+
+<p>good article.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://veerasundar.com/blog">Veera</a>
+ on December  1, 2009 <a href="#c71" rel="bookmark">#</a></p>
+</div>
+<div id="c72">
+<p>Wish everyone hired like you. You seem to treat each person as an individual instead of a process.</p>
+
+<p class="posted">posted by Rodger
+ on December  1, 2009 <a href="#c72" rel="bookmark">#</a></p>
+</div>
+<div id="c73">
+<p>You should have some written test, just in case someone would sue you for discrimination. Written test can prove this very easily.</p>
+
+<p class="posted">posted by Bubak
+ on December  1, 2009 <a href="#c73" rel="bookmark">#</a></p>
+</div>
+<div id="c74">
+<p>Thanks for your honesty, now it makes me feel much better :)</p>
+
+<p>&#8220;I’m a pretty good programmer, but I’ve never passed one of these interviews and I doubt I ever could.&#8221;</p>
+
+<p>Failed Google (5 times), failed Amazon, failed Facebook, failed FriendFeed, failed YouTube, failed Ning &#8230; anytime there was an interview I have failed.</p>
+
+<p>Aaron, may I ask you how you got a job at Google?</p>
+
+<p>Alex K</p>
+
+<p class="posted">posted by Alex K
+ on December  1, 2009 <a href="#c74" rel="bookmark">#</a></p>
+</div>
+<div id="c75">
+<p>Why dont&#8217; you have a sleep over as well?</p>
+
+<p class="posted">posted by Bill
+ on December  1, 2009 <a href="#c75" rel="bookmark">#</a></p>
+</div>
+<div id="c76">
+<p>OK, here are some gross generalizations:</p>
+
+<ol>
+<li>Bad and ambititous programmers become managers</li>
+<li>Hiring decisions are usually made by the managers</li>
+</ol>
+
+<p class="posted">posted by J
+ on December  1, 2009 <a href="#c76" rel="bookmark">#</a></p>
+</div>
+<div id="c77">
+<p>Thanks for your honest writing. It&#8217;s not often that you hear someone boldly state his opinion when it questions common practices and norms. The more valuable it gets then.</p>
+
+<p>I share your opinion. Asking tricky questions and conducting psychological tests is pointless, you end up with wrong people for the job.</p>
+
+<p>More to it, if you see a company do these things, you can raise a red flag. Because you can pretty much guess what kind of colleagues you&#8217;re going to get there.</p>
+
+<p>Personality, attitude and willingness to learn is what matters. Not knowing answers to tricky questions or remembering some weird algorithms from university you graduated from over ten years ago.</p>
+
+<p>Write more good stuff!</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://developerart.com">Developer Art</a>
+ on December  2, 2009 <a href="#c77" rel="bookmark">#</a></p>
+</div>
+<div id="c78">
+<p>I had the misfortune of being the lead developer for a company where the &#8216;boss&#8217; did the hiring. I was only allowed to scan the resume&#8217;s and have one talk with the applicant. Every single programmer I picked where labeled too nerdy, too alternative, too smelly looking (for real!) etc. Every bloody time they hired people they &#8216;liked&#8217;. The result was programmers who couldn&#8217;t program but were &#8216;too nice&#8217; to fire. 
+This article comes pretty close to how I would like to be hired and how I&#8217;d like to hire people myself.</p>
+
+<p class="posted">posted by Marsk
+ on December  2, 2009 <a href="#c78" rel="bookmark">#</a></p>
+</div>
+<div id="c79">
+<p>I would also read their blog if they have one. Amazing how much you can tell about a person from their blog</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://qbnets.wordpress.com">rrtucci</a>
+ on December  3, 2009 <a href="#c79" rel="bookmark">#</a></p>
+</div>
+<div id="c80">
+<p>Are they under 25?
+Do they ride a motorbike?</p>
+
+<p>Anyone asking for a specific language (c, java haskell etc) should not be hiring programmers, they should only book hotels, meetings and talk on the phone all day</p>
+
+<p>You can give them the (test) problems upfront, well in advance of the interview</p>
+
+<p>Only those with a full motorcyle licence and motorbike who are under 26 will recive an invite</p>
+
+<p>Your method looks like somekind of sexual selection, which may not be an invalid way of judging inteligence given it has evolved to be sexualy stimulating (or is it the otherway round chicken egg kind of thing)</p>
+
+<p>Yeah, two interviewers, male/female and if you both like them thats a sure sign</p>
+
+<p>I once lost a job by tucking into the free beer provided, that says a lot</p>
+
+<p class="posted">posted by mike panero
+ on December  3, 2009 <a href="#c80" rel="bookmark">#</a></p>
+</div>
+<div id="c82">
+<p>I read this article, and I thought about how I would do in that process, and it seems to me that I&#8217;d do dismally.  Except that I&#8217;m a successful programmer who gets stuff done, and that&#8217;s what your process is supposed to identify.</p>
+
+<p>First off, I have a life outside of programming.  Programming is something I do because I&#8217;m reasonably good at it and it pays me well enough to pursue the things I really love.  If you ask me what I&#8217;ve accomplished in the past few years, you have two options:  you can hear about what my team has accomplished, or you can hear about the things I do in my free time that are completely unrelated to programming.  I&#8217;m happy to explain the technical details of knitting or 16th century music to you; that won&#8217;t tell you anything about my particular Perl skills.</p>
+
+<p>And I&#8217;m a task-focused introvert.  To be honest, until I get to know you, I&#8217;m really not interested in <em>you</em> &#8212; so I&#8217;m not going to ask questions about <em>you</em> and be genuinely interested.  If you&#8217;re working on something that interests me - either because it&#8217;s related to one of the non-technical things I&#8217;m interested in, or because it&#8217;s something I think will be useful in programming, I&#8217;m interested; but otherwise, I&#8217;m happy to fake interest, but I can&#8217;t fake genuine interest.</p>
+
+<p>Second, I&#8217;m an introvert.  Your casual, unstructured café conversation sounds like torture to me:  I don&#8217;t know enough about you to have a casual conversation with you, and despite your assurances that it&#8217;s not an interview, you&#8217;re considering hiring me, and if I know that, there&#8217;s no way I can <em>believe</em> that it&#8217;s not an interview.  You aren&#8217;t going to get a good read of me in such a casual environment, and I&#8217;ll be miserable about it.  We aren&#8217;t going to talk like we would at a party, because I don&#8217;t go to parties, because I find them abjectly miserable experiences.</p>
+
+<p>And that goes double for a large group of people.  A group dinner where I have to deal with the rest of the team, and I know I&#8217;m being evaluated for fit?  An hour of that, and I&#8217;ll be prepared to confess to the JFK assassination just to make it end.</p>
+
+<p>Your approach seems like it is excellently suited to finding people who are extroverts and who have programming as the primary interest in their life.  If that&#8217;s the kind of people you&#8217;re looking for, more power to you.  Maybe you want people who eat, sleep, and breathe software, and it&#8217;s good that you&#8217;d pass right by me, because I&#8217;m not that person.</p>
+
+<p>You say you want someone who is smart, gets things done, and can work well with a team, and it seems like your process will do that without producing many false positives.  But it&#8217;s also likely to produce a high number of false negatives, too.</p>
+
+<p class="posted">posted by CW
+ on December  4, 2009 <a href="#c82" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="hiring" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

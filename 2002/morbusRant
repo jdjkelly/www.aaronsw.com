@@ -1,0 +1,62 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+  <title>Morbus Rant</title>
+  <link rel="stylesheet" type="text/css" href="/style.css" />
+</head>
+<body>
+<div id="head">
+  <h1>Morbus Rant</h1>
+  <span class="description">on beauty in file formats</span>
+</div>
+<div class="content">
+<p><em>A beautiful rant from <a href="http://disobey.com/">Morbus Iff</a> on why beauty is important in computer file formats.</em></p>
+
+<p>Bill Kearney:</p>
+<blockquote>So what [if the syntax is verbose]?  It's not like a person is ever going to be reading it.</blockquote>
+
+<p>How many different versions of Mona Lisa are hidden beneath the one we know
+and love? Why do we care? Why are we spending all this money to look into
+it, when we know that they're not the versions he wanted us to see?</p>
+
+<p>Do you think a few people are going to write these files in a normal text editor? Is reading
+different than writing (it took me about five minutes to write the block
+above)? If we want this format to be big, do we want to make an assumption that no
+one is ever going to read it? Why is XML in plain text anyways? If it's
+only going to be read by computers, why even bother with names that a human
+can read? The below is many times faster to write.</p>
+
+<pre>
+   &lt;f:cSName>
+     &lt;f:CSN>
+      &lt;f:nDomain r:rsrc="afghanistan" />
+      &lt;f:cN>you&lt;/f:cN>
+     &lt;/f:CSN>
+     &lt;f:CSN>
+      &lt;f:nD r:rsrc="usa" />
+      &lt;f:cN>Miri&lt;/f:cN>
+     &lt;/f:CSN>
+   &lt;/f:cSN>
+</pre>
+
+<p>Nuclear reactors are bad. Big ass radio towers are bad. But you know what
+they're doing with radio towers in our town? They've literally got one
+dressed up like a tree - it looks like a really fake tree, but from a
+distance it looks real nonetheless. People are more accepting of things
+that look good (that whole code shui thing I bitch about once or twice in
+every tech mL I'm on), then things that may work better (better reception
+without branches).</p>
+
+<p>The format, at this point, is "pretty". It's easily readable. It's easy for edd to write about in a dW article. It's easy for me to say "yeah, this is why you want to do it, it's easy". The above is just plain ooky, and I
+probably wouldn't even mention it in a tutorial (which, of course, gives an
+easy hook for others to say "well, then don't!").</p>
+
+<p>But people keep telling me to trust the  verbosity. Argh. Can someone beat
+into me why something simpler wouldn't work? Help me understand I'm
+making some newbish mistake.</p>
+
+</div>
+<div class="footer">
+<a href="http://www.aaronsw.com/">Aaron Swartz</a> has lightly edited from <a href="http://groups.yahoo.com/group/rdfweb-dev/message/219">the original email</a> to remove specific references. So sue me.<br />
+<em>proper usage instructions! keep away from children! do not drink while standing up!</em>
+</div></body>
+</html>

@@ -1,0 +1,52 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Bernstein Reports (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/000677.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000672" title="The Other Oral Argument" />	<link rel="next" href="000678" title="Who&#8217;s Making a What?!" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Bernstein Reports</h1>
+</div>
+
+<div class="content">
+<p>In <a href="http://www.aaronsw.com/2002/djb-press-20021018">a press release</a>, Bernstein reports that the government&#8217;s attorney told the court they would not enforce the law against cryptographers working together at conferences and they would treat &#8220;assembly language&#8221; as source code. Now it&#8217;s up to the judge to decide what to do.</p>
+
+<p>This case started a decade ago, when Bernstein <a href="http://cr.yp.to/export/1992/0630-bernstein.txt">applied for a license to export his cryptographic research</a>. Then Bernstein was a graduate student at Berekely, now he is an associate professor at UIC, well known for writing the second most popular email and DNS software on the Internet. Then he was represented by the EFF, now he represents himself. </p>
+
+<p>(Also interesting to note: <a href="http://cr.yp.to/export/1984/0828-olson.txt">a 1984 letter on Bernstein&#8217;s site</a> was written by Theodore B. Olson, who was then Assistant Attorney General. Now he is Solicitor General, and argued before the Supreme Court against Mr. Lessig.)</p>
+
+<p>I was thinking that were Bernstein to win, he might challenge software patents (<a href="http://cr.yp.to/patents.html">which he is known to fight</a>) on similar grounds. Software patents are a government content-specific restriction on speech, in the form of source code. Source code is the preferred means for professionals to discuss and learn about computer algorithms. If those algorithms are patented and one cannot distribute such speech, it crushes the discourse that the patent law was intended to protect! (The <em>quid pro quo</em> of patents is that the public finds out how things work and in return secure to the inventor the &#8220;exclusive right to their [&#8230;] discoveries&#8221;.) Bernstein is probably tired of such legal fighting, but were he to take on such a case and win, it would be an impressive and important victory.</p>
+
+<p>&#8220;Words are also actions, and actions are a kind of words.&#8221;<br />
+ - Ralph Waldo Emerson, <a href="http://www.aaronsw.com/2002/thePoet">&#8220;The Poet&#8221;</a></p>
+
+<p class="posted">posted October 19, 2002 08:31 PM (<a class="category" href="cat_politics">Politics</a>)  <a href="000677" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000672" title="The Other Oral Argument">&laquo; prev</a> | <a href="./">up</a> | <a href="000678" title="Who&#8217;s Making a What?!">next &raquo;</a></p>
+
+<p><a href="000657">Larry on Larry</a><br />
+<a href="000664">Seth, Lisa on Larry</a><br />
+<a href="000666">Speeding Broadband Deployment</a><br />
+<a href="000669">Eldred Transcript</a><br />
+<a href="000672">The Other Oral Argument</a><br />
+<strong>Bernstein Reports</strong><br />
+<a href="000678">Who&#8217;s Making a What?!</a><br />
+<a href="000679">These Are A Few of My Favorite Fonts</a><br />
+<a href="000681">little voices in my head</a><br />
+<a href="000683">all the features, none of the fat</a><br />
+<a href="000684">Sinister RSS Conspiracy</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

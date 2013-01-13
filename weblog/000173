@@ -1,0 +1,47 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Aaron&#8217;s Photo Albums (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/000173.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000172" title="Goodbye, Brent." />	<link rel="next" href="000174" title="Aaron joins Creative Commons as RDF Advisor" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Aaron&#8217;s Photo Albums</h1>
+</div>
+
+<div class="content">
+<p>I&#8217;ve started putting up photos on my website in <a href="http://www.aaronsw.com/photos/">Aaron&#8217;s Photo Albums</a>. I&#8217;ve got photos from my trip to the UK, and some snow photos up now. I hope to put some more up soon. Technical details below.</p>
+
+<p>On the technical side, I&#8217;m using this as an occasion to play with <a href="http://www.zope.org/">Zope</a>, which pains me because it has a lot of big things done right, but so many little things done wrong. I&#8217;m hoping Zope3 comes out better.</p>
+
+<p>I&#8217;m also using this as a way to generate some more RDF for <a href="http://rdfweb.org/">RDFWeb</a>, specifically their <a href="http://rdfweb.org/2002/01/photo/">codepiction work</a> (<a href="http://swordfish.rdfweb.org/discovery/2001/08/codepict/codepict.jsp?mbox=mailto:me@aaronsw.com">pics of me</a>).</p>
+
+<p class="posted">posted March 03, 2002 12:10 PM (<a class="category" href="cat_personal">Personal</a>)  <a href="000173" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000172" title="Goodbye, Brent.">&laquo; prev</a> | <a href="./">up</a> | <a href="000174" title="Aaron joins Creative Commons as RDF Advisor">next &raquo;</a></p>
+
+<p><a href="000168">Students, Teachers and Dragons</a><br />
+<a href="000169">CSS: Client-side rendering rules</a><br />
+<a href="000170">CodeCon Wrapup</a><br />
+<a href="000171">The Copyright Tax</a><br />
+<a href="000172">Goodbye, Brent.</a><br />
+<strong>Aaron&#8217;s Photo Albums</strong><br />
+<a href="000174">Aaron joins Creative Commons as RDF Advisor</a><br />
+<a href="000175">Learning on the Road</a><br />
+<a href="000180">Happy Pi Day</a><br />
+<a href="000181">Interesting Conferences (and the interesting people attending them)</a><br />
+<a href="000182">The Science of Rejection</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

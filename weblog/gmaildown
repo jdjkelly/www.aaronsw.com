@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Gmail Down (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Gmail Down</h1>
+
+<p>My Gmail account has been down for over two days. When I try to log in, it says it&#8217;s down for maintenance and they don&#8217;t know how long it will take. When I try to get my mail through POP, it simply doesn&#8217;t work. And when I contact the Gmail people, all I get back is form responses. I&#8217;ve used Gmail as my mail client for the past couple years, so if you&#8217;ve sent me mail and I haven&#8217;t responded &#8212; that&#8217;s why.</p>
+
+<p>The thing that really puzzles me is <em>why</em>. I can understand occasional outtages, but I can&#8217;t understand what could cause my account to go down for days, unless they lost my data and are too embarassed to actually tell me. The only thing I can think of is that something went wrong and there&#8217;s just no one around to fix it. Which, considering Gmail&#8217;s popularity, would be kinda sad.</p>
+
+<p>Sorry to bug you with my personal problems, but obviously it&#8217;s time for me to switch away from Gmail. I&#8217;ve been careful to always keep my email going to my main server, so I haven&#8217;t lost too much data, but figuring out a way to read my mail again is rather difficult.</p>
+
+<p>I get absurd quanities of spam (40,000 spam messages a month) so my mailboxes are just full of junk. And it&#8217;s not clear to me how to clear it out. A bayesian filter like bogofilter requires non-spam messages to train on &#8212; and if I had my non-spam messages, I wouldn&#8217;t need a spam filter. Spamassassin seems to work better, but it&#8217;s incredibly slow and inaccurate, taking a couple seconds per email (at this rate it will take days to see my mail again).</p>
+
+<p>If you have any suggestions (or you&#8217;re a person at Google who can turn my account on again) feel free to help. If you want to email me, I&#8217;m checking &#8220;feeds@reddit.com&#8221;.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">May 31, 2006</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>GMail has been working fine for me, although my mac.com email is down today.</p>
+
+<p>GMail&#8217;s spam filter is pretty good - only a few pieces a week get through, but I end up with about 150 spams a day.</p>
+
+<p>I use Dreamhost for my web hosting &amp; main email account and I find that their spamassassin is pretty useless, since it has most of the network tests disabled &amp; doesn&#8217;t let you override the settings.</p>
+
+<p>Rather than install my own copy of SpamAssassin, I installed SpamBouncer and I find that it works very nicely. I&#8217;ve been fine-tuning it for the last week and it&#8217;s a lot better than SpamAssassin, although it takes a lot of tweaking of the procmailrc &amp; whitelist files. I have it redirecting my spam to a separate spambox account which I only check with webmail every few days, so it doesn&#8217;t bother me most of the time.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.mcdevzone.com/">Mike Cohen</a>
+ on May 31, 2006 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>I love how this is &#8220;Letters to the editor&#8221; instead of &#8220;Comments&#8221;! Fresh!</p>
+
+<p>I&#8217;ve had those maintenance problems with Google periodically, altho I can get into mine right now even tho you can&#8217;t and that makes me feel badly. :(</p>
+
+<p>I wonder if one&#8217;s Gmail account gets slower to use, the more email you have in it. It may just be psychological but mine has been crawling lately.</p>
+
+<p>BTW, Aaron, for some reason, I get a popup message that says &#8220;550 /robots.txt: No such file or directory.&#8221; when I load your main page @ aaronsw.com, but this only happens to me on Firefox and not IE&#8212;and I tried Firefox on another computer and it didn&#8217;t show me the error. I wonder what&#8217;s up.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://torley.com">Torley Linden</a>
+ on May 31, 2006 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>Funny you should mention this - I&#8217;ve never had that problem with Gmail, but I&#8217;m currently having it with Yahoo.  The thing that makes it even worse is I can&#8217;t access my Yahoo fantasy baseball team! I can&#8217;t even find any mention on Yahoo of who to contact for help!</p>
+
+<p class="posted">posted by scott
+ on May 31, 2006 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>That is strange, I am able to use my gmail account (which I mainly use as an anonymous throw away account these days) - even from my work (which is google&#8217;s chief competitor, especially in the domain of email).</p>
+
+<p>My advise is simple: you have a colocated machine (or at least access to one), so do what makes the most sense: postfix + procmail + SpamAssassin + mutt (with perhaps a layer of IMAP in between). I&#8217;ve yet to find any webmail client which is as responsive and as fast to use - on mounds of email - as that. Many of my friends endlessly complain of email woes: of their mail boxes over flowing with spam, of not being able to keep up with mailing lists; yet, since 1998 (when I first started using mutt), I&#8217;ve not even close to have experienced these very woes.</p>
+
+<p>I also much prefer writing email in vim or emacs than doing it through firefox or gmail - way more productive in that way. Sometimes twenty-thirty year old technologies work way better than the new fangled ones.</p>
+
+<p>I do have to say that gmail is quite possibly the only webmail system which provides support for threading, sorting/searching and filtering that can come close to the mutt + procmail combination. Yet, it&#8217;s close, but it&#8217;s no cigar :-)</p>
+
+<p class="posted">posted by 
+ on May 31, 2006 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>I do pretty much the same as the person with no name who posted at 2006-05-31T00:35:23 above.  Add ClamAV to the above list and you&#8217;re all set.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://wolog.net/">Ping</a>
+ on May 31, 2006 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c6">
+<p>Try to contact them here https://mail.google.com/support/bin/request.py?contact=1&amp;ctx=contact-us and ask them what&#8217;s going on.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://trepca.si/blog">Sebastjan</a>
+ on May 31, 2006 <a href="#c6" rel="bookmark">#</a></p>
+</div>
+<div id="c7">
+<p>Gmail did something funny to me recently, too (actually to one of my users - we use it for office email). On the 1st of this month, this user logged in and ALL of her email was deleted. All incoming, outgoing - even spam messages had been deleted.</p>
+
+<p>We emailed Google and their Support staff suggested that the account had been compromised and someone manually deleted all of the messages in question. That seems unlikely to us, but I guess it is always possible.</p>
+
+<p>Anyhow - I hope you get your email back. Keep us updated on this thread.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://nickgray.net/">Nick Gray</a>
+ on June  1, 2006 <a href="#c7" rel="bookmark">#</a></p>
+</div>
+<div id="c8">
+<blockquote>
+  <p>&#8220;because fewer people will do that and thus it will make the largest diff with what would otherwise happen&#8221;</p>
+  
+  <p>How can you derive that?</p>
+</blockquote>
+
+<p>&#8220;fewer people&#8221;: look at the relative size of serious social movements to academic departments. &#8220;largest diff&#8221;: increases the size of the movement by a greater percentage than it increases the size of the science department.</p>
+
+<blockquote>
+  <p>In terms of Historic Inevitability theory, a major contribution to a social change movement happens when the world is ready for it</p>
+</blockquote>
+
+<p>Well, that&#8217;s all very nice, but do you have any <em>evidence</em>?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on June  1, 2006 <a href="#c8" rel="bookmark">#</a></p>
+</div>
+<div id="c9">
+<p>Aaron, come on. You&#8217;re drawing the wrong conclusion.
+I can assure you, google is not a company that would sit on its hands, forgetting to look at things that don&#8217;t work. I&#8217;m certain they have a ton of alarms on their systems, many specific to gmail.
+I&#8217;m also sure they have engineers working on fixing known bugs &#8212; it&#8217;s a mature, high-visibility product.</p>
+
+<p>Furthermore, if gmail had a wide-spread two-day long outage, you would have certainly heard about it in the media, be that in well-read blogs or dead-wood mediums.</p>
+
+<p>A more plausible conclusion than that they stupid and lazy (which I think is the gist of your argument, although more gently put), is that you are unfortunate enough to be entangled in a problem that is severe in its impact, but probably not widespread enough (does not affect enough users or affects a good number, but gmail hasn&#8217;t realized it yet) to merit gmail&#8217;s attention. In any case, it&#8217;s not at the top of their priority list. In other words, they have better things to do.</p>
+
+<p>Unfortunate for you? Yes. Indicative that gmail could be doing a better job? Yes. &#8216;Something went wrong and there&#8217;s no one around to fix it?&#8217; I doubt it.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://stinkyshorts.blogspot.com">Rob</a>
+ on June  4, 2006 <a href="#c9" rel="bookmark">#</a></p>
+</div>
+<div id="c10">
+<p>One week later, my Gmail is finally back. I&#8217;ve decided to switch back. Mutt wasn&#8217;t terrible, but it wasn&#8217;t for me. No integrated search, no integrated address book, a lot of hackery, but most importantly, that tiny window felt constraining.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on June  4, 2006 <a href="#c10" rel="bookmark">#</a></p>
+</div>
+<div id="c11">
+<p>Rob, I never said I thought the outage was widespread. But it&#8217;s the height of irresponsibility to believe that having a user&#8217;s email go down doesn&#8217;t &#8220;merit gmail&#8217;s attention&#8221;. If Google seriously took that attitude, I&#8217;d transition away from their products as soon as possible.</p>
+
+<blockquote>
+  <p>&#8216;Something went wrong and there&#8217;s no one around to fix it?&#8217; I doubt it.</p>
+</blockquote>
+
+<p>So nothing went wrong? Users&#8217; email disappearing was intended?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on June  4, 2006 <a href="#c11" rel="bookmark">#</a></p>
+</div>
+<div id="c12">
+<p>i have used gmail as my primary email for 12 months and using outlook express for my gmail email client. everything was fine until recently (about a week ago), my gmail stop sending email to my outlook express (example: if i have 5 new email at the server, it just download 1 and than stuck until outlook express pop up telling me the server not responding. but it&#8217;s ok when sending email through gmail smtp server. i have also try using mozilla thunderbird, also got the same problem, download 1 massage, than stuck, popup says server not responding, but ok when sending email. is there someone else have the same problem as me do? and what is your solution to this problem?</p>
+
+<p>-sorry fo my bad english-</p>
+
+<p>thank you.</p>
+
+<p class="posted">posted by Bat
+ on June  5, 2006 <a href="#c12" rel="bookmark">#</a></p>
+</div>
+<div id="c13">
+<p>Hey Aaron,</p>
+
+<p>I know you didn&#8217;t say that &#8212; I wasn&#8217;t trying to say that you did.</p>
+
+<p>I was just trying to lay out the possibilities:</p>
+
+<p>A) Neglect/stupidity</p>
+
+<p>B) Willfull ignorance.</p>
+
+<p>I think their behavior falls under B. If there indeed had been
+large-scale outage, it would certainly be A.</p>
+
+<p>Furthermore, if it is B, then your problem must have been narrow in scope.</p>
+
+<p>And yes, I am defining myself to be right. In other words, my
+assumption is that they are competent and therefore your problem must
+be limited to few users. I just think that&#8217;s more likely to be correct
+than if I assumed they were incompetent.</p>
+
+<p>And while you&#8217;re right it&#8217;s upsetting that they are ignoring the
+products failure, no matter how limited the number of affected users,
+wouldn&#8217;t you agree that every large scale, individualized product
+(where profit is derived from volume) is probably managed this way?
+I.e. if you have a sufficiently large user base X and the incremental
+value (V) to you of an addition user is small, i.e. $0.25, then there
+must be some number Y where if Y or less users are affected, it simply
+doesn&#8217;t make any sense to fix the problem.
+In summary, I would posit that, for any individualized service where V
+is small and X is large, there is some Y where Y*V is not worth an
+engineer&#8217;s time.</p>
+
+<p>Of course, you as an individual user can try to increase the cost of
+your problem to gmail. I.e. because you have influential blog, your
+problem is already way more costly to google (b/c of PR implicaitons)
+than a nameless Joe&#8217;s problem, which is still only worth V.</p>
+
+<p>This is actually generalizable also&#8230; in that sometimes an
+individual&#8217;s problem can cost far greater than Y. For example: When a
+website&#8217;s personalization engine fails for a single user, no one
+cares. The personalization feature has low incremental benefit for a
+single user. But when the individual&#8217;s problem for some reason
+generates costs much greater than V (i.e. the engine suggests users
+looking to &#8216;adopt&#8217; consider &#8216;abortion&#8217; &#8212; a huge PR problem), then of
+course the equation doesn&#8217;t hold.</p>
+
+<ul>
+<li>Rob</li>
+</ul>
+
+<p>On 6/4/06, Aaron Swartz wrote:</p>
+
+<blockquote>
+  <p>Rob, I never said I thought the outage was widespread. But it&#8217;s the
+  height of irresponsibility to believe that having a user&#8217;s email go
+  down doesn&#8217;t &#8220;merit gmail&#8217;s attention&#8221;. If Google seriously took that
+  attitude, I&#8217;d transition away from their products as soon as possible.</p>
+  
+  <blockquote>
+    <p>&#8216;Something went wrong and there&#8217;s no one around to fix it?&#8217; I doubt it.</p>
+  </blockquote>
+  
+  <p>So nothing went wrong? Users&#8217; email disappearing was intended?</p>
+</blockquote>
+
+<p class="posted">posted by <a rel="nofollow" href="http://stinkyshorts.blogspot.com">Rob</a>
+ on June  7, 2006 <a href="#c13" rel="bookmark">#</a></p>
+</div>
+<div id="c14">
+<p>My gmail account has been intermittently down for over 2 days.  Most of the time, I get a message that says &#8220;Server error, try again in a few seconds.&#8221;  So, I try again in a few seconds, and get the same error message.  Annoying!  It won&#8217;t connect to POP, either.</p>
+
+<p class="posted">posted by Sarah
+ on June 21, 2006 <a href="#c14" rel="bookmark">#</a></p>
+</div>
+<div id="c15">
+<p>Hi, I&#8217;m from Buenos Aires, Argentina, and I&#8217;m writing to let you know, that I&#8217;m having the same problem. It&#8217;s been already 48hs without being able to check my account, and I&#8217;m having the same error description: Server error, try later, and no pop. I&#8217;m having job partners that have their account working ok thou.</p>
+
+<p>Os.</p>
+
+<p>Bye.</p>
+
+<p class="posted">posted by Osvaldo Otero
+ on June 21, 2006 <a href="#c15" rel="bookmark">#</a></p>
+</div>
+<div id="c16">
+<p>Mine is too!  Does anyone know what the problem is and for how long?</p>
+
+<p class="posted">posted by Haley
+ on June 21, 2006 <a href="#c16" rel="bookmark">#</a></p>
+</div>
+<div id="c17">
+<p>Mine has been down all day today, but I have friends who say their accounts are fine. WTF??</p>
+
+<p class="posted">posted by Julie
+ on June 21, 2006 <a href="#c17" rel="bookmark">#</a></p>
+</div>
+<div id="c18">
+<p>What happens if someone tries to send you mail when the server is &#8220;doen&#8221;?</p>
+
+<p class="posted">posted by Ben Strong
+ on June 21, 2006 <a href="#c18" rel="bookmark">#</a></p>
+</div>
+<div id="c19">
+<p>Sorry, I mean DOWN</p>
+
+<p class="posted">posted by Ben Strong
+ on June 21, 2006 <a href="#c19" rel="bookmark">#</a></p>
+</div>
+<div id="c20">
+<p>oh yes. mine is down too. since last night. I think the problem is with them.</p>
+
+<p class="posted">posted by rachel
+ on June 21, 2006 <a href="#c20" rel="bookmark">#</a></p>
+</div>
+<div id="c21">
+<p>oh yes. mine is down too. since last night. I think the problem is with them.</p>
+
+<p class="posted">posted by rachel
+ on June 21, 2006 <a href="#c21" rel="bookmark">#</a></p>
+</div>
+<div id="c22">
+<p>mines hasn&#8217;t been working thursday of last week..</p>
+
+<p class="posted">posted by mikey
+ on June 21, 2006 <a href="#c22" rel="bookmark">#</a></p>
+</div>
+<div id="c23">
+
+
+<p class="posted">posted by Lesley
+ on June 22, 2006 <a href="#c23" rel="bookmark">#</a></p>
+</div>
+<div id="c24">
+
+
+<p class="posted">posted by Lesley
+ on June 22, 2006 <a href="#c24" rel="bookmark">#</a></p>
+</div>
+<div id="c25">
+<p>Gmail&#8217;s SMTP server has been down intermittently since this morning. I hope they fix it soon.</p>
+
+<p class="posted">posted by Jonathan
+ on July  1, 2006 <a href="#c25" rel="bookmark">#</a></p>
+</div>
+<div id="c26">
+<p>I was looking for the answer, why my gmail is stuck on loading, and there is a solution, but not that good as I excpected, type http://mail.google.com/mail/?ui=html&amp;zy=n</p>
+
+<p>but I wonder if they are going to fix this problem with AJAX (javascript). I realy need my gmail account fully functional. I`m not going to replace it with any alternative untill the time I will have to. If anybody knows if they are going to fix it, please let us know &#8230;</p>
+
+<p class="posted">posted by eboye
+ on July 23, 2006 <a href="#c26" rel="bookmark">#</a></p>
+</div>
+<div id="c27">
+<p>Dear readers my gmail account has been down for 12 days now, I have given up hope , you would think that google would not let this kind of thin g happen but open your eye&#8217;s they have ,it is unexcusable that they would keep a user(me) out in the cold even more than 2 days &#8230;try 12 days. I have contacted them at least 6 times and have only recieved a computer response  nothing even the slightist human .gmail is totaly unreliable</p>
+
+<p class="posted">posted by natasha
+ on July 31, 2006 <a href="#c27" rel="bookmark">#</a></p>
+</div>
+<div id="c28">
+<p>INACCEPTABLE.</p>
+
+<p>I guess they can always blame Alqaeda or something&#8230;</p>
+
+<p>DITCH GMAIL</p>
+
+<p>Lesson: always keep at least one alternative email if only as a backup</p>
+
+<p>DITCH GMAIL</p>
+
+<p>DITCH GMAIL</p>
+
+<p>DITCH GMAIL</p>
+
+<p class="posted">posted by erzzed
+ on December  2, 2006 <a href="#c28" rel="bookmark">#</a></p>
+</div>
+<div id="c36">
+<p>Dear Sir,</p>
+
+<p>Today my gmail account is disabled. my account is SRIKOTASTONE@GMAIL.COM.</p>
+
+<p>So we are requested please look in to matter and reply me ASAP.</p>
+
+<p>With regards,</p>
+
+<p>Pawan Gupta</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.srikotastone.com">Pawan Gupta</a>
+ on February 14, 2007 <a href="#c36" rel="bookmark">#</a></p>
+</div>
+<div id="c42">
+<p>So, my GMail account was working fine this morning. I logged back in about an hour later and it&#8217;s down. And it&#8217;s been down for about three hours now. Reading about accounts being down for days is worrying me. My university emails are all forwarded to my GMail account&#8230;seeing this is finals week&#8230;I&#8217;m a bit screwed?</p>
+
+<p>I hope Google takes care of it soon. Really soon.</p>
+
+<p class="posted">posted by Grace
+ on June  8, 2007 <a href="#c42" rel="bookmark">#</a></p>
+</div>
+<div id="c47">
+<p>If you use spamd/spamc for spamAssassin then it takes far less time to check the message as spam. GL!</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://betterlogic.com/roger">Roger Pack</a>
+ on August  1, 2007 <a href="#c47" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="gmaildown" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

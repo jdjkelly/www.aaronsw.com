@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Write Web Works With Me! (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Write Web Works With Me!</h1>
+
+<p>Are you a student? Looking for a summer job? Here&#8217;s the deal: We come up with an idea. You spend the summer implementing it. Google pays you $4500. The code gets released as free software. It&#8217;s called <a href="http://code.google.com/soc/">Summer of Code</a>.</p>
+
+<p>Me and others on the web.py mailing list have <a href="http://webpy.infogami.com/ideas">drawn up a list of potential project ideas</a>. My personal favorites are the stats package, where you implement a decent log analysis package for web applications; a task I think both exciting, not too hard, and long overdue, and &#8220;teh communicator&#8221;, where you use Ajax push to build a web app that combines the best features of IRC and mailing lists. But feel free to come up with your own if you think you have some good ideas. (Or ask me if you have questions about mine.)</p>
+
+<p>Once you&#8217;ve got something that seems appealing, <a href="http://groups.google.com/group/google-summer-of-code-announce/web/guide-to-the-gsoc-web-app-for-student-applicants">fill out the application form</a>. Describe the project you&#8217;re interested in working on and set the organization to &#8220;Python Software Foundation&#8221;. Then feel free to send me an email introducing yourself and letting me know about your application. Applications are due next week, so you might want to hurry.</p>
+
+<p>Once the applications are in, me and the other mentors will be looking through them and deciding which ones to accept. So it&#8217;s in your best interest to make the application sound compelling and you sound competent.</p>
+
+<p>And spread the word!</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">March 16, 2007</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>In terms of sounding competent, I think you meant to say, &#8220;the other mentors and I will be looking&#8230;.&#8221;.</p>
+
+<p class="posted">posted by Grammar Mom
+ on March 16, 2007 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>&#8220;Me and Bobby McGee&#8221;, &#8220;Me and Brother Bill Went Hunting&#8221;, etc.</p>
+
+<p>Prescriptionists beware: the phrase &#8220;me and &#8230;&#8221; stands as a valid form and relieves the &#8220;me&#8221; of its being required to be in subjective form - &#8220;me&#8221; is not the subject of the sentence, &#8220;me and the other mentors&#8221; is.</p>
+
+<p>BTW, why don&#8217;t you and Sean write the definitive editor for entries/edits of Wikipedia with all the little features (including accessibility) that will make it trivial for folks like me to participate more comfortably in the important job of &#8220;perfecting&#8221; the Wikipedia?</p>
+
+<p>Love.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.boobam.org">William Loughborough</a>
+ on March 16, 2007 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>&#8220;I&#8221; is the subject pronoun. &#8220;Me&#8221; is the object pronoun.</p>
+
+<p>http://data.grammarbook.com/blog/?p=15</p>
+
+<p class="posted">posted by Grammar Mom
+ on March 17, 2007 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>Hate to belabo(u)r this seemingly trivial point, but&#8230;</p>
+
+<p>Are language usage issues to be decided by prescription or description? Largely the latter, particularly since the rules of the former are acknowledgedly based on the latter!</p>
+
+<p>In the current brouhaha, the issue is whether the parts of a phrase used as a subject (&#8220;me and others on the web&#8221;) must, if pronouns, be of their &#8220;subject form&#8221;.</p>
+
+<p>Stragely enough, what &#8220;sounds right&#8221;, although heavily dependent on context, is most often the final deciding vote in this matter. It is quite clear (at least to me and I suppose most &#8220;descriptionists&#8221;) that &#8220;me and the other members will be looking&#8230;&#8221; has a more fitting &#8220;sound&#8221; in the current context than &#8220;I and the other&#8230;&#8221; - and the comma before &#8220;me and the other mentors&#8221; makes it clear and makes it &#8220;sound right&#8221;.</p>
+
+<p>Love.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.boobam.org">William Loughborough</a>
+ on March 17, 2007 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="soc2007" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

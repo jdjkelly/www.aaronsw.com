@@ -1,0 +1,83 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+  <title>How to Do Live Streaming</title>
+  <link rel="stylesheet" type="text/css" href="/style.css" />
+</head><body>
+
+<p><a href="/">Aaron Swartz</a><br />
+<a href="./">How to Do Stuff</a></p>
+
+<h1>How to Do Live Streaming</h1>
+
+<p>Hey, kids! Today we&#8217;re going to learn how to do audio streaming using only standard command-line tools. That&#8217;s right, you&#8217;ll never have to muck with any of those large monolithic lets-invent-a-standard products again!</p>
+
+<h2>Recording</h2>
+
+<p>We have to start by recording. (Of course, if you&#8217;re streaming a pre-recorded file, you can skip this step.) <code>esdrec</code>, part of the <code>esound</code> package, grabs the sound input and spits it out on the command line. (<code>esd</code>, the <code>esound</code> daemon, can be a little fussy, so you might have to <code>killall esd</code> and start <code>esd</code> in another window a couple times to get it to work.)</p>
+
+<p>Then we can pass the sound to our favorite encoder. If you want something popular, <code>lame</code> does a decent job of encoding to MP3. If you&#8217;re doing music, you might want to use Ogg Vorbis, here <code>oggenc</code> will work just fine. For voice, <a href="http://www.speex.org/">speex</a> (and <code>speexenc</code>) works pretty nicely. </p>
+
+<p>If you want to stream more than one format, feel free to set up additional sound pipes; <code>esdrec</code> can be run as many times as necessary.</p>
+
+<p>Finally, save the output to a file.</p>
+
+<p>When you&#8217;re done, you should have something that looks like:</p>
+
+<pre>esdrec | lame - - > archive.mp3</pre>
+
+<p>If the recording machine is different from the server, you&#8217;ll need something a little more complicated. Instead of saving to a file, you&#8217;ll want to pipe it thru ssh to a file on the server. (Depending on your situation, you might even want to pipe the raw stream to the server and do the compression there.) It&#8217;ll look like this:</p>
+
+<pre>esdrec | lame - - | ssh me@myserver sh -c "cat >> archive.mp3"</pre>
+
+<p>(The MP3 format is pretty forgiving, so if you get disconnected just run this command again and keep appending. Everything should work fine, although you&#8217;ll probably get a little skip where the connection cut out.)</p>
+
+<h2>The Server</h2>
+
+<h3>Publishing</h3>
+
+<p>Now let&#8217;s set up the server. If you just want to stream to yourself and other people with accounts on your server, you can use ssh. On the client, call:</p>
+
+<pre>ssh me@myserver [command here]</pre>
+
+<p>(We&#8217;ll cover the possible commands a little later.) </p>
+
+<p>If you want to publish the stream, you probably want the <a href="http://cr.yp.to/ucspi-tcp.html">ucspi-tcp</a> package, which will broadcast the stream on a specific port, say 9940:</p>
+
+<pre>tcpserver 0 9940 [command here]</pre>
+
+<p>(<code>0</code> is the IP to run it on, a special case meaning &#8216;the default IP&#8217;.) If you&#8217;re an encryption geek, you can use <a href="http://www.superscript.com/ucspi-ssl/intro.html">ucspi-ssl</a> and sslserver instead. (Run them the same way, though.)</p>
+
+<h3>Outputting</h3>
+
+<p>Now to discuss which [command here] to use. If you want the stream to start from the beginning, simply use <code>cat</code>, as in <code>cat archive.mp3</code>. If you want the stream to be pretty much live, you can use <code>tail -f archive.mp3</code> to provide a small buffer and then stream the file live. You might want to provide both, so that listeners can choose.</p>
+
+<h2>Playing</h2>
+
+<p>So now you&#8217;ve got the stream being served, how do you play it?</p>
+
+<h3>Downloading</h3>
+
+<p>If you&#8217;re using <code>tcpserver</code> or <code>sslserver</code> then you&#8217;ll need <code>mconnect</code> and <code>sslconnect</code>, respectively, on the client. Run them like so:</p>
+
+<pre>mconnect myserver 9940</pre>
+
+<h3>Playing</h3>
+
+<p>Now to play the stream, just send it thru a decoder and player, like <code>mpg123</code> for MP3s or <code>speexdec</code> for speex. (On a Mac, you might need a slightly more complicated system, piping speexdec to esdplay.)</p>
+
+<h2>Summary</h2>
+
+<p>So to wrap it all up, on the recoding machine, you&#8217;ve got:</p>
+
+<pre>esdrec | lame - - | ssh me@myserver sh -c "cat >> archive.mp3"</pre>
+
+<p>and on <code>myserver</code> there&#8217;s:</p>
+
+<pre>tcpserver 0 9940 tail -f archive.mp3</pre>
+
+<p>and on the client:</p>
+
+<pre>mconnect myserver 9940 | mpg123 -</pre>
+
+<p>Pretty simple, eh? When you&#8217;re done, just copy the resulting archive file over to a web server (or distribute it using <a href="http://bitconjurer.org/BitTorrent/">BitTorrent</a>) so people can listen to the event after it ends.</p>
+
+</body></html>

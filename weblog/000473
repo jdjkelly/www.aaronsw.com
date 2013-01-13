@@ -1,0 +1,49 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Reading in your Aggregator (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000472" title="Ethics By Analogy" />	<link rel="next" href="000474" title="Government Responds in Eldred v. Ashcroft" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Reading in your Aggregator</h1>
+</div>
+
+<div class="content">
+<p><a href="http://diveintomark.org/archives/2002/08/05.html#rss_feed_changes">Mark Pilgrim struggles with RSS feeds and aggregators</a>: &#8216;I don&#8217;t use my aggregator to <em>read</em> things; I use it to <em>find things to read</em>. I tried the whole &#8220;read everything in your aggregator&#8221; thing, and it depresses me. It reminds me of when I used to smoke, and everything tasted the same.&#8217;</p>
+
+<p>Odd, I completely disagree. Background: I&#8217;ve never smoked. I use my email client as my aggregator. I came to weblogs from mailing lists, where everything looks the same but you distinguish posters by style and tastes. I tend to only eat plain things and I&#8217;m constantly asked why I&#8217;m so boring and don&#8217;t try exciting new flavors. I enjoy the depth of flavors in the things that normal people would find plain or undistinguishable (microwaved bagels (drool!), pasta, rice, milk). I find Mark&#8217;s current website design unattractive and uncomfortable to read. </p>
+
+<p>Now here are some reasons I think that the full text should be included in the RSS feed: Pages take a while to load. When going through a lot of items, this kind of page loading and context switching can really slow things down. In my email client or desktop aggregator, I can read through the day&#8217;s news without having a live Internet connection. This makes me more productive.</p>
+
+<p>Now here&#8217;s a technical RSS 1.0 note: I suggest keeping excerpts the way they are now in the &lt;description> tag, but using the &lt;content:encoded> tag for a CDATA-encoded version of your HTML. This is what I do for <a href="http://www.aaronsw.com/weblog/index.xml">my own feed</a> (MT template available upon request). I would like this to be the default setting for MT and other blogging software.</p>
+
+<p class="posted">posted August 05, 2002 09:44 PM (<a class="category" href="cat_technology">Technology</a>)  <a href="000473" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000472" title="Ethics By Analogy">&laquo; prev</a> | <a href="./">up</a> | <a href="000474" title="Government Responds in Eldred v. Ashcroft">next &raquo;</a></p>
+
+<p><a href="000466">A Contrarian View of Open Source</a><br />
+<a href="000467">Janis Ian on Free Downloads</a><br />
+<a href="000468">MonkeyFist Week in Review</a><br />
+<a href="000470">Standards and the Law</a><br />
+<a href="000472">Ethics By Analogy</a><br />
+<strong>Reading in your Aggregator</strong><br />
+<a href="000474">Government Responds in Eldred v. Ashcroft</a><br />
+<a href="000475">Where&#8217;s Shakespeare?</a><br />
+<a href="000478">Blogging with the Big Boys</a><br />
+<a href="000483">Font Editor in Jaguar?</a><br />
+<a href="000485">we put the &#8220;FUN&#8221; in phonetic!</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

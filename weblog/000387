@@ -1,0 +1,47 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Today&#8217;s Hack: html2text Converter (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000385" title="Putting an End to ICANN" />	<link rel="next" href="000389" title="Debunking the Debunkers" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Today&#8217;s Hack: html2text Converter</h1>
+</div>
+
+<div class="content">
+<p>My new <a href="http://www.aaronsw.com/2002/html2text">html2text Converter</a> (<a href="http://www.aaronsw.com/2002/html2text.py">Python source</a>) will convert any HTML web page into <a href="http://www.aaronsw.com/2002/html2text?url=http%3A%2F%2Fwww.aaronsw.com%2Fweblog%2F">gloriously plain ASCII text</a>.<form action="http://www.aaronsw.com/2002/html2text" method="GET"></p>
+
+<p><strong>URI:</strong> <input type="text" name="url" /> <input type="submit" value="Go" /></p>
+
+<p>Well, enjoy. Comments and patches appreciated as usual.</form></p>
+
+<p class="posted">posted July 02, 2002 08:12 PM (<a class="category" href="cat_technology">Technology</a>)  <a href="000387" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000385" title="Putting an End to ICANN">&laquo; prev</a> | <a href="./">up</a> | <a href="000389" title="Debunking the Debunkers">next &raquo;</a></p>
+
+<p><a href="000380">Web Roundup</a><br />
+<a href="000381">Introducing web.resource.org</a><br />
+<a href="000382">Introducing Memesh</a><br />
+<a href="000383">Recursive Blogging</a><br />
+<a href="000385">Putting an End to ICANN</a><br />
+<strong>Today&#8217;s Hack: html2text Converter</strong><br />
+<a href="000389">Debunking the Debunkers</a><br />
+<a href="000390">Reevaluating Copyright</a><br />
+<a href="000393">Freedom, Independence</a><br />
+<a href="000394">today&#8217;s featured superhero: Brad Templeton</a><br />
+<a href="000397">Sloganeering</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

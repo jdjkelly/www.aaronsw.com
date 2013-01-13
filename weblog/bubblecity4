@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Bubble City: Chapter 4 (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Bubble City: Chapter 4</h1>
+
+<p>&#8220;How&#8217;s it going, kiddo?&#8221; They&#8217;d already gotten to kiddo? Jason tried to blend in with his chair. &#8220;Helllo, kiddo? You in there?&#8221; Trent slapped him on the back of the head. Jason felt a sharp pain and decided to give up on the ruse. &#8220;Uh, yes, sir. Or at least I have been for the past couple decades.&#8221; &#8220;Ahh, a kidder. Love that.&#8221;</p>
+
+<p>&#8220;Anyway, just wanted to check in, see how you were doing, all that good boss stuff, you know?&#8221; &#8220;Ah, of course, sir. Everything&#8217;s going great. The, uh, other team members&#8221;&#8212;he looked at Sarah&#8212;&#8220;have been really helpful and, uh, yeah, just everything is going really well, I guess.&#8221; &#8220;Glad to hear it,&#8221; Trent said.</p>
+
+<p>&#8220;You know,&#8221; Trent said, before pausing a moment to look around Jason&#8217;s desk, &#8220;uh, Jason, that Newsflip isn&#8217;t just another one of those startups out to make a quick buck. We have a noble mission. For decades, people have gotten their news from a handful of conglomerates who&#8217;ve bought each other up so many times that they can&#8217;t tell their CEO from their HR department. And news is important. Without the news, you wouldn&#8217;t have any idea who won the latest sports game or why we&#8217;re invading Iran.&#8221; &#8220;We&#8217;re invading Iran again?&#8221; Jason asked. &#8220;Anyway, I just want you to know that this is a company that makes a difference.&#8221; &#8220;I see, so we&#8217;re a company that&#8217;s out for a quick buck while thinking we&#8217;re helping the world.&#8221; &#8220;Exactly,&#8221; Trent said. &#8220;Anyway, I&#8217;ve got another dozen meetings, so I better head off, but just give me a ring if you need me.&#8221; &#8220;Of course,&#8221; Jason said.</p>
+
+<p>Jason went back to his screen and decided to actually read through Newsflip to see this great new democratizing force, telling people about the reasons we were invading Iran. The top 5? &#8220;Waking Up During Surgery&#8221;, &#8220;It&#8217;s Official: Tom Cruise Has Sucked the Life out of Katie Holmes&#8221;, &#8220;Excited Pug Pees on Cameraman&#8221;, &#8220;5 Stupid Things You Said to Her&#8221;, and &#8220;Can Medical Marijuana Cost You Your Kid?&#8221; Jason sighed.</p>
+
+<p>Jason thought of himself as a rather sophisticated person, but
+Newsflip&#8217;s recommender certainly didn&#8217;t seem to think so. He wondered
+how many other people got the same sort of treatment. So he opened up
+a raw connection to the database and did a query. Tens of thousands of
+people were seeing the story about dogs peeing. Odd, he thought.</p>
+
+<p>He needed someone to bounce things off of, so he called the best
+person he knew for that sort of thing: Eric. Eric was brilliant. In
+the first bubble, he&#8217;d made millions as a teenager who&#8217;d managed to
+persuade some VCs to let him run a web news company. But the
+experience had burned him out badly and now he mostly slunk around his
+apartment in San Francisco and watched TV. Still, he knew this stuff
+better than anyone. Jason gave him a call.</p>
+
+<p>&#8220;Hey, Eric, you got a moment?&#8221; &#8220;Yeah, not like I&#8217;m doing anything
+else.&#8221; &#8220;You ever read Newsflip?&#8221; &#8220;Look, Jason, I love you and all, but
+I&#8217;m not going to start using some website just because you work there.
+The news is a complete waste of ti&#8212;&#8221; &#8220;Yeah, yeah, I know. I read your
+blog, dude.&#8221; &#8220;Really? I didn&#8217;t think anyone did.&#8221; &#8220;Oh, geez, you&#8217;re
+the top&#8212;anyway, can you just go there for a minute and point it at
+your del.icio.us page to generate some recommendations.&#8221; &#8220;Yeah, uh,
+OK.&#8221; Jason heard some sounds of typing and sighing thru the phone.
+&#8220;Alright, here we go: 25 stories. Yeah, this stuff is total crap. Dogs
+peeing on people and that sort of thing.&#8221;</p>
+
+<p>OK, now Jason was suspicious. Eric was just about the last person on
+Earth who ought to be recommended that story. &#8220;God, Jason. What do you
+train this thing with? It&#8217;s <em>terrible</em>. What the hell algorithm is it
+running anyway?&#8221; &#8220;That&#8217;s what I&#8217;m trying to figure out. Mind if I
+swing by your place?&#8221; &#8220;Not really; you might, though.&#8221; &#8220;See you in
+fifteen.&#8221;</p>
+
+<p>Jason packed up his laptop, ran down the stairs, and biked over to
+Eric&#8217;s apartment in the Western Addition. Eric answered the door
+almost before Jason had knocked. Inside was a den of total filth:
+clothes strewn everywhere, pizza boxes piled high, no outside light
+coming in, and little inside light turned on. Jason hugged the wall to
+make sure he didn&#8217;t run into anything. &#8220;Take a seat on the couch,&#8221;
+Eric said, gesturing to a pile of crap in the corner. Jason tried to
+dig through it to clear a space big enough for his butt.</p>
+
+<p>&#8220;OK, so I&#8217;ve got the code on here that generates this stuff. Mind
+looking thru it on here with me?&#8221; &#8220;Yeah, why not?&#8221; Eric said, clearing
+off a similar space for himself. &#8220;Maybe it&#8217;s a bug in the renderer;
+it&#8217;s rendering the same recommendations for everyone.&#8221; &#8220;Nah, can&#8217;t be
+&#8212; the recommendations are actually in the database. They&#8217;re
+definitely getting spit out by the recommender.&#8221;</p>
+
+<p>&#8220;Well, is the recommender just generating the same stuff for
+everyone?&#8221; &#8220;Nah, can&#8217;t be. People would have noticed that.&#8221; &#8220;People
+are more alike than you&#8217;d expect. Check.&#8221; So Jason ran a few queries
+to see. &#8220;Nope, there&#8217;s definitely variance in what people are getting
+recommended.&#8221;</p>
+
+<p>&#8220;Hmm,&#8221; Eric said. &#8220;Well, maybe the recommender you&#8217;re using just
+sucks.&#8221; &#8220;No way,&#8221; Jason said. &#8220;We&#8217;re using NNA. It&#8217;s state of the art.
+All the big guys use it &#8212; Google News, Yahoo, even the new NYTimes
+redesign.&#8221; Eric laughed. &#8220;State of the art? That piece of cruft hasn&#8217;t
+been touched since the Bad Old Days. Isn&#8217;t there some new thing
+everyone is switching to?&#8221; &#8220;I don&#8217;t know; you obviously follow this
+stuff more than I do.&#8221;</p>
+
+<p>&#8220;So why don&#8217;t you just upgrade it to the new stuff.&#8221; &#8220;Yeah, I guess
+that&#8217;s a good idea. I&#8217;ll talk to the guys,&#8221; he said. &#8220;Oh wait &#8212; I
+just remembered. We tried that and Wayne Darnis threw this total
+shitstorm. You should have seen the place &#8212; it was crazy. No way
+they&#8217;re doing that again.&#8221;</p>
+
+<p>&#8220;Well, let&#8217;s open up NNA and take a look at it,&#8221; Eric suggested. &#8220;I&#8217;m
+sure it&#8217;s a morass, but I can&#8217;t think of anything else to do.&#8221; &#8220;Fine,&#8221;
+said Jason, pulling it up. Eric was right. They scrolled through it,
+but couldn&#8217;t make heads or tails of it. Things had been patched and
+repatched so many times that it might as well have been written in
+INTERCAL. But Jason scrolled thru it as best he can, trying to see if
+he could see something.</p>
+
+<p>&#8220;Wait!&#8221; Eric shouted. &#8220;Go back. What the hell is that?&#8221; Eric pointed
+to a block of numbers on the screen, sticking out from the rest of the
+program like a sore thumb. &#8220;I dunno, I assumed it was just some
+constants,&#8221; Jason said defensively. &#8220;Who the hell has a page of
+one-byte constants in the middle of their program?&#8221;</p>
+
+<p>Eric looked closer. &#8220;Oh my god, these aren&#8217;t constants. These are
+S-boxes!&#8221; &#8220;Huh?&#8221; Jason said. &#8220;S-boxes! You never heard about those?&#8221;
+&#8220;No,&#8221; Jason said, again annoyed at Eric&#8217;s habit of assuming everyone
+had his encyclopedic knowledge for odd details. &#8220;Back in the bad old
+days of encryption, IBM or someone came up with this algorithm called
+DES &#8212; Data Encryption Standard.</p>
+
+<p>&#8220;NIST, the government standards body, ratified it and it went on to be
+the standard encryption algorithm used in banks and computers and all
+that stuff. But right before the government ratified it, they sent it
+to the NSA &#8212; you know, the spy organization that hires up all the top
+math students to break encryption algorithms so they can better tap
+everyone&#8217;s phones &#8212; for final approval.</p>
+
+<p>&#8220;The NSA said they liked it but they just had one little change. And
+they fiddled with these things called the S-boxes &#8212; big lists of
+numbers that your message was run through as it was encrypted. The NSA
+claimed they just were helping make sure the S-boxes were as secure as
+possible, but they never explained how or why they picked the numbers
+they did. So, although it&#8217;s never been proven, a lot of people assume
+the S-boxes are the NSA&#8217;s backdoor into the private conversations of
+DES users &#8212; that there&#8217;s something about the S-boxes that makes it
+easy for them to decrypt people&#8217;s messages.&#8221;</p>
+
+<p>&#8220;What are you saying, Eric? That someone put a backdoor into NNA?&#8221;
+&#8220;Hey, I&#8217;m not saying anything. I mean, I&#8217;m sure there were perfectly
+good reasons that DES needed S-boxes; it&#8217;s just that the NSA got to
+choose them that was suspicious. Maybe the same thing is true with
+NNA; maybe there&#8217;s some good reason it needs S-boxes, although nothing
+springs to mind.&#8221;</p>
+
+<p>&#8220;But how would a backdoor in this program even work? It doesn&#8217;t talk
+to the network; it just gets stories in and pushes recommendations
+out. Am I supposed to believe that buried within these numbers are
+some secret rules to always elevate stories about dogs peeing?&#8221;</p>
+
+<p>&#8220;No, of course not,&#8221; Eric said. &#8220;Think about it: it&#8217;s the perfect
+system. The recommender doesn&#8217;t talk to the network itself, of course,
+but it gets fed tons of data from crawlers which, all the time, are
+scouring the Net for various pages and dumping some facts about them
+into the recommender. The recommender could just keep an eye out for
+page patterns which match the S-boxes and use those as its
+instructions.&#8221;</p>
+
+<p>&#8220;God, you&#8217;re right! That&#8217;s brilliant. And it would be almost
+impossible to trace, because any one of a million pages on the Web
+could have set it off.&#8221; &#8220;Precisely,&#8221; Eric said. &#8220;So you&#8217;re saying some
+guy out has a series of pages that encode secret orders, telling all
+the world&#8217;s news sites to feature stories about dogs peeing?&#8221; &#8220;No, no,
+no, not at all. That would be irresponsible. I&#8217;m just saying it&#8217;s
+possible.&#8221; Eric paused. &#8220;Anyway,&#8221; he continued, &#8220;if he was smart it
+wouldn&#8217;t be a series of pages &#8212; that&#8217;s too traceable. He&#8217;d just use
+Tor or some sort of anonymizing proxy to send the messages by voting
+through some dummy account on del.icio.us or something like that. It&#8217;d
+be impossible to trace.&#8221;</p>
+
+<p>&#8220;This is all just speculation, of course. We have no more evidence of
+it than a bunch of funny numbers in a poorly-written computer
+program,&#8221; Eric quickly added. &#8220;Yes, but it&#8217;s so perfect&#8212;so devilishly
+clever. Hey, hang on a minute. My phone&#8217;s ringing.&#8221; Jason didn&#8217;t
+realize how oppressive Eric&#8217;s apartment was until he left the heavy
+putrid air to answer the phone outside. &#8220;Hello?&#8221; he said. &#8220;Jason, you
+need to come home,&#8221; said the man on the other end of the line.</p>
+
+<p><em>Tomorrow:</em> <a href="bubblecity5">Chapter Five</a></p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">November  6, 2007</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="bubblecity4" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

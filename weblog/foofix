@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Improving the Foo Camp Format (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Improving the Foo Camp Format</h1>
+
+<p>I&#8217;ve been to several Foo Camps now and always the system has been identical: Get a bunch of meeting rooms of varying sizes. Invite a bunch of the top people you know of in the field. Have them write the schedule.</p>
+
+<p>When you first arrive, Tim meets and greets at the door, his associates behind him ask for your name and give you a badge and a t-shirt and a short form to fill out. The form has your name on it and asks a few questions about what you do and who they should invite next year and that sort of thing. Then they take your photo and print it onto the top of the form and put all the forms up on the wall in a huge display that you have to be pretty tall to see all of.</p>
+
+<p>You mingle as everyone arrives and then you all cram into a big meeting room. Tim and his compatriots give an opening address welcoming you to the conference and explaining the format. Then everyone (all 300 people or so!) stand up and say their name, affiliation, and three words to describe themselves (usually going over). Sometimes people shout talk when they think the person should give a talk. Then Tim says a few more words and they wheel out huge paper foam boards with the schedule outline printed on them. It lists the name of the room and the number of people it approximately holds at the top and the session times on the side. Then Tim says go and there&#8217;s a mad scramble to the boards with people pushing each other out of the way to write down their preferred session.</p>
+
+<p>This always struck me as a bit silly for a computer company. The people I most want to hear &#8212; like aging James Randi &#8212; can&#8217;t exactly push their way to the front of the crowd. And the people who are convinced that their topic is the most important for everyone to go to are usually deathly boring.</p>
+
+<p>How would I do it? First, I would put a few words of description on people&#8217;s badges and wall-cards. Second, I would put the wall-cards online. (They&#8217;re digital photos anyway.) Third, during the name introductions I&#8217;d point a video camera at the person introducing themselves and project it onto the big screen up front so that people don&#8217;t flip around their chairs and crane to see.</p>
+
+<p>But the main thing I&#8217;d do is make people pitch for their sessions. There are a bunch of different ways to do this, but the one I like best at the moment (and thus the one I&#8217;d try first) is to hand out PRS devices to the audience (these are little hand-held gadgets that send an IR pulse to a computer at the front of the room recording a vote on something) and then have all the people who want to hold a session form a line going towards the back of the room. Each person in the line gets 30 seconds to pitch their session. If people like it, they press a button on the PRS and their vote gets recorded. After the pitch, someone enters the presenter name, the session name, and the estimated length into the computer recording the votes. (If someone in the line wants to hold a similar session, they can consult with the person pitching and merge things.)</p>
+
+<p>Once every session has been pitched, the computer does a constraint optimization problem to schedule only the most popular sessions in timeslots with the least conflicts (the computer knows if a person wants to see both James Randi and Eugenie Scott, so it can try to avoid having them speak at the same time) and place them in rooms with the appropriate amount of space. This schedule is printed up and placed on the website, maybe with a few spots reserved for last-minute changes, and this is what people follow.</p>
+
+<p>Aside from being a really sexy use of constraint optimization, this solves a lot of problems: people get a little taste of every session, the most interesting sessions are scheduled, conflicts (wanting to see two sessions that are scheduled to the same time) are minimized, rooms are allocated by audience size instead of by ego size. If you want, you can even print up a schedule for each participant, with the computer telling them which is the session they liked most at every timeslot.</p>
+
+<p>Buying <a href="http://en.wikipedia.org/wiki/Audience_response">a bunch of PRSs</a> can&#8217;t be that expensive &#8212; for comparison, Google purchased two nights at a hotel for every guest &#8212; and you can reuse them every year. If giving people a chance to pitch their sessions takes too long, you can have them submit a one paragraph description to a web site and let people vote on the web site. If this requires too many attendees have laptops with them, you can have them do this before the conference. But that requires more foresight than I expect the average attendee has, which is why I like the PRS system. I&#8217;m not sure why O&#8217;Reilly sticks to paper.</p>
+
+<p><strong>Update:</strong> By email, <a href="http://thesecomefromtrees.blogspot.com/">Peter Kazanjy</a> suggests another variation: have people write their session ideas up on cards, put the cards on the wall, then have everyone make a mark on their top five ideas, then schedule the cards and rooms based on how many marks they have.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">August  5, 2007</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>I&#8217;ve been on the outside looking in for a while on this foo stuff, and it&#8217;s interesting to see an analysis on the format.  Thanks.</p>
+
+<p>However, this post also illustrates a frustration a wanna-be like myself has with foo:</p>
+
+<p>Folks like yourself come out with perspectives on it, and it seems like nifty topics are bandied about, but I have no sense of what actually happens there and what it leads to.</p>
+
+<p>Which is just a horrible tease.</p>
+
+<p>At the same time I guess I see the point in losing dead weight like myself so the Illuminati can proceed forward with changing the world unhindered by the world that&#8217;s to be changed.</p>
+
+<p>So here&#8217;s a solution (if you agree it&#8217;s a problem).<br />
+ It&#8217;s quite similar to your PRS idea.</p>
+
+<p>Have you ever seen Ken Goldberg&#8217;s tele-robot dealio?</p>
+
+<p>http://www.coe.berkeley.edu/forefront/fall02/telerobot.html</p>
+
+<p>Essentially it&#8217;s a real-time choose-your-own-adventure style tour mashed with instant voting.  In all of Goldberg&#8217;s demos at berkeley there were two actors, an attractive man and woman, dressed in skin tight suits all cyborged up with cameras and what not just walking around interacting with people, and they would be fed lines and instructions by some unruly mob on the net.</p>
+
+<p>O&#8217;Reilly should have a few of these folks touring the Foo scene.  This would give us a tour bus through Foo in real time, which would be really cool, and you wouldn&#8217;t even have to smell our cheeto breath.</p>
+
+<p>Thoughts?</p>
+
+<p>Regarding your PRS idea: if you want help implementing it with sensor networks (roughly 30 to 50 bucks a head), as opposed to IR, I&#8217;d be more than happy to lend a hand.  Hell, it may actually get me an invite.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://dansteingart.com">Dan </a>
+ on August  5, 2007 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>Sounds like a great thing to try out at a BarCamp or two, where you could likely use laptops or sms to vote. Wnat to hack something up for BarCampBlock?</p>
+
+<p>http://barcamp.org/BarCampBlock</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://epeus.blogspot.com">Kevin Marks</a>
+ on August  6, 2007 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>The beauty of Sci Foo is the blend of chance and democracy.  It is true Brownian motion of thoughtful people picked by the organizers.  It seems the meeting is intended to force unscheduled or unintended meetings and associations by people. The Organizers have been careful to select participants &#8212; we should trust them.</p>
+
+<p>By labeling everybody with their affiliations &#8212; Harvard this, or Microsoft that &#8212; you introduce an unnecessary filter.  The corporates will go to their sessions and the academics will flock together, etc.  There are lots of meetings like that.</p>
+
+<p>I doubt every book Aaron has read was a masterpiece but I hope that every book he has read was instructive in some way and perhaps in an unexpected way.</p>
+
+<p class="posted">posted by Hugh Rienhoff
+ on August  6, 2007 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>Cool idea - Dan, Aaron, do you want to try this out at BarCampBlock? If you have time to hack something together before August 18, it&#8217;s coming up soon!</p>
+
+<p>If you want to give it a try, write it up on the wiki - http://barcamp.org/BarCampBlock</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://liz-henry.blogspot.com">Liz Henry</a>
+ on August  6, 2007 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>The Foo audience repeatedly voted against letting outsiders have any form of access &#8212; video, audio, or textual.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on August  6, 2007 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c6">
+<p>Aaron,</p>
+
+<p>I think you&#8217;ve proposed a great idea and also offered an excellent example; I just had the pleasure of hearing Mr. Randi speak this morning, in fact :).</p>
+
+<p>It&#8217;s not just the issue of physically pushing to the front, by the way, but the way that the current system rewards assertiveness, even aggressiveness and demotes the more humble.  Unfair and unfortunate all &#8216;round.</p>
+
+<p>I haven&#8217;t attended Foo and probably won&#8217;t be invited to do so anytime soon, but I hope the Foo organizers respect and implement your idea.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www,bladam.com/">Adam</a>
+ on August  7, 2007 <a href="#c6" rel="bookmark">#</a></p>
+</div>
+<div id="c26">
+<p><a href="http://ezagraphe.gumoz.com" rel="nofollow">ezagraphe</a> <a href="http://video-de-jennifer-lopez-folla.gumoz.com" rel="nofollow">video de jennifer lopez follando</a> <a href="http://pergnant-girls-porn.gumoz.com" rel="nofollow">pergnant girls porn</a> <a href="http://jyfuzahabo.gumoz.com" rel="nofollow">Нормы бесплатной выдачи спецодежды спецобуви в строительстве</a> <a href="http://ridingboots-uk.gumoz.com" rel="nofollow">Ridingboots uk</a> <a href="http://bord-examination-test-f.gumoz.com" rel="nofollow">bord examination test for contractors state california com</a> <a href="http://gevecusoma.gumoz.com" rel="nofollow">Саша Балакирева-тексты</a> <a href="http://asus-p4800s-x-sound-dri.gumoz.com" rel="nofollow">asus p4800s-x sound driver download mss</a> <a href="http://monica-geller-s-bridesmaids-dr.gumoz.com" rel="nofollow">monica geller s bridesmaids dresses maker</a> <a href="http://plantyfish.gumoz.com" rel="nofollow">plantyfish</a></p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://rottorn-com.gumoz.com">Sandra-aw</a>
+ on August 11, 2007 <a href="#c26" rel="bookmark">#</a></p>
+</div>
+<div id="c34">
+<blockquote>
+  <p>Peter Kazanjy suggests another variation:
+  have people write their session ideas up
+  on cards, put the cards on the wall, then
+  have everyone make a mark on their top five
+  ideas, then schedule the cards and rooms
+  based on how many marks they have.</p>
+</blockquote>
+
+<p>Hmm, that&#8217;s about how we did it at Barcamp Nuremberg last year. Worked OK. But it was below 100 people. We also &#8220;pre-voted&#8221; for session interest by raising hands. Even less expensive than the gadget, but admittedly we still had to spent some minutes moving around the yellow notes on the whiteboard.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://blogoscoped.com">Philipp Lenssen</a>
+ on August 13, 2007 <a href="#c34" rel="bookmark">#</a></p>
+</div>
+<div id="c36">
+<p>gettin&#8217; kinda spammy around here. maybe time to tidy up a bit.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.w3.org/People/Connolly/">Dan Connolly</a>
+ on August 23, 2007 <a href="#c36" rel="bookmark">#</a></p>
+</div>
+<div id="c37">
+<p>Session voting and optimization is a fine idea. As mentioned in a previous comment, using SMS may be an inexpensive and easy way to go.</p>
+
+<p>I would like to see such meetings have some sort of loose goal (perhaps create one or more once the group is assembled). Again, pitches and quiet expressions of interest may help.</p>
+
+<p>Offering suggestions for subsequent year invitees may be better toward the middle of the meeting instead of the beginning.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://spatial.ucsb.edu">Alan</a>
+ on September 14, 2007 <a href="#c37" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="foofix" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

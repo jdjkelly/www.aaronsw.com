@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Apple and the Kindle (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Apple and the Kindle</h1>
+
+<p>The Amazon Kindle is full of all sorts of amazing, delightful touches &#8212; the sort of thing you&#8217;d expect from an Apple product. For example, when you first take your Kindle out of its (gorgeous!) box, it boots right up knowing your name and logged into your account. This is actually out-Apple-ing Apple: it&#8217;s possible because Amazon not only controls the hardware and the software, but the entire distribution channel; they know exactly who is going to get each Kindle.</p>
+
+<p>And think about how the original Kindle came with a <em>lifetime</em> <em>unlimited</em> <em>worldwide</em> data plan. Imagine how much that must have cost! All so that you never had to think about syncing again: your Kindle was automatically synced, no matter where it was in the world.</p>
+
+<p>Bezos must have spent tons of energy getting this stuff right. And he must be sitting there, pissed, that Steve Jobs gets all these laurels while no one ever recognizes the stuff he&#8217;s done. But I don&#8217;t think that&#8217;s because Jobs is a better marketer and showman than Bezos (that&#8217;s the easy way out); it&#8217;s because the small details that delight get buried under small details that annoy.</p>
+
+<p>For example, if you download a sample of a book and get to the end and decide to purchase the whole thing, the sample doesn&#8217;t expand to download the remainder of the book &#8212; instead the full book downloads completely separately and you have to manually copy over all your highlights and annotations to the full one. (You can&#8217;t just keep them in the sample because sample&#8217;s don&#8217;t even sync; you have to download a sample manually to each of your devices and hand-synchronize the page numbers.)</p>
+
+<p>Or (and this is incredibly aggravating) when you select a word in the Kindle, depending on how common a word it is, the option that comes up highlighted by default is either &#8220;full definition&#8221; or &#8220;start highlight&#8221;. Since e-ink&#8217;s refresh rate is so slow, you typically don&#8217;t see what&#8217;s actually come up until you&#8217;ve pressed the button for the second time. So I often &#8220;double click&#8221; on words to highlight them, but some percentage of the time this kicks me over into the dictionary and I have to hit back twice to get out.</p>
+
+<p>And this is all before I&#8217;ve even got to the disastrous incompatibilities between the Kindle device, the Kindle for Mac app, the Kindle for iOS app, the Kindle Online Reader (read.amazon.com), and the kindle.amazon.com social network &#8212; all of which are full of gruesome interface annoyances of their own.</p>
+
+<p>That&#8217;s the thing about delightful details: they&#8217;re not just another thing you can add on top. Unless you sweat the details all the way through the user experience, the ones that delight quickly get drowned out by the ones that constantly annoy. I hope someone at Amazon will take that to heart.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">November  3, 2011</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>The original Kindle did not come with a &#8220;free lifetime unlimited worldwide data plan&#8221;. Syncing in Canada was something like one dollar per book.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://lemire.me/en/">Daniel Lemire</a>
+ on November  3, 2011 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>I couldn&#8217;t agree with you more on this, Aaron. As iTunes continues to become even more of a juggernaut it will be interesting to see if the Apple content experience continues to be as seamless and intuitive as possible.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://manifestbozeman.com">Philip Downer</a>
+ on November  3, 2011 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>Oh man music to my ears, that “full definition” or “start highlight” issue is honestly beyond belief but the device is full of such issues. As you say its useless having beautiful hardware and a great package if the software is so frustrating to use.</p>
+
+<p>I&#8217;m hopeful Apple will bring out an e-reader or somehow add that functionality to an update to one of their devices (assuming the dual mode screens exist by then). They&#8217;re already ahead of the game in terms of iCloud, e.g. if I buy a book from the publisher and import it into my iPod and iPad then highlights synch between the two&#8230;</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://colinjack.blogspot.com">Colin Jack</a>
+ on November  3, 2011 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>My small annoyance with the Kindle is when I haven&#8217;t picked it up in a while, and I try to scroll the page by dragging my finger across the screen. I guess I subconsciously expect anything flat and smaller than a laptop to behave somewhat like my phone.</p>
+
+<p class="posted">posted by cmars
+ on November  3, 2011 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c6">
+<p>I work within Amazon and I&#8217;ll make sure this message is passed along to someone who can do something about it.</p>
+
+<p class="posted">posted by Random Amazonian
+ on November  3, 2011 <a href="#c6" rel="bookmark">#</a></p>
+</div>
+<div id="c7">
+<p>Thanks. I have other complaints if you want them. :-) Email me@aaronsw.com.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on November  3, 2011 <a href="#c7" rel="bookmark">#</a></p>
+</div>
+<div id="c8">
+<p>I think the main difference is that the Kindle used a bunch of old products repackaged in a new format, instead of improving that format. The original ebook standard for the Kindle was based on a Palm reading format. It sucked then and it sucks now for formatting (lots of little things, like having to manually put in hard right spaces to get the paragraphs to format correctly etc&#8230;) which costs money and time to fix. I&#8217;m extremely interested to see how the new format works out, except of course, its incompatible with all the earlier Kindles, and everything currently shipping except the Kindle Fire. A bit disappointing that.</p>
+
+<p>One other point. If you can afford to spend as much money as Amazon is spending on this (and it includes trying to do what&#8217;s happened in classified ads in print, turn a multibillion industry into  in a multimillion industry to the content providers, publishers in this instance, whose profits are failing because Amazon is forcing the cost to the user to a unsustainable level), it better work.</p>
+
+<p class="posted">posted by Paul
+ on November  3, 2011 <a href="#c8" rel="bookmark">#</a></p>
+</div>
+<div id="c9">
+<p>I&#8217;ve had the Kindle for over half a year and I couldn&#8217;t be more pleased with it.  I do agree that the not tying together of the sample and the full download is a bit annoying.</p>
+
+<p class="posted">posted by Emile Baizel
+ on November  4, 2011 <a href="#c9" rel="bookmark">#</a></p>
+</div>
+<div id="c10">
+<p>&#8220;except of course, it&#8217;s incompatible with all the earlier Kindles, and everything currently shipping except the Kindle Fire.&#8221;</p>
+
+<p>I believe they announced that the latest generation of Kindles would also get support for the new format.l</p>
+
+<p class="posted">posted by Matthew Wilson
+ on November  4, 2011 <a href="#c10" rel="bookmark">#</a></p>
+</div>
+<div id="c11">
+<p>What I am missing most about the Kindle (especially in comparison to Apple products) is the dedication to great typography! I mean - this is a dedicated e-READER - why doesn&#8217;t Amazon spend a few millions on getting typography right - e.g ligatures.
+I don&#8217;t get it - in this regards it&#8217;s well behind Apple.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://readbeam.com/">Tom</a>
+ on November  4, 2011 <a href="#c11" rel="bookmark">#</a></p>
+</div>
+<div id="c13">
+<p>I have been pleased with all my Apple and Kindle products, and have found annoyances in both. I do wonder about the comment about Amazon harming comment providers. If they can print and ship a product and sell it for $12 at a profit, why can&#8217;t they sell it electronically for $9 and still make money. I know that printing is a small part of the cost, but eliminating shipping and inventory risk has got to be significant. The industry has hardly changed since Gutenberg.</p>
+
+<p>Don&#8217;t get me started on audio books, which have zero marginal cost.</p>
+
+<p class="posted">posted by Brock
+ on November  4, 2011 <a href="#c13" rel="bookmark">#</a></p>
+</div>
+<div id="c14">
+<p>Or &#8220;clicking on an endnote marker takes you to the endnotes, which then become the &#8216;latest read position&#8217; in the book, making sync worse than useless.&#8221;</p>
+
+<p class="posted">posted by rsc
+ on November  4, 2011 <a href="#c14" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="kindledetails" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

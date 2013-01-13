@@ -1,0 +1,45 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>The Last Straw (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/000591.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000588" title="Wayback Machine Adds Diff" />	<link rel="next" href="000593" title="Santa Cruz Hands out Marijuana at City Hall" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>The Last Straw</h1>
+</div>
+
+<div class="content">
+<p><a href="http://www.freesoftware.fsf.org/straw/">Straw</a> is &#8220;the GNOME 2 desktop news aggregator&#8221; and functions very much like <a href="http://ranchero.com/software/netnewswire/">NetNewsWire</a>. It uses some of Mark Pilgrim&#8217;s great little RSS tools (rssparser, rssfinder, etc.) and BerkeleyDB for storage. Linux, Python, GPL. Nice!</p>
+
+<p>I love apps like this that take all the pieces lying around and glue them together.</p>
+
+<p class="posted">posted September 13, 2002 12:53 AM (<a class="category" href="cat_technology">Technology</a>)  <a href="000591" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000588" title="Wayback Machine Adds Diff">&laquo; prev</a> | <a href="./">up</a> | <a href="000593" title="Santa Cruz Hands out Marijuana at City Hall">next &raquo;</a></p>
+
+<p><a href="000579">iCal!</a><br />
+<a href="000582">RSS 3.0 Update</a><br />
+<a href="000585">More Crazy Haxies</a><br />
+<a href="000587">CodeCon 2003</a><br />
+<a href="000588">Wayback Machine Adds Diff</a><br />
+<strong>The Last Straw</strong><br />
+<a href="000593">Santa Cruz Hands out Marijuana at City Hall</a><br />
+<a href="000594">More Myopia</a><br />
+<a href="000596">Kragen Explains the Sunlight Effect</a><br />
+<a href="000598">Apple Expo Paris News</a><br />
+<a href="000600">Hack Yo&#8217; Mac</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

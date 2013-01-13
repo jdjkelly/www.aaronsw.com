@@ -1,0 +1,35 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+  <title>Small Caps Test</title>
+  <link rel="stylesheet" type="text/css" href="/style.css" />
+  <style type="text/css">.c { font-size: 14pt; }</style>
+</head>
+<body>
+<div id="banner">
+  <h1>Small Caps Test</h1>
+</div>
+<div class="content">
+<p>Here's what it should look like:</p>
+<img src="smallCaps-pic" />
+<p>Here's what it does look like:</p>
+<p style='font-size: 14pt; font-family: "Big Caslon"; margin-left: 12px'>
+<span style="font-variant: small-caps;">Real Small Caps</span><br />
+<span style="font-size: 11pt;"><span class="c">F</span>AKE <span class="c">S</span>MALL <span class="c">C</span>APS</span>
+</p>
+
+<p>(Real Small Caps use the small capitals glyphs from the font, which are usually sharper and differently-proportioned.)</p>
+
+<h2>Results</h2>
+<p>
+Safari v64 capitalizes nothing.<br />
+Safari v62 capitalizes everything.<br />
+Safari v60 capitalizes nothing.<br />
+OmniWeb 4.1 capitalizes nothing.<br />
+Chimera 2002-02-12 uses Fake.<br />
+IE 5.1 uses Fake.
+</p>
+</div>
+<div class="footer">
+  <address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</div></body>
+</html>

@@ -1,0 +1,156 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Home Again (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001558.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001557" title="Stanford: Thursday, December 9" />	<link rel="next" href="001559" title="Home: Life and Love" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Home Again</h1>
+</div>
+
+<div class="content">
+<p class="dateline">Highland Park, Illinois &#8212; December 16, 2004</p>
+
+<p>At home my days merge into the whiteish undifferentiated blur that made up much of my life before I left for Stanford. I live inside a largely-white room, looking at the mostly-white screen of my computer, doing various things which are just interesting enough to keep me from noticing that time is passing but don&#8217;t really give me any sense of accomplishment. I feel as if I&#8217;m pouring time into a well, in the hopes of filling it up or something.</p>
+
+<p>I rarely go outside, since I have to brace myself for the freezing cold and the wind just to open the door to get the mail. Instead, I sit at my desk. When that became too much effort, I moved my computer to my bed. I just lie here. It&#8217;s gotten so bad that after just a few days I can hardly walk, let alone run &#8212; my knees ache when I try to put my weight on them. And all the podge I lost while at Stanford seems to have found its way back.</p>
+
+<p>It sounds pathetic &#8212; and it is &#8212; but it&#8217;s hard to see how, intellectually at least, school is much better. At home, I at least try to accomplish tasks, even if my effort is miniscule compared to the work I want to do. At school, I don&#8217;t even have time to try. I&#8217;m always running, frequently quite literally, from task to task. The tasks are interesting, sometimes even more so than the home ones, but they are largely passive. Instead of pouring time into the well, I just watch it swirl around.</p>
+
+<p>When I started high school, I remember watching for that point where foreground and background reverse &#8212; the point at which school as a use of my time turned into time being what was left over after school. It didn&#8217;t take long. School is like that. It keeps you running until running is the only thing you know.</p>
+
+<p class="posted">posted February 13, 2005 10:23 PM (<a class="category" href="cat_education">Education</a>) (<a href="#comments">0 comments</a>) <a href="001558" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001557" title="Stanford: Thursday, December 9">&laquo; prev</a> | <a href="./">up</a> | <a href="001559" title="Home: Life and Love">next &raquo;</a></p>
+
+<p><a href="001547">George Ryan on the Penalty of Death</a><br />
+<a href="001548">Stanford: Tuesday, December 7</a><br />
+<a href="001551">Stanford: Wednesday, December 8</a><br />
+<a href="001552">Edward Tufte on Beautiful Evidence (and more Stanford: December 8)</a><br />
+<a href="001557">Stanford: Thursday, December 9</a><br />
+<strong>Home Again</strong><br />
+<a href="001559">Home: Life and Love</a><br />
+<a href="001560">Home: Gloom and Loneliness</a><br />
+<a href="001561">New York City: Winter Vacation</a><br />
+<a href="001562">Stanford: Back to School</a><br />
+<a href="001563">Stanford: I Miss Zooko</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001558.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1558" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

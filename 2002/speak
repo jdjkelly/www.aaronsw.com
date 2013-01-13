@@ -1,0 +1,45 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+  <title>Speak to Me!</title>
+  <link rel="stylesheet" type="text/css" href="/style.css" />
+</head>
+<body>
+<div id="head">
+  <h1>Speak to Me!</h1>
+  <span class="description">You type, it talks.</span>
+</div>
+<div class="content">
+<p>Through the magic of the Internet, you can now make my computer at home say random things!</p>
+
+<!--<form action="speak" method="POST">
+<textarea name="text"></textarea>
+<input type="submit" value="Speak!" />
+</form>-->
+<p><em>Sorry, this service has been discontinued.</em></p>
+
+<p>Please leave your name and number so I can inform the pol--I mean, call you back.</p>
+
+<h2>How it Works</h2>
+<h3>On the Server</h3>
+<p>speak.cgi:</p>
+<pre>
+tcpclient server port sh -c "tee >&7"
+echo "Content-Type: text/plain"
+echo
+echo "Thanks for the message! Hopefully it got through alright."
+</pre>
+
+<h3>At Home</h3>
+<p>command line:</p>
+<pre>tcpserver server port recordio ./speak.sh</pre>
+<p>speak.sh:</p>
+<pre>tee | ./filter.py | osascript</pre>
+
+<p><code>filter.py</code> turns it into a short AppleScript (<code>say your comment here"</code>), osascript uses the text-to-speech software build into OS X to get it to my speakers.</p>
+
+</div>
+<div class="footer">
+  <address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+Powered by shell scripts, <a href="http://cr.yp.to/ucspi-tcp.html">ucspi-tcp</a>, <code>osascript</code> and a <em>leetle</em> dab of Python.
+</div></body>
+</html>

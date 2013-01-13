@@ -1,0 +1,179 @@
+<?xml version="1.0"?>
+<!-- call draft-w3c-rdfcore-rdfxml-mediatype-00.xml -->
+<!DOCTYPE rfc SYSTEM "rfc2629.dtd">
+<?rfc toc="yes"?>
+<?rfc compact="yes" ?>
+<rfc ipr="full2026"> <!-- category="info" number="unkown"> -->
+<front>
+<title abbrev="application/rdf+xml">application/rdf+xml Media Type Registration</title>
+<author initials="A." surname="Swartz" fullname="Aaron Swartz">
+	<organization>AaronSw.com</organization>
+	<address>
+		<postal>
+		<street>349 Marshman</street>
+		<city>Highland Park</city>
+		<region>IL</region>
+		<code>60035</code>
+		<country>USA</country>
+		</postal>
+	<phone>+1 847 432 8857</phone>
+	<email>me@aaronsw.com</email>
+	<uri>http://www.aaronsw.com/</uri>
+	</address>
+</author>
+<date day="23" month="August" year="2002"/>
+<area>Applications</area>
+<keyword>RDF</keyword>
+<keyword>semantic web</keyword>
+<keyword>W3C</keyword>
+<keyword>media type</keyword>
+<keyword>MIME</keyword>
+<abstract>
+	<t>This document describes a media type (application/rdf+xml) for use with the XML serialization of the Resource Description Framework (RDF). RDF is a language designed to support the Semantic Web, by facilitating resource description and data exchange on the Web. RDF provides common structures that can be used for interoperable data exchange and follows the World Wide Web Consortium (W3C) design principles of interoperability, evolution, and decentralization.</t>
+</abstract>
+
+</front>
+<middle>
+
+<section title="Discussion of this Document">
+<t>Please send comments to &lt;mailto:www-rdf-comments@w3.org&gt;.  To subscribe, send a message with the body 'subscribe' to &lt;mailto:www-rdf-comments-request@w3.org&gt;. The mailing list is publically archived at &lt;http://lists.w3.org/Archives/Public/www-rdf-comments/&gt;.</t>
+</section>
+
+<section title="Introduction">
+<t>
+	RDF is a language designed to support the Semantic Web, by facilitating resource description and data exchange on the Web. RDF provides common structures that can be used for interoperable data exchange and follows the W3C design principles of interoperability, evolution, and decentralization.
+</t>
+<t>
+	While the <xref target="W3C.rdf-mt">RDF data model</xref> can be serialized in many ways, the W3C has defined <xref target="W3C.rdf-syntax-grammar">the RDF/XML syntax</xref> to allow RDF to be serialized in an XML format. The application/rdf+xml media type allows RDF consumers to identify RDF/XML documents so that they can be processed properly.
+</t>
+</section>
+<section title="application/rdf+xml Registration">
+<t>This is a media type registration as defined in <xref target="RFC2048">Multipurpose Internet Mail Extensions (MIME) Part Four: Registration Procedures</xref>
+<list>
+<t>MIME media type name: application</t>
+<t>MIME subtype name: rdf+xml</t>
+<t>Required parameters: none</t>
+<t>Optional parameters: charset
+<list><t>
+Same as charset parameter of application/xml.
+</t></list>
+</t>
+
+<t>
+   Encoding considerations:
+<list><t>
+   Same as charset parameter of application/xml.
+</t></list>
+</t>
+<t>
+   Security considerations:
+<list><t>
+      Security considerations include many of those described in section 10 of <xref target="RFC3023">RFC 3023</xref> and more, due to the semantic nature of RDF. RDF documents may make assertions about anything and it is expected that future work with Digital Signature and "Web of Trust" will make it more clear how to build secure RDF systems.
+</t></list>
+</t>
+<t>Interoperability considerations: 
+<list><t>
+It is recommended that RDF documents follow the newer <xref target="W3C.rdf-syntax-grammar">RDF/XML Syntax Grammar</xref> as opposed to the older <xref target="W3C.REC-rdf-syntax">RDF Model and Syntax specification</xref>.
+</t></list>
+</t>
+<t>Published specification: see <xref target="W3C.rdf-syntax-grammar">RDF/XML Syntax Grammar</xref> and <xref target="W3C.rdf-mt">RDF Model Theory</xref> (working drafts as of 2002-03) and the older <xref target="W3C.REC-rdf-syntax">RDF Model and Syntax</xref></t>
+<t>Applications which use this media type:
+<list><t>
+RDF is device-, platform-, and vendor-neutral and is supported by a range of Web user agents and authoring tools.
+</t></list>
+</t>
+<t>Additional information:
+<list>
+<t>Magic number(s): none
+<list><t>
+Although no byte sequences can be counted on to consistently identify RDF, RDF documents will have the sequence "http://www.w3.org/1999/02/22-rdf-syntax-ns#" to identify the RDF namespace. This will usually be towards the top of the document.
+</t></list>
+</t>
+<t>File extension(s): .rdf</t>
+<t>Macintosh File Type Code(s): "TEXT"</t>
+</list></t>
+<t>For further information:
+<list>
+<t>Dan Brickley &lt;danbri@w3.org&gt;</t>
+<t>RDF Interest Group &lt;www-rdf-interest@w3.org&gt;</t>
+<t>More information may be found on the RDF website: &lt;http://www.w3.org/RDF/&gt;</t>
+</list>
+</t>
+<t>Intended usage: COMMON</t>
+<t>Author/Change controller:
+<list><t>
+The RDF specification is a work product of the World Wide Web Consortium. The W3C and the W3C RDF Core Working Group have change control over the specification.
+</t></list>
+</t>
+</list></t>
+</section>
+<section title="Social Context">
+<t>RDF/XML documents may be asserted to be true, and such an assertion should be understood to carry the same social import and responsibilities as an assertion in any other format. A combination of social (e.g. legal) and technical machinery (protocols, file formats, publication frameworks) provide the contexts that fix the intended meanings of the vocabulary of some piece of RDF, and which distinguish assertions from other uses (e.g. citations, denials or illustrations).</t>
+<t>RDF/XML documents with this media type might be published with the intent of being such an assertional representation (as distinguished from other XML or text that may just happen to look like RDF assertions).</t>
+</section>
+<section title="Fragment Identifiers">
+<t>The rdf:ID and rdf:about attributes can be used to define fragments in an RDF document.</t>
+<t>
+Section 4.1 of the <xref target="RFC2396">URI specification</xref> notes that the semantics of a fragment identifier (part of a URI after a "#") is a property of the data resulting from a retrieval action, and that the format and interpretation of fragment identifiers is dependent on the media type of the retrieval result.
+</t>
+<t>
+However, in RDF, the thing identified by a URI with fragment identifier does not bear any particular relationship to the thing identified by the URI alone. This differs from some readings of the <xref target="RFC2396">URI specification</xref>, so attention is recommended when creating new RDF terms which use fragment identifiers.
+</t>
+
+</section>
+<section title="Historical Considerations">
+
+<t>This media type was reserved in <xref target="RFC3023">RFC 3023</xref>, saying:
+<list><t>
+RDF documents identified using this MIME type are XML documents whose content describes metadata, as defined by [RDF]. As a format based on XML, RDF documents SHOULD use the '+xml' suffix convention in their MIME content-type identifier. However, no content type has yet been registered for RDF and so this media type should not be used until such registration has been completed.
+</t></list>
+</t>
+</section>
+
+<section title="IANA Considerations">
+<t>This document calls for registration of a new MIME content-type, according to the registration template in section 2.</t>
+</section>
+
+<section title="Acknowledgements">
+<t>Thanks to Dan Connolly for writing the <xref target="rdfmt">first version of this draft</xref>, to Andy Powell for <eref target="http://www.w3.org/2000/03/rdf-tracking/#mime-types-for-rdf-docs">reminding us we needed one</eref>, to Marshall Rose for his <eref target="http://xml.resource.org/">xml2rfc</eref> converter, and to Graham Klyne, Jan Grant and Dave Beckett for their helpful comments on early versions of this document.</t>
+</section>
+</middle>
+<back>
+<references>
+	<reference anchor="W3C.rdf-syntax-grammar" target="http://www.w3.org/TR/rdf-syntax-grammar/">
+        <front>
+            <title>RDF/XML Syntax Specification (Revised)</title>
+            <author initials="D." surname="Beckett" fullname="Dave Beckett">
+                <organization>University of Bristol</organization>
+            </author>
+    		<date day="25" month="March" year="2002" />
+        </front>
+        <seriesInfo name="W3C" value="rdf-syntax-grammar" />
+    </reference>
+	<reference anchor="W3C.rdf-mt" target="http://www.w3.org/TR/rdf-mt/">
+		<front>
+		<title>RDF Model Theory</title>
+		<author initials="P." surname="Hayes" fullname="Patrick Hayes">
+			<organization>University of West Florida</organization>
+		</author>
+		<date day="14" month="February" year="2002" />
+		</front>
+		<seriesInfo name="W3C" value="rdf-mt" />
+	</reference>
+	<?rfc include="reference.W3C.REC-rdf-syntax" ?> 
+	<?rfc include="reference.RFC.3023" ?>
+	<?rfc include="reference.RFC.2396" ?>
+	<?rfc include="reference.RFC.2048" ?>
+	<?rfc include="reference.RFC.2119" ?>
+	<reference anchor="rdfmt" target="http://www.w3.org/2001/03mr/rdf_mt">
+		<front>
+			<title>A media type for Resource Description Framework (RDF)</title>
+			<author initials="D. W." surname="Connolly" fullname="Daniel W. Connolly" >
+				<organization abbrev="W3C">World Wide Web Consortium</organization>
+			</author>
+			<date day="23" month="March" year="2001" />
+		</front>
+	</reference>
+</references>
+</back>
+</rfc>

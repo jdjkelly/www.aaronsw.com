@@ -1,0 +1,88 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Privacy, Accuracy, Security: Pick Two (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/001016.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001014" title="Letter from Knuth" />	<link rel="next" href="001024" title="Live from victoria.bc.ca" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Privacy, Accuracy, Security: Pick Two</h1>
+</div>
+
+<div class="content">
+<h2>The Problems with Compulsory Licensing</h2>
+
+<p>Millions of people want to download music for, essentially, free. The record companies don’t want them to do this, and claim that they’re losing money and threaten to sue you into oblivion. How do we reconcile these two? One proposal is compulsory licensing.</p>
+
+<p>The basic idea is that a large portion of the population pays a relatively small tax to the government who then gives it to the artists whose work is downloaded. Terry Fisher says that with a small tax on CD burners, DVD burners, DSL, and cable modems (costing the average family ~$50, less than they spend on DVDs and CDs) could pay for all the music and movies plus a 20% bureaucratic overhead.</p>
+
+<p>Assuming this could be made to work, people could be convinced to accept it, and Congress could pass it, there are still three problems which can’t all be solved.</p>
+
+<h2>Privacy</h2>
+
+<p>Some proposals suggest that we simply monitor everyone’s Internet connection (or, usually, get the ISPs to do it) and send the results to the government. I think this is an unacceptable invasion on privacy. It’s bad enough we have to have Carnivore watching our packets and describing our emails when law enforcement gets a warrant, but now you want the government to keep track of all the music and movies we download, all the time? I don’t think that’s going to fly.</p>
+
+<h2>Accuracy</h2>
+
+<p><em>OK,</em> they say, <em>we won’t watch everyone’s computers. We’ll just use sampling.</em> This has worked well in other media. TV networks, for example, make money off of advertising. They charge for ads based on how many people watch the shows. They figure out how many people watch the shows using Nielsen ratings. Nielsen ratings are calculated by getting a small percentage of the population to install a set-top box which monitors what they watch and when and sends the results back to Nielsen.</p>
+
+<p>(This has some interesting effects, among which is the fact that boycotts of shows only have a real effect insofar as the boycotters are Nielsen homes. This means that as long as you’re not a Nielsen home, you can boycott a show and still watch it.)</p>
+
+<p>(“Sweeps week” is a similar phenomenon but on a somewhat smaller scale. Each individual TV station (like our local NBC affiliate, WMAQ) sells advertising also, so they need to know how many people locally watch the shows. But each little station can’t afford to do the Nielsen thing, so they do something similar with paper diaries that they send out one week of the year. But they all do it on the same week (sweeps week) so the networks purposely introduce big guest stars and major cliffhangers that week to get more people to watch the show.)</p>
+
+<p>This sounds good, and it works reasonably well for TV, but it won’t work on the Internet. Popularity on the Internet doesn’t follow the old rules, it follows something called a power law. (Thanks to Kevin Marks for pointing out this issue to me.) For example, the number of visitors to web pages follows a power law:</p>
+
+<p><img src="http://ginger.hpl.hp.com/shl/papers/ranking/histo.jpg" alt="A graph of number of sites against number of users in log-log, showing a practically straight line." /><br />
+(graph from <a href="http://ginger.hpl.hp.com/shl/papers/ranking/ranking.html">Zipf, Power-laws, and Pareto - a ranking tutorial</a>)</p>
+
+<p>The point of this graph is that there are hundreds of thousands of sites with tens of users and tens of sites with hundreds of thousands of users. And there are tens of thousands of sites with hundreds of users, and thousands of sites with thousands of users and so on.</p>
+
+<p>Sampling can’t cope with this kind of disparity. It can deal when there are a small number of known groups who make up a very small amount of the population (just seek out those groups specifically). But it can’t deal when there’s a large number of unknown groups who each make up a very small amount of the population (like the tons of small websites, each with a small but loyal fanbase).</p>
+
+<p><em>Who cares about these people?</em> you may say. But while each of these groups have small fanbases individually, collectively they make up a significant portion, if not a majority, of the overall system. In other words, if you count these guys out you’ll be doubling the amount of money folks like Britney Spears get over what they deserve. </p>
+
+<p>Britney Spears seems to be doing just fine with the current system. If all we’re doing is helping her, why are we going to all this trouble. And furthermore, if you’re going to tax me to pay the artists I listen to, it’s a little unfair if none of that money goes to the ones I actually care about.</p>
+
+<h2>Security</h2>
+
+<p><em>Fine, fine,</em> they say, if they read this far. <em>How about we just have people submit the songs they listen to anonymously? People want their favorite artists to be paid, so they’ll be happy to.</em></p>
+
+<p>Yeah, but that’s exactly the problem. People want their favorite artists to be paid, especially when those artists are <em>themselves</em>. What stops me from anonymously submitting that 1M people listened to my band and waiting for the money to roll in? Small things like that will get lost in the noise.</p>
+
+<p>Even if the system isn’t anonymous (so we’re forgetting about privacy) you still have this problem. An enterprising MIT student, taking advantage of the fact that MIT has 16.5M IP addresses to themselves, writes a little program to pretend to be a whole bunch of MIT students who all have decided that his band is their new favorite. Again, it’ll get lost in the noise of MIT and the money will roll in.</p>
+
+<p>It doesn’t seem right to tax Americans and give their money to fraudsters, no matter how clever the fraudsters are. It’ll be really hard to eliminate fraud, and when it’s so easy and anonymous, it’ll be more widespread than anything we’ve seen before.</p>
+
+<h2>Conclusion</h2>
+
+<p>I’ve gone through all the compulsory licensing scenarios, and I always seem to get stuck on one (or more) of these issues. If anyone’s found a way to eliminate all of them, please let me know!</p>
+
+<p class="posted">posted July 29, 2003 10:03 PM (<a class="category" href="cat_politics">Politics</a>)  <a href="001016" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001014" title="Letter from Knuth">&laquo; prev</a> | <a href="./">up</a> | <a href="001024" title="Live from victoria.bc.ca">next &raquo;</a></p>
+
+<p><a href="000998">Aaron&#8217;s Censorware</a><br />
+<a href="001008">Cards</a><br />
+<a href="001010">Dodging Trains</a><br />
+<a href="001011">Super Searching</a><br />
+<a href="001014">Letter from Knuth</a><br />
+<strong>Privacy, Accuracy, Security: Pick Two</strong><br />
+<a href="001024">Live from victoria.bc.ca</a><br />
+<a href="001025">Postel&#8217;s Law Has No Exceptions</a><br />
+<a href="001026">Canadians Do It Right</a><br />
+<a href="001027">Secrets of Standards</a><br />
+<a href="001028">Day, Today</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

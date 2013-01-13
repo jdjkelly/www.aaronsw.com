@@ -1,0 +1,140 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Larry&#8217;s Keynote (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000858" title="New Valenti Remix" />	<link rel="next" href="000862" title="House of Reprehensitives?" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Larry&#8217;s Keynote</h1>
+</div>
+
+<div class="content">
+<p>&lt;add&gt; sanity</p>
+
+<p>Announcer: This might be one of the last times we ever get to see Larry; he’s flying to Disney to give a speech at a conference there and they have facial recognition technology.</p>
+
+<p>World appears to be on the edge of war, but we’ve been in the copyright war for years. </p>
+
+<p>Larry: [slaps a “FREE THE MOUSE” sticker on the podium] Last month, in february, this man, Jack Valenti gave a lecture^Wsermon about morality. Jack said that our deep values have been corrupted by Enrons and by “sharing” — “file sharing”. The “terrorists” (our children) have “infected” our society with “moral decay”. This has to change because “Man is the only animal &#8230; who understands the differences between the way things <em>are</em> and the way things <em>ought to be</em>.”</p>
+
+<p>1997 was going to be a great year, because things were going to go into the public domain since 1923. Famous works, works with authors like Gershwin, Frost, Joyce. And some not-so-famous works — only 2% of the work was commercially exploited. [&#8230;] Playwrights, archivists, researchers, and Eldred were all hurt. “limited Times” clause has now been erased.</p>
+
+<p>[Steamboat Willie example.] Shows the script which explicitly rips from Steamboat Bill. Disney always parodied — the whole empire is built on the public domain. We should praise this <em>Walt</em> Disney creativity.</p>
+
+<p>In the next 20 years, 1 million patents will expire but 0 copyrights will. Congress broke their promise with the public and stole all these copyrights and gave them to their campaign donors. Where was Jack? Where were these ideals? Jack was on the hill, arguing for breaking the promise.</p>
+
+<p>Jack believes it was moral. But ignore whether it was moral for the 2% that’s making money. What about the 98%? </p>
+
+<p>We have a concentrated industry where copyright protects publishers, not authors. We have a homogenization of culture. This concentration is new. The product of this regulation means that we have never had a time where fewer interests controlled more of the creative process.</p>
+
+<p>Does this make sense for creators? Before the Internet, this didn’t matter much — what could you do? You were a couch potato. Now, millions now are in the position to be creators and distributors of content. But this Walt Disney creativity is blocked by regulation. [Plays the “Read My Lips” Bush-Blair duet. Audience is in hysterics.] These guys are nothing, but they have the capacity to make a statement that 10 years ago no one could have.</p>
+
+<p>Something different could happen now. We have special protection for political speech. But things are increasingly commercialized, and we have no special protection to criticize corporations. We could see this creativity if we could just get the law out of the way.</p>
+
+<p>Congress failed. Courts failed. Time to try something new. Something GNU.</p>
+
+<p>There are three times of people: <code>all</code>, <code>some</code>, and <code>none</code>. Internet was by and for the <code>none</code>s. In 1995 there was a campaign to build an Internet for <code>all</code>s. But these are extremes! The current reality is <em>insane</em>. Let’s leave them alone, but build a space in the middle. </p>
+
+<p>That’s Creative Commons. A layer of reasonable copyright law in the space controlled by the extremes. Through voluntary action. By you.</p>
+
+<p>But why? </p>
+
+<ol>
+  <li>Incentives: Take Cory Doctorow. I’m taking his book to Disney World. [applause] His story is: “I will sell more books by making my content freely available.”</li>
+</ol>
+
+<ol>
+  <li>Innovation: Technology built tools to rip, mix, and burn. Search engines, aggregators — new and different ways of looking at other people’s content. Their creators assumed the law would be reaosnable. But they were wrong; the law sought the extreme. CC protects them from the law coming back and biting them later</li>
+</ol>
+
+<p>Announcing CC versioning. Considering some new things: a sampling license — don’t sell my song but sample it and sell yours. An education version. One that gives things away free to developing nations, the same way the United States was a pirate nation that ignored copyrights for its first 100 years. [applause]</p>
+
+<p>Davis Guggenheim, Peabody award director, a documentary filmmaker in the style of his great father has joined our board.</p>
+
+<ol>
+  <li>Valenti: Remember “integrity”. Remember “moral duty”. The reason <em>you</em> should participate is because in a world of extremists, we need a way to say I believe in (somewhat) free. So we can say to those who make policy, the world is not just <code>all</code>s and <code>none</code>s; it believes in a mix. We can change the debate in Washington, where the battle is between the establishment and the crazies, not the creators.</li>
+</ol>
+
+<p>Say: “I believe in the freedom that let me create, and I pass it on to you.”</p>
+
+<p>We have not suceeded elsewhere. I have not succeeded elsewhere. In my own world — lawyers — I’ve failed. Our world has been distorted thru a process of extremism by lobbyists. We can change that by suceeding here. Show who’s truly the animals. </p>
+
+<p>We could go back to a world where culture was free in the Richard Stallman sense. The only people who stand in the way are the people I make for a living. Lawyers. Control freaks. We work for clients, and build structures of control for them. control == our security. control &lt;&gt; creativity. We know that. You know that. Don’t sit meekly! Don’t let the lawyers regulate — they’re not benefiting you, they’re benefiting the few. Kick the lawyers out of the room and reclaim things. Lawyers don’t belong here.</p>
+
+<p>We have ideals too. We believe in a democtatic nation, where greatness is earned thru respect and criticims, where there’s a moral compact where you can criticize without permission. A moral imperative that truth requires freedom. A duty, as the most powerful and threating nation, to build this freedom back into our culture. The honor of our nation has been speaking without calling a lawyer; the integrity of meaning what you say. We need to get this freedom back.</p>
+
+<p>As we threaten the world with extremism, it is our duty to reclaim the space where we can build a culture that <em>truly</em> respects those ideals.</p>
+
+<p>[standing ovation]</p>
+
+<p>Q: I am a victim of advertising. Advertising is everywhere. Nobody asked for the right to put those images before me. They want the right to penetrate my brain. But you can’t make use of those images. Can they have their cake and eat it too?</p>
+
+<p>L: That’s exactly the problem. I’m against selling exact copies of my work — that’s piracy. But the idea that I can’t say something about the ideas in my brain? That’s censorship. We need things to be properly limited, but we have no conceptions of the limits. When the President and you and I are subject to criticism, why not companies.</p>
+
+<p>I’m pessimistic of legal reasoning. In <cite>Eldred</cite>, we had an <em>extremeley</em> easy claim. If you have a child, you’ve heard this reasoning before:</p>
+
+<p>Parent: You can have one cookie.<br />
+[Child takes five cookies]<br />
+Child: I’ve taken one cookie — five times.</p>
+
+<p>Someone told me: all you have is ideals and principles; they have all the money in the world. When was the last time ideals won?</p>
+
+<p>I can’t think of one. GNU/Linux?</p>
+
+<p>Q: Unfortunately for you, you’re the best spokesperson for our case.<br />
+L: Unfortunately for us.<br />
+Q: Can we put the lectures up?<br />
+L: Yes! They’re under a CC attribution license; I’ll give you the source material. All my blog is up under a CC attribution license. Reporters keep asking for my signature. I asked if they read the license. I’m not going to play by their rules; they have to play by ours.</p>
+
+<p>Q: What do you think of Brewster?</p>
+
+<p>L: Brewster wants to be the Andrew Carnegie of the Internet. Internet Archive — largest in the history of man. He wants television, books, whatever he can get. He’s scanning book. We’re going to be announcing a project to identify public domain works soon. He’s not an egomaniac, so he’s been working with lots of groups. He gets stuff done. We’re making it easy to do it safely. That’s our future. If no one sues him, that’ll be the source for the largest library anywhere. He’s also backing up the archive in Alexandria. He wants to back it up in six other cultures, in case any one goes crazy.</p>
+
+<p>Q: Is CC going to make this an issue with politicans? And what about other countries?</p>
+
+<p>L: Had we won in the Supreme Court, we were going to sue in 3 other jurisdictions. Now we’re not so sure. In Japan, I talked to a judge of an intellectual property court. At the beginning of the evening, he thought we’d surely lose, but as he got more drunk and I talked more, he thought we’d win. If you believe in free speech, you’ve got to be concerned.</p>
+
+<p>[Ed: Lessig has lots of populist arguments which are very convincing, but he tries to convince the courts, not the legislature or the people!]</p>
+
+<p>The Supreme Court is representing the ordinary American here. So it’s a political battle first — we need to convince the ordinary American before we convince the courts.</p>
+
+<p>Q: You want to get the lawyers out of this?</p>
+
+<p>L: Look at the difference between music and images. Music, once it’s recorded, is easy to copy. The law has made it easy; you just need pay a certain rate — no negotiation. That’s a structure that hasn’t hurt creativity. But we don’t have that with images. Want to reuse images from a DVD? You need to clear rights; call a lawyer; costs at least $200.</p>
+
+<p>We can change the law to enable that freedom all over the place. It’s easier when you remove the lawyers. Lawyers impose costs — that’s what they do. Get the lawyers out because they’re hurting creativity.</p>
+
+<p>Thank you for your time.</p>
+
+<p>[applause]</p>
+
+<p class="posted">posted March 09, 2003 03:40 PM (<a class="category" href="cat_politics">Politics</a>)  <a href="000859" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000858" title="New Valenti Remix">&laquo; prev</a> | <a href="./">up</a> | <a href="000862" title="House of Reprehensitives?">next &raquo;</a></p>
+
+<p><a href="000849">Notes from the DRM Conference: Impacts of DRMs on flows of information</a><br />
+<a href="000850">Trip Report</a><br />
+<a href="000852">Trip Report (cont.)</a><br />
+<a href="000857">Valenti Remix</a><br />
+<a href="000858">New Valenti Remix</a><br />
+<strong>Larry&#8217;s Keynote</strong><br />
+<a href="000862">House of Reprehensitives?</a><br />
+<a href="000863">Protect Fair Use</a><br />
+<a href="000864">Raging Platypus</a><br />
+<a href="000865">Spectrum Reflections</a><br />
+<a href="000866">How to Do Stuff</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

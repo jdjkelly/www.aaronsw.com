@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>The Percentage Fallacy (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>The Percentage Fallacy</h1>
+
+<p>There&#8217;s one bit of irrationality that seems like it ought to be in behavioral economics introduction but mysteriously isn&#8217;t. For lack of a better term, let&#8217;s call it <em>the percentage fallacy</em>. The idea is simple:</p>
+
+<blockquote>
+  <p>One day I find I need a blender. I see a particularly nice one at the store for $40, so I purchase it and head home. But on the way home, I see the exact same blender on sale at a different store for $20. Now I feel ripped off, so I drive back to the first store, return the blender, drive back to the second store, and buy it for $20.</p>
+  
+  <p>The next day I find I need a laptop. I see a particularly nice one at the store for $2500, so I purchase it and head home. But on the way home, I see the exact same laptop for $2480. &#8220;Pff, well, it&#8217;s only $20,&#8221; I say, and continue home with the original laptop.</p>
+</blockquote>
+
+<p>I&#8217;m sure all of you have done something similar &#8212; maybe the issue wasn&#8217;t having to return something, but spending more time looking for a cheaper model, or fiddling with coupons and rebates, or buying something of inferior quality. But the basic point is consistent: we&#8217;ll do things to save 50% that we&#8217;d never do to save 1%.</p>
+
+<p>At first this almost seems rational &#8212; of course we&#8217;re going to do more to save more money! But you <em>aren&#8217;t</em> saving more money. With both the blender and the laptop, you have the chance to save $20. Either way, you&#8217;re going to have another twenty in your pocket, which you can spend on exactly the same things later on. Yet we behave differently depending on whether we got that twenty by skimping on a small purchase or skimping on a big one. Rationally, if driving back to the store isn&#8217;t worth $20 when you&#8217;re buying a laptop, it isn&#8217;t worth $20 when you&#8217;re buying a blender.</p>
+
+<p>On the other hand, don&#8217;t those small savings tend to add up after a while? If you start blowing $20 every time you buy a trinket, you&#8217;re soon going to be out of disposable income. Meanwhile, spending several thousand dollars is much rarer, so isn&#8217;t it OK to slack off a bit on such occasions?</p>
+
+<p>If we work to save 50% on everything, big or small, that&#8217;s the equivalent of saving 50% of our money altogether. Whereas if we only try to save fixed amounts on every purchase, how much we save is dependent on how many things we buy.</p>
+
+<p>So which is the real irrationality? I&#8217;m not entirely sure of the answer.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">July 21, 2008</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>Just wanted to say this reminds me of &#8220;Why Smart People Make Big Money Mistakes And How To Correct Them&#8221; by Belsky &amp; Gilovich. It was an entertaining read.</p>
+
+<p class="posted">posted by Stan
+ on July 21, 2008 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>This is, or is related to, scope insensitivity:</p>
+
+<p>http://www.overcomingbias.com/2007/05/scope_insensiti.html</p>
+
+<p class="posted">posted by Aaron
+ on July 22, 2008 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>This is covered in behavioural economics. For example, see Predictably Irrational (http://www.amazon.com/gp/reader/006135323X/ or http://openlibrary.org/b/OL9952510M) where Dan Ariely calls it the &#8220;problem of relativity&#8221; using an example about pens and suits (p. 19-20).</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.bricoleur.org/">Alex</a>
+ on July 22, 2008 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>I&#8217;m not sure that the kind of person who will spend $2500 on a laptop is the same as the kind of person who would return the $40 blender.</p>
+
+<p>I&#8217;m sure there are other analogies which point out this behavior, but I don&#8217;t think the blender one is realistic.</p>
+
+<p class="posted">posted by Anthony
+ on July 22, 2008 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>Isn&#8217;t there another angle to this? Assuming that &#8220;the market rate&#8221; should fairly be the point of best compromise between the lowest a seller will accept and the highest a buyer is prepared to spend, it&#8217;s perceived as important not to support someone charging 200% of the market rate, but significantly less important that someone charging less than 1% above the market rate gets away with it. &#8220;How dare they charge me $40 for a $20 blender?&#8221; bears no real comparison to &#8220;So they charged me $2500 for a $2480 laptop? Wooo&#8221;. Again, if it&#8217;s a question of principle then the response in one sense should be the same - &#8220;that&#8217;s unfair, I&#8217;m going to sort it out&#8221; - but this way round, the percentage does seem to matter, whether it&#8217;s $20 or $2000.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.igorclark.net">Igor Clark</a>
+ on July 22, 2008 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c6">
+<p>I think the driving force is the need to not look/feel like an idiot. Buying something at twice the normal price leaves people with the same amount of feeling ripped off, almost regardless of the amount of money that they &#8220;lost&#8221;.</p>
+
+<p>It then varies how much emphasis people put on not looking like fools vs. saving actual money.  Those who&#8217;re poor probably think more about the dollars.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://mar.anomy.net/">Már</a>
+ on July 22, 2008 <a href="#c6" rel="bookmark">#</a></p>
+</div>
+<div id="c7">
+<p>Maybe people don&#8217;t return the laptop because buying or returning a laptop usually involves a bit more paperwork/time, since it is a big ticket item.  Also, if you accidentally drop the blender on the way into the store, you&#8217;re out $40, while if you drop the laptop, you&#8217;re out $2500.</p>
+
+<p class="posted">posted by Aaron
+ on July 22, 2008 <a href="#c7" rel="bookmark">#</a></p>
+</div>
+<div id="c8">
+<p>I personally when doing financial computation put everything into dollars/year. In the above example, both would appear as $20, and I would act accordingly. The reasons for the year, is for comparing reoccurring bills such as cell phones. Add all the costs up, then divide it by the terms of the contract. This way, I&#8217;m always comparing in like terms.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.garbett.org">Shawn</a>
+ on July 22, 2008 <a href="#c8" rel="bookmark">#</a></p>
+</div>
+<div id="c9">
+<p>You might also consider the long term.  A 1% variation of prices between stores is to be expect, but a 50% variation is not, regardless of the price of the item.  One can&#8217;t put a dollar amount on the variation of prices between goods at different stores for any arbitrary goods; if blenders vary by $20 in price in a town, it&#8217;s unreasonable to expect laptops or cars to vary by the same amount.</p>
+
+<p>So if you think in macroscopic terms, we would like a strategy to execute consistently over our lifetimes, for all goods.  If we hit 5 stores on the way home, we can&#8217;t keep exchanging the item every time we see a 1% variation in the price of a good.  A 50% variation, since it&#8217;s so uncommon, would be worth the effort, since it&#8217;s unlikely to be repeated.</p>
+
+<p>I agree with your reasoning in general, I&#8217;m just thinking of a possible explanation for why people behave this way.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://logicwrong.blogspot.com">enginerd</a>
+ on July 22, 2008 <a href="#c9" rel="bookmark">#</a></p>
+</div>
+<div id="c10">
+<p>If you&#8217;re not broke, who really gives a crap?</p>
+
+<p class="posted">posted by surebutt
+ on July 22, 2008 <a href="#c10" rel="bookmark">#</a></p>
+</div>
+<div id="c11">
+<p>Did you know that 40% of people are good at understanding percentages, but 70% are bad at it?</p>
+
+<p class="posted">posted by MathGuy
+ on July 22, 2008 <a href="#c11" rel="bookmark">#</a></p>
+</div>
+<div id="c15">
+<p>This post reminds me of the book &#8220;Predictably Irrational&#8221; by Dan Ariely. It&#8217;s pop economics but a very good read for intellectuals alike.</p>
+
+<p class="posted">posted by Ron
+ on July 25, 2008 <a href="#c15" rel="bookmark">#</a></p>
+</div>
+<div id="c16">
+
+
+<p class="posted">posted by 
+ on July 26, 2008 <a href="#c16" rel="bookmark">#</a></p>
+</div>
+<div id="c17">
+<p>There are hidden qualities to the place you purchase an item.  For instance, people typically find (or at least imagine) that higher-priced stores give better service, are more trustworthy, etc.  A higher quality store might be worth 10% of the purchase price.  So, if you spend $22 vs $20 on the blender, you can at least imagine its a wash.  But 100% markup is more than you can ignore.  So <em>then</em> you decide if the effort is worth $20.  For a laptop you might need $2750 vs $2500 before you consider whether the effort is worth the money.</p>
+
+<p>Of course there isn&#8217;t a specific cutoff, so it&#8217;s a bit more vague than this.  And of course higher prices don&#8217;t always mean a better quality (where quality is customer service, the chance of fraud, the ability to return the item in the future, etc).</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://blog.ianbicking.org">Ian Bicking</a>
+ on July 27, 2008 <a href="#c17" rel="bookmark">#</a></p>
+</div>
+<div id="c18">
+<p>Isn&#8217;t the &#8216;rational&#8217; thing to do to judge how long it takes to return the item against the value of your time (judged by the next-best alternative), and if you come out ahead, then to do it, regardless of percentages?</p>
+
+<p>I try to think this way, but it&#8217;s hard to fight that feeling of being &#8216;ripped off&#8217; when you see a large percentage difference.</p>
+
+<p>I also think that when you make a high value purchase, you&#8217;re in a different thinking &#8220;mode&#8221;.
+When I&#8217;m purchasing things in the sub $50 range, I&#8217;m thinking in terms of how many coffees or books I&#8217;m giving up. When I&#8217;m purchasing things in the 1000+ plus range, I&#8217;m thinking in terms of computers or cars.</p>
+
+<p>$20 in the first sense &#8216;feels&#8217; like two weeks worth of coffee. $20 in the second sense &#8216;feels&#8217; like just some nominal percent of a laptop, so it holds less value until I change purchasing modes.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.timshowers.com">Tim Showers</a>
+ on August  6, 2008 <a href="#c18" rel="bookmark">#</a></p>
+</div>
+<div id="c21">
+<p>Umm&#8230; Late to the party here, but I don&#8217;t get it. If we assume one buys $40 items every week, but buys $2,500 items only once or twice a year, it&#8217;s pretty obvious why it would be a bad idea to get into the habit of letting oneself get ripped off $20 on a $40 item - you&#8217;ll go broke in a hurry.</p>
+
+<p>An analogy: Most people will splurge on (dinner, tickets) when on vacation, but not when not. Why? Because their budgets can tolerate a small deviation. But if they begin out-of-budget splurging every week of the year, their budgets will crumble.</p>
+
+<p>It&#8217;s not a fallacy at all. It&#8217;s about forming good habits. It&#8217;s a good habit to demand a refund on a 50% overpayment, and probably a bad habit to start haggling over 1% differences.</p>
+
+<p class="posted">posted by Percy
+ on August 19, 2008 <a href="#c21" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="percentagefallacy" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

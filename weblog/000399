@@ -1,0 +1,45 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Herodotus: A Peer-to-Peer Web Archival System (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000398" title="Another thing cooking" />	<link rel="next" href="000400" title="Special Gifts" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Herodotus: A Peer-to-Peer Web Archival System</h1>
+</div>
+
+<div class="content">
+<p>Timo Burkard has created <cite>Herodotus: A Peer-to-Peer Web Archival System</cite> as his Master&#8217;s Thesis. The paper (<a href="http://www.pdos.lcs.mit.edu/papers/chord:tburkard-meng.pdf">PDF</a> or <a href="http://www.pdos.lcs.mit.edu/papers/chord:tburkard-meng.ps">PS</a>) describes the system, which is built on top of Chord and uses the spare resources of many nodes to do the crawling and retrieval.</p>
+
+<p>This is incredible! It&#8217;s awesome when you see that someone else has put together your interests (archiving and P2P) using technologies you love (the Wayback Machine and Chord). I can&#8217;t wait to play with this.</p>
+
+<p class="posted">posted July 08, 2002 01:25 AM (<a class="category" href="cat_technology">Technology</a>)  <a href="000399" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000398" title="Another thing cooking">&laquo; prev</a> | <a href="./">up</a> | <a href="000400" title="Special Gifts">next &raquo;</a></p>
+
+<p><a href="000390">Reevaluating Copyright</a><br />
+<a href="000393">Freedom, Independence</a><br />
+<a href="000394">today&#8217;s featured superhero: Brad Templeton</a><br />
+<a href="000397">Sloganeering</a><br />
+<a href="000398">Another thing cooking</a><br />
+<strong>Herodotus: A Peer-to-Peer Web Archival System</strong><br />
+<a href="000400">Special Gifts</a><br />
+<a href="000401">No!</a><br />
+<a href="000402">Gnutella Pioneer Gene Kan Dies at 25</a><br />
+<a href="000404">Bake, Don&#8217;t Fry</a><br />
+<a href="000405">Train Dream</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

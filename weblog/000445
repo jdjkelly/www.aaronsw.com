@@ -1,0 +1,64 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Carl Malamud: NetTopBox (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000443" title="blue gene" />	<link rel="next" href="000446" title="OSCON: Final Night" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Carl Malamud: NetTopBox</h1>
+</div>
+
+<div class="content">
+<p>Carl Malamud&#8217;s giving a status report on the NetTopBox project. (<a href="http://mappa.mundi.net/pub/docs/ntb/2002_oscon/">Slides</a>, <a href="http://conferences.oreillynet.com/cs/os2002/view/e_sess/2528">O&#8217;Reilly Page</a>)</p>
+<p>Does an overview of IMS. &#8220;We look for an artificially constrained marketplace that stops us as engineers.&#8221; Domain names: &#8220;We&#8217;d like to see the value of that industry decrease significantly.&#8221; Core technologies: &#8220;Lot of work on annotation, etc.&#8221;</p>
+
+<p>SetTopBox industry: &#8220;totally closed environment&#8221;. &#8220;smack of the 1970s [&#8230;] mainframe-style of programming&#8221; They were frustrated that the computers in their house weren&#8217;t controllable. Why? Consumers are dumb so the things need to be dumbed-down and totally closed. Managers are convinced PCs will go away and people will start using these set top boxes.</p>
+
+<p>He rails against Gemstar. He&#8217;s really passionate about this.</p>
+
+<p>How do I find the best media out there? Who are the mavens? What&#8217;s the best Sinatra movie?</p>
+
+<p>So what can they do about it? Scrape schedules and put them into some standard format. They&#8217;ve got a <a href="http://mappa.mundi.net/signals/memes/spacemapper.shtml">SpaceMapper tool</a> which turns semi-structured HTML and email into more structured data. Hired NoLimits technology through SourceXChange, some good guys in Romainia. </p>
+
+<p>Next is set of Universal Remotes. Got an EZZapper which you program from your PC but then you have to take it off. He wants it to be online. Can surf websites, send it email, etc. If we build the devices for techies now then the dumbed-down ones will come later.</p>
+
+<p>Trying to sue the government for granting the patents. May be illegal because they&#8217;re taking public property and giving it to private orgs w/o due process. Law people said they hadn&#8217;t heard that one before. Alternately, claim that EPGs give you news and events and patents take away your free speech. Talked to &#8220;the lessigs of the world&#8221;. Getting advice from people who think it&#8217;s quite important.</p>
+
+<p>Not currently on funding trail but not-for-profit status helps get free law advice. Can&#8217;t say &#8220;i&#8217;ll do this if you fund me&#8221; but &#8220;i&#8217;m doing this, please fund me&#8221;.</p>
+
+<p>Don&#8217;t want giant list of channels, want list of interesting collections. Sort of like a search engine, also finds DVDs.</p>
+
+<p>Sign up to <a href="http://mappa.mundi.net/pub/docs/ntb/2002_oscon/13.html">the mailing lists</a>.</p>
+
+<p>Has some weird obsession with XML database. He should get a TiVo.</p>
+
+<p class="posted">posted July 25, 2002 04:38 PM (<a class="category" href="cat_technology">Technology</a>)  <a href="000445" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000443" title="blue gene">&laquo; prev</a> | <a href="./">up</a> | <a href="000446" title="OSCON: Final Night">next &raquo;</a></p>
+
+<p><a href="000439">Richard Stallman: Where This All Came From</a><br />
+<a href="000440">Guido van Rossum: State of the Python Union</a><br />
+<a href="000441">HelixCommunity.org</a><br />
+<a href="000442">RMS and Miguel: Straight Talking</a><br />
+<a href="000443">blue gene</a><br />
+<strong>Carl Malamud: NetTopBox</strong><br />
+<a href="000446">OSCON: Final Night</a><br />
+<a href="000447">get out of my hair</a><br />
+<a href="000450">Eyesight Feedback</a><br />
+<a href="000451">movable code</a><br />
+<a href="000452">irby nation</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

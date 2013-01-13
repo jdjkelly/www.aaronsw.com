@@ -1,0 +1,47 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+  <title>Forget the Files and the Folders: Let Your Screen Reflect Life</title>
+  <link rel="stylesheet" type="text/css" href="/style.css" />
+</head>
+<body>
+<div id="head">
+  <h1>Forget the Files and the Folders: Let Your Screen Reflect Life</h1>
+  <span class="description">by David Gelernter</span>
+</div>
+<div class="content">
+<p><em>November 7, 2002, New York Times: Circuits (<a href="http://www.nytimes.com/2002/11/07/technology/circuits/07soft.html">original</a>).</em></p>
+<div class="img"><img src="gelernterNov7-1" alt="A file cabinet being thrown out the window" /><br />Jon Keegan</div>
+<p>The end of the Microsoft trial is great news whatever you think of the defendant - because the trial was all about the past, and we in the technology world have no more time to waste on that topic.</p>
+
+<p>The trial focused on Microsoft's Windows operating system - on the power Microsoft gets from Windows' huge worldwide penetration; on the burdens that other software companies bear because of their limited access to the Windows software; on accusations that Microsoft was suppressing innovation. The courts have officially labeled the gigantic software company a monopoly, and Microsoft will be subject to careful scrutiny for abusive activity.</p>
+
+<p>Meanwhile, operating systems are lapsing into senile irrelevance. An operating system connects the user (and the user's software) to the ensemble of machines we call a computer. But nowadays users no longer want to be connected to computers. They want to be connected to information, a claim that sounds vague but is clear and specific.</p>
+
+<p>Every piece of digital information you own or share will appear (in the near future) in one universal structure. (Just ask Bill Gates: as he said cogently last July, "Why are my document files stored one way, my contacts another way and my e-mail and instant-messaging buddy list still another, and why aren't they related to my calendar or to one another, and easy to search en masse?") A universal structure demands universal access: you'll be able to tune in this structure from any Net-connected computer anywhere.</p>
+
+<p>I have time for only one screen in my life. That screen had better give me access to everything, everywhere.</p>
+
+<p>What is this universal information structure? A narrative stream, which says, "Let me tell you a story. " The system shows you a 3-D stream of electronic documents flowing through time. The future (where you store your calendar, reminders, plans) flows into the present (where you keep material you're working on right now) and on into the past (where every e-mail message and draft, digital photo, application, virtual Rolodex card, video and audio clip and Web bookmark is stored, in addition to all those calendar notes and reminders that used to be part of the future and have since flowed into the past to be archived forever).</p>
+
+<p>And so the organization of your digital information reflects the shape of your life, not the shape of a 1940's Steelcase file cabinet. Storage space and computing power are dirt cheap; our task isn't to "use them efficiently," it's to "squander them creatively." Instead of searching through your stream for some document, you focus it (as if you were focusing an information beam - which is like a flashlight beam cutting through the digital fog, except that the beam is made of information instead of light). You wind up with a selection of documents, a "substream" that tells some particular story. Your narrative stream as a whole consists of all the interwoven stories that make up your life - your own personal ones as well as the stories of all the groups and communities you belong to.</p>
+
+<p>This kind of information management is simpler, more powerful and more natural than the Steelcase-inspired software we've got today - the files, the folders, the desktops and all those other high-tech office accessories straight out of 1946.</p>
+
+<p>How do I know it will work? Because our company has built it, and it does. (A preliminary desktop version of narrative information management can be downloaded free at our Web site, www.scopeware.com.) Microsoft has similar goals for its Longhorn system, but Longhorn won't be available for two years. We needed one-screen narrative information management yesterday. Our software is up and running today.</p>
+
+<p>Windows is no tool for the future and doesn't claim to be. Technology's future can't possibly be based on treating computers as if they were hyped-up desks and file cabinets - passive pieces of ugly furniture. Computers are active machines, and information-management software had better treat them that way. But Windows can play a central role in giving the future a leg up. It can supply a stable, ubiquitous platform for the future to stand on.</p>
+
+<p>We built our system on Microsoft Windows because Windows is a reliable, solid, reasonably priced, nearly universal platform - and for the software future, "universal" is nonnegotiable. We need to run the system on as many computers as possible and manage the maximum range of electronic documents.</p>
+
+<p>Of course, another operating system, Linux, is also clamoring for attention. Linux and Windows are both children of the 70's: Linux grew out of Unix, invented by AT&T; Windows is based on the revolutionary work of Xerox research. In technology years, these loyal and devoted operating systems are each approximately 4,820 years old. (Technology years are like dog years, only shorter.)</p.
+
+<p>Each is nonetheless still solid enough to be a good, steady platform for the next step in software. But Windows is the marketplace victor and has now won a decisive legal imprimatur. There is no technical reason for us to move to Linux; why should we switch? Why should our customers?</p>
+
+<p>Some argue for Linux on economic and cultural grounds: Microsoft, people say, has driven up prices and suppressed innovation. But this is a ticklish argument at best: after all, over the decade of Microsoft's hegemony, computing power has grown cheaper and cheaper. Innovation has thrived. Our software is innovative; it has not been suppressed. On the contrary, more and more people get interested.</p>
+
+<p>Operating systems are the moldy basements of computing. We used to live down there, but are now moving upstairs to healthier quarters. We rely on the courts and antitrust laws to keep Microsoft from abusing its enormous power. We need Microsoft itself to be the universal stepladder that lets us climb out of our hole and smell the roses.</p>
+</div>
+<div class="footer">
+  <address>published by <a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</div></body>
+</html>

@@ -1,0 +1,47 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Standards and the Law (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000468" title="MonkeyFist Week in Review" />	<link rel="next" href="000472" title="Ethics By Analogy" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Standards and the Law</h1>
+</div>
+
+<div class="content">
+<p><a href="http://rdfig.xmlhack.com/2002/08/05/2002-08-05.html#1028562955.897173">Is the W3C illegal?</a> While reading some relatively unrelated things <a href="http://cr.yp.to/djbdns/namedroppers/20000204012814-28947-qmail@cr-yp-to">I found a message where djb discussed US requirements for standards bodies</a>. The <a href="http://caselaw.lp.findlaw.com/cgi-bin/getcase.pl?court=US&vol=456&invol=556">court ruled</a> that they must &#8220;prevent the standard-setting process from being biased by members with economic interests in stifling product competition&#8221;. I wonder if you could make an argument about this and Microsoft and XML Schema&#8230;</p>
+
+<p>Clark v. W3C, here we come. Somebody call the EFF. ;-)</p>
+
+<p>Meanwhile, why should you trust VeriSign as your Certificate Authority when a US court finds they&#8217;ve <a href="http://icann.blog.us/2002/07/27.html">lied under oath!</a></p>
+
+<p class="posted">posted August 05, 2002 11:34 AM (<a class="category" href="cat_politics">Politics</a>)  <a href="000470" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000468" title="MonkeyFist Week in Review">&laquo; prev</a> | <a href="./">up</a> | <a href="000472" title="Ethics By Analogy">next &raquo;</a></p>
+
+<p><a href="000463">you can&#8217;t handle the x-height!</a><br />
+<a href="000465">miller reminds you to think when you link</a><br />
+<a href="000466">A Contrarian View of Open Source</a><br />
+<a href="000467">Janis Ian on Free Downloads</a><br />
+<a href="000468">MonkeyFist Week in Review</a><br />
+<strong>Standards and the Law</strong><br />
+<a href="000472">Ethics By Analogy</a><br />
+<a href="000473">Reading in your Aggregator</a><br />
+<a href="000474">Government Responds in Eldred v. Ashcroft</a><br />
+<a href="000475">Where&#8217;s Shakespeare?</a><br />
+<a href="000478">Blogging with the Big Boys</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

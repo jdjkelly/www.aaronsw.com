@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>GPhone Announced, Morons (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>GPhone Announced, Morons</h1>
+
+<p>Several years ago, the key members of the team at Danger, then the leading phone OS development firm (they made the Hiptop, called the Sidekick in the US), left to start a new company called Android, which was shortly thereafter acquired by Google. The folks at Android were not shy at what they were up to. One founder, who was in Boston at the same time I was, stated it clearly: they were creating an open OS for phones. When asked what the point of this was, he suddenly got very vague.</p>
+
+<p>A couple years later Apple released the iPhone and what was now a Google division started rounding up partners for the Android OS. The press got wind of it and went crazy. Google was making a phone &#8212; a GPhone! How could Apple compete? What fancy gadgets did it have? Would Google take control of the cell phone industry too?</p>
+
+<p>And today, Google announced what they were doing: the same thing they were always doing, the same thing Android had been doing since day one. They&#8217;re making an open OS for phones.</p>
+
+<p>The only announcement today is of their new &#8220;Open Handset Alliance&#8221;, which I can&#8217;t help but feel is a jab at the Open Content Alliance (which Google pointedly refuses to join). Google has certainly put their clout behind the team at Android and gotten an impressive number of people to sign up to support their little OS. But let&#8217;s not let the press buzz get out of hand. Google isn&#8217;t coming out with a phone, they&#8217;re releasing an open phone operating system. When asked what the point of this is, they suddenly get very vague. Just like always.</p>
+
+<p>I certainly can&#8217;t imagine that having an open phone OS is a bad thing and I&#8217;m glad such talented people are working on it and I hope it&#8217;s good and gets widely adopted, so I can get an even nicer Sidekick cheaply. But, jeez people, let&#8217;s not blow this out of proportion. It&#8217;s just a bunch of open source software.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">November  6, 2007</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>It&#8217;s more vaporware than OSS, and is being promoted with statements like &#8220;Because these innovations and differentiated features can be kept proprietary, manufacturers and mobile operators are protected from the ‘viral infection’ problem often associated with other licenses.&#8221;</p>
+
+<p>Plus, OpenMoko hardware actually exists, was available for developers months ago and will ship by the end of the year.</p>
+
+<p class="posted">posted by James
+ on November  6, 2007 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>GNU/Linux is /just/ software too.</p>
+
+<p>Look how /that/ changed the world.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.bytesexual.org/">Noah Slater</a>
+ on November  6, 2007 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>Yes, but I don&#8217;t think anyone predicted that in advance. When Linus Torvalds announced the first release, geeks liked it but it didn&#8217;t get tabloid-style coverage. It took decades of hard work to make it into something generally useful. The same could be true of Android; declaring victory today is premature.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on November  6, 2007 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>Touché.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.bytesexual.org/">Noah Slater</a>
+ on November  6, 2007 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>Actually, the Open Handset Alliance sounds like the Open Mobile Alliance.</p>
+
+<p>Although the Android OS might create emulation on the mobile market, I don&#8217;t like the idea that Google is the &#8220;center&#8221; of this movement.</p>
+
+<p>They bring great developers, their trademark and their logo, but they are also outsourcing the development of applications while potentially getting the ads revenue.</p>
+
+<p>Moreover, this move continues to fragment the Mobile Linux development as <a href="http://extratech.blogspot.com/2007/11/will-google-fracture-or-unify-mobile.html" rel="nofollow">this post discusses</a>.</p>
+
+<p>Perhaps Android will create an interesting ecosystem and I hope there will a fork with no trace of Google ; otherwise, I&#8217;ll prefer Maemo or ideally <a href="https://wiki.ubuntu.com/MobileAndEmbedded" rel="nofollow">Ubuntu Mobile</a> with a Nokia device.</p>
+
+<p class="posted">posted by kael
+ on November  7, 2007 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c6">
+<p>First, I don&#8217;t understand who you are calling morons in the title and why you think that&#8217;s useful here.</p>
+
+<p>Second, I don&#8217;t understand why just because Google announced that they are building an OS, everyone assumes that this means that they are not also planning on building a phone.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://mako.cc">mako</a>
+ on November  7, 2007 <a href="#c6" rel="bookmark">#</a></p>
+</div>
+<div id="c7">
+<p>I&#8217;m not sure how you can compare Linux and Android. When Linus announced the first release, it was being developed solely by a Finnish university student as a hobby. Android is supported by a $200 billion corporation.</p>
+
+<p class="posted">posted by Steve
+ on November  7, 2007 <a href="#c7" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="introgphone" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

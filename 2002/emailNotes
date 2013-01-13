@@ -1,0 +1,91 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+  <title>Email Notes</title>
+  <link rel="stylesheet" type="text/css" href="/style.css" />
+</head>
+<body>
+<div id="head">
+  <h1>Email Notes</h1>
+</div>
+<div class="content">
+<p>These are notes I took at a <a href="http://conferences.oreillynet.com/cs/p2pweb2001/view/e_sess/1923">P2PCon2 session about email</a>.</p>
+<pre>
+WHAT EMAIL GOT RIGHT
+Jon: group formation, storage medium, CMS w/ human context [metadata]
+Roku: Human-readable identities, namespace piggy-backed on DNS (Jon: like Jabber)
+Roku: "I find excuses to email people URLs [so I can remember them]."
+Roku: "It was a metaphor people could understand."
+Popkin: just good enough, bearable ref implementations, anyone could gateway
+Roku: Makes addressing groups as easy as a single person
+Jon: Generates history
+Thierry: Not biased to the content
+
+[Aaron: Easy to generate, push medium, unification]
+
+WHAT EMAIL GOT WRONG
+Jon: We're all drowning in email, we need filtering, specialized messages. combinatorial explosion in conversations, need semantics
+Jon: primitive semantics, content delivery, versioning problems -- who has what,
+Blue: pass by value, not reference
+Popkin: difficult to merge, etc.
+Jon: threading doesn't work
+Popkin: organization is by sender, not topic/project or something meaningful
+Jon: that's another metadata problem
+Jon: no presence, real-time comm
+Blue: overloaded -- it's the hammer. Uses:
+ - Correspondence (original use)
+ - Instant Messaging (what time are we meeting?)
+ - Carrying Payload (sending files, etc.)
+ [Aaron: notifications]
+Roku: Need system-to-system email
+Roku: isn't it just how we use it?
+Popkin: we have different classes of mail in real world -- shows importance
+Blue: IT says it only fails in one place: attachments
+Jon: IT feels it in KR
+Roku: again, metadata issue
+Thierry: not structured, not organized, puts burden on user. Good thing: not needed to be connected -- that's why good pair for p2p
+Roku: sender controlled: wait 45 min. for 5MB of pictures
+Jon: notification and delivery are one atomic direction
+(crowd: use eurdora/imap)
+Popkin: Most people don't use rules, just ignore most mail
+Blue: until they call to ask if you got it
+Kearney (from audience): "My mail management technique is sort by attachment and delete."
+Popkin: our product works in channels -- people working on a project -- and it's a file system w/ folders and stuff. people use filesystems for metadata [Aaron: bleeech]
+Blue: three types of people: packrats, deleters and filers... solution is to:
+ - make files addressable (link instead of attach)
+ - pass by reference
+ - cache things (for disconnected use)
+our product does this and links in with outlook ("I personally use Eudora.")
+Popkin: lots of good standards in cryptography, but people won't use it.
+Blue: notes has it but hinds it -- you need to hide it completely
+
+HOW TO FIX
+Jon: want to pbv instead of pbr and need protocols with metadata semantics. Do we retrofit email, protocols or come up with new application?
+Thierry: need new app
+Jon: people are living in outlook
+Thierry: I hope there are more apps than word, excel, email and powerpoint
+Popkin: we think attachments go better on normal file transfer protocols
+Blue: use email as notifiaction, eveyrthing else out of band
+Thierry: need offline mode, this is problem with groove [Aaron: Huh?]
+Kearney: We did behavior modification by annoying people until they put their metadata in.
+Roku: if we had more context at the client... (lots of nods from panel) it needs to know about projects with john, etc. and we need a question: "Do you need to let John know about updates to this attachment?"
+Jon: client has no equivalent to HTML and javascript
+Roku: unfortunately outlook does
+Kearney: we need presence awareness, to ask people if they'll accept the email
+Roku: machine-to-machine proxies to do mediation, pull metadata out of incoming and stick metadata into outgoing.
+Thierry: exactly, you don't need to change the client. people don't want to do that. [Aaron: people did it for IM], need to be able to send things thru different pipes
+Audience: can't loose that this is person-to-person. user won't do the work. metadata has to be behind-the-scenes
+Roku: client can do it in retrospect
+Kearney: goal is not to annoy the user, but to encourage them to use rules in client... some of the "tell me more" and "tell me next week" kind of stuff.
+Popkin: people won't do things outside of their real goal, which is not giving you metadata. there's useful stuff you can get by looking at the fs and naming things
+Kearney: We're not all employees all the time.
+Popkin: Some of us never!
+(many laughs)
+Aaron: a lot of categorization informaiton never gets transferred -- users who categorize files / add metadata should share w/ others who got the same message.
+(many nods, agreement)
+</pre>
+
+</div>
+<div class="footer">
+  <address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</div></body>
+</html>

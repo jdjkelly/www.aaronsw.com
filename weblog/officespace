@@ -1,0 +1,688 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Office Space (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Office Space</h1>
+
+<p>People are always asking me how I manage to get so much done. For a while I tried to impress them with <a href="http://www.aaronsw.com/weblog/productivity">my pearls of wisdom</a> but soon I just sort of gave up. I don&#8217;t really feel like I do anything special &#8212; I worry about getting stuff done a lot, but mostly I just sort of do it.</p>
+
+<p>It wasn&#8217;t until I started working in an office that the question begun to make sense. Since I moved to San Francisco I literally haven&#8217;t gotten anything done. I haven&#8217;t finished a book (I finished three on the plane out here), I haven&#8217;t answered many emails (I used to answer hundreds a day), I&#8217;ve written only a couple blog posts (I used to do one a day), and I haven&#8217;t written a line of code (I used to write whole programs in the evenings). It&#8217;s a pretty incredible state of affairs.</p>
+
+<p>You wake up in the morning, take some crushing public transit system or dodge oncoming traffic to get to work, grab some food, and then sit down at your desk. If you&#8217;re like most people, you sit at a cube in the middle of the office, with white noise buzzing around on every side. We&#8217;re lucky enough to get our own shared office, but it&#8217;s not much better since it&#8217;s huge windows overlook a freeway and the resulting white noise is equally deadening.</p>
+
+<p>Wired has tried to make the offices look exciting by painting the walls bright pink but the gray office monotony sneaks through all the same. Gray walls, gray desks, gray noise. The first day I showed up here, I simply couldn&#8217;t take it. By lunch time I had literally locked myself in a bathroom stall and started crying. I can&#8217;t imagine staying sane with someone buzzing in my ear all day, let alone getting any actual work done.</p>
+
+<p>Nobody else seems to get work done here either. Everybody&#8217;s always coming into our room to hang out and chat or invite us to play the new video game system that <em>Wired</em> is testing. The upside is that while we haven&#8217;t gotten much of our work done, we have managed to do many other people&#8217;s. Various folks from around the office have shown up to have us help them with their technical problems, which we usually solve fairly quickly. We joked that we should get transferred to their IT department instead of Web development.</p>
+
+<p>We&#8217;ve been spared most of the brunt of it, but their IT policy is pretty scary. There&#8217;s a company Internet connection, which routes everything through the IT HQ in Delaware, presumably the better to spy on us on. On Day 1 they took our laptops and &#8220;backed up&#8221; the drives to ensure they had a copy of all our data. (We scurried to get our MP3 collections and worse off first.)</p>
+
+<p>Then they issued us company-approved laptops: terribly-slow iBook G4s complete with Conde Nast desktop and screensaver with spy software pre-installed. When they gave us the machines we didn&#8217;t even have administrator access on them. The clock was set to the Eastern time zone; I needed an IT department person to change it to show me California time.</p>
+
+<p>The company laptop is necessary to read our company email which, being on a Microsoft Exchange server, requires a special Microsoft email client to read. You also need to be on a company laptop to access the company network, where you can log into a maze of PeopleSoft web sites to file expense reports and change your health benefits.</p>
+
+<p>I feel wiped after dealing with this non-work for a couple hours, but I can&#8217;t get any rest from lying on our couch because it too is surrounded by the white noise.</p>
+
+<p>Finally at 5 the office empties out and I can go home where, to compensate for the dullness of the days, I brighten up the nights. Life-threatening bicycle rides, dinners and movies with friends, museums, running along the beach, navigating the nightmare of public transit to visit the new hot spot. And if I get home early there are the roommates eager to chat about their days. By the time I break away it&#8217;s midnight, if not 3am. I had to spend much of the weekend sleeping just to catch up.</p>
+
+<p>And then it&#8217;s back to the grind once again. A carousel that never stops to let you get off.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">November 15, 2006</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>I&#8217;m not sure what the terms of your acquisition are, but you have to get out of that office. Work at home or a coffee shop. Heck, code in a notebook in the park. It&#8217;d be more productive.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://dstowell.org/blog/">Dan Stowell</a>
+ on November 15, 2006 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>Ouch.</p>
+
+<p>I have a theory that a company would be served by having all employees and all management write a daily blog, publicly viewable.  When hiring, an applicant can read the blogs of his would-be co-workers and would-be manager.  Reading, searching for cluelessness.</p>
+
+<p>People don&#8217;t like to write, people don&#8217;t like to think.  Those are the first two problems with that idea.</p>
+
+<p>You could use &#8220;tricks&#8221; to make daily writing painless.  A company could hire a cartoonist, to draw a daily cartoon without words, and all employees would have to compose a caption.  Or, more mundanely, give out a daily short creative writing exercise.</p>
+
+<p>The &#8220;professional&#8221; world makes cluelessness easy to hide.  If the suit and offices are respectable enough, almost any form of brain-damage or psychosis can be hidden for decades.</p>
+
+<p>My advice, literally chain yourself to your boss&#8217;s desk (for added drama, use a chain of Kryptonite bicycle locks, the last one around your neck), and demand a private, acoustically dead office.  The halfway measures you will try over the next few months (begging, pleading, passive-aggressive behavior) will be more humiliating in aggregate, and not as effective.</p>
+
+<p class="posted">posted by manuelg
+ on November 15, 2006 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>Yeah, most people dream of becoming a millionaire so they can quit coming into the office, not start.</p>
+
+<p>Can&#8217;t you work at home? It seems like Wired would be down with that.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://deadhobosociety.com">Carl</a>
+ on November 15, 2006 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>Sounds like soon you&#8217;ll be ready to leave and start working on the next big thing.</p>
+
+<p>Can&#8217;t wait to see what it is, from the little I know about you, I&#8217;d suggest thinking big&#8230; :)</p>
+
+<p>With the Democratic congress, have you thought of a startup that makes simple/secure voting equipment?</p>
+
+<p class="posted">posted by Andrey Fedorov
+ on November 15, 2006 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>I work down the way from your office at UCSF in Mission Bay. I was suffering from similar problems and ended up petitioning to occupy some empty space we have. After some special meetings my request was approved and I now find myself in a large empty space with only a few other people about 20 meters away. In other words, peace, quiet, and a great view of the bay. Which equals me getting lots of work done and not wanting to even leave to go home.</p>
+
+<p>Corporate thinking is backwards. Make your employees happy. Give them a space to think and don&#8217;t limit anything they can do.</p>
+
+<p>Google seems to be doing lots of things right.</p>
+
+<p>But in the meantime, if you need an empty and quiet desk with a great, albeit industrial, east facing view of the bay, let me know :).</p>
+
+<p class="posted">posted by Sean
+ on November 16, 2006 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c6">
+<p>Aaron, your plight (if I can call SF and lots of money a plight) totally reminds me of the short film <a href="http://demotivators.stores.yahoo.net/watchmore.html" rel="nofollow">More</a></p>
+
+<p>I sympathise with you about e-mail. Tulane has decided the open source mail systems that survived Katrina just aren&#8217;t good enough so they&#8217;re switching to Microsoft Exchange. We are now limited to 100 MB on the server (what&#8217;s that, a couple PowerPoint decks?), and if we want to centrally manage our email then we have to use Microsoft&#8217;s client-side program to download the e-mail to a PC, and then forward from that weak link back to our gmail, yahoo, whatever account.</p>
+
+<p>Maybe the Vista release was a distraction while Microsoft&#8217;s real mission was to infiltrate more corporate servers and continuing their hold on the clientside market.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://nielsolson.us/">Niels Olson</a>
+ on November 16, 2006 <a href="#c6" rel="bookmark">#</a></p>
+</div>
+<div id="c7">
+<p>I used to work in a high-distraction office like that. I got myself moved to more private, quieter space &#8212; it made an enormous difference to my sanity and productivity.</p>
+
+<p>Maybe you guys need to get your own separate office space, not even in the Wired building. Now is the time to make noise about it.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://brevity.org/">Neil Kandalgaonkar</a>
+ on November 16, 2006 <a href="#c7" rel="bookmark">#</a></p>
+</div>
+<div id="c8">
+<p>Success should only be measured by the satisfaction you receive from your work.  Selling out to DorkCorp  is a sure way to fail. Find the nearest exit and go start another venture.  Reddit will die a slow horrid corporate death and we will all cry but at least you will save your own soul.</p>
+
+<p class="posted">posted by Johnny Pops
+ on November 16, 2006 <a href="#c8" rel="bookmark">#</a></p>
+</div>
+<div id="c9">
+<p>What you need to do is to start cultivating the afternoon nap. After they find you slumped over your keyboard asleep 3 or 4 times, they&#8217;ll give you gardening leave and a severance package. And then you can go back to real life and doing what you actually want to do!</p>
+
+<p>Working in corporates sucks. It&#8217;s the red zone. Every time you want to do something there&#8217;s a red stop light that says &#8220;Wrong Way&#8221;.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.ecademy.com">Julian Bond</a>
+ on November 16, 2006 <a href="#c9" rel="bookmark">#</a></p>
+</div>
+<div id="c10">
+<p>Take solace in the fact that builders (programmers, engineers, etc.) are very often hindered by environments that sap creativity and productivity, so you&#8217;re in no way alone.  It&#8217;s why every engineer wants to work at Google &#8212; building employee ideas are the core of the business.  Most companies lose that startup-ishness over time as they feel pressure to milk their successes rather than continue to innovate.</p>
+
+<p class="posted">posted by Josh
+ on November 16, 2006 <a href="#c10" rel="bookmark">#</a></p>
+</div>
+<div id="c11">
+<p>I wont disagree with you, so Can you get fired on your first day?</p>
+
+<p class="posted">posted by  Berlin Brwon
+ on November 16, 2006 <a href="#c11" rel="bookmark">#</a></p>
+</div>
+<div id="c12">
+<p>Speak for yourself, man.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://reddit.com">Steve Huffman</a>
+ on November 16, 2006 <a href="#c12" rel="bookmark">#</a></p>
+</div>
+<div id="c13">
+<p>Working at Reddit: Wired
+Working at Wired: Tired</p>
+
+<p class="posted">posted by Morgs
+ on November 16, 2006 <a href="#c13" rel="bookmark">#</a></p>
+</div>
+<div id="c14">
+<p>You have a lot of balls.</p>
+
+<p>I would never write something like this until I&#8217;ve left the company, and even then, would wait at least 1-2 years so as to not burn any bridges.</p>
+
+<p>I&#8217;ve been working from home full-time for the last 6 months and will find it hard to ever go back to a daily commute.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://sablog.com/">Shanti Braford</a>
+ on November 16, 2006 <a href="#c14" rel="bookmark">#</a></p>
+</div>
+<div id="c15">
+<p>I second the sentiment recommending you escape; I fled my evil office-environment overlords about a year ago, and I&#8217;ve been increasingly happy, sane, and productive ever since.</p>
+
+<p>You owe it to yourself to fight for change - and if anyone is dumb enough to put bureaucratic roadblocks in your way, you&#8217;ve got a large and potentially highly influential sympathetic audience here at reddit ;-)</p>
+
+<p class="posted">posted by Apoch
+ on November 16, 2006 <a href="#c15" rel="bookmark">#</a></p>
+</div>
+<div id="c16">
+<p>Of course while negotiations, both you and the Corp said the words about  you continuing to work on your project after the takeover, but you did not take it seriously, did you?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://lukewarm.infogami.com">Lukewarm Earthcrawler</a>
+ on November 16, 2006 <a href="#c16" rel="bookmark">#</a></p>
+</div>
+<div id="c17">
+<p>I had a similar experience. It was a brutal shock. My advice: run, run for your life!!! if not, you may quickly feel your brain shrink into oblivion&#8230;</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.boazinho.com">Boazinho</a>
+ on November 16, 2006 <a href="#c17" rel="bookmark">#</a></p>
+</div>
+<div id="c18">
+<p>I echo someone elses comment here, you do have a lot of balls! Having said that I have been through something very similar and found that a switch of environments is almost always painful and involves a couple of months of getting used to. Use your ipod with noise canceling headphones for the sound. Search the office for a less noisy place, even if Wired doesn&#8217;t have enough space for offices for everyone I am sure they have some cubicles in an area where not many people walk by.</p>
+
+<p>Finally, the thing that should give you the most hope is that people are nice. Amongst the kind of people I expect to work at Wired, I would also expect people who have founds ways and means of getting around the draconian IT policy. I know people at my company who have. Hell you may even find a sympathetic IT admin for some inside help ;)</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://aarjav.org">Ajju</a>
+ on November 16, 2006 <a href="#c18" rel="bookmark">#</a></p>
+</div>
+<div id="c19">
+<p>I respect your sincerity in our falsehood filled world.</p>
+
+<p class="posted">posted by Firk
+ on November 16, 2006 <a href="#c19" rel="bookmark">#</a></p>
+</div>
+<div id="c20">
+<p>Hi Aaron. That&#8217;s a nice little business conundrum you got there. My advice is to talk about this with the people you made the deal with/ the people who have some sort of interest in reddit and the power to make executive decisions. 
+Focus on how reddit brings value to them and explain how the current office environment will destroy that value, how they will make less profit both short and long term. Explain that the value they get from reddit and from the reddit crew depends on certain work conditions. Then you&#8217;ll find out if they understand what you&#8217;re talking about and hopefully ask what conditions you&#8217;d like.
+But remember, talk to the people who have the power to decide, not your nearest boss, and talk about value, cost efficiency and profit. It might piss your boss off but it&#8217;s the only way to get a change.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://enklo.com/">Rikard Linde</a>
+ on November 16, 2006 <a href="#c20" rel="bookmark">#</a></p>
+</div>
+<div id="c21">
+<p>Mail.app speaks Exchange, though I doubt they support its use.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://dynamictyping.org">Matt</a>
+ on November 16, 2006 <a href="#c21" rel="bookmark">#</a></p>
+</div>
+<div id="c23">
+<p>Thanks for giving us such a candid account of your experience.  Sorry to hear it&#8217;s been so grim.  I can sort of understand, I work for a huge corporation and it&#8217;s not really any different.  Then again, I&#8217;ve never sold a start-up company so clearly our parallels are limited.  Good luck to you brother.</p>
+
+<p>&#8212;Dan D.</p>
+
+<p class="posted">posted by Dan D.
+ on November 16, 2006 <a href="#c23" rel="bookmark">#</a></p>
+</div>
+<div id="c24">
+<p>Sjeez Aaron,
+I like your candor, I hope Wired does too and get&#8217;s this sorted out asap. 
+Good luck.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://verloy.wordpress.com">wowbagger</a>
+ on November 16, 2006 <a href="#c24" rel="bookmark">#</a></p>
+</div>
+<div id="c25">
+<p>I realize our Somerville conversations weren&#8217;t exactly epic but I have to say you seemed pretty damn happy sleeping in a cramped corner and cranking out code all night. My gut says you should go back to your roots, being happy doesn&#8217;t require the money Wired is dangling in front of your nose. Just look at Paul; he has all the money in the world, drives a Jetta instead of a Porsche, and hangs out with cash strapped students for fun.</p>
+
+<p class="posted">posted by Jeff C.
+ on November 16, 2006 <a href="#c25" rel="bookmark">#</a></p>
+</div>
+<div id="c26">
+<p>Yes, it all seems awful, but please do make the bike rides a little less life-threatening and go buy (and use!) a helmet.</p>
+
+<p class="posted">posted by t'mo
+ on November 16, 2006 <a href="#c26" rel="bookmark">#</a></p>
+</div>
+<div id="c27">
+<p>Wow, interesting.  I&#8217;m surprised Wired offices are like this, especially the part about being fairly non-flexible on computer issues.  And old G4 iBooks? Maybe they want you to do reviews for OS 9 games&#8230;.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.prosebeforehos.com">alec</a>
+ on November 16, 2006 <a href="#c27" rel="bookmark">#</a></p>
+</div>
+<div id="c28">
+<p>Grow up.</p>
+
+<p>I know that sounds combative and insulting, but it is intended to be neither, and is probably the most productive comment you&#8217;ll receive.</p>
+
+<p>I&#8217;m simply reacting to what sounds like a need for better coping skills, and to adapt to and see the positives in change. As it is your cheese has been moved &#8212; to reference a terribly overused meme, so you&#8217;re feeling vulnerable and negative about everything around you. In many ways this almost reads like the first letter home from summer camp, when everything stinks and is yucky and everyone is mean and &#8220;can&#8217;t you come and pick me up mom?&#8221;</p>
+
+<p>Did you ever go away to summer camp? Did you go away for university?</p>
+
+<p>Of course, empire-building asshat IT departments and policies are an epic annoyance in this industry. They&#8217;re basically a set of policies built around keeping Timmy &#8220;the gator&#8221; in sales from opening viruses disguised an porn email, but they&#8217;re a major pain in the ass for people who know what they&#8217;re doing.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.yafla.com/dforbes/">Dennis Forbes</a>
+ on November 16, 2006 <a href="#c28" rel="bookmark">#</a></p>
+</div>
+<div id="c29">
+<p>You&#8217;re a ginormous pussy.</p>
+
+<p class="posted">posted by Josh
+ on November 16, 2006 <a href="#c29" rel="bookmark">#</a></p>
+</div>
+<div id="c30">
+<p>This is why Microsoft gives every engineer their own office, with four walls and a door that closes&#8230;</p>
+
+<p class="posted">posted by Stuart
+ on November 16, 2006 <a href="#c30" rel="bookmark">#</a></p>
+</div>
+<div id="c31">
+<p>Get out of there ASAP.</p>
+
+<p class="posted">posted by Frank
+ on November 16, 2006 <a href="#c31" rel="bookmark">#</a></p>
+</div>
+<div id="c32">
+<p>That sounds like a horrible ennvironment to work in, I&#8217;m surprised Wired works that way, they always sound so happy and friendly</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://greattastic.com">Ryan</a>
+ on November 16, 2006 <a href="#c32" rel="bookmark">#</a></p>
+</div>
+<div id="c34">
+<p>Talk about biting the hand that feeds.  What has it been, a whole week?</p>
+
+<p>If you&#8217;re miserable in the office, fucking fix it.  Work from home, work nights, quit, whatever.  I am quite certain you could solve this problem without  publicly dissing your new employer.  And more importantly, without making life difficult for your (presumed) friends who got you this gig in the first place.</p>
+
+<p>By all means fix your problem.  Show a little consideration for someone other than yourself while you&#8217;re at it.</p>
+
+<p class="posted">posted by Matt C
+ on November 16, 2006 <a href="#c34" rel="bookmark">#</a></p>
+</div>
+<div id="c35">
+<p>Hello,</p>
+
+<p>I&#8217;ve been a IT consultant for over 10 years now.  In that time I&#8217;ve had to catch flights in snowstorms, been shoved in corners and tiny ridiculous cubicles by clients.  Been treated like subclass dirt by full time employees of clients.  Stood at White Plains airport for 2 hours every Friday night waiting for a flight to chicago.  Been under enormous deadline pressure under impossible circumstances created by clueless project managers.</p>
+
+<p>And your issue is that your sofa office in San Francisco has white noise?</p>
+
+<p>Toughen up, you&#8217;re soft. I hope you invest your money wisely because if you have to get a real job you ain&#8217;t seen nothing yet!</p>
+
+<p class="posted">posted by Jim
+ on November 16, 2006 <a href="#c35" rel="bookmark">#</a></p>
+</div>
+<div id="c36">
+<p>Nobody has spit on you at work yet? Sounds like an above average office in San Francisco.</p>
+
+<p class="posted">posted by confused
+ on November 16, 2006 <a href="#c36" rel="bookmark">#</a></p>
+</div>
+<div id="c37">
+<p>Speaking from experience of being stuck in a situation like that for 2 years before an Office Space/&#8221;The Office&#8221; marathon made me aware of it.</p>
+
+<p>Get out NOW.</p>
+
+<p>It took over a year of time off to get back to normal productivity. Environments like that drain your life and creativity, and even now I&#8217;m much more reluctant to start new ideas I have.</p>
+
+<p>I thought I could change the place for colleagues and I, but months of meetings and having suggestions shot down completely kills your self esteem. Then you start wondering if you&#8217;re the only one who notices how messed up the environment you&#8217;re in is.
+All other co-workers seem content to be given even the slightest amount of freedom from monotony, akin to a caged pet being delighted at the chance to run free for 5 minutes per week.</p>
+
+<p>The worst part is that you don&#8217;t notice it changing you until it&#8217;s too late. When you find yourself attending corporate &#8220;productivity getaways&#8221; or &#8220;customer service seminars&#8221; and thinking that they&#8217;re a great motivation to keep working for a few months longer.</p>
+
+<p>By the time I left, it took me 1 solid week to clear out and &#8216;delegate&#8217; all the email or work that&#8217;d built up over time, and I&#8217;d spotted emails sent by friends 6 months earlier asking if I wanted to catch up over the weekend.
+You find yourself attending work sponsored parties where everyone is asking everyone else &#8220;What do you do for a living?&#8221;, then seeing the blank stare of apathy on their faces as they pretend to care, much like you pretend to care how well their department is doing.</p>
+
+<p>I&#8217;d better stop here, as all the horrible memories are gushing back and making me ask myself &#8220;Why didn&#8217;t I leave on the first day after training like one of the other guys did?&#8221;.</p>
+
+<p>Heed my warning, get out before it really starts to change you, and you &#8216;live your life one weekend at a time&#8217;.</p>
+
+<p class="posted">posted by K
+ on November 16, 2006 <a href="#c37" rel="bookmark">#</a></p>
+</div>
+<div id="c38">
+<p>And Paul helped you to get here?  How ironic.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://http://nsputnik.com">Nick D</a>
+ on November 16, 2006 <a href="#c38" rel="bookmark">#</a></p>
+</div>
+<div id="c39">
+<p>Oh, and anyone who tells you to &#8220;get over it&#8221; or &#8220;be a man&#8221; is deluding themselves into thinking that this is what life is supposed to be like.</p>
+
+<p>I sincerely hope that you didn&#8217;t sign a contract giving your employer &#8216;intellectual property&#8217; ownership of anything you create while working there, as I did.</p>
+
+<p>Corporate environments like that only exist because everyone is busy telling each other that this is how it&#8217;s supposed to be in the 21st century, instead of being smart and leaving.</p>
+
+<p>If you stay, you will regret it.</p>
+
+<p class="posted">posted by K
+ on November 16, 2006 <a href="#c39" rel="bookmark">#</a></p>
+</div>
+<div id="c40">
+<p>&#8220;Oh, and anyone who tells you to &#8220;get over it&#8221; or &#8220;be a man&#8221; is deluding themselves into thinking that this is what life is supposed to be like.&#8221;</p>
+
+<p>or perhaps they&#8217;re thinking that maybe people should communicate and try to change things.</p>
+
+<p class="posted">posted by matt m.
+ on November 16, 2006 <a href="#c40" rel="bookmark">#</a></p>
+</div>
+<div id="c41">
+<p>Re what Dennis Forbes said.</p>
+
+<p>I don&#8217;t believe this is a question of growing up. Anyone who thinks that is being condescending, even though they may think it is good advice.</p>
+
+<p>To those who suggested work arounds for Exchange: snicker, sigh! That&#8217;s just a <em>symptom</em> &#8212; the disease is systemic and unwinnable &#8212; organizational lupus.</p>
+
+<p>Speak to Paul. I am sure he would be distressed at your situation and would recommend some exits. After all, the idea from at least one of his essays was how to deliver superb value/wealth to the world and retire from the workaday misery of ordinary folk who spend a lifetime delivering close to zilch value in an office-space environment.</p>
+
+<p>Especially when you have so many better things to do. You&#8217;re a good writer and (I am sure) programmer. There are hundreds of problems to be solved out there, millions of other things to do.</p>
+
+<p>Don&#8217;t sell yourself short. Jeez, you&#8217;d have a better office environment in Microsoft, where you can bring your apple laptop to work.</p>
+
+<p>To those who think you&#8217;re making life tough for your co-workers etc. &#8212; get over it! This is not a personal attack on Wired. If a problem exists, the first thing a hacker does is acknowledge it, instead of hiding behind management-speak.</p>
+
+<p>Show your manager the Parable of the Developer and ESR&#8217;s managing hackers article. If he doesn&#8217;t get it, refuse to fill in the peoplesoft timesheet. What, it&#8217;s not like you need the money that bad, and a little passive resistance won&#8217;t hurt (unless you&#8217;re at UCLA). Turn up to work as usual, just refuse to jump through the bureaucratic hoops.</p>
+
+<p>They&#8217;ll let you work from home rather than deal with the aggravating holes you&#8217;re causing in daily/weekly reports.</p>
+
+<p>This is a classic test of PG&#8217;s assertions that large companies can outsource innovation &#8212; that much is true, but perhaps he should write a follow-up on how small companies can survive once bought out.</p>
+
+<p>PG and you both see the problem clearly enough. Now it&#8217;s time to hack a solution!</p>
+
+<p>And cheer up! Remember you can walk away anytime you want. Reddit can be the throw-away first project, you have much more within you!</p>
+
+<p class="posted">posted by notso anonymouse
+ on November 16, 2006 <a href="#c41" rel="bookmark">#</a></p>
+</div>
+<div id="c42">
+<p>I too have experience with the bike rides (my usual transport to work) and the corporate drudgery.  The good news is that the place has a shower so I can change after the ride.  The bad news is best described by you, Aaron.</p>
+
+<p>I don&#8217;t know why corporate knowledge applications are so often big balls of sucktitude.  It&#8217;s impossible to find anything, and they&#8217;re generally so slow!  It seems that there&#8217;s gotta be a market for (wince) &#8220;Web 2.0&#8221; business apps of this nature, where that trite term means &#8220;doesn&#8217;t suck&#8221;.</p>
+
+<p>Your description, Aaron, is why the founders leave after they get bought out&#8212;and start something else.  It just happens.</p>
+
+<p class="posted">posted by Rich
+ on November 16, 2006 <a href="#c42" rel="bookmark">#</a></p>
+</div>
+<div id="c43">
+<p>I usually put it on these terms:</p>
+
+<p>Is your situation worse than someone selling their body on the street for crack?</p>
+
+<p>If not, it&#8217;s really not that bad.</p>
+
+<p class="posted">posted by Robert S
+ on November 16, 2006 <a href="#c43" rel="bookmark">#</a></p>
+</div>
+<div id="c44">
+<blockquote>
+  <p>I don&#8217;t believe this is a question of growing up. Anyone who thinks that is being condescending, even though they may think it is good advice.</p>
+</blockquote>
+
+<p>Let Aaron revisit it in 5 years and see if it really was <em>so bad</em> (so bad that in half a day he was distraught in a bathroom).</p>
+
+<p>And to those thinking that this means &#8220;suck it up and take it, because this is the feces that is real life&#8221;, let me assure you that would be entirely missing the point. The point is rather that right now it seems like Aaron is only seeing the negative side of everything, and he&#8217;s blind to all of the positives, which is a typical &#8220;who moved my cheese&#8221; kind of reaction. Give him time.</p>
+
+<p class="posted">posted by Dennis Forbes
+ on November 16, 2006 <a href="#c44" rel="bookmark">#</a></p>
+</div>
+<div id="c45">
+<p>A thought experiment that might help - if you started a new venture at this new place, would/could it be as good and successful as reddit? Why/ why not? What does the answer tell you?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://enklo.com/">Rikard Linde</a>
+ on November 16, 2006 <a href="#c45" rel="bookmark">#</a></p>
+</div>
+<div id="c46">
+<p>posted by matt.m: or perhaps they&#8217;re thinking that maybe people should communicate and try to change things.</p>
+
+<p>Or perhaps you didn&#8217;t read my original post, where I spent 2 years &#8220;communicating and trying to change things&#8221; at the corporation I worked at, which was also not as bad as the conditions Aaron has mentioned being in.
+Sure, you could waste 2 years of your life trying to slay the corporate Hydra like I did, as matt m. suggests.</p>
+
+<p class="posted">posted by K
+ on November 16, 2006 <a href="#c46" rel="bookmark">#</a></p>
+</div>
+<div id="c47">
+<p><a href="http://www.ishopr.com/blog/?p=48" rel="nofollow">The way we work is changing</a> I feel the same as Aaron. I only realized it after this post.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.ishopr.com/blog/">David Smit</a>
+ on November 16, 2006 <a href="#c47" rel="bookmark">#</a></p>
+</div>
+<div id="c48">
+<p>didn&#8217;t paul graham give you any REAL advice about what you do when you are acquired?</p>
+
+<p>dude. this is what you do. you come in between 10 and 11am, surf the web until 2 or 3, then leave. don&#8217;t even show up on fridays. for kicks, you could be like winamp when they got acquired by AOL, and actively try to destroy the company from within (with a lot of success, I was there&#8230;)</p>
+
+<p class="posted">posted by chompy omega
+ on November 16, 2006 <a href="#c48" rel="bookmark">#</a></p>
+</div>
+<div id="c49">
+<p>My advise, to you and all others in similar plight, invest in a good set of headphones (Bose maybe) and wear a deep baseball cap for that tunnel vision. And yeah, remember to take a lot of short breaks from your computer. Sometimes the crowd around can make (ironically) you not want to leave your desk too.</p>
+
+<p>And yeah, get a remote connection setup, so that you can work from home two three (or how many ever you can persuade your manager to agree with) number of days from work.</p>
+
+<p>Start early to work, and don&#8217;t spend a minute more than the required time. The remainder of it, work at home on GNU/Linux (or even better on a new Lisp compiler).</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.paulgraham.com/gh.html">Alok</a>
+ on November 16, 2006 <a href="#c49" rel="bookmark">#</a></p>
+</div>
+<div id="c50">
+<p>Take a holiday bro. You&#8217;ve just been through an enormous amount of stress. Start-up + negotiations + buyout + move to new city = burnout. No wonder you&#8217;re melting down.</p>
+
+<p>I&#8217;m an only child, a little bit &#8216;aspergery&#8217; and noisy offices affect me physically.  My one year at a large corporate reduced me to blubbing in bathrooms too. I hated it and will never put myself in that situation ever again. I&#8217;m a hundred times more productive tele-working from my home office.</p>
+
+<p>Take a break, kick back and sort your head out.  You need to format C the whole hard drive and set a clean system back up. It takes time to get over major events in your life and if you don&#8217;t relax then you&#8217;ll just keep crashing.</p>
+
+<p>If you want somewhere to totally get away from it all - come and chill with us in New Zealand. Summer is just about to kick in and it sounds like some sun &amp; surfing would do you good. &#8230;</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.mohawkmedia.co.nz">Helen Baxter</a>
+ on November 16, 2006 <a href="#c50" rel="bookmark">#</a></p>
+</div>
+<div id="c51">
+<p>Ouch. I think the one thing that made me feel the most pity for you is the iBook with a G4 in it. And no admin access.</p>
+
+<p>Welcome to the corporate world. I suggest you get what you can out of it and start brainstorming the next big thing. There&#8217;s lots to see and do in the Bay Area.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.webomatica.com/wordpress/">Webomatica</a>
+ on November 17, 2006 <a href="#c51" rel="bookmark">#</a></p>
+</div>
+<div id="c52">
+<p>Um, okay, you just accomplished something with a start-up, get a cushy job in an office in one of the most beautiful cities in the world, and oh, the white noise! How could I, super special genius man, get any kind of work done with&#8230;<i>the white noise!!!</i></p>
+
+<p>Please. We live in a world of 6 billion people. Occasionally, you have to compromise to keep things moving, but it doesn&#8217;t seem like that&#8217;s even your problem. You have money, talent, and most of all, <i>options</i>. So quit your bitching and realize that whatever your quality of life is right now, there&#8217;s probably many many more people who&#8217;ve got worse than better.</p>
+
+<p class="posted">posted by Dude
+ on November 17, 2006 <a href="#c52" rel="bookmark">#</a></p>
+</div>
+<div id="c53">
+<p>Noise canceling headphones dude.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://tailrank.com">Kevin A. Burton</a>
+ on November 17, 2006 <a href="#c53" rel="bookmark">#</a></p>
+</div>
+<div id="c54">
+<p>White noise often kills me too. A really simple suggestion: ear plugs. They look ridiculous, but some days they save my sanity. I have big red and black industrial strength ear-muff style ones which work amazingly at stopping the noise. I don&#8217;t often wear these in public though, and they can be hot at times. Industrial strength small foam plugs are also extremely good and unobtrusive. I use these most often at the office; but they make the insides of my ears itch after a while. Finally, my last line of defense is a pair of noise-canceling audio headphones. But these can be dangerous as they often come along with another sort of distraction. &lt;-: The ones I have are in-ear buds. They work&#8230; sort of. They produce their own white noise which is a bit annoying, but it&#8217;s of an entirely different nature: suddenly a quiet noise inside one&#8217;s own head is better than the more ambient external noise. Anyhow, nice writing&#8230;</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.eluta.ca">T. Middleton</a>
+ on November 17, 2006 <a href="#c54" rel="bookmark">#</a></p>
+</div>
+<div id="c55">
+<p>You mention deadening &#8220;white noise&#8221; 3 times. I wish I worked there. It sounds like a great place to mask my 24hr/day tinnitus. Be thankful that you at least can experience silence away from work. It&#8217;s been over 20 years since I&#8217;ve heard silence; I think I&#8217;ve forgotten what it sounds like.</p>
+
+<p class="posted">posted by Gregg
+ on November 17, 2006 <a href="#c55" rel="bookmark">#</a></p>
+</div>
+<div id="c56">
+<p>Hey, here is how I solve the problem: http://tinyurl.com/ylr6rm
+If they object - then take the hint and LEAVE!</p>
+
+<p>Good luck and keep blogging!</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://tinyurl.com/ylr6rm">Richard Freytag</a>
+ on November 17, 2006 <a href="#c56" rel="bookmark">#</a></p>
+</div>
+<div id="c57">
+<p>wow, you touched a nerve, too, judging by all the comments.
+i wonder how the wired people who stopped by to talk to you feel about all of this.is there any chance they were trying to welcome you? in my time in IT i have mostly tried to help the poepl i support&#8230;.and it is my job, not my entire personality. sorry you are unhappy, but i think you were a little rough on some folk.</p>
+
+<p class="posted">posted by jeremy w
+ on November 17, 2006 <a href="#c57" rel="bookmark">#</a></p>
+</div>
+<div id="c58">
+<p>I can&#8217;t get anything done in offices either. And I would never work somewhere that told me what software to run. (didn&#8217;t you discuss that when you agreed to work there?)</p>
+
+<p>Get yourself some Shure e2c&#8217;s and all you&#8217;ll hear is music. (or e5c&#8217;s if you don&#8217;t care about the price)</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://impressive.net/people/gerald/">Gerald Oskoboiny</a>
+ on November 17, 2006 <a href="#c58" rel="bookmark">#</a></p>
+</div>
+<div id="c59">
+<p>Aaron,</p>
+
+<p>I have heard that Tibetan Monks will use white noise as an exercise to deepen their ability to meditate.</p>
+
+<p>Life: It&#8217;s all about controlling your mind.</p>
+
+<p>You&#8217;re NOT going crazy&#8230; you&#8217;re being tested.</p>
+
+<p>You did make me much happier with my cube environment.</p>
+
+<p>Endure work and start creating a side project at home&#8230; in a closet&#8230; with 3 other cool nerds.</p>
+
+<p class="posted">posted by 
+ on November 17, 2006 <a href="#c59" rel="bookmark">#</a></p>
+</div>
+<div id="c60">
+<p>I absolutely sympathize with your plight.  Working in a corporate office is absolute drudgery.  By the way, Exchange has a web mail interface, so there really isn&#8217;t a reason you have to use Outlook (or Entourage) 100% of the time.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://arrangingmatches.typepad.com">Carl</a>
+ on November 17, 2006 <a href="#c60" rel="bookmark">#</a></p>
+</div>
+<div id="c61">
+<p>Exchange also has POP/SMTP interfaces, if IT has enabled them.</p>
+
+<p>Also, let me sum up your new work environment:
+* Shared office with only 1? other person
+* Window office
+* Has a couch
+* Friendly, outgoing coworkers</p>
+
+<p>Sounds awful!</p>
+
+<p>Also: if you can somehow manage to get the local administrator password, do it. IT usually doesn&#8217;t care if you install stuff/generally mess with your own computer, they just don&#8217;t want to support it when it breaks. But YMMV, and they may be really security-crazy and fire you and press charges. Who knows.</p>
+
+<p>I couldn&#8217;t survive without admin access on my machine.</p>
+
+<p class="posted">posted by Peter
+ on November 17, 2006 <a href="#c61" rel="bookmark">#</a></p>
+</div>
+<div id="c62">
+<p>Can&#8217;t stop posting to this thread:-) 
+Aaron, either you deal with the symtoms of the problem, white noise, CN choosing what computer you use etcetera. These symtoms will never disappear if you don&#8217;t do what I recommend - deal with the root cause. The actual problem is the question of power. What things should CN decide about and what should you decide about? The answer should be based on an assessment of what will yield the best result.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://enklo.com/">Rikard Linde</a>
+ on November 17, 2006 <a href="#c62" rel="bookmark">#</a></p>
+</div>
+<div id="c63">
+<p>Well, you&#8217;ve got the spectrum of replies from toughen up to quit.  I find too many people suck it up (and become bitter old people - &#8220;In my day my boss treated us like slaves.  Be happy you get a choice about lunch.&#8221;), and when I see someone that doesn&#8217;t accept that, I applaud.  Honestly, it&#8217;s the uncommon position to take, and because of that you generally have be of stronger will than those who suck it up and think they&#8217;re the tough ones.</p>
+
+<p>As one of the successful ones, or so I presume, you have to put your foot down for all those who can&#8217;t (won&#8217;t actually).  Who&#8217;s gonna make the situation better if everyone just sucks it up?  Now, maybe you suck it up for a short time, a couple months, but any longer and you&#8217;re joining the line of suckers who are too afraid of real change (unless your goal your own Dilbert comic).  Sometimes it can be done on the inside, and it&#8217;s a personal question if you really want to be that person because it takes a lot of time and effort the larger more established a company is.</p>
+
+<p>I say let the companies compete.  If you aren&#8217;t willing to use the power you have as an employee, that being quitting and going someplace else, then companies won&#8217;t ever have to really compete for employees.  Competition has a great way of equalizing the field, especially if you can find a competitor that treats you better and in turn competes better.  Don&#8217;t be pressured into accepting unhappy conditions because others were pressured into unhappiness themselves.</p>
+
+<p class="posted">posted by MyNameIsMatt
+ on November 17, 2006 <a href="#c63" rel="bookmark">#</a></p>
+</div>
+<div id="c64">
+<p>Condé Nast/Wired is full of journalists/graphic artists/photographers.  They do not have any programmers.  They are clueless about how to handle programmers.   This is typified by them taking away your computers and giving you G4s and when you told them you needed to install programs, they said, &#8220;Don&#8217;t worry, we can get you Photoshop.&#8221;</p>
+
+<p>Hey, they need to be educated on the care and feeding of programmers.  Now presumably they bought reddit because they saw some value in it and in you guys; there is some reason they want you around&#8230;they want your expertise and they need your help to build these sub-reddits for their magazines.</p>
+
+<p>So you have to go to Kourosh and educate him on what programmers need&#8212;what hours they work (not 9-5), what kind of office space they can tolerate (not white noise and pink walls; maybe not in the Wired office at all); how they need root access, etc.; how they can&#8217;t work with Big Brother looking over their shoulders every moment.  If he wants you to be productive for the company and meet your goals, then he should be willing to arrange those exceptions for you (if you explain them clearly).  If not, then you guys aren&#8217;t going to produce much of anything.  That&#8217;s just the way it&#8217;s going to work under the current conditions&#8230;at least if Steve (and Alexis in NY) is as discombobulated as you seem to be.  Try not to be so stressed out; you&#8217;ll just make yourself sick.</p>
+
+<p class="posted">posted by The Mom
+ on November 18, 2006 <a href="#c64" rel="bookmark">#</a></p>
+</div>
+<div id="c65">
+<p>&#8220;Wired has tried to make the offices look exciting by painting the walls bright pink but the gray office monotony sneaks through all the same. Gray walls, gray desks, gray noise. The first day I showed up here, I simply couldn&#8217;t take it. By lunch time I had literally locked myself in a bathroom stall and started crying.&#8221;</p>
+
+<p>Dude you are a whiny-ass bitch. Jesus Christ, get a grip.</p>
+
+<p class="posted">posted by Rockwell
+ on November 19, 2006 <a href="#c65" rel="bookmark">#</a></p>
+</div>
+<div id="c66">
+<p>I gave this some more thought, and I&#8217;m 95% convinced this is some sort of performance art/TheOnion-type spoof, so, apologies if I&#8217;m the one not in on the joke.</p>
+
+<p class="posted">posted by Rockwell
+ on November 19, 2006 <a href="#c66" rel="bookmark">#</a></p>
+</div>
+<div id="c67">
+<p>yo interesting post,  venting  your frastration. Is tis a planned exit strategy ?? :)-</p>
+
+<p>Being in the blackhole of large Eetrprise is like reworking a startup over again !! All pet Projects, need InsideAngels blessing and evenutally budget allocations (think VC$$).</p>
+
+<p>Dude, its not where you are and what is happening. Its about what you are and what you want to make happen. Roll up your sleeves and begin the work. My poppy always said, the best place to find a helping hand is at the end of your own arm.</p>
+
+<p>Don&#8217;t blame the Corporation.. its just one big ivory tower, hey but you in it.. do something, do anything, get going.. NOW!! :)-</p>
+
+<p class="posted">posted by /pd
+ on November 19, 2006 <a href="#c67" rel="bookmark">#</a></p>
+</div>
+<div id="c69">
+<p>Hi</p>
+
+<p>I have had the &#8220;problem&#8221; of being interupted so many times that I do every thing that is &#8220;difficult&#8217; (requireing real thought), at home. My family knows not to disturbe me when I am &#8220;in the back with my computer&#8221;. So it works quite well. The only thing that they do is call me for meals, which is OK.</p>
+
+<p class="posted">posted by Eric Hamilton
+ on November 21, 2006 <a href="#c69" rel="bookmark">#</a></p>
+</div>
+<div id="c74">
+<p>Ah yes the soul-killing corporate environment.</p>
+
+<p>Actually everything people have said above is true&#8230; to survive there you have to toughen up, and as Mister Road Warrior (&#8220;I&#8217;ve been a IT consultant for over 10 years now. In that time I&#8217;ve had to hike up Mt Everest barefoot with no supplemental oxygen, survive six months in the Amazon rainforest with only a blowdart and a Berlitz &#8220;In-Flight Portuguese!&#8221; phrasebook&#8221; etc. etc.) so eloquently put it, a lot of people in the corporate environment are pretty miserable.</p>
+
+<p>Mainly though, I suspect the people telling you to toughen up are primarily jealous.  Presumably you got a pile of cash out of all this&#8230; which is all corporate America can ever offer anyone in the way of job satisfaction &#8212; cash.</p>
+
+<p>Look at it this way, before you were flying solo, using your wits and your instrumentation to chart the best course and survive.  Now you are sitting in business class, and the plush seat and five course snack only serve to remind you that you ain&#8217;t up there in the pilot&#8217;s (or co-pilot&#8217;s) seat no more.  Which sucks, yes, but don&#8217;t expect the poor bastards crammed in behind you stuffed nose to ass in the economy &#8220;cattle&#8221; class to give much of a fuck.  Similarly, don&#8217;t expect the fat cats ahead of you in first class to understand your pain either, as none of them are interested in getting behind the controls of the plane and frankly don&#8217;t give two shits where the plane goes, as long as their fat asses are well-cushioned, their gullets well-fed, and their egos well-coddled along the way.</p>
+
+<p>So you might as well sit back, relax, and enjoy the rest of your flight&#8230; or if you decide to jump out, make sure you strap on a parachute and take enough cash to go buy another airplane.</p>
+
+<p>Just my two cents, best of luck to you, whoever you are, I just happened to see this and your anguish touched a chord.  Regardless of what anyone says, the first day in &#8220;the office&#8221; sucks monkey ass and frankly the most natural reaction in the world to such an environment is to lock yourself in the bathroom and hide.  I clearly remember my first day in the Corporate World.  I went home with a splitting headache and and with every sense numbed, feeling something had been taken from me and I didn&#8217;t even know what it was.</p>
+
+<p>Fear not.. you have the skills to survive on The Outside and you have demonstrated to yourself what you can do.  Take your time, collect your wits, and plot your next move.</p>
+
+<p class="posted">posted by former drone
+ on December 23, 2006 <a href="#c74" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="officespace" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

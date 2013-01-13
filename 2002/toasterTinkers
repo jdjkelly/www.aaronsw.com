@@ -1,0 +1,33 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+  <title>The Toaster Tinkers or What's Wrong With Proprietary Software</title>
+  <link rel="stylesheet" type="text/css" href="/style.css" />
+</head>
+<body>
+<div id="head">
+  <h1>The Toaster Tinkers</h1>
+  <span class="description"><em>or</em> What's Wrong With Proprietary Software</span>
+</div>
+<div class="content">
+<p>by <a href="http://www.aaronsw.com/">Aaron Swartz</a>, 2002-08-03</p>
+
+<p>As kids, many of the famous scientists and technologists of today would take apart the mechanical devices that were all around. After some experimentation and practice they got good at fixing broken things and even coming up with novel new improvements of their own. Learning to take apart toasters, clocks and radios was not only fun, but practical too. As these kids grew up, computer software began to take the place of these mechanical devices. When the source was open, they could proceed as before, learning how things worked and fixing them. The community of hackers grew up around this model, working together to improve the software that they shared.</p>
+
+<p>Unfortunately companies that made sold software wouldn't distribute the source code with it. This was the software equivalent of building impenetrable steel cages around the childhood toaster, so no one could inspect its innards. The hacker community was devastated, with their shared culture quickly being replaced with untouchable proprietary software. Stallman and the GNU Project were started to stem this tide by building free software which didn't have these restrictions.</p>
+
+<p>While this idealistic quest for freedom may seem crazy at first, think about the harm that would be done if all of our physical devices were treated in a similar way. Every time your car broke down, you'd have to send it back to the manufacturer or wait for an upgrade. The free software movement isn't trying to stamp out proprietary software, but instead return the freedoms that users once had (and still have in the physical realm). When seen in this light, the battle doesn't seem as crazy as before.</p>
+
+<p>Ironically, the toasters and clocks and radios that started the tinker culture are quickly being computerized themselves (and being replaced with microwaves, digital watches and televisions). Now, when you take these things apart you won't find a mechanical device that you can understand, but a microchip that you cannot modify. Such things are even worse than proprietary software. You can't even access the code to run, copy or replace it.</p>
+
+<h2>Acknowledgements</h2>
+
+<p>Thanks to Richard Stallman for the inspiration. The second title is based on <a href="http://web.archive.org/web/20020124180700/www.toad.com/gnu/whatswrong.html">John Gilmore's "What's Wrong With Copy Protection"</a>. The word "tinker" is due to Ken MacLeod's <cite>The Sky Road</cite>.</p>
+
+<p>Join us next week to find out  why ICANN is like a planetary dictator.</p>
+</div>
+<div class="footer">
+  <address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+Feel free to copy this article but give me credit and a link.<br />
+URI: <a href="http://www.aaronsw.com/2002/toasterTinkers">http://www.aaronsw.com/2002/toasterTinkers</a>
+</div></body>
+</html>

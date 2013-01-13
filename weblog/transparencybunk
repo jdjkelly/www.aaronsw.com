@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Transparency is Bunk (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Transparency is Bunk</h1>
+
+<p><em>Adapted from an impromptu rant I gave to some people interested in funding government transparency projects.</em></p>
+
+<p>I&#8217;ve spent the past year and change working on a site, watchdog.net, that publishes government information online. In doing that, I&#8217;ve learned a lot: I&#8217;ve looked at everything from pollution records to voter registration databases and I&#8217;ve figured out a number of bureacratic tricks to get information out of the government. But I&#8217;ve also become increasingly skeptical of the transparency project in general, at least as it&#8217;s carried out in the US.</p>
+
+<p>The way a typical US transparency project works is pretty simple. You find a government database, work hard to get or parse a copy, and then put it online with some nice visualizations.</p>
+
+<p>The problem is that reality doesn&#8217;t live in the databases. Instead, the databases that are made available, even if grudgingly, form a kind of official cover story, a veil of lies over the real workings of government. If you visit a site like GovTrack, which publishes information on what Congresspeople are up to, you find that all of Congress&#8217;s votes are on inane items like declaring holidays and naming post offices. The real action is buried in obscure subchapters of innocuous-sounding bills and voted on under emergency provisions that let everything happen without public disclosure.</p>
+
+<p>So government transparency sites end up having three possible effects. The vast majority of them simply promote these official cover stories, misleading the public about what&#8217;s really going on. The unusually cutting ones simply make plain the mindnumbing universality of waste and corruption, and thus promote apathy. And on very rare occasions you have a &#8220;success&#8221;: an extreme case is located through your work, brought to justice, and then everyone goes home thinking the problem has been solved, as the real corruption continues on as before.</p>
+
+<p>In short, the generous impulses behind transparency sites end up doing more harm than good.</p>
+
+<p>But this is nothing new. The whole <a href="http://sociology.ucsc.edu/whorulesamerica/power/local.html">history of the &#8220;good government&#8221; movement</a> in the US is of &#8220;reformers&#8221; who, intentionally or otherwise, weakened the cause of democracy. They too were primarily supported by large foundations, mostly Ford and Rockefeller. They replaced democratically-elected mayors with professional city managers, which required a supermajority to overrule. They insisted on nonpartisan elections, making it difficult to organize people into political blocs. Arguing it would reduce corruption, they insisted city politicians serve without paying, ensuring the jobs were only open to the wealthy.</p>
+
+<p>I worry that transparency groups may be making the same &#8220;mistake&#8221;.</p>
+
+<p>These are some dark thoughts, so I want to add a helpful alternative: journalism. Investigative journalism lives up to the promise that transparency sites make. Let me give three examples: Silverstein, Taibbi, Caro.</p>
+
+<p><a href="http://www.harpers.org/subjects/KenSilverstein">Ken Silverstein</a> regularly writes brilliant pieces about the influence of money in politics. And he uses these sorts of databases to do so. But the databases are always a small part of a larger picture, supplemented with interviews, documents, and even undercover investigation &#8212; he recently did a piece where he posted as a representative of the government of Turkmenistan and described how he was wined and dined by lobbyists eager to build support for that noxious regime. The story, and much more, is told in his book <em><a href="http://books.theinfo.org/go/140006743X">Turkmeniscam</a></em>. (His book <em><a href="http://books.theinfo.org/go/1859840922">Washington Babylon</a></em> is similarly indispensible.)</p>
+
+<p>Matt Taibbi, in his book <em><a href="http://books.theinfo.org/go/038552062X">The Great Derangement</a></em>, describes how Congress really works. He goes to the capitol and lays out the whole scene: the Congressmen naming post offices on the House floor, the journalists typing in the press releases they&#8217;re handed, the key actions going on behind the scenes and out of the public eye, the continual use of emergency procedures to evade disclosure laws.</p>
+
+<p>And Robert Caro, in his incredible book <em><a href="http://books.theinfo.org/go/0394720245">The Power Broker</a></em> (one of the very best books ever published, I&#8217;m convinced) takes on this fundamental political question of &#8220;Who&#8217;s actually responsible for what my government is doing?&#8221; For forty years, everyone in New York thought they knew the answer: power was held by the city council, the mayor, the state legislature, and the governor. After all, they run the government, right?</p>
+
+<p>And for forty years, they were all wrong. Power was held &#8212; held, for the most part, <em>absolutely</em>, without any checks or outside influence &#8212;  by one man: Parks Commissioner Robert Moses. All that time, everyone (especially the press) treated Robert Moses as merely the Parks Commissioner, a mere public servant serving his elected officials. In reality, he pulled the strings of all those elected officials.</p>
+
+<p>These journalists tackled all the major questions supposedly addressed by US transparency sites &#8212; who&#8217;s buying influence? what is Congress doing? who&#8217;s in power in my neighborhood? &#8212; and not only tell a richer, more informative story, but come to strikingly different answers to the questions. In this era where investigative reporting budgets have been cut to the bone and newspapers are folding left and right, it&#8217;s fallen to nonprofits like ProPublica and the Center for Independent Media and, from a previous era, the Center for Public Integrity, to pick up the slack. They&#8217;ve been using the Internet in innovative ways to supplement good old-fashioned narrative journalism, where transparency sites are a supplement, rather than an end-in-themselves.</p>
+
+<p>For too long we&#8217;ve been funding transparency projects on the model of if-we-build-it-they-will-come: that we don&#8217;t know what transparency will be useful for, but once it&#8217;s done it will lead to all sorts of exciting possibilities. Well, we&#8217;ve built it. And they haven&#8217;t come. The only success story its proponents can point to is that transparency projects have bred even more transparency projects. I&#8217;m done working on watchdog.net; I&#8217;m done hurting America. It&#8217;s time to give old-fashioned narrative journalism a try.</p>
+
+<p><em>Previously:</em> <a href="http://www.aaronsw.com/weblog/dissunlight">Disinfecting the Sunlight Foundation</a> [November 2006]</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">April 23, 2009</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>Now, that&#8217;s a timely rant.</p>
+
+<p>Everybody and their brother seem to be freeing data nowadays, but - for some odd reason - the actual uses (and perhaps even professional evaluation) are then put too far aside.</p>
+
+<p>How does your rant add up to what Watchdog is up to currently? Are you looking for journalists, or&#8230;</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://tommi.raivio.net">Tommi</a>
+ on April 23, 2009 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>I&#8217;ve always thought that getting the raw data and turning it into a format that&#8217;s useful was really just the first step. Open government data is a tool to use to solve the problem, but not the solution itself.</p>
+
+<p>Once investigative journalists and researchers really figure out how to use those tools effectively, the benefits of opening up the data will spill out.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://luigimontanez.com">Luigi Montanez</a>
+ on April 23, 2009 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>What you don&#8217;t give due attention to here is that improving existing government transparency is part of a larger information ecosystem. Digitizing previously paper-bound and siloed databases makes possible a new kind of &#8220;connect-the-dots&#8221; work that used to take investigative journalists months to do&#8212;or they simply didn&#8217;t even try. Your own project, Watchdog.net, has pioneered a new way of finding links, or &#8220;handshakes&#8221; as you called it, between campaign contributors and congressional earmarks, and the demographic data you&#8217;ve cataloged is going to help power new tools for investigative types to answer such questions as &#8220;How many members of Congress who represent districts where X percent of their households have experienced a foreclosure last year voted for the banking bailout?&#8221;</p>
+
+<p>We&#8217;re just at the beginning of a new wave of data- and citizen-empowered watchdogging of government, and it would be a huge mistake to discount how valuable these government transparency projects are in opening up the process in fundamentally new ways. Yes, it&#8217;s true that government still wants to hide its dirt and the data it discloses is often only part of the picture. But the more we open access to the existing data and involve people in connecting the dots, the greater the appetite and demand for even more transparency, of the sort even you might find useful.</p>
+
+<p class="posted">posted by Micah Sifry and Clay Johnson
+ on April 23, 2009 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p><em>the databases are always a small part of a larger picture, supplemented with interviews, documents, and even undercover investigation</em></p>
+
+<p>This doesn&#8217;t refute the need for transparency websites.</p>
+
+<p>I&#8217;m not sure if we should ever have expected the general population to visit watchdog websites to help them vote&#8230; I think the point was to allow investigative journalists to &#8220;outsource&#8221; the menial parts of data collection/analysis. That way, those who already have the persistence to do investigative journalism get more of it done, and we lower the barriers to entry to the profession for hobbyists.</p>
+
+<p class="posted">posted by Andrey Fedorov
+ on April 23, 2009 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>Good rant. I think what Aaron is saying isn&#8217;t that these sites are not helpful, but that &#8220;the generous impulses behind transparency sites end up doing more harm than good.&#8221;</p>
+
+<p>So, it&#8217;s the exuberance behind &#8220;transparency-for-its-own-sake&#8221; that he takes issue with. I&#8217;m sure he agrees with all the comments saying transparency is fine as part of a larger movement; I think he just wants to make sure people have the correct expectations of what transparency alone is (and isn&#8217;t) capable of.</p>
+
+<p class="posted">posted by Alex
+ on April 23, 2009 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c6">
+<p><a href="http://www.aaronsw.com/weblog/transparencybunk#c3" rel="nofollow">Micah and Clay</a>,  <a href="http://www.aaronsw.com/weblog/transparencybunk#c4" rel="nofollow">Andrey</a>: Then they should be directed by investigative journalists. But I called up the best and they just weren&#8217;t interested in any of the things the sites were doing.</p>
+
+<p class="posted">posted by 
+ on April 23, 2009 <a href="#c6" rel="bookmark">#</a></p>
+</div>
+<div id="c7">
+<p><a href="http://www.aaronsw.com/weblog/transparencybunk#c3" rel="nofollow">Micah and Clay further argue</a> that transparency leads to more transparency and, doggone it, some of it must be useful.</p>
+
+<p>If you believe that, then I have a bridge to sell you. As soon as you disclose anything, you create the incentive to falsify it. More disclosure will only lead to more complicated lies.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on April 23, 2009 <a href="#c7" rel="bookmark">#</a></p>
+</div>
+<div id="c8">
+<p>&#8220;More disclosure will only lead to more complicated lies.&#8221;</p>
+
+<p>If you believe that, I have some nihilistic hopelessness to sell you.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://mill-industries.com">Eric Mill</a>
+ on April 23, 2009 <a href="#c8" rel="bookmark">#</a></p>
+</div>
+<div id="c9">
+<p>It&#8217;s a fair point. If we look at corrupt states and not-so-corrupt states, what are the differences? I&#8217;m willing to bet it&#8217;s not the presence or absence of watchdog websites. It&#8217;s probably more to do with the structure of how politicians relate to and are bound by their constituents.</p>
+
+<p>That doesn&#8217;t mean watchdog sites are useless. They might still be interesting because they could enable different forms of activism. They&#8217;re just not going to solve corruption on their own.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://brevity.org">Neil Kandalgaonkar</a>
+ on April 23, 2009 <a href="#c9" rel="bookmark">#</a></p>
+</div>
+<div id="c10">
+<p>By the way, this recent interview of David Simon, creator of the TV show &#8220;The Wire&#8221;, echoes your concerns in one segment. Statistics are always gamed, whether in No Child Left Behind or drug war arrests.</p>
+
+<p>However, Simon is a former investigative journalist and he believes that <em>journalism</em> is the mode of discourse which is currently outdated, which has lost its power to outrage or change things.</p>
+
+<p>http://www.pbs.org/moyers/journal/04172009/watch.html</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://brevity.org/">Neil Kandalgaonkar</a>
+ on April 23, 2009 <a href="#c10" rel="bookmark">#</a></p>
+</div>
+<div id="c11">
+<p>But transparency is often one part of a larger concept of fostering broader participation in budgetary decision making. This is for the most part still mainly by interest groups that themselves may not be truly representative, but it does create greater focus not just on corruption and awste but also on how budgets reflect the reality of policy deciasions on the ground e.g. you say you support education for the poor - show me where it is in the budget.</p>
+
+<p class="posted">posted by 
+ on April 24, 2009 <a href="#c11" rel="bookmark">#</a></p>
+</div>
+<div id="c12">
+<p>Hooray for Aaron Swartz.  To his observations we can add two more:</p>
+
+<p><i>1. Power corrupts open government activists no less than anyone else.</i></p>
+
+<p>With the arrival of the Obama administration the game changed for the &#8220;big names&#8221; in open government: suddenly, they had friends on the &#8220;inside&#8221; and a leadership (executive and legislative) that took up the rhetoric of open government.  Suddenly they are &#8220;working closely with&#8221; a handful of government IT specialists and some legislative offices.</p>
+
+<p>This is widely regard as a huge step forward for the cause yet it is anything but that.  It&#8217;s a disaster for the movement.  It takes the pace and substance of the movement out of their hands and gives political ownership of the movements to the very politicians who should be under scrutiny.</p>
+
+<p>At the same time the incoming administration and the Congressional leadership &#8220;took over&#8221; the project of even *defining* government transparency, the open government leadership was tossed some bones.  They get to be &#8220;expert consultants&#8221; (&#8220;some of the brightest minds in industry&#8221;, no doubt).  They get some first-mover advantage setting up or extending existing their own transparency web properties.</p>
+
+<p>The movement is at extreme risk of turning into something mostly about itself.</p>
+
+<p><i>2. Journalism is only a small part of the answer.  <b>Organizing</b> is needed, as well.</i></p>
+
+<p>Aaron suggests investigative journalism as a way to cut through the politicization and agenda hoarding that threaten the open government movement.   Certainly, it has a role.</p>
+
+<p>What is palpably lacking in the open government movement is a broad base of support in the form of <i>informed demand</i> for transparency.   As a society, we don&#8217;t have much use for this data.</p>
+
+<p>In the hands of demagogues (sometimes calling themselves journalists) isolated snippets of the data - nearly meaningless in their isolation - can be good for evoking and directing outrage at this or that.</p>
+
+<p>What we lack, though, is any systematic habit of people self-organizing to examine the facts and then to act upon them in ways that meaningfully impact government.</p>
+
+<p>In contrast, around here at least, people know darn well how to organize around the school system or the public transportation system.   Citizen committees spring up like wild-flowers, around these things.  Important hearings and elected official meetings are frequently well attended.  What remains of the local press gives voice to these groups.</p>
+
+<p>On federal issues?  Or even state issues?  Not so much.  There is no impressive amount of local organizing at those levels.</p>
+
+<p>Creating new &#8220;transparency web properties&#8221; is unlikely to change that.   Such sites draw heavily on the technology architectures and business models of commercial web properties and in so doing adopt the form, hence the function, of an asymmetric power arrangement of powerful site owner / operators and a mostly passive consumer audience who, if their input is used for anything at all, it is to be aggregated to further enhance the power advantage of the site owner / operators.</p>
+
+<p>It is as if, by shear professional habit, the open government movement made the two successive mistakes of (a) treating government transparency as a category of entertainment;  (b) then not even being especially entertaining compared to, say, demagogue journalists.</p>
+
+<p>A telling case in point is surely the recent &#8220;teabagging&#8221; protests.   Boy, if ever there was a teaching opportunity to spread the power of transparency tools to grass roots organizers: that was it - yet the open government movement was nowhere apparent in the stories.</p>
+
+<p>&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;</p>
+
+<p>My conclusion from these two problems is that while the open government movement surely must remain engaged with their friends in government that the course there is more or less set for the next few years and little will change it.  Meanwhile, much progress could be made by changing the emphasis from building web site properties to building freely shared tools (IT and social) for meaningful citizen organizing and participation.</p>
+
+<p>-t</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://basiscraft.com">Thomas Lord</a>
+ on April 24, 2009 <a href="#c12" rel="bookmark">#</a></p>
+</div>
+<div id="c13">
+<p>I posted your interesting and refreshing rant at the GoldTalk.com Forum with added links to the book titles and small editorial annotations &#8230; hope you don&#8217;t mind: http://www.goldtalk.com/forum/report.php?p=237190</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://goldtalk.com/forum/">FastEddy</a>
+ on April 27, 2009 <a href="#c13" rel="bookmark">#</a></p>
+</div>
+<div id="c14">
+<p>Your article reminds me of Malcolm Gladwell&#8217;s Enron article from a few years ago:</p>
+
+<p>http://www.gladwell.com/pdf/opensecrets.pdf</p>
+
+<p>Gladwell distinguishes between situations we can&#8217;t figure out because we don&#8217;t have enough information, and situations we can&#8217;t figure out because, even though we have all the right information, we can&#8217;t distinguish the wheat from the chaff.  He argues that it was possible to deduce Enron&#8217;s actual condition from public financial records, but that few tried or were able to, and most believed the &#8220;cover story&#8221; that ran along the surface of what the company disclosed.</p>
+
+<p>I wouldn&#8217;t call Malcolm Gladwell an investigative reporter, but he might as well have been talking about exactly what you&#8217;re saying here.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://nat.org">Nat Friedman</a>
+ on April 28, 2009 <a href="#c14" rel="bookmark">#</a></p>
+</div>
+<div id="c15">
+<p>The direction I&#8217;ve always envisioned for OpenCongress (http://opencongress.org) is one where constituents monitor and direct the activities of their representatives.</p>
+
+<p>Data always seemed like an obvious first step, because it&#8217;s easy and hard to argue with (though this post does a good job).</p>
+
+<p>But the goal is creating communities with enough weight to push government around on anything important (including steps to undermine structural corruption).</p>
+
+<p>Maybe &#8220;controlcongress.org&#8221; would be a better name (it&#8217;s taken).</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://opencongress.org">Holmes Wilson</a>
+ on April 28, 2009 <a href="#c15" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="transparencybunk" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

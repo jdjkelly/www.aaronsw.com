@@ -1,0 +1,61 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>smiling dogs (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000414" title="Public Speaking and Writing" />	<link rel="next" href="000418" title="the circle of life continues" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>smiling dogs</h1>
+</div>
+
+<div class="content">
+<p><a href="http://www.themorningnews.org/archives/stories/behind_the_scenes_the_minority_report_trailer.shtml">Behind the Scenes: The Minority Report Trailer</a> Who knew that making trailers could be so funny?</p>
+
+<p><a href="http://www.w3.org/People/Quin/">The W3C&#8217;s XML Activity Lead</a> <a href="http://rdfig.xmlhack.com/2002/07/12/2002-07-12.html#1026516648.408835">is giving a talk on simplifying XML</a>. Is there a problem yet?</p>
+
+<p><a href="http://www.macintoshdigitalhub.com/reviews/eyetv/">EyeTV</a> is a software PVR (like TiVo or ReplayTV) for the Mac. It looks pretty well designed (although matching the TiVo&#8217;s incredible ease-of-use would be a feat) and is probably the only way I&#8217;d ever watch TV.</p>
+
+<p>I decided to <a href="http://www.eff.org/opportunities/">volunteer for the EFF</a> because I don&#8217;t really have enough money to effectively <a href="http://www.eff.org/support/">donate</a> even though I continually encourage others to donate. I figured that in order to stop seeming hypocritical I should volunteer myself. I strongly support the work they do on many fronts to protect our rights online. Potentially helping all the great people that work there is a plus. </p>
+
+<p>Public Service Announcement: Dry ice is fun. Pick up some at your local ice cream parlor.</p>
+
+<p><a href="http://www.msnbc.com/news/779198.asp">ISPs ask users to take copyrighted content down.</a> This is interesting. It&#8217;s certainly a lot better than shutting the networks themselves down. I wonder how people will fight back. Obviously this won&#8217;t stop the problem, but it might cause networks to start implementing <a href="http://wiki.haven.sh/index.php/PeekabootyResourceDiscovery">Peek-a-Booty-style security</a> (making searchers execute some sort of challeng difficult for machines). A web-of-trust solution (you have to be certified as cool before you download) would also be interesting.</p>
+
+<p>I couldn&#8217;t believe that <a href="http://www.cunap.com/~hardingr/projects/osx/exploit.html">Software Update on OS X had no security</a> but now that there&#8217;s <a href="http://www.info.apple.com/kbnum/n75304">a patch</a> (<a href="https://depot.info.apple.com/security7-12/">HTTPS server</a>) (also available via Software Update) I guess it must be true. It looks like the update just uses checksums which doesn&#8217;t sound very secure to me. Really, how hard is it to use digital signatures these days? OS X already comes with <a href="http://developer.apple.com/macos/security.html">a ton of security stuff</a>, you&#8217;d think this wouldn&#8217;t be hard to add.</p>
+
+<p><a href="http://www.aaronsw.com/2002/morbusRant">A beautiful rant from Morbus Iff on beauty in file formats.</a> (short)</p>
+
+<p>McCusker: &#8220;Being compared to Knuth is scary though, since he&#8217;s a god of computer science, and I&#8217;m more like a game show host.&#8221; [<a href="http://www.treedragon.com/ged/map/ti/new.htm">cite</a>]</p>
+
+<p>Cocoa is talking to Movable Type! <a href="http://media.org/woof.html">Woof!</a> However, I&#8217;m not sure if I should ask for a nicer Movable Type API or do more scraping. I might write my own but it would probably be in Python, which I don&#8217;t really want to require with my code and it&#8217;s unlikely I could get it included with the standard distribution. Hm.</p>
+
+<p class="posted">posted July 13, 2002 09:44 PM (<a class="category" href="cat_others">Others</a>)  <a href="000415" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000414" title="Public Speaking and Writing">&laquo; prev</a> | <a href="./">up</a> | <a href="000418" title="the circle of life continues">next &raquo;</a></p>
+
+<p><a href="000410">Glorious Linkfulness</a><br />
+<a href="000411">Writing Useful Web Content</a><br />
+<a href="000412">OSCON Key Signing Party</a><br />
+<a href="000413">today&#8217;s featured superhero: Seth Schoen</a><br />
+<a href="000414">Public Speaking and Writing</a><br />
+<strong>smiling dogs</strong><br />
+<a href="000418">the circle of life continues</a><br />
+<a href="000420">temperature rising</a><br />
+<a href="000421">confessions of a time-waster</a><br />
+<a href="000422">MacWorld Keynote Coverage</a><br />
+<a href="000423">empty jaguar-skin wallet</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

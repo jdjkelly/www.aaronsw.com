@@ -1,0 +1,221 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Stanford: Day 51 (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001468.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001467" title="Stanford: Day 50" />	<link rel="next" href="001469" title="Donald Knuth writes Condi Rice" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Stanford: Day 51</h1>
+</div>
+
+<div class="content">
+<p>At midnight tonight it is my birthday. Since I count days based on when I wake up in the morning, I am totally oblivious to this fact. Thus, I don&#8217;t suspect anything out of the ordinary when three tall and slim guys stand outside my door, behind the RA (student hall leader). The RA says, &#8220;You know what time it is?&#8221; The boys laugh.</p>
+
+<p>They try to carry me, but I put up quite a fight, kicking the people who hold my legs and trying to grab on to things. Despite my flailing, they do not waver in their task. One student (my roommate) pointedly does not participate, but despite my resistance nobody actually objects. It is <a href="http://www.aaronsw.com/weblog/001450">just as Zimbardo says</a> &#8212; the good guys are key to making it work.</p>
+
+<p>Right before the shower I&#8217;m able to break free several times. I crouch into a ball but then think of making a run for it. That is my mistake, since they take the chance to scoop me up again and pull me in. And then <a href="http://www.aaronsw.com/weblog/001430">they stuff me in the shower</a> and aim the nozzle at me. I get moderately wet but escape quickly. A few of the boys who carried me compliment me. I survive with only a scraped arm and some missing keys (which I find soon enough).</p>
+
+<p>Later, my roommates reminisce. &#8220;Man, why didn&#8217;t we think to take a picture of that?&#8221; one asks. &#8220;I did, but I was too busy trying not to get kicked,&#8221; the other answers.</p>
+
+<p>Back in my room, I have a sweet birthday email from Mike Godwin (Mike Godwin!) and some cards from family. My immediately family has apparently decided not to bother with presents or thinking of things to say, sending only plain cards with signatures. I go to sleep, wet and presentless.</p>
+
+<p class="posted">posted November 08, 2004 02:50 AM (<a class="category" href="cat_education">Education</a>) (<a href="#comments">10 comments</a>) <a href="001468" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001467" title="Stanford: Day 50">&laquo; prev</a> | <a href="./">up</a> | <a href="001469" title="Donald Knuth writes Condi Rice">next &raquo;</a></p>
+
+<p><a href="001461">Stanford: Day 47</a><br />
+<a href="001462">David Boies on the Dispensation of Justice</a><br />
+<a href="001463">Stanford: Day 48</a><br />
+<a href="001464">Amy Goodman (and guests) on the Election</a><br />
+<a href="001467">Stanford: Day 50</a><br />
+<strong>Stanford: Day 51</strong><br />
+<a href="001469">Donald Knuth writes Condi Rice</a><br />
+<a href="001472">Stanford: Day 52</a><br />
+<a href="001473">Stanford: Day 53</a><br />
+<a href="001474">Stanford: Day 54</a><br />
+<a href="001475">Stephen Pinker on Uniting Techies and Fuzzies</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c3379">
+
+<p>Ah, college traditions!  Due to totally poor judgement and naivete, I ended up in a fraternity my first two years.  (I am definitely <i>NOT</i> the fraternity type.)  Although my house boasted on &#8220;no hazing,&#8221; I was strongly encouraged (for tradition&#8217;s sake) to take an oaken paddle to an upper classman and recite, <b><i>&#8220;O most noble Sir, wouldst thou inscribe upon my rear proboscis, an enormous scarlet welt, greatly exceeding in size and intensity, any mere tap, which in the past, it has been my very great pleasure to have received.&#8221;</i></b>  Then I would assume &#8220;The Position&#8221; and you can guess what followed&#8230;</p>
+
+<p class="posted">posted by Russ Schwartz at November  8, 2004 07:08 AM <a href="#c3379">#</a></p>
+
+</div><div id="c3380">
+
+<p>Hey, Monday&#8217;s your birthday!  There&#8217;s still time for presents to arrive!  Watch for some surprises today!!!  We love you!</p>
+
+<p class="posted">posted by Mom at November  8, 2004 07:10 AM <a href="#c3380">#</a></p>
+
+</div><div id="c3381">
+
+<p>Happy birthday dude, enjoy it.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.anoasis.co.uk/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3381">Paul</a> at November  8, 2004 08:24 AM <a href="#c3381">#</a></p>
+
+</div><div id="c3382">
+
+<p>Happy birthday, Aaron!</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.mcdevzone.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3382">Mike Cohen</a> at November  8, 2004 09:44 AM <a href="#c3382">#</a></p>
+
+</div><div id="c3383">
+
+<p>We love your and miss you. Presents ??? talk to your mom.  Leaving for Southland thursday, grab some wings and visit us.  Avery misses you, will show him your photo taken at b3con.</p>
+
+<pre>                    Grpa &amp; Grma
+</pre>
+
+<p class="posted">posted by  at November  8, 2004 10:10 AM <a href="#c3383">#</a></p>
+
+</div><div id="c3384">
+
+<p>happy birthday! just stumbled across your website. you really impress me.</p>
+
+<p class="posted">posted by aaron n. at November  8, 2004 10:25 AM <a href="#c3384">#</a></p>
+
+</div><div id="c3385">
+
+<p>I&#8217;ll be eccentric: Happy Birthday Aaron </p>
+
+<p class="posted">posted by RT at November  8, 2004 01:33 PM <a href="#c3385">#</a></p>
+
+</div><div id="c3387">
+
+<p>Happy birthday, Aaron!</p>
+
+<p class="posted">posted by <a target="_blank" title="http://vitanuova.loyalty.org/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3387">Seth Schoen</a> at November  8, 2004 05:02 PM <a href="#c3387">#</a></p>
+
+</div><div id="c3389">
+
+<p>yo road dog! happy bday</p>
+
+<p class="posted">posted by Jim at November  8, 2004 05:26 PM <a href="#c3389">#</a></p>
+
+</div><div id="c3396">
+
+<p>Well. A little belated, but Happy Birthday all the same.</p>
+
+<p class="posted">posted by Riana at November 10, 2004 01:07 PM <a href="#c3396">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001468.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1468" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

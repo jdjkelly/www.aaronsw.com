@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>The Incurable Romantic (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>The Incurable Romantic</h1>
+
+<blockquote>
+  <p>&#8220;romantic&#8221;&#8212;a curious word meaning all things to all people. From my point of view, it means that in [one&#8217;s] emotional relationships [one] should not be too bright&#8212;something, perhaps, that I should not state so baldly. But again and again the action of the [romance] novel&#8217;s plot is carried forward by our hero&#8217;s failure to realize that in any man&#8217;s life there are literally dozens, if not hundreds, of women who will do just as well; that he won&#8217;t die if he doesn&#8217;t win fair Susan&#8217;s dainty hand; and that very probably he will catch a most uninteresting variety of hell if he does win it. Which, come to think of it, is not unrealistic: emotional maturity is one of the rarest qualities in life.</p>
+</blockquote>
+
+<p>(Frank Yerby, <a href="http://www.harpers.org/archive/1959/10/0009138">How and Why I Write the Costume Novel</a>)</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">May  6, 2007</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>Confuses romance with commitment and letting someone walk all over you. You can be romantic and have an intelligent relationship.</p>
+
+<p class="posted">posted by Ajju
+ on May  7, 2007 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>I blame it on evolutionary traits that we, brainy humans, idealize and rationalize. The animal has to have some sort of fixation for the mate that it has found, so fit and all, so attractive. Really, we wouldn’t bode well for the species if the interested animal just walked away from its mate at the first sign of trouble.
+And then we humans make it into some sort of epic, and throw wars and tantrums in the name of love. We are neither romantic nor tragic, just animals with a huge brain.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.mercurial.cc">Camilo</a>
+ on May  9, 2007 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>&#8220;in any man&#8217;s life there are literally dozens, if not hundreds, of women who will do just as well; that he won&#8217;t die if he doesn&#8217;t win fair Susan&#8217;s dainty hand; and that very probably he will catch a most uninteresting variety of hell if he does win it&#8221;</p>
+
+<p>What a dispassionate view of love. Sure, fundamentally, things like love, jealousy, and the soul are illusions &#8230; bursts of electricity or chemical reactions in our brains or whatever. Sure, we are nothing but animals, but Camilo: we <em>are</em> romantic and we <em>are</em> tragic, if those words have any meanings at all. The knowledge of the nature of our emotions does little to soothe the pain of jealousy or belittle the joy of holding a loved one. That is the joy of being human - the joy of being imperfect, irrational, and emotional.</p>
+
+<p>Saying we are animals with a huge brain is like saying Google&#8217;s servers are doing nothing but playing with 1&#8217;s and 0&#8217;s, ignoring the service they are bringing to civilization.</p>
+
+<p class="posted">posted by Andrey Fedorov
+ on May 18, 2007 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>Andrei, you are an artist or a computer scientist. Or both. And you are right - I was trying to be glib about one of the most fundamental drives in our lives, and a force so strong that it even defies clear and imminent dangers.</p>
+
+<p>Yerby is correct: we do not need that particular person to be happy, and many other people will come later. But it is because the way we treat that one person that we define our life and the way we see the world. It is just that, sometimes, it is painful.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.mercurial.cc/">Camilo</a>
+ on May 21, 2007 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="romantic" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

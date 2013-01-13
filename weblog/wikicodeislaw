@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Code, and Other Laws of Wikipedia (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Code, and Other Laws of Wikipedia</h1>
+
+<div class="wikivote">
+<p class="head"><strong>Wikimedia 2006 Elections</strong></p>
+
+<p>
+Part 1: <a href="wikiroads">Wikimedia at the Crossroads</a><br />
+Part 2: <a href="whowriteswikipedia">Who Writes Wikipedia?</a><br />
+Part 3: <a href="whorunswikipedia">Who Runs Wikipedia?</a><br />
+Part 4: <a href="morewikipedians">Making More Wikipedians</a><br />
+Part 5: <a href="morewikipedias">Making More Wikipedias</a><br />
+Part 6: <strong>Code, and Other Laws</strong><br />
+</p>
+
+<p>If you translate this essay, please <a href="mailto:me@aaronsw.com">contact me</a>.</p>
+
+<p><strong><a href="http://en.wikipedia.org/wiki/User:AaronSw/Election">Vote for me</a></strong> in the election for the Wikimedia Foundation&#8217;s Board of Directors.</p>
+</div>
+
+<p>Code is law, Lawrence Lessig famously said years ago, and time has not robbed the idea of any of its force. The point, so eloquently defended in his book <em>Code, and Other Laws of Cyberspace</em>, is that in the worlds created by software, the design of the software regulates behavior just as strongly as any formal law does; more effectively, in fact.</p>
+
+<p>The point is obvious in some contexts. In the online 3D universe of Second Life, if the software prevents you from typing a certain word, that&#8217;s a far more effective restraint on speech in that world than any US law could ever be in ours. But the point is far more subtle than that; it applies with equal force to the world of Wikipedia, the thriving community and culture that our wiki software creates.</p>
+
+<p>For one thing, the software decides who gets to be part of the community. If using it is clear and simple, then lots of people can use it. But, if it&#8217;s complicated, then only those who take the time to learn it are able to take part. And, as we&#8217;ve seen, lots of intelligent people don&#8217;t even understand how to edit Wikipedia, let alone do any of the other things on the site.</p>
+
+<p>For another, the software decides how the community operates. Features like administrative controls privilege some users over others. Support for things like stable revisions decide what sorts of things get published. The structure of talk pages help decide what and how things get discussed.</p>
+
+<p>The page design the site uses encourages specific actions by making some links clear and prominent. Software functions like categories make certain kinds of features possible. The formatting codes used for things like infoboxes and links determine how easy it is for newcomers to edit those pieces of the site.</p>
+
+<p>All of these things are political choices, not technical ones. It&#8217;s not like there&#8217;s a right answer that&#8217;s obvious to any intelligent programmer. And these choices can have huge effects on the community. That&#8217;s why it&#8217;s essential the community be involved in making these decisions.</p>
+
+<p>The current team of Wikipedia programmers is a volunteer group (although a couple of them were recently hired by the Wikimedia Foundation so they could live a little more comfortably) working much like a standard free software community, discussing things on mailing lists and IRC channels. They got together in person in the days before Wikimania to discuss some of the current hot topics in the software.</p>
+
+<p>One presentation was by a usability expert who told us about a study done on how hard people found it to add a photo to a Wikipedia page. The discussion after the presentation turned into a debate over <em>whether</em> Wikipedia should be easy to to use. Some suggested that confused users should just add their contributions in the wrong way and a more experienced users would come along to clean their contributions up. Others questioned whether confused users should be allowed to edit the site at all &#8212; <a href="http://www.aaronsw.com/weblog/whowriteswikipedia">were their contributions even valuable?</a></p>
+
+<p>As a programmer, I have a great deal of respect for the members of my trade. But with all due respect, are these really decisions that the programmers should be making?</p>
+
+<p>Meanwhile, Jimbo Wales also has a for-profit company, Wikia, which recently received $4 million in venture capital funding. Wales has said, including in his keynote speech at Wikimania, that one of the things he hopes to spend it on is hiring programmers to improve the Wikipedia software.</p>
+
+<p>This is the kind of thing that seems like a thoughtful gesture if you think of the software as neutral &#8212; after all, improvements are improvements &#8212; but becomes rather more problematic if technical choices have political effects. Should executives and venture capitalists be calling the shots on some of these issues?</p>
+
+<p>The Wikipedia community is enormously vibrant and I have no doubt that the site will manage to survive many software changes. But if we&#8217;re concerned about more than mere survival, about how to make Wikipedia the best that it can be, we need to start thinking about software design as much as we think about the rest of our policy choices.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">September 18, 2006</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>Good series of posts about Wikipedia. I would just like to add a recommendation for some &#8220;essential&#8221; reading for people interested in the sort of issues you are discussing. Check out the transcript of Clay Shirky&#8217;s 2003 ETech speech &#8220;A Group Is Its Own Worst Enemy&#8221;:</p>
+
+<p>http://shirky.com/writings/group_enemy.html</p>
+
+<p>Ian</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.zenatode.org.uk/ian/">Ian Gregory</a>
+ on September 18, 2006 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>Looking forward to &#8220;Do we need new software?&#8221; :)</p>
+
+<p>How about: We rewrite the entire wiki in JAVASCRIPT. That way, each member of the community can make their own rules.</p>
+
+<p class="posted">posted by David McCabe
+ on September 19, 2006 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>By the way, I don&#8217;t mean to mock you or anything. I think you bring up a very interesting point. I just don&#8217;t have anything earnest to say about it right now and happened to think of the joke.</p>
+
+<p class="posted">posted by David
+ on September 19, 2006 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>&#8220;The discussion after the presentation turned into a debate over whether Wikipedia should be easy to to use.&#8221;  So, &#8220;wiki, wiki&#8221; is now Hawaiian for &#8220;quick and difficult&#8221;?  Yikes - talking about removing the priori from a priori. Huh.  Maybe they could rename it SoftwareAsUsualPedia - wherein we follow the strong industry tradition of doing all we can to alienate the user.  Sorry to be so snarky, but I just see red after 30 years in the software industry, and it always comes down to the conclusion that the product is the next best thing to creation itself, if only it weren&#8217;t for the verdammt users!</p>
+
+<p class="posted">posted by Reg
+ on September 19, 2006 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>Of course, your general point about the social/political ramification of software decisions is correct (that perspective is one of the reasons I voted for you), but you haven&#8217;t really said anything specifically relevant to the Wikimedia projects.  What software changes do you see as potential solutions to Wikipedia social problems?</p>
+
+<p>I&#8217;m not sure how, specifically, the input/influence of venture capitalists on MediaWiki development poses a threat.  Certainly it&#8217;s something to watch for, but I don&#8217;t think it&#8217;s problematic in and of itself.  It seems like, from a software perspective, what&#8217;s good for Wikia is good for Wikipedia, et. al.  Issues of control vs. accessibility will vary from project to project within Wikia.  For some wikis I would expect a desire for more openness and anonymity than Wikipedia; for others, more editorial control.  It seems like it will be in the interest of Wikia to make the software more flexible, and Wikimedia projects would be able to pick and choose which software changes to utilize.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://ragesossscholar.blogspot.com">Sage Ross</a>
+ on September 19, 2006 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c6">
+<p><i>&#8220;I&#8217;m not sure how, specifically, the input/influence of venture capitalists on MediaWiki development poses a threat.&#8221;</i></p>
+
+<p>&lt;</p>
+
+<p>p>Or who to. Anyway, no-one&#8217;s managed to get anything past Brion he didn&#8217;t think was a good idea.</p>
+
+<p>&lt;</p>
+
+<p>p>If Wikipedia sucks, what stops people from getting up and going elsewhere? Note that this has already happened.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://en.wikipedia.org/wiki/User:David_Gerard">David Gerard</a>
+ on September 22, 2006 <a href="#c6" rel="bookmark">#</a></p>
+</div>
+<div id="c7">
+<p><i>&#8220;I&#8217;m not sure how, specifically, the input/influence of venture capitalists on MediaWiki development poses a threat.&#8221;</i></p>
+
+<p>&lt;</p>
+
+<p>p>Or who to. Anyway, no-one&#8217;s managed to get anything past Brion he didn&#8217;t think was a good idea.</p>
+
+<p>&lt;</p>
+
+<p>p>If Wikipedia sucks, what stops people from getting up and going elsewhere? Note that this has already happened.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://en.wikipedia.org/wiki/User:David_Gerard">David Gerard</a>
+ on September 22, 2006 <a href="#c7" rel="bookmark">#</a></p>
+</div>
+<div id="c22">
+<p>What about russian translation?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://mypersonalplanning.com/">personal finance estate planning</a>
+ on July 14, 2007 <a href="#c22" rel="bookmark">#</a></p>
+</div>
+<div id="c34">
+<p>This article is very interesting and written by some clever guy.:) Thank you!</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.yez.pl">Gry</a>
+ on September 20, 2007 <a href="#c34" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="wikicodeislaw" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

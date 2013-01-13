@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Revolutions on the Internet (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Revolutions on the Internet</h1>
+
+<p>I hate to wade into such a sterile debate as whether social media helps revolutions, but I made a point about it recently at a conference and people seemed to like it, so I thought I&#8217;d put it up here for posterity.</p>
+
+<p>Jon Elster has a four-phase theory of revolutions:<sup id="fnref:fn1"><a href="#fn:fn1" rel="footnote">1</a></sup></p>
+
+<ol>
+<li><p>A hard-core of committed activists get together to do something completely crazy.</p></li>
+<li><p>The regime cracks down, attracting people who are sympathetic to the cause to rally to the support of the crazy ones.</p></li>
+<li><p>As the protests grow, it seems like they might have a reasonable chance of succeeding and it seems worth it even for just normal reasonable people to start joining in.</p></li>
+<li><p>The protests become so overwhelmingly large that even their opponents pretend to be part of them, so as not to be on the wrong side of history.</p></li>
+</ol>
+
+<p>It seems pretty clear that the Internet helps with 1 &#8212; after all, it&#8217;s brought together groups of crazy committed people about every other topic, from <em>Smallville</em> slash fiction to high-energy astrophysics. It&#8217;d be very surprising if it didn&#8217;t bring committed activists together too.</p>
+
+<p>It&#8217;s clearly helped with 2 &#8212; YouTube videos of protestors being mistreated by police have been a staple of the #occupy movement, even though they haven&#8217;t gotten much coverage on traditional TV; We are all Khaled Said presumably reached some people in Egypt.</p>
+
+<p>3 and 4 are when the cable news and satellite television stations start joining in and when people support the protest just because it&#8217;s such a huge physical presence in their lives. Here, I agree, the Internet probably has less effect.</p>
+
+<p>The problem is that you never get to 3 and 4 without 1 and 2 &#8212; I don&#8217;t think it&#8217;s a total accident that all of these protests are happening now. I think they&#8217;re happening because 1 and 2 have been made much easier thanks to the Internet. It&#8217;s just that most people don&#8217;t hear about them until steps 3 and 4, which are carried much more by traditional media. They suffer from the understandable fallacy that just because they heard about it on TV, that must be how everyone else did.</p>
+
+<div class="footnotes">
+<hr />
+<ol>
+
+<li id="fn:fn1">
+<p>Outlined in the preface to his book <em><a href="http://books.theinfo.org/go/0521422868">Political Psychology</a></em> (Cambridge; 1993).&#160;<a href="#fnref:fn1" rev="footnote">&#8617;</a></p>
+</li>
+
+</ol>
+</div>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">November  1, 2011</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>Sorry, Aaron, I am thoroughly unconvinced.</p>
+
+<p>This is a great example of coming up with an appealing story which plays on preconceptions and can&#8217;t be disproved, so the audience will love it. Kind of like &#8220;evolutionary psychology&#8221; 1/2 :-).</p>
+
+<p>The logic leap is right here:</p>
+
+<p>&#8220;It seems pretty clear that the Internet helps with 1  &#8230; It’d be very surprising if it didn&#8217;t bring committed activists together too.&#8221;</p>
+
+<p>That&#8217;s on the level of &#8220;It seems pretty clear this is about competition for the best mates. After all, so much else is, so it&#8217;d be very surprising if this isn&#8217;t too.&#8221;.</p>
+
+<p>Note - this is a short blog comment. I am not writing a book one comment at at time about this - the Internet isn&#8217;t helping me with that either :-(.
+(i.e. &#8220;The Internet should help you get a book deal. After all, it&#8217;s helped so many people get book deals.&#8221;).</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://sethf.com/">Seth Finkelstein</a>
+ on November  2, 2011 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>I think you&#8217;re correct.  Timur Kuran&#8217;s research on preference falsification and unanticipated revolutions was strangely prescient of the Arab spring, and evidences roughly the model Elster was talking about.</p>
+
+<p>OTOH, I think Evgeny Morozov is one of the smarter people on this topic today, especially from some firsthand experience I have had with some of these regimes.  Internet worked to support revolution in countries like Egypt because of the incompetence of the authorities.  Syria is much smarter, and Russia is the world champion of using the Internet to repress dissent.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://visitmix.com">Joshua Allen</a>
+ on November  2, 2011 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>Regarding #4:  Even Brookings won&#8217;t gripe about Occupy Capitol Hill &#8212; http://www.brookings.edu/events/2011/1207_occupy_congress_chat.aspx</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://twitter.com/mnrqz">Pablo</a>
+ on December  7, 2011 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="internetrev" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

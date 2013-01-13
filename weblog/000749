@@ -1,0 +1,54 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Copyright is Unconstitutional! (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000748" title="Santa Switch" />	<link rel="next" href="000750" title="How to Run a Good Conference" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Copyright is Unconstitutional!</h1>
+</div>
+
+<div class="content">
+<p>I just read a wonderful article by <a href="http://www.law.yale.edu/outside/html/faculty/jr73/profile.htm">Jed Rubenfeld</a>: <a href="http://www.yale.edu/yalelj/112/112-1ab1.html">The Freedom of Imagination: Copyright&#8217;s Constitutionality</a> [via <a href="http://www.freedom-to-tinker.com/archives/000212.html">Felten</a>].</p>
+
+<p><em>Imagine a country where reciting a poem in public could get you thrown in jail,</em> the article suggests. <em>You live in that country.</em> Copyright law, of course, prevents public performance of a copyrighted work like a poem.</p>
+
+<p>The article convincingly argues that copyright&#8217;s restriction on derivative works is a clear violation of the First Amendment. It shoots down the five common arguments to the contrary:</p><ul><li>&#8220;Copyright is an enumerated power, so it is immune from the bill of rights.&#8221; Rights trump powers, not vice versa. Outlawing interstate Bible sales would be unconstitutional, even though interstate commerce is an enumerated power.</li><li>&#8220;Copyright only regulates the expression, not the idea.&#8221; The idea behind &#8220;Fuck The Draft&#8221; can also be expressed in different ways, but the court ruled that the expression (even though it used profanity when it was unnecessary to communicate the idea) was protected.<li>&#8220;Fair use prevents copyright from violating the First Amendment.&#8221; Fair use does exactly the opposite. A law prohibiting all speech except that criticizing the government would clearly be unconstitutional, but fair use only protects derivative works that parody the original (and some other exceptions).</li><li>&#8220;Copyright creates more speech overall, so it is in the First Amendment&#8217;s interest.&#8221; We don&#8217;t make First Amendment judgements on these terms. Banning books creates more speech (from the uproar about the ban) but that&#8217;s no excuse to ban books.</li><li>&#8220;Copyright is just another form of property. You have no First Amendment right to trample on my property.&#8221; Trampling on your property is illegal not for expressive reasons but for practical ones. (It&#8217;s not allowed even when it&#8217;s not expressive.) Infringing on your copyright is aimed at preventing certain forms of expression. Were you to do the same infringing activity (say, publishing a book) but with different content, it would be permitted.</li></ul><p>The author goes on to suggest a form of copyright that would be constitutionally-permissible. Instead of preventing or punishing those who express derivative works, it could require that they pay a portion of their profits to the author. This wouldn&#8217;t prevent anyone speaking (by definition, profit is a gain; taking it away would make you no worse off than if you had never done the thing at all) and would allow people to give away modified works for free, but would give authors what many feel is a just return for their work.</p>
+
+<p>In this world, anyone could make <cite>Harry Potter</cite> into a movie or stage show, as long as they paid J. K. Rowling a portion of the money the make. Different adaptations and interpretation of the works would flourish; the public would get a chance to experience all sorts of new creative expression, here-to-fore impossible. This makes sound policy sense to me: the public gets the right to express it self, and creators of intellectual works get paid. But, as the author points out, it&#8217;s irrelevant what you think of it as policy; it&#8217;s required by our Constitution.</p>
+
+<p>Finally, the author presents a unified theory of the First Amendment: it protects the freedom to imagine, express what you&#8217;ve imagined, and listen to that expression. It doesn&#8217;t protect the right to misrepresent what you&#8217;ve imagined as fact (thus libel, perjury, and false advertising laws), nor does it protect the right to act out your imagination (you can&#8217;t break someone&#8217;s nose to express what you imagine a broken nose feels like). However, it does protect the freedom to imagine alternate beliefs (thus freedom of religion) or alternate governments (thus petitioning for a redress of grievances).</p>
+
+<p>Back to the subject of copyright, it doesn&#8217;t protect those who copy others works verbatim (that requires no imagination) but it does protect those who perform it, rework it, or express it &#8212; those who add their own spark of creativity to that which has come before. It&#8217;s time for copyright law to stop suffocating the resulting flame and let it grow, as the First Amendment requires.<br />
+[I&#8217;m sure I cannot do justice to the cogent and well-expressed arguments of this fifty-page paper, but I hope I&#8217;ve given you some idea of them. If you&#8217;re interested, I recommend you read it for yourself.]</p>
+
+<p class="posted">posted December 07, 2002 05:59 PM (<a class="category" href="cat_politics">Politics</a>)  <a href="000749" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000748" title="Santa Switch">&laquo; prev</a> | <a href="./">up</a> | <a href="000750" title="How to Run a Good Conference">next &raquo;</a></p>
+
+<p><a href="000742">Total Information Awareness Demo</a><br />
+<a href="000743">Creative Commons Launch!</a><br />
+<a href="000745">the next eldred</a><br />
+<a href="000746">web publishing is also typography (The Elements of Typographic Style)</a><br />
+<a href="000748">Santa Switch</a><br />
+<strong>Copyright is Unconstitutional!</strong><br />
+<a href="000750">How to Run a Good Conference</a><br />
+<a href="000754">How Total Information Awareness Works: A Simple Guide</a><br />
+<a href="000758">piracy, bits, and meatspace</a><br />
+<a href="000761">Explaining Spectrum, RDF</a><br />
+<a href="000762">OS X Hack: Printing 4-up to Save Paper</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

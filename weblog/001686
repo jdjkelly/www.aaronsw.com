@@ -1,0 +1,334 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Social Class in America (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="oldstyle.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001686.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001680" title="Stanford: The Cynic Returns" />	<link rel="next" href="001687" title="Stanford: Eat the Whales" />
+
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div id="banner">
+	<h1>Social Class in America</h1>
+</div>
+
+<div class="content">
+<p>One night the other weekend I was walking back with my dad to the hotel. I think we were talking about college admissions and things when he said &#8216;We don&#8217;t have class in America.&#8217; &#8216;What?&#8217; I said, stunned. &#8216;We don&#8217;t have a class system here. That&#8217;s only in places like Britain.&#8217; </p>
+
+<p>My dad has always found occasion to repeat the absurd propaganda he picks up from his daily doses of NPR and the <em>New York Times</em> &#8212; evolution is a fraud, global warming is perfectly normal, etc. &#8212; but this claim just floored me. How could anyone believe we didn&#8217;t have social class in America? The evidence is all around us, all the time &#8212; it must take real training not to see it. </p>
+
+<p>A large part of it is that the media pretends class doesn&#8217;t exist. It never talks about it, except to say that we&#8217;re all middle class or imply that class is a purely cultural construction, not an economic one. (It is this last thing that allows multimillionaire George W. Bush to become lower class by speaking in a Texas twang and wearing cowboy boots.) And the realities of other classes are never portrayed, except in a stereotyped, mocking tone. In the media, everyone is middle class.</p>
+
+<p>The PBS documentary <em>People Like Us: Social Class in America</em> is the rare exception. While it too mostly ignores economic issues, through a series of local stories highlighting the mixtures and contradictions of class, it at least begins to build a portrait of what class cultures really looks like in America. However, there is one particularly heart-wrenching clip:</p>
+
+<object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/Q8VXrHeLqBA"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/Q8VXrHeLqBA" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object>
+
+<p><a href="http://www.aaronsw.com.nyud.net:8090/weblog/static/tammy2.mov">Watch 7m clip of Tammy&#8217;s story</a> [30MB QuickTime movie].</p>
+
+<p>Showing just how much people missed the economic point, <a href="http://www.pbs.org/peoplelikeus/supporttammy.html">folks demanded a way to donate to Tammy</a>.</p>
+
+<ul>
+<li><a href="http://www.pbs.org/peoplelikeus/">Official website</a></li>
+<li>Look for a copy at your local library</li>
+<li><a href="http://www.pbs.org/peoplelikeus/about/order.html">Educational/institutional ordering</a></li>
+</ul>
+
+<p class="posted">posted April 22, 2005 06:08 PM (<a class="category" href="cat_education">Education</a>) (<a href="#comments">16 comments</a>) <a href="001686" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001680" title="Stanford: The Cynic Returns">&laquo; prev</a> | <a href="./">up</a> | <a href="001687" title="Stanford: Eat the Whales">next &raquo;</a></p>
+
+<p><a href="001673">Stanford: Frown</a><br />
+<a href="001675">Get Arrested</a><br />
+<a href="001677">What Journalists Don&#8217;t: Lessons from the Times</a><br />
+<a href="001679">SFP: Come see us</a><br />
+<a href="001680">Stanford: The Cynic Returns</a><br />
+<strong>Social Class in America</strong><br />
+<a href="001687">Stanford: Eat the Whales</a><br />
+<a href="001688">Freakonomics</a><br />
+
+</p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c4865">
+
+<p>What differentiates the US from Britain isn&#8217;t the lack of social classes - it&#8217;s that class mobility is much easier here.  </p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.cincomsmalltalk.com/blog/blogView" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=4865">James Robertson</a> at April 22, 2005 06:43 PM <a href="#c4865">#</a></p>
+
+</div><div id="c4866">
+
+<p>On the contrary, only 7% of the US&#8217;s bottom quartile grow up to be in its top quartile. The comparable figure for Britain appears to 10%.<a href="http://www.crest.ox.ac.uk/papers/p70.pdf">†</a> So Britain has <em>more</em> class mobility than we do.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=4866">Aaron Swartz</a> at April 22, 2005 07:16 PM <a href="#c4866">#</a></p>
+
+</div><div id="c4867">
+
+<p>Social classes, as such, do not exist in America as they do in Europe, Asia, etc.</p>
+
+<p>However, economic classes do. What&#8217;s brilliant about the U.S. model, is that you can change your economic class by being successful. It&#8217;s a meritocracy.</p>
+
+<p><em>Aaron&#8217;s response:</em> Do you have <em>any</em> evidence for these claims? I just pointed to a whole film on social classes and statistics on economic mobility. If the US really was a meritocracy, you&#8217;d expect people with parents in the bottom 20% to have a 20% chance of making it to the top 20%. Instead, it&#8217;s 7%. </p>
+
+<p class="posted">posted by Ron Bischof at April 22, 2005 07:18 PM <a href="#c4867">#</a></p>
+
+</div><div id="c4868">
+
+<p>The New York Times and NPR spread propaganda? How does the NYT spread propaganda about evolution is fraud and global warming is perfectly normal? By reporting on those who claim such things? Is reporting on it a sign of support?</p>
+
+<p class="posted">posted by <a target="_blank" title="http://bigben.blogs.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=4868">Ben Casnocha</a> at April 22, 2005 07:19 PM <a href="#c4868">#</a></p>
+
+</div><div id="c4869">
+
+<p>It is when you misrepresent the facts. The scientific consensus on both issues is extraordinarily strong, but major papers like the Times often make it out to be a subject of scientific dispute or question. That&#8217;s just not the case.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=4869">Aaron Swartz</a> at April 22, 2005 07:27 PM <a href="#c4869">#</a></p>
+
+</div><div id="c4870">
+
+<p>Would you not have to define &#8216;class&#8217; before you can debate where it exists?  Also, is it possible for part of a culture to have class, in this sense, and another part of the same culture to not have it?</p>
+
+<p class="posted">posted by <a target="_blank" title="http://daysofleisure.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=4870">Jim N.</a> at April 22, 2005 08:53 PM <a href="#c4870">#</a></p>
+
+</div><div id="c4871">
+
+<p>Skimming that paper, I don&#8217;t see any mention of movement across quartiles (btw, quartiles of what? wealth, income, &#8230;?). As for class in Britain, they still have a royal family, hereditary titles, etc. The US doesn&#8217;t.</p>
+
+<p>Also, how exactly is the clip about Tammy supposed to be about class? Her father had 22 children without the means to support them. That Tammy grew up poor has less to do with class than it does with the negligence of her parents.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.nextthing.org/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=4871">Andrew Wooster</a> at April 22, 2005 09:00 PM <a href="#c4871">#</a></p>
+
+</div><div id="c4872">
+
+<p>You said: &#8220;If the US really was a meritocracy, you’d expect people with parents in the bottom 20% to have a 20% chance of making it to the top 20%. Instead, it’s 7%.&#8221;</p>
+
+<p>You can&#8217;t expect wealth to be distributed completely evenly among people, their are so many other things working against this, the only way you could do it would be some kind of communism with a lottery system that imposed economic classes assigned completely randomly.</p>
+
+<p>Even if private school was illegal, and university was free (to eliminate a bunch of variables), the students comming from richer families would <i>still</i> have a lot of advantage, because of the support from their parents and the rest of their familiy, who probably already knows a lot about getting rich. The poorest students would be at a severe disadvantage as well, especially if they lacked much family support. Parents pass habits to their kids, what isn&#8217;t given to them by genes is inherited by habit.</p>
+
+<p>That is neglecting biology, and there is absolutely nothing that can be done about that, smarter parents make smarter children in general, smarter children will make more money if they want it (most people <i>really</i> want it). </p>
+
+<p>And when you factor in everything else, private schools, univeristy tuition, probably even nutrition even has an effect, you get what you see every day, little class mobility, it happens slowly.</p>
+
+<p>It is a huge problem, I wouldn&#8217;t even know where to begin, I think the main remedy for this would be stronger education, but you can&#8217;t force people to pay attention, it would require tricking the unwilling into fulfilling their potential, that would be good economically, but you&#8217;d still have classes because of different ability, and it would be probaby still harder to move between them. Not to mention you&#8217;d still have all those other poor countries, where being poor means starving.</p>
+
+<p>This is kind of long winded haha, you can probably tell I&#8217;ve though of this before.</p>
+
+<p class="posted">posted by Joseph LeBlanc at April 22, 2005 11:06 PM <a href="#c4872">#</a></p>
+
+</div><div id="c4873">
+
+<p>That clip is heartbreaking.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.briandonovan.info" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=4873">brian donovan</a> at April 23, 2005 10:07 AM <a href="#c4873">#</a></p>
+
+</div><div id="c4874">
+
+<p>Success breds success.  A financially successful parent has good habits that are passed onto the children.  Of coarse, that same parent might be a real jerk, and their children might also be nasty people.</p>
+
+<p>Those habits include good study habits and also good investing habits.  </p>
+
+<p>From what I&#8217;ve seen, most people who don&#8217;t make much money, have the ability to make much more money.  They choose professions (like social work) that barely make a living.  Their priority isn&#8217;t making money.</p>
+
+<p>It seems like we should give people the freedom to choose their priorities in life.  If someone wants to make money, they should be allowed to choose a high income line of work (eg doctor), and work their buts off.  If someone has other priorities, and they choose not to study hard and invest in their career, they get plenty of other benefits.  </p>
+
+<p class="posted">posted by Austin at April 23, 2005 10:24 AM <a href="#c4874">#</a></p>
+
+</div><div id="c4875">
+
+<p>I was a case manager at an urban homeless center, and we attended a presentation which illustrated an interesting point.  Class actually involves completely different ways of communicating and relating to the world.  As a person from a low socio-economic class, you wouldn&#8217;t have any idea how to organize a cotillion.  Just as someone from a high socio-economic class would not be likely to know how to get an old car running.  We are all programmed with a language and way of looking at the world that tends to keep us in the socio-economic class that we started in.  This is one of the reasons why so many wealthy NBA stars find themselves in such a mess.  They suddenly have money and no frame of reference for how to handle themselves.  </p>
+
+<p class="posted">posted by Michael at April 23, 2005 02:16 PM <a href="#c4875">#</a></p>
+
+</div><div id="c4876">
+
+<p>I think the problem in the US is we like to believe social class is something unnatural that is imposed by a legal system.</p>
+
+<p>Social and economic class structures are naturally occurring things. It happens without laws. Look at social class in the public school system. Things just happen naturally. What I found interesting traveling around the country while in school (I attended 7 schools growing up) was that social classes seemed the same from school to school and the simple act of changing schools never really changed my social class in school.</p>
+
+<p>Social class ends up about being about who you are in relation to society. The only thing that an individual can really do to change their social status is change themselves or change the entire rest of the world. </p>
+
+<p>In America we have this idea that we can change social status at will. This is true, but it&#8217;s difficult and it&#8217;s not an entitlement. It would be great if I could just declare that I&#8217;m going to be of such and such status but if I don&#8217;t change anything else reality&#8217;s going to set in eventually. Sometimes those things about ourselves which help to define which class we are in are static. One example is our level of intelligence. We can&#8217;t all decide we will be brilliant and just make it happen. </p>
+
+<p>So let&#8217;s go back to school. There were classes that had different things as criteria. Some classes formed around intellect. Some that formed around popularity and looks. Some that formed around athleticism. Some that formed around race. Each group treated others based on their own criteria. Most of the classes I saw weren&#8217;t dependent on having money but I could see how if these same classes extended beyond school which one you fell in would be a large factor in your ability to be successful in work or business because where you are perceived to be in relation to others is a major factor in their willingness to hire or do business with you.  This is the Coke phenomenon. Coke isn&#8217;t the cheapest (by far) and isn&#8217;t even the drink that tastes best (as test after test by both Coke and Pepsi found) but it&#8217;s the drink that people buy because it is Coke-a-Cola. It truly is in a class by itself. Likewise people treat others based on the class they see them in without regard to the person&#8217;s actual abilities. </p>
+
+<p>I was listening to coverage of the upcoming NFL draft yesterday and heard someone say &#8220;Well, he&#8217;s a Michigan receiver&#8221; and went on to disparage the player based on that. Likewise players from Miami tend to get rated higher on the basis that they played at Miami than they might otherwise be rated despite the fact that they often turn out to be busts.</p>
+
+<p>In any case I conclude that class is created by the perceptions people have of you and generalizations made within the human mind in order to cope with the all the information taken in about people and that while changing your class isn&#8217;t prohibited by law it&#8217;s requires great effort to change your self and may require changing your self in ways you might not like but that&#8217;s the nature of non-entitlements. </p>
+
+<p class="posted">posted by <a target="_blank" title="http://obfuscated.net/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=4876">Michael Conlen</a> at April 23, 2005 03:48 PM <a href="#c4876">#</a></p>
+
+</div><div id="c4880">
+
+<p>What about culture?  Certain cultures seem to put a large importance on education and success.  </p>
+
+<p>When the parents, or the student&#8217;s peer group, don&#8217;t respect education, nothing is going to help.  This is a problem of MOTIVATION, not the teachers or school system.  </p>
+
+<p>This is a cultural problem, not an economic problem.  Until the parents start caring more, nothing is going to change.  </p>
+
+<p class="posted">posted by Austin at April 23, 2005 07:00 PM <a href="#c4880">#</a></p>
+
+</div><div id="c4883">
+
+<p>I am a real live American class jumper- from lower to my current techno-middle. It&#8217;s really weird, and sometimes hard, and not entirely economic or social, ime, partly because class is a white elephant in American culture. I once watched a woman literally fall out of her chair when I told her the last thing I graduated from was the 9th grade. Things are profoundly <em>not</em> meritocratic, but it&#8217;s a hard myth to let go. I&#8217;ve come to appreciate that things aren&#8217;t meritocratic partly because meritocracy is very hard- has been from the days of the Chinese Mandarin exams that tested one&#8217;s ability to compose poetry, hasn&#8217;t really gotten much better. We&#8217;ve never come up with a good merit filter, we&#8217;ve always struggled with how to get merit through a power law. So beyond the biological willingness to stick it to outsiders, it&#8217;s quite hard to create a level playing field. Successful people don&#8217;t breed successful people, they just breed people that know successful people. </p>
+
+<p>The question I have after watching the Tammy piece is why is it so heartbreaking? I found it kind of nice, even a bit uplifting. I mean, they&#8217;re poor, but the older kid is looking at college, and Tammy is thinking of an education herself. They are clearly tight-knit and sensible. I mean, they&#8217;re doing better than most people I knew. And they don&#8217;t look sick, which is the real danger of poverty in America. What&#8217;s sad is when you&#8217;re poor, it frames the whole way you see the world. You could see it when they kid said &#8220;I know I&#8217;m not Harvard material.&#8221; I&#8217;ve met some real idiot Harvard grads, but you could have never told me that when I was a kid. Harvard (and Stanford for that matter) might as well have been on the moon. Ambitions are about how to be a high status person in your current context, not about how to get out of that context altogether. An aggressive, take-no-prisoners, has to be on top black boy in the inner cities is a lot more likely to get steered towards drug dealing; the same personality in a white boy in Beverly Hills is likely to get steered into law or finance. That&#8217;s a class difference for you: it&#8217;s a difference of expections. </p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.ambiguous.org" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=4883">quinn</a> at April 23, 2005 08:51 PM <a href="#c4883">#</a></p>
+
+</div><div id="c4885">
+
+<p>Class most certainly exists in America. Wealth and connections are the key, as opposed to formal aristocratic titles, as in Old World societies. Indeed, a recent article in The Economist suggests that America is a less class mobile society than I would have thought. The article is an excellent read:</p>
+
+<p>http://www.economist.com/world/na/displayStory.cfm?story_id=3518560</p>
+
+<p class="posted">posted by Chris at April 23, 2005 11:49 PM <a href="#c4885">#</a></p>
+
+</div><div id="c4891">
+
+<p>Aaron,</p>
+
+<p>I very much enjoy your blog.  Thanks for the time and thoughtfulness that you generously invest.</p>
+
+<p>My oldest son is a freshman in college; I am therefore more of your father&#8217;s generation than yours.</p>
+
+<p>I wanted to address your comment &#8220;My dad has always found occasion to repeat the absurd propaganda he picks up from his daily doses of NPR and the New York Times — evolution is a fraud, global warming is perfectly normal, etc.&#8221;</p>
+
+<p>I found this to be less thoughtful than most of what I read on your site.  Suggesting that NPR and the NYT advocate positions on these issues sounds more like the paranoid ranting of Spiro Agnew or Tom Delay than a well-reasoned conclusion.  NPR and the NYT no more advocate a position than do the Wall Street Journal or the Washington Post.  The fact that we have access to media with diverse perspectives is a critical asset.</p>
+
+<p>With regard to Evolution - the issue is complex.  And the complexity is masked by people&#8217;s desire to succinctly label a small number of positions so that we can enjoy a &#8220;horse race&#8221; between them.</p>
+
+<p>Many people associate the position that Evolution does not completely explain how complex organisms came into existence with Creationism.</p>
+
+<p>There is a very different position that is harder to label: &#8220;Creationism is not a reasonable explanation for anything, however Evolution as an explanation seems incomplete, we may not understand the entirety of how complex organisms came to exist&#8221;.</p>
+
+<p>This is also a very different position than that labeled &#8220;intelligent design&#8221; which begins to try to credit a &#8220;designer&#8221; with the missing piece, sliding rabidly down the slope toward our Creationist friends.</p>
+
+<p>So, the &#8220;we don&#8217;t really understand this&#8221; position is a hard one to label and advocate.  I happen to personally believe strongly that it is correct :&#8217;).  Can modern objective, reason-based thought accommodate a position like &#8220;we don&#8217;t understand&#8221;?</p>
+
+<p>The reason I am so damn sure that evolution is an incomplete explanation is supported by my forty six years of experience in general with more than half of that as a computer scientist.  I can think of no examples in which systems, simple or complex - spontaneously, even over very long periods of time - achieve a higher degree of order.  Yet Darwin would have us believe that this happens uniquely with regard to the evolution of the species.</p>
+
+<p>Thanks for the venue Aaron.  Tell your dad &#8220;Hi&#8221; for me, he sounds like an awesome guy.  Maybe when you have a minute you can treat us to more than a throw-away comment about liberal media &#8220;propaganda&#8221; and share your thoughts with regard to evolution.</p>
+
+<p>-Carty Castaldi</p>
+
+<p class="posted">posted by Carty Castaldi at April 24, 2005 09:03 AM <a href="#c4891">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001686.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1686" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

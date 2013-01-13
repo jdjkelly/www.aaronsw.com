@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Confront reality (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Confront reality</h1>
+
+<p><em>This post is part five of the series <a href="rawnerve">Raw Nerve</a>.</em></p>
+
+<div class="epigraph"><p>We are all capable of believing things which we know to be untrue, and then, when we are finally proved wrong, impudently twisting the facts so as to show that we were right. Intellectually, it is possible to carry on this process for an indefinite time: the only check on it is that sooner or later a false belief bumps up against solid reality, usually on a battlefield.</p><p class="attribution">—George Orwell, &#8220;<a href="http://orwell.ru/library/articles/nose/english/e_nose">In Front of Your Nose</a>&#8221;</p></div>
+
+<p>If you want to understand experts, you need to start by finding them. So the psychologists who wanted to understand &#8220;expert performance&#8221; began by testing alleged experts, to see how good they really were.</p>
+
+<p>In some fields it was easy: in chess, for example, great players can reliably beat amateurs. But in other fields, it was much, much harder.</p>
+
+<p>Take punditry. In his giant 20-year study of expert forecasting, Philip Tetlock found that someone who merely predicted &#8220;everything will stay the same&#8221; would be right more often than most professional pundits.<sup id="fnref:tet"><a href="#fn:tet" rel="footnote">1</a></sup> Or take therapy. Numerous studies have found an hour with a random stranger is just as good as an hour with a professional therapist.<sup id="fnref:dawes"><a href="#fn:dawes" rel="footnote">2</a></sup> In one study, for example, sessions with untrained university professors helped neurotic college students just as much as sessions with professional therapists.<sup id="fnref:strupp"><a href="#fn:strupp" rel="footnote">3</a></sup> (This isn&#8217;t to say that therapy isn&#8217;t helpful &#8212; the same studies suggest it is &#8212; it&#8217;s just that what&#8217;s helpful is talking over your problems for an hour, not anything about the therapist.)</p>
+
+<p>As you might expect, pundits and therapists aren&#8217;t fans of these studies. The pundits try to weasel out of them. As Tetlock writes; &#8220;The trick is to attach so many qualifiers to your vague predictions that you will be well positioned to explain pretty much whatever happens. China will fissure into regional fiefdoms, but only if the Chinese leadership fails to manage certain trade-offs deftly, and only if global economic growth stalls for a protracted period, and only if&#8230;&#8221;<sup id="fnref:t2"><a href="#fn:t2" rel="footnote">4</a></sup> The therapists like to point to all the troubled people they&#8217;ve helped with their sophisticated techniques (avoiding the question of whether someone unsophisticated could have helped even more). What neither group can do is point to clear evidence that what they do works.</p>
+
+<p>Compare them to the chess grandmaster. If you try to tell the chess grandmaster that he&#8217;s no better than a random college professor, he can easily play a professor and prove you wrong. Every time he plays, he&#8217;s confronted with inarguable evidence of success or failure. But therapists can often feel like they&#8217;re helping &#8212; they just led their client to a breakthrough about their childhood &#8212; when they&#8217;re actually not making any difference.</p>
+
+<p>Synthesizing hundreds of these studies, K. Anders Ericsson concluded that what distinguishes experts from non-experts is engaging in what he calls <em>deliberate practice</em>.<sup id="fnref:anders"><a href="#fn:anders" rel="footnote">5</a></sup> Mere practice isn&#8217;t enough &#8212; you can sit and make predictions all day without getting any better at it &#8212; it needs to be a kind of practice where you receive &#8220;immediate informative feedback and knowledge of results.&#8221;<sup id="fnref:a2"><a href="#fn:a2" rel="footnote">6</a></sup></p>
+
+<p>In chess, for example, you pretty quickly discover whether you made a smart move or a disastrous error, and it&#8217;s even more obvious in other sports (when practicing free-throws, it&#8217;s pretty obvious if the ball misses the net). As a result, chess players can try different tactics and learn which ones work and which don&#8217;t. Our pundit is not so lucky. Predicting a wave of revolutions in the next twenty years can feel very exciting at the time, but it will be twenty years before you learn whether it was a good idea or not. It&#8217;s hard to get much deliberate practice on that kind of time frame.</p>
+
+<hr />
+
+<p>I&#8217;ve noticed very ambitious people often fall into this sort of trap. Any old slob can predict what will happen tomorrow, they think, but I want to be truly great, so I will pick a much harder challenge: I will predict what will happen <em>in a hundred years</em>. It comes in lots of forms: instead of building another silly site like Instagram, I will build an <em>artificial intelligence</em>; instead of just doing another boring experiment, I will write <em>a grand work of social theory</em>.</p>
+
+<p>But being great isn&#8217;t as easy as just picking a hard goal &#8212; in fact, picking a really hard goal avoids reality almost as much as picking a really easy one. If you pick an easy goal, you know you&#8217;ll always succeed (because it&#8217;s so easy); if you pick a really hard one, you know you&#8217;ll never fail (because it will always be too early to tell). Artificial intelligence is a truly big problem &#8212; how can you possibly expect us to succeed in just a decade? But we&#8217;re making great progress, we swear.</p>
+
+<p>The trick is to set yourself lots of small challenges along the way. If your startup is eventually going to make a million dollars, can it start by making ten? If your book is going to eventually persuade the world, can you start by persuading your friends? Instead of pushing all your tests for success way off to the indefinite future, see if you can pass a very small one right now.</p>
+
+<p>And it&#8217;s important that you test for the right thing. If you&#8217;re writing a program that&#8217;s supposed to make people&#8217;s lives easier, what&#8217;s important is not whether they like your mockups in focus groups; it&#8217;s whether you can make a prototype that actually improves their lives.</p>
+
+<hr />
+
+<p>One of the biggest problems in writing self-help books is getting people to actually take your advice. It&#8217;s not easy to tell a compelling story that changes the way people view their problems, but it turns out to be a lot easier than writing something that will actually persuade someone to get up off the couch and change the way they live their life. There are some things writing is really good at, but forcing people to get up and do something isn&#8217;t one of them.</p>
+
+<p>The irony, of course, is that the books are totally useless unless you take their advice. If you just keep reading them, thinking &#8220;that&#8217;s so insightful! that changes everything,&#8221; but never actually doing anything different, then pretty quickly the feeling will wear off and you&#8217;ll start searching for another book to fill the void. Chris Macleod calls this &#8220;epiphany addiction&#8221;: &#8220;Each time they feel like they&#8217;ve stumbled on some life changing discovery, feel energized for a bit without going on to achieve any real world changes, and then return to their default of feeling lonely and unsatisfied with their life. They always end up back at the drawing board of trying to think their way out of their problem, and it&#8217;s not long before they come up with the latest pseudo earth shattering insight.&#8221;<sup id="fnref:ss"><a href="#fn:ss" rel="footnote">7</a></sup></p>
+
+<p>Don&#8217;t let that happen to you. Go out and test yourself today: pick a task just hard enough that you <em>might</em> fail, and try to succeed at it. Reality is painful &#8212; it&#8217;s so much easier to keep doing stuff you know you&#8217;re good at or else to pick something so hard there&#8217;s no point at which it&#8217;s obvious you&#8217;re failing &#8212; but it&#8217;s impossible to get better without confronting it.</p>
+
+<p><strong>Next in this series:</strong> <a href="geremiah">Cherish mistakes</a></p>
+
+<div class="footnotes">
+<hr />
+<ol>
+
+<li id="fn:tet">
+<p>Philip Tetlock, <em>Expert Political Judgment: How Good Is It? How Can We Know?</em> (2006). I don&#8217;t have my copy handy, so I checked this description against Philip Tetlock, &#8220;<a href="http://nationalinterest.org/bookreview/reading-tarot-on-k-street-3220">Reading Tarot on K Street</a>,&#8221; <em>The National Interest</em> (September/October 2009), 57–67.&#160;<a href="#fnref:tet" rev="footnote">&#8617;</a></p>
+</li>
+
+<li id="fn:dawes">
+<p>Robyn M. Dawes, <em>House of Cards: Psychology and Psychotherapy Built on Myth</em> (1996).&#160;<a href="#fnref:dawes" rev="footnote">&#8617;</a></p>
+</li>
+
+<li id="fn:strupp">
+<p>Hans H. Strupp and Suzanne W. Hadley, &#8220;<a href="http://dx.doi.org/10.1001/archpsyc.1979.01780100095009">Specific vs Nonspecific Factors in Psychotherapy: A Controlled Study of Outcome</a>,&#8221; <em>Archives of General Psychology</em> <strong>36</strong>:10 (1979), 1125–1136.&#160;<a href="#fnref:strupp" rev="footnote">&#8617;</a></p>
+</li>
+
+<li id="fn:t2">
+<p>Tetlock, &#8220;Reading Tarot,&#8221; 67.&#160;<a href="#fnref:t2" rev="footnote">&#8617;</a></p>
+</li>
+
+<li id="fn:anders">
+<p>K. Anders Ericsson, Ralf Th. Krampe, and Clemens Tesch-Römer, &#8220;<a href="http://dx.doi.org/10.1037/0033-295X.100.3.363">The Role of Deliberate Practice in the Acquisition of Expert Performance</a>,&#8221; <em>Psychological Review</em>, <strong>100</strong>:3 (July 1993), 363–406.&#160;<a href="#fnref:anders" rev="footnote">&#8617;</a></p>
+</li>
+
+<li id="fn:a2">
+<p>Ericsson, &#8220;Role,&#8221; 367.&#160;<a href="#fnref:a2" rev="footnote">&#8617;</a></p>
+</li>
+
+<li id="fn:ss">
+<p>Chris Macleod, &#8220;<a href="http://www.succeedsocially.com/epiphany">&#8216;Epiphany Addiction&#8217;</a>,&#8221; <em>Succeed Socially</em> (<a href="http://www.webcitation.org/6AYB8AIbz">visited 2012-09-09</a>).&#160;<a href="#fnref:ss" rev="footnote">&#8617;</a></p>
+</li>
+
+</ol>
+</div>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">September  9, 2012</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>Great article! Thank you!</p>
+
+<p>It&#8217;s really amazing how closely your article resembles my experiences in the last few years. I recall myself going through cycles of setting totally unrealistic goals for myself, only to realize months later that I had just been spinning my wheels the whole time.</p>
+
+<p>Very recently I&#8217;ve been setting short-term, achievable goals and accomplishing them. This has helped to fuel my spirit to set more goals and achieve those too.</p>
+
+<p>Your article reaffirms to me that I am on the right track.</p>
+
+<p>Thanks again!</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://degreesofzero.com">Charles Hill</a>
+ on September 11, 2012 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>I enjoyed reading this post, you gotta be practical in life and not just digest the theoretical knowledge! Apply ur learnings. True! I have experienced whats called - “epiphany addiction”. And now I live by experimenting ideas about the changes i wish to make on my thinking pattern , since a thought results in action. So mend the thoughts. I feel better without those self help books. I dont rely on them anymore. Thanks Aaron for ur dose of inspiration!</p>
+
+<p class="posted">posted by ritz
+ on September 11, 2012 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="anders" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

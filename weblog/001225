@@ -1,0 +1,232 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>[REDACTED] (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001225.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001224" title="Misreading Jefferson is Sinful and Tyrannical" />	<link rel="next" href="001226" title="All News is Bad News" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>[REDACTED]</h1>
+</div>
+
+<div class="content">
+<p><img class="img" src="http://en.wikipedia.org/upload/5/53/Aclu-v-ashcroft-redacted.jpg" alt="a heavily redacted page from the lawsuit" /></p>
+
+<p>In the first serious challenge to the USA PATRIOT, [REDACTED] has sued [REDACTED] arguing they shouldn&#8217;t have [REDACTED] because [REDACTED]. [REDACTED] It doesn&#8217;t look good for [REDACTED]. Because [REDACTED] has [REDACTED], [REDACTED] so [REDACTED].</p>
+
+<p>Well, almost.  The truth is <a href="http://www.aclu.org/SafeandFree/SafeandFree.cfm?ID=15543&amp;c=262&amp;MX=1225&amp;H=1">the ACLU filed a lawsuit</a> on behalf of some unknown party on April 9. Because of the secrecy rules involved, the government would not let them disclose they had filed a case for nearly a month, after which they were permitted to release <a href="http://www.aclu.org/SafeandFree/SafeandFree.cfm?ID=15552&amp;c=262">a heavily redacted version of the complaint</a>. However, they still cannot disclose who was served with the request to produce documents and opted to challenge the law.</p>
+
+<p>What we do know is that it&#8217;s some sort of Internet service provider whose name is short, like a TLA (AOL? MCI? IBM?). They&#8217;re challenging &#8220;section 2709&#8221;, which lets the FBI request subscriber information from an ISP without judicial oversight or notice. Worse, the ISP is then prohibited from saying &#8212; even to their lawyers &#8212; they&#8217;ve given records to the FBI <em>forever</em>. The USA PATRIOT Act modified this law so they can use it against anyone, even people with no connection to terrorists.</p>
+
+<p>The ACLU argues law violates the First Amendment because it categorically prevents people from speaking about the records taken. It violates the First Amendment because it allows the government to order the disclosure of constitutionally protected information (like who an anonymous speaker is) without any oversight. It violates the First and Fourth Amendments because it provides no method to challenge the request. It violates the First, Fourth, and Fifth Amendments because it requires no prior notice of waiver of such notice.</p>
+
+<p>The Court is asked to declare the law unconstitutional and enjoin the government from using it again.</p>
+
+<p>What happens next is sure to be interesting, so stay tuned. All I can say is [REDACTED].</p>
+
+<p><strong>Updates:</strong> <a href="http://www.aaronsw.com/weblog/001412">Behind the Thick Black Line</a>, <a href="http://www.aaronsw.com/weblog/001424">[REDACTED] Update</a></p>
+
+<p class="posted">posted May 07, 2004 10:13 AM (<a class="category" href="cat_politics">Politics</a>) (<a href="#comments">7 comments</a>) <a href="001225" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001224" title="Misreading Jefferson is Sinful and Tyrannical">&laquo; prev</a> | <a href="./">up</a> | <a href="001226" title="All News is Bad News">next &raquo;</a></p>
+
+<p><a href="001215">Presidential Candidate Bob Williams, part 4: Political Debate</a><br />
+<a href="001218">Presidential Candidate Bob Williams, part 5: The Verdict of History</a><br />
+<a href="001222">Physics&#8217;s Puzzle</a><br />
+<a href="001223">Where&#8217;s Okrent? The End of the Times</a><br />
+<a href="001224">Misreading Jefferson is Sinful and Tyrannical</a><br />
+<strong>[REDACTED]</strong><br />
+<a href="001226">All News is Bad News</a><br />
+<a href="001228">Big Bad Bundle Blog</a><br />
+<a href="001229">I Hate Books</a><br />
+<a href="001230">Completely Outrageous</a><br />
+<a href="001234">Brown and Goodridge</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1009">
+
+<p>Aaron: simply amazing. I can&#8217;t believe I hadn&#8217;t heard about this &#8212; it should be all over the place. Thanks.</p>
+
+<p class="posted">posted by Jeremiah Rogers at May  7, 2004 12:01 PM <a href="#c1009">#</a></p>
+
+</div><div id="c1010">
+
+<p>The US Congress has abdicated its responsibilities to participate in checks-and-balances. It passed this disgusting &#8220;Patriot Act&#8221;, it continues to fund an undeclared &#8220;war&#8221;, it has failed to oppose indef detention without charge or trial, and on and on&#8230;</p>
+
+<p>The Federal Courts have abdicated their responsibilities to participate in checks-and-balances. They have allowed blatantly unconstitutional activities by the administration, failed to overturn obviously unconstitutional legislation, failed to oversee the disbursement of funds enabling only specific activities, and on and on and on&#8230;</p>
+
+<p>Even in the darkest depths of the Nixon administration I did not fear for my civil rights as I do now. Foolish me, I thought we had settled most of these issues following a little struggle and the development of a basic governing document in the late 1700s. I seem to remember the struggle was called &#8220;The American Revolution&#8221; and the document was called the &#8220;Constitution&#8221; when I was in grade school, but maybe I missed some recent changes.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.it.rit.edu/~jxs/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=1010">jeffs</a> at May  7, 2004 02:57 PM <a href="#c1010">#</a></p>
+
+</div><div id="c1014">
+
+<p>I can&#8217;t say that this surprises me too much. It&#8217;s more shocking that we ever learned about it. I&#8217;m not sure which is the lesser evil tho. That our current crop of elected officials have all but stripped of us of our basic constitutional rights, or that most are either blissfully unaware of these events or see nothing whatsoever wrong with it. After all, the same people who brought us the (so-called) Patriot Act are also the ones who have given us the Department of Homeland Security. Am I the only one who sees something wrong with the new ultra-conservative (might I go as far as fascist) political speak? I hope not.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://xaos.static.net/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=1014">Charles Baldwin</a> at May  8, 2004 11:41 AM <a href="#c1014">#</a></p>
+
+</div><div id="c1017">
+
+<p>Charades!</p>
+
+<p>Definitely three letters.</p>
+
+<p>Hmm &#8230; &#8220;Internet access (what) business&#8221;</p>
+
+<p>&#8220;service provider&#8221; is too long.</p>
+
+<p>I think it&#8217;s &#8220;e-commerce&#8221;</p>
+
+<p>Also, &#8220;located (what)&#8221;</p>
+
+<p>Maybe &#8220;in (a state with a moderate name)&#8221;?</p>
+
+<p>Item #35 suggests it&#8217;s &#8220;in [around 9-letters?]&#8221;
+Maybe 8 letters if the first is uppercase?
+(i.e, we could rule out &#8220;Ohio&#8221; and &#8220;Mississippi&#8221;)</p>
+
+<p>But that&#8217;s as far as I can get it now.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://sethf.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=1017">Seth Finkelstein</a> at May  9, 2004 03:19 PM <a href="#c1017">#</a></p>
+
+</div><div id="c1018">
+
+<p>Amusing: (from the court record)</p>
+
+<p>04/28/2004      8       ORDER, It is ordered that the aboved captioned action shall be exempt from electronic case filing. It is further ordered that the above captioned action is unsealed to the following extent. All documents that have been filed in this case shall remain under seal. The following documents shall be filed on the public docket in redacted form: redacted complaint and redacted motion to file the complaint under seal. Copies of those two redacted documents, which are to be filed on the public docket in redacted form only, are annexed. This order shall be filed on the public docket. All other documents that are to be filed in this case shall be filed under seal, unless otherwise ordered by the court. (Signed by Judge Victor Marrero on 4/28/04) (wv, ) (Entered: 04/28/2004)</p>
+
+<p class="posted">posted by <a target="_blank" title="http://grep.law.harvard.edu/article.pl?sid=03/12/16/0526234&mode=nocomment" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=1018">Seth Finkelstein</a> at May  9, 2004 03:47 PM <a href="#c1018">#</a></p>
+
+</div><div id="c1045">
+
+<p>Have any of you read the Patriot Act?</p>
+
+<p class="posted">posted by Nifty at May 11, 2004 12:38 PM <a href="#c1045">#</a></p>
+
+</div><div id="c1075">
+
+<p>big chunks of it, yes</p>
+
+<p>jeffs</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.it.rit.edu/~jxs/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=1075">Jeff Sonstein</a> at May 13, 2004 01:12 PM <a href="#c1075">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001225.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1225" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

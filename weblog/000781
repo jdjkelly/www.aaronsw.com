@@ -1,0 +1,49 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Wireless &#8220;Security&#8221; (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000780" title="secroll" />	<link rel="next" href="000783" title="Ideal PDA" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Wireless &#8220;Security&#8221;</h1>
+</div>
+
+<div class="content">
+<p>Sadly, people keep talking about how wireless networks are &#8220;insecure&#8221; and &#8220;open to attack&#8221; and how we should secure them, to keep people out. In fact, we should do just the opposite: we should secure them to let people in.</p>
+
+<p>When you ask someone why they don&#8217;t like you using your network, they&#8217;re usually concerned about people doing one of three things:</p><ul><li>breaking into their computers</li><li>eavesdropping on what they do</li><li>or preventing them from using the Internet</li></ul><p>I don&#8217;t think anyone really wants to keep people from the Internet; they just want to protect themselves. The funny thing is that base stations could be built that did securely protect their owners from these things.</p>
+
+<p>Base stations could be configured to talk only to the router, and not let public users access the Ethernet network or specially-permitted users. Base stations could use real public-key cryptography to identify users that are specially-permitted and protect their conversations from eavesdropping. And base stations could use automatic traffic shaping to prevent the traffic from public users from interfering with that of specially permitted users.</p>
+
+<p>I hope that future base stations contain strong, secure, easy-to-use solutions to these problems soon. No one should have to choose between being friendly and being safe.</p>
+
+<p class="posted">posted December 31, 2002 09:16 AM (<a class="category" href="cat_technology">Technology</a>)  <a href="000781" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000780" title="secroll">&laquo; prev</a> | <a href="./">up</a> | <a href="000783" title="Ideal PDA">next &raquo;</a></p>
+
+<p><a href="000776">be liberal in what you accept</a><br />
+<a href="000777">final(?) segway update</a><br />
+<a href="000778">it&#8217;s all about the spam-readers</a><br />
+<a href="000779">what should I do with my life?</a><br />
+<a href="000780">secroll</a><br />
+<strong>Wireless &#8220;Security&#8221;</strong><br />
+<a href="000783">Ideal PDA</a><br />
+<a href="000784">install in cron.yearly</a><br />
+<a href="000788">Is the Treo ideal?</a><br />
+<a href="000789">Classic PowerPoint Presentations</a><br />
+<a href="000790">How Misleading Can You Get?</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

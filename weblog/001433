@@ -1,0 +1,239 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Of Conspiracies and Filing Cabinets (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001433.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001432" title="Stanford: Day 16" />	<link rel="next" href="001434" title="TextMate" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Of Conspiracies and Filing Cabinets</h1>
+</div>
+
+<div class="content">
+<p>I hope to report in this space that the saga of the filing cabinet had been resolved. Instead, the story seems to go even deeper.</p>
+
+<p>The filing cabinet, you may recall, was one of my first purchases here at Stanford. It stood attendant outside the door to the building, an unmoving symbol of my timidity and shyfulness.</p>
+
+<p>Until, one day, the filing cabinet was moved inside and I received an email from the local RSAS admitting that he had moved it. I assumed he had found out about my weblog and moved it for me. Due to schedule issues I was not able to discuss the matter with him today, but he did not appear to know about the blog and said he&#8217;d received a note from the RFs who had received a note that it was mine?</p>
+
+<p><em>But who informed the RFs?</em></p>
+
+<p>Hush&#8212;the mystery grows deeper. The filing cabinet was moved to my door. I assumed the RSAS got fed up and did this as well, but he pleads innocence.</p>
+
+<p><em>So who moved the filing cabinet?</em></p>
+
+<p>It is clear there are vast and shadowy conspiracies out there, placing things in motion while well-hiding their tracks.</p>
+
+<p><em>What are their aims?</em></p>
+
+<p>I do not know, but it cannot be long until they make their pressure felt.</p>
+
+<p class="posted">posted October 08, 2004 03:33 PM (<a class="category" href="cat_education">Education</a>) (<a href="#comments">11 comments</a>) <a href="001433" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001432" title="Stanford: Day 16">&laquo; prev</a> | <a href="./">up</a> | <a href="001434" title="TextMate">next &raquo;</a></p>
+
+<p><a href="001428">Stanford: Day 11</a><br />
+<a href="001429">Stanford: Day 12</a><br />
+<a href="001430">Stanford: Day 14</a><br />
+<a href="001431">Stanford: Day 15</a><br />
+<a href="001432">Stanford: Day 16</a><br />
+<strong>Of Conspiracies and Filing Cabinets</strong><br />
+<a href="001434">TextMate</a><br />
+<a href="001436">Got Money?</a><br />
+<a href="001437">Misstated Union: An Interview with David Brock</a><br />
+<a href="001438">Stewart on Crossfire</a><br />
+<a href="001439">Stanford: Day 27</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c3032">
+
+<p>Be warned Aaron!  Look inside the filing cabinet before bringing it inside.. or, at least, before you go to sleep.  I have a feeling that you may find gentlemen with swords, shields, and helmets lurking within ;)</p>
+
+<p class="posted">posted by jc at October  8, 2004 04:34 PM <a href="#c3032">#</a></p>
+
+</div><div id="c3033">
+
+<p>There are conspiracies everywhere&#8230; Once, for example, I went into my bathroom, but it was completely different! The shower was gone, and the toilet was at the other side of the room, and I couldn&#8217;t see myself in the mirror! And the next morning, I woke up on the floor.</p>
+
+<p>I suspect the CIA was behind it.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.atommic.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3033">Adam</a> at October  8, 2004 05:24 PM <a href="#c3033">#</a></p>
+
+</div><div id="c3034">
+
+<p>Wouldn&#8217;t a simple &#8220;thank you&#8221; have sufficed? :-P</p>
+
+<p>Really enjoying the commentary, btw&#8230;  Best of luck&#8230;</p>
+
+<p class="posted">posted by Alan at October  8, 2004 06:11 PM <a href="#c3034">#</a></p>
+
+</div><div id="c3036">
+
+<p>just wait a bit longer and we will move it into your room too, right where you want to have it&#8230;
+shall we fill it for you?</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.fragment.at" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3036">Stanford_Administration</a> at October  9, 2004 10:51 AM <a href="#c3036">#</a></p>
+
+</div><div id="c3037">
+
+<p>The question is: can you read the signs?</p>
+
+<p class="posted">posted by Novus Ordo Seclorum at October  9, 2004 02:09 PM <a href="#c3037">#</a></p>
+
+</div><div id="c3038">
+
+<p>He&#8217;s used to mommy or daddy carrying and assembling stuff for him, and doing his laundry.  Sorry, kid.  Now you must fend for yourself, learn to get along with and communicate with others, and learn your place in the pecking order.</p>
+
+<p>Learning C is going to be <em>so hard</em> for a script-kiddy&#8230;  Sigh.</p>
+
+<p class="posted">posted by  at October  9, 2004 06:06 PM <a href="#c3038">#</a></p>
+
+</div><div id="c3039">
+
+<p>Fye-ling cab-i-net? Tell me more of your hu-man pay-per. On my world, important documents are digitally represented.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://boingboing.net" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3039">Cory Doctorow</a> at October 10, 2004 04:11 AM <a href="#c3039">#</a></p>
+
+</div><div id="c3041">
+
+<p>Its Disney and the RIAA!!! IT always is!! DAMN DISNEY, AND DAMN THE RIAA!!</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.jeffkillian.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3041">Jeff</a> at October 10, 2004 02:38 PM <a href="#c3041">#</a></p>
+
+</div><div id="c3047">
+
+<p>j.c. wrote, &#8220;Be warned Aaron! Look inside the filing cabinet before bringing it inside.. or, at least, before you go to sleep.&#8221;  I suggest you take his advice.  When I consider what my classmates once did with my VW Beetle, a filing cabinet is nothing!  ;-)</p>
+
+<p class="posted">posted by Russ Schwartz at October 11, 2004 07:34 AM <a href="#c3047">#</a></p>
+
+</div><div id="c3279">
+
+<p>Oh my god, where do you come up with such boring shit? Do you sit in your room half the time staring at your screen? Is this the output? This is singhandedly the most nerd-ass INSIGNIFICANT BULLSHIT i have ever seen someone document. I thought I knew what LOSER was until you re-defined it! GO YOU! </p>
+
+<p class="posted">posted by bobby black at October 30, 2004 06:25 PM <a href="#c3279">#</a></p>
+
+</div><div id="c3280">
+
+<p>How do I become such a loser? Are there classes? Is there some sort of Simpleton Matrix I have to enroll in where D&amp;D is the prereq? How many pussies have you seen besides the one you came out of? (now, lets exclude the internet)&#8230;Have you ever seen a real one? Do you get out of your dorm and ever say, have a fucking beer? Did you know there are many types of things going on in this world other than you DOING YOUR FUCKING LAUNDRY? I ALMOST CRIED MYSELF TO SLEEP LAUGHING. Good god your mother must have dropped you into a garbage disposal headfirst when you were young. Twice.</p>
+
+<p class="posted">posted by S. Kin Auger at October 30, 2004 06:30 PM <a href="#c3280">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001433.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1433" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

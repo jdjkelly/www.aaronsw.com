@@ -1,0 +1,78 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Guido van Rossum: State of the Python Union (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000439" title="Richard Stallman: Where This All Came From" />	<link rel="next" href="000441" title="HelixCommunity.org" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Guido van Rossum: State of the Python Union</h1>
+</div>
+
+<div class="content">
+<p>Guido&#8217;s going to talk about the state of Python. <a href="http://conferences.oreillynet.com/cs/os2002/view/e_sess/2672">O&#8217;Reilly Page</a>. Full coverage is below.</p>
+<p>Same presentation as at EuroPython. I&#8217;m distracted by my son. he&#8217;s sleeping in his hotel room. He will grow up to be whatever he wants.</p>
+
+<p>Python 2.2 was quite a while ago now&#8230; last December. [recaps features] We&#8217;re working on patching up older versions because sometimes new features break old code. Bugfixes are completely binary-compatible. No new features, no new bugs. </p>
+
+<p>New Python orgs. PSF: board meeting, member meeting, nothing happened. New board and took off. All donations are tax-deductible in the US. Very complicated for other countries. Need more support to be recognized as charity, will likely start campaign after this con.</p>
+
+<p>Python-In-Business: euro-based but basically international group trying to slow changes in Python. Two projects: Python in a Tie, .&#8230; Both just branches of secret puthon underediojkkejnkeejkeejme NO CARRIER. </p>
+
+<p>Python in a Tie was result of a stability discussion on c.l.py. Makes conservative users happy. Basically we pick a release and give it a tie. Then we focus on it for along time. Doesn&#8217;t mean we&#8217;ll stop all development, but one release wears a tie for a given number of months or longer if necessary. May have 2.3 and 2.4 on the road, but 2.2 will still wear the tie. Some people wanted 1.5.2 (laughs.) No, I&#8217;m serious!</p>
+
+<p>Kevin Altis: what about modules? will they be upgraded? like the email package? Guido: still discussing, don&#8217;t want to add a lot of features. might migrate email package but i&#8217;ve been making sure he&#8217;s backward compatible and it&#8217;s mostly self-contained. Kevin: New modules? Guido: I&#8217;m going to be conservative&#8230; preferred for those to be third-party packages that can be plugged in. </p>
+
+<p>PBF Compile Farm: Student society forcussed on education, owns a lot of hardware, lets PBF use hardware to test Python on lots of platforms. Run nightly (more often?) cron jobs to build and test Python&#8217;s current CVS and reports it to mailing list. Already fixed three or four tiny bugs this way. will build more releases, also including third party packages. </p>
+
+<p>Python Conferences. EuroPython will probably be repeated. Python10 was probably last conference organized by fortech.  fortech was probably too expensive, but we&#8217;ve joined with UAS to create the YAPyC (Yet antoher python conference) early next year, downtown washington (GWU), going to be very cheap, format more workshop like. expecting 300 people so won&#8217;t be totally random. Want to bring hacker atmosphere back. ?: thinking about doing code sprint. getting serious work done as a group. Guido: great idea, doing that for zope3. i blame jim.</p>
+
+<p>Py11 will be at OSCON 2003. that will be like this python track. more biz-oriented. also a small event in the UK. Really looking for organizers. get registration low by relying on volunteers. Need program chairs, etc. don&#8217;t even have to come to the conference. organizing BOFs, lightning talks.</p>
+
+<p>HTTP stats. Feb01: 5.5M hits. May02: 8M hits. Enormous number of downloads for latest python. despite biz people, most popular release is always the latest. 70% of distro downloads are always for windows. </p>
+
+<p>Controversy of the Year: to bool or not to bool. I always regretted leaving it out. I left it out because there were already a lot of things and bool sorta didn&#8217;t feel necessary. But I always felt bad, ABC had logical value. always expected to put it in when it felt right. All large projects already import True and False self-defined. Also like x==y returning True or False not 0 or 1. also cmp. RPC tools need it for compatibility with other languages. this is for 2.3</p>
+
+<p>Lessons Learned: growth opportunity. (ahem) whn a group is large enough, every topic can be controvertial. lots of misunderstanding about bools. can&#8217;t win. simple peps are misunderstood. explanatory peps derided as marketing messages. no way to win, just going to keep ideas to myself.</p>
+
+<p>Python 2.3: technical issues becoming polticial because of the size of the community. people disagree about the righ tthing. no new syntax in python 2.3, except for yield&#8230; focusing on library. enumerate(), basestring, import from zip, timeouts for sockets, logging module, gnu_getopt and optional parser, nw compiler, berkleydb module. lots of bug fixes.</p>
+
+<p>PendingDeprecationWarning: poltiical compromise. have to turn it on. Comment: if file is less than 5 secs old, turn it on automatically. </p>
+
+<p>No schedule for 2.3. had one, but didn&#8217;t make sense because we were feeature-driven, not time-driven. although some things will be taken if their implementers disappeared off the face of the earth or got a job. PEP will be updated when we know more.</p>
+
+<p>Everyone wants no more new features except their faves. <a href="http://www.wooz.org/users/barry/poems/wyr.html">Would you rather?</a>  Design problem: iterator next() should it be __next__()? well, user code would do foo.__next__() which seems wrong. realized too late we should have used a builtin function next(iter). poll on newsgroup. poll here: 25 for change, 2 for live with it. Guido: wow, revelation for me.</p>
+
+<p>Have a problem in that there are some failed features which never get retired (backticks, lambda). </p>
+
+<p>Python 3.0: Coming someday, more than two years. What to focus on? Perhaps take zope3 inspiration. start from scratch, small teams and sprints make up new code. [fin]</p>
+
+<p class="posted">posted July 24, 2002 12:31 PM (<a class="category" href="cat_technology">Technology</a>)  <a href="000440" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000439" title="Richard Stallman: Where This All Came From">&laquo; prev</a> | <a href="./">up</a> | <a href="000441" title="HelixCommunity.org">next &raquo;</a></p>
+
+<p><a href="000435">everyone looks like me</a><br />
+<a href="000436">plane day</a><br />
+<a href="000437">free larry</a><br />
+<a href="000438">Larry Lessig: Freeing Culture</a><br />
+<a href="000439">Richard Stallman: Where This All Came From</a><br />
+<strong>Guido van Rossum: State of the Python Union</strong><br />
+<a href="000441">HelixCommunity.org</a><br />
+<a href="000442">RMS and Miguel: Straight Talking</a><br />
+<a href="000443">blue gene</a><br />
+<a href="000445">Carl Malamud: NetTopBox</a><br />
+<a href="000446">OSCON: Final Night</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

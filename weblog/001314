@@ -1,0 +1,181 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Brazil: The Sucky Story of Sid Sheinberg (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001314.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001313" title="Film Recommendation: Brazil" />	<link rel="next" href="001315" title="James Surowiecki&#8217;s The Wisdom of Crowds: A Review" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Brazil: The Sucky Story of Sid Sheinberg</h1>
+</div>
+
+<div class="content">
+<p>If you <a href="http://www.aaronsw.com/weblog/001313">like Brazil</a>, you might also find interesting the incredible story on discs 2 and 3 of the Criterion Collection edition of the film. (You might look for it at your local library.)</p>
+
+<p>Gilliam&#8217;s final cut of Brazil went five or six minutes over the contract he had signed, which meant the studio was allowed to recut it. Studio exec Sid Sheinberg thought that there was something to the film, and that if only the complexity was shaved off, it make a very successful sci-fi love story.</p>
+
+<p>Sheinberg proceeded to have a team re-edit the movie to make it into this form, under the message &#8220;Love Conquers All&#8221;. Gilliam was furious at this butchering of his film, and demanded the studio release it unedited. </p>
+
+<p>To pressure Universal, Gilliam purchased a full-page ad in Variety, reading. It was all white except for some text reading: &#8220;Dear Sid Sheinberg. When are you going to release my film &#8216;BRAZIL&#8217;? Terry Gilliam.&#8221; Gilliam also appeared on the Today show with Robert DeNiro to promote the film. When the host noted &#8220;You&#8217;re having some trouble getting the studio to release the film,&#8221; Gilliam responded. &#8220;No, I&#8217;m not having any trouble with the studio. My problem is with one man: Sid Sheinberg.&#8221; Gilliam resorted to a series of private illegal screenings around Hollywood, and eventually showed the film to the LA Film Critics Association, who promptly voted it Best Picture, Best Screenplay, and Best Director, even though it hadn&#8217;t been released. </p>
+
+<p>Universal finally conceded and released the film mostly as Gilliam intended. But the DVD disc three includes Sheinberg&#8217;s edit. Watching it, and the associated commentary by a newspaper columnist, film critic and Brazil fan, is an incredible education in the power of editing over the film.</p>
+
+<p>While using almost all the same footage, Sheinberg&#8217;s version tells the completely opposite story. Everything is dumbed-down in service to the love story, almost unthinkly. (As the commentary points out, the edit is forced to <em>glorify terrorism</em> to make the hero more heroic!) The result is an absolutely dreadful film, inept in numerous ways. But by examining why it&#8217;s so bad &#8212; and remember this film is made from the same raw material &#8212; the commentary shows us the genius in the details that make good films so good. </p>
+
+<p>It also shows us why Hollywood films are all so dreadful. Every indepdent thought, every weakness of the hero and sympathetic characteristic of the villain, every ambiguous plot point, is simply eliminated and every subtlety is squashed. The result is a true Hollywood film &#8212; a lovestory told by a talentless hack.</p>
+
+<p><strong>Next week:</strong> </p>
+
+<ul>
+<li>Who Makes a Movie: Should the writer, director, D.P., or editor, be in charge and get the credit for a film? </li>
+<li>The End of Professionalism: Why are people of power, like Sheinberg, so terribly bad at their jobs?</li>
+</ul>
+
+<p class="posted">posted June 11, 2004 05:29 PM (<a class="category" href="cat_tv">TV</a>) (<a href="#comments">2 comments</a>) <a href="001314" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001313" title="Film Recommendation: Brazil">&laquo; prev</a> | <a href="./">up</a> | <a href="001315" title="James Surowiecki&amp;#8217;s The Wisdom of Crowds: A Review">next &raquo;</a></p>
+
+<p><a href="001230">Completely Outrageous</a><br />
+<a href="001234">Brown and Goodridge</a><br />
+<a href="001244">Conservative Losers</a><br />
+<a href="001269">Miller and Brock</a><br />
+<a href="001313">Film Recommendation: Brazil</a><br />
+<strong>Brazil: The Sucky Story of Sid Sheinberg</strong><br />
+<a href="001315">James Surowiecki&#8217;s The Wisdom of Crowds: A Review</a><br />
+<a href="001335">Did You Know? Ronald Reagan Edition</a><br />
+<a href="001336">Weblogs: More Driving by the Rear-View Mirror (or, Static Documents by One Person)</a><br />
+<a href="001337">The End of Professionalism: Why do talk radio hosts and Times reporters have no talent?</a><br />
+<a href="001343">Who makes a movie?</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c2324">
+
+<p>There is quite a comprehensive <a href="http://www.trond.com/brazil/faq.html">Brazil FAQ</a> with information on the battle between Sheinberg and Gilliam and other trivia regarding the movie.  <a href="http://www.trond.com/brazil/">http://www.trond.com/brazil/</a> also has more Brazil stuff including a draft script that I&#8217;ve yet to read.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.jamesclarke.info" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2324">James</a> at June 13, 2004 09:05 AM <a href="#c2324">#</a></p>
+
+</div><div id="c2712">
+
+<p>You should mention the book <i>The Battle of Brazil</i> by Terry Gilliam and Jack Mathews (revised ed. 1998). The complete story of the battles to get the movie out, along with the updated, director&#8217;s cut screenplay. </p>
+
+<p class="posted">posted by bob at August 20, 2004 11:02 AM <a href="#c2712">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001314.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1314" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

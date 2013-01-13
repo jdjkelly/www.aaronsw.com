@@ -1,0 +1,43 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>MAKE RSS FAST!!! (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000568" title="The First Ammendment Microwave" />	<link rel="next" href="000570" title="A .Mac Solution" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>MAKE RSS FAST!!!</h1>
+</div>
+
+<div class="content">
+<p>mnot: <a href="http://www.mnot.net/rss/tutorial/">RSS Tutorial for Content Publishers and Webmasters</a>. &#8220;This tutorial explains the features and benefits of a Web format called RSS, and gives a brief technical overview of it. The reader is assumed to have some familiarity with XML and other Web technologies. It is not meant to be exhaustive; for more information, see the &#8216;More Information about RSS&#8217; section.&#8221;</p>
+
+<p class="posted">posted September 04, 2002 09:58 PM (<a class="category" href="cat_technology">Technology</a>)  <a href="000569" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000568" title="The First Ammendment Microwave">&laquo; prev</a> | <a href="./">up</a> | <a href="000570" title="A .Mac Solution">next &raquo;</a></p>
+
+<p><a href="000564">Don&#8217;t Napsterize the Discussion, Guys!</a><br />
+<a href="000565">jwz is angry</a><br />
+<a href="000566">the neighborhood just got a lot bigger</a><br />
+<a href="000567">What&#8217;s the Berman Bill for?</a><br />
+<a href="000568">The First Ammendment Microwave</a><br />
+<strong>MAKE RSS FAST!!!</strong><br />
+<a href="000570">A .Mac Solution</a><br />
+<a href="000571">Buy His Books, Sell Your Furniture</a><br />
+<a href="000573">Jaguar Ate My Life</a><br />
+<a href="000574">The Road to RSS 3.0</a><br />
+<a href="000576">Apple&#8217;s Guide to Cocoa Icons</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

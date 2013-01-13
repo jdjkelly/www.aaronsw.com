@@ -1,0 +1,313 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Money and Politics (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001457.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001454" title="November Surprise: The Votemaster is Andrew Tanenbaum" />	<link rel="next" href="001458" title="The Facts About Money and Politics" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Money and Politics</h1>
+</div>
+
+<div class="content">
+<p>Think money doesn&#8217;t decide who wins elections?</p>
+
+<table class="chart">
+<thead><th>Candidate name</th><th>% of vote</th><th>% of money</th><th>Difference</th></thead>
+<tr><td>Bush</td><td>51</td><td>53</td><td>2</td></tr>
+<tr><td>Kerry</td><td>48</td><td>46</td><td>2</td></tr>
+<tr><td>Nader</td><td>.3</td><td>.5</td><td>.2</td></tr>
+<tr><td>Badnarik</td><td>.1</td><td>.3</td><td>.2</td></tr>
+<tr><td>Peroutka</td><td>.1</td><td>.1</td><td>.0</td></tr>
+<tr><td>Cobb</td><td>.1</td><td>.01</td><td>.08</td></tr>
+</table>
+
+<p>Think again.</p>
+
+<p>(Sources: <a href="http://www.washingtonpost.com/wp-srv/elections/2004/page/295001/">Washington Post</a>, <a href="http://www.opensecrets.org/presidential/index.asp">Center for Responsive Politics</a>.)</p>
+
+<blockquote>
+  <p>[T]he candidate who spent the most money won 96 percent of House races and 91 percent of Senate races in this year&#8217;s elections.</p>
+</blockquote>
+
+<p>(Center for Responsive Politics, <a href="http://www.opensecrets.org/pressreleases/04results.asp">Money Wins in 2004 Elections</a>)</p>
+
+<p class="posted">posted November 03, 2004 07:35 PM (<a class="category" href="cat_politics">Politics</a>) (<a href="#comments">18 comments</a>) <a href="001457" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001454" title="November Surprise: The Votemaster is Andrew Tanenbaum">&laquo; prev</a> | <a href="./">up</a> | <a href="001458" title="The Facts About Money and Politics">next &raquo;</a></p>
+
+<p><a href="001449">Stanford: Day 41</a><br />
+<a href="001450">Philip Zimbardo on the Psychology of Evil</a><br />
+<a href="001451">Stanford: Day 42</a><br />
+<a href="001452">Stanford: Day 43</a><br />
+<a href="001454">November Surprise: The Votemaster is Andrew Tanenbaum</a><br />
+<strong>Money and Politics</strong><br />
+<a href="001458">The Facts About Money and Politics</a><br />
+<a href="001459">Stanford: Day 45</a><br />
+<a href="001460">Stanford: Day 46 </a><br />
+<a href="001461">Stanford: Day 47</a><br />
+<a href="001462">David Boies on the Dispensation of Justice</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c3333">
+
+<p>Couldn&#8217;t the percentages both just relate to the number of people who wanted each candidate to win? They vote and they give, in like proportion.</p>
+
+<p class="posted">posted by Bob at November  3, 2004 08:00 PM <a href="#c3333">#</a></p>
+
+</div><div id="c3334">
+
+<p>Interesting thought: did they get votes because people gave them money, or did people give them money because they were going to vote for them?</p>
+
+<p><em>Aaron&#8217;s response:</em> The former. How do people know about random politicians? Because of ads, which cost money, and TV coverage, which is given to the people who buy ads.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.philandlyndel.com/phil/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3334">Phil Boardman</a> at November  3, 2004 08:27 PM <a href="#c3334">#</a></p>
+
+</div><div id="c3335">
+
+<p>This is certainly a question that should be asked of all correlations, but I think that in this case it is highly unlikely, since the vast majority of voters spent little to no money on politicians (nor could they really afford to). </p>
+
+<p>Both candidates had about 50 million people vote for them but only 150,000 people donate over $200<a href="http://www.opensecrets.org/presidential/donordems.asp">†</a>.</p>
+
+<p>This makes it seem pretty likely it was that handful of wealthy donors (who, of course, tend to have interests vastly different from the rest of the electorate) who had an impact on the campaign.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3335">Aaron Swartz</a> at November  3, 2004 09:59 PM <a href="#c3335">#</a></p>
+
+</div><div id="c3336">
+
+<p>Wow, how &#8216;bout that. Now, lets have a post declaring that the sun rises in the east and sets in the west. You&#8217;ve got to be one the biggest pixel wasters since the computer era.</p>
+
+<p class="posted">posted by james at November  3, 2004 10:04 PM <a href="#c3336">#</a></p>
+
+</div><div id="c3337">
+
+<p>Well, that&#8217;s really wonderful and all, but with a sample size of one&#8230; well&#8230; it&#8217;s not very significant.  You might as well draw the conclusion that among two people you know, one ate fruit and the other didn&#8217;t.  The one that did got cancer.</p>
+
+<p>Therefore, according to your conclusions here, fruit causes cancer.</p>
+
+<p>Think again.</p>
+
+<p>I&#8217;d be much more interested in an analysis of a series of presidential/senatorial/congressional elections and see how it breaks down.  Maybe even take other factors into effect.  Increase the sample size enough to make it even slightly indicative of something.  Etc.  Or is it &#8220;hip&#8221; to make snap conclusions?</p>
+
+<p class="posted">posted by Duke at November  3, 2004 10:12 PM <a href="#c3337">#</a></p>
+
+</div><div id="c3338">
+
+<p>Coorelation is not causation.  (Probably second semester).</p>
+
+<p class="posted">posted by Ron Silver at November  3, 2004 10:20 PM <a href="#c3338">#</a></p>
+
+</div><div id="c3339">
+
+<p>&#8220;Using Repeat Challengers to Estimate the Effect of Campaign Spending on Election Outcomes in the U.S. House.&#8221; 1994.  Journal of Political Economy 102:777-798.</p>
+
+<p>http://www.src.uchicago.edu/users/levit/Aug1994.pdf</p>
+
+<p>The abstract says: &#8220;Campaign spending has an extremely small impact on election outcomes, regardless of who does the spending.&#8221;</p>
+
+<p>See also http://www.nytimes.com/2003/08/03/magazine/03LEVITT.html?ex=1061045609&amp;ei=1&amp;en=964a4591afe82749.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://beebo.org" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3339">Michael S.</a> at November  4, 2004 12:03 AM <a href="#c3339">#</a></p>
+
+</div><div id="c3341">
+
+<p>Aaron clearly understands the difference between correlation (learn to spell, by the way) and causation. <a href="http://www.aaronsw.com/weblog/001457#c3335">This comment</a> makes that obvious. First, second or 25th semester, he is an intelligent person and deserves your respect. Get a life.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://johnzeratsky.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3341">John Zeratsky</a> at November  4, 2004 02:45 AM <a href="#c3341">#</a></p>
+
+</div><div id="c3342">
+
+<p>Now Aaron gets called &#8216;hip&#8217;? When will this endless bashing cease?</p>
+
+<p class="posted">posted by <a target="_blank" title="http://robertbrook.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3342">Robert Brook</a> at November  4, 2004 06:10 AM <a href="#c3342">#</a></p>
+
+</div><div id="c3343">
+
+<p>My wife and I are readers, and probably only watch 1-2 hours a week watching television.  All those $$$ were wasted on us.  In the past, though, I did watch more TV, but the TV ads, and the yard signs, and the mailings-filled-with-drivel had no effect on me.  </p>
+
+<p>If each candidate produced one good brochure, that ought to do it, in my opinion.  Okay, I&#8217;ll settle for two brochures: One that tells why I should vote for the candidate, and one that tells why I shouldn&#8217;t vote for the candidate&#8217;s opponent.  After all, you can&#8217;t have an election without a little mud-slinging.  :-)</p>
+
+<p class="posted">posted by Russ Schwartz at November  4, 2004 06:37 AM <a href="#c3343">#</a></p>
+
+</div><div id="c3344">
+
+<p>I still don&#8217;t see how this correlation shows causation.
+Just because it was only a handful of people who gave the money still does not indicate that it was the money that caused the result.  Maybe they were just trying to get into the good book with the two people they thought most likely to win?</p>
+
+<p>Of course it is true that with money you get more airtime, campaigners etc and thus more votes (facts and real issues did not seem to matter in this election so it all comes down to being known and looking better than the other candidates); I don&#8217;t dispute that.  But with more likelyhood of election you also get more money &#8212; it&#8217;s a vicious/virtuous circle&#8230;</p>
+
+<p class="posted">posted by Holger D at November  4, 2004 07:40 AM <a href="#c3344">#</a></p>
+
+</div><div id="c3345">
+
+<blockquote>Aaron clearly understands the difference between correlation (learn to spell, by the way) and causation. This comment makes that obvious.</blockquote>
+
+<p>No, it doesn&#8217;t.  It shows that he can do some research.  How exactly does the fact that very few people contribute a lot to political campaigns illustrate a causation relationship in this post?</p>
+
+<blockquote>Now Aaron gets called ‘hip’? When will this endless bashing cease?</blockquote>
+
+<p>How about when Aaron brings his A-game?  He obviously didn&#8217;t post this as evidence of campaign spending indicating something meaningful (I&#8217;m giving him the benefit of the doubt that he&#8217;s smart enough to realize that he has not shown a causation relationship here).  No, the only reason he could have posted this was to be &#8220;cool&#8221;, or part of the &#8220;in&#8221; crowd.</p>
+
+<p class="posted">posted by Frank at November  4, 2004 08:09 AM <a href="#c3345">#</a></p>
+
+</div><div id="c3346">
+
+<p>what about all the money that was &#8220;contributed&#8221; to the Kerry campaign via 527&#8217;s?  Groups like George Sorros and Moveon.org pumped MILLIONS of dollars into campaigns to slander George Bush and promote who ever ran against him.</p>
+
+<p>I&#8217;m no statistician, and I won&#8217;t pretend to be one on the web, but that sends a clear indication to me that money alone does not guarantee a victory.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://javahead.org" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3346">Jay</a> at November  4, 2004 08:21 AM <a href="#c3346">#</a></p>
+
+</div><div id="c3348">
+
+<p>It might also be pointed out that Kerry&#8217;s contributions were made up of $50 and $100 donations from lots of people while Bush had fewer donors who were more likely to max out. Less people gave more to Bush.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.whole-studios.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3348">Ryan Schroeder</a> at November  4, 2004 08:31 AM <a href="#c3348">#</a></p>
+
+</div><div id="c3349">
+
+<p>Bush had more money than Kerry idiot.  Even with Soros more CORPORATIONS gave money to that bigot in office.</p>
+
+<p class="posted">posted by Max at November  4, 2004 12:48 PM <a href="#c3349">#</a></p>
+
+</div><div id="c3350">
+
+<p>Remember that most of the money was spent in swing states.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://unicast.org/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3350">Guan Yang</a> at November  4, 2004 01:20 PM <a href="#c3350">#</a></p>
+
+</div><div id="c3351">
+
+<p>I echo Jay&#8217;s comment.  A significant portion of the dollars spent came from 527s.  Is this money included in the figures above?  If not, how do the figures above change.</p>
+
+<p>I also agree with the posters who say that they don&#8217;t see any proof of a causal relationship.  I&#8217;ve always believed that money wins elections, and certainly on a very simplistic level this is undeniable (i.e. a candidate who has $0 would certainly never win an election), but when you&#8217;re talking about the difference between $200 million and $180 million, or numbers like that, it&#8217;s too hard to argue that the different amounts are a cause.  There are simply too many other variables in the equation, and the numbers here don&#8217;t account for any of them.</p>
+
+<p>From what I&#8217;ve read, if you add up the KE04 spending plus the Dem 527 spending, it would probably be larger than the BC04 spending plus Republican 527 spending - which pretty much guts the argument.  But I could be wrong.  Anybody have numbers?</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.xanga.com/dcdukie" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3351">Micah</a> at November  4, 2004 02:37 PM <a href="#c3351">#</a></p>
+
+</div><div id="c3352">
+
+<p>Dumb me.  I should have looked at the sources first.  These figures don&#8217;t appear to include 527 spending on either side, just official campaign spending (BC ~$360M, KE $317M for those who are curious).</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.xanga.com/dcdukie" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3352">Micah</a> at November  4, 2004 03:44 PM <a href="#c3352">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001457.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1457" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

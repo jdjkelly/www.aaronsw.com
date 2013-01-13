@@ -1,0 +1,413 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Keynes, Explained Briefly (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Keynes, Explained Briefly</h1>
+
+<p>If you read the economic textbooks, you&#8217;ll find that the job market is a market like any other. There&#8217;s supply (workers) and demand (employers). And the incredible power of market competition pushes the price (wages) to where those two meet. Thus massive unemployment is about as likely as huge unsold piles of wheat: if people aren&#8217;t buying, it&#8217;s just because you&#8217;re setting the price too high.</p>
+
+<p>And yet, as I write, 17.5% of the country is unemployed. Are they all just insisting on being paid too much? Economists are forced into the most ridiculous explanations. Perhaps people just don&#8217;t know where the jobs are, some say. (Maybe the government should run ads for Craigslist.) Or maybe it just takes time for all those former house-builders to learn new jobs. (This despite the fact that unemployment is up in all industries.) But they&#8217;re typically forced back to the fundamental conclusion of the textbook: that people are just demanding to be paid too much. It might be for the most innocent of reasons, but facts are facts.</p>
+
+<p>John Maynard Keynes&#8217; great insight was to see that all of this was nonsense. The job market is a very special market, because the people who get &#8220;bought&#8221; are also the people doing all the buying. After all, why is it that people are hired to farm wheat? It&#8217;s because, at the end of the day, other people want to buy it. But if lots of people are out of a job, they&#8217;re doing their best to save money, which means cutting back on purchases. And if they cut back on purchases, that means there are fewer people for business to sell to, which means businesses cut back on jobs.</p>
+
+<p>Clearly something is badly wrong with the basic economic theory. So let&#8217;s go through <a href="generaltheory">Keynes&#8217; masterpiece, <em>The General Theory of Employment, Interest, and Money</em></a>, and understand his theory of how the economy works.</p>
+
+<hr />
+
+<p>When you get your paycheck at the end of the week, you spend it. But presumably you don&#8217;t spend all of it &#8212; you put some money away to save, like you were told as a child. Saving is seen as a great national virtue &#8212; thus all those Public Service Announcements with talking piggy banks. Everyone knows why: put some money away today and it&#8217;ll be worth more tomorrow.</p>
+
+<p>But there&#8217;s a kind of illusion involved in this. Money isn&#8217;t worth anything on its own, it&#8217;s only useful because it can buy things. And it buys things because it pays other people to make them for you. But you can&#8217;t save <em>people</em> in your bank account &#8212; if fifteen million people are out of work, they can&#8217;t put their time in a piggy bank for when things are looking up. The work they could have done is lost forever.</p>
+
+<p>So yes, some people can save while others borrow from them &#8212; you can let your neighbor buy two iPods in exchange for letting you buy four next year &#8212; but the country, as a whole, cannot. At the end of the day, someone has to buy the things we can make. But if everyone&#8217;s saving, that means people aren&#8217;t buying. Which means the people making stuff are out of a job.</p>
+
+<p>It&#8217;s a vicious cycle: if people buy less, companies make less, which means people get paid less, which means people buy less. And so on, until we&#8217;re all out of work. (Thankfully it doesn&#8217;t get that bad &#8212; but only because some people are refusing to lower their wages. The thing that mainstream economists said was causing unemployment is actually preventing it!)</p>
+
+<p>But this cycle can be run in reverse. Imagine Donald Trump hires unemployed people to build him a new skyscraper. They&#8217;re suddenly getting paid again, which means they can start spending again. And each dollar they spend goes to a different business, which can start hiring people itself. And then <em>those</em> newly-hired people start spending the new money <em>they</em> make, and so on. This is the <em>multiplier</em>: each dollar that gets spent provides even more than one dollar&#8217;s worth of boost to the economy.</p>
+
+<hr />
+
+<p>Now let&#8217;s look at things from the employer&#8217;s side &#8212; say you run an truck factory. How do you decide how many trucks to make? Obviously, you make as many as you think you can profitably sell. But there&#8217;s no way to calculate something like that &#8212; it&#8217;s a question about what customers will do in the future. There&#8217;s literally no way to know. And yet, obviously, trucks get made.</p>
+
+<p>It used to be, Keynes says, that wealthy men just thought investing was the manly thing to do. They weren&#8217;t going to sit around and calculate what kind of bonds yielded the greatest expected return. Bonds are for wusses. They were real men. They were going to take their money and build a railroad.</p>
+
+<p>But they don&#8217;t make rich people like that anymore. Nowadays, they put their money in the stock market. Instead of boldly picking one great enterprise to invest in, they shift their money around from week to week (or hire someone else to do it for them). So these days, it&#8217;s the stock market that stimulates most new investment.</p>
+
+<p>But how does the stock market figure out what profits are supposed to be? In truth, it has no more clue than you do. It&#8217;s really just based around a convention. We all pretend that whatever the stock price is now is a pretty decent guess and then we only have to worry about the various factors that will cause the stock price to change. We forget about the most basic fact: that nobody has any clue what the stock price should be to begin with.</p>
+
+<p>So instead of people trying their best to figure out which businesses will make money in the future, and investing in those, we have people who try to figure out which stock prices will change in the future, and trying to get there first. It&#8217;s like a giant game of musical chairs &#8212; everybody&#8217;s rushing not to be the one left standing when the music stops.</p>
+
+<p>Or, you could say, it&#8217;s like those newspaper competitions where you have to pick the six prettiest faces from a hundred photographs. The prize goes to the person who picks the faces that are most picked, so you don&#8217;t pick the faces <em>you</em> find prettiest, but instead the faces you think <em>everyone else</em> will find prettiest. But it&#8217;s not even that, since everyone else is doing the same thing &#8212; you&#8217;re actually picking the faces you think everyone else will think everyone else will find prettiest! And no doubt there are some people who take this even further.</p>
+
+<p>You might think this means that someone who actually did the work and tried to calculate expected profits would clean up, taking money from all the people playing musical chairs. But it&#8217;s not so simple. Calculating expected profits is really quite hard. To make money, you&#8217;d have to be unusually good at it, and it seems much easier to just guess what everyone else will do.</p>
+
+<p>And even if you were somehow good at guessing long-term profits, where would you get the money to invest? It&#8217;s in the fundamental nature of your strategy that your investments seem crazy to everyone else. If you&#8217;re successful, they&#8217;ll write it off as a lucky fluke. And when your stocks aren&#8217;t doing well (which is most of the time &#8212; they&#8217;re long-term picks, remember), people will take this as evidence of your failures and pull their money out.</p>
+
+<p>The scary thing is that the more open our markets get, the faster people can move their money around and the more trading is based on this kind of speculation instead of serious analysis. And that&#8217;s scary because &#8212; recall &#8212; the whole point of the stock market is to decide the crucial question of what we, as a society, should build for the future. As Keynes says, &#8220;When the capital development of a country becomes a by-product of the activities of a casino, the job is likely to be ill-done.&#8221;</p>
+
+<p>The best solution is probably a small tax on each trade. Not only would this raise a ton of money (modern estimates suggest even a tiny tax could raise $100 billion a year), it would help redirect all the brains on Wall Street from these wasteful games of musical chairs to something actually useful.</p>
+
+<p>But even if we solve the problem of the stock market, there&#8217;s still some irreducible uncertainty. Because whether new investment makes sense always depends on whether the economy will be doing well in the future. And whether the economy is doing well depends on whether there&#8217;s new investment. So, at the end of the day, investment doesn&#8217;t depend simply on a careful calculation of future expected yield, but on our &#8220;animal spirits,&#8221; our optimism about the future. It&#8217;s this factor that exaggerates booms and deepens slumps and makes it hard to get out of a bad situation.</p>
+
+<p>Even more perversely, it means economic performance depends in no small part on keeping businessmen happy. If electing Obama gets businessmen depressed, they might pull back their investments and send the economy into a slump. It doesn&#8217;t even have to be intentional &#8212; they may very well believe that a President Obama is bad for the economy. But when you have a system that only works when businesspeople feel good, their fears become a self-fulfilling prophecy.</p>
+
+<p>The result, Keynes suggests, is that the government will have to step in to prevent the economy from crashing every time rich people get a bit of indigestion.</p>
+
+<hr />
+
+<p>So that&#8217;s how we calculate the income side of things, now what about costs? Most costs are pretty clear &#8212; you need to buy equipment and hire people. But since you need to make stuff now that you can only sell in the future, one of your big costs is going to be money to use in the meantime. And the cost of money is just the interest rate. (If you get a loan for a million dollars at 5% interest, you&#8217;re essentially paying $50,000 for the right to use the money now.)</p>
+
+<p>Thus lowering interest rates increases investment &#8212; it reduces the cost of getting money, which reduces the cost of making stuff, which means more things can make a profit. And if more things can make a profit, more things get made, which means more people get hired. So what determines the interest rate?</p>
+
+<p>Well, if the interest rate is the cost of money, the obvious answer is the amount of money in circulation. If there&#8217;s a lot of money lying around, you can get some pretty cheap. Which means that, fundamentally, unemployment is caused by a lack of money: more money (assuming people don&#8217;t hoard it all) means lower interest rates, lower interest rates (assuming expected profits don&#8217;t crash) means higher investment, higher investment (assuming people don&#8217;t stop buying) means more employment, and more employment means higher prices, which means we&#8217;re going to need more money.</p>
+
+<p>Money is created by the central bank (the Federal Reserve in the US), which decides what they want the interest rate to be and then prints new money (which they use to buy up government debt) until the interest rate is where they want. To get the economy back on track, all they have to do is keep lowering interest rates until investment picks up again and everyone has a job.</p>
+
+<p>But there&#8217;s one catch: the interest rate can&#8217;t go below zero. (Keynes didn&#8217;t think this problem was very likely, but in the US we&#8217;re facing it right now.) What do you do if the interest rate is zero and people are still out of work?</p>
+
+<p>Well, you can pray that billionaires will start hiring us all to build them giant mansions, but that&#8217;s no way to run a country. The government has to step in. Instead of waiting for billionaires to build pleasure-domes, the government can hire people to build things we all need &#8212; roads, schools, houses, high-speed Internet connections. Although, honesty, it doesn&#8217;t have to be things we all need. They could hire people to do anything. This is why inspecting the stimulus money for waste is so ridiculous &#8212; waste is perfectly fine, the important thing is to get the money into circulation so that the economy can get back on track.</p>
+
+<p>Another good solution is redistributing income. Poor people are a lot more likely to spend money than billionaires. If we take some money from the billionaires and give it to the poor, the poor will use it to buy things they need and people will get jobs making those things.</p>
+
+<p>Remember that money is just a kind of illusion. In reality, there are just people who want things and people who make things. But we&#8217;re stuck in a completely ridiculous situation: there are lots of people who desperately want jobs making things &#8212; they&#8217;re literally not doing anything else &#8212; while at the same time there are lots of people who desperately want things made. It seems ridiculous not to do something about this just because some people have all the little green sheets of paper!</p>
+
+<p>Capitalism seems to go through frustrating cycles of booms and busts. Some people say the solution is just to prevent the booms &#8212; raise interest rates so the party doesn&#8217;t get out of hand and we won&#8217;t all be sorry the next morning. Keynes disagrees: the remedy &#8220;is not to be found in abolishing booms and thus keeping us permanently in a semi-slump; but in abolishing slumps and thus keeping us permanently in a quasi-boom.&#8221;</p>
+
+<p>Think back to the dot-com era, when venture capitalists were spending all their money laying fiber-optic cable under the street. The right solution wasn&#8217;t for the Fed to raise interest rates until even punch-drunk venture capitalists could realize all this investment in fiber wouldn&#8217;t be profitable. The right solution was to <em>take their money away</em>. Give it to the poor, who will spend it on something useful, like food and clothing.</p>
+
+<p>So those are Keynes&#8217; prescriptions for a successful economy: low interest rates, government investment, and redistribution to the poor. And, for a time &#8212; from around the 1940s to the 1970s &#8212; that&#8217;s kind of what we did. The results were magical: the economy grew strongly, inequality fell away, everyone had jobs.</p>
+
+<p>But, starting in the 1970s, the rich staged a counterattack. They didn&#8217;t like watching inequality &#8212; and their wealth &#8212; melt away. There was a resurgence in classical economics, Keynes was declared to have been debunked, and interest rates were raised drastically, throwing millions out of work. The economy tanked, inequality soared, and things have never been the same since. For a while people talked about levels of inequality that hadn&#8217;t been seen since the 1920s. Then they talked about a recession the size of which hadn&#8217;t been seen since the 1930s.</p>
+
+<p>Once again, Keynes provides us with the instructions on how to get out of this mess. The question is whether we&#8217;ll follow them.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">September 24, 2009</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>This essay started off kind of interesting and then disintegrated into utter ignorance.  There are so many problems with it that to correct it would require another essay of equal or greater length.</p>
+
+<p class="posted">posted by Scott
+ on September 24, 2009 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>I&#8217;m curious, have you read <em>General Theory</em>?</p>
+
+<p class="posted">posted by Matt C
+ on September 24, 2009 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>Scott apparently has an attention span issue.</p>
+
+<p>I thought this was a fairly accurate coverage of the surprisingly simplistic nature of how the rich have coerced the government to work for them and conservatives to vote for them.</p>
+
+<p>We used to be able to count on Republicans to provide strong leadership for us. But they are now just a bunch of warmongering haters that work for the rich. That leaves us with the weakling Democrats that won&#8217;t stand up for anything difficult.  How did things become so polarized?</p>
+
+<p class="posted">posted by Bob
+ on September 24, 2009 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>Keynes, the monetary &#8220;genius&#8221; that brought us &#8220;deficit spending&#8221; and thus our current deficit.  Sorry, Mr. K., the government interfering has always done more harm than good, whether it is to the economy or our liberty&#8230;</p>
+
+<p class="posted">posted by Brian
+ on September 24, 2009 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c6">
+<p>&#8220;As I write, 17.5% of the country is unemployed. Are they all just insisting on being paid too much?&#8221;</p>
+
+<p>Yes.</p>
+
+<p class="posted">posted by Khan
+ on September 24, 2009 <a href="#c6" rel="bookmark">#</a></p>
+</div>
+<div id="c7">
+<p>I like it as a summary, but Keynesianism didn&#8217;t fail because of the counterattack (the counter-attack had been around since the Thirties). Keynesianism failed because it couldn&#8217;t explain stagflation, and consequently the Seventies economy was a <em>mess</em> and the left-right consensus on Keynesian economics broke down.</p>
+
+<p>But that event is outside of the context of the General Theory&#8230;</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.oblomovka.com/">Danny OBrien</a>
+ on September 24, 2009 <a href="#c7" rel="bookmark">#</a></p>
+</div>
+<div id="c8">
+<p>I don&#8217;t have time to read the entire article, but suffice it to say that Keynes has been discredited. He is still popular only because it gives the egghead who run our government intellectual cover for their idiotic ideas.</p>
+
+<p>Friedman started life as a Keynesian, and realized it was full of poop and moved on. Read his critiques and you will understand.</p>
+
+<p>(FDR followed Keynes and economists today say that those policies extended by depression by 5-7 years.)</p>
+
+<p class="posted">posted by KeithCu
+ on September 24, 2009 <a href="#c8" rel="bookmark">#</a></p>
+</div>
+<div id="c9">
+<p>Here is an interesting quote:</p>
+
+<p>http://www.sddt.com/Commentary/article.cfm?Commentary_ID=189&amp;SourceCode=20090212tzc</p>
+
+<p>FDR&#8217;s Treasury secretary, Henry Morgenthau, told his fellow Democrats, &#8220;We have tried spending money. We are spending more than we have ever spent before and it does not work. And I have just one interest, and if I am wrong &#8230; somebody else can have my job. I want to see this country prosperous. I want to see people get a job. I want to see people get enough to eat. We have never made good on our promises &#8230; I say after eight years of this administration, we have just as much unemployment as when we started &#8230; and an enormous debt to boot!&#8221;</p>
+
+<p class="posted">posted by KeithCu
+ on September 24, 2009 <a href="#c9" rel="bookmark">#</a></p>
+</div>
+<div id="c10">
+<p>Morgenthau was just wrong about that; unemployment was down 40% after eight years.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on September 24, 2009 <a href="#c10" rel="bookmark">#</a></p>
+</div>
+<div id="c11">
+<p>Austrian economics: rational, pragmatic, simple, decentralized, and &#8212; best of all &#8212; intuitive.  QED.</p>
+
+<p class="posted">posted by MTheKnife
+ on September 24, 2009 <a href="#c11" rel="bookmark">#</a></p>
+</div>
+<div id="c12">
+<p>I&#8217;m with Scott. Keynes remedies cause more harm than good. I don&#8217;t have time to address the whole thing but there are a couple points I can&#8217;t let lie (sic).</p>
+
+<p>The 1940s-1970s were not &#8220;magical&#8221;. The frequency of recessions and the stagflation it ended in should be enough to make this self evident. The causes of both the good and bad times in this period are debatable, but this definitely isn&#8217;t a period to point to in defense of Keynesianism. Further, Keynesian influence in government and monetary policy held sway starting DURING the great depression—that’s part of why the great depression lasted so long. Learn2History.</p>
+
+<p>Second when you need to get more money into circulation, stealing from the rich and giving to the poor is not the answer. If the rich really do provide all the jobs&#8212;as you claim they do&#8212;they will have neither incentive nor great ability to do so if you&#8217;re taking away their hard earned money. Entrepreneurship is something that needs to be encouraged from every possible angle (not just the price of money angle) during rough times.</p>
+
+<p>Further &#8220;redistribution of wealth&#8221; is theft. Pure and simple. It is morally unconscionable. If you steal, giving the money to charity doesn’t make it right. The bright side is that you don&#8217;t need to do it. If the wealthy really are hoarding money, all you have to do to prevent deflation is print enough to outpace them. Easy.</p>
+
+<p>The rich are rich because they or their ancestors were smart and worked hard. You&#8217;re jealous of them&#8212;so am I&#8212;but the great part about a free society is that if we possess the talent and drive, we can work hard and become wealthy also. However if you agree to let their money be stolen and given to you for nothing, you will still be bankrupt morally.</p>
+
+<p>I think the hardest part for people to understand is that the rich do NOT hate the poor. The poor keep themselves down&#8212;usually through bad habits and ignorance. Have you noticed that lottery winners usually wind up poorer than they started? Bad habits and ignorance. I don&#8217;t fault them for it, but I don&#8217;t fault the rich either.</p>
+
+<p>The rich don&#8217;t want to keep the poor down&#8212;and they don&#8217;t need to to stay rich either. In fact many of the rich have great empathy, and do great works of charity with their money. Economics is NOT a zero sum game. Every transaction can be win/win. In fact in every transaction both parties always at least think they&#8217;re getting a benefit. Otherwise why would they trade? When people trade, both are better off, so what you really want to do promote is trade.</p>
+
+<p>Like you said: money doesn&#8217;t matter as much as having what we need and want. In today&#8217;s society we&#8217;re all specialists producing lots more of what we build than we need for ourselves. Money and credit are the lubricants that allow us to trade what we have for what we want when it’s most convenient for everyone, but it&#8217;s the trade that&#8217;s important. With enough trade, everyone gets what they need and what they want. Reduce the barriers to trade and you increase equality without resorting to theft or other things that reduce our incentive to exercise that power of production which benefits both ourselves and others.</p>
+
+<p class="posted">posted by Ben
+ on September 24, 2009 <a href="#c12" rel="bookmark">#</a></p>
+</div>
+<div id="c13">
+<p>I&#8217;m coming to believe that the single largest problem in the world is wealth.</p>
+
+<p>Money is only a portable, storable form of power. If you have more money you have more power. Period.</p>
+
+<p>What people always forget is that the necessities of life are small, almost trivial, and that death takes every one and every thing.</p>
+
+<p>I&#8217;d like to start with a tax reform. Say something like an income tax rate of one half of one percent per every $10,000. Or one tenth of one percent. The exact figure isn&#8217;t that important.</p>
+
+<p>At some point the rate would reach 100%. Anything earned over that amount (say $1 million or $2 million) would go to the IRS, with the proviso that anyone owing such a tax could instead distribute it among a selection of approved charities. Or start social businesses along the lines of what Muhammad Yunus has done.</p>
+
+<p>Come to think of it, let&#8217;s eliminate inheritance as well. I see no reason why a pile of money should go to one&#8217;s relatives, either by blood or by law, or to a random person that happens to be named in a will.</p>
+
+<p>Wealth never truly belongs to a person anyway. That&#8217;s only an illusion, a fiction. It comes from and belongs to all of us. For anyone who doesn&#8217;t believe this, then please try to generate wealth without ever interacting with anyone else. Start by losing the power of speech and by forgetting everything you have learned from others.</p>
+
+<p>The real point of life is to live, not to accumulate and wield power, but when one has power it is always used, and if used it is always misused at some point. The greater the power the greater the danger.</p>
+
+<p>I think that at most no one should have an income more than five times the minimum. There will always be those who will not work, so they don&#8217;t count, but for the rest of us, this could work.</p>
+
+<p>We should put the focus on what we can do for others, not on what trinkets we own.</p>
+
+<p>We should back away from the hate, fear, and greed that money and power generate. No one can use more than one shirt at a time, or one car, or one house. No one can eat more than one meal at a time, but we have come to use things to measure ourselves, and we hunger for more things, and for more of the power that goes with wealth. It never ceases.</p>
+
+<p>The rich do hate the poor, because the rich are insecure and empty. If I am rich, and become poor, then I have no value, so I must hate the poor, and the not poor, and the merely comfortable, and the petite rich, and the super rich.  I can only be rich beyond all comprehension to have true value, and even then I will still be filled with hate, and fear, and greed because there is no true value in wealth.</p>
+
+<p>There is no absolute victory in this race, and my wealth (and I) can vanish at any moment, so I must keep clawing after more, always.</p>
+
+<p>Contrast this with the lives of those at the bottom. They may worry and fret, and work too hard, and have inconvenient lives but they are less fearful. They are always in sight of ruin and death and know that it comes to all of us. Their wealth is in their humanity, not in paint and gloss.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://ultralighter.blogspot.com/">Dave</a>
+ on September 25, 2009 <a href="#c13" rel="bookmark">#</a></p>
+</div>
+<div id="c14">
+<p>Wealth = Energy 
+Money = Token</p>
+
+<p>Token has validity only if it is redeemable in what it represents.</p>
+
+<p>Dollar is called petro dollar because value of dollar comes from its redeemability in oil, this is why USA had to conquer Iraq.</p>
+
+<p>The day people/nations holding dollar cannot buy energy with dollar the currency will collapse like it is happening in Zimbabwe.</p>
+
+<p>If Keynes was right zimbabwe currency crisis would not have happened and there was no need for USA to conquer Iraq.</p>
+
+<p>Keynes general theory = big bull @#$%</p>
+
+<p class="posted">posted by AntiK
+ on September 25, 2009 <a href="#c14" rel="bookmark">#</a></p>
+</div>
+<div id="c15">
+<p>Great article Aaron, brings out quite the mix of comments&#8230;</p>
+
+<p>Ben, your &#8216;theft&#8217; argument is not pure and simple. If you live in a democracy, then it is the <em>right</em> of the majority to decide what taxation to apply to profits. If it suits the majority to heavily tax the richest members of society, then all the more power too them. In fact there is a moral obligation for them to provide the most benefit for the majority, of course this would only work in a fair and equal political system&#8230;</p>
+
+<p class="posted">posted by Mal
+ on September 25, 2009 <a href="#c15" rel="bookmark">#</a></p>
+</div>
+<div id="c16">
+<p>I went to a talk by John Nash a few years ago and he summed up the notion of &#8220;Kensian&#8221; (for his purposes) as follows:</p>
+
+<blockquote>
+So let us define “Keynesian” to be descriptive of a “school of thought” that originated at the time of the devaluations of the pound and the dollar in the early 30’s of the 20th century. Then, more specifically, a “Keynesian” would favor the existence of a “manipulative” state establishment of central bank and treasury which would continuously seek to achieve “economic welfare” objectives with comparatively little regard for the long term reputation of the national currency and the associated effects of that on the reputation of financial enterprises domestic to the state.
+     And indeed a very famous saying of Keynes was “&#8230;in the long run we will all be dead
+&#8230;”.
+</blockquote>
+
+<p>Here&#8217;s a link to the talk: http://www.stat.psu.edu/~babu/nash/money.pdf</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://joshuagay.org">Joshua Gay</a>
+ on September 25, 2009 <a href="#c16" rel="bookmark">#</a></p>
+</div>
+<div id="c17">
+<p>Ummmm, yeah, which country&#8217;s unemployment rate is 17.5%
+http://www.google.com/publicdata?ds=usunemployment&amp;met=unemployment_rate&amp;tdim=true&amp;q=unemployment+rate</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://twitter.com/ecounysis">Eric</a>
+ on September 25, 2009 <a href="#c17" rel="bookmark">#</a></p>
+</div>
+<div id="c18">
+<p>Wealthiest 1% already pay 40% of all federal income tax.  The poorest 50% contribute 3% of income tax.  You say the rich staged a counterattck since the 70&#8217;s, but don&#8217;t back it up with facts.  What burden increase would you suggest for people like Steve Jobs of Apple for creating a global brand from the USA?  If there&#8217;s no point in studying hard and then working hard, how many more will take 9 to 5 public sector jobs instead, and who will be left to pay their salaries?</p>
+
+<p class="posted">posted by ontheotherhand
+ on September 25, 2009 <a href="#c18" rel="bookmark">#</a></p>
+</div>
+<div id="c19">
+<p>Dave scares me.</p>
+
+<p class="posted">posted by Neville
+ on September 25, 2009 <a href="#c19" rel="bookmark">#</a></p>
+</div>
+<div id="c20">
+<p>I think it is a brilliantly written article. Keynes himself was a brilliant writer which obviously helped sway people to his way of thinking.</p>
+
+<p>Macroeconomics is extremely complex, think the weather but with artificial feedback mechanisms. If you have read a book deep simplicity you would come to understand that the global economy is just another naturally occurring system on the edge of chaos just like the rest of nature. The random rise and falls of economies follow the same distribution and pattern as the rest of the natural world. The stock market for instance follows the same pattern of build up and avalanche as a sand pyramid. Trying to predict and manipulate a system operating on the edge of chaos is fraught with difficulty. The only thing predictable about such systems is their unpredictability.</p>
+
+<p>I think what is out of synch in the economy at the moment is that money through the use of derivatives and other financial instruments has become disjointed from tangible goods and services. More &#8220;wealth&#8221; is being created in the money trade than through the production of goods and services. This new &#8220;wealth&#8221; is dependant on the mood of the market so we are seeing more volatility as its valuation fluctuates. Derivatives should be taxed out of existence, business should have to take risks head on.</p>
+
+<p class="posted">posted by Mike
+ on September 25, 2009 <a href="#c20" rel="bookmark">#</a></p>
+</div>
+<div id="c21">
+<p>The best part of this essay is near the end, when Aaron plainly admits that he views theft as a reasonable solution.  I wish more politicians were as up front about their wickedness.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://joehewitt.com">Joe Hewitt</a>
+ on September 26, 2009 <a href="#c21" rel="bookmark">#</a></p>
+</div>
+<div id="c22">
+<p>There was a resurgence in classical economics, Keynes was declared to have been debunked, and interest rates were raised drastically, throwing millions out of work.</p>
+
+<p>&#8230; You are uninformed.  We have near negative real interest rates as do other countries and the end to this bust is not in sight.  Keynesian necessarily  leads to high interest rates as the only means of soaking up excess money supply.</p>
+
+<p>The &#8220;rich&#8221; got that way for a reason.  Let them run things because you poor people aren&#8217;t qualified.</p>
+
+<p class="posted">posted by J Maynard
+ on September 26, 2009 <a href="#c22" rel="bookmark">#</a></p>
+</div>
+<div id="c23">
+<p>I will provide a more academic response later, but for now, I want to talk about reality and not academics.  I own (with a few family members) two manufacturing enterprises.  We employ people and make goods that others buy directly and indirectly.  The profits everyone talks about taxing and redistributing (whether the Keynesian or some other quasi-socialist economist) are those we use to invest in the future.  We are less inclined to do ridiculous things with our excess money (unlike the venture capitalists who laid fiber that has gone to no use - although, there is an argument that says this was and will be good) because the spread between the cost of making our products and what we sell them for is smaller and we want to ensure a long and healthy future for ourselves and everyone who works for us.  For every dollar you take from us and give to someone else, you punish us for our success and limit our ability to invest in buildings, machines and equipment for future growth - which allows employment for more people.  Mind you, we do not grow for growth&#8217;s sake, but because we are successful at the things we do and have more work come our way (or find new products to manufacture).  We have a far more positive effect on the economy by employing people than you do by handing our money out.  We give ourselves and other purpose and that is something socialism will never be capable of doing.  You make a fatal mistake in your theory by stating &#8220;But when you have a system that only works when businesspeople feel good, their fears become a self-fulfilling prophecy.&#8221;  Businesspeople are only one cog on the gear for economic activity.  People like myself continue to have a job to do whether or not we like Obama.  It is in our personal lives that we decide whether or not to take part in trade.  A business&#8217;s primary purpose is to trade, so by not doing so, it doesn&#8217;t accomplish what it is meant for and dies.
+So, go ahead.  Don&#8217;t believe me and assume you know better what to do with my wealth and my business&#8217;s profits.  When the motivation to work hard and keep a business running continues to be eroded by your policy choices, either I will close shop or move to a place where what I do is allowed - if I wish to even continue.  I and my kind represent a clear majority of our economy (small to medium businesses - and included in this are all those who support us by working for us), not the super rich, the crazy venture capitalists and people who take risks with other&#8217;s money.  People assume that the examples you give (e.g. crazy venture capitalists, rich McMansion building idiots, and wealthy people who only invest speculatively) are representative of &#8220;the majority&#8221; out there.  They aren&#8217;t.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://stevenfettig.com/mythoughts/">Steve Fettig</a>
+ on September 27, 2009 <a href="#c23" rel="bookmark">#</a></p>
+</div>
+<div id="c24">
+<p>The problem with getting rid of inheritance is that when a man builds a business (say a farm) and wants to hand it off to his children to run it, that cannot happen because the entire effort would get taken over by the government. Inheritance taxes are terrible for the economy!</p>
+
+<p>And whether wealth belongs to just one person, or to all of us: do you really want the idiots in Congress to spend money? I&#8217;d rather have Bill Gates spend his billions!</p>
+
+<p>Marxism / socialism never works. Haven&#8217;t you advocates ever studied history?</p>
+
+<p>And anyone who believes in Keynes or Marxism should read Milton Friedman. You need to read both sides. What made the US the world&#8217;s only superpower in 200 years was its free economy, not its federal government. A welfare net is okay, but we are moving towards a welfare state.</p>
+
+<p>I find it interesting that Obama is arguing for a &#8220;public option&#8221; (government take-over) of healthcare to &#8220;increase choice and competition.&#8221; Note that the DOJ in its trial with MS never argued that the government should get into the software biz to increase choice and competition, and if they had, they would have been laughed out of the courtroom. When the government runs healthcare, our lives become a line item in the budget.</p>
+
+<p>I&#8217;m glad to see there are some free market advocates here!! I&#8217;m constantly amazed that geeks, who are notoriously anti-establishment,  advocate that we all hand over our property and liberty to a monopolistic, unaccountable bureaucracy that Microsoft would be jealous of!</p>
+
+<p class="posted">posted by KeithCu
+ on September 28, 2009 <a href="#c24" rel="bookmark">#</a></p>
+</div>
+<div id="c25">
+<p>Wow, Keynes is like flypaper for cranks - they come out of the woodwork. Nice work. Not even the near total collapse of the neoclassical consensus is enough to shake them to their sense.</p>
+
+<p class="posted">posted by Erik
+ on September 30, 2009 <a href="#c25" rel="bookmark">#</a></p>
+</div>
+<div id="c26">
+<p>&#8220;waste is perfectly fine, the important thing is to get the money into circulation so that the economy can get back on track.&#8221;</p>
+
+<p>I think you are missing an important point here. The money that is being spent is not simply created. It is borrowed, and must later be paid back with interest.</p>
+
+<p>So if I borrow $10,000 and spend it on eating out and partying, then I have a good time for a while, but later have to pay it all back and then some, so I go through a longer period where I don&#8217;t have enough money to even eat well, let alone party. On the other hand if I borrow that money to improve my future standing: get a degree, start a business, etc. Then it is money well spent.</p>
+
+<p>The same is true for the US Gov. If we spend money on buying goods from the people we are borrowing the money from&#8230;well, you can probably see without my explanation how bad an idea that is. Even if we spend it domestically, but on things that do not increase productivity or the velocity of money, we will create a bubble and another burst.</p>
+
+<p>Any money the government spends should be spent on improving our infrastructure or our workforce to improve future economic potential or productivity.</p>
+
+<p>So, we should spend on Education (specifically Math and Science education), and on roads, and heavy rail, and on upgrading our ports, and on laying down better data carrying infrastructure.</p>
+
+<p>However, consider this: when Bush inherited the Clinton recession, he cut taxes to the wealthy, increased government spending and encouraged the fed to lower interest rates&#8230;and arguably created a bubble that resulted in the current recession. You could argue that Clinton did the same with the recession he inherited. (Cut taxes, increased spending, and encouraged low interest rates).
+So what is Obama doing with the recession he inherited? Keeping taxes where Bush put them, increasing government spending (To amazing levels) and encouraging/bullying the fed to keep interest rates low.</p>
+
+<p>So let me ask this: if every president, Demican or Republicrat follows this same playbook expecting a different outcome&#8230;isn&#8217;t that the definition of insanity?</p>
+
+<p>I guess what I am saying is that what Obama is doing is not Change. It&#8217;s the same as Bush with minor differences of focus. So either Bush was Keynesian or Obama is not&#8230;in either case, we are just going to get another boom and bust cycle.</p>
+
+<p class="posted">posted by Charles
+ on October  5, 2009 <a href="#c26" rel="bookmark">#</a></p>
+</div>
+<div id="c28">
+<blockquote>
+  <p>I think you are missing an important point here. The money that is being spent is not simply created. It is borrowed, and must later be paid back with interest.</p>
+</blockquote>
+
+<p>I think you&#8217;re missing an important point here &#8212; injecting money into the economy increases overall GDP by more than that (because of the multiplier), thus increasing tax revenue, thus making it profitable for the government to take out a loan. It doesn&#8217;t matter how the money is being injected &#8212; it can be wasteful or not.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on October 11, 2009 <a href="#c28" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="keynes" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

@@ -1,0 +1,47 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Quality Software (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/000717.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000716" title="i&#8217;ve got the jitterbug" />	<link rel="next" href="000718" title="Official Argument Transcripts" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Quality Software</h1>
+</div>
+
+<div class="content">
+<p>I&#8217;ve put together a list of <a href="http://www.aaronsw.com/2002/qualitySoftware">Quality Software Designers</a>. Funny how all the software either runs on OS X or UNIX (including OS X). [<a href="http://www.aaronsw.com/2002/">More things in my recently reorganized archive</a>.]</p>
+
+<p>I have really high standards, which seems to frustrate and annoy some other people. For example, I&#8217;m getting yelled at now for complaining that the new round of RDF specs doesn&#8217;t meet my standards. I&#8217;m not really sure what to do about it.</p>
+
+<p>I&#8217;ve also got a series of Web tests. Does your browser: <a href="http://www.aaronsw.com/2002/HTMLnamespaces">support stying of HTML namespaces</a>? <a href="http://www.aaronsw.com/2002/htmlquotes">support the HTML quote tag</a>? <a href="http://www.aaronsw.com/2002/testjs">support dynamic text</a>? Each page has an opportunity to send in your results.</p>
+
+<p class="posted">posted November 05, 2002 12:27 PM (<a class="category" href="cat_technology">Technology</a>)  <a href="000717" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000716" title="i&#8217;ve got the jitterbug">&laquo; prev</a> | <a href="./">up</a> | <a href="000718" title="Official Argument Transcripts">next &raquo;</a></p>
+
+<p><a href="000694">IMMINENT END OF NET PREDICTED (source code at 11)</a><br />
+<a href="000699">won&#8217;t anyone think of the starving?</a><br />
+<a href="000704">2003 Redesign: [viewed best in gill sans]</a><br />
+<a href="000715">Announcing Decisions</a><br />
+<a href="000716">i&#8217;ve got the jitterbug</a><br />
+<strong>Quality Software</strong><br />
+<a href="000718">Official Argument Transcripts</a><br />
+<a href="000720">The Case for Source Code Escrow</a><br />
+<a href="000721">File Cabinet Lib</a><br />
+<a href="000722">today&#8217;s featured superhero: Dean Kamen</a><br />
+<a href="000723">today is my birthday</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

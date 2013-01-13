@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Wassup? (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Wassup?</h1>
+
+<p>Wow, it&#8217;s been a long time since we last talked. In fairness, I&#8217;ve been hard at work. As you probably know, for a long time I&#8217;ve been working on a startup called <a href="http://infogami.com/">infogami</a>. If you&#8217;re interested in the full story, <a href="http://infogami.com/blog/introduction">I&#8217;ve written a long blog post about it</a> but in short, last November I joined the amazing team behind <a href="http://reddit.com/">reddit</a>, merging our two companies.</p>
+
+<p>Then, about a month ago, I quietly released the first version of <a href="http://infogami.com/">infogami</a> to the public. It was a very early version with hardly any features and I didn&#8217;t tell anyone about it, but we still got several thousand sites created using the software.</p>
+
+<p>Since then, I&#8217;ve kept my promise of releasing a new feature every day, steadily improving the site bit by bit. There are a couple things I&#8217;m particularly proud of, including our advanced permissions system which gives detailed control over exactly who can do what with your site and <a href="http://infogami.com/blog/blame">the blame feature</a> that was put together by my friends Zack Coburn and Sean B. Palmer which shows exactly who wrote what in a document. And of course there&#8217;s much more to come.</p>
+
+<p>Of course, working on just one project all the time is a little much, so I&#8217;ve been taking little breaks to work on new hacks. This weekend I built a little site called (for now, at least) <a href="http://books.theinfo.org/">Simple Amazon</a>. I was annoyed with how slow it was to search Amazon &#8212; first you have to load their complicated front page, type in your search in the tiny hidden box, then click the link to filter it just for books and so on. With Simple Amazon, you just go to a URL like:</p>
+
+<p><a href="http://books.theinfo.org/lisp">http://books.theinfo.org/lisp</a></p>
+
+<p>and you get a listing of lisp books superfast with covers and links to price checks. You can also use links like:</p>
+
+<p><a href="http://books.theinfo.org/go/0262011530">http://books.theinfo.org/go/0262011530</a></p>
+
+<p>to provide shorter links to Amazon.</p>
+
+<p>Anyway, I guess that&#8217;s about it for now. If you&#8217;re interested in following my more day-to-day work, I&#8217;m publishing company-related stuff over on the <a href="http://infogami.com/blog/">infogami blog</a>. Currently it&#8217;s mostly just reports about our new features, but I hope to write more about the startup life and things like that.</p>
+
+<p>All the best!</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">March 27, 2006</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>Nice work on infogami. I get up &#8216;samb&#8217; as a yubnub command to access your Amazon search routine.</p>
+
+<p class="posted">posted by Mike Sierra
+ on March 28, 2006 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>Very interesting. I&#8217;m looking forward to future installments. I&#8217;m surprised that continued funding wasn&#8217;t easier to get, given both your connections and the bubbly environment, though one can still see the social network in action.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://sethf.com/">Seth Finkelstein</a>
+ on March 30, 2006 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>love searching the simple amazon tool, but i&#8217;ll prbably still buy from amazon.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://greghartnett.com">greg</a>
+ on April  4, 2006 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>Congrats on the start up I just heard about it myself, should be interesting to see what all you have to feature in about a year if you keep the pace of one a day ! I love Amazon they have alot of everything for cheap !</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.stephaniesexton.com">Stephanie</a>
+ on April  9, 2006 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>Simple Amazon is great with a Firefox bookmark keyword. Thanks for a great addition to the location-bar command line!</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.gibberish.com/">misuba</a>
+ on April 10, 2006 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c6">
+<p>I built a similar generic redirect service, check it out here: http://antrix.net/r/</p>
+
+<p>You can do things like:
+http://antrix.net/r/movie/the replacements 
+and it&#8217;ll redirect to the appropriate imdb movie search url.</p>
+
+<p>BTW, this was my first web.py hack :-)</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.antrix.net/">deepak</a>
+ on April 17, 2006 <a href="#c6" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="wassup" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

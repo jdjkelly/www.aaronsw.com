@@ -1,0 +1,48 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+  <title>Excerpts from "The Elements of Typographic Style"</title>
+  <link rel="stylesheet" type="text/css" href="/style.css" />
+  <style type="text/css">
+    /*body { font-family: Minion, "Hoefler Text", serif; }*/
+    acronym { font-variant: small-caps; text-transform: lowercase; }
+  </style>
+</head>
+<body>
+<div id="banner">
+  <h1>Excerpts from <cite>The Elements of Typographic Style</cite></h1>
+  <p>version 2.5, by Robert Bringhurst, ISBN 0-88179-132-6.</p>
+</div>
+<div class="content">
+<blockquote>
+<h4>3.2.3 Refer typographic disputes to the higher courts of speech and thinking.</h4>
+<!--Type is idealized writing and its normal function is to record idealized speech. Acronyms such as <acronym>CD and <acronym>TV</acronym> or <acronym>USA</acronym> and <acronym>UFO</acronym> are set in caps because that is the way we pronounce them. Acronyms like <acronym>UNESCO</acronym>, <acronym>ASCII</acronym> and FORTRAN, which are pronounced not as letters but as words, are in the process of becoming precisely rhat. When a writer accepts them fully into her speech and urges readers to do likewise, it is time for the typographer to accept them into the common speech of typography by setting them in lower case: Unesco, Ascii (or ascii) and Fortran. Other acronymic words, like <em>laser</em> and <em>radar</em> have long since travelled the same road.-->
+<p>[...]</p>
+
+<p>Logograms pose a more difficult question. An increasing number of persons and institutions, from e.e. cummings to WordPerfect, now come to the typographer in search of special treatment. In the earlier days it was kings and deities whose agents demanded that their names be written in a larger size or set in a specially ornate typeface; now it is business firms and mass-market products demanding an extra helping of capitals, or a proprietary face, and poets pleading, by contrast, to be left entirely in the vernacular lower case. But type is visible speech, in which gods and men, saints and sinners, poets and business executives are fundamentally treated alike. And the typographer, by virtue of his trade, honors stewardship of <em>texts</em> and implicitly opposes private ownership of <em>words</em>.</p>
+
+<p>Logotypes and logograms push typography in the direction of hieroglyphics, which tend to be looked at rather than read. They also push it toward the realm of candy and drugs, which tend to provoke dependent responses, and away from the realm of food, which tends to promote autonomous being. Good typography is like bread: ready to be admired, appraised, and dissected before it is consumed.</p>
+</blockquote>
+
+<blockquote>
+<h4>9.5.1 If the text will be read on the screen, design it for that medium.</h4>
+
+<p>Like a forest or a garden or a field, an honest page of letters can absorb -- and will repay -- as much attention as it is given. Much type now, however, is composed not for the page but for the screen of a computer. That screen can be alive with flowing color, but the best computer monitors have dismal resolution (about 130 dpi: one fifth the current norm for laser printers and roughly 5% of the norm for professional digital typesetting). When the text is crudely rendered, the eye goes looking for distraction, which the screen is all too able to provide.</p>
+
+<p>The screen mimics the sky, not the earth. It bombards the eye with light instead of waiting to repay the gift of vision. It is not simultaneously restful and lively, like a field full of flowers, or the face of a thinking human being, or a well-made typographic page. And we read the screen the way we read the sky: in quick sweeps, guessing at the weather from the changing shapes of clouds, or like astronomers, in magnified small bits, examining details. We look to it for clues and revelations more than wisdom. This makes it an attractive place for advertising and dogmatizing, but not so good a place for thoughtful text.</p>
+
+<p>The screen, in other words, is a reading environment even more fugitive than the newspaper. Intricate long sentences full of unfamiliar words stand little chance. At text size, subtle and delicate letterforms stand little chance as well. Superscripts and subscripts, footnotes, endnotes, sidenotes disappear. In the harsh light and coarse resolution of the screen such accessories are difficult to see; what is worse, they dispel the essential illusion of speed. so the links and jumps of hypertext replace them. All the subtexts then can be the same size and readers are at liberty to skip from text to text like children switching channels on <acronym>TV</acronym>. When reading takes this form, sentences and letterforms retreat to blunt simplicity. Forms bred on newsprint and signage are most likely to survive.</p>
+</blockquote>
+
+<blockquote>
+<h2>Afterword</h2>
+
+<p>[...]</p>
+
+<p>There are those who dream of a perfect world in which copyrighted text is translated into copyrighted glyphs through copyrighted rules with no more human intervention than it takes to feed a tape to a machine, while money flows in perpetuity to everyone involved. There are also those who think that putting chairs and air-conditioners in hell will make it just as good as heaven. Actually, working with type is an earthly task, much less like sitting down and turning on <acronym>TV</acronym> than like walking on our hands across an ever-varied, never-ending landscape that is otherwise too far away to see.</p>
+</blockquote>
+
+</div>
+<div class="footer">
+  <address>republished without permission by <a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</div></body>
+</html>

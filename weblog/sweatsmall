@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Sweating the Small Stuff (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Sweating the Small Stuff</h1>
+
+<p>So <a href="http://jottit.com/">Jottit</a> has launched, only five months after I suggested to my friend Simon that we create a website that was just a big text box people could type stuff into. And there are two ways I look at it. One is: It took us five months to do <em>that</em>? And the other is: We did that in only five months?</p>
+
+<p>When you look at what the site does, it seems pretty simple. It has few features, no complex algorithms, little gee-whiz gadgetry. It just takes your text and puts it on the Web. And considering how often I do that every day, it seems a bit odd that it took so long to create yet another way. And then I check the todo list.</p>
+
+<p><a href="http://www.aaronsw.com/weblog/perfectionism">As I&#8217;ve said</a>, this is a site I wanted to get every little detail right on. And when you start sweating the small stuff, it&#8217;s frankly incredible just how much of it there is. Even our trivial site is made up of over two dozen different screens. Each one of those screens has to be designed to look and work just right on a wide variety of browsers, with a wide variety of text in them.</p>
+
+<p>And that&#8217;s just making things look good &#8212; making them work right is much harder. Each screen does, on average, five or six different things. And each of those things can be done under three or four different modes. Now we&#8217;re up to over 500 different things to do, each of which can have bugs in lots of unthought-of ways. And then, many of these pieces are exposed to users, who can do whatever they want with them &#8212; and do. If you&#8217;re building a site that accepts text from users, you need to think about something that lets some people just paste stuff from emails, others write HTML, others play YouTube videos, while others try to insert malicious text to break things for people.</p>
+
+<p>There are lots of features we want to add to Jottit, but before we do any of that we want to make what we have work perfectly. And, at the moment, that means tasks as varied as reporting a bug in a piece of software we use to its developer, configuring the web server to display a nicer error message under certain odd conditions, having another computer monitor the first computer to see if it goes down, figuring out how to tweak the UI to make certain unclear things clearer to people, rewriting some of the text on the site to be nicer, creating a new site to inform our users of updates, making some stuff from our project open source, fixing stuff in other open source projects, testing the site on phones and weird browsers, examining an algorithm we use to see if it needs improvement, and fixing a bug that was just reported by a user. And those are just the things on <em>my</em> todo list!</p>
+
+<p>When you look at it that way, it&#8217;s amazing anyone ever builds a website.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">September 16, 2007</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>I simply love it ! 
+The idea is simple and yet never been done this way before.
+Nothing bloated and the result is very usable and simple.
+Congrats! and again THANK YOU for this jewel.</p>
+
+<p>I would be nice if you provide an API :)</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://nos-astuces.com">karim</a>
+ on September 16, 2007 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>I simply love it ! 
+The idea is simple and yet never been done this way before.
+Nothing bloated and the result is very usable and simple.
+Congrats! and again THANK YOU for this jewel.</p>
+
+<p>I would be nice if you provide an API :)</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://nos-astuces.com">karim</a>
+ on September 16, 2007 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>I said in an email, but I&#8217;ll add here too: I like the Gill Sans.</p>
+
+<p>You’re definitely on the right track with the interface.  Every wiki, blog, review, social network, etc. site should be as easy to jump into (not to mention as clutter-free).</p>
+
+<p class="posted">posted by Jacob Rus
+ on September 16, 2007 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>It seems a <i>bid</i> odd that you graduated from a top school, Delbert.  Just send your stuff over to Robert Morris to proofread before you publish it next time.  Actually, you&#8217;re just adding to the corpus of un-proofread websites with all this jotit stuff anyway.  Maybe as a paid service you could automatically forward everything to Robert Morris to proofread before publishing.  At least that would in fact be something.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://web.archive.org/web/20070608081258/http://paulgraham.infogami.com/blog/">PG</a>
+ on September 16, 2007 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>Very, very slick.  Little touches like including an image were very nice.</p>
+
+<p>Now you have to decide what features to add, and what features NOT to add :)</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://bluebones.net/">Thomas David Baker</a>
+ on September 16, 2007 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c6">
+<p>Is this infogami 2.0?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://boscoh.com">bosco</a>
+ on September 16, 2007 <a href="#c6" rel="bookmark">#</a></p>
+</div>
+<div id="c7">
+<p>@Bosco, it&#8217;s barely even Infogami 1.1.  And did you notice what happens if you click the Forgot Password link?  It sends you your original password.  Which means the passwords are stored in plain text.  Didn&#8217;t Aaron learn anything the <em>last</em> time a well-known database of passwords got stolen?  Evidently they didn&#8217;t cover hash functions and cryptographic responsibility in his Y Combinator seminars.</p>
+
+<p>Incidentally, if anyone wants to set up a web page, I recommend WordPress.</p>
+
+<p class="posted">posted by Eric TF Bat
+ on September 17, 2007 <a href="#c7" rel="bookmark">#</a></p>
+</div>
+<div id="c8">
+<p>@Eric TF Bat</p>
+
+<p>It may be the case that Aaron and Simon are storing passwords as plaintext, but not storing them as a hash doesn&#8217;t prove they&#8217;re not encrypting them.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://dynamictyping.org">Matt Revelle</a>
+ on September 17, 2007 <a href="#c8" rel="bookmark">#</a></p>
+</div>
+<div id="c9">
+<p>Oh my, this is a simply incredible tool, sheesh.</p>
+
+<p class="posted">posted by Alex
+ on September 17, 2007 <a href="#c9" rel="bookmark">#</a></p>
+</div>
+<div id="c10">
+<p>Cool.  I&#8217;m still pissed off you didn&#8217;t win the wikimedia board election.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://wikip.blogspot.com">Ben Yates</a>
+ on September 17, 2007 <a href="#c10" rel="bookmark">#</a></p>
+</div>
+<div id="c11">
+<p><a href="http://www.aaronsw.com/weblog/sweatsmall#c7" rel="nofollow">Eric</a>: The password thing should be fixed in the next couple days.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on September 17, 2007 <a href="#c11" rel="bookmark">#</a></p>
+</div>
+<div id="c12">
+<p>RSS would make it perfect.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://earthboundkid.jottit.com">Carl</a>
+ on September 17, 2007 <a href="#c12" rel="bookmark">#</a></p>
+</div>
+<div id="c13">
+<p>Wow! John Gruber of daringfireball.com told me about this site and I created my own page in about 1 minute. Such fun! Thank you, thank you.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://lifeinthesandbox.jottit.com">CB</a>
+ on September 17, 2007 <a href="#c13" rel="bookmark">#</a></p>
+</div>
+<div id="c14">
+<p>I was really shocked: This is so easy and sweet, so useful and well done, it makes me wanna cry. Thank you so much.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.yourblogisourstage.com">Dr. Reimund Blumen</a>
+ on September 17, 2007 <a href="#c14" rel="bookmark">#</a></p>
+</div>
+<div id="c15">
+<p>Aaron - congrats on the launch!</p>
+
+<p>You are at a point now where you can literally launch a site with just a big text box, and it creates a huge blog buzz.</p>
+
+<p>That kind of marketing firepower is pretty sweet &#8212; 1000s of other people out there could&#8217;ve put something like this together and it would not have been looked upon the same way, or generated nearly any buzz whatsoever.  Anyway, congrats on your reddit success (etc) &amp; the Jottit launch!</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://onwebapps.com/">Shanti Braford</a>
+ on September 17, 2007 <a href="#c15" rel="bookmark">#</a></p>
+</div>
+<div id="c16">
+<p>This is incredible!
+Perfectly designed - and the color picker with its &#8220;now-the-text-goes-white&#8221; wizardry wowed me.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://smileyweb.dk">Cardinal Stra</a>
+ on September 17, 2007 <a href="#c16" rel="bookmark">#</a></p>
+</div>
+<div id="c17">
+<p>@Aaron: I&#8217;m glad you&#8217;re fixing the password problem, but I&#8217;m alarmed that you released a product that has the problem, especially considering that you work(ed) for Reddit.  I can&#8217;t see a justification for ever storing plaintext passwords.</p>
+
+<p>@Matt, the fact that it might be encrypted doesn&#8217;t help.  It&#8217;s physical computer theft we&#8217;re talking about here.</p>
+
+<p>@Aaron: I have to admit, this thing is an improvement over the competition.  I was skeptical, but it does seem to be pretty close to the sweetspot.  You may have finally iPodified Geocities&#8230;</p>
+
+<p class="posted">posted by Eric TF Bat
+ on September 17, 2007 <a href="#c17" rel="bookmark">#</a></p>
+</div>
+<div id="c19">
+<p>This is great!</p>
+
+<p>I really like the preview view.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.mstevens.org/">Michael Stevens</a>
+ on September 17, 2007 <a href="#c19" rel="bookmark">#</a></p>
+</div>
+<div id="c20">
+<p>Very very very good.</p>
+
+<p>An &#8220;export site&#8221; feature would be nice, in case this project dies like Infogami.</p>
+
+<p class="posted">posted by Vladimir Slepnev
+ on September 17, 2007 <a href="#c20" rel="bookmark">#</a></p>
+</div>
+<div id="c21">
+<p>Wow, I really like this. Simple and just powerful enough. I add my vote for an API; I would love to replace Google Notes with Jottit and a Firefox plug-in would let me do that.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://randex.org/">Mark</a>
+ on September 17, 2007 <a href="#c21" rel="bookmark">#</a></p>
+</div>
+<div id="c22">
+<p>I love it. I wish I could use Textile instead of Markdown.</p>
+
+<p class="posted">posted by Willie Abrams
+ on September 17, 2007 <a href="#c22" rel="bookmark">#</a></p>
+</div>
+<div id="c23">
+<p>no rss?   sigh.</p>
+
+<p>_r</p>
+
+<p class="posted">posted by _ryan
+ on September 17, 2007 <a href="#c23" rel="bookmark">#</a></p>
+</div>
+<div id="c24">
+<p>Password hashing issues aside, I&#8217;m impressed that you&#8217;ve already fixed the XSS issues that were apparent yesterday.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://thom.org.uk/blog">Thom</a>
+ on September 17, 2007 <a href="#c24" rel="bookmark">#</a></p>
+</div>
+<div id="c25">
+<p>Outstanding. Regarding some earlier comments: I too would like to have an export option; and, I&#8217;m moving my stuff to Jottit <em>because</em> it enables Markdown rather than Textile &#8212; I&#8217;ve always been annoyed by the Textile markup on Backpack pages, because in several other contexts I use Markdown. Also, I&#8217;m just a wee bit concerned lest somewhere down the line I&#8217;ve added twenty pages and find out that I&#8217;ll now have to start paying for them&#8230; .</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://ayjay.jottit.com">Alan Jacobs</a>
+ on September 17, 2007 <a href="#c25" rel="bookmark">#</a></p>
+</div>
+<div id="c26">
+<p>You invent www 
+the wikiwikiwiki
+Great!!</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://elblogdecristianohs.blogspot.com">Jaaziel</a>
+ on September 17, 2007 <a href="#c26" rel="bookmark">#</a></p>
+</div>
+<div id="c27">
+<p>@Eric, I&#8217;m not convinced that the ability to decrypt users&#8217; passwords is the largest concern when a physical theft occurs.  Who needs a user&#8217;s password when all their data is already accessible.</p>
+
+<p>Suppose hashing is still the simplest and safest representation for storage, but it&#8217;s a hassle having to copy and paste a temporary password and then set a new password.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://dynamictyping.org">Matt Revelle</a>
+ on September 18, 2007 <a href="#c27" rel="bookmark">#</a></p>
+</div>
+<div id="c28">
+<p>You&#8217;ve made something very special - thank you. Just this morning a 6th-grader came up to me in Computer Lab in a Massachusetts urban middle school and asked if I knew of a way he could create a web page.  I was delighted to tell him about Jottit.  Very cool.</p>
+
+<p class="posted">posted by Reg Aubry
+ on September 18, 2007 <a href="#c28" rel="bookmark">#</a></p>
+</div>
+<div id="c30">
+<p>Wonderful! Jottit is just what you sometimes need when on a forum, irc, im, etc.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://qrnlk.jottit.com">qrnlk</a>
+ on September 18, 2007 <a href="#c30" rel="bookmark">#</a></p>
+</div>
+<div id="c31">
+<p>This is super! Finally I can stop emailing text to myself! This could very well replace the paper notepad.</p>
+
+<p>Well done Aaron :)</p>
+
+<p class="posted">posted by N
+ on September 18, 2007 <a href="#c31" rel="bookmark">#</a></p>
+</div>
+<div id="c32">
+<p>Ok, one complaint. I added a new page, but something strange happens when you try to give it a name with spaces or underscores in - the data in the page isn&#8217;t saved!</p>
+
+<p>You may want to look into that, or just prompt ppl with &#8220;page name can only contain, blah blah&#8221;</p>
+
+<p class="posted">posted by N
+ on September 18, 2007 <a href="#c32" rel="bookmark">#</a></p>
+</div>
+<div id="c33">
+<p>Sorry, there was a bug that affected around 5 to 10 people. It&#8217;s fixed now.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on September 18, 2007 <a href="#c33" rel="bookmark">#</a></p>
+</div>
+<div id="c34">
+<p>Cool! Thanks Aaron, works brilliantly!</p>
+
+<p class="posted">posted by N
+ on September 19, 2007 <a href="#c34" rel="bookmark">#</a></p>
+</div>
+<div id="c35">
+<p>So far it is going pretty well. However, I&#8217;m looking forward for the new features that, I suppose, will be implemented in the near future.</p>
+
+<p class="posted">posted by <a href="http://www.alastor.org">Alastor</a>
+ on September 20, 2007 <a href="#c35" rel="bookmark">#</a></p>
+</div>
+<div id="c36">
+<p>I just tried Jottit, it&#8217;d be so much more useful to me if I could enter formulas.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://dmnewbie.blogspot.com"></a>
+ on September 20, 2007 <a href="#c36" rel="bookmark">#</a></p>
+</div>
+<div id="c37">
+<p>I really love it, Aaron. Great job. My friend and I are using it to outline a project. It&#8217;d be great if there was a simple notification if someone is editing a document when you check on it. You can tell usually once you click to edit it because there will be a recently saved draft, but it&#8217;d be nice if you didn&#8217;t need that extra step.</p>
+
+<p class="posted">posted by ScottBruin
+ on September 21, 2007 <a href="#c37" rel="bookmark">#</a></p>
+</div>
+<div id="c38">
+<p>Very nice. But one question - how are you making any money from this? I don&#8217;t see any advertising. How is the host server paid for?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.DigitalNature.co.uk">Mark</a>
+ on September 23, 2007 <a href="#c38" rel="bookmark">#</a></p>
+</div>
+<div id="c39">
+<p>aaron, i love it. you&#8217;ve implemented the sign-in/sign-up process exactly backwards. it&#8217;s brilliant. :)</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://getsatisfaction.com/">lane</a>
+ on September 23, 2007 <a href="#c39" rel="bookmark">#</a></p>
+</div>
+<div id="c40">
+<p>Mark: I&#8217;m paying for it.</p>
+
+<p>lane: Thanks so much! It&#8217;s an honor hearing that from you.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on September 23, 2007 <a href="#c40" rel="bookmark">#</a></p>
+</div>
+<div id="c41">
+<p>thenx mf</p>
+
+<p><a href="http://www.myrize.org/pusat" rel="nofollow">Pusat</a>
+<a href="http://pusat-dizisi-izlee.blogspot.com" rel="nofollow">Pusat Dizisi</a>
+<a href="http://www.myrize.org" rel="nofollow">www.r10.net k? ?ya hay? yar?</a>
+<a href="http://filmindir.fukuku.com" rel="nofollow">porno</a>
+<a href="http://www.rizebilisim.com" rel="nofollow">www.r10.net k? ?ya hay? yar?</a>
+<a href="http://www.myrize.org" rel="nofollow">www.r10.net k? ?ya hay? yar?</a>
+<a href="http://modifiye.fukuku.com" rel="nofollow">modifye</a>
+<a href="http://genco.fukuku.com" rel="nofollow">genco</a>
+<a href="http://car--tuning.blogspot.com" rel="nofollow">car tuning</a>
+<a href="http://forum.fukuku.com/forum" rel="nofollow">g??r</a>
+<a href="http://toplist.fukuku.com" rel="nofollow">toplist</a>
+<a href="http://www.myrize.org" rel="nofollow">www.r10.net k? ?ya hay? yar?</a></p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.myrize.org">www.r10.net k? ?ya hay? yar?</a>
+ on September 24, 2007 <a href="#c41" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="sweatsmall" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

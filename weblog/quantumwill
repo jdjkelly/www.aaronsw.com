@@ -1,0 +1,424 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>How Quantum Mechanics is Compatible with Free Will (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>How Quantum Mechanics is Compatible with Free Will</h1>
+
+<p>The actions of almost everything in this world are causally determined by the state of the world that precedes them. Once you start a machine, if no one touches it, its behavior can be predicted entirely in advance from the laws of physics. When you drop a pen down a well, it is physically necessary that it fall.</p>
+
+<p>But our behavior doesn&#8217;t feel that way. When we stick out our tongue it feels as if we had to specifically choose to stick it out, that this was our own action and not a predetermined consequence of the existing state of the world.</p>
+
+<p>Some people argue that because the evidence for determinism is so overwhelming, free will must simply be an illusion. But if so, it is a very odd kind of illusion. Most illusions result from a naive interpretation of our senses. For example, in a classic illusion, two drawings of equal size appear to be of different size. But when we are told this is an illusion, we can correct for it, and behave under the new (more accurate) impression that the drawings are in fact of equal size.</p>
+
+<p>This simply isn&#8217;t possible with free will. If someone tells you that you do not actually have free will but have actually been acting under an illusion, you cannot sit back and let determinism take over. When the waiter asks you whether you like soup or salad, you cannot say &#8220;Oh, well I&#8217;ve just learned that free will is an illusion and all my actions are completely determined by the previous state of the world, so I&#8217;ll just let them play themselves out.&#8221; I mean, you can say that, but the waiter will look at you like you&#8217;re crazy and you will get neither soup nor salad.</p>
+
+<p>It seems overwhelmingly bizarre that evolution would have given us this strangest of illusions. This is not a spandrel, a small place evolution never had time to be concerned about. The illusion of free will affects all aspects of our lives and takes an enormous amount of work. One would think evolution would have eliminated it were it genuinely false.</p>
+
+<p>So what is the other possibility? The other possibility is that not all actions are entirely determined by the preexisting state of the world. And, in fact, recent advances in physics seem to show this is somewhat the case. Quantum mechanics suggests that at some fundamental level there is randomness involved in the laws of the world. And chaos theory shows us that small amounts of randomness in a system can have real large-scale effects.</p>
+
+<p>So, although it seems extremely improbable, if we have to avoid the improbability of evolution not breeding out an illusory free will, then we&#8217;re forced to look to the randomness of quantum mechanics for an explanation.</p>
+
+<p>But, some argue, this is insufficient. Quantum mechanics only gives us randomness &#8212; but free will isn&#8217;t just the pursuit of random behavior, it&#8217;s the pursuit of particular behaviors. While quantum mechanics can&#8217;t predict each individual bit, it does give overall probability distributions. Volitional behaviors would wreak havoc with those even distributions.</p>
+
+<p>Not true. Imagine the simple case where we have one quantum bitstream: a series of zeroes and ones, in which each individual number cannot be predicted, but there&#8217;s an overall law saying that roughly half of them will be one and half will be zero. And let us simplify the system to say that if the result of the quantum effect is 0 then the person moves left, and if it&#8217;s 1 they move right. In the naive scenario, free will affects this quantum bitstream so that when the person wants to move left the randomness keeps coming up zeroes. But that would violate the laws of physics &#8212; the results would no longer be half ones and half zeroes.</p>
+
+<p>So here&#8217;s the trick: first, the system gets a random bit from some other source. Then it adds the bit from the other source with the bit from the quantum bitstream and uses the result to decide if you move left or right. Now, when you want to continually move left, half the time you&#8217;ll have to make the quantum bitstream return zeroes and the other half the time ones &#8212; exactly what the laws of quantum mechanics require.</p>
+
+<p>With a little additional mathematical complexity, the scenario is generalizable to much more complicated quantum functions and human results. But the basic principle is the same: one can use quantum randomness to exercise free will without violating any statistical laws.</p>
+
+<p>Of course, this still leaves one key problem. What is picking the results of this quantum bitstream? And how does it do it? I have to admit I cannot really think of a sensible way. But this seems like a problem for neurobiology to figure out and report back to us. I merely aim to prove that its doing so is consistent with what we know about the laws of physics.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">March 18, 2007</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>Sounds like you&#8217;ve stumbled upon the same concept Roger Penrose pushes in the last chapter of his book &#8220;The Emperor&#8217;s New Mind.&#8221; I recommend the book because it&#8217;s a great examination of many really neat cross-disciplinary concepts, but in my opinion (and I think most people&#8217;s) it goes into the weeds when he starts trying to show that quantum randomness can account for human consciousness. As I recall he doesn&#8217;t claim to even come up with a theory of how that might be, he just tries to show that it might be possible to formulate such a theory. I think &#8220;Shadows of the Mind&#8221; does the same but I haven&#8217;t read that.</p>
+
+<p>I really don&#8217;t see the need to try to show that anyway. You write:</p>
+
+<p>&#8220;The illusion of free will affects all aspects of our lives and takes an enormous amount of work. One would think evolution would have eliminated it were it genuinely false.&#8221;</p>
+
+<p>First of all, I&#8217;m not sure how one could measure the amount of &#8220;work&#8221; that an incrementally-more-conscious mind requires. &#8220;Work&#8221; is traditionally expressed in terms like caloric expenditure and time requirements. Did you mean that literally?</p>
+
+<p>Also, evolution only eliminates genes that are detrimental to the genes&#8217; propagation. Many falsehoods are beneficial to organisms. For example, humans are predisposed to believe falsehoods about gods that watch over us. (Proving this is trivial: most humans have such belief; most such beliefs are incompatible with the others; at most, one compatible set can be true; therefore, the other belief sets are false.)</p>
+
+<p>But is religion harmful? Since it promotes group cooperation, and since we&#8217;re a species that can gain strong benefits from group action, there&#8217;s no reason to think it is; quite the opposite.</p>
+
+<p>Personally I think the illusion of a conscious free will evolved like most other beneficial mutations: incrementally, unplanned of course, and probably quite to the surprise of anyone who would have been watching! It&#8217;s not hard to imagine how the components came together. An organism whose time flows in one direction will benefit from a brain that remembers the past, looks toward the future, and &#8220;participates&#8221; in the present. By conceiving of itself making decisions on a moment-to-moment basis it will best adapt to linear time. Crying out in pain when injured may have initially benefited an organism by inspiring nearby group members to assist, but in a species that lies and unmasks lies, &#8220;sincerity&#8221; of pain, &#8220;feeling it deeply,&#8221; will inspire the desired response more effectively. A mindset that includes the illusion of the self will have the principle evolutionary advantage of using higher brain functions for self-preservation over the long-term (months), not just the short-term (minutes). Members of a social species will benefit from modeling the mindsets of other individuals; the mental apparatus to &#8220;put oneself in another&#8217;s place&#8221; is probably very similar to that of envisioning oneself as a conscious entity.</p>
+
+<p>In short, I suspect for the particular kind of animal we were x million years ago, the evolutionary mutations that reinforced the illusion of a self were beneficial, while those that weakened this illusion were harmful. In principle (though I don&#8217;t know how with today&#8217;s science) the genes and mental apparatus that construct this illusion could be measured. By words like &#8220;you&#8221; and &#8220;me,&#8221; we refer to this complex illusion that the clockwork machinery was evolved to harbor.</p>
+
+<p>Would you like to know what it&#8217;s like to be a collection of self-preserving atoms evolved to appear sincere, to be sincere, to feel deeply, to think of itself as a conscious entity, to behave as though it were a singular actor? Look around you.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://mccarthy.vg">Jamie McCarthy</a>
+ on March 18, 2007 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>The other other possibility is that free will hasn&#8217;t been eliminated simply because it&#8217;s a useful thing for people to believe in. Without a sense of free will, perhaps minds as we understand them simply could not exist?</p>
+
+<p>In other words, it&#8217;s an illusionary comfort blanket, but a necessary one.</p>
+
+<p>I suspect this is the case; given that there is no evidence that I am aware of <em>for</em> free will, it seems disingenuous to desperately search for explanations that allow it. It feels rather like people trying to &#8216;prove&#8217; the bible by hunting for the Ark or the True Cross; those who believe one way or the other are unlikely to be swayed by any evidence that is found.</p>
+
+<p class="posted">posted by Iain
+ on March 18, 2007 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p><a href="http://www.aaronsw.com/weblog/quantumwill#c1" rel="nofollow">Jamie</a>:</p>
+
+<p>Yeah, Penrose strikes me (like everyone else) as pretty crazy.</p>
+
+<blockquote>
+  <p>Also, evolution only eliminates genes that are detrimental to the genes&#8217; propagation. Many falsehoods are beneficial to organisms. For example, humans are predisposed to believe falsehoods about gods that watch over us. (Proving this is trivial: most humans have such belief; most such beliefs are incompatible with the others; at most, one compatible set can be true; therefore, the other belief sets are false.)</p>
+</blockquote>
+
+<p>You&#8217;ve proved (some of) the beliefs are false, but not that we&#8217;re predisposed to them.</p>
+
+<p>Your evolutionary theory only explains a sense-of-self, it doesn&#8217;t explain the illusion of free will. And while I&#8217;ll admit I haven&#8217;t formalized the cost of free will (doing so will require some hard thinking) I think the simple strength of the illusion is sufficient to make it a hypothesis worth pursuing, even if fantastically unlikely.</p>
+
+<p><a href="http://www.aaronsw.com/weblog/quantumwill#c2" rel="nofollow">Iain</a>:</p>
+
+<blockquote>
+  <p>In other words, it&#8217;s an illusionary comfort blanket, but a necessary one.</p>
+</blockquote>
+
+<p>This is of course possible, but I don&#8217;t see how there&#8217;s any evidence for it.</p>
+
+<blockquote>
+  <p>I suspect this is the case; given that there is no evidence that I am aware of <em>for</em> free will, it seems disingenuous to desperately search for explanations that allow it.</p>
+</blockquote>
+
+<p>The evidence for free will is the case I made. It&#8217;s fairly strong.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on March 18, 2007 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>Consider a maze-solving automaton, that is programmed to find its way through a maze using some complicated heuristics, and suppose there are no random numbers involved.</p>
+
+<p>Given a maze and knowledge of the algorithm, we can predict what the program will do.  So in that sense it&#8217;s predetermined.  But the fact that it is predetermined is of no particular use to the programmer making up the heuristics, so there would be no need to try to somehow represent that metaknowledge in the heuristics.</p>
+
+<p>Similarly, if our actions are predetermined, it would do us no good to have an intimate awareness of that.  Consciousness would be a painful hell if you were saddled with the feeling of just observing your life and having no choice about what you did next.  I&#8217;m not sure that kind of consciousness would even be possible &#8212; you wouldn&#8217;t have any reason to identify with the body you were apparently riding around in.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://plastic-sauce.blogspot.com">Chris Bogart</a>
+ on March 18, 2007 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>Perhaps you&#8217;ve heard of Benjamin Libet&#8217;s readiness potential experiments?</p>
+
+<p>http://en.wikipedia.org/wiki/Benjamin_Libet</p>
+
+<p>These seem to show that the decision to move is made, in some cases, a large fraction of a second before a person believes they&#8217;ve made such a decision.  This argues very strongly against free will having any particular role in actions taken on the spur of the moment.  Since such decisions can be experimentally shown to be illusory, why would a completely different &#8220;real choice&#8221; mechanism underlie &#8220;decisions&#8221; which appear internally to be identically chosen?</p>
+
+<p class="posted">posted by 
+ on March 18, 2007 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c6">
+<p>Here&#8217;s a slightly sad interpretation.</p>
+
+<p>The Illusion of Free Will is just an artifact of the  brain&#8217;s attempt to make sense of the past.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.voidstar.com">Julian Bond</a>
+ on March 18, 2007 <a href="#c6" rel="bookmark">#</a></p>
+</div>
+<div id="c7">
+<p>Dammit! Free will is not incompatible with determinism! It is (IMHO) incompatible with indeterminism!</p>
+
+<p>Think about it: what do we mean when we say that &#8220;I chose to eat the chocolate cake&#8221;? We mean that I was responsible for it. There was something about my mind that caused me to choose the chocolate cake. Now, under determinism, my choosing the cake is directly dependent on my current mental states. They determine my future mental states. My current mental states are my mind, so it&#8217;s fair to say, &#8220;My mind determines my decisions.&#8221;</p>
+
+<p>Under the quantum mechanics as key to consciousness interpretation, what determines my future mental states? Random static. So, who is responsible for my choices? No one. So, this interpretation actually strips responsibility for my actions away from me and gives it to a coin flip! I want my future choose to rest on me, dammit, not something I don&#8217;t have any effect on!</p>
+
+<p>At any rate, real quantum mechanics is not about randomness at all. It&#8217;s about how randomness turns out to be really, really regular and predictable, such that if you do a statistically significant number of things, the quantum fuzz all cancels out. So, quantum mechanics is just a mostly deterministic mechanism but with a small margin of error that usually doesn&#8217;t affect anything significant.</p>
+
+<p>&#8220;Free will&#8221; as it is often used in public discourse is a contradictory concept. If we give it the provisional definition, &#8220;my mental states are responsible for my voluntary thoughts and actions,&#8221; I don&#8217;t see how there is any contradiction between saying, &#8220;my brain is responsible for my actions,&#8221; and, &#8220;the laws of physics are responsible for my brain&#8217;s actions.&#8221; Yes, my brain, like the pen falling down the well, is just doing what it naturally will do, but that no more lets my actions come about without my thoughts causing them than a pen could hit a rock at the bottom of a well without the pen itself being the thing that hits the rock.</p>
+
+<p>Look at the running of a computer program. Saying I am not responsible for my thoughts because of determinism is like saying that a computer program is not responsible for its output. Certainly, what the computer outputs is naturally a result of what the computer gets in, but also, crucially, what the computer outputs rests on how the program itself responds to the input!</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://deadhobosociety.com">Carl</a>
+ on March 18, 2007 <a href="#c7" rel="bookmark">#</a></p>
+</div>
+<div id="c8">
+<p>You&#8217;re getting there, but not there yet. The embryologic program seems to be that some number of pre-neural cells develops and then a critical concentration of some chemical product is produced which causes them to convert to neurons and start extending dendrites and axons to their neighbors. The randomness comes from all the physical input from mom: did she eat radishes for dinner that increased her blood pH for a bit that just delayed the conversion event for another hour while a couple more pre-neurons divided? Did she sleep on her left or her right? Did the embryo implant higher up or further down in the uterus? On the left or the right? Twins? All these things can have tiny little effects on the initial conditions for the neural system.</p>
+
+<p>Also, the neural system is a sort of, I&#8217;m not sure  if it&#8217;s best thought of as an A/D converter or a variable-base logic gate (base two, base three, base 87, etc). See, one neuron reaches out and touches many neighbors. So all the neuron bodies are touched by many neighbors. This is part of the initial conditions, but also part of the reinforcement function. Use it or loose it is a deep principle of neurobiology: if a connection isn&#8217;t used, then it shrivels and dies. Connections are selected for their utility. You&#8217;ve got to think about neurobiology, the seat of free will, from the neuron&#8217;s perspective. The brain is a macro manifestation of biology.</p>
+
+<p>How do the neurons transmit signals? They release synaptic vesicles, little bubbles full of neurotransmitter subtances, typically glutamate or GABA, but there are modulation subsystems that use dopamine, serotonin, enkaphalins, etc. The vesicles release their contents into the tiny gap between the sending neuron and the receiving neuron, and some of the neurotransmitter molecules land on cell-surface receptors, which triggers the opening and closing of various ion channels on the cell surface, and so you get a voltage change. A little voltage change that dissipates with r^2. Think of ripples on a pond. If I drop rock after rock after rock after rock in quick succession, I build up bigger ripples on the surface. If several of us drop rocks at nearly the same time, the water&#8217;s surface also get bigger ripples. If a sending neuron releases vesicle after vesicle after vesicle, eventually the sum builds up to an action potential: the receiving neuron sends its own signal down its axon to many other neurons. So too many sending neurons may simultaneously send a bunch of vesicles to the receiving neuron and it suddenly goes from quiescent to sending an action potential.</p>
+
+<p>The threshold for an action potential is, eh, something in the vicinity of -25mV. The resting potential is, eh, say, -90mV. These things vary based on local conditions like temperature, pH, and the ion channels involved. Say each vesicle transmits enough neurotransmitter to induce a 2mV change in potential, and that effect decays to near 0 in 1 microsecond. So at a minimum, we need 13 vesicles to be released withing about a microsecond to get the receiving neuron to fire. More likely, we&#8217;ll get 30 over 2 microseconds, or maybe one of the vesicles is norepinephrine so we only need 30 over 7 microseconds.</p>
+
+<p>Anyway, what happens is you get both spatial and temporal summation of these little bits of input. It&#8217;s not quantum like quantum mechanics, but they are in fact called quantal potentials. And quantum mechanics is still very much at play: effecting how quickly neurotransmitter molecules diffuse across the synaptic gap (formally the synaptic cleft), exactly how many ions go through each ion channel while it&#8217;s open, etc, etc.</p>
+
+<p>So there&#8217;s a quantum bitstream, but it&#8217;s neurochemical quanta, not electronic quanta. And there&#8217;s not just one, there&#8217;s a <em>lot</em> of them. The randomness is induced by the environment, which is itself a quantum mechanical system with some locales where self-organizing, self-replicating chemical systems that predictably coalesced.</p>
+
+<p>What&#8217;s really cool is that Vintner just published a paper, well, the scientists who work for him published a paper, about DNA he acquired by dipping water out of the middle of the ocean. See, there&#8217;s no reason to believe the self-organizing, self-replicating system only occured once. It&#8217;s in fact much more likely that a statistically possible phenomenon occurs many, many times. What they found was that most of the DNA in the samples matched nothing they have ever sequenced. Totally novel microbial DNA. All over the place.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://nielsolson.us/">Niels Olson</a>
+ on March 18, 2007 <a href="#c8" rel="bookmark">#</a></p>
+</div>
+<div id="c9">
+<blockquote>
+  <p>Yeah, Penrose strikes me (like everyone else) as pretty crazy.</p>
+</blockquote>
+
+<p>You don&#8217;t think consciousness is made up of quasi-tessellating pentagonal patterns?  Awww&#8230;</p>
+
+<p class="posted">posted by Jacob Rus
+ on March 18, 2007 <a href="#c9" rel="bookmark">#</a></p>
+</div>
+<div id="c10">
+<p>I need to correct my statement above: if the resting potential is -90 mV and the threshold for an action potential is -25 mV, and each quantal potential is 2 mV, then you need at least 33 quantal potentials, 33 vesicles of neurotransmitter, to arrive almost simultanously, not 13. (90-25)/2=32.5.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://nielsolson.us/">Niels Olson</a>
+ on March 19, 2007 <a href="#c10" rel="bookmark">#</a></p>
+</div>
+<div id="c11">
+<p>Aaron,</p>
+
+<p>I&#8217;m usually in greater agreement with you than not, but I fear that this essay trips and falls.  Quantum mechanics doesn&#8217;t prove anything about &#8220;free will&#8221; one way or the other, in any but the most dubious interpretations.</p>
+
+<p>Many of the simplest interpretations &#8212;- like MWI &#8212;- permit or even insist on determinism, though it&#8217;s often a higher-order kind of determinism.  For example, adopting a strict and infinite MWI position:  the fact that you <em>think</em> you have free will is then merely a function of the fact that the reality you find yourself in, in all probability, is the one which is &#8220;consistent&#8221; with the &#8220;choices&#8221; you think you made.  That you think you made those choices in this slice of causal reality is independent of all the other choice / belief / causality configurations your infinitely extended self holds.  If you indeed occupy the extended phase space of all possibilities you could could ever face, then &#8220;free will&#8221; becomes a less-than-useful, even nonsensical idea.</p>
+
+<p>As I&#8217;m sure you well know, the interpretation of the meaning of the wave function and its collapse is highly susceptible to abuse by non-scientists and scientists alike.  It&#8217;s becoming quite the trendy epidemic to invoke &#8220;quantum reasoning&#8221; in metaphysical / philosophical / psychological mumbo-jumbo-filled bloviations.  (I&#8217;ve done it myself in the past, and I regret it.)</p>
+
+<p>Don&#8217;t feed the animals. ;-)  Insist on rigor when discussing science.</p>
+
+<p>jb</p>
+
+<p class="posted">posted by Jeff Bone
+ on March 19, 2007 <a href="#c11" rel="bookmark">#</a></p>
+</div>
+<div id="c13">
+<p>Chinese spam &#8216;bout diabetes: an act of free will or the cold hand of determinism?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://deadhobosociety.com">Carl</a>
+ on March 19, 2007 <a href="#c13" rel="bookmark">#</a></p>
+</div>
+<div id="c14">
+<p>Well like you say &#8220;What is picking the results of this quantum bit stream? And how does it do it?&#8221;, indeed.  I think we need to define a process, call it &#8220;you&#8221;, and prove that the volition to do something is determined by that process.  This &#8220;you&#8221; process must be able to supervene on the deterministic universe, otherwise you don&#8217;t have free will.  It all comes down to proving that tricky relationship called &#8220;supervene&#8221;.  You can read more about that relationship in The Conscious Mind by David Chalmers.  The advantage of formulating the question this way is that you don&#8217;t need to rely upon the quantum world and some unknown mechanism to justify a belief in free will, because the &#8220;you&#8221; process can supervene on any mechanism, whether it be quantum or neurological or  social or a combination of all of those.  The only requirement is that the &#8220;you&#8221; process determines the volition and can supervene on the physics of the real universe.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://fastblogit.com/seth">Seth Russell</a>
+ on March 19, 2007 <a href="#c14" rel="bookmark">#</a></p>
+</div>
+<div id="c15">
+<p>Wait! I&#8217;ve got it! There&#8217;s a part of us that is non-physical and non-deterministic, and it interfaces to our brains through a mechanism we do not yet understand. IT is responsible for free will, while the physical stuff continues to be essentially deterministic. If only I could think of a good name for this thing, I bet the idea would really catch on!</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://nodrogtunkm.blogspot.com/">Gordon McNutt</a>
+ on March 19, 2007 <a href="#c15" rel="bookmark">#</a></p>
+</div>
+<div id="c16">
+<blockquote>
+  <p>Quantum mechanics only gives us randomness</p>
+</blockquote>
+
+<p>I think quantum mechanics gives us less than that.</p>
+
+<p>We have no way (no deterministic way) to describe why individual particles exhibit wavelike behavior.  A probability distribution is the closest match to what we observe in the lab.  That&#8217;s basic quantum mechanics (the math behind the probability distributions).</p>
+
+<p>There are other postulates (Heisenberg&#8217;s principle) which claim the basic nature of reality is irreducible from such probability distributions.  That&#8217;s a whole new claim.</p>
+
+<p>I&#8217;m not so sure the claim is true.  Before Newton&#8217;s laws of motion were known, you couldn&#8217;t predict the outcome of a flipped coin - you could flip 100 coins and make a decent probability distribution.  A person before Newton might strongly believe that the result of a single coin flip was fundamentally unpredictable.</p>
+
+<p>Suppose a deterministic explanation for quantum mechanics was discovered - a way to exactly calculate the individual actions that, in aggregate, produced the probability distributions described by quantum mechanics.</p>
+
+<p>Would quantum mechanics still be compatible with free will?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.daltonlp.com">Lloyd Dalton</a>
+ on March 19, 2007 <a href="#c16" rel="bookmark">#</a></p>
+</div>
+<div id="c17">
+<p>I have a book (ISBN 0-13-165945-6) that suggests free will is an illusion; using a computer-science complexity argument.</p>
+
+<p>Like a computer of finite speed your mind has not enough capacity to simulate itself in real time (the circuits used for the simulation necessarily being somewhat less than the whole).  Hence possible determinism while being unable to know your own future.</p>
+
+<p class="posted">posted by peter
+ on March 19, 2007 <a href="#c17" rel="bookmark">#</a></p>
+</div>
+<div id="c18">
+<p>I have to agree with the no-free-willers I&#8217;m afraid. It&#8217;s not surprising you have to introduce &#8220;some other source&#8221; to get your free will picture right. Basically I think it doesn&#8217;t make THAT much of a difference whether you affect the quantum bitstream directly or add to it from some other source. Without this other source, presumably an &#8220;agent&#8221; or what religious people call &#8220;soul&#8221;, there&#8217;s no free will. Of course one cannot COMPLETELY rule out we have free will, but that put aside, would it really be so bad not to have it? I say no. Without free will, one can still live AS IF one had free will because often the concept simply tends to make life less complicated. However, one should know that there is not really any such thing as ultimate responsibility for ones actions, which can free you from or at least alleviate guilt and shame as well as the ludicrous amounts of pride and arrogance many people display with regard to their fantastic accomplishments. I&#8217;m sorry if any anti-free will stuff disheartens people who want to believe in free will. In most cases though, as with religious people, they make up for the lack of evidece with an extra big portion of confidence. That&#8217;s why outside the internet, in &#8220;real life&#8221;, I&#8217;m a hard determinist in the closet. And I don&#8217;t intend to come out any time soon.</p>
+
+<p class="posted">posted by Stan
+ on March 20, 2007 <a href="#c18" rel="bookmark">#</a></p>
+</div>
+<div id="c19">
+<p>Stan, there are other sources: initial conditions and environmental input, both of which are highly random. Wikipedia&#8217;s article on free will is excellent. I&#8217;m very much in the neuroscience camp where free will is a matter of &#8216;how much&#8217;.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://nielsolson.us/">Niels Olson</a>
+ on March 20, 2007 <a href="#c19" rel="bookmark">#</a></p>
+</div>
+<div id="c20">
+<p>Free will is &#8220;free&#8221;, not because it contradicts physical determinism, but because it contradicts psychological determinism. By &#8220;psychological determinism&#8221;, I mean the assumption that a person will always do whatever they &#8220;want&#8221; to do in that particular moment. Thus there is a conflict between two opposing &#8220;forces&#8221; in the brain, one representing desire, and the other representing willpower. Neither of these opponents always prevails.</p>
+
+<p>On the one hand, if desire always prevailed, then we would be just like other animals. (Assuming that non-human animals have no willpower is probably an oversimplification, as there is evidence to suggest that some of our closer relatives sometimes exert their own &#8220;willpower&#8221;.).</p>
+
+<p>On the other hand, if willpower always prevailed, then our behaviour would too readily become disconnected from biology.</p>
+
+<p>The exact rules for deciding which force prevails and which doesn&#8217;t may be rather complex, and determining what those rules are is equivalent to solving the problem of what &#8220;free will&#8221; is.</p>
+
+<p>I have written up more of my thinking on this subject at http://www.1729.com/consciousness (including an article &#8220;Why Roger Penrose is Wrong&#8221;, which might be of interest to some of the other commenters here).</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.1729.com">Philip Dorrell</a>
+ on March 20, 2007 <a href="#c20" rel="bookmark">#</a></p>
+</div>
+<div id="c21">
+<p>Great, so you&#8217;ve shown how our choices are random. How is that compatible with free will?</p>
+
+<p class="posted">posted by Peter
+ on March 20, 2007 <a href="#c21" rel="bookmark">#</a></p>
+</div>
+<div id="c22">
+<p>Great, so you&#8217;ve shown how our choices are random. How is that compatible with free will?</p>
+
+<p class="posted">posted by Peter
+ on March 20, 2007 <a href="#c22" rel="bookmark">#</a></p>
+</div>
+<div id="c23">
+<p>Visual illusions aren&#8217;t the only kinds of illusions our minds fall victim to&#8230; if you&#8217;re looking for comparisons to what is reffered to as &#8220;free will&#8221;, why not compare similar illusions - like those of a soul, or of some deep connection to humanity, or of God?</p>
+
+<p class="posted">posted by Andrey Fedorov
+ on March 20, 2007 <a href="#c23" rel="bookmark">#</a></p>
+</div>
+<div id="c24">
+<p>Anyone that believes in &#8220;chaos&#8221; or &#8220;randomness&#8221; is a fool. By no means can something <em>ever</em> operate on its own. Without affecting things around it, without being affected by things around it. Come on, think about it! How can something be unlinked to the world? Because that&#8217;s what it means to have random behavior. It means that there is nothing that causes the effect. The <em>only</em> reason to call something &#8220;random&#8221; is simply because we do not <em>know</em> what the causes for the effect are, but that&#8217;s pretty darn far away from having no causes at all.</p>
+
+<p>Free will is not an illusion, nor do we have any free will. The only reason we think we have a free will is simply because <em>we do not know all causes for the effects that sums up our actions</em>. You can train yourself on this matter. When a thought strikes you, ask yourself where it came from. Wasn&#8217;t it that sign I walked past a minute ago that triggered a memory that was associated with another memory&#8230;.etc. Do it. You&#8217;ll be surprised how soon you&#8217;ll get to know your brain, what really triggers you. Of course, you can only scratch the surface this way.</p>
+
+<p>OK, so if there is a cause for every effect, then we could find the ultimate reason, right? The one reason that set it all off. No, because the Universe is infinite. Deal with it.</p>
+
+<p class="posted">posted by John
+ on March 22, 2007 <a href="#c24" rel="bookmark">#</a></p>
+</div>
+<div id="c25">
+<p>The example you gave, that one can&#8217;t give up making referents to oneself and stating intentionality, does not serve as an illustration of free will.</p>
+
+<p>First, it&#8217;s an artifact of English that one must always use a first person pronoun. Second, we exist in a cultural milieu that is utterly dependent upon  the maintenance of a cultural sense of free agency; Restaurants themselves are a construct of the enlightenment.</p>
+
+<p>You are presumably aware of the wide variation between what a person can report as their intentionality and the actual processes involved; singular examples, like people with certain types of neuronal damage, and those individuals who had their corpus callosum severed in order to prevent their epileptic fits, illustrate that our narrative of self-hood is only in loose association with what is going on.</p>
+
+<p>The complexity of the process by which people select among their behaviours and actions for those that they will include in their sense of self never fails to amaze me in its complexity, yet the evolutionary advantage of the ability to socially model others seems potent enough to explain why we choose to elevate the model of the monkey in the mirror to a state of some prominence.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://mindlace.net">Ethan Fremen</a>
+ on March 22, 2007 <a href="#c25" rel="bookmark">#</a></p>
+</div>
+<div id="c26">
+<p>What does chaos theory have to do with randomness? Fractals are completely deterministic, yet you still can’t predict what any part will look like.</p>
+
+<p>Determinism does not equal predictability. This whole debate seems pretty narrow-minded and pedestrian to me.</p>
+
+<p>We know today that the way thinking works is roughly by firing neuron patterns that feed back until a signal has sufficiently self-amplified to cross a threshold. The brain is a pattern matcher driven by innumerable feedback loops – a boundlessly non-linear system.</p>
+
+<p>So what if it’s deterministic? It won’t do you any good to know that it is.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://plasmasturm.org/">Aristotle Pagaltzis</a>
+ on March 25, 2007 <a href="#c26" rel="bookmark">#</a></p>
+</div>
+<div id="c51">
+<p>Hello folks.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on April 23, 2007 <a href="#c51" rel="bookmark">#</a></p>
+</div>
+<div id="c52">
+<p>that all sounds for me like in this movie (&#8220;what the bleep we know&#8221; i think that was the title) where they talk about the possibilities to change your life, the world or the universe, alone with the power of your mind.</p>
+
+<p>but i think the main questions is &#8220;what is reality?&#8221; when you can see something? (an eagle see much more than you, is he in an other reality than you) or if you hear something? (an owl hear by far more than you).</p>
+
+<p>i´m really interested in this kind of stuff and would like to hear/read more of that. have we some 
+professors here to tell us more?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.dmpcda.de">Josephine</a>
+ on May 12, 2007 <a href="#c52" rel="bookmark">#</a></p>
+</div>
+<div id="c55">
+<p>Interesting topic.  No need to speculate about this level of mechanism, there are good empirical approaches.</p>
+
+<p>For example, we can build on <a href="http://www.nature.com/nature/journal/v412/n6850/full/412907a0.html" rel="nofollow">this</a> article about the detailed dynamics and neural mechanisms of <em>changes</em> in conscious perception.</p>
+
+<p>They do this basically by setting up a situation in which they can observe, and to some extent control, extended shifts in &#8220;how something looks to the subject&#8221;.  They do this by layering two tricks.</p>
+
+<p>The first trick is binocular rivalry.  If our two eyes see visually incompatible things, first one and then the other tends to dominate.  Normally one&#8217;s perceptions switch spontaneously and somewhat unpredictably.</p>
+
+<p>This phenomenon is especially relevant because much of the brain is actually processing the input from both eyes, but at some point only one or another input is passed on to consciousness.  (This has been determined by Logothetis through invasive experiments with monkeys.)</p>
+
+<p>The second trick is to make the dominance switching much slower and more controllable.  The authors of the paper I cite did this by making the conflicting part of the image into a ring.  The switch then moves around the ring and takes a few seconds to complete.  Also, they found they could initiate a switch by changing the contrast momentarily at some spot on the ring &#8212; the change would then start at that spot and propagate.</p>
+
+<p>Furthermore they found they could observe the change propagating <em>in the brain</em>, along a retintopic map, essentially a distorted version of the ring in part of the visual cortex.</p>
+
+<p>They are able to accurately model the observed dynamics with a fairly straightforward neural network.</p>
+
+<p>So is this relevant?  Yes, I think it is easy to transpose this pattern from spontaneous conscious perceptions to spontaneous conscious choices.</p>
+
+<p>Suppose we have multiple evaluation processes operating at a unconscious or marginally conscious level.  Some might be converging on the same action, others on some competing action, etc.  Consciously, the options may seem to grow or shrink &#8220;spontaneously&#8221; until one displaces all the others, or until we &#8220;get tired of thinking about the problem&#8221; (also an outcome of a dynamic evaluation process).</p>
+
+<p>The factors that create a sense of &#8220;choosing&#8221; are (1) the extended unconscious dynamics of competing evaluation processes and (2) the way the conscious manifestations of those processes can be affected but not fully controlled by attention.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://jed,jive.com">Jed Harris</a>
+ on January 29, 2008 <a href="#c55" rel="bookmark">#</a></p>
+</div>
+<div id="c56">
+<p>Yeah, &#8220;quantum consciousness&#8221; and bit streams reek of &#8220;what the bleep do we know?&#8221;</p>
+
+<p>I don&#8217;t really see any reason to try preserving free-will anymore. It is a conclusion in search for evidence. Generally, people think of &#8220;free-will&#8221; as some agent being the pan-ultimate cause of their actions. That full knowledge of the present cannot lead to a 100% prediction of the future. Throwing in some QM randomness doesn&#8217;t help it as now one controls that randomness.</p>
+
+<p>Most evidence suggest approximate determinism for large systems like brains. The above usual definition of &#8220;free will&#8221; is not compatible with such determinism. &#8220;Compatibalists&#8221; like Hobbes and Dennet have their own definitions. Hobbes looks at how constrained and coerced an agent&#8217;s will feels. Dennet focuses on evitability of negate events (and presumedly ability to seek positive ones).</p>
+
+<p>If you want free-will, it seems better to start with a new definition, rather than trying to salvage a concept that is refuted by all existing evidence. One of the few things I agree with Dennet on is &#8220;what makes the pan-ultimate cause definition so great?&#8221; Agents in a determined system are  not inherently less able to seek good things/avoid bad things than then those in a free-will universe.</p>
+
+<p>As for responsibility, it is another dead end. I believe in prevention, which can include deterrents. But the idea of punishing anyone in what seems to be a determinist system is as silly as &#8220;punishing&#8221; a computer or a tree for not doing what you want. You might as well curse at the Laws of Physics. Why punish someone for stealing candy but not a retarded person for &#8220;being annoying and stupid&#8221;? I can&#8217;t accept the later, but I can&#8217;t take one without the other; I don&#8217;t care for the whole concept. &#8220;Responsibility&#8221; and &#8220;accountability&#8221; may be useful words as heuristics for prevention however, but not real heavy-weight concepts.</p>
+
+<p class="posted">posted by Aaron Schulz
+ on January 29, 2008 <a href="#c56" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="quantumwill" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

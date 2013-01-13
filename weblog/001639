@@ -1,0 +1,211 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>David M. Clark on Cognitive Therapy (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001639.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001635" title="Stanford: A Wired Rave" />	<link rel="next" href="001636" title="Stanford: Meeting the President" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>David M. Clark on Cognitive Therapy</h1>
+</div>
+
+<div class="content">
+<p class="dateline">February 23</p>
+
+<p>David M. Clark, head of psychology at King&#8217;s College in the UK, has come to talk to us about anxiety disorders. Unlike the stuff from the normal introductory psychology lectures, Clark seems very smart and science-minded. He&#8217;s done research developing &#8220;cognitive therapy&#8221; for anxiety, which means using discussion and experiments to get people to stop feeling anxious, as opposed to drugs or other more &#8220;direct&#8221; methods.</p>
+
+<p>The specific technique, it turns out, basically involves proving to the patient that their fears are irrational. People who suffer from panic attacks, it turns out, are actually more sensitive to their heart beats than other people. They notice perfectly normal phenomena, like the heart skipping a beat, and interpret it as the beginning of a heart attack, which then of course makes them anxious. They behave in various &#8220;safety behaviors&#8221;, like lying down or breathing deeply, to stave off the heart attack, which of course goes away (because it isn&#8217;t real).</p>
+
+<p>The therapy consists of proving to the patient that these aren&#8217;t really heart attacks. First, you point out that no one can survive 40,000 heart attacks (the number of panic attacks the patient may have had) &#8212; at most they get one or two. Then you ask them to think of times they thought they were having an attack and they got distracted &#8212; say, the phone rang with important news. Recall how the panic attack went away? Heart attacks don&#8217;t just go away. After showing the attacks can be eliminated, you show the attacks can be induced, by asking the patient to read a series of trigger words (&#8220;breathless, chest tight, dying, suffocate, heart attack&#8221;). Finally, you gradually have the patient bring on the attacks without doing their safety behaviors. Eventually, they realize the attacks aren&#8217;t real.</p>
+
+<p>The technique above is specific to panic disorders, but the same principles can be applied to any sort of anxiety. It&#8217;s sort of surprising how common sense it all seems. Indeed, Clark&#8217;s &#8220;tips for dealing with anxiety&#8221; are exactly the ones my mother used when I was scared or shy:</p>
+
+<blockquote>
+  <ol>
+  <li>Identify the fear. What am I afraid will happen? What&#8217;s the worst that could happen?&#8221; [My mother was <em>always</em> asking this; it did help.]</li>
+  <li>Challenge negative thoughts. How likely is it? What would be so bad about that? Is there an alternative explanation? How would someone else think? How will I be in X months time?</li>
+  <li>Prepare.</li>
+  <li>Repeated practice.</li>
+  </ol>
+</blockquote>
+
+<p>Is this technique effective? Clark tells an incredible story. There is a standard psychological treatment for post-traumatic stress syndrome: you have the person who suffered some sort of stress discuss the incident with a therapist. After 9/11, for example, thousands of therapists discussed the incident with victims. And if you measure the number of traumatic flashbacks the patients have, they go down after the debriefing (from about 36 to about 32, according to Clark&#8217;s slide, which cites &#8220;Mayou, Ehlers &amp; Hobbs, 2000&#8221;). And the patients love it &#8212; the thank the therapists, send flowers, gush about how helpful they&#8217;ve been, etc.</p>
+
+<p>But is that enough? I am reminded of a story, <a href="http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0001et&amp;topic_id=1&amp;topic=Ask%20E%2eT%2e">quoted by Edward Tufte</a>, from Dr. E. E. Peacock, Jr.:</p>
+
+<blockquote>
+  <p>One day when I was a junior medical student, a very important Boston surgeon visited the school and delivered a great treatise on a large number of patients who had undergone successful operations for vascular reconstruction. At the end of the lecture, a young student at the back of the room timidly asked, &#8220;Do you have any controls?&#8221; Well, the great surgeon drew himself up to his full height, hit the desk, and said, &#8220;Do you mean did I not operate on half the patients?&#8221; The hall grew very quiet then. The voice at the back of the room very hesitantly replied, &#8220;Yes, that&#8217;s what I had in mind.&#8221; Then the visitor&#8217;s fist really came down as he thundered, &#8220;Of course not. That would have doomed half of them to their death.&#8221; God, it was quiet then, and one could scarcely hear the small voice ask, &#8220;Which half?&#8221;</p>
+</blockquote>
+
+<p>(Dr. E. E. Peacock, Jr., University of Arizona College of Medicine; quoted in <em>Medical World News</em> (September 1, 1972), p. 45, as quoted by Tufte)</p>
+
+<p>So, you may now ask, what about the other half &#8212; the people who suffered traumatic incidents but were not debriefed. Well, their number of traumatic flashbacks fell too. But while those who were debriefed fell from 36 to 32, those who were not debriefed fell from 31 to <em>9</em>. <em>9</em>.</p>
+
+<p>In other words, for decades we&#8217;ve been dooming people who have suffered traumatic incidents to relive them over and over under the guise of helping them. I mean, [I knew psychology was bad], but still&#8230;</p>
+
+<p>So how do Clark&#8217;s treatments stack up under the gold standard &#8212; randomized controlled trials (where you decide which half gets help randomly)? </p>
+
+<p>Well, one typical solution &#8212; a Swedish deep breathing exercise &#8212; works in 25% of cases. Another, pills, works in 40% of cases. But the problem with pills is that they stop working as soon as you stop taking them. Cognitive therapy is a relatively quick series of five one-hour sessions and then it&#8217;s over. So even if it did worse that pills, it might still be a worthwhile treatment.</p>
+
+<p>But it does better than pills &#8212; much better. Cognitive therapy essentially cures people in 80% of cases. It does this with panic disorders, social phobias (extreme shyness), etc. And the cures last for years. </p>
+
+<p>All in all, Clark&#8217;s talk was an exciting vindication for the field &#8212; it showed how a scientific approach can really help people in concrete ways. And it was heartening to see there were some hardworking, rational people out there. Which is why it&#8217;s sort of ironic that at the core of Clark&#8217;s method is teaching people to be more rational &#8212; helping them overcome irrational fears through logic and experiment. It&#8217;s almost as if science itself were the cure.</p>
+
+<p class="posted">posted March 26, 2005 04:40 PM (<a class="category" href="cat_education">Education</a>) (<a href="#comments">3 comments</a>) <a href="001639" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001635" title="Stanford: A Wired Rave">&laquo; prev</a> | <a href="./">up</a> | <a href="001636" title="Stanford: Meeting the President">next &raquo;</a></p>
+
+<p><a href="001629">Stanford: Mr. Unincredible</a><br />
+<a href="001632">Lessons in Capitalism #1: Division of Labor</a><br />
+<a href="001633">Stanford: Out at the Movies</a><br />
+<a href="001634">Stanford: Form Without Content</a><br />
+<a href="001635">Stanford: A Wired Rave</a><br />
+<strong>David M. Clark on Cognitive Therapy</strong><br />
+<a href="001636">Stanford: Meeting the President</a><br />
+<a href="001637">Stanford: Caught Red-Handed</a><br />
+<a href="001638">Lessons in Capitalism #2: Management</a><br />
+<a href="001640">Jeff Hawkins Update</a><br />
+<a href="001641">Stanford: Another Post You Don&#8217;t Have to Read</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c4658">
+
+<p>Interesting.  I will say this, though.  As a married man, attempting to prove to my wife that her fears are irrational is a Very Bad Idea.  You essentially take someone&#8217;s feelings&#8212;quite real to them&#8212;and say &#8220;These aren&#8217;t real.  You have no right to feel this way.&#8221;  This invalidation, from personal experience and from some reading, is generally considered bad at least in the marriage context (and one might presume other relationships).</p>
+
+<p>Clearly, I am but a single sample, but I think there are&#8230;complications here.</p>
+
+<p class="posted">posted by Rich at March 27, 2005 03:53 AM <a href="#c4658">#</a></p>
+
+</div><div id="c4698">
+
+<p>Well, it worked for me!</p>
+
+<p>At least, it has so far.</p>
+
+<p class="posted">posted by Me, but anonymous at March 31, 2005 08:45 AM <a href="#c4698">#</a></p>
+
+</div><div id="c4753">
+
+<p>I too have a Blog, though mine is specifically exploring cogntive therapy. I am completely &#8220;lay&#8221;, ie, unqualified, but you may find it interesting anyway (http://cognitive-cognitive-cognitive.blogspot.com)</p>
+
+<p class="posted">posted by <a target="_blank" title="http://cognitive-cognitive-cognitive.blogspot.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=4753">Daniel</a> at April  7, 2005 07:08 PM <a href="#c4753">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001639.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1639" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

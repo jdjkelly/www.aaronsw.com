@@ -1,0 +1,230 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Jeff Hawkins Update (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001640.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001638" title="Lessons in Capitalism #2: Management" />	<link rel="next" href="001641" title="Stanford: Another Post You Don&#8217;t Have to Read" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Jeff Hawkins Update</h1>
+</div>
+
+<div class="content">
+<p class="dateline">February 28</p>
+
+<p><em>Low-quality MP3 recordings: <a href="http://www.aaronsw.com/weblog/static/hawkins2-1.mp3">intro</a>, <a href="http://www.aaronsw.com/weblog/static/hawkins2-2.mp3">neocortex</a>, <a href="http://www.aaronsw.com/weblog/static/hawkins2-3.mp3">building a brain</a>, <a href="http://www.aaronsw.com/weblog/static/hawkins2-4.mp3">Q&amp;A</a></em></p>
+
+<p>Jeff Hawkins, <a href="http://www.aaronsw.com/weblog/001517">you may recall</a>, is n man with the most amazing story. As a college student, after reading an issue of <em>Scientific American</em>, he decided that he wanted to figure out how the brain worked so he could build one. Neuroscience departments turned him down &#8212; they who too busy collecting low-level details about what the brain looked like. AI departments turned him down &#8212; they already knew how the brain worked, it was just like a computer. (They were wrong, of course.) Companies like Intel turned him down &#8212; it wouldn&#8217;t turn a profit for many years.</p>
+
+<p>So Hawkins decided that if no one would give him money to do this, he&#8217;d go out and make some money of his own. He invented the Palm Pilot, the Handspring, and the Treo, and made millions. And then he turned around and used the money to start a neuroscience institute hear in Silicon Valley to do the work on brains that nobody else was doing.</p>
+
+<p>OK, already you have a great story. Yet, to my knowledge, it was never covered anywhere. Hawkins didn&#8217;t get a <em>60 Minutes</em> story or a magazine article. But it gets even better: <em>it worked</em>. Pretty quickly, they figured out how the brain actually worked, in a detailed theory that explains everything from your everyday experience down to the actual physical wiring of the brain. And then Hawkins wrote a book on it for the lay audience, explaining this ingenious theory, which actually turns out to be quite simple. </p>
+
+<p>But still: hardly anything. I heard about Hawkins because he happened to be at the Stanford bookstore and I was sort of bored. He&#8217;s also gotten on a local NPR show, but there&#8217;s been very little coverage. Perhaps part of it is the title of his book. He named his book <em>On Intelligence</em>, which made me think it was about IQs and stuff. It turns out Hawkins is actually referring to the intelligence in Artificial Intelligence and so on, but it&#8217;d be much clearer if he called it &#8220;How Brains Work: A Huge New Discovery&#8221; or something really obvious.</p>
+
+<p>It&#8217;s not that the media doesn&#8217;t cover science &#8212; when Steven Wolfram came out with his book <em>A New Kind of Science</em> (see, that&#8217;s a clear name) he was all over the place. Big stories in the <em>New York Times</em>, dates on <em>Charlie Rose</em> (my personal favorite moment was when he pulled out this completely incomprehensible chart from under Charlie&#8217;s table), and on and on. He was the talk of the intelligentsia for weeks. Not that anyone understood what he was saying, figure out what it was supposed to do, or tell if it was true &#8212; his book was like 900 pages of boring and incomprehensible charts.</p>
+
+<p>But Hawkin&#8217;s work is pretty easily comprehensible, has <em>huge</em> applications, is so obviously correct, and is just really fun to know. He needs a better publicist or something. But more importantly, we need better science coverage. Someone tell me: where&#8217;s the journal that covers things like this, where do I sign up to read big new ideas and discoveries explained simply?</p>
+
+<p>I&#8217;m so lucky to be at Stanford so that the man who discovered how the brain works can explain it to me himself. He&#8217;s back, now teaching a class about Artificial Intelligence of his discovery. It&#8217;s sort of a sad sight to tell the truth &#8212; Hawkins work is mindblowing stuff and these are probably exactly the kids who should be building it, but they&#8217;re also exactly the kids who have been indoctrinated with years of AI nonsense, so when he explains the theory they just don&#8217;t get it and when he discusses the results they just don&#8217;t believe him. Try to make artificial intelligence by studying the actual brain? It makes no sense to them. (It probably doesn&#8217;t help that Hawkins starts by telling them he calls his work &#8220;<em>Real</em> Intelligence&#8221; &#8212; &#8220;to distance itself from Artificial Intelligence&#8221;.)</p>
+
+<p>Anyway, I won&#8217;t go over the whole of Hawkins&#8217;s explanation of his theory, but he did explain how the brain works in a new, simpler way, I thought I&#8217;d share. The brain, you will recall, is made up of a bunch of modules, which are wired hierarchically together.  At the bottom there ar elots of modules &#8212; one for components of sounds, one for lines in sight, etc. As you go up, the modules become more abstract &#8212; one combines vision and sound, etc. &#8212; forming a pyramid shape. At the top is the really high-level thought. Each big module follows a five step process:</p>
+
+<ol>
+<li>Store sequences of patterns.</li>
+<li>Pass the name of that pattern upwards, to a higher module.</li>
+<li>Predict the next element of the sequence.</li>
+<li>Convert that invariant prediction into a specific prediction. (Invariant predictions are relative &#8212; if the sequence is a series of notes, it&#8217;s something like &#8220;a fifth&#8221;. A specific prediction would be the note itself &#8212; if you know the previous note, you can add a fifth to it to get the previous note. The same is true for sight and touch and so on &#8212; we don&#8217;t notice things, we notice the relation between things. That&#8217;s why things look the same color in different shades of light and so on.)</li>
+<li>Pass this specific prediction down a level.</li>
+</ol>
+
+<p>That may not be all comprehensible if you haven&#8217;t read the book. Sorry, but I want to get to the new stuff. </p>
+
+<p>So a Stanford graduate student, Dileep George, saw this theory and decided to build a brain with it. (One new thing I learned is that Dileep&#8217;s code resolves the disagreement between various sections of the brain using something called &#8220;belief propagation&#8221;.) You have to start somewhere, so he decided to teach it to recognize little pictograms. Some look recognizable &#8212; a cat, a duck, a dog, a boat &#8212; others are just sort of random. He trained a simple three-level brain to recognize each of these symbols, sometimes with a few modifications (like flipping the image), and then he tried to attack it.</p>
+
+<p>He drew the symbols with dotted lines, with squiggly lines, he drew them too big, he drew them too small, he drew them with gaps and breaks, he drew them with heads chopped off, he drew them with all sorts of speckles and noise, and on and on. The brain could still recognize them.</p>
+
+<p>This may not sound like much of an achievement, but it&#8217;s important to understand that artificial intelligence people have been working on vision systems for <em>decades</em>. Their technology is very specialized &#8212; written specifically for recognizing these pictures &#8212; and it can&#8217;t handle <em>any</em> of this. It looks for lines and corners. If you have squiggly lines and rounded corners, it&#8217;s useless. This is just orders of magnitude better than anything out there.</p>
+
+<p><em>And it&#8217;s completely generic.</em> The simulated brain has no idea it&#8217;s looking at pictograms &#8212; all it sees are zeroes and ones, just like the electrical pulses of the real brain. You&#8217;ve got to assume that you could show it sounds or smells or even weather patterns and it&#8217;d do just as well. (If you know Matlab, you can <a href="http://www.stanford.edu/~dil/invariance/">grab Dileep&#8217;s code and try it</a>). But this is just concrete proof of a <em>huge</em> breakthrough.</p>
+
+<p>What do the neuroscientists think? Well, Hawkins says, nobody has been able to prove him wrong. They just look at his book and say &#8220;Well, there&#8217;s some evidence [that this is true] and we have to test and it could take years [before we&#8217;re sure] and blah blah blah.&#8221; (Neuroscience experiments take a really long time for some reason. &#8220;A typical animal experiment, even a simple one&#8230;takes one to four years.&#8221;) Hawkins isn&#8217;t in the mood to wait. He did have one piece of good news &#8212; one neuroscientist in Japan is working on a relatively obscure are of the brain had lunch with him and told him about her unpublished research. (She was excited; nobody ever really cared about her work before.) And her results, which nobody really new about, definitely confirm his theory. So everything is looking good.</p>
+
+<p>The response from computer science people (even though &#8220;the book wasn&#8217;t really written for them&#8221;) is much more positive. &#8220;They are the ones looking at it and they go &#8216;Oh, this is an algorithm and I understand algorithms &#8212; intuitively obvious! Yes, I get it! What else could it be?&#8217; &#8230; &#8216;Oh, I get it. I can build this.&#8217;&#8221; That&#8217;s certainly the reaction I had: the theory is just so obvious and beautifully true. (beat) I have to build it. Right now.</p>
+
+<p>Apparently, I&#8217;m not the only one. Hawkins is transforming the research institute into a company and moving it to Berkeley. I missed some of the details, but apparently the idea is to build toolkits that other people can use and plug stuff into and work on, so that people around the world can help out. The intellectual property, he says, won&#8217;t be completely free &#8212; it&#8217;s a business, with venture capital money and a need to turn a profit &#8212; but they want as many people as they can get helping. Some people have even offered to build the brain technology into silicon, which will probably eventually be a good idea for speed reasons.</p>
+
+<p>Why a business? Because the &#8220;profit motive&#8221; is faster than academia. Hawkins can&#8217;t wait to see these ideas out there &#8212; he wants his discovery to have as much impact as possible. I don&#8217;t know if that&#8217;s true or not, but it makes starting a start up sound oddly noble.</p>
+
+<p>Anyway, the business is just starting &#8212; they recently incorporated &#8212; and they&#8217;re looking for a small team of really smart people to help out. World-changing technology is coming soon.</p>
+
+<p class="posted">posted March 26, 2005 05:06 PM (<a class="category" href="cat_education">Education</a>) (<a href="#comments">3 comments</a>) <a href="001640" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001638" title="Lessons in Capitalism #2: Management">&laquo; prev</a> | <a href="./">up</a> | <a href="001641" title="Stanford: Another Post You Don&amp;#8217;t Have to Read">next &raquo;</a></p>
+
+<p><a href="001635">Stanford: A Wired Rave</a><br />
+<a href="001639">David M. Clark on Cognitive Therapy</a><br />
+<a href="001636">Stanford: Meeting the President</a><br />
+<a href="001637">Stanford: Caught Red-Handed</a><br />
+<a href="001638">Lessons in Capitalism #2: Management</a><br />
+<strong>Jeff Hawkins Update</strong><br />
+<a href="001641">Stanford: Another Post You Don&#8217;t Have to Read</a><br />
+<a href="001642">Michael Scheuer on Imperial Hubris</a><br />
+<a href="001643">Stanford: Unscripted</a><br />
+<a href="001644">Stanford; Home Alone</a><br />
+<a href="001645">Stanford: Private Meeting</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c4686">
+
+<p>Very interesting; thanks!</p>
+
+<p>Enjoyed his book, too (which I read soon after the first posting about it).</p>
+
+<p>I think about Hawkins how-brains-work idea, off and on, as I go about the day - asking myself if that hypothesis seems to fit how I experience what I&#8217;m experiencing. And I imagine that it does.  :-)</p>
+
+<p>And it&#8217;s also interesting that whoever does the original design work for brains figured out that useful brains could be built by recognizing things in that way.  An interesting basis for any creature to successfully interact with its environment.</p>
+
+<p class="posted">posted by D.Meyers at March 29, 2005 07:16 PM <a href="#c4686">#</a></p>
+
+</div><div id="c4687">
+
+<p>I did the same thing after reading the book and I&#8217;ve heard from another person that the same happened to them.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=4687">Aaron Swartz</a> at March 29, 2005 07:20 PM <a href="#c4687">#</a></p>
+
+</div><div id="c4695">
+
+<p>Man, I have been thinking about doing intelligent software for a few years, even tried to get a phd, then three years later, out comes this book.</p>
+
+<p>Now I cannot let the idea go, I have started designing my brain&#8230; </p>
+
+<p>Its good to hear that others are inspired as well. I may have to start a project on sourceforge and see how it goes&#8230; </p>
+
+<p>Does anyone know if anything similar has already been started?</p>
+
+<p>Regards</p>
+
+<p>M</p>
+
+<p class="posted">posted by Mark Ellul at March 31, 2005 06:48 AM <a href="#c4695">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001640.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1640" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Bubble City: Chapter 6 (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Bubble City: Chapter 6</h1>
+
+<p>Miller ushered him into a clean, but ancient, little house with leather sofas and bright windows. &#8220;Take a seat,&#8221; he said. &#8220;Can I get you anything?&#8221; &#8220;Uh, no thanks,&#8221; Jason said, a bit surprised at this reception. &#8220;OK, I&#8217;m gonna fix myself a drink,&#8221; Miller said, heading into the kitchen.</p>
+
+<p>&#8220;You know,&#8221; he said in between noises of liquids mixing and ice crunching, &#8220;I always knew someday someone would call me to account. I&#8217;m actually kind of surprised it took so long.&#8221; He returned and grabbed a chair across from Jason. &#8220;Alright, so let&#8217;s do this: I think you have something you want to ask me.&#8221;</p>
+
+<p>Caught a bit off-guard by all the frankness&#8212;and the prescience&#8212;Jason began by stuttering. &#8220;Well, uh, I was looking through the NNA code and, as I&#8217;m sure you know, well, I mean obviously you know, there&#8217;s this section in there that&#8217;s just a series of numbers. S-boxes, you might call them.&#8221; Miller laughed. &#8220;Anyway, it appears to me that the S-boxes only affect the results under fairly unusual circumstances &#8212; that they seem to be a kind of backdoor allowing someone to remotely control the output of NNA.&#8221;</p>
+
+<p>&#8220;So you haven&#8217;t found the key yet?&#8221; &#8220;No, not yet. That code is impenetrable!&#8221; Miller laughed. &#8220;I was hoping you might be able to shed some light.&#8221; &#8220;Come on, now. I&#8217;m sure you&#8217;re nice, but I&#8217;m not about to give out the backdoor to NNA to any pretty young thing that happens to come out here and knock on my door. Anyway, even if I wanted to, I couldn&#8217;t. Yahoo insisted on wiping all my drives after I left the company. I don&#8217;t have the key anymore.&#8221;</p>
+
+<p>&#8220;But surely you can reconstruct it? I mean, the code is open source &#8212; you can see the backdoor right there.&#8221; &#8220;Yes, but it was a sort of public key-style system. What&#8217;s in the code is just the public part; anyone can read that. But it was generated from the private key &#8212; the series of patterns that will trigger it. Basically, what you see in those S-boxes is just the hash of the private key and it only kicks in if the hash of a voting cluster matches.&#8221;</p>
+
+<p>&#8220;So why&#8217;d you do it? For fun?&#8221; &#8220;Of course not. I knew it was wrong. I wasn&#8217;t gonna pull another Dennis Ritchie. I was ordered to. The folks at Yahoo insisted that if we were going to open source this engine they had to have a way of clearing out illegal and offensive stories; otherwise it&#8217;d tarnish their good name. Of course, that department disappeared in a reorg shortly after the software&#8217;s release and I disappeared along with it, so I suppose it&#8217;s all kind of irrelevant now, except as a historical curiosity.&#8221;</p>
+
+<p>&#8220;Historical curiosity?&#8221; Jason shouted, before realizing how loud he was being. &#8220;It&#8217;s a major security vulnerability in a key piece of infrastructure! Do you have any idea how bad this is?&#8221; &#8220;Yeah, yeah, I suppose technically it is,&#8221; Miller said, &#8220;but let&#8217;s be realistic here. My copy of the key was wiped, everyone at Yahoo who knew about the project is long gone, and there weren&#8217;t many of them to begin with. It&#8217;s a dead letter.&#8221;</p>
+
+<p>&#8220;You don&#8217;t understand,&#8221; Jason said. &#8220;Someone&#8217;s using it. I don&#8217;t know whether they were at Yahoo or whether they got it from someone or whether they figured it out, but it&#8217;s getting used. There are anomalies in the recommendations that just can&#8217;t be explained any other way.&#8221; &#8220;Oh god. What are they doing with it?&#8221; &#8220;Well, it&#8217;s difficult to tell without cracking the key. The big piece I&#8217;ve been able to spot so far is that they&#8217;re getting inane videos recommended to everyone. But who knows what else they&#8217;re doing.&#8221;</p>
+
+<p>&#8220;Well, you do. Just change the S-boxes and see what recommendations change.&#8221; &#8220;Ah, you&#8217;re right! I just need to feed it the live input! If I give that to two versions with no randomness and different S-boxes, the difference will have to be exactly the orders from the backdoor. And oh god, and that&#8217;ll tell me what the key is: I just remove all the pieces of the input that don&#8217;t affect the difference and whatever&#8217;s left must be what triggers the backdoor. That&#8217;s brilliant! I just need to get my hands on a copy of the live database and some computers. Wow, thanks so much.&#8221; &#8220;Glad to help.&#8221;</p>
+
+<p>&#8220;So you&#8217;ll come forward? Tell the world about the security hole you put in so we can force people to take it out?&#8221; Miller laughed. &#8220;Not a chance.&#8221; &#8220;But I thought you said &#8212; you said you were against it.&#8221; &#8220;I am, but look around. See this house? This couch? This cozy little place in the woods. I got to retire early on my Yahoo stock options. And I got those by signing some pretty iron-clad non-disclosure agreements. I talk about any of this in public and I spend the rest of my life in court, watching all of this get taken away. Sorry, kid, but you&#8217;re on your own on this one.&#8221;</p>
+
+<p>&#8220;But, but,&#8221; Jason said. &#8220;Don&#8217;t you see how important this is? The integrity of the world&#8217;s news is at stake!&#8221; &#8220;And you seem like just the one to save it,&#8221; Miller said. &#8220;In fact, it seems like you already have your solution all figured out. All I can really say is best of luck to you.&#8221;</p>
+
+<p>&#8220;But, but,&#8221; Jason said, exasperated. &#8220;Well, the very least you can do is walk me through the code.&#8221; Miller just laughed. &#8220;That code&#8217;s gotten so crusty since the last time I touched it. I don&#8217;t think there&#8217;s a person on Earth who really understands it anymore. I guess that&#8217;s why no one else has caught the S-boxes. Everyone knows better than to go near that thing.&#8221;</p>
+
+<p>&#8220;Anyway, unless you have anything else, I&#8217;ve got a game of Starcraft that I really should be getting back to,&#8221; Miller said. &#8220;Uh, I guess not. Thanks for talking to me about it, I guess.&#8221; &#8220;Oh, of course. Sorry I couldn&#8217;t be more help. But good luck, kid. You&#8217;ll need it.&#8221; And with that Miller showed him the door. And Jason found himself standing alone in the middle of a hillside, wondering how a kid like him was going to save the news.</p>
+
+<hr />
+
+<p>When he got back, he quietly made a dump of the Newsflip database and rejiggered his program to try to dissect the live DB instead of generating random ones. He quickly saw much better results. Within hours it had pared things down to just a couple hundred thousand possibilities.</p>
+
+<p>While he was waiting, he pored over the diffs he&#8217;d generated as Miller had suggested: the changes that the backdoor had made to people&#8217;s recommendations. The first thing he noticed was that just about everyone was seeing crummy stories: the video of the dog peeing, news about dumb celebrities, that sort of thing. Meanwhile, real news &#8212; like the attack on Iran &#8212; was completely buried. Only a small handful ever saw it.</p>
+
+<p>Jason was shocked. The American people weren&#8217;t being dumb &#8212; obsessed with celebrity over politics, with bodily fluids over intellectualism. That&#8217;s just what they were being fed. And there was someone out there making sure of that.</p>
+
+<p>Jason was bubbling mad &#8212; and his anger only increased as he watched the elements tick away on his little script to search for the backdoor &#8212; each tick making his blood boil higher. And as it was almost done, the phone rang. It was Sarah.</p>
+
+<p>&#8220;Hey kiddo,&#8221; she sang. &#8220;Caught you playin&#8217; hooky at the office? What&#8217;s up?&#8221; she asked. &#8220;Oh, not much,&#8221; Jason lied. &#8220;Just thought I&#8217;d work from home today.&#8221; &#8220;Oh yeah, I get sick of those slobs too. Hey, want to come over to my place and keep me company?&#8221; &#8220;Uh, well,&#8221; Jason started. &#8220;Oh, don&#8217;t worry. I&#8217;ve got wifi and everything &#8212; you can work from here just fine. I promise I won&#8217;t distract you&#8230; too much.&#8221;</p>
+
+<p>Jason knew he should stay at home and finish what he&#8217;d started, but a tingle of excitement ran through his body, telling him he really ought to see Sarah. &#8220;OK, how about I come over there in twenty minutes?&#8221; &#8220;Sounds good,&#8221; she said, and gave him her address. &#8220;See you soon!&#8221; &#8220;See you,&#8221; he said, and hung up.</p>
+
+<p>By then the computer had cracked the code and he went over to see what was what. It was, as predicted, a bunch of bookmarks, but in some weird series that Jason couldn&#8217;t quite follow. He tried reproducing it by creating some dummy accounts of his own, but before he could really puzzle things out he realized that he&#8217;d promised Sarah he&#8217;d be there ten minutes ago and dropped what he was working on to run for the door.</p>
+
+<hr />
+
+<p>Deep inside the Googleplex, behind a set of keycard-locked doors, behind another set that required keys for entry, behind another set that clearly read &#8220;NO VISITORS BEYOND THIS POINT&#8221;, lay a series of employees that, except for the slightly-heightened security, seemed like all the others.</p>
+
+<p>Tom was going through his daily rounds of checking on the recommender results when he noticed a certain story was being recommended to him twice. The recommender was programmed to only recommend the same story to someone only once, so that never happened &#8212; unless one of his teammates screwed up. &#8220;Hey Kevin, get over here. You fucked up again.&#8221; A miffed-looking British fellow headed over to Tom&#8217;s desk. &#8220;What are you talking about?&#8221;</p>
+
+<p>&#8220;You fucked up &#8212; I&#8217;m seeing this dog story getting recommended twice.&#8221; &#8220;But how can that be?&#8221; Kevin asked. &#8220;I put in safeguards to make sure that never happened again. Unreal. Are you sure it&#8217;s not on your end?&#8221; &#8220;Of course it&#8217;s not on my end &#8212; I&#8217;m looking at the raw recommendation output.&#8221; &#8220;Alright, alright, well trace it back. See which posts are conflicting.&#8221; &#8220;OK, give me a second. Here, grab a chair.&#8221;</p>
+
+<p>&#8220;Whoa, this is weird,&#8221; Tom said. &#8220;I don&#8217;t recognize any of these accounts. Do you?&#8221; &#8220;Numbered account names? We&#8217;d never be so blatant. Fuck. You know what this means, right?&#8221; &#8220;We have an incompetent intern?&#8221; &#8220;No, moron, it means someone&#8217;s onto us. They&#8217;ve figured out the back door and they&#8217;re testing it for themselves.&#8221; &#8220;Oh shit. Shit, shit, shit. What do we do?&#8221; &#8220;What can we do? We gotta talk to Saul.&#8221;</p>
+
+<p>They headed over to a slightly larger cubicle hidden in a corner. &#8220;Saul, we&#8217;ve got a situation here.&#8221; &#8220;Situation?&#8221; Saul asked. &#8220;What is this? Some kind of spy movie? What&#8217;re you talking about?&#8221; &#8220;Someone else has found the backdoor. We spotted a bunch of bookmarks in the same pattern as we&#8217;re using from a different set of accounts.&#8221; &#8220;Fuck. OK, well, thanks for telling me.</p>
+
+<p>&#8220;Here&#8217;s what I want you to do. You&#8217;re going to walk calmly back to your desks. You&#8217;re going to write up everything you&#8217;ve learned so far and place it on this Flash drive.&#8221; He removed a small USB keyfob from inside his desk. You&#8217;re then going to give me the keyfob, wipe everything related from your machines, and pretend this never ever happened, you understand? This is out of your hands now. I&#8217;m going to make sure this gets&#8230; taken care of.&#8221; Tom and Kevin&#8217;s eyes widened. &#8220;Wait,&#8221; Tom said, &#8220;you don&#8217;t mean&#8230;&#8221; &#8220;Exactly,&#8221; Saul replied. &#8220;This is a job for&#8230; public relations.&#8221;</p>
+
+<p><em>Tomorrow:</em> <a href="bubblecity7">Chapter Seven</a></p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">November  8, 2007</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>&#8220;This is a job for&#8230; public relations.&#8221;</p>
+
+<p>Hahaha, that&#8217;s hilarious! :)</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.callum-macdonald.com/">Callum</a>
+ on November  8, 2007 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>Hey, where is chapter 7?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://fastblogit.com/seth">Seth Russell</a>
+ on November 11, 2007 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>Still waiting for chapter 7&#8230;</p>
+
+<p class="posted">posted by William Andregg
+ on November 14, 2007 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>Just wanted to say that I&#8217;m really enjoying this series! Can&#8217;t wait till the next installment&#8230;</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://hagure-metaru.net">Terry McCall</a>
+ on November 14, 2007 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>A week later and still no chapter 7&#8230; What happened? You had me hooked already! :)</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.callum-macdonald.com/">Callum</a>
+ on November 15, 2007 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="bubblecity6" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

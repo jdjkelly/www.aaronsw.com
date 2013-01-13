@@ -1,0 +1,256 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Gerrymandering: How Politicians Steal Votes and You Can Return Them (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/001171.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001168" title="Third Parties: Why They Spoil and How to Stop It" />	<link rel="next" href="001173" title="Up is Down: How Stating the False Hides the True" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Gerrymandering: How Politicians Steal Votes and You Can Return Them</h1>
+</div>
+
+<div class="content">
+<p>Gerrymandering, the practice of remapping political districts for partisan political gain, is becoming a serious problem. As described in Jeffrey Toobin&#8217;s excellent New Yorker article, <a href="http://www.newyorker.com/printable/?fact/031208fa_fact">The Great Election Grab</a>, new computer software allows whatever party controls the state legislature to redraw districts so finely and accurately that of the 435 House seats, only about 30 are actually contested.</p>
+
+<p>The result is that the entire election happens in primaries, attended mostly by hard-core party voters, who end up skewing candidates to the political extremes. And also that when one party gets a lead in the House (as the Republicans currently have) it is almost insurmountable, even when the other party wins the Presidency by a wide margin.</p>
+
+<p>The simplest solution is to take redistrcting out of the hands of the partisan state Congress who, after all, have a pretty strong incentive in skewing the map to keep their jobs, and giving them to a non-partisan redistricting comittee (perhaps consisting of retired judges). Iowa did this after the 2000 census; afterwards, four of their five House races were competitive. Iowa has one per cent of the seats in the House, but they had 10% of all contested races.</p>
+
+<p>Other states aren&#8217;t quick to follow, but <a href="http://www.fairvote.org/redistricting/congress.htm">according to the Center for Voting and Democracy, Congress has the authority</a> (and has used it in the past) to set redistricting guidelines. Congress could easily use their power to clean up the mess, but instead they&#8217;ve essentially ignored the problem.</p>
+
+<p>With all the furor over the Presidency, we often miss the importance of the House, especially in the aggregate like this. The President can&#8217;t pass any law without the House approving it first, but the House can pass a law (with a 2/3 majority) even if the President doesn&#8217;t support it. And it&#8217;s not surprising that it&#8217;s hard to get things done when this important body is filled with essentially tenured partisans whose only serious challenge comes from someone more extreme than they are.</p>
+
+<p><em>For more on the problem of Gerrymandering, read <a href="http://www.newyorker.com/printable/?fact/031208fa_fact">the excellent New Yorker article</a> and <a href="http://www.fairvote.org/redistricting/">the Center for Voting and Democracy&#8217;s redistricting website</a>.</em></p>
+
+<p class="posted">posted February 13, 2004 04:26 PM (<a class="category" href="cat_politics">Politics</a>) (<a href="#comments">8 comments</a>) <a href="001171" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001168" title="Third Parties: Why They Spoil and How to Stop It">&laquo; prev</a> | <a href="./">up</a> | <a href="001173" title="Up is Down: How Stating the False Hides the True">next &raquo;</a></p>
+
+<p><a href="001149">The Trippi Story</a><br />
+<a href="001158">The Furious Rise of the Anonymous Writer</a><br />
+<a href="001160">Nader&#8217;s Negligence</a><br />
+<a href="001166">Campaign Finance Reform: The Problem and Solution</a><br />
+<a href="001168">Third Parties: Why They Spoil and How to Stop It</a><br />
+<strong>Gerrymandering: How Politicians Steal Votes and You Can Return Them</strong><br />
+<a href="001173">Up is Down: How Stating the False Hides the True</a><br />
+<a href="001174">Down is Up: What This Stuff Is</a><br />
+<a href="001175">Up With Facts: Finding the Truth in WikiCourt</a><br />
+<a href="001177">San Francisco Protects the Freedom to Marry</a><br />
+<a href="001179">Sue for Freedom: Saving Steamboat Roy</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c529">
+
+<p>&#8220;The simplest solution is to take redistrcting out of the hands of the partisan state Congress&#8230;&#8221;</p>
+
+<p>I think you mean &#8220;state Legislatures&#8221;.</p>
+
+<p>What is your proposal to get Congress to do something about this problem? It seems nearly intractable to me, barring a major shift in the electorate.</p>
+
+<ol>
+<li>The Republicans control the House and thus have no incentive to fix the problem (in fact, redistricting is an explicit part of the Republican strategy to mantain dominance throughout the next decade).</li>
+<li>The are not enough competitive districts to regain a Democratic majority in Congress, which <em>might</em> have an incentive to fix the problem.</li>
+<li>In States that Republicans control, redistricting is being used as a weapon to eliminate political opposition (see Colorado, Texas), leading to a stronger Republican majority in Congress.</li>
+<li>In States that Democrats control, fixing the problem would most likely lead to a stronger Republican majority in Congress.</li>
+<li>See (1).</li>
+</ol>
+
+<p>I am at a loss as to how to solve this problem. Perhaps a Supreme Court challenge? Unfortunately, the Court seems unlikely to care. The Court is letting the <a href="http://www.washingtonpost.com/ac2/wp-dyn?pagename=article&amp;node=&amp;contentId=A23596-2004Jan16&amp;notFound=true">Texas redistricting fiasco go through</a>.</p>
+
+<p class="posted">posted by <a href="http://www.bushout.tv">Luke Francl</a> at February 13, 2004 05:20 PM <a href="#c529">#</a></p>
+
+</div><div id="c531">
+
+<p>Aaron:</p>
+
+<p>I don&#8217;t think it&#8217;s that Congress has ignored it; I think they see what happens in some of the states where the re-districting is hotly-debated and just say, &#8220;Imagine if we brought that to this level.&#8221;  They get to let the states play the heavies, and they get nearly similar results as they are now.</p>
+
+<p>Not every gerrymandered district ends up working.  I live in a very Republican district&#8212;full of wealthy folks [for Alabama], active and retired military, and engineers out the wazoo&#8212;and our Congresscritter is a Democrat.  Mind you, Bud Cramer&#8217;s a Yellow Dog Democrat [probably the most powerful of that cadre], but he&#8217;s still Rep. Bud Cramer [D].</p>
+
+<p>I would indeed like to see gerrymandering in large parts reversed.  I think the biggest problem is that we capped the number of Representatives.  I&#8217;m all for tripling the number of Representatives, which would mean for smaller districts that would be harder to chunk up like this.</p>
+
+<p class="posted">posted by <a href="http://gfmorris.com/">Geof</a> at February 13, 2004 10:15 PM <a href="#c531">#</a></p>
+
+</div><div id="c534">
+
+<p>Interestingly enough, there is no requirement in the Constitution that districts exist at all - a state could choose &#8220;at large&#8221; representation and still meet constitutional muster.</p>
+
+<p>Congress could, in theory, impose by legislative fiat a non-partisan districting process; but Congress has no interest in doing so because the districting process usually turns into a log-rolling incumebnt protection exercise.  </p>
+
+<p>The individual states could each act to reform their districting process, but also face a &#8220;prisoner&#8217;s dilemma&#8221; incentive to protect the status quo.  Power in the House of Representatives tends to flow through leadership positions, which in turn tend to flow through seniority (not always, but you&#8217;ll never see a freshman representative as the chairman of a powerful committee).  Seniority comes through incumbent protection - the antithesis of competitve disticts.  Any state that creates competitive districts will have a comparative disadvantage for congressional power compared to those states that protect their incumbents.  Therefore, there is a powerful DISincentive built into our legislative system.</p>
+
+<p>I think the only effective countermeasure would be to amend the constitution to provide for at-large representation or non-partisan districting within each state in the House of Representatives; I&#8217;m not sure if the cure would be worse than the disease.</p>
+
+<p>Luke, don&#8217;t kid youself that this is a Republican-only problem - both parties have abused the districting process to protect incumbents for as long as districts have existed.  Look up the history of the term &#8220;gerrymander.&#8221;</p>
+
+<p class="posted">posted by <a href="http://perpetualbeta.com/">Mike</a> at February 14, 2004 12:56 AM <a href="#c534">#</a></p>
+
+</div><div id="c535">
+
+<p>Mike,</p>
+
+<p>I realize it is not a Republican-only problem. I said that the Republicans have no incentive to fix the problem, so while they are in the majority, it will not be fixed. I said if Democrats re-take the majority, they <em>might</em> have an incentive to fix it. Not that they <em>would</em>.</p>
+
+<p class="posted">posted by <a href="http://www.bushout.tv">Luke Francl</a> at February 14, 2004 01:35 PM <a href="#c535">#</a></p>
+
+</div><div id="c538">
+
+<p>Aaron,</p>
+
+<p>You&#8217;re on a roll suggesting great fixes to the problems of our political process. Here&#8217;s two more that trouble me: </p>
+
+<p>1) Did you read this article about the extremely <a href="http://www.nytimes.com/2004/02/15/magazine/15VOTERS.html?ex=1077426000&amp;en=0644964e03c8efbf&amp;ei=5062&amp;partner=GOOGLE">detailed personal data that campaign managers are able to collect</a>? - I think a solution to this is fairly simple. I have no idea why we would allow anyone to know how I voted the last several elections. That data should not even be collected on an individual level. I understand that candidates need to know who to reach out to, but letting them know my party affiliation is sufficient for that. They don&#8217;t need the details of my voting record, and I get the impression from that article they can get access to that. I&#8217;m stunned, actually. </p>
+
+<p>2) The bigger problem is: push polls. I don&#8217;t see how to restrict these without also restricting free speech in an unacceptable way. I guess people just have to be educated that campaigns are going to call you pretending to be doing a survey and they are actually going to slander the opposition and carefully phrase questions so as to force you to agree to their point of view. My wife recently got one such call from the Schwarzenegger crew and she so consistently insisted that she would never ever approve of any of his lame-brained schemes that the push-poller eventually hung up on her! Is there a way to prevent the fraudulent behavior that goes on here that doesn&#8217;t overly burden free political speech?</p>
+
+<p>Keep up the good work!
+Brian</p>
+
+<p class="posted">posted by <a href="http://www.rurnt.com/brian">Brian</a> at February 15, 2004 01:00 PM <a href="#c538">#</a></p>
+
+</div><div id="c540">
+
+<p>Brian, </p>
+
+<p>Voter lists are made available by the various states. They do not say how you voted (how would they? That&#8217;s secret information), simply that you&#8217;re registered to vote and whether or not you did so in a particular election. </p>
+
+<p>Politicians can guess how you vote by correlating your registration information with your demographic profile, party registration, donation information, and so forth. That&#8217;s called &#8220;targeting&#8221; and it&#8217;s the core of any campaign. </p>
+
+<p class="posted">posted by <a href="http://www.bushout.tv">Luke Francl</a> at February 15, 2004 11:07 PM <a href="#c540">#</a></p>
+
+</div><div id="c542">
+
+<p>Aaron, I don&#8217;t know if you read Crooked Timber, but you might like this: <a href="http://www.crookedtimber.org/archives/001321.html">http://www.crookedtimber.org/archives/001321.html</a>.</p>
+
+<p class="posted">posted by <a href="http://talideon.com/">Keith Gaughan</a> at February 16, 2004 09:57 AM <a href="#c542">#</a></p>
+
+</div><div id="c547">
+
+<p>I wish I had the cite for it, but I do know that there&#8217;s a federal law that makes multimember districts a no-no.</p>
+
+<p>&#8212;|PW|&#8212;</p>
+
+<p class="posted">posted by <a href="http://http;//www.pennywit.com">pennywit</a> at February 17, 2004 12:39 PM <a href="#c547">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/2002/001171.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/mt-comments.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1171" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /><br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

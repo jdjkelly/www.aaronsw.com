@@ -1,0 +1,107 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>My Social Network (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000310" title="Valenti: &#8220;I know damn well I am infringing.&#8221;" />	<link rel="next" href="000312" title="Other" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>My Social Network</h1>
+</div>
+
+<div class="content">
+<p>Mark Pilgrim&#8217;s been on a roll lately, with one cool hack after another. First he&#8217;s been working on <a href="http://diveintomark.org/archives/2002/06/02.html#important_change_to_the_link_tag">a system for auto-discovery of RSS feeds</a> and now <a href="http://diveintomark.org/archives/2002/06/02.html#google_recommends">a blogroll comparison system</a>. Check out my results.</p>
+<table class="socialnetwork" summary="recommended sites for http://www.aaronsw.com/weblog/">
+<thead>
+<tr>
+<th scope="col">Name</th>
+<th scope="col">Links</th>
+</tr>
+</thead>
+<tbody>
+<tr><td><a href="http://live.curry.com/">live.curry.com</a></td><td>4</td></tr>
+<tr><td><a href="http://www.wired.com/">www.wired.com</a></td><td>3</td></tr>
+<tr><td><a href="http://www.codingtheweb.com">www.codingtheweb.com</a></td><td>3</td></tr>
+<tr><td><a href="http://w3future.com/weblog/">w3future.com/weblog/</a></td><td>3</td></tr>
+<tr><td><a href="http://tomalak.org/">tomalak.org</a></td><td>3</td></tr>
+<tr><td><a href="http://theshiftedlibrarian.com/">theshiftedlibrarian.com</a></td><td>3</td></tr>
+<tr><td><a href="http://slashdot.org/">slashdot.org</a></td><td>3</td></tr>
+<tr><td><a href="http://scriptingnews.userland.com/">scriptingnews.userland.com</a></td><td>3</td></tr>
+<tr><td><a href="http://radio.weblogs.com/0103807/">radio.weblogs.com/0103807/</a></td><td>3</td></tr>
+<tr><td><a href="http://radio.weblogs.com/0001015/categories/radioUserland/">radio.weblogs.com/0001015/categories/radioUserland/</a></td><td>3</td></tr>
+<tr><td><a href="http://radio.userland.com/">radio.userland.com</a></td><td>3</td></tr>
+<tr><td><a href="http://jrobb.userland.com/">jrobb.userland.com</a></td><td>3</td></tr>
+<tr><td><a href="http://doc.weblogs.com/">doc.weblogs.com</a></td><td>3</td></tr>
+<tr><td><a href="http://curry.com/">curry.com</a></td><td>3</td></tr>
+<tr><td><a href="http://chris.pirillo.com/">chris.pirillo.com</a></td><td>3</td></tr>
+<tr><td><a href="http://blackholebrain.editthispage.com/">blackholebrain.editthispage.com</a></td><td>3</td></tr>
+<tr><td><a href="http://80211b.weblogger.com/">80211b.weblogger.com</a></td><td>3</td></tr>
+<tr><td><a href="http://zeldman.com/">zeldman.com</a></td><td>2</td></tr>
+<tr><td><a href="http://www.tomalak.org/">www.tomalak.org</a></td><td>2</td></tr>
+<tr><td><a href="http://www.newsisfree.com/">www.newsisfree.com</a></td><td>2</td></tr>
+<tr><td><a href="http://www.lisnews.com">www.lisnews.com</a></td><td>2</td></tr>
+<tr><td><a href="http://werbach.com/blog/">werbach.com/blog/</a></td><td>2</td></tr>
+<tr><td><a href="http://weblogs.com/">weblogs.com</a></td><td>2</td></tr>
+<tr><td><a href="http://soapbox.radiopossibility.com/">soapbox.radiopossibility.com</a></td><td>2</td></tr>
+<tr><td><a href="http://siliconvalley.com/mld/siliconvalley/business/columnists/dan_gillmor/ejournal/">siliconvalley.com/mld/siliconvalley/business/columnists/dan_gillmor/ejournal/</a></td><td>2</td></tr>
+<tr><td><a href="http://schoolblogs.com/">schoolblogs.com</a></td><td>2</td></tr>
+<tr><td><a href="http://reiter.weblogger.com/">reiter.weblogger.com</a></td><td>2</td></tr>
+<tr><td><a href="http://rageboy.com/blogger.html">rageboy.com/blogger.html</a></td><td>2</td></tr>
+<tr><td><a href="http://radio.weblogs.com/0106797/">radio.weblogs.com/0106797/</a></td><td>2</td></tr>
+<tr><td><a href="http://radio.weblogs.com/0102755/">radio.weblogs.com/0102755/</a></td><td>2</td></tr>
+<tr><td><a href="http://radio.weblogs.com/0101679/">radio.weblogs.com/0101679/</a></td><td>2</td></tr>
+<tr><td><a href="http://radio.weblogs.com/0100887/">radio.weblogs.com/0100887/</a></td><td>2</td></tr>
+<tr><td><a href="http://radio.weblogs.com/0100243/">radio.weblogs.com/0100243/</a></td><td>2</td></tr>
+<tr><td><a href="http://radio.weblogs.com/0100059/">radio.weblogs.com/0100059/</a></td><td>2</td></tr>
+<tr><td><a href="http://radio.weblogs.com/0001283/">radio.weblogs.com/0001283/</a></td><td>2</td></tr>
+<tr><td><a href="http://radio.weblogs.com/0001195/categories/wirelessBlogging/">radio.weblogs.com/0001195/categories/wirelessBlogging/</a></td><td>2</td></tr>
+<tr><td><a href="http://radio.weblogs.com/0001011/">radio.weblogs.com/0001011/</a></td><td>2</td></tr>
+<tr><td><a href="http://paulboutin.weblogger.com/">paulboutin.weblogger.com</a></td><td>2</td></tr>
+<tr><td><a href="http://news.cnet.com/?tag=pt.rss..feed.fd">news.cnet.com</a></td><td>2</td></tr>
+<tr><td><a href="http://memepool.com/">memepool.com</a></td><td>2</td></tr>
+<tr><td><a href="http://kuro5hin.org/">kuro5hin.org</a></td><td>2</td></tr>
+<tr><td><a href="http://kottke.org/">kottke.org</a></td><td>2</td></tr>
+<tr><td><a href="http://joelonsoftware.com/">joelonsoftware.com</a></td><td>2</td></tr>
+<tr><td><a href="http://jd.manilasites.com/">jd.manilasites.com</a></td><td>2</td></tr>
+<tr><td><a href="http://inessential.com/">inessential.com</a></td><td>2</td></tr>
+<tr><td><a href="http://hyperorg.com/blogger/">hyperorg.com/blogger/</a></td><td>2</td></tr>
+<tr><td><a href="http://evhead.com/">evhead.com</a></td><td>2</td></tr>
+<tr><td><a href="http://diveintomark.org/">diveintomark.org</a></td><td>2</td></tr>
+<tr><td><a href="http://camworld.com/">camworld.com</a></td><td>2</td></tr>
+<tr><td><a href="http://buzz.weblogs.com/">buzz.weblogs.com</a></td><td>2</td></tr>
+<tr><td><a href="http://bluetooth.weblogs.com/">bluetooth.weblogs.com</a></td><td>2</td></tr>
+<tr><td><a href="http://backupbrain.com/">backupbrain.com</a></td><td>2</td></tr>
+<tr><td><a href="http://archipelago.phrasewise.com/">archipelago.phrasewise.com</a></td><td>2</td></tr>
+<tr><td><a href="http://2020hindsight.org/">2020hindsight.org</a></td><td>2</td></tr>
+</tbody>
+</table>
+
+<p class="posted">posted June 02, 2002 09:41 PM (<a class="category" href="cat_technology">Technology</a>)  <a href="000311" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000310" title="Valenti: &#8220;I know damn well I am infringing.&#8221;">&laquo; prev</a> | <a href="./">up</a> | <a href="000312" title="Other">next &raquo;</a></p>
+
+<p><a href="000302">TinyURL</a><br />
+<a href="000304">Boston Trip 2 - Day 1</a><br />
+<a href="000308">Public Access to the Public Domain</a><br />
+<a href="000309">Tim O&#8217;Reilly: OS X and the Next Big Thing</a><br />
+<a href="000310">Valenti: &#8220;I know damn well I am infringing.&#8221;</a><br />
+<strong>My Social Network</strong><br />
+<a href="000312">Other</a><br />
+<a href="000313">Other</a><br />
+<a href="000315">AaronSw TV!</a><br />
+<a href="000316">Other</a><br />
+<a href="000318">Other</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

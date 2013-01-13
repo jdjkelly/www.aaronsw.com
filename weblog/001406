@@ -1,0 +1,181 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>How Control Works (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001406.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001405" title="Press Clipping" />	<link rel="next" href="001407" title="Right Wing Funnies" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>How Control Works</h1>
+</div>
+
+<div class="content">
+<p>If you talk to politicians about campaign financing (as the Center for Responsive Politics did in their book <em>Speaking Freely</em>), you&#8217;ll learn that money influences politics in a more subtle way than you might first imagine. Moneyed interests don&#8217;t simply pay politicians to vote their way. (At least, not usually.) Instead they seek out politicians who already agree with them and then fund their campaigns to help them get elected.</p>
+
+<p>Thus politicians can honestly claim that money doesn&#8217;t buy votes, just access (which is presumably used to explain how the funder&#8217;s preferences agree with the politician&#8217;s worldview). And yet, the effect is largely the same: politicians vote the way moneyed interests want them too. It&#8217;s better for the politicians this way. After all, it&#8217;s probably not much to go around lying to voters and selling out the country while your conscience nags. And it&#8217;s better for the funders too &#8212; retired politicians with attacks of conscience won&#8217;t go around telling everyone about the dishonest arrangement.</p>
+
+<p>This is how institutions in our society work. A more subtle greasing of the appropriate wheels replaces the direct use of force. The same process is at work in the media. Managers don&#8217;t need to tell journalists how to slant the news. (Again, at least not usually. MSNBC cancelled its most popular show because it seemed too much like &#8220;a home for the liberal anti-war agenda&#8221;.[<a href="http://www.fair.org/press-releases/iraq-censorship.html">1</a>]) Instead, they just need to hire the right journalists, who then can insist &#8220;no one tells me what to say!&#8221; The managers make sure what they don&#8217;t want said isn&#8217;t.</p>
+
+<p>And who picks the managers? The owners, whose concern is being profitable. And you can&#8217;t be profitable if you&#8217;re losing moneyed advertisers! To see this in action, just watch what happens when something slips through the filters. In 1976, the <em>New York Times</em> came out in support of a tax increase on businesses. <em>Business Week</em> commented that the <em>Times</em> &#8220;has become stridently antibusiness in tone, ignoring the fact that the Times itself is a business &#8212; and one with very serious problems.&#8221; And, presumably, its advertisers started pulling some ads, causing the stock price to fall a bit. The situation was quickly remedied: the editorial page editor was fired. In response, advertising increased slightly. (<a href="http://www.understandingpower.com/Chapter1.htm#f54">Details and more examples</a>.)</p>
+
+<p>With a little thinking, one can see how this reasoning can be applied to other institutions. Take universities, which are dependent on corporations and alumni for funding. The students who pass are chosen by professors, who are, at least in part, chosen by management who is sensitive to issues of funding.</p>
+
+<p>And, most perilously, democracy. Elected officials are chosen by voters who make their decisions based on information from the media which is, as we discussed above, essentially controlled by large corporations. Think about that for a bit. </p>
+
+<p class="posted">posted August 25, 2004 12:31 PM (<a class="category" href="cat_politics">Politics</a>) (<a href="#comments">2 comments</a>) <a href="001406" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001405" title="Press Clipping">&laquo; prev</a> | <a href="./">up</a> | <a href="001407" title="Right Wing Funnies">next &raquo;</a></p>
+
+<p><a href="001395">Press Clipping</a><br />
+<a href="001397">Why is Big Media losing viewers? Because it sucks</a><br />
+<a href="001401">The Behavior Without A Name</a><br />
+<a href="001403">What is the real purpose of military spending?</a><br />
+<a href="001405">Press Clipping</a><br />
+<strong>How Control Works</strong><br />
+<a href="001407">Right Wing Funnies</a><br />
+<a href="001410">Framing the Media</a><br />
+<a href="001412">Behind the Thick Black Line</a><br />
+<a href="001416">Published Author</a><br />
+<a href="001418">Stanford: Day 1</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c2731">
+
+<p>Aaron: This is an interesting point but I would be careful about extrapolating this argument to anything and everything that has a power structure. Sure, each level in any organization is going to have its own motivations and agenda. But the key to all this working is for there to be sufficient independence in each role (be it student, teacher, president, alumni or reporter, editor, publisher). Clearly, this is not the case in certain corrupt organizations. Any watchdog in any corporation or organization must remain staunchly independent. When that independence breaks down, yes, there&#8217;s an issue. But in good, well oiled organizations these folks can be independent and allow each level to further their own agendas, which in turn furthers the agenda of the organization.</p>
+
+<p>Your point about corporations owning media and in turn owning voters is a whole another point that I won&#8217;t get into at the moment!</p>
+
+<p class="posted">posted by <a target="_blank" title="http://bigben.blogs.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2731">Ben Casnocha</a> at August 25, 2004 01:03 PM <a href="#c2731">#</a></p>
+
+</div><div id="c2732">
+
+<p>A very interesting and important point indeed, particularily in the area of Democracy.
+As a foreigner - French, to be precise -, I remember being quite struck when at school I learnt that in the world&#8217;s so-called greatest democracy, corporations are allowed to fund political parties and even have their nearly-official representative in state and federal congresses. It seemed a democratic nonsense since as you describe it, politicians will tend to protect and even favour those who money them rather than choose what is best for the people.
+But what has struck me even more since then is that few people (and even fewer Americans) are ready to admit it, even when you explain to them that finally pretty simple &#8220;Money-against-support&#8221; system.
+All this to say I&#8217;m glad you raised that point.</p>
+
+<p>Now, I think Ben Casnocha is right when he says you have to be careful extrapolating.- fortunately, not everyone sticks to the only &#8220;principle of money&#8221;, and some people are even ready to fight against it in the name of moral principles.</p>
+
+<p>Finally, as to corporations &#8220;buying&#8221; voters through the medias, it surely makes sense, at least up to the point where people really start thinking (when they have started forming what we call their &#8220;esprit critique&#8221;) and realized that the media are biased. But the most important thing, to me, is that people realize that politicians may have corporate interests rather than the public&#8217;s interest in mind, and that they therefore should try to figure out whether the decisions made by the politicians they vote for primarily serve their interest.</p>
+
+<p class="posted">posted by RT at August 25, 2004 02:14 PM <a href="#c2732">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001406.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1406" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

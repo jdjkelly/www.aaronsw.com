@@ -1,0 +1,229 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Stanford: Day 46  (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001460.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001459" title="Stanford: Day 45" />	<link rel="next" href="001461" title="Stanford: Day 47" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Stanford: Day 46 </h1>
+</div>
+
+<div class="content">
+<p>As I slowly wake up it dawns on me that today is election day. The first thing I think of is those television ads where the guy sits up in bed as his radio alarm clock tells him &#8220;It&#8217;s election day, so get out there and vote!&#8221; <em>It&#8217;s not too late,</em> is the message.</p>
+
+<p>But it feels like it is. Like musical chairs when the music goes off, the part you can control is over and all that&#8217;s left is to see how it all falls out.</p>
+
+<p>I go for an early walk around campus. It seems eerily desolate, as if everyone&#8217;s walking around empty, awaiting fate&#8217;s determination. </p>
+
+<p>Even at the polling pace, the people in line seem like zombies, mindlessly thumbing through their voter guide, just carrying out the rituals.</p>
+
+<p>It&#8217;s a beautiful day. A cloudless sky with a bright sun tha lts you see fo rmiles while also rainding down a special warmth. It&#8217;s one of those days that shouts &#8220;Here is all of beautiful creation&#8212;drink it up! Enjoy it!&#8221;</p>
+
+<p>Everything seems to be shining. On an a whim, I go to the post office. Usually I get no mail and the mail I do get comes after 2PM &#8212; but here are three things for me before they day has even started, including an early birthday card. &#8220;This is the day to say hi to TGIQ,&#8221; I think to myself and my stomach immediately knots up at the prospect.</p>
+
+<hr />
+
+<p>At class, TGIQ is actually early for once. She saunters down the aisle, coat slung over her bag, to sit five rows in front of me. As soon as she sits down she puts on her coat and pops out her laptop, ending any lingering doubt that she is <a href="http://www.aaronsw.com/weblog/001459">the same girl from section</a>. Still, the heartbounce feeling seems to be wearing off a little.</p>
+
+<p>In class we learn that sociologists call the rich-get-richer principle &#8220;The Matthew Effect&#8221; after a verse in the Book of Matthew that notes those who have will get more while those who do not will lose what little they have. Clever, although a little less clear that rich-get-richer.</p>
+
+<p>Later, I get bored and start doodling. Bizarrely, the reflex to visit weblogs when I&#8217;m bored is so ingrained in me that I start writing the URL of a weblog into my paper, in the apparent belief that the paper might go there. It&#8217;s a sign I really need to get my act together about this weblog habit.</p>
+
+<p>At the end of class they hand back our midterm exams. TGIQ manages to sneak out while I wait for my exam. I realize this exam is the first real grade I&#8217;ve gotten here. I got one question wrong, giving me a 97%.</p>
+
+<hr />
+
+<p>Exit polls and predictions show Kerry ahead. As I walk to class, every so often I think &#8220;President Kerry&#8221; and break out in a big grin. I sing John Ashcroft&#8217;s &#8220;Let the Eagle Soar&#8221; and the Tanner theme song (anyone got the lyrics or an MP3? please?) to celebrate. </p>
+
+<hr />
+
+<p>That night, I watch the big election grids and such. It&#8217;s still uncalled as I go to sleep.</p>
+
+<p class="posted">posted November 05, 2004 04:41 PM (<a class="category" href="cat_education">Education</a>) (<a href="#comments">2 comments</a>) <a href="001460" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001459" title="Stanford: Day 45">&laquo; prev</a> | <a href="./">up</a> | <a href="001461" title="Stanford: Day 47">next &raquo;</a></p>
+
+<p><a href="001452">Stanford: Day 43</a><br />
+<a href="001454">November Surprise: The Votemaster is Andrew Tanenbaum</a><br />
+<a href="001457">Money and Politics</a><br />
+<a href="001458">The Facts About Money and Politics</a><br />
+<a href="001459">Stanford: Day 45</a><br />
+<strong>Stanford: Day 46 </strong><br />
+<a href="001461">Stanford: Day 47</a><br />
+<a href="001462">David Boies on the Dispensation of Justice</a><br />
+<a href="001463">Stanford: Day 48</a><br />
+<a href="001464">Amy Goodman (and guests) on the Election</a><br />
+<a href="001467">Stanford: Day 50</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c3377">
+
+<p>Aaron Swartz wrote:</p>
+
+<blockquote>
+  <p>“This is the day to say hi to TGIQ,” I think to myself and my stomach immediately knots up at the prospect.</p>
+</blockquote>
+
+<p>I believe that in this kind of situation there is productive planning and counter-productive planning that can be done.</p>
+
+<p>Counter-productive planning would involve planning a specific complete &#8220;speech&#8221; that you plan to say. For instance, you might be rehearsing your exact opening line, or you might try to work out a perfect sentence for asking her to join you for coffee. If you&#8217;re nervous, then such planning is not likely to work well because you may fumble when attempting to deliver your lines, and it will sound rehearsed, and you may panic if you realize you left out one word or something.</p>
+
+<p>Productive planning could consist of learning to sense the rhythm of situations and when to break into a conversation. Timing is everything - both on a small scale and on a large scale. It&#8217;s like driving through a four-way stop: although planning can help you understand the general rules, you have to actually interact in real-time with the other cars at the intersection and adapt in order to make it through the intersection safely; you have to have a sense of timing and decide when in the flow of traffic it&#8217;s time to make your move. </p>
+
+<p>One strategy would be to pay attention to anything &#8220;unusual&#8221; happening that you could use as an opening line. Examples of possible first sentences out of your mouth to TGIQ:</p>
+
+<blockquote>
+  <p>That was some pretty crazy theory the professor talked about today, huh?</p>
+  
+  <p>Did you see how the professor got all worked up when he was talking about foo?</p>
+  
+  <p>You look pretty amused. Did you like the lecture today?</p>
+  
+  <p>You look pretty stressed. Class keeping you busy?</p>
+  
+  <p>You look thoughtful.</p>
+</blockquote>
+
+<p>The point is not to practice these specific lines, but instead to develop a situational awareness for situational cues that can be used as conversation starters or topics with strangers (like TGIQ). By using a situational cue, you&#8217;re striking some common ground with the other person. Cues fade after &#8220;a while&#8221; (the specific length of time depends on the situation); if something interesting happened one hour ago, it might not be appropriate to use that as a conversation starter; however, if something interesting happened 2 minutes ago, commenting on that could be a good conversation starter.</p>
+
+<p>The other useful (or necessary) skill to develop is the personal awareness of the other person to know when they are receptive to contact or when they are likely to reject contact. I can&#8217;t think of how to describe this (but obvious examples are if someone is having an argument with someone else, it might not be the best time to introduce yourself), but it&#8217;s again a sort of situational rhythm that you sense. Body language plays a role here; I&#8217;m sure there are hundreds of books on body language if you want to read up on it. Or you can just learn by the school of hard knocks like most of us ;-)</p>
+
+<p>Another practical note - whatever you do, for your initial contact, do not approach from behind and tap her on the shoulder to get her attention. Approaching from the back make you possibly seem like a stalker. Approach from the front. Then it&#8217;s clear that you are not sneaking up but instead intend to initiate communication.</p>
+
+<p>You may have seen the movie &#8220;American Beauty&#8221;. Remember the camcorder-kid (with the military dad) who filmed a lot of stuff? Remember how he first introduced himself to the girl at school? That&#8217;s a realistic depiction of a good way to introduce yourself. Confident, curious, laid back, slow, no pressure.</p>
+
+<p>As Mary Jane said to Peter Parker in Spider Man 2 - &#8220;Go get &#8216;em Tiger!&#8221;</p>
+
+<p>Mr. SW</p>
+
+<p class="posted">posted by  at November  7, 2004 05:31 AM <a href="#c3377">#</a></p>
+
+</div><div id="c3699">
+
+<p>I used to have a rule which said:
+You know you need to get out into the real world more often when the only places you visit begin with http:// and all your friends have an &#8216;@&#8217; in their name.</p>
+
+<p>But writing a URL on a piece of paper and expecting it to go there is, well, bordering on problematic&#8230;</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.crassnews.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3699">Martin</a> at January  4, 2005 08:10 AM <a href="#c3699">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001460.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1460" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

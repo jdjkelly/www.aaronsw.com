@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>This Month in Sociology (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>This Month in Sociology</h1>
+
+<p><em>based on <a href="http://caliber.ucpress.net/doi/abs/10.1525/ctx.2009.8.2.8">Contexts&#8217; sociology roundup</a></em></p>
+
+<p>A new study finds that marriage has been making people increasingly unhappy for the past 30 years. Even when they say they&#8217;re happy with their relationship, married people are unhappier overall. Indeed, the effect is so large that it cancels out the happiness gains the unmarried population has made in the past 30 years.</p>
+
+<p>Meanwhile, in Portugal the police have been arresting whole neighborhoods and transporting them all to jail. Now prisoners can serve with their old family and friends.</p>
+
+<p>Rich countries tend to be more accepting of minorities, while most strippers have terrible working conditions. Moving increases crime, the DUI gender gap is narrowing, and media coverage encourages sports hooligans. Young people are increasingly critical of war.</p>
+
+<p>Blacks are moving back to the south, while dual citizenship is increasingly permitted. Ugandans educated at foreign  colleges and universities are twice as likely to be employed as equally-educated Ugandans who never left and three times as likely to be employed as foreign-born immigrants.</p>
+
+<p>Appalachian boys prefer working with their hands to booksmarts.</p>
+
+<p><em>with apologies to <a href="http://www.harpers.org/subjects/WeeklyReview">Paul Ford</a> and Roger Hodge</em></p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">May 18, 2009</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>Citations that I could follow would be handy.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://tumbolia.org/">Noah Slater</a>
+ on May 20, 2009 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="socmon" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

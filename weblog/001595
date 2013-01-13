@@ -1,0 +1,198 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Stanford: Psychology is a Fraud (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001595.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001594" title="Stanford: Limerick" />	<link rel="next" href="001597" title="Jimbo Wales on Wikipedia" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Stanford: Psychology is a Fraud</h1>
+</div>
+
+<div class="content">
+<p class="dateline">February 9</p>
+
+<p>Today&#8217;s psychology lecture is on individual differences, what distinguishes between people&#8217;s personalities. The primary theory of the field, which admittedly has some initial plausibility, is called &#8220;dispositionism&#8221; &#8212; different people have different dispositions (honest, selfish, aggressive, etc.) which decide how they react in different situations.</p>
+
+<p>So, in the 1920s, they did some experiments to see if this was the case. For example, they put people in situations where they could steal cookies or cheat on a test or something and measured whether the two activities were correlated (i.e. people either did both or neither). The correlation was really weak. They did an experiment where they asked camp counsellors to rate whether they thought a student was extroverted or introverted every day and then compared the ratings for odd and even days. Again, no connection.</p>
+
+<p>In other words, they could find no evidence for this dispositionism &#8212; the same people behaved differently on different days and in different circumstances. A sane person would junk the theory at this point and try something else. Psychologists apparently are not very sane. Instead of dropping the theory, they decided to just ignore the experiments and keep on pushing dispositionism.</p>
+
+<p>To give a sense of the absurdity, the slide on this is called &#8220;The Consistency Paradox&#8221;. The paradox? That the psychologists really, really want to prove people are consistent, but they just can&#8217;t do it. I don&#8217;t think that&#8217;s called a paradox; I think that&#8217;s called dishonesty.</p>
+
+<p>Psychologists continued promoting this bogus view up until the late sixties, when Walter Mischel published a book (<em>Personality and Assessment</em>) pointing out that they were all frauds. (You can almost hear the anger in the professor&#8217;s voice at the guy&#8217;s audacity to expose the field.)</p>
+
+<p>It&#8217;s worth noting that while dispositionists continued pushing their theory without evidence, the contrary position, while apparently not taken very seriously by the psychology community, was racking up stunning results. Stanley Milgram found that you could make over 90% of people electrocute someone, sometimes to the point of a heart attack, just by putting them in the right situation. And Dr. Zimbardo found that you could make average college students into sadistic guards and submissive prisoners, just by putting them in a fake prison.</p>
+
+<p>Again, sane people might drop the dispositionism nonsense and adopt situationism. The psychologists instead decided to make their experiments less rigorous, which allowed them to get slightly better results for a much weaker theory. And so, to this day apparently, psychologists continue to support dispositionism despite the evidence.</p>
+
+<p>Finally, I want to apologize to Dr. Zimbardo. I previously suggested that the evidence for his time perspective trait idea was a little weak and this was probably why psychologists didn&#8217;t take it seriously. On the contrary, time perspective has more evidence than any of the traits supposed by &#8220;serious&#8221; psychologists and apparently is the only one to have some demonstrable effects. I think it&#8217;s generally a bad sign for your field when the crazy guy who makes stuff up routinely outperforms all the serious scientists.</p>
+
+<p class="posted">posted February 27, 2005 01:58 AM (<a class="category" href="cat_education">Education</a>) (<a href="#comments">4 comments</a>) <a href="001595" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001594" title="Stanford: Limerick">&laquo; prev</a> | <a href="./">up</a> | <a href="001597" title="Jimbo Wales on Wikipedia">next &raquo;</a></p>
+
+<p><a href="001590">Stanford: Sanity</a><br />
+<a href="001591">David Horowitz on Academic Freedom</a><br />
+<a href="001592">Stanford: Reach Out and Hug Someone</a><br />
+<a href="001593">Stanford: Allergic Reactions</a><br />
+<a href="001594">Stanford: Limerick</a><br />
+<strong>Stanford: Psychology is a Fraud</strong><br />
+<a href="001597">Jimbo Wales on Wikipedia</a><br />
+<a href="001596">Stanford: Roosevelt Institution Kickoff Party</a><br />
+<a href="001600">Stanford: You Really Don&#8217;t Have To Read This</a><br />
+<a href="001598">What can you say to that?</a><br />
+<a href="001599">The Republican Playbook</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c4061">
+
+<p>Now Aaron, There are many skeletons in psychology&#8217;s closet, many even more egregious than dispositionism.  But you taint the entire field.  A little measure, perhaps?</p>
+
+<p>Keep it up!</p>
+
+<p class="posted">posted by Fred at February 27, 2005 03:01 PM <a href="#c4061">#</a></p>
+
+</div><div id="c4067">
+
+<blockquote>
+  <p>Now Aaron, There are many skeletons in psychology&#8217;s closet, many even more egregious than dispositionism.  But you taint the entire field.  A little measure, perhaps?</p>
+</blockquote>
+
+<p>I have no doubt that many, perhaps even most psychologists do good solid work. But when people talk about a field, they talk about its core ideas and theories, its major discoveries. If psychology takes the completely unscientific attitude of ignoring the good, solid evidence when it makes up the theories, then yes, I feel I am justified in dismissing the field, at least in the sense of dismissing its contributions to societal debate and so on.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=4067">Aaron Swartz</a> at February 27, 2005 04:24 PM <a href="#c4067">#</a></p>
+
+</div><div id="c4084">
+
+<p>It&#8217;s results like these that pushed me in the direction of cognitive science (which itself has its weaker points in places).  The cognitive science field did seem to grow in part out of the dissatisfaction you mention.</p>
+
+<p class="posted">posted by Rich at February 27, 2005 11:30 PM <a href="#c4084">#</a></p>
+
+</div><div id="c4127">
+
+<blockquote>&#8220;Psychologists apparently are not very sane.&#8221;</blockquote>
+
+<p>They might have personalities predisposed toward dishonesty. Maybe they need psychological help. </p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.adamatlas.org" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=4127">Adam</a> at February 28, 2005 03:28 PM <a href="#c4127">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001595.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1595" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Talking Right (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Talking Right</h1>
+
+<p class="img"><a href="http://books.theinfo.org/go/1586483862"><img src="http://images.amazon.com/images/P/1586483862.01.MZZZZZZZ.jpg" alt="Book cover" /></a></p>
+
+<p>Government, John Dewey famously said, is the shadow cast by big business over society. And political language, Geoffrey Nunberg argues in <em>Talking Right</em>, is the shadow cast by government. Democrats, he points out, seem to think language has a talismanic power, that if only they can find the right catch phrase or slogan, they can pull people over to their side. &#8220;Liberal&#8221; must become &#8220;progressive&#8221;, &#8220;family values&#8221; must become &#8220;valuing families&#8221;. There&#8217;s an intellectual cleverness to such stunts, and as a Berkeley linguist, Nunberg must want to believe in them. But he doesn&#8217;t. The words, he explains, are just a side-effect of the larger political situation. Dewey explained that attempts to change the shadow will have no effect without a change in the substance, and Nunberg heartily agrees.</p>
+
+<p>It&#8217;s hard to see how it could be otherwise, but Democrats have suffered from a stubborn literalism in political discourse: thinking they can beat the charge of big government by launching programs cutting down on bureaucratic waste, thinking they can reclaim the issue of values by pointing to their love of tolerance and fairness, thinking they can dodge the charge of latte-sipping by donning a hunting cap and rifle. In reality, the issues go much deeper: big government is an attack on the notion that government can do good, values refers to a feeling of national morals run amok, and the latte-sipping charge is an attempt to distract voters from bigger issues of class. Nunberg even chastises his colleague George Lakoff for assuming that the current packages of political positions have any deeper meanings, rather than just being accidents of history.</p>
+
+<p>Nunberg is an essayist&#8212;his commentaries for NPR&#8217;s <em>Fresh Air</em> are a national treasure&#8212;and his style, while eminently readable, doesn&#8217;t translate well to a long book, where his points get lost in a field of anecdotes. But beneath all the stories about how conservatives eat more brie and liberal used to be a mantle claimed by everyone, Nunberg&#8217;s point is a familiar one: if the Democrats want to win, they must begin telling full-throated populist stories about how the economic elite are capturing the wealth of our country and how we need government to take it back. The point is no less true for being popular, and it&#8217;s heartening to find that investigation from yet another perspective yields the same conclusions.</p>
+
+<ul>
+<li><a href="http://books.theinfo.org/go/1586483862">Buy the book</a></li>
+</ul>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">October 17, 2006</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>What&#8217;s Nunberg&#8217;s argument against Lakoff&#8217;s moral models?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.gibberish.com/">misuba</a>
+ on October 17, 2006 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>Amusingly, it&#8217;s an extremely technical argument phrased in very popular language. His end goal is to argue that there&#8217;s no cognitive reason for the current set of issue correlations, that it&#8217;s just an accident of history that the culture war party is also the pro-business party.</p>
+
+<p>He does this by arguing that Lakoff&#8217;s model could be overfitted, that if the correlations went the other way around someone would come up with an equally nice story, even if human psychology stayed the same.</p>
+
+<p>And he does this by arguing that Lakoff&#8217;s methodology is suspect, that simply coming up with a metaphor that explains some evidence isn&#8217;t science, that such claims need some test of validity.</p>
+
+<p>Personally, I&#8217;m skeptical that issue correlations are simply accidents of history. But his critique of the methodology is quite convincing; that kind of casualness isn&#8217;t really appropriate for science. So while I don&#8217;t think it defeats Lakoff&#8217;s larger point, it&#8217;s easy to imagine one of his smaller claims made using the same methodology not being able to stand up to scrutiny.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com">Aaron Swartz</a>
+ on October 17, 2006 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>I&#8217;m not sure why Nunberg thinks it matters whether these issue correlations are a matter of innate structure or historical accident - we have to deal with them either way - but I guess I can read the book. Thanks.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.gibberish.com">misuba</a>
+ on October 18, 2006 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="talkingright" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

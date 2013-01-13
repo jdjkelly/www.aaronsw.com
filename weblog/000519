@@ -1,0 +1,57 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>IMS/ISC out of the ICANN Running (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000518" title="Introducing&#8230; Warchalking! The New Swhack!" />	<link rel="next" href="000520" title="Fireworks of Failure" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>IMS/ISC out of the ICANN Running</h1>
+</div>
+
+<div class="content">
+<p>ICANN has <a href="http://www.icann.org/tlds/org/preliminary-evaluation-report-19aug02.htm">proposed to give the dot-org bid to ISOC</a>. Despite the IMS/ISC&#8217;s <a href="http://not.invisible.net/MT/mt-comments.cgi?entry_id=55;start=0;limit=50">strong support from the community</a> and endorsements from captains of the industry, and the fact that it&#8217;s <em>run</em> by several people who have build important parts of the Internet&#8217;s core foundation, ICANN&#8217;s evaluatiors Gartner and Academic CIO have given them &#8220;bottom-tier&#8221; ratings in technical ability.</p>
+
+<p>In <a href="http://www.icann.org/tlds/org/gartner-evaluation-report-19aug02.pdf">the Gartner report</a> (PDF) after skipping through 20 pages of absolutely useless graphs and stock photography we come to their real reasons for rejecting the IMS/ISC proposal: &#8220;Did not demonstrate experience [&#8230;] Responses were very brief (few block diagrams) and many unknowns remain.&#8221; Few block diagrams?! They rejected it because it had too few block diagrams? Although it lauds it as &#8220;One of the few proposals that discusses non-technical components of the transition such as staffing&#8221; they then complain that &#8220;the applicant&#8217;s team does not have the demonstrated ability to conduct the type of transition needed&#8221;.</p>
+
+<p><a href="http://www.icann.org/tlds/org/ncdnhc-evaluation-report-19aug02.pdf">NCDNHC&#8217;s evaluation</a> (also PDF) states &#8220;This applicant&#8217;s approach to differentiaton was unique and, to some members of the committee, highly appealing, but also flawed in key respects.&#8221; They noted &#8220;this is the only applicant [interested] in &#8216;reducing the number of domains sold&#8217;&#8221; but complain it is weak in &#8220;articulating strategies&#8221;, market research and advertising. &#8220;We are concerned [&#8230;] this bidder [will simply] pursue their own notions of what is technically elegant or interesting.&#8221; </p>
+
+<p>&#8220;This bid has been extremely difficult to quantify. The principals have dedicated their professional lives to the Internet community, and the Comittee has the highest respect for their achievements.&#8221; Their open source promise is &#8220;a sincere comitment to manage the registry as a public resource&#8221; and &#8220;their transparency mechanisms are also impressive&#8221; but they have &#8220;no formal governance or input mechanism&#8221; and their bid was &#8220;highly personalized in the entreprenurial character of the bidders&#8221;. Donating to IETF and IAB showed concern only for the &#8220;traditional technical community&#8221; not the &#8220;broader noncommercial community&#8221;. </p>
+
+<p>However, they were number one in public support with a score of 84. Unity Registry was #2 at 28 and Internet Society was #3 at 22. Hm, anyne else see a gap between 84 and 22? They note that the endorsements were &#8220;disproportionately of owners of personal and family websites, bloggers and small-scale technical consultants.&#8221; Meanwhile, ISOC &#8220;does not seem to have sought or received [support] from outside fo ISOC.&#8221; Averaging the ratings put IMS/ISC in the number 2 slot, just after Unity Registry so they applied some made up &#8220;normalization&#8221; to push them down into third place, which they categorized as &#8220;middle-tier&#8221; (i.e. a B).</p>
+
+<p>This feels like some school assignment where the teacher won&#8217;t tell you what she wants, but then fails you because you didn&#8217;t include any pictures of flamingos. You could have easily added pink flamingos if you&#8217;d know that&#8217;s what they wanted, but you were supposed to read her mind to figure that out. Perhaps ISOC is a pretty good mind-reader, but it seems more likely that there was a little bit of talking going on behind the scenes. Now that they&#8217;ve learned their lesson, perhaps they&#8217;ll try again next time with a joint <a href="http://not.invisible.net/">IMS</a>/<a href="http://www.isc.org/">ISC</a>/<a href="http://www.imc.org/">IMC</a>/<a href="http://www.iss.net/">ISS</a> bid.</p>
+
+<p><a href="http://www.icannwatch.org/article.php?sid=904">ICANNWatch speculates why in an article entitled &#8220;Insiders win again?&#8221;</a>: &#8220;It will also reek of a &#8216;done deal&#8217; since people have been saying for more than two years that top ICANN honchos wanted to give .org to ISOC to bail it out of its financial hole.&#8221; Maybe ISOC wouldn&#8217;t need so much money if they didn&#8217;t spend it all on sponsoring O&#8217;Reilly conferences&#8230; An anonymous poster goes so far as to suggest that ICANN commisioned multiple evaluations and picked the one that best fit the result they wanted.</p>
+
+<p><a href="http://icann.blog.us/2002/08/19.html#a677">Bret Fausett is also highly skeptical.</a> &#8220;I thought someone had hacked my channel and was playing a joke on me.&#8221; &#8220;While Afilias may well have the best infrastructure, the idea that funds from .org registrants will be skimmed to support ISOC programs is not only bad policy but <a href="http://icann.blog.us/stories/2002/06/20/goodWorks.html">contrary to what the Board has previously expressed</a>.&#8221; Giving IMS/ISC a C grade &#8220;at least raises a question with me as to whether the evaluation process had the right set of priorities, since I don&#8217;t see how that team could rank below other proposals on the technical side.&#8221;</p>
+
+<p class="posted">posted August 20, 2002 11:00 AM (<a class="category" href="cat_technology">Technology</a>)  <a href="000519" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000518" title="Introducing&#8230; Warchalking! The New Swhack!">&laquo; prev</a> | <a href="./">up</a> | <a href="000520" title="Fireworks of Failure">next &raquo;</a></p>
+
+<p><a href="000513">Dr. Suess is Fifth Highest Grossing Dead Celebrity</a><br />
+<a href="000514">FREE THE MOUSE</a><br />
+<a href="000515">Car Factories and Post Offices</a><br />
+<a href="000516">Electronic Pulsing Spam-Killing Superbrain</a><br />
+<a href="000518">Introducing&#8230; Warchalking! The New Swhack!</a><br />
+<strong>IMS/ISC out of the ICANN Running</strong><br />
+<a href="000520">Fireworks of Failure</a><br />
+<a href="000521">Software and Source Code</a><br />
+<a href="000522">Vote Hank Perritt</a><br />
+<a href="000524">Dear Bigshot</a><br />
+<a href="000527">Scientology threatened by &#8220;unadulterated cyber-terrorism&#8221;</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

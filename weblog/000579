@@ -1,0 +1,45 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>iCal! (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000578" title="Pepper Author Speaks Out" />	<link rel="next" href="000582" title="RSS 3.0 Update" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>iCal!</h1>
+</div>
+
+<div class="content">
+<p>So today Apple released <a href="http://www.apple.com/ical/">iCal</a>, the Internet calendaring component of their application suite. It imports straight from Entourage, lets you publish calendars to the Web (<a href="http://ical.mac.com/aaronsw/Travel">here&#8217;s my travel calendar</a>) and <a href="webcal://ical.mac.com/aaronsw/Travel.ics">subscribe to it with one click</a> (although they invented a new URI scheme&#8230;).</p>
+
+<p>It integrates with Address Book (drag user to news item to invite them) and Mail (uses it to send invitations). Here at the OpenForce office, I&#8217;m converting all the Entourage users over.</p>
+
+<p class="posted">posted September 10, 2002 10:49 AM (<a class="category" href="cat_technology">Technology</a>)  <a href="000579" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000578" title="Pepper Author Speaks Out">&laquo; prev</a> | <a href="./">up</a> | <a href="000582" title="RSS 3.0 Update">next &raquo;</a></p>
+
+<p><a href="000571">Buy His Books, Sell Your Furniture</a><br />
+<a href="000573">Jaguar Ate My Life</a><br />
+<a href="000574">The Road to RSS 3.0</a><br />
+<a href="000576">Apple&#8217;s Guide to Cocoa Icons</a><br />
+<a href="000578">Pepper Author Speaks Out</a><br />
+<strong>iCal!</strong><br />
+<a href="000582">RSS 3.0 Update</a><br />
+<a href="000585">More Crazy Haxies</a><br />
+<a href="000587">CodeCon 2003</a><br />
+<a href="000588">Wayback Machine Adds Diff</a><br />
+<a href="000591">The Last Straw</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

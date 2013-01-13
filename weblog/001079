@@ -1,0 +1,61 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>The Procrastination Paradox (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/001079.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001078" title="Nader for Activists" />	<link rel="next" href="001080" title="This American Life on Voting and Politics" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>The Procrastination Paradox</h1>
+</div>
+
+<div class="content">
+<p><em>Hello, my name is Aaron and I&#8217;m a procrastinator.</em> Everybody procrastinates. We hit some mental wall that prevents us from doing a task we know we should do, but we just don&#8217;t want to. For most people, however, it isn&#8217;t a problem. Most people either work on tasks that don&#8217;t require a lot of creativity, or they work on them with someone else. Either will help you overcome the wall. But when you&#8217;re alone in thought, the problem grows to take over you. And nowhere is this more common than in programmers.</p>
+
+<p>(It&#8217;s also common in students, of course, who are in a similar situation. But I&#8217;ve <a href="http://www.aaronsw.com/school/" title="Schoolyard Subversion: my year of radical education proposals">talked enough about schools</a>, I want to talk about geeks.)</p>
+
+<p>Most find techniques to make the problem managable. (In fact, pair programming is in part a way to get around the problem by removing the solitary component.) But lately I&#8217;ve been wondering: what&#8217;s the root cause? Why do humans have this problem?</p>
+
+<p>The obvious answer is that we&#8217;re just want to do things that are enjoyable, but that can&#8217;t be true. I often put off a task I find highly enjoyable (like programming) to do something incredibly boring (like pull crumbs out of my keyboard). So then it must just be that we put off tasks that require a lot of thought, right? But <a href="http://www-csli.stanford.edu/~john/procrastination.html">Structured Procrastination</a> (also very popular among geeks), while in part humorous, is also strikingly true: we&#8217;ll happily do the work we&#8217;re putting off if there&#8217;s a more important task we can put off by doing it. (Read <a href="http://www-csli.stanford.edu/~john/procrastination.html">the article</a> for a full explanation.)</p>
+
+<p>There&#8217;s only one explanation that makes sense: it&#8217;s not anything intrinsic to the task, but the outside importance of the task that makes us procrastinate. But what possible reason could we have for putting off tasks that are important? It seems like a totally bizarre thing for our brains to do.</p>
+
+<p>The puzzle began to crack when I remembered the work of Alfie Kohn, in particular his article <a href="http://www.gnu.org/philosophy/motivation.html">Reward Often No Motivator</a> and the resulting book <a href="http://www.alfiekohn.org/books/pbr.htm">Punished by Rewards</a>. Kohn shows that for creative work, tasks that are externally motivated are done less creatively than those that are internally motivated. In other words, if you sit down to write a poem, and I offer to pay you $5 if it&#8217;s good, you&#8217;ll write a worse poem than if I hadn&#8217;t made my offer!</p>
+
+<p>Kohn has a particular focus on schools, and, <a href="http://markbernstein.org/Nov0301.html#note&#95;35225">as Mark Bernstein recently pointed out</a>, &#8220;Writing for your friends and family is great. Writing for your teacher, so you can get a good grade, is misery.&#8221; I should have remembered this. Otherwise fun exercises, when done for school, become pure torture.</p>
+
+<p>But we&#8217;re back to where we started again. What&#8217;s the reason for all this? Why would our bodies not want to do things other people told us to? The only explanation that makes sense to me is that it&#8217;s some sort of self-protection mechanism to prevent us from being used as thought-slaves. <code>Ha ha!'' says the brain,</code>you can&#8217;t tell me what to think about because as soon as you do, I&#8217;ll try to go do something else!&#8221;</p>
+
+<p>Unfortunately for the brain, in this era of &#8220;information workers&#8221; we&#8217;ve all become thought-slaves for the man.</p>
+
+<p><em>Have another idea about procrastination? <a href="mailto:me@aaronsw.com">Submit a comment!</a></em></p>
+
+<p class="posted">posted November 23, 2003 10:52 AM (<a class="category" href="cat_personal">Personal</a>)  <a href="001079" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001078" title="Nader for Activists">&laquo; prev</a> | <a href="./">up</a> | <a href="001080" title="This American Life on Voting and Politics">next &raquo;</a></p>
+
+<p><a href="001074">Movie Reviews (Kill Bill, Matrix Revolutions)</a><br />
+<a href="001075">Nip/Tuck: The Best Drama on TV</a><br />
+<a href="001076">Nader for America</a><br />
+<a href="001077">Nader for Geeks</a><br />
+<a href="001078">Nader for Activists</a><br />
+<strong>The Procrastination Paradox</strong><br />
+<a href="001080">This American Life on Voting and Politics</a><br />
+<a href="001081">Eldred Argument: You. Are. There.</a><br />
+<a href="001082">EMP Man</a><br />
+<a href="001083">Eye Exercises</a><br />
+<a href="001085">Our Brave Censors</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

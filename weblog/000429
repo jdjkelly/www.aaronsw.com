@@ -1,0 +1,59 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>you may already have one (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000425" title="i&#8217;m not dead yet" />	<link rel="next" href="000431" title="loose clothes == loose morals" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>you may already have one</h1>
+</div>
+
+<div class="content">
+<p>I&#8217;m getting lots of OSCON spam all of the sudden. I guess someone&#8217;s spamming the Who&#8217;s Who list.</p>
+
+<p>Theodore Gray of Wolfram has <a href="http://theodoregray.com/BrainRot/">a wonderful rant on educational software</a>. It covers everything from why we shouldn&#8217;t be afraid of calculators and other software that relieves kids of rote tasks to why video games are harmful (&#8220;The Army learned that the way to get soldiers to reliably pull the trigger was to use very basic, repetitive operant conditioning, along the lines of standard behaviorist theory.&#8221;) to why most educational software is awful (it&#8217;s made by the same people who make video games) all in a delightful dialog style filled with insight and humor. The only issue is that he uses &#8220;hard&#8221; when he means &#8220;complex&#8221;.</p>
+
+<p>Two years in the making&#8230; <a href="http://lists.debian.org/debian-devel-announce/2002/debian-devel-announce-200207/msg00011.html">Woody!</a> <em>Party time!</em></p>
+
+<p><a href="http://www.treedragon.com/ged/mc/te/officeformats.htm">McCusker on planned fragility</a>: &#8220;It&#8217;s likely true Office uses such inflexible code that feature changes do need file format changes.  But it&#8217;s certain this is <em>planned fragility,</em> in analogy to the better known concept of <em>planned obsolescence.</em> When formats are more fragile, it&#8217;s easy to force entire communities to upgrade software when new versions ship, because network effects punish users of old versions.&#8221;</p>
+
+<p>Russ Nelson has been trying to <a href="http://russnelson.com/dmca-hacking.html">hack the DMCA</a> too. He&#8217;s got <a href="http://russnelson.com/pads/">some One-Time-Pads</a> that might be interesting someday. My legal-oriented friends say this kind of thing doesn&#8217;t work, because if the courts think you&#8217;re playing games with them they&#8217;ll rule against you. Courts don&#8217;t work rationally like programs do.</p>
+
+<p>Cool, Kevin &#8220;PythonCard&#8221; Altis and <a href="http://russnelson.com/">Russ Nelson</a> are also giving lightning talks. I feel bad not being able to live up to such company. I wonder what else I could present.</p>
+
+<p>Judging from <a href="http://pgp.dtype.org:11371/pks/lookup?op=vindex&amp;search=0x2C54C8FA">the people who signed his key</a> Leland Wallace looks pretty interesting.</p>
+
+<p>Guido: &#8220;Your talk has been accepted for the Python Lightning Talks sessions&#8221;</p>
+
+<p>ugh, I better do something today or I&#8217;ll have wasted the whole week. (that&#8217;s called vacation.)</p>
+
+<p class="posted">posted July 19, 2002 10:58 AM (<a class="category" href="cat_others">Others</a>)  <a href="000429" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000425" title="i&#8217;m not dead yet">&laquo; prev</a> | <a href="./">up</a> | <a href="000431" title="loose clothes == loose morals">next &raquo;</a></p>
+
+<p><a href="000421">confessions of a time-waster</a><br />
+<a href="000422">MacWorld Keynote Coverage</a><br />
+<a href="000423">empty jaguar-skin wallet</a><br />
+<a href="000424">Reflections on the Keynote</a><br />
+<a href="000425">i&#8217;m not dead yet</a><br />
+<strong>you may already have one</strong><br />
+<a href="000431">loose clothes == loose morals</a><br />
+<a href="000432">A cure for nearsightedness?</a><br />
+<a href="000433">[insert something witty here]</a><br />
+<a href="000434">OSCON Bloggers</a><br />
+<a href="000435">everyone looks like me</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

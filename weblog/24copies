@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>A 24 Puzzle (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>A 24 Puzzle</h1>
+
+<p>Imagine you&#8217;ve kidnapped the President of the United States. You record her making a statement that, if published, will strengthen the international forces of evil. The military is about to blow up the building you&#8217;re in, so you have to get the video out electronically, but they&#8217;re monitoring your communications and will be able to put enormous pressure on anyone who receives a copy from you.</p>
+
+<p>Here&#8217;s the question: in the few minutes you have before the building is reduced to rubble, where do you upload the video to maximize the chance that it will get published?</p>
+
+<hr />
+
+<p>Alright, so your first inclination is to upload it to your servers, but that&#8217;s easy &#8212; they just seize your servers.</p>
+
+<p>So you upload it to YouTube and have Google copy it to all of their servers. But then they just call Google and have them delete it.</p>
+
+<p>Obviously if you had it on the front page of a popular website, that would solve things, but the front pages of popular websites are pretty closely guarded.</p>
+
+<p>You could try mailing it to WikiLeaks, but although WikiLeaks is pretty openminded, they may not actually want to strengthen the international forces of evil. The same goes for any other particular free speech activist you could name &#8212; dst, Cryptome, etc.</p>
+
+<p>Your best bet is probably to have a smart guy on the outside who keeps uploading it various places from behind Tor as older copies get deleted. But how many people have smart guys on the outside?</p>
+
+<p>You could try spamming it to a bunch of blogs, wikis, and other sites (or even by email or IM for that matter), but that&#8217;ll take too long &#8212; you only have a couple of minutes and probably a flaky connection to boot. There&#8217;s no way you can hit very many servers.</p>
+
+<p>You could publish it on a Tor hidden service, but then they&#8217;d probably just DOS the whole Tor network.</p>
+
+<p>Freenet seems too small and unreliable. Other P2P systems don&#8217;t even make copies except on request.</p>
+
+<p>Usenet seems like it should be a promising option, but does anyone use Usenet anymore?</p>
+
+<p>More promising options seem like emailing it to some kind of large mailing list. But which list has the most insane free speech activists? (cypherpunks? lkml?) And will it mail out all those copies before the Feds get it unplugged?</p>
+
+<p>How else do you get stuff onto lots of people&#8217;s machines? Web, Usenet, email, IM, HTTP access logs, DNS caches.</p>
+
+<p>Can you think of anything better?</p>
+
+<hr />
+
+<p>The current winner is <a href="http://www.aaronsw.com/weblog/24copies#c3">Andy Baio with</a>:</p>
+
+<blockquote>
+  <p>Upload it to Sharebee (which then sends it out to Megaupload, Rapidshare and a bunch of other anonymous hosting sites) and post the link to 4chan.  They&#8217;re big on evil over there.</p>
+</blockquote>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">March  4, 2009</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>Most mailing lists have a size limit for messages sent through them (including lkml), so most of them will be out. You&#8217;d probably end up having your attachment stripped, anyway.</p>
+
+<p>The answer to where you send your message is quite simple. The big hint is in the phrase &#8220;international forces of evil&#8221;. You send it to sympathetic people overseas.</p>
+
+<p class="posted">posted by Keith
+ on March  4, 2009 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>Upload it to a botnet (or pay for the privilege) and allow them to distribute and spam it for an indefinite period of time.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.kittyjoyce.com/eric/log/">Eric Sinclair</a>
+ on March  4, 2009 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>Upload it to Sharebee (which then sends it out to Megaupload, Rapidshare and a bunch of other anonymous hosting sites) and post the link to 4chan.  They&#8217;re big on evil over there.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://waxy.org/">Andy Baio</a>
+ on March  4, 2009 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>You are thinking basically about an activist panic button for data, right? Too many cops smashing cameras.</p>
+
+<p>It&#8217;s very tough without a confederate. Once you get it into friendly hands, even for a few minutes, they can spread it from there. Those international forces of evil probably have a server or two down in the old volcano lair.</p>
+
+<p>If you don&#8217;t have confederates the game is very different. You are then trying to get a piece of data into the hands of many many people who are not previously expecting it, on the hopes that a few will read it and act. That&#8217;s pretty much the definition of spam, no?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://carlos.bueno.org">Aristus</a>
+ on March  4, 2009 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>You need something that spreads because people are reading it. Upload to your site, then post Coral Cache links to Reddit and friends. (&#8220;Madame President&#8217;s Last Minutes [VID]&#8221;) Post it also to Feedburner and those kinds of sites &#8212; maybe the spambots will pick it up too.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://carlos.bueno.org">Aristus</a>
+ on March  4, 2009 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c6">
+<p>I&#8217;d send it to anyone on #thepiratebay.org irc. They&#8217;re the most likely to get it out for everyone to see and the least likely to remove it if asked.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://theysbeenspyin.blogspot.com">Jesse</a>
+ on March  4, 2009 <a href="#c6" rel="bookmark">#</a></p>
+</div>
+<div id="c7">
+<p>Rent time on a BotNet and send it out like spam.</p>
+
+<p class="posted">posted by Anonymous
+ on March  4, 2009 <a href="#c7" rel="bookmark">#</a></p>
+</div>
+<div id="c8">
+<p>Twitter</p>
+
+<p class="posted">posted by jd
+ on March  4, 2009 <a href="#c8" rel="bookmark">#</a></p>
+</div>
+<div id="c9">
+<p>Email to someone at CNN or Foxnews.  They&#8217;ll show it 150 times a day.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://smartic.us">bryanl</a>
+ on March  4, 2009 <a href="#c9" rel="bookmark">#</a></p>
+</div>
+<div id="c10">
+<p>It seems to me that Usenet would be an important piece in a solution to this puzzle, as it would be very difficult for the people who would prefer that you not get your recording out to remove that recording once it propagates throughout the Usenet network.  However, while this would make your recording available to many people, it would not alert them to the recording&#8217;s existence.</p>
+
+<p>With Andy Baio&#8217;s suggestion, how would your data be publicized?  Why should we assume that the administrators of &#8220;Megaupload, Rapidshare and a bunch of other anonymous hosting sites&#8221; would resist pressure to remove your data from their sites any better than we assume that Google would?  Note: I&#8217;m not familiar with these sites and am assuming that Andy meant that uploaders to the services are anonymous, not that the administrators of them are.  In this case, your anonymity would not, it seems, be advantageous.  Publication in a decentralized, replicated manner would be.</p>
+
+<p class="posted">posted by Phil Mocek
+ on March  4, 2009 <a href="#c10" rel="bookmark">#</a></p>
+</div>
+<div id="c11">
+<p>Send it to Al Jazeera&#8230;not succeptible to gov&#8217;t subpoenas, and doesn&#8217;t give a crap about the US, and capable of spreading it quickly.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://nerdlife.net">Brian</a>
+ on March  4, 2009 <a href="#c11" rel="bookmark">#</a></p>
+</div>
+<div id="c12">
+<p>Assuming you&#8217;re with the forces of evil, you probably have access to a botnet. You only need a short burst of several thousand machines to:</p>
+
+<ol>
+<li>Get the file on many computers (bonus points for playing the file automatically on reboot).</li>
+<li>Get the nodes sending the file to a list you&#8217;ve provided of media institutions that may be sympathetic.</li>
+<li>Get the nodes to simulate downloading (and the seeding) the file on the most popular bittorrent trackers. It only takes a few thousands of concurrent connections to make the top list of piratebay.</li>
+</ol>
+
+<p class="posted">posted by <a rel="nofollow" href="http://intellectronica.net/">Tom Berger</a>
+ on March  4, 2009 <a href="#c12" rel="bookmark">#</a></p>
+</div>
+<div id="c13">
+<p>The Sharebee idea is great&#8230; Many of those file upload sites are located outside the USA.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://quellhorst.org/">Dan</a>
+ on March  5, 2009 <a href="#c13" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="24copies" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

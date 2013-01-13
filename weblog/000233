@@ -1,0 +1,70 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Boston Trip Story (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/000233.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000231" title="Motion Blur" />	<link rel="next" href="000236" title="Me and My Shadow" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Boston Trip Story</h1>
+</div>
+
+<div class="content">
+<p>I groaned and woke up. Upon hearing me, Ben came into my room and asked me why I was waking up so late. I explained to him that I was waking up right on time. &#8220;Oh,&#8221; he said, &#8220;I woke up really early because I thought you were leaving then.&#8221; We hopped into the car and drove to the airport.</p>
+<p>I zoomed thru security and rushed to the gate only to find that I had an hour before the plane took off. So much for &#8220;heightened security measures require that you get to the airport 90 minutes early&#8221;, I thought. I pulled out <em>The Sky Road</em> and began reading. I boarded the plane and took off.</p>
+
+<p>We arrived, I grabbed a cab and went to &#8220;77 Massachusetts Avenue&#8221;. &#8220;MIT&#8221;, I told the cabbie as an afterthought. I paid and started walking briskly. Checking my watch I noticed I was half an hour early. I tried to get an Internet connection but MIT blocked my access. I looked for an open terminal, but they all required passwords. I decided to wait.</p>
+
+<p>First Roberto Mello showed up and soon more people began filing in. Unfortunately the room was locked, so I couldn&#8217;t get any Internet. I joked that I should crawl thru the airvent and &#8220;liberate&#8221; the terminals, as in MIT&#8217;s hacker days of yore. A professor of physics who overheard me said &#8220;Hackers? We don&#8217;t have any of those at MIT!&#8221;</p>
+
+<p>Finally Andrew Grumet came and let us in. He let me know that Philip wouldn&#8217;t be able to make it since he was picking up his new plane. We chatted for a bit, and then I presented. If you&#8217;re interested, you can see <a href="/2002/6171talk/outline">my notes</a> and <a href="/2002/6171talk/talk">the article-form version of the talk</a>. There were a good bunch of students there, a long with a table full of OpenACS people. It was a fancy concept classroom with lots of light, whiteboards, projectors and computer equipment. Everyone was very friendly.</p>
+
+<p>I excused myself to go join the W3C SWAD meeting, and walked the few blocks to Tech Square. I found the W3C&#8217;s floor, but didn&#8217;t see anyone I recognized. I checked my email using the available wireless network (which unlike the rest of MIT, was open) and found that no one was there that day. One person stayed home, another was sick, a third was called away to do something else and Tim Berners-Lee was in Japan. After taking a few photos, I left.</p>
+
+<p>Discouraged and looking for something to do, I hopped a cab to the Free Software Foundation&#8217;s offfices. As any free software programmer knows, the Free Software foundation is at Suite 330, 59 Temple Place, Boston, MA and you should write them to get a copy of the GPL if it was not included with your software. Due to the odd office numbering, I almost missed suite 330, but eventually knocked on the door and entered.</p>
+
+<p>Like you might expect, it was strewn with GNU paper, CDs and clothing. Lisa was kind enough to give me a tour of the offices. They had a second office upstairs, the plaque on the door reading &#8220;GPL Compliance Lab&#8221;. Inside was a surprisingly clean room (I guessed that it might actually be a reverse-engineering clean room) with a couple of programmers running GNOME on laptops. I began chatting with <a href="http://www.digitalspeech.org/jbw.shtml">Jonathan Watterson</a>, the FSF&#8217;s activist for digital freedom. We discussed the DMCA, Hollings Bill and BDPG. He said that he gave speeches at colleges, and was currently planning what to do in the summer, once school got out. Behind me, one of the programmers explaned the &#8220;all your base&#8221; phenomenon to Lisa.</p>
+
+<p>We went back downstairs and I bought a classic GNU T-Shirt. Lisa gave me a bunch of GNU reading material, some stickers and a bunch of buttons that said &#8220;Free All E-Book Readers & Programmers / Repeal the DMCA!&#8221; I thanked her and stuffed these into my backpack. I went to purchase the T-Shirt where another man entered my order information into an emacs RFC822 template. He hit a few keys and it generated and printed an invoice (number 11756). Lisa snuck me a GNU mug and I put everything into my backpack (which was getting bulkier and heavier). I looked around for copies of the GPL to be mailed, but didn&#8217;t find any. I guessed that they simply printed them on the fly when someone asked for them (which probably wasn&#8217;t very often). I thanked them all again and left.</p>
+
+<p>I took a cab back to MIT and began looking for a terminal. I found a monitor which showed the various printers on a map of campus. One of them was labeled &#8220;Hayden&#8221;. I&#8217;d heard that the Hayden library had terminals that anyone could use, so I committed the map to memory and walked over there. Sure enough, there were a bunch of windows machines available. I launched a web browser and used an SSH Java applet to log onto my server and see what was up. Soon enough it was time to go.</p>
+
+<p>I had arranged to meet my friend and MIT student Nada Amin at the campus ice cream shop. I sat down with my backpack and waited, reading the GNU literature to pass the time. I noticed that It was past time I was supposed to leave for the plane, and received a reminder phone call from my mother that I should get going now. Nada still hadn&#8217;t shown up. I decided to wait a bit longer and sure enough she came. She bought ice cream for the both of us and we chatted pleasantly. I eventually said that I had to unfortunately leave, and grabbed a cab.</p>
+
+<p>Back at the airport I encountered their new Enhanced Security Measures. For some reason they thought I was suspicious (I think it was the DMCA buttons) and so they searched my bag. Not finding anything, they had me get checked with one of the metal detector &#8220;wands&#8221;. They asked for my shoes and ran them thru the X-Ray machine. Finally they let me go.</p>
+
+<p>Again, when I got to the gate, I found I had an hour free. I grabbed my book again and started reading. After half an hour the plane arrived and some of the arriving passengers made references to the smell and the fact that a stewardess had gotten sick. They made an announcement that they were trying to solve the problem and would update us in half an hour, when the plane was originally scheduled to leave. After fifteen minutes, they announced that the flight was canceled, and there were no other flights, on any airline, to Chicago that night. Five minutes later they announced that they found one on Northwest, that went thru Detroit and arrived at 11PM. I got in line to change my ticket.</p>
+
+<p>I walked over to the Northwest terminal with my new ticket in hand, and went thru another Enhanced Security Checkpoint. Again I was flagged and they took my shoes and searched my bag. I finally made it thru and got to the checkpoint, and went to the gate. I got in line to check-in. They told me that I had been flagged for extra security measures and to go wait in line behind the red rope. Unfortunately, it seemed that everyone who had been transferred from the original flight had been flagged, and that these people made up 90% of the passengers. We formed two lines and both stretched the width of the terminal. I set my backpack down and waited.</p>
+
+<p>We flew to Detroit, where I got out into a surrealistic airport terminal that looked like an imitation of an airplane hanger. Large curved ceilings and sleek silver blocks everywhere. The main difference was that there was a humongous jumbotron television showing CNN, and all the signage was in Japanese. I hopped on the moving walkway and walked to the next gate. It had its own CNN jumbotron. I repeated this 3 times, seeing three more CNN jumbotrons before I got to my gate. I sat down and waited the hour until my flight took off.</p>
+
+<p class="posted">posted April 25, 2002 05:57 PM (<a class="category" href="cat_personal">Personal</a>)  <a href="000233" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000231" title="Motion Blur">&laquo; prev</a> | <a href="./">up</a> | <a href="000236" title="Me and My Shadow">next &raquo;</a></p>
+
+<p><a href="000224">Putting Books Online Increases Sales</a><br />
+<a href="000227">Differences</a><br />
+<a href="000228">Boston Trip</a><br />
+<a href="000229">NYTimes on Google&#8217;s DMCA Issues</a><br />
+<a href="000231">Motion Blur</a><br />
+<strong>Boston Trip Story</strong><br />
+<a href="000236">Me and My Shadow</a><br />
+<a href="000237">Mysteries of the Web Archive</a><br />
+<a href="000238">New Haircut</a><br />
+<a href="000239">Portal</a><br />
+<a href="000242">The Juxtaposition of Church and State</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

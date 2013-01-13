@@ -1,0 +1,197 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Cat in the Hat: Harmful to Minors? (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/001113.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001112" title="Counterpoint: Downloading Isn&#8217;t Stealing" />	<link rel="next" href="001114" title="Shorter Paul O&#8217;Neill" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Cat in the Hat: Harmful to Minors?</h1>
+</div>
+
+<div class="content">
+<p>Louis Menand on the Dr. Suess&#8217;s <cite>Cat in the Hat</cite>:</p>
+
+<blockquote>
+	<p>[T]his is a story about a woman who leaves two very young children alone at home all day with the front door unlocked, under the supervision of a fish. [&#8230;]</p>
+	
+	<p>Where is the mom? That&#8217;s really the question that all readers want to know. What kind of dangerous mission is she on? Is it an erotic errand, possibly a murderous errand? We don&#8217;t know. But the thing is that she is clearly behaving in a transgressive way [&#8230;]</p>
+	
+	<p>[T]he cat is this polymorphous character who is of indeterminate sexuality, who unleashes these two&#8212;we have to call them personified genitalia. I mean, what are they named? Thing One and Thing Two. That&#8217;s a very ancient Anglo-Saxon colloquialism. And these libidinal creatures run around the house. They terrify the children, who kind of capture them with a net. And then the cat puts them back in a box, of course, and takes them out again. But he&#8217;s introducing them to their libidos, &#8216;cause they&#8217;re very uptight little persons, Sally and me.</p>
+	
+	<blockquote>
+		<p>&#8216;In this box are two things I will show to you now. You will like these two things,&#8217; said the cat with a bow. &#8216;These things will not bite you, they want to have fun.&#8217; Then out of the box came Thing 2 and Thing 1. And they ran to us fast. They said, &#8216;How do you do? Would you like to shake hands with Thing 1 and Thing 2?&#8217; And Sally and I did not know what to do, so we had to shake hands with Thing 1 and Thing 2. We shook their two hands, but our fish said, &#8216;No, no. Those things should not be in this house. Make them go. They should not be here when your mother is not. Put them out, put them out,&#8217; said the fish in the pot.</p>
+	</blockquote>
+</blockquote>
+
+<p>Source: <a href="http://discover.npr.org/features/feature.jhtml?wfId=880228">Cat in the Hat</a>, All Things Considered. Quotes taken from NPR transcript.</p>
+
+<p>More: <a href="http://www.newyorker.com/critics/atlarge/?021223crat_atlarge">Cat People</a>.</p>
+
+<p>And while we&#8217;re quoting Louis Menand&#8230;</p>
+
+<blockquote>
+	<p>Katharine White once wrote to Norman Mailer asking if he would care to contribute a story to the magazine. He would not, Mailer replied, because he did not have the freedom to say &#8220;shit&#8221; in the <em>New Yorker</em>. White wrote back to suggest that perhaps Mr. Mailer did not understand the true meaning of freedom. Mailer answered that he did indeed understand the meaning of freedom: freedom meant being able to say &#8220;shit&#8221; in the <em>New Yorker</em>. n3</p>
+	
+	<p>[&#8230;]</p>
+	
+	<p>n3. See Norman Mailer, <em>The Armies of the Night: History as a Novel, The Novel as History</em> (New York: New American Library, 1968), 26.</p>
+</blockquote>
+
+<p>Source: Louis Menand, A Friend Writes: The Old <em>New Yorker</em>, included in <em>American Studies</em></p>
+
+<p class="posted">posted January 09, 2004 12:30 PM (<a class="category" href="cat_politics">Politics</a>) (<a href="#comments">2 comments</a>) <a href="001113" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001112" title="Counterpoint: Downloading Isn&#8217;t Stealing">&laquo; prev</a> | <a href="./">up</a> | <a href="001114" title="Shorter Paul O&#8217;Neill">next &raquo;</a></p>
+
+<p><a href="001105">Plea for Help</a><br />
+<a href="001106">Is it moral to plead the Fifth?</a><br />
+<a href="001107">Unspeakable Things</a><br />
+<a href="001111">Apple&#8217;s Secret Strategy: TV for Everyone</a><br />
+<a href="001112">Counterpoint: Downloading Isn&#8217;t Stealing</a><br />
+<strong>Cat in the Hat: Harmful to Minors?</strong><br />
+<a href="001114">Shorter Paul O&#8217;Neill</a><br />
+<a href="001115">Jefferson: Nature Wants Information to Be Free </a><br />
+<a href="001117">C-SPAN Crossfire</a><br />
+<a href="001118">Shorter George Lakoff: The Framing of Politics</a><br />
+<a href="001119">Bush Fear</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c174">
+
+<p>&#8220;Just because you can, doesn&#8217;t mean you should.&#8221; The obvious corollary being that simply because one has the right to do (or not do) something, does not necessarily make it a good idea. (And regarding your piece that almost ran in the New York Times, just because the mob of &#8220;democracy&#8221; want to do something doesn&#8217;t mean they have the right to do it. &#8220;If a million people do a foolish thing, it is still a foolish thing.&#8221;)</p>
+
+<p>-dj</p>
+
+<p>PS: Keep on bloggin&#8217; (and coding :)</p>
+
+<p class="posted">posted by <a href="mailto:dj@frogfarm.org">damaged justice</a> at January 11, 2004 09:04 AM <a href="#c174">#</a></p>
+
+</div><div id="c749">
+
+<p>Could Louis Menand be anymore up tight is the real question here folks. Its a childrens story for (un-&#8220;P.C.&#8221; word) sake. I&#8217;ve read numerous stories where the author gives an animal human attributes. I believe that in Dr. Suess&#8217; world a fish is perfectly capable of babysitting a couple of kids. Get a better hobby buddy.</p>
+
+<p class="posted">posted by <a href="mailto:mattsilentreflect@yahoo.com">matt </a> at March 21, 2004 07:12 PM <a href="#c749">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/001113.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/mt-comments.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1113" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /><br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

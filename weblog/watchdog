@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Welcome, watchdog.net (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Welcome, watchdog.net</h1>
+
+<p>As you&#8217;ve probably noticed, it&#8217;s political insanity season in the US. I can hardly go outside these days without running into someone complaining about the latest piece of campaign gossip. I&#8217;ve mostly tried to keep it off this blog, but it&#8217;s hard to not get swept up in the fever. As someone who wants to make a difference in the world, I&#8217;ve long wondered whether there was an effective way for a programmer to get involved in politics, but I&#8217;ve never been able to quite figure it out.</p>
+
+<p>Well, recent events and Larry Lessig got me thinking about it again and I&#8217;ve spent the past few months working with and talking to some amazing people about the problem. I&#8217;ve learned a lot and must have gone through a dozen different project ideas, but I finally think I&#8217;ve found something. It&#8217;s not so much a finished solution as a direction, where I hope to figure more of it along the way.</p>
+
+<p>So the site is called watchdog.net and the plan has three parts. First, pull in data sources from all over &#8212; district demographics, votes, lobbying records, campaign finance reports, etc. &#8212; and let people explore them in one elegant, unified interface. I want this to be one of the most powerful, compelling interfaces for exploring a large data set out there.</p>
+
+<p>But just giving people information isn&#8217;t enough; unless you give them an opportunity to do something about it, it will just make them more apathetic. So the second part of the site is building tools to let people take action: write or call your representative, send a note to local papers, post a story about something interesting you&#8217;ve found, generate a scorecard for the next election.</p>
+
+<p>And tying these two pieces together will be a collaborative database of political causes. So on the page about global warming, you&#8217;ll be able to learn more about the problem and proposed solutions, research the donors and votes on the issue, and see or start a letter-writing campaign.</p>
+
+<p>All of it, of course, is free software and free data. And it&#8217;s all got a dozen different APIs to make it easy for others to build on what we&#8217;ve done in their own work. The goal is to be a hub, connecting citizens, activists, organizations, politicians, programmers, and everybody else who&#8217;s interested in politics.</p>
+
+<p>The hope is to make it as interesting and easy as possible to pull people into politics. It&#8217;s an ambitious goal with many pieces and possibilities, but with all the excitement right now we want to get something up as fast as possible. So we&#8217;ll be developing live on watchdog.net, releasing pieces as soon as we finish them. Our first goal is to put up data about every representative and a way to write them.</p>
+
+<p>I&#8217;ve managed to find an amazing group of people willing to help out with building it so far. And the <a href="http://www.sunlightnetwork.com/">Sunlight Network</a> has encouraged me and graciously agreed to fund it. But we still need many more hands, especially programmers. If you&#8217;re interested in working on it, whether as a volunteer or for pay, please send me an email &#8212; <a href="mailto:me@aaronsw.com">me@aaronsw.com</a> &#8212; telling me what you&#8217;d like to help with.</p>
+
+<p>We only officially started work yesterday, so there&#8217;s not much up yet, but hopefully it&#8217;ll give you a sense of where we&#8217;re going:</p>
+
+<ul>
+<li><a href="http://watchdog.net/">Visit watchdog.net</a></li>
+</ul>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">April 14, 2008</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>Aaron, congrats on taking charge of such an important project.</p>
+
+<p>I saw on the website that you guys are hiring. Would it be required that job applicants to be US-citizens?</p>
+
+<p class="posted">posted by Raphael Lullis
+ on April 14, 2008 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<blockquote>
+  <p>I saw on the website that you guys are hiring. Would it be required that job applicants to be US-citizens?</p>
+</blockquote>
+
+<p>Nope. Our current crew of programmers is one US citizen living abroad and one Indian citizen living here.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on April 14, 2008 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>UK has had this for ages: http://www.theyworkforyou.com/ http://www.writetothem.com/</p>
+
+<p class="posted">posted by .
+ on April 14, 2008 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>I&#8217;m sure you know them already but I second taking a look at theyworkforyou.com and writetothem.com &#8212; very, very well made sites with fantastic information.  A lot of their (MySociety) code is available although I expect it is mostly UK-specific scrapers.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://bluebones.net">Thomas David Baker</a>
+ on April 14, 2008 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c7">
+<p>If you&#8217;re looking for a possibly useful idea:</p>
+
+<p>At one point I was trying to determine what the current set of laws were. Unfortunately, I couldn&#8217;t find an up to date version of &#8216;say&#8217; the constitution - because politicians approve bills that perform changes like:</p>
+
+<p>&#8220;take word 4 of the constitution section A, and change it to &#8216;thee&#8217;&#8221;</p>
+
+<p>It might be useful to turn these bills into DIFFs, and treat these documents are initial versions &#8212;- that way you&#8217;d be able to see the growth of federal documents.</p>
+
+<p class="posted">posted by Warren
+ on April 14, 2008 <a href="#c7" rel="bookmark">#</a></p>
+</div>
+<div id="c8">
+<p>I always thought it would be useful to have a site track promises (and forecasts) made by politicians.</p>
+
+<p>If someone makes a promise or boldly asserts something, it would be nice to make an entry into a website which was attached to a timer event, so that at the designated point in the future, the event surfaces up to anyone interested enough to subscribe to the data stream for that politician or topic.</p>
+
+<p>From there, some sort of voting system could make the more interesting ones bubble to the &#8220;front page&#8221;.</p>
+
+<p>There are a lot of reasons why this would be useful, but I&#8217;ll keep this post short: you want to keep politicians honest, and you want to give the populace a better long term memory. Maybe this will cause politicians to stop optimizing for the short-term.</p>
+
+<p class="posted">posted by Alex
+ on April 14, 2008 <a href="#c8" rel="bookmark">#</a></p>
+</div>
+<div id="c9">
+<p>I would third looking at the projects MySociety[0] run.</p>
+
+<p>[Footnote 0: http://www.mysociety.org/]</p>
+
+<p class="posted">posted by Daniel Watkins
+ on April 14, 2008 <a href="#c9" rel="bookmark">#</a></p>
+</div>
+<div id="c10">
+<p>I&#8217;m glad you put the code on github (it could be another public repository though), it&#8217;s worth a look and for sure worth a hack.</p>
+
+<p>Cheers,</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://yoan.dosimple.ch/blog/">Yoan</a>
+ on April 14, 2008 <a href="#c10" rel="bookmark">#</a></p>
+</div>
+<div id="c11">
+<p>Please take a look at this fascinating presentation by Hans Rosling:</p>
+
+<p>http://www.ted.com/index.php/talks/view/id/92</p>
+
+<p>I believe that if the ONLY goal of your project were to centralize data and most importantly to present it and organize it, connect it in a powerful and expressive way, that that would be something great.</p>
+
+<p>I hope I might be able to help in some small way in the future.</p>
+
+<p class="posted">posted by JB
+ on April 14, 2008 <a href="#c11" rel="bookmark">#</a></p>
+</div>
+<div id="c12">
+<p>You might also be interested in http://govtrack.us/</p>
+
+<p class="posted">posted by Brad
+ on April 14, 2008 <a href="#c12" rel="bookmark">#</a></p>
+</div>
+<div id="c13">
+<p>Aaron,</p>
+
+<p>Since you&#8217;ll be working with the Sunlight Foundation, I assume you&#8217;ve heard of OpenCongress (http://opencongress.org)? They have a very nicely designed site and some great people (the same group that works on Miro).</p>
+
+<p>And I&#8217;m not sure if you&#8217;re planning for this, but a system like watchdog could also be really useful outside of the US &#8212; many other societies have similar issues with keeping track of what politicians are up to.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://lingro.com/builder">Artur</a>
+ on April 14, 2008 <a href="#c13" rel="bookmark">#</a></p>
+</div>
+<div id="c14">
+<p>I think you should link up with the ChangeCongress movement.</p>
+
+<p>http://change-congress.org/</p>
+
+<p class="posted">posted by 
+ on April 14, 2008 <a href="#c14" rel="bookmark">#</a></p>
+</div>
+<div id="c15">
+<p>As a progammer who got involved in politics - and got driven out by &#8220;politics&#8221; - my take is &#8220;It&#8217;s really hard, and you [generic] are out of your area of expertise&#8221;.</p>
+
+<p>Though it&#8217;s certainly not a bad things <em>per se</em> to make database tools.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://sethf.com/">Seth Finkelstein</a>
+ on April 15, 2008 <a href="#c15" rel="bookmark">#</a></p>
+</div>
+<div id="c16">
+<p>Seth - Thats I think everyone would be interested to hear more about what you mean. You should write a blog post up, if you have not already.</p>
+
+<p>It might help to have the right expectations going in. Maybe all Aaron should focus on is extracting and presenting data, at least to start.</p>
+
+<p>I think any software that makes political action easier should be on a different site. Even if its heavily linked into watchdog.net via widgets or an API. It just seems a bit disjoint to be the same website&#8230; whats next, a social network? It&#8217;s too much for one site, and they should be spread out.</p>
+
+<p>It also means that if the programmers of this political action site fall to cynicism, the main data representation site is unscathed.</p>
+
+<p class="posted">posted by Alex
+ on April 16, 2008 <a href="#c16" rel="bookmark">#</a></p>
+</div>
+<div id="c17">
+<p>Big kudos to you, Aaron.  What a worthy cause for a project!</p>
+
+<p>And hey, I&#8217;d also recommend that you check out www.factcheck.org.  Quite an insightful, valuable site, and possibly a great one to pair up with.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.bladam.com/">Adam</a>
+ on April 16, 2008 <a href="#c17" rel="bookmark">#</a></p>
+</div>
+<div id="c18">
+<p>Alex, I actually wrote lots of blog posts chronicling my experiences on the topic. Nobody read them (to a first-order approximation). This one is perhaps the best single post:</p>
+
+<p><a href="http://sethf.com/infothought/blog/archives/000456.html" rel="nofollow">
+DMCA Exemptions Diary, a.k.a. more Why I Quit Censorware Research</a> (Or, as a subtitle, &#8220;I tried it that way, and it didn&#8217;t work&#8221;).</p>
+
+<p>Oversimplified, if you&#8217;re making meaningful change, somebody&#8217;s going to push back at you. If nobody&#8217;s pushing back at you, that&#8217;s a strong indication that what you&#8217;re doing is not going to affect the powers-that-be.</p>
+
+<p>Again, though, there&#8217;s nothing wrong with service sites. Rather, it&#8217;s that they&#8217;re just a tiny, tiny, part of a very big picture.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://sethf.com/">Seth Finkelstein</a>
+ on April 16, 2008 <a href="#c18" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="watchdog" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

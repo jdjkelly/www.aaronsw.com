@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>SFP: Fire Alarm (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>SFP: Fire Alarm</h1>
+
+<p>One of the hazards of dorm life is that fire alarms are always going off. At Stanford, here&#8217;s how it went the three or four times it happened last year: an alarm would go off, I wouldn&#8217;t hear it because I was in my room with my headphones on or asleep, eventually I&#8217;d notice or get woken up, I&#8217;d throw on my pants and walk downstairs and outside, where a group of kids would accumulate. After what seemed like an interminable wait in the shivering cold, a fire truck would show up, the firemen would walk inside and, after a couple minutes, walk out again. Then everybody would go back into the building even though nothing was actually explained.</p>
+
+<p>As it turns out, it worked much the same way here at MIT, except they have a new high tech talking fire alarm in every room to recite a paragraph of instructions &#8212; twice &#8212; before telling you to leave the building. When I got outside, there were much fewer people (it is summer after all) but and the fire trucks showed up much more quickly. And there were two of them! And after that, some policemen in their blue uniforms. And then, inexplicably, a gray MIT-logo van pulled up and a bunch of fat guys in suspenders (but no uniform) got out and went inside.</p>
+
+<p>But still, no explanation.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">June 16, 2005</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="mitfirealarm" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

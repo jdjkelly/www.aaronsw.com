@@ -1,0 +1,51 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Activity Log (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000824" title="War Tax" />	<link rel="next" href="000826" title="Small is Beautiful" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Activity Log</h1>
+</div>
+
+<div class="content">
+<p>About a week ago I started keeping <a href="http://www.aaronsw.com/log/">an activity log</a> on the Web. It details what I&#8217;ve done and plan to do on a day-to-day basis, along with some links and thoughts. It&#8217;s automatically generated from a file I update on my computer throughout the day.</p>
+
+<p>It has a simple little interface that allows you to filter for only the things you&#8217;re interested in (such as just website updates, just links and comments, just past and future activities). Each page has an RSS feed (the link is in the page header, so any decent RSS reader should be able to pick it up).</p>
+
+<p>I mainly plan to use it so that people know whether it&#8217;s a good time to reach me. (I want to add a &#8220;$n minutes ago, Aaron said he was $activity.&#8221; note to my homepage.) Also, I hope it will be a rich source of interesting statistics (&#8220;You have spent the equivalent of 3 months goofing off this year.&#8221;).</p>
+
+<p>I also hope that people more interesting than me will adopt something like this, so I&#8217;ve made the source code available (although it&#8217;s very messy). If you&#8217;re more interesting than me and want to adopt something like this and need help, let me know.</p>
+
+<p>Anyway, I hope that you might find this interesting or useful. Enjoy!</p>
+
+<p class="posted">posted January 27, 2003 03:50 PM (<a class="category" href="cat_personal">Personal</a>)  <a href="000825" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000824" title="War Tax">&laquo; prev</a> | <a href="./">up</a> | <a href="000826" title="Small is Beautiful">next &raquo;</a></p>
+
+<p><a href="000817">Happy Birthday to Mac</a><br />
+<a href="000820">Tolkien&#8217;s Lawyers Harass Small Publisher</a><br />
+<a href="000821">Between Iraq and a Hard Place</a><br />
+<a href="000823">Happy Birthday, Weblog!</a><br />
+<a href="000824">War Tax</a><br />
+<strong>Activity Log</strong><br />
+<a href="000826">Small is Beautiful</a><br />
+<a href="000828">Attention State Employees</a><br />
+<a href="000829">Why &#8220;Intellectual Property&#8221; is not Property</a><br />
+<a href="000831">Enabling IPv6 on OS X</a><br />
+<a href="000834">explain it to me</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

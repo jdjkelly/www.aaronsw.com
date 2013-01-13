@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>iCommons Summit (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>iCommons Summit</h1>
+
+<p class="dateline">Saturday, June 25 &#8212; Harvard Law School Campus</p>
+
+<p>After wandering around stupidly for about an hour, I see a crowd of people outside the one door I didn&#8217;t bother trying to open (all the others were locked). Yep, they&#8217;re definitely Creative Commons people. There&#8217;s Hal Abelson, who seems not to recognize me. And there&#8217;s Mike who says hi but then gets pulled away. I push inside and get a bottle of water. And there&#8217;s Larry Lessig! &#8216;Wow, you look like you&#8217;ve lost a million pounds,&#8217; Larry says. &#8216;Is that true?&#8217; &#8216;No, I don&#8217;t think I&#8217;ve lost a <em>million</em> pounds,&#8217; I reply.</p>
+
+<p>I didn&#8217;t think that the way I looked would change much. I would always be the little kid in the corner, the guy who definitely stands out. But then I was looking at some old photos of me receiving the ArsDigita prize and I realize I really do look rather different. Then I was ugly, short, fat, awkward, and poorly-dressed. Now I&#8217;m taller and definitely much thinner (although that seems to change), I wear better-looking clothes, and my face has become rather handsome-looking, especially on the occasions when I shave it. Now when I meet people they don&#8217;t recognize me &#8212; they wait until I introduce myself or  sort of stare at me blankly before they realize who I am &#8212; that never used to happen before.</p>
+
+<p>Anyway, I&#8217;m here to check out the iCommons summit. Creative Commons has grown from a couple former students of Larry&#8217;s to a large international &#8220;movement&#8221; (as all the speakers insist on calling it), the most prominent members of which have been flown out to Harvard from around the world thanks to Soros&#8217;s foundation. Charlie Nesson gives the day&#8217;s closing keynote, describing his vision of an indestructible world library.</p>
+
+<p>We then retire to Charlie Nesson&#8217;s house, which is the typical sort of cocktail party-type affair. When I&#8217;m not looking, Lessig gets pushed into Nesson&#8217;s pool. &#8216;I believe this is the only area where it is appropriate to say this,&#8217; says one legally-trained guest, &#8216;but he was asking for it.&#8217;</p>
+
+<p>When I tell him that I&#8217;m out here to start a company, a descendent of Robert Boyle (of Boyle&#8217;s law) offers to invest. &#8216;But we don&#8217;t have anything,&#8217; I insist. &#8216;That&#8217;s OK,&#8217; he says, &#8216;I&#8217;m sure you&#8217;ll succeed at some point.&#8217;</p>
+
+<p>I spend most of the night talking to Mike Linksvayer, who I end up walking back with, and we end up talking for hours outside the subway stop, long into the night, long after the subway has stopped running, so I buy a box of Cheerios and a bottle of water from a 7-11 and walk the way back to my dorm room, listening to radical radio shows podcast onto my iPod.</p>
+
+<p class="dateline">June 26</p>
+
+<p>The phone rings. It&#8217;s my father. &#8216;Hi, I&#8217;m here,&#8217; he says. &#8216;Oh. I forgot you were coming. I was just going to see Lessig give a closing keynote.&#8217; I agree to meet him on the way there and halfway between my dorm and his hotel, there he is, smiling widely. My dad and I have not really spoken in person since almost a year ago, when he used force and trickery to prevent me from going to FOO Camp in a stupid show of power. He&#8217;s much nicer now. I think he misses me.</p>
+
+<p>As we walk and talk a kid in front of us keeps looking behind at me. At first I think it&#8217;s something I&#8217;ve said, but he keeps doing it. Finally he stops and says, &#8216;Hey, you&#8217;re that weblogger guy, right?&#8217; &#8216;Yeah,&#8217; I say. &#8216;Aaron something. Yeah, I read your site.&#8217; &#8216;Wow,&#8217; I say. &#8216;Yeah, I&#8217;m here for the Linguistics summer school. Maybe I&#8217;ll see you around some time.&#8217; &#8216;Maybe,&#8217; I say hopefully.</p>
+
+<p>I ask if my Dad wants to come with to Lessig&#8217;s keynote and he agrees.</p>
+
+<p>I get to chat a bit with Ben Adida who, having been left with my legacy of using RDF for Creative Commons found himself chair of the RDF-in-HTML task force (quite possibly the worst job in the W3C &#8212; I should ask him how he did it sometime) and, now discovering that overnight a major competitor (Microformats, pushed by Technorati) has arisen, is trying to get them to convert. I&#8217;ve been friends with the Technorati guys and I take their position, telling Ben that it&#8217;s a hopeless endeavor. Ben is a little shocked at this &#8212; I was the one who got him on the RDF train after all &#8212; and pushes back. And eventually he manages to convince me that it wouldn&#8217;t require hardly any additional work from the Microformats guys to be RDF/A-compatible.</p>
+
+<p>Joi Ito waves from behind Ben.</p>
+
+<p>After Lessig&#8217;s speech, we head off and find dinner.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">July 26, 2005</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>Hm. http://www.formsplayer.com/notes/rdf-a.html</p>
+
+<p>The gap between RDF/A and microformats doesn&#8217;t seem to be that wide. Or maybe I&#8217;m missing something.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://robertbrook.com">Robert Brook</a>
+ on August 19, 2005 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="icommons" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

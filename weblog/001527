@@ -1,0 +1,253 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Stanford: Day 66 (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001527.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001526" title="Quick Takes" />	<link rel="next" href="001528" title="Stanford: Day 67" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Stanford: Day 66</h1>
+</div>
+
+<div class="content">
+<p>During an IHUM lecture, the professor mentioned the &#8220;Crisis of Democracy&#8221;, a 1970s Trilateral Commission report. The report, which was apparently very influential in the Carter Administration, explained that with women and minorities and so on all getting a chance to vote they were straining the democratic system, leaving it unable to function properly. The report pined for the old days when Truman was able to govern with the assistance of only a handful of major bankers and counseled moderation in democracy to overcome the crisis.</p>
+
+<p>It wasn&#8217;t entirely clear whether the teacher actually believed this so I went up afterwards to ask him. He proceeded to speak for minutes, waiting for the class to empty out and eventually walking out to the cafeteria, going on about all sorts of subjects, with very little clear content.</p>
+
+<p>There are several possibilities here:</p>
+
+<ol>
+<li>He knew what he was talking about and what I was talking about and was trying to scare me off the topic with fancy talk.</li>
+<li>He knew what he was talking about but had nobody else to talk to so he dumped all his recent thoughts on me.</li>
+<li>He had no idea what he was talking about so he just spouted some academic mush.</li>
+</ol>
+
+<p>I suspect reality lies somewhere between 2 and 3, which I guess tells you something about what fantastic people we have here in the higher reaches of academia.</p>
+
+<hr />
+
+<p>It&#8217;s really hard for me to remember faces. Foreign faces are impossible, which presents a problem since the only person who&#8217;s really expressed any interest in me is a cute Asian girl. She asked about the book I was reading one day, then asked me some follow-up questions the next, and continues to say hi to me when we pass in the hallways and such. At least, I think it&#8217;s her &#8212; I simply can&#8217;t tell. And I definitely can&#8217;t look for her in the lunchroom and sit down next to her. I&#8217;m terrible with faces. </p>
+
+<p>This causes me problems in movies, especially mystery movies. A character will put on a disguise or a new outfit and since I don&#8217;t really recognize his face, I&#8217;ll think it&#8217;s a different character, missing important plot points. Or a man we&#8217;ve met before will turn out to be lurking in the shadows of a new situation and since all we see is his face, I&#8217;m forced to start Googling for the script.</p>
+
+<p>I wonder what&#8217;s wrong with me. I&#8217;m not autistic; I&#8217;m perfectly capable of reading their emotions and modeling their minds &#8212; I just can&#8217;t remember their faces. It bugs me, especially since everybody seems to recognize mine. &#8220;Hi, Aaron,&#8221; continues the endless parade.</p>
+
+<p class="posted">posted January 28, 2005 01:58 AM (<a class="category" href="cat_education">Education</a>) (<a href="#comments">8 comments</a>) <a href="001527" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001526" title="Quick Takes">&laquo; prev</a> | <a href="./">up</a> | <a href="001528" title="Stanford: Day 67">next &raquo;</a></p>
+
+<p><a href="001517">Jeff Hawkins on the Brain</a><br />
+<a href="001518">Stanford: Day 63</a><br />
+<a href="001523">Stanford: Day 64</a><br />
+<a href="001524">Stanford: Day 65</a><br />
+<a href="001526">Quick Takes</a><br />
+<strong>Stanford: Day 66</strong><br />
+<a href="001528">Stanford: Day 67</a><br />
+<a href="001529">Home: Day 1</a><br />
+<a href="001530">Home: Day 2</a><br />
+<a href="001531">Home: Day 3</a><br />
+<a href="001533">Keeping Up with the Rosses</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c3806">
+
+<p><i>I wonder what’s wrong with me. I’m not autistic; I’m perfectly capable of reading their emotions and modeling their minds — I just can’t remember their faces. It bugs me, especially since everybody seems to recognize mine. “Hi, Aaron,” continues the endless parade.</i></p>
+
+<p>Well, as a stop-gap measure, try to remember what kind of fashion and accessories she wears - what kind of bag does she carry? What shoes? Shoes are important to women. More importantly, next time you see her, ask her out. If you go out, make sure you look and listen to her. </p>
+
+<p>But maybe you should spend less time blogging, and more time with face-to-face interaction with all these people who are friendly enough to say &#8220;Hi Aaron.&#8221; It shouldn&#8217;t bug you out, it should make you feel like you belong.</p>
+
+<p>Obviously, people respect you enough to acknowledge you. you are very lucky. Maybe you should try giving them some respect, and talk to them more. You certainly aren&#8217;t going to connect through your blog.</p>
+
+<p class="posted">posted by person at January 28, 2005 04:30 AM <a href="#c3806">#</a></p>
+
+</div><div id="c3807">
+
+<p>Just one more comment:</p>
+
+<p>The people are not a &#8220;parade&#8221; organized for your enterntainment. They are people going about their individual business. Maybe you can&#8217;t see the trees for the forest?</p>
+
+<p class="posted">posted by person at January 28, 2005 04:32 AM <a href="#c3807">#</a></p>
+
+</div><div id="c3810">
+
+<p><em>I wonder what’s wrong with me. I’m not autistic</em></p>
+
+<p>Autism isn&#8217;t really just a simple yes/no condition. It&#8217;s a spectrum. We all have some traits that in extremes are a feature of autism. If you&#8217;ve never seen it, take a look at the AQ test produced by Baron Cohen and others. Despite the url below (and their use of the word quotient) it is an evaluated research based tool.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.wired.com/wired/archive/9.12/aqtest.html" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3810">Test Link</a> at January 28, 2005 09:48 AM <a href="#c3810">#</a></p>
+
+</div><div id="c3811">
+
+<p>You might be interested in exploring the term &#8220;prosopagnosia&#8221;.  See http://www.neurodiversity.com/prosopagnosia.html.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://superluminal.com/dave/weblog/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3811">Dave Seidel</a> at January 28, 2005 09:50 AM <a href="#c3811">#</a></p>
+
+</div><div id="c3812">
+
+<p>http://www.alllooksame.com/ I fail too miserably at this kind of task.. ^^ 
+(the site owner is from japanese origin, before someone resort to the &#8220;you racist&#8221; attack)</p>
+
+<p class="posted">posted by Cn at January 28, 2005 09:50 AM <a href="#c3812">#</a></p>
+
+</div><div id="c3822">
+
+<p>Regarding the teacher, it&#8217;s always a possibility that he simply didn&#8217;t understand what you were asking.  I notice you don&#8217;t acknowledge this possibility; you seem to be very confident in the clarity of your verbal communication.  (I&#8217;m generally not so certain of my communication, although that&#8217;s just me.)  I&#8217;m typically a cynical person, but usually I tend to believe that people don&#8217;t actively try to deceive me when I talk to them.</p>
+
+<p>Also, to Cn, I would assume (and would hope) Aaron would delete comments accusing you of racism.  In general (and in this specific situation) I think the term racism (and its parent, discrimination) is batted around far more often than when it actually occurs.  I guess some people have trouble distinguishing the difference between genuine malice and thoughtful references to controversial material.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://whereswaldo.mit.edu/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3822">Jeff Walden</a> at January 28, 2005 09:51 PM <a href="#c3822">#</a></p>
+
+</div><div id="c3879">
+
+<p>My roommate has exactly the same problem.  Her solution is to tell people point blank that she doesn&#8217;t remember faces <em>at all</em> and to ask them to identify themselves when she runs into them.    </p>
+
+<p>Of course, the best thing is that we (the other roommates) get to play the &#8220;Is that Brad Pitt?&#8221; game with her whenever we watch movies.</p>
+
+<p>Us: Is that Brad Pitt?<br />
+Her: Yeah, I think so.  He&#8217;s blond, right?<br />
+Us: Yeah, that&#8217;s him.<br />
+[two minutes later, after Brad changes clothes]<br />
+Us: Is that Brad Pitt?<br />
+Her: No, that&#8217;s a new guy.  I think.  Isn&#8217;t he?<br />
+Us: Is he or isn&#8217;t he?<br />
+Her: Definitely not.<br />
+Us: Wrong!<br /></p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.margaretmaloney.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3879">Margaret</a> at February  1, 2005 06:30 PM <a href="#c3879">#</a></p>
+
+</div><div id="c3932">
+
+<p>See http://www.prosopagnosia.com/.</p>
+
+<p>&#8220;Face-blindness&#8221; is a well-documented and fairly well-understood condition.  There&#8217;s special hardware in the brain for recognizing faces, as distinct from other images.  If it&#8217;s defective, one will have trouble, in some cases severe trouble, remembering faces.  But the condition implies nothing about other cognitive abilities.</p>
+
+<p>As for that girl, this may sound awkward, but try the straightforward approach: &#8220;Hi, I&#8217;m pretty sure we sit next to each other in FooBar class, but I have a condition known as face-blindness and sometimes have trouble recognizing people.  Have I got the right person?&#8230;&#8221;</p>
+
+<p>If she&#8217;s put off by such a simple and direct description of the situation, then she&#8217;s not the girl for you anyway.  And if she&#8217;s fine with it, then you will have made one of the more memorable introductions in her day, which gives you a leg up on the competition.  Turn your situation into an advantage :-)&#8230;</p>
+
+<p>Good luck,</p>
+
+<p>-Karl</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.red-bean.com/kfogel/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3932">Karl Fogel</a> at February  8, 2005 02:59 PM <a href="#c3932">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001527.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1527" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

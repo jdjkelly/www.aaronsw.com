@@ -1,0 +1,607 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>The Theory of The Game (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>The Theory of The Game</h1>
+
+<p>I have to admit, there&#8217;s a part of me that gets no small enjoyment out of the fact that the first piece I wrote for a paying publication is nominally a review of a book on pick-up artists that actually ends up spending most of its time on glosses the history of American dating, discussions of foundational experiments in control of the emotions, the history of behaviorism in psychology, and the computer functionalist philosophy of mind. In other words, the typical article for <em>Other</em>.</p>
+
+<p>I originally planned to post the review here to my blog, but instead I bumped into Annalee Newitz while I was writing it, she expressed interest in it so I sent her the draft I had and next thing I knew it was getting included in the next issue of the magazine. Reading back over it, I&#8217;m not sure I have a more to say in its favor other than it&#8217;s definitely the weirdest review of <em>The Game</em> that will likely ever be published.</p>
+
+<p>A couple paragraphs got removed in the print version I have and the editors added subheads to break up the flow, but here&#8217;s the original piece as I sent it to them:</p>
+
+<p><a href="http://aaronsw.jottit.com/thegame">The Theory of The Game</a></p>
+
+<blockquote>
+  <p>For a couple of weeks, it seemed like all my friends were reading a thick black book with a leather cover and gold-edged pages. &#8220;Is that The Bible?&#8221; I finally asked them. &#8220;It might as well be,&#8221; said one. &#8220;It&#8217;s a guide to picking up girls,&#8221; another explained. I scrunched my face. &#8220;Oh, no no no,&#8221; the smartest one there said. &#8220;Think of it as an ethnography of a community of pick-up artists.&#8221; (<a href="http://aaronsw.jottit.com/thegame">More&#8230;</a>)</p>
+</blockquote>
+
+<p>If you like this kind of thing, consider picking up <a href="http://othermag.org/">a copy of <em>Other</em> magazine</a>, available in indie bookstores across San Francisco and thru the web site.</p>
+
+<p>(<em>Explanation in advance:</em> I know fans of computer functionalism (what a weblog to have such readers!) are going to attack me for my oversimplification of their views. Well, if you want, I&#8217;m happy to attack your views at length and the conclusion comes out basically the same. So bring it on.)</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">December 24, 2007</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>That&#8217;s a good review, Aaron. The AI comparison is spot-on: solving the same problem by vastly different means.</p>
+
+<p class="posted">posted by improbable
+ on December 24, 2007 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>Tyler Durden is the character played by Brad Pitt in Fight Club. Coincidence?</p>
+
+<p class="posted">posted by C Rose
+ on December 24, 2007 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>Well, I indeed believe your review suffers from some amount of mysticism stemming from your AI views. For example, here I&#8217;d say you&#8217;re in part knocking down a strawman here:</p>
+
+<p>&#8220;Instead, the AI proponents cheer loudly every time someone gets a computer to do something we think of as a human task. &#8220;Aha!&#8221; they proclaim. &#8220;Computers can beat humans at chess. How can we deny them humanity now?&#8221;&#8220;</p>
+
+<p>While there are pundits who would say that silly thing, you know serious researchers into cognition understand the difference between means and ends. To take a simple example, <em>walking</em> is in fact a very complicated task, and it&#8217;s very difficult to make a machine walk like humans do. But nobody claims walking embodies some deep aspect of the human condition which can&#8217;t ever be done by a machine, and that accomplishing getting from point A to point B by driving is the same thing.</p>
+
+<p>Anyway, it&#8217;s very doubtful how much the elaborate theory of the PUA&#8217;s is in fact true, as opposed to mumbo-jumbo tossed on top of some very simple stuff - &#8220;If you want to pick up girls in bars, sound halfway interesting and don&#8217;t be a jerk&#8221; (as well as some unpleasant stuff about the realities of the bar scene). You&#8217;d think, given the environment, someone would try some experiments. But there would be very little marketing incentive to report to that group that it&#8217;s nonsense, a kind of placebo effect.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://sethf.com/">Seth Finkelstein</a>
+ on December 24, 2007 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>From what you&#8217;ve written, I can&#8217;t tell if you are asserting that computers will never be able to replicate the functioning of the human brain or rather that a computer that does so will still be missing some magic ingredient required for human being-ness. Both of these assertions are non-obvious and I personally would like to see at least a precise argument for one of them: what, for example, does the fact that Deep Blue doesn&#8217;t mimic human thought processes tell us about the prospects for doing so?</p>
+
+<p>It also seems to me that you are conflating two different research agendas when you talk about AI. One attempts to build computer systems that are good at things that humans can also do (like play chess or understand natural language) and the other attempts to replicate exactly what human brains do. The former seems to be the focus of most current AI research and the latter to my knowledge is pursued by scientists studying the brain. If you are proposing that there are fundamental limits to what either of these research programs can accomplish, it would be interesting to know what exactly those limits are and why you believe they exist.</p>
+
+<p>Anyway, thanks for the interesting article!</p>
+
+<p class="posted">posted by ALaughRamp
+ on December 24, 2007 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>Good stuff.</p>
+
+<blockquote>
+  <p>J. B. Watson and B. F. Skinner begun denying it existed</p>
+</blockquote>
+
+<p>&#8220;Began&#8221;.  (I assume you&#8217;ll want to correct this because you
+corrected the same use of &#8220;begun&#8221; in chapter 3 of Bubble
+City.  [Hope to see more Bubble City soon, BTW.])</p>
+
+<blockquote>
+  <p>Skinner intended Walden Two as a utopia, but the story
+  reads like a dystopia more frightening than even Brave New
+  World.</p>
+</blockquote>
+
+<p>Indeed!  Ironically, though, Huxley wrote (in Brave New
+World Revisited if I remember correctly) something to the
+effect of &#8220;to prevent my dystopia from happening for real,
+we need to implement the ideas of B.F. Skinner&#8221;!  (I&#8217;m
+pretty sure he was serious.)</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://arundelo.com/">Aaron Brown</a>
+ on December 24, 2007 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c9">
+<p>The review of the PUA material was pretty much spot-on.  Very few PUAs take a step back from the material and try to understand why it&#8217;s working; they use it, it works, so they just keep doing it.  Really, all it does is take away your fear - fear of the unknown (script the entire conversation!) and fear of rejection (treat it as an experiment!).  Any guy who&#8217;s unafraid and at least somewhat interesting will have about the same success level as a &#8220;master PUA&#8221;.  As far as I can tell, the whole &#8220;Alpha Male&#8221; mythology that&#8217;s layered over the top of those basic truths has little to no scientific basis.</p>
+
+<p>Anyone could also overcome those fears by just going to bars over and over, and it wouldn&#8217;t take a smart guy very long to figure out the scene, but to most guys, that&#8217;s an absolutely terrifying ordeal.</p>
+
+<p class="posted">posted by Curt Hoyt
+ on December 28, 2007 <a href="#c9" rel="bookmark">#</a></p>
+</div>
+<div id="c10">
+<p>It seems to me that the author of this article is full of his own assumptions and biases which prevent him from seeing things with more nuanced goggles.</p>
+
+<blockquote>
+  <blockquote>
+    <p>The pick-up artist, by following a script of interesting-sounding things to say, by bringing props that the girl can easily comment on, by basically orchestrating the entire conversation in advance, comes into this room of copycats like a breath of fresh air.</p>
+  </blockquote>
+</blockquote>
+
+<p>OK, that a fair enough statement, but then he starts to tear it down as if it&#8217;s especially inauthentic, manipulative and deceitful.</p>
+
+<blockquote>
+  <blockquote>
+    <p>&#8220;Wow, this guy is so different,&#8221; you think&#8230; The guy isn&#8217;t especially interesting; he&#8217;s just bothered to pick up a script.</p>
+  </blockquote>
+</blockquote>
+
+<p>If the girl thinks the guy is interesting, who is the author to argue that he&#8217;s not? Maybe the author never gotten a reaction from a girl like that on his own, so he assumes that anyone who IS able to get strong positive feedback from a girl must be &#8220;cheating&#8221;. But what&#8217;s unfair about improving one&#8217;s game? Nearly any opening line is a canned statement. Asking a girl for a drink, asking if she &#8220;comes here often&#8221;, telling her she&#8217;s &#8220;really beautiful&#8221; are all prepared statements designed to elicit a certain response. The problem with the author&#8217;s analysis, as I see it, is that he assumes captivating openings which makes one stand out from the crowd are deceptive, which I think is total bunk.</p>
+
+<blockquote>
+  <blockquote>
+    <p>As you might guess, a system based upon treating women as objects and works by discovering ways to deceive them doesn&#8217;t really work over the long-term. But when you&#8217;re picking up new girls every night, it takes a while to notice that.</p>
+  </blockquote>
+</blockquote>
+
+<p>Treating women as objects and discovering ways to deceive them? What&#8217;s especially deceptive about asking two girls if they prefer chocolate or flowers? Or if they think women lie more than men? Or if they think it&#8217;s OK for men to wear pink? How do you suggest we open a conversation? Maybe tell them, &#8220;I&#8217;ve never been with a girl and I want you to be my first.&#8221; That might be honest but is it interesting and effective?</p>
+
+<p>So the author divides people into two groups: those who &#8220;treat women like objects and deceive them with prepared stories&#8221; and those who don&#8217;t. But not all prepared openings need to be &#8220;deceptive&#8221; or especially demeaning to a person. Making lewd statements, belitting someone, using intimidation, sexually harassing someone&#8212;those are ways of treating someone like an object, but The Game has nothing to do with techniques like that. So the two camps he&#8217;s artifically trying to divide people into simply doesn&#8217;t hold water.</p>
+
+<p>As far as whether this material can lead to a long-term relationship, the author seems to assume that no one who uses any prepared stories or dresses in a way that attracts attention could possibly be the least bit interesting. Yet again he&#8217;s dividing people into two groups: interesting vs not interesting. But why assume that guys with good game must score so much lower on the interesting person meter than anyone else in the bar? These seduction community techniques simply provide strategies and techniques to open groups and begin conversations with people in non-threatening ways so that you a least have a chance of connecting with them on a deeper level. There might certainly be &#8220;more interesting&#8221; guys at the bar, but if they are just sitting in the corner entertaining their buddies they don&#8217;t look very interesting compared to the guy with the funny hat doing coin tricks or analyzing your handwriting.</p>
+
+<blockquote>
+  <blockquote>
+    <p>The book is full of stories of nice girls being snatched away from their sweet, devoted boyfriends by the counterfeit charm of a pick-up artist.</p>
+  </blockquote>
+</blockquote>
+
+<p>Counterfeit charm? Nice. Are you sure their &#8220;devoted boyfriends&#8221; were devoid of all counterfeit charm when they first met, first dated, and first went to bed together? Devoted vs. not devoted&#8212;nice one!</p>
+
+<blockquote>
+  <p>a system based upon treating women as objects 
+  You treat them like objects, you find techniques that succeed on them as objects, and then you think of them as objects. And who wants a long-term relationship with an object?</p>
+</blockquote>
+
+<p>This idea of treatment women as objects amounts to a dumbbell theory. Dumbell theories are when you take something and divide it into two extremes, like Good vs. Bad, Conscious vs. Unconscious, Left-brain vs. Right-brain, Intellectual vs. Emotional. They provide just enough parts to tell stories of conflicts, but are rares an accurate portrayal of how things really work.</p>
+
+<p>People do all sorts of things to attractive attention to themselves and appeal to the opposite sex. Make-up, hair dye, high heels, fashion, tatoos and jewelry to name a few. Behaviorally we tell jokes, we tell stories to make ourselves look noble or wise, we use manners and etiquette to make people feel at easy and to demonstrate good upbringing. How are opening lines and fashion tips from The Game any more deceptive than any other attempts at appealing to others?</p>
+
+<p>The Game isn&#8217;t about treating women as objects. It&#8217;s not about degrading them, intimidating them, harassing them, or anything like that. Yes, some of the techniques involve teasing, but it&#8217;s harmless stuff like &#8220;those shoes look comfortable&#8221; or &#8220;your teeth remind me of Bugs Bunny&#8221; nothing malicious or abusive.</p>
+
+<p>I think the writer of this article really failed to understand what The Game is all about. There are plenty of guys in the world who are very decent people. They have hobbies, stories, ideas, hopes and dreams, but when it comes to women, they are simply too shy and too unsure of themselves. They lack the confidence required to to face an attractive woman in a public place, surrounded by people who can hear and see your performence and witness painful and embarrassing rejection.</p>
+
+<p>The seduction community attempts to arm these guys with a set of theories, ideas and techniques to help them better navigate the dating scene in a way that presents themselves in the best light. And these guys are learning that even if they aren&#8217;t the tallest or the most handsome guy at the bar, even if they aren&#8217;t wearing the most expensive clothes, they still deserve to date an attractive lady as much as the next guy. And some of these techniques, when properly applied, give them the confidence to approach women without looking like a needy dork, and sooner or later these small successes translate into geniune confidence and real social adeptness.</p>
+
+<blockquote>
+  <blockquote>
+    <p>Instead, the AI proponents cheer loudly every time someone gets a computer to do something we think of as a human task. &#8220;Aha!&#8221; they proclaim. &#8220;Computers can beat humans at chess. How can we deny them humanity now?&#8221; But their computers don&#8217;t play chess at all like humans do.</p>
+  </blockquote>
+</blockquote>
+
+<p>Sorry, but no one doing serious research in AI believes computers play chess exactly as humans do, and I don&#8217;t believe the seduction community is full of people who believe people are devoid of subjective experience. Discerning readers will find that straw man arguments like these hurt more than help your arguments.</p>
+
+<p class="posted">posted by Cowboy in Tokyo
+ on December 29, 2007 <a href="#c10" rel="bookmark">#</a></p>
+</div>
+<div id="c11">
+<p>Aaron, I think you&#8217;ve made an argument against behaviouralism and put it in the shiny clothes of an argument against functionalism.</p>
+
+<p>Functionalism allows for internal processes with unbounded complexity, subtlety and variation.  All of your argumentsare based on the simple predictability and manipulability of behaviouralism.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://reworld.org">Peter Eckersley</a>
+ on December 29, 2007 <a href="#c11" rel="bookmark">#</a></p>
+</div>
+<div id="c12">
+<p>Top Ten Problems with Cowboy&#8217;s Argument (in order of appearance):</p>
+
+<ol>
+<li>&#8220;If the girl thinks the guy is interesting, who is the author to argue that he&#8217;s not? &#8220;</li>
+</ol>
+
+<p>The problem is, the girl doesn’t think the  guy is interesting. The girl thinks the <em>role</em> the guy is playing is interesting.</p>
+
+<ol>
+<li>&#8220;[The author] assumes captivating openings which makes one stand out from the crowd are deceptive.&#8221;</li>
+</ol>
+
+<p>They are, if they aren’t original. Pick-up lines are ineffective, mostly because they come off as corny. They sound fake. These are just as fake, they just don’t appear to be. That&#8217;s deceptive.</p>
+
+<ol>
+<li>&#8220;What&#8217;s especially deceptive about asking two girls if they prefer chocolate or flowers? Or if they think women lie more than men? Or if they think it&#8217;s OK for men to wear pink? How do you suggest we open a conversation? Maybe tell them, &#8220;I&#8217;ve never been with a girl and I want you to be my first.&#8221; That might be honest but is it interesting and effective?&#8221;</li>
+</ol>
+
+<p>That’s exactly the author&#8217;s point. To reverse your question, it may be interesting and effective, but it is honest? What do you value more – effectiveness, or honesty? If you&#8217;re not being honest, you&#8217;re being deceptive.</p>
+
+<ol>
+<li>&#8220;But not all prepared openings need to be &#8220;deceptive&#8221; or especially demeaning to a person. Making lewd statements, belitting someone, using intimidation, sexually harassing someone&#8212;those are ways of treating someone like an object, but The Game has nothing to do with techniques like that. So the two camps he&#8217;s artifically trying to divide people into simply doesn&#8217;t hold water.&#8221;</li>
+</ol>
+
+<p>Sure it does. There is certainly a qualitative difference between openly devaluing women (e.g. harassment and belittlement)  and viewing women as finite state machines (e.g. run this routine -> get a phone number). But the fact is, neither of these views are of women as individual human beings.</p>
+
+<ol>
+<li>&#8220;Why assume that guys with good game must score so much lower on the interesting person meter than anyone else in the bar?&#8221;</li>
+</ol>
+
+<p>The author is not making this assumption. What he is assuming is that guys who are <em>faking</em> good game are less interesting than strong, interesting, and <em>naturally attractive</em> personalities.</p>
+
+<ol>
+<li>&#8220;These seduction community techniques simply provide strategies and techniques to open groups and begin conversations with people in non-threatening ways so that you a least have a chance of connecting with them on a deeper level.&#8221;</li>
+</ol>
+
+<p>Which is, in general, a good thing; however, what you’re leaving out is the fact that it is done with an ulterior motive – the men the author is talking about don’t just want to “connect on a deeper level” with women. They want to get in their pants. It would be great if PUAs put these skills to use to be more sociable people; unfortunately, it is most often the case that sociability is only directed towards “getting” girls, rather than being interesting and sociable with people of both genders, in all situations.</p>
+
+<ol>
+<li>&#8220;This idea of treatment women as objects amounts to a dumbbell theory.&#8221;</li>
+</ol>
+
+<p>Admittedly, it is a generalization. The fact remains, it is <em>generally</em> true, although there are nuances that are left out.</p>
+
+<ol>
+<li>&#8220;How are opening lines &#8230; any more deceptive than any other attempts at appealing to others?&#8221;</li>
+</ol>
+
+<p>Because unlike with physical modifications a) a fake personality can be drastically different from a real one, and b) the distance between fake and real personalities can be far greater than between, for example, made-up and “natural” faces.</p>
+
+<ol>
+<li>&#8220;Some of the techniques involve teasing, but it&#8217;s harmless stuff &#8230; nothing malicious or abusive.&#8221;</li>
+</ol>
+
+<p>Again, you make the mistake of equating objectification with malice and abuse.</p>
+
+<ol>
+<li>&#8220;There are plenty of guys in the world who are very decent people. They have hobbies, stories, ideas, hopes and dreams&#8230;&#8221;</li>
+</ol>
+
+<p>This is the biggest problem with the pick up scene. These men need to learn to share <em>those</em> stories, hopes, and dreams with people in constructive, genuine, and interesting ways, rather than using generalized, impersonal material that isn’t necessarily relevant to them as individuals. The pick up scene has a lot to offer, especially in terms of &#8220;inner game.&#8221; Where it goes astray is in making it rote and impersonal, rather than true interaction on a deeper level.</p>
+
+<p class="posted">posted by GBM
+ on December 30, 2007 <a href="#c12" rel="bookmark">#</a></p>
+</div>
+<div id="c13">
+<p>P.S. Sorry for the annoyance; I didn&#8217;t realize the numbers wouldn&#8217;t come through.</p>
+
+<p class="posted">posted by GBM
+ on December 30, 2007 <a href="#c13" rel="bookmark">#</a></p>
+</div>
+<div id="c14">
+<blockquote>
+  <p>The problem is, the girl doesn&#8217;t think the guy is interesting. The girl thinks the role the guy is playing is interesting.</p>
+</blockquote>
+
+<p>Oh dear. We are all but actors and the world is our stage.</p>
+
+<blockquote>
+  <p>&#8220;[The author] assumes captivating openings which makes one stand out from the crowd are deceptive.&#8221; 
+  They are, if they aren&#8217;t original.</p>
+</blockquote>
+
+<p>Consider these openings:
+-Can I buy you a drink?
+-You have a beautiful smile.
+-Do you come here often?
+-How&#8217;s it going?</p>
+
+<p>Are they original? No. Are they deceptive? According to your logic, if they aren&#8217;t original they must be deceptive.</p>
+
+<p>Interesting that you feel that way, but I think you&#8217;re throwing logic and commonsense out the reason to make a petty point.</p>
+
+<blockquote>
+  <p>Pick-up lines are ineffective, mostly because they come off as corny. They sound fake. These are just as fake, they just don&#8217;t appear to be. That&#8217;s deceptive.</p>
+</blockquote>
+
+<p>First, The Game doesn&#8217;t really have pick-up lines. They have Openings. The difference is that once you use a pick-up line, you&#8217;re on your own. But Game styles openings usually have various branches that you can take, each typically designed to increase your perceived value. But you certainly don&#8217;t have to stick to someone else&#8217;s material. You are encourged to create your own. But the Mystery Method and other systems supply theories and guiding principles. Second, the purpose of Openings isn&#8217;t to instantly woe someone into bed. They are still ways to start conversations with someone in a non-threatening way. They get your door in the door so you can start to build comfort and, if you play your game well, move to the seduction phase. Building comfort is the longest stage of the game, and the most challenging for &#8216;social robots&#8217; who just memorize canned stories.</p>
+
+<blockquote>
+  <p>&#8220;What&#8217;s especially deceptive about asking two girls if they prefer chocolate or flowers? Or if they think women lie more than men? Or if they think it&#8217;s OK for men to wear pink? How do you suggest we open a conversation? Maybe tell them, &#8220;I&#8217;ve never been with a girl and I want you to be my first.&#8221; That might be honest but is it interesting and effective?&#8221; 
+  That’s exactly the author&#8217;s point. To reverse your question, it may be interesting and effective, but it is honest? What do you value more – effectiveness, or honesty? If you&#8217;re not being honest, you&#8217;re being deceptive.</p>
+</blockquote>
+
+<p>I think you&#8217;re reading way too much into this. How honest is asking somone: how you doing today? Do you really want to know all the details of their day? Trying to defraud someone out of money is deceptive. Lying to a girl about your committment to her so you can sleep with her is deceptive. Asking her if she thinks it&#8217;s OK for men to wear pink isn&#8217;t deceptive. It&#8217;s called making conversation.</p>
+
+<blockquote>
+  <p>&#8220;But not all prepared openings need to be &#8220;deceptive&#8221; or especially demeaning to a person. Making lewd statements, belitting someone, using intimidation, sexually harassing someone&#8212;those are ways of treating someone like an object, but The Game has nothing to do with techniques like that. So the two camps he&#8217;s artifically trying to divide people into simply doesn&#8217;t hold water.&#8221; 
+  Sure it does. There is certainly a qualitative difference between openly devaluing women (e.g. harassment and belittlement) and viewing women as finite state machines (e.g. run this routine -> get a phone number). But the fact is, neither of these views are of women as individual human beings.</p>
+</blockquote>
+
+<p>Think of it as self-marketing. All advertising and marketing is not deceptive. You can make honest, accurate statements about a product&#8217;s features, it&#8217;s effectiveness, and the benefits to the user without being deceptive or dishonest in any way. But are you &#8216;treating people like objects&#8217; if you try to anticipate and address their concerns in order to close the sale? Anytime we negotiate with anyone about anything aren&#8217;t we &#8220;running routines&#8221; on them? If I tell my boss that I deserve a raise because of x, y and z accomplishments and because I&#8217;m being paid under market-value etc am I treating him like an finite state machine?</p>
+
+<p>So how do you get a girl&#8217;s phone number or score a date with a lady? And what makes your technique so pure and innocent compared to any attempt I might make? I think you arguments amount to little more than a pathetic smear campaign.</p>
+
+<blockquote>
+  <p>&#8220;Why assume that guys with good game must score so much lower on the interesting person meter than anyone else in the bar?&#8221; 
+  The author is not making this assumption. What he is assuming is that guys who are faking good game are less interesting than strong, interesting, and naturally attractive personalities.</p>
+</blockquote>
+
+<p>But guess what, even Naturals can improve their game. I&#8217;m a natural, and I&#8217;ve slept with hundreds of ladies well before reading any books like &#8220;The Game&#8221;. I just heard about this whole PUA scene from a friend a few months ago, but already I&#8217;ve make significant improvements to my game. I&#8217;m dating super model tall Japanese ladies and I only sleep alone when I want to.</p>
+
+<blockquote>
+  <p>&#8220;These seduction community techniques simply provide strategies and techniques to open groups and begin conversations with people in non-threatening ways so that you a least have a chance of connecting with them on a deeper level.&#8221; 
+  Which is, in general, a good thing; however, what you&#8217;re leaving out is the fact that it is done with an ulterior motive &#8221; the men the author is talking about don&#8217;t just want to connect on a deeper level with women. They want to get in their pants. It would be great if PUAs put these skills to use to be more sociable people; unfortunately, it is most often the case that sociability is only directed towards &#8220;getting&#8221; girls, rather than being interesting and sociable with people of both genders, in all situations.</p>
+</blockquote>
+
+<p>OK, I think what you just write is the essence of your true gripe with the game. But you shouldn&#8217;t assume we all just want to get laid. We might want to find a long-term relationship or just have someone to go for a walk in the park with. Watch the VH1 Pick Up Artist videos online and tell me that you think those guys have sinister motives.</p>
+
+<p>But I also think you are holding a common but mistaken view of women. Not all women are pure, honest ideals of commitment and devotion. Some women actually enjoy sex on a non-commitment basis&#8212;I know plenty of them. Women use men for fancy dinners all the time. And they&#8217;d be nice to you one moment, then ditch you as soon as you guy them a round of drinks. And guess what, women cheat too. The researchers in Liverpool found that rates of cases where fathers unknowingly raised another man&#8217;s child ranged from 1% in some studies to as much as 30%. Women read magazines all the time with tips on appealing to the opposite sex i.e. make-up tips, fashion tips, skin care tips and sex tips. Why give guys such a hard time when we get together and do the same thing? Because assume our motivation are bad and their are good. But I think you&#8217;re assumptions are unfairly biased.</p>
+
+<blockquote>
+  <p>&#8220;How are opening lines &#8230; any more deceptive than any other attempts at appealing to others?&#8221; 
+  Because unlike with physical modifications a) a fake personality can be drastically different from a real one, and b) the distance between fake and real personalities can be far greater than between, for example, made-up and &#8216;natural&#8217; faces.</p>
+</blockquote>
+
+<p>haha, fake vs. real personalities. another dumbell theory!</p>
+
+<p>the sum total of high heels, eye liner, lipstick, rouge, eye shadow, false eye lashes, fake nails, dyed hair, fake boobs, makes for some pretty drastic changes. Just compare some natural</p>
+
+<p>case in point, Courtney Love with and without make-up:
+http://img340.imageshack.us/my.php?image=lovemj6.jpg</p>
+
+<p class="posted">posted by Cowboy in Tokyo
+ on December 30, 2007 <a href="#c14" rel="bookmark">#</a></p>
+</div>
+<div id="c15">
+<p>FYI: The Game isn&#8217;t about finding that special person you&#8217;re compatible with, it&#8217;s about finding a warm wet hole to cum in. It&#8217;s a step up for men that will fuck mud. Admittedly, a large portion of men seem to be in the fuck mud category.</p>
+
+<blockquote>Yet again he&#8217;s dividing people into two groups: interesting vs not interesting. But why assume that guys with good game must score so much lower on the interesting person meter than anyone else in the bar?</blockquote>
+
+<p>I kind of assume anyone in a <em>bar</em> looking for a woman is uninteresting. They&#8217;d have to dig themselves out of that hole first.</p>
+
+<blockquote>Anytime we negotiate with anyone about anything aren&#8217;t we &#8220;running routines&#8221; on them?</blockquote>
+
+<p>Wow, he mentioned you in the article. Neat.</p>
+
+<blockquote>But guess what, even Naturals can improve their game. I&#8217;m a natural, and I&#8217;ve slept with hundreds of ladies well before reading any books like &#8220;The Game&#8221;. I just heard about this whole PUA scene from a friend a few months ago, but already I&#8217;ve make significant improvements to my game. I&#8217;m dating super model tall Japanese ladies and I only sleep alone when I want to.</blockquote>
+
+<p>Oh my god. Ew. You&#8217;re in the mud category, aren&#8217;t you?</p>
+
+<p class="posted">posted by q
+ on December 30, 2007 <a href="#c15" rel="bookmark">#</a></p>
+</div>
+<div id="c16">
+<p>Another response to Cowboy:</p>
+
+<p>&#8220;Oh dear. We are all but actors and the world is our stage.&#8221;</p>
+
+<p>Maybe so. But one should still attempt to be as true to one’s self as possible.</p>
+
+<p>&#8220;Consider these openings: -Can I buy you a drink? -You have a beautiful smile. -Do you come here often? -How&#8217;s it going?
+Are they original? No. Are they deceptive? According to your logic, if they aren&#8217;t original they must be deceptive.&#8221;</p>
+
+<p>Sorry, I was unclear. If they are original, they aren’t deceptive. If they are designed/learned with the specific knowledge that they will make one appear interesting, they are deceptive. On the other hand, the “universal opener” (“Hi!”) isn’t. deceptive. There is no problem with approaching women and being a genuinely interesting person capable of genuinely interesting, genuine interaction.</p>
+
+<p>&#8220;Game styles openings usually have various branches that you can take, each typically designed to increase your perceived value. &#8220;</p>
+
+<p>Yes, that’s my problem with it. They’re designed. The user isn’t really being himself.</p>
+
+<p>&#8220;The Mystery Method and other systems supply theories and guiding principles. &#8220;</p>
+
+<p>Which is the author’s point. The opening is the first step in the algorithm. Even if the opener, routine, line, kino, whatever is different, there is a specific algorithm. Perhaps you&#8217;ve heard of the DiCarlo Escalation Ladder (http://www.directnaturalgame.com/Techniques/kino-escalation-ladder.html). This is a prime example of an algorithm. Mystery even calls pickup an algorithm in his book &#8220;The Mystery Method&#8221; as shown in a quote from Chapter one:</p>
+
+<p>&#8220;In relationships, if someone doesn’t have success and wants to get it, he or she will need to adopt the algorithm for success there. I invented that algorithm. I am your teacher and this is your guidebook to discerning the patterns in dynamic social interactions and then using them to your advantage.&#8221;</p>
+
+<p>Cowboy makes an interesting point in saying</p>
+
+<p>&#8220;How honest is asking somone: how you doing today? Do you really want to know all the details of their day?&#8221;</p>
+
+<p>and</p>
+
+<p>&#8220;Asking her if she thinks it&#8217;s OK for men to wear pink isn&#8217;t deceptive. It&#8217;s called making conversation.&#8221;</p>
+
+<p>There is a fine line. What decides the issue for me is the intent. And honestly, my biggest problem with the whole thing isn’t openers – you’re focusing on them, but I can live with a canned line to get a guy going as long as the conversation that follows is genuine.</p>
+
+<p>&#8220;Are you &#8216;treating people like objects&#8217; if you try to anticipate and address their concerns in order to close the sale? Anytime we negotiate with anyone about anything aren&#8217;t we &#8220;running routines&#8221; on them? If I tell my boss that I deserve a raise because of x, y and z accomplishments and because I&#8217;m being paid under market-value etc am I treating him like an finite state machine?&#8221;</p>
+
+<p>Another interesting point. With the boss: no.  When asking for a raise, and telling him x y z, you are not presenting a front. You are not engaging in fakery. You are making a real argument. That’s fine. Most sales is like that too. The problem isn’t the attractiveness, it’s the intent and whether the attractiveness is genuine or simply learned/imitated.</p>
+
+<p>&#8220;Even Naturals can improve their game. &#8220;</p>
+
+<p>That’s beside the point. Anyone can appear to be something they aren’t. A natural can appear to be an even better natural. The problem is the fakery, not the level at which one starts out. If you’re a natural, fine! If you aren’t, okay! Just don’t 1) pretend to be something you aren’t, or 2) view women as objects.</p>
+
+<p>&#8220;You shouldn&#8217;t assume we all just want to get laid.&#8221;</p>
+
+<p>Point conceded. Not all of those involved are in it solely for sex. In <em>general</em>, though, their learned social skills are put to use in a gender-specific manner; that is, they use them to dominate other men (AMOGing) and gain status with women.</p>
+
+<p>&#8220;Not all women are pure, honest ideals of commitment and devotion. Some women actually enjoy sex on a non-commitment basis&#8212;I know plenty of them. &#8220;</p>
+
+<p>I agree. I only sleep with women on a non-commitment basis.</p>
+
+<p>&#8220;Women use men for fancy dinners all the time. And they&#8217;d be nice to you one moment, then ditch you as soon as you guy them a round of drinks. And guess what, women cheat too. &#8220;</p>
+
+<p>All of which is just as wrong as when men do it.</p>
+
+<p>&#8220;Women read magazines all the time with tips on appealing to the opposite sex i.e. make-up tips, fashion tips, skin care tips and sex tips. &#8220;</p>
+
+<p>Again, there is a difference between adopting, to some extent, a different personality, and putting on makeup.</p>
+
+<p>&#8220;Why give guys such a hard time when we get together and do the same thing? Because assume our motivation are bad and their are good. &#8220;</p>
+
+<p>No, I agree that women’s motivations may be equally as impersonal. There is a difference between dressing up in a certain way, putting on certain scents, etc. (regardless of gender) and saying or doing a sequence of things designed to, with the knowledge that success is likely, make one’s personality appear more attractive. Personality is more fundamental to a person than facial structure, breast size, or skin tone.</p>
+
+<p>&#8220;The sum total of high heels, eye liner, lipstick, rouge, eye shadow, false eye lashes, fake nails, dyed hair, fake boobs, makes for some pretty drastic changes. &#8220;</p>
+
+<p>Again, personality is more fundamental than physical appearance, but I agree that makeup, etc. can go too far.</p>
+
+<p>To be clear: I do not have a problem with most of the &#8220;inner game&#8221; stuff offered by the pickup community. Becoming more socially confident is admirable and achievable for most men. Confidence, ability to communicate, and having interesting skills, stories, hopes and dreams are all very good things. But men should become interesting people, develop their own skills, have experiences that translate into interesting stories, and have the guts to dream big <em>on their own</em>.</p>
+
+<p>Men should become truly <em>better men</em>.</p>
+
+<p class="posted">posted by GBM
+ on December 30, 2007 <a href="#c16" rel="bookmark">#</a></p>
+</div>
+<div id="c17">
+<p>Wow, the lengths to which a PUA will go to justify his art are absolutely astounding.  I can&#8217;t believe people are still spouting this &#8220;being a PUA makes you a more interesting person&#8221; nonsense, especially since Mystery, the godfather of the community, specifically says in his lectures &#8220;the goal of the Venusian Arts is to walk up to any group and GET THE GIRL TO SLEEP WITH YOU&#8221;.</p>
+
+<p>Arguing morality is pointless.  Instead, I&#8217;ll just say this: most PUAs pretty much use this stuff to get laid.  I don&#8217;t really have a problem with this, as most of the &#8220;art&#8221; focuses on picking up scenegirls, who are pretty much out there to get laid as well.  However, a great deal of them have the illusion that it&#8217;ll translate into a healthy relationship.  It does for a time, because people who sleep together form very strong emotional attachments.</p>
+
+<p>However, relationships formed on a pick-up are shaky - witness Style&#8217;s latest girlfriend.  He thought he found &#8220;the one&#8221;, and he wrote The Game because of it.  Then, a couple years into their relationship, she dumped him because despite his foolproof game, he was still a pretty insecure and boring person.  The mPUA, the master of all master pickup artists, couldn&#8217;t hold down a girlfriend for more than a couple of years.</p>
+
+<p>The only &#8220;Game&#8221; worth pursuing is truly eliminating your fear and insecurity, and I can&#8217;t see any way of doing that other than long sessions in therapy or massive amounts of psychoactive drugs.</p>
+
+<p class="posted">posted by Curt Hoyt
+ on December 30, 2007 <a href="#c17" rel="bookmark">#</a></p>
+</div>
+<div id="c18">
+<p>Telling a story is &#8216;running a routine&#8217; on someone. You&#8217;re trying to get a reaction be it sympathy, or a laugh, or trying to paint yourself as the hero. But you live in a pretty sad world if you ban story telling on the grounds that it&#8217;s non-original (prepared statement!) and designed to &#8216;make you look more interesting than you really are&#8217;.</p>
+
+<blockquote>
+  <p>There is a fine line. What decides the issue for me is the intent.</p>
+</blockquote>
+
+<p>Yup, I pretty much got that out of what you wrote. I think the crux of our difference hinges on what one defines acceptable and unacceptable intent. If a girl had a fun time with a guy she met&#8212;be it in a bar, a park, or on the train&#8212;and she felt attracted to him enough and comfortable enough to enjoy sex with him, I don&#8217;t see any harm, even if that is the only thing he really wanted to do. It&#8217;s a win-win. :) But I feel your views on sex are probably more Victorian than those widely held here in Japan.</p>
+
+<blockquote>
+  <p>Again, there is a difference between adopting, to some extent, a different personality, and putting on makeup.</p>
+</blockquote>
+
+<p>One could argue that the use of make-up, heels and hair-dye is MORE deceptive than using canned material to make conversation. Take the started, &#8220;Who do you think lies more, women or men?&#8221; Its pretty transparent they the intent is to start a conversation that generally appeals to women&#8217;s interests. And as far as whether or not the guy is an original personality or a interesting individual: he&#8217;s reading books on social dynamics and doing experiments in the field, measuring the results and refining his theories. THAT makes him pretty fucking interesting in my book. Much more than the guys at the bar who spend their hours watch sports, tv sitcoms, or playing X-box.</p>
+
+<p>My point is that you keep dividing people up into Fake vs. Real, but I don&#8217;t believe ANYONE is 100% original in everything they say and do or 100% robotic in their used of scripts and prepared material. It&#8217;s a bell curve and I think everyone lies somewhere in the middle: we recycle old jokes; drop lines we read in books, heard in movies and on television, and learned from our friends. We incorporate various elements of our heros and idols into our personality&#8212;sometimes from real people, sometimes from our heros in the world of fiction.</p>
+
+<p>How much of what we say is owned more by tradition, social convention and by the language than some inner creative well-spring? Robin Williams, who I think we&#8217;d agree is a pretty unique and original personality, is constantly recycling old jokes and doing &#8216;improv&#8217; characters like Iron Chef that he &#8216;invented&#8217; years and sometimes decades ago.</p>
+
+<p>If any of our friends were completely original at every moment it would be freaking scary. Instead our friends role-play with us. We reinforce who they are and what they value in our dealings with them, and they sometimes play along and sometimes breakout of their role in order to challenge the model we&#8217;ve formed of them. If they were completely unpredictable we&#8217;re think they were crazy. Creativity is variations on a theme. There are examples of this all over the place in the world of product design, architecture, in the arts, in the world of fashion, and when that construct we call one&#8217;s self makes public utterances.</p>
+
+<p>&#8220;Originality is the art of concealing your sources�h
+-Benjamin Franklin</p>
+
+<p>It&#8217;s been fun debating with you. Have a safe and Happy New Year!</p>
+
+<p class="posted">posted by Cowboy in Tokyo
+ on December 31, 2007 <a href="#c18" rel="bookmark">#</a></p>
+</div>
+<div id="c19">
+<p>Apropos:
+<a href="http://www.comics.com/comics/pearls/archive/images/pearls2611170071231.gif" rel="nofollow">
+http://www.comics.com/comics/pearls/archive/images/pearls2611170071231.gif</a></p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://sethf.com/">Seth Finkelstein</a>
+ on December 31, 2007 <a href="#c19" rel="bookmark">#</a></p>
+</div>
+<div id="c20">
+<p>I&#8217;m glad we were able to discuss this. I&#8217;ve come to a clearer understanding of the specific problems I have with the pickup scene, and I don&#8217;t think I&#8217;ve been as clear in expressing these as I could have been.</p>
+
+<p>&#8220;Telling a story is &#8216;running a routine&#8217; on someone&#8221;</p>
+
+<p>It can be interpreted that way. My issue is that rAFCs learn to tell stories that are both a) someone else&#8217;s and b) part of an algorithm, rather than developing their storytelling abilities and engaging in interesting experiences.</p>
+
+<p>&#8220;You live in a pretty sad world if you ban story telling on the grounds that it&#8217;s non-original.&#8221;</p>
+
+<p>True. The issue is whether it is clear that the individual is telling a story. In pickup, it’s not just entertainment, or trying to communicate a point. It’s appearing as something else.</p>
+
+<p>&#8220;If a girl had a fun time with a guy she met&#8212;be it in a bar, a park, or on the train&#8212;and she felt attracted to him enough and comfortable enough to enjoy sex with him, I don&#8217;t see any harm, even if that is the only thing he really wanted to do. It&#8217;s a win-win.&#8221;</p>
+
+<p>I agree, as long as neither partner holds any illusions about the nature and intent of the other. This starts to get at the root of my objection, which I&#8217;ll discuss at the end.</p>
+
+<p>&#8220;Take the started, &#8220;Who do you think lies more, women or men?&#8221; Its pretty transparent they the intent is to start a conversation that generally appeals to women&#8217;s interests. &#8220;</p>
+
+<p>Ok, but as I said previously, the opener is what I am least concerned about. The fact that it is an algorithm is what troubles me. You still haven’t addressed this concern.</p>
+
+<p>&#8220;My point is that you keep dividing people up into Fake vs. Real, but I don&#8217;t believe ANYONE is 100% original in everything they say and do or 100% robotic in their used of scripts and prepared material. &#8220;</p>
+
+<p>This is, of course, true. But the majority of PUAs are not being themselves. Style made pickup a lifestyle, devoting all his energies towards that, and he says himself that he became a totally different person.</p>
+
+<hr />
+
+<p>It seems I&#8217;ve been making several arguments.</p>
+
+<p>Originality is not my biggest concern, although it would be nice if men could go out and become more interesting people by doing interesting things, learning interesting skills, and becoming more confident, rather than using canned stuff. The inner game part of pickup is great. It&#8217;s the fakery that most men use for outer game that isn&#8217;t. There are exceptions, of course.</p>
+
+<p>The problem of the algorithm is twofold. First is that it seems &#8220;unfair.&#8221; This isn&#8217;t an argument worth pursuing. Competition is a natural part of life (and especially mating) and fairness has nothing to do with it.</p>
+
+<p>The second problem with algorithm (again, Mystery himself described it this way) is that in guaranteeing a specific result, it encourages men to objectify women. When you press a button on your keyboard, you know what character will appear on the screen. Once interaction with women becomes nothing more than pushing certain buttons, it is nearly impossible to perceive women as individuals.</p>
+
+<p>Cowboy pointed out that it&#8217;s a win-win situation if a girl just wants to have a fun time and get laid. This is true, but in most pickup situations, the goals of each partner differ significantly. The PUA just wants to get laid (again, a generalization) and the target may or may not want more. The problem is, the individuals don&#8217;t actually get to know each other. This comes back to the idea of originality.</p>
+
+<p>I think the biggest beef I may have with pickup has nothing to do with women. Pickup encourages men in the idea that &#8220;getting&#8221; sex is the definitive measure of success, and the ideal to strive for. Style wrote in The Game that to be really good at pickup, it had to become a lifestyle. The fact is, women can be more than their bodies, and men can be more than their sex drive. Many pickup routines are attractive because they make it appear as though the man understand the woman; that he sees past her attractive body. But this can&#8217;t be true when the point of pickup is getting laid.</p>
+
+<p>Pickup is destructive to women, in that it encourages their objectification. But it is equally destructive of men. The message of pickup is misguided. Even if pickup didn&#8217;t actively encourage the absurd gender roles we see today; that is, even if it were simply a system to allow men to get sex more often and with more attractive women, it still enables the view of women as objects and men as horn-dogs.</p>
+
+<p>The idea of sex as all-important and the measure of a person&#8217;s quality or success is backwards and harmful. Men should focus on self-improvement and self-investment.</p>
+
+<p>It&#8217;s been good writing these responses, as I&#8217;ve uncovered nuances in my own beliefs. Thanks for taking the time to discuss the issue.</p>
+
+<p>Hope your 2008 is a good one, and happy hunting ;)</p>
+
+<p class="posted">posted by GBM
+ on December 31, 2007 <a href="#c20" rel="bookmark">#</a></p>
+</div>
+<div id="c22">
+<blockquote>
+  <p>Mystery, the godfather of the community, specifically says in his lectures &#8220;the goal of the Venusian Arts is to walk up to any group and GET THE GIRL TO SLEEP WITH YOU&#8221;.</p>
+</blockquote>
+
+<p>Well turntables were designed to reproduce music, but that hasn&#8217;t stopped a generation of scratch artists from using them in unintended ways.</p>
+
+<p class="posted">posted by Cowboy in Tokyo
+ on January  1, 2008 <a href="#c22" rel="bookmark">#</a></p>
+</div>
+<div id="c23">
+<p>It&#8217;s funny to reflect on the pickup scripts as simple input-outputs in terms of language reflecting personality triggering a response. In reality, there is a lot more being expressed than simple routines, the intonation, the rise and fall, rhythm of words, excitement, anger, tension. All those things can be evoked with mere grunts and squawks. Words and ideas just add a layer of psychological icing to the cake.</p>
+
+<p>There seems to be an assumption made by these wannabe game players that women can be manipulated using the same basic symbolic exchanges, but the reality is that masters of the pickup art would usually have to be lithe and deft gesticulators, using sensory flirting, touch, and smell just as much as language, and using the language to merge the psychological attraction with the sensual.</p>
+
+<p>An ugly guy who is a great dancer is far more attractive than a good looking guy who is clumsy and dull. It&#8217;s obvious to most women that a guy with good rhythm is going to give them a much better fuck. So I think it is a myth that &#8216;looks don&#8217;t matter, personality does&#8217;. Looks are a part of someone&#8217;s personality, they can&#8217;t be separated. It&#8217;s just that our societal dogma of what is &#8216;good looking&#8217; is actually an imaginary thing, in contrast to the pheremone driven reality of flirting, conversation, power games, and rhythms.</p>
+
+<p>I think it makes a huge difference whether you consider human beings to be bags of meat with cocks and pussies, or complex glowing singularities of energy.</p>
+
+<p>To look at it from another perspective, it seems to me that it is usually the more artistic and creative people who place a special importance on their personality reflecting a deeper sense of &#8216;who they really are&#8217; and projecting that toward others. But if someone doesn&#8217;t define themselves by that particular emotional need, it&#8217;s not really fair to judge them as being especially &#8216;fake&#8217; or &#8216;deceptive&#8217;, they&#8217;re simply being who they are and doing what they want to do.</p>
+
+<p>If an American comic genius satirized the culture/cult of &#8216;The Game&#8217; in the same way as Evelyn Waugh did to the Bright Young Things of 1920&#8217;s British society in &#8216;Vile Bodies&#8217;, that would be a book I would love to read. Or maybe the satire is actually &#8216;The Game&#8217; itself?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://maetl.coretxt.net.nz/">maetl</a>
+ on January  1, 2008 <a href="#c23" rel="bookmark">#</a></p>
+</div>
+<div id="c24">
+<p>&#8220;guys who are faking good game are less interesting than strong, interesting, and naturally attractive personalities.&#8221;</p>
+
+<p>&#8220;The Game&#8221; is two years old, and the main effect of it being released was to spur the PUA community into becoming all about people &#8220;transforming&#8221; into genuinely strong, interesting, and naturally attractive personalities.</p>
+
+<p>&#8220;Mystery Method&#8221; always advocated using &#8220;canned&#8221; routines as &#8220;training wheels&#8221; to experiment with initially, and then using experiences from your own life and polishing your story telling skills to tell those experiences in an interesting way.</p>
+
+<p>In the original article, Aaron mentions the way that Owen &#8220;Tyler Durden&#8221; Cook, founder of the RSD companm was portrayed as the antagonist of book to be a nearly sociopathic &#8220;bad guy&#8221;; the book was a &#8220;fictionalisation of real events&#8221; though, and after its release, Owen refactored his company to be all about being genuinely interesting and attractive.</p>
+
+<p>His blog is at http://realsocialdynamics.blogspot.com/ and you might find it interesting.</p>
+
+<p class="posted">posted by dave
+ on January  5, 2008 <a href="#c24" rel="bookmark">#</a></p>
+</div>
+<div id="c26">
+<p>Thanks, Aaron, for such a breath of fresh air. Too many of my highly intelligent friends took off their skeptic-hats when presented with Dumbo&#8217;s feather for picking up girls.</p>
+
+<p>But isn&#8217;t there something nice to be said about giving guys the confidence to at least have the opportunity to meet girls?</p>
+
+<p class="posted">posted by Andrey Fedorov
+ on January  6, 2008 <a href="#c26" rel="bookmark">#</a></p>
+</div>
+<div id="c28">
+<p>The pick-up methods WORK, feelings are only temporary. Procedures and methods are the only thing that lasts in the long run. If improving one&#8217;s game is manipulative then so are commercials, makeup, and high heels. It is packaging, but packaging is the attractor, the opportunity door opener, without it the world would be a very unrealistic and boring place. Anyhow it&#8217;s never going to disappear from this world so you might as well accept it, it&#8217;s for your own good.</p>
+
+<p class="posted">posted by Mike
+ on September 24, 2008 <a href="#c28" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="thegame" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

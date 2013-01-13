@@ -1,0 +1,50 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Aaron joins Creative Commons as RDF Advisor (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/000174.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000173" title="Aaron&#8217;s Photo Albums" />	<link rel="next" href="000175" title="Learning on the Road" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Aaron joins Creative Commons as RDF Advisor</h1>
+</div>
+
+<div class="content">
+<p>SF Gate: <a href="http://www.sfgate.com/cgi-bin/article.cgi?file=/gate/archive/2002/02/11/creatcom.DTL">All Hail Creative Commons: Stanford professor and author Lawrence Lessig plans a legal insurrection</a>.</p>
+
+<p>Today I&#8217;ve been given permission to announce that I&#8217;m working on the Creative Commons project as an RDF Advisor. I can&#8217;t say what I&#8217;m doing except that it involves RDF and I&#8217;m advising them on it. Details on what the project is about are in the article above. They&#8217;re very kindly flying me to <a href="http://conferences.oreillynet.com/etcon2002/">O&#8217;Reilly&#8217;s Emerging Technology Conference</a> (what the P2P hackers bitterly call &#8220;Emerging Fads&#8221;) where the project will be making <a href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/2376">its debut splash</a>. BTW, it looks to be a very exciting conference. I put together <a href="http://blogspace.com/swhack/weblog/2002/03/05/#i1015313089.384566">a long list of people I&#8217;m looking forward to seeing.</a></p>
+<p>Some choice quotes:</p>
+
+<blockquote href="http://www.oreillynet.com/cs/weblog/view/wlg/1126">Stanford law professor Lawrence Lessig&#8217;s Creative Commons intends to produce &#8220;flexible, customizable intellectual-property licenses that artists, writers, programmers and others can obtain free of charge to legally define what constitutes acceptable uses of their work.&#8221;</blockquote>
+
+<blockquote href="http://conferences.oreillynet.com/cs/et2002/view/e_sess/2376">Technical Architect, Lisa Rein, discusses and demonstrates how the project uses JavaScript, Perl, HTML, and XML to create a web-based application for generating metadata, associated with digital works in a machine-readable format. The metadata corresponds to innovative and flexible licenses designed to help creators of intellectual works share their work with the public on generous terms. Search engines, file sharing applications, digital rights management tools, and other emerging technologies recognize the terms on which those works may be used.</blockquote>
+
+<p class="posted">posted March 05, 2002 01:17 AM (<a class="category" href="cat_personal">Personal</a>)  <a href="000174" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000173" title="Aaron&#8217;s Photo Albums">&laquo; prev</a> | <a href="./">up</a> | <a href="000175" title="Learning on the Road">next &raquo;</a></p>
+
+<p><a href="000169">CSS: Client-side rendering rules</a><br />
+<a href="000170">CodeCon Wrapup</a><br />
+<a href="000171">The Copyright Tax</a><br />
+<a href="000172">Goodbye, Brent.</a><br />
+<a href="000173">Aaron&#8217;s Photo Albums</a><br />
+<strong>Aaron joins Creative Commons as RDF Advisor</strong><br />
+<a href="000175">Learning on the Road</a><br />
+<a href="000180">Happy Pi Day</a><br />
+<a href="000181">Interesting Conferences (and the interesting people attending them)</a><br />
+<a href="000182">The Science of Rejection</a><br />
+<a href="000183">Other</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

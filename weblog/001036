@@ -1,0 +1,88 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Fixing Compulsory Licensing (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/001036.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001035" title="What&#8217;s Good on TV" />	<link rel="next" href="001037" title="Comprehensive Reponse to All Arguments Against Gay Marriage" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Fixing Compulsory Licensing</h1>
+</div>
+
+<div class="content">
+<p>In <a href="http://www.aaronsw.com/weblog/001016">a previous post</a> I dashed the world’s hopes for a viable compulsory licensing system, no matter how attractive one might seem. Luckily for the world, I’m back to explain how to make a compulsory licensing system that doesn’t run into any of those problems using&#8230; <em>cryptography</em>!</p>
+
+<p>(To review, the idea for our compulsory licensing system is this: we tax Internet connections and CD/DVD burners a small amount and send the money to the artists. In exchange, they let us download their songs and movies off the Internet. The problem is how to decide which artists should get the money without losing privacy, accuracy, or security.)</p>
+
+<p>Here’s the key to my proposal: when you pay the tax you get a vote. </p>
+
+<p>So when you buy a CD or DVD burner, it comes with a short string (a random-looking series of letters and numbers) to type into your computer. (The strings are given to the manufacturers by the government when they pay the tax.) When you pay the bill for your Internet connection, you’re emailed another such string. (The string from your email can be handled automatically, and the one in the CD burner box could be made relatively easy to type in.)</p>
+
+<p>The string is a digital gift certificate, worth however much the tax you paid was, but only spendable on donations to artists. Once your computer has the string, it looks at all the songs you’ve listened to and decides what songs to spend your gift certificate money on. (It knows what you listen to because it’s built in to your MP3 player.) If you’ve listened to one Britney Spears song day and night for the past month and nothing else, it will give all your money to Britney. If you listen to a variety of independent bands, it will split your money among them. (Advanced users can of course customize how their money will be spent, but it’s simpler to have the computer choose automatically by default.)</p>
+
+<p>The result is sent anonymously to the government using the string. (The strings will be unique enough that it will be nearly impossible to guess a correct one.) The government checks this against the list of strings they gave out and the list of strings that have already been used to make sure that it’s legitimate, and then credits the appropriate accounts.</p>
+
+<h2>Does this solve all the problems?</h2>
+
+<p>Yes, it’s private. The strings are received and sent anonymously. (“But wait,” you say, “the Internet providers know who gets what string.” OK, if you’re really paranoid a solution to this is explained below.) The government can’t connect you with your vote.</p>
+
+<p>Yes, it’s accurate. The money goes to the artists that the people like and want to support, as chosen by the people themselves. There are a few edge cases. For example, if everyone listens to but hates Jerry Falwell, they might choose not to give him any money, even though they’ve taken advantage of his work. I think this is an acceptable problem — the majority of people won’t bother to change the defaults and even if they do, hey, it’s their money.</p>
+
+<p>Yes, it’s secure. The amount of money you have control over is equal to the amount of money you paid in taxes, so the worst-case scenario is that you get your tax money back. There is a chance that everyone will give all their money to themselves, but this can be prevented by only paying out to accounts that meet some higher threshold of cash.</p>
+
+<p>Q: Won’t artists will offer to buy people’s gift certificates for cash? The artist can spend the gift certificate on themselves and recover their money. (Seth Schoen)</p>
+
+<p>A: The government could make such behavior against the terms of service for having an artist account. To be successful, any such operation would have to be publicized. The government could keep an eye out for such things, send the operator a known gift certificate, see whose account it went into, and shut down the account</p>
+
+<p>Q: Can’t operators use this to shut down the account of someone they don’t like?</p>
+
+<p>A: The government gift certificate would be indistinguishable from a normal one, so they’d have to be giving lots of gift certificates to that person, in which case they’d be losing lots of money. To be extra sure, the government could trace the source of the payment for the gift certificate. Or they could just bankrupt whoever was running the scam by feeding them lots of bogus gift certificates that appeared to go through, but are never credited to the artist’s account.</p>
+
+<h2>Hey, where’s the crypto?</h2>
+
+<p>OK, here’s the fun part. The money can be securely distributed to you using digital cash techniques. Here’s how that system works, by physical analogy:</p>
+
+<ol>
+  <li>You send “the bank” (probably the government or your ISP) a gift certificate with a random string on it and a piece of carbon paper in a sealed envelope.</li>
+  <li>They sign the outside of the envelope and their signature goes through the carbon paper onto the gift certificate.</li>
+  <li>You open the envelope, take out the signed gift certificate, and use this as described above. (The government uses the random string to make sure you don’t use it twice and they verify the signature to make sure it’s legitimate.)</li>
+  <li>Each signed gift certificate is worth a set amount ($1?) so you repeat as necessary to get the amount you’re owed.</li>
+</ol>
+
+<p>Since the government can’t open the envelope (we use crypto to ensure this), they have no idea of knowing which gift certificate they signed, so they can’t associate you with it when you spend it later.</p>
+
+<p>Now, to anonymously submit the gift certificates to the government, you reuse the peer-to-peer network you downloaded the songs from as a remailer network. You encrypt your gift certificate so only the government can read it, then you pass it to a friend on the peer to peer network, who passes it to a friend, etc. until someone gives it to the government. The government publishes the list of identifiers for gift certificates they’ve received, so you can make sure it got through and resend it if it didn’t.</p>
+
+<h2>Conclusion</h2>
+
+<p>This proposal isn’t the simplest, and probably not the most elegant, but unlike the others it will work without cheating the public. I hope the people building these compulsory licensing systems see the value in that.</p>
+
+<p class="posted">posted September 15, 2003 06:17 PM (<a class="category" href="cat_technology">Technology</a>)  <a href="001036" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001035" title="What&#8217;s Good on TV">&laquo; prev</a> | <a href="./">up</a> | <a href="001037" title="Comprehensive Reponse to All Arguments Against Gay Marriage">next &raquo;</a></p>
+
+<p><a href="001028">Day, Today</a><br />
+<a href="001030">The Biggest News</a><br />
+<a href="001031">What A Little Bug Can Do</a><br />
+<a href="001034">THINK</a><br />
+<a href="001035">What&#8217;s Good on TV</a><br />
+<strong>Fixing Compulsory Licensing</strong><br />
+<a href="001037">Comprehensive Reponse to All Arguments Against Gay Marriage</a><br />
+<a href="001047">Meeting Justice Kennedy</a><br />
+<a href="001048">Poison Dart Guns or Solving Politics with Technology</a><br />
+<a href="001052">The Evening News</a><br />
+<a href="001053">Shades of Gray</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

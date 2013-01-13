@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Life With Tim (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>My Life With Tim</h1>
+
+<p><em>I wrote this years ago (probably the summer after college), filled with nostalgia, in a small notebook on a plane to or from Boston. (I finally understand how people can write books long-form!) I meant to type it in as soon as I got back and post it here, but I lost it and never got the chance. While moving recently it turned up again and I thought I should seize the opportunity to type it in while I still had my hands on it. (Also, coincidentally, I had lunch today with Tim.)</em></p>
+
+<p><em>Apologies for the poor writing; I&#8217;ve improved a bit in the subsequent years and it&#8217;s rather hard to write well when you&#8217;re pouring your memories into a notebook on a plane.</em></p>
+
+<p>In 7th grade we were asked to do a project on the Great Men Who Made America, or something like that. Other kids chose civil rights leaders and politicians and even scientists. Then a big tech geek, I chose my hero, Tim Berners-Lee, inventor of the World Wide Web.</p>
+
+<p>One of the first assignments was to do some research and answer a list of questions provided by the instructor (one of them being &#8220;what did your contemporaries think of you?&#8221; &#8212; I still wince at not then knowing what &#8220;contemporaries&#8221; meant). I was able to answer most of them off the top of my head and most of the rest from TimBL (as he was universally called by all but Dave Winer)&#8217;s web page. But a few, like &#8220;Do you have any regrets?&#8221; were not really answerable form such material. So, with some trepidation, I sent him an email. His website said not to email him about school projects on the Web, but I convined myself that school projects on <em>him</em> didn&#8217;t qualify. So I carefully composed my email and sent it out, hoping for the best.</p>
+
+<p>A few days later I received a rather short-tempered reply. &#8220;Regrets?&#8221; he said. &#8220;I have a few. But then again, too few to mention.&#8221; (I didn&#8217;t get the reference until years later when I heard the words again over the radio &#8212; I thought he was just being poetic.) But my favorite answer was his response to one of the theme questions I asked: &#8220;How do you think your work has shaped America?&#8221; or something like that. (I was taking the assignment a little too literally, I guess.) He shot back with a phrase that&#8217;s stuck with me ever since: &#8220;I was an Englishman living in France and working in Switzerland &#8212; it&#8217;s got nothing to do with America.&#8221; I proudly reported this back to my teacher, complaining about his assignment&#8217;s Amerocentrism.</p>
+
+<p>The next time I check Tim&#8217;s web page, it said not to email him concerning school projects on the Web or on Tim Berners-Lee.</p>
+
+<hr />
+
+<p>I didn&#8217;t really run into TimBL again until a few years later when I was visiting Cambridge, Mass., where he worked at MIT. I was working on RSS at the time with W3C employee Dan Brickly and I felt cocky enough to try to go see TimBL&#8217;s office. I got as far as the nameplate outside his door when a gruff man with a beard stopped me. &#8220;What are you doing?&#8221; he asked. &#8220;Seeing Dan Brickley,&#8221; I lied. &#8220;That&#8217;s not Dan&#8217;s office,&#8221; he said. &#8220;Go wait in the hall. I&#8217;ll get Dan,&#8221; said the man.</p>
+
+<p>The man, I later learned, was Ralph R. Swick (or RRS), and it always struck me that he hated me, or at least looked down on me because of my age. In this encounter he at least could claim to not know who I was, but even later he would ignore me, ignore what I said, or in one particular instance, make fun of me. (I&#8217;ll get to that later.)</p>
+
+<p>Dan, on the other hand, was glad to see me and took me on a tour of the W3C, where he and TimBL worked. &#8220;Is Tim around?&#8221; I asked casully. &#8220;Oh no,&#8221; he said, &#8220;he&#8217;s off in [foreign country].&#8221; &#8220;Oh,&#8221; I said. &#8220;But I can take you to meet our PR director and she can answer any questions you might have.&#8221;</p>
+
+<p>This seemed like an odd move to me. At the time, at least, I was a co-worker, not a journalist. Still, why not. She gave me the standard spiel about the W3C, which of course I&#8217;d already knew. (Although there was one funny moment: &#8220;The Web is just 10 years old,&#8221; she said, obviously repeating a standard line. &#8220;Were you everything you are at 10 years old?&#8221; There was an awkward pause as she tried to calculate my age and realized I might be.)</p>
+
+<p>Eager to show her I knew what I was talking about, I decided to make an informed criticism of the W3C. Maybe I challenged is corporate control, or the bylaws&#8217; undemocratic requirements that the Director (TimBL) approve everything, or maybe that and more. She gave me standard responses, but I kept pushing and she got increasingly agitated and eventually started shouting. I wasn&#8217;t hurt, and pressed on, but against my will I started crying (although I imagine it may have looked intentional &#8212; a cheap arguing tactic, perhaps). She offered me tissues and toned down, asking me to send her some concrete suggestions by email to consider.</p>
+
+<p>As DanBri took me out, he tried to console me. &#8220;Don&#8217;t worry,&#8221; he said, &#8220;she scares everyone. That&#8217;s what makes her so good.&#8221; For whatever reason, she always seemed extra-nice to me after that.</p>
+
+<hr />
+
+<p>I next ran into TimBL at a W3C conference in Cambridge, where they were having a meeting on RDF, which I was beginning to get interested in. The meeting involved a series of presentations on various topics and through it all, TimBL struck me as incredibly brilliant. He would type away at his laptop the whole presentation, apparently lost in some project and not paying attention to anything. Then, towards the end, he would quickly raise his hand and ask the one question that revealed all the flaws of the presenter&#8217;s assumptions, cutting through everything they said.</p>
+
+<p><img src="http://www.aaronsw.com/2002/timblAndMe.jpg" align="right" alt="Me and Tim Berners-Lee" /></p>
+
+<p>At the end of the meeting, DanBri insisted I meet TimBL and so I went over to shake his hand. TimBL moved and talked so fast he appeared almost as a blur, bursting with energy and bouncing around the room. DanBri took my camera and TimBl slowed down for a moement to grab me around the shoulder and pose for a picture, a photo which I later used frequently. (God, I looked so young!)</p>
+
+<p>I met a bunch of other cool people at the meeting &#8212; B.K. DeLong, who introduced me to Tantek (then at Microsoft, he looked for all the world like a Borg; he later joined Technorati and hounded me incessantly to take a summer internship there (I was at dinner with him the other nigh and apparently he still thinks I should!))), libby, and the elusive mnot. But the one I remember most was Dan Connolly, or DanC as he was called.</p>
+
+<p>At first, for some reason, I thought he was a kid. He wore a simple t-shirt and pulled out his guitar during breaks. His enthusiasm was even greater than TimBL&#8217;s and he was clearly just as sharp, although in some ways more so, since he had a programmer&#8217;s logicalness that he applied to every aspect of his life.</p>
+
+<p>He worked from home in Kansas City, where he lived with his wife and kids. TO balance work and family, he worked out a contract with his life, which meant that at 5:00 he would stop whatever he was doing, no matter how important, for Family Time.</p>
+
+<p>I would follow him around on the RDF chatrooms and could feel myself growing more logical just by listening to him. When I could I would sort of apprentice under him, following along and helping as he wrote programs to do various tasks. I even considered going out to visit him in Kansas City at one point.</p>
+
+<p>He was an enormous influence, despite his socially conservative politics (which I always attributed to his location). He was usually quiet about them, but once he posted a petition in favor of parental abortion notification laws. At the time I was a radical on children&#8217;s rights at least, and thought parents shouldn&#8217;t be notified about anything. He also mentioned he was trying to figure out why his school <em>wasn&#8217;t</em> teaching Intelligent Design (then a new phrase to me), absurdly suggesting he had to follow the money. It turns out following the money is much better at finding why people <em>do</em> teach Intelligent Design.</p>
+
+<p>Still, I suppose everyone has flaws, and these were relatively minor. It&#8217;s clear why TimBL chose DanC to be his right-hand man, handling the details for anything important.</p>
+
+<hr />
+
+<p>The next time I met TimBL was at the WWW2002 conference in Hawaii. DanC invited me to wake up early for a &#8220;Semantic Web Swim&#8221; with him and TimBL but, ashamed of my body at the time, I stupidly declined &#8212; a move I still regret.</p>
+
+<p>One night DanC, some other people, and I went out to a place on the beach. I, I have to say, didn&#8217;t have a sip of alcohol &#8212; I still haven&#8217;t, actually &#8212; but everyone else got hammered. (I was worried some of them might walk into the ocean by accident and get swept away.) I left my participation ambiguous, however, when I posted a short note in an obscure place on my blog, but John Robb, then-CEO of UserLand Software (Dave Winer, founder) found it and quoted me on his blog with the comment &#8220;Aaron is 14. Someone should tell his parents.&#8221; (No one ever did, as far as I know.) The next day, when I went to see UserLand employee Robert Scoble give a talk, I accidentally let my badge in the hotel room and was dragged out of the talk by security.</p>
+
+<p>On Semantic Web Developer Day, I gave a short presentation about a project I was working on. Ralph Swick (the gruff fellow, you&#8217;ll recall) also gave a presentation. I got in line to ask him a question, but I was last and we were out of time. &#8220;It&#8217;ll be quick,&#8221; I lied. &#8220;OK, they said. &#8220;Have you thought at all about the privacy implications of this?&#8221; I asked (for his software was a total privacy nightmare). &#8220;Yes,&#8221; RRS responded and everybody laughed. I went back t the audience feeling like a jerk and RRS ignored me when I tried to ask him to elaborate one-on-one.</p>
+
+<p>It was in the hallway one day that I first really talked to TimBL. He was breezing down the corridor when he spotted me and ran up. &#8220;Aaron!&#8221; he said. &#8220;I really appreciate all the work you[&#8216;re doing &#8212; it&#8217;s great stuff. Do you think maybe you could help with a little project?]&#8221; Flustered, I said of course. He outlined a project having to do with encrypted RDF and I eagerly volunteered, amazed at my good fortune.</p>
+
+<p>A few days later, at a conference dinner, I got my food and was looking for a place to sit, when TimBL came by. &#8220;Here,&#8221; he said, &#8220;I think I&#8217;ve got a place for you&#8221; and he brought me over to the W3C table, seating me directly across from him, which was simply amazing. The table was full of good cheer and Tim commemorated the moment by passing his camera around it and asking everyone to take a photo from their point of view.</p>
+
+<p>I last saw him as we were leaving when he pulled my mom aside and introduced himself. &#8220;Aaron&#8217;s doing great work,&#8221; he said, &#8220;but I&#8217;m a little worried. The other night at dinner all he had was rice.&#8221; &#8220;Oh, he&#8217;s just a fussy eater,&#8221; my mom explained.</p>
+
+<hr />
+
+<p>The last time my path crossed with TimBL is when I was applying for Stanford. My Dad happened to be in Cambridge at the time and insisted on asking TimBL for a letter of recommendation, by going over to TimBL&#8217;s office. Apparently he had better luck than I, since I&#8217;m told TimBL agreed and I was later accepted to Stanford. I guess a letter of recommendation from the creator of the Web counts for something, even if he is an Englishman.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">August 25, 2008</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>The writing&#8217;s fine. The only moving story I&#8217;ve appreciated in ages. Great stuff Aaron.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://dannyayers.com">Danny Ayers</a>
+ on August 27, 2008 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>Hey Aaron! I remember that day at MIT :)</p>
+
+<p>Regarding: &#8220;But I can take you to meet our PR director and she can answer any questions you might have.&#8221; / This seemed like an odd move to me. &#8230; some back story re the &#8216;odd&#8217;ness:</p>
+
+<p>Before you stopped by, we&#8217;d mentioned (by way of the RSS1 collaboration) that we&#8217;d both be around at same time, and talked about meeting.</p>
+
+<p>When I mentioned this to a Rael (who was chairing the RSS1 cabal) he said something like &#8220;oh., erm, so you&#8217;re going to meet a teenage boy off the Internet?&#8221;, suggesting that US lawpersons might soon have me locked up if I wasn&#8217;t more careful, or if parents/police found out you were meeting an Internet Stranger. This hadn&#8217;t occured to me, but on that advice I didn&#8217;t rush to arrange a meeting.  I was new to the USA and its strange ways, after all.</p>
+
+<p>So I was a little suprised when you turned up unannounced at MIT :) - though it was nice to see you. We were having an Annotea meeting at the time, I think. So one motivation to meet with PR / head-of-comms was to offset Rael&#8217;s concern.</p>
+
+<p>Also she was more entertaining than me. The little rant you triggered was by asking something like &#8220;so why is the W3C all closed and secret, while the IETF are open and public?&#8221;. At which point you got the same treatment anyone else would&#8217;ve gotten if they asked the same.</p>
+
+<p>Anyways it was good meeting you and having you in the RDFCore WG. I do think you&#8217;ve got the wrong impression of RRS though, so sorry to hear that.</p>
+
+<p>All the best,</p>
+
+<p>Dan</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://danbri.org/">Dan Brickley</a>
+ on August 27, 2008 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>Great story.  I remember WWW2002 fondly too, mostly for Kevin Hughes&#8217; party at his place in the mountains behind - and overlooking - Honolulu (TimBL was there too).  I also remember going out to dinner with you, Rohit Khare, and Roy Fielding, and you eating only rice there too.  Shame we didn&#8217;t take any pictures.  Good times.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.markbaker.ca">Mark Baker</a>
+ on August 27, 2008 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>This could be a good piece on This American Life and help your public radio endeavor.</p>
+
+<p class="posted">posted by JoeAk
+ on August 27, 2008 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>Manner is the external symbol of man’s inner nature. It indicates his character. But sometimes it hides the real character of a man. <a href="http://www.italkshawk.blogspot.com" rel="nofollow">A man may be rough or rude to others outwardly but in worldly he may have a good heart&#8230;</a></p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.freeiwebdirectory.com">Tanveer </a>
+ on August 29, 2008 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="mylifewithtim" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

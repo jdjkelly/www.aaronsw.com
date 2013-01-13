@@ -1,0 +1,186 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Against All Enemies: The Movie (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/001191.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001190" title="Shorter Richard Clarke" />	<link rel="next" href="001193" title="How iTMS Works" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Against All Enemies: The Movie</h1>
+</div>
+
+<div class="content">
+<p>I&#8217;ve been reading Clarke&#8217;s new book, <em>Against All Enemies</em>, and I have to say, for the first chapter at least, the screen play almost writes itself:</p>
+
+<blockquote>
+	<p>INT. ARAB HOUSE - NIGHT</p>
+	
+	<p>We&#8217;re on a handheld camera, RUNNING through this brown and dirty house. There&#8217;s enough light to see what&#8217;s basically going on &#8212; the house is dirt brown, there are THREE MEN wearing all black running in front of us &#8212; but not enough to see clearly. Eventually, after winding our way through the building, we STOP at locked door. The men back up, one KICKS open the door, and they start SHOOTING.</p>
+	
+	<p>When the dust is clear, we see three men sitting around a table, all DEAD. The three men, who, as they turn around to leave, we now see are all ARABS with long beards, WALK past the camera and out of the building. The camera FOLLOWS them a ways down the hallway but then STOPS to watch them leave.</p>
+	
+	<p>Once they&#8217;re gone, it turns to the left, revealing ANOTHER ARAB MAN hiding behind a door.</p>
+	
+	<p>ANOTHER ARAB MAN: (extremely scared) It&#8217;s started.</p>
+	
+	<p>EXT. WASHINGTON, D.C. - NIGHT</p>
+	
+	<p>Aerial footage of FLYING over the capital, it&#8217;s dark and the colors are muted. <em>24</em>-style thriller music starts up as the opening credits roll. In the background, from behind us, we HEAR the voice of former presidents:</p>
+	
+	<p>RONALD REAGAN (VO): I &#8230; do solemnly swear&#8230;</p>
+	
+	<p>GEORGE H. W. BUSH: &#8230;that I will defend support and defend&#8230;</p>
+	
+	<p>BILL CLINTON: &#8230;the Constitution of the United States&#8230;</p>
+	
+	<p>GEORGE W. BUSH: &#8230;against all enemies.</p>
+	
+	<p>And with these last words, giant silver type reading &#8220;AGAINST ALL ENEMIES&#8221; SLAMS into place on the screen.</p>
+</blockquote>
+
+<p>What&#8217;s amazing actually is how close the story follows the <em>24</em> formula. We begin with some omen in an foreign country (see above), cut to some likable but hawkish and unknown government bureacrat (Jack Bauer&#8212;I mean, Richard Clarke) who gets called on his car phone, quickly drives to government headquarters, and is thrust into the center of the action.</p>
+
+<p>Everyone defers to Jack&#8212;I mean Clarke, whenever he looks at someone (be it the VP or the head of the FAA) they answer and do what he says. Meanwhile, his friends at the office remail loyal, and jovial, and even get off clever lines in the heat of the moment.</p>
+
+<p>This is not to say that I think Clarke&#8217;s book is inaccurate &#8212; I think it&#8217;s nearly completely correct &#8212; but to say that I now think <em>24</em> is accurate, certainly far more than I thought before. </p>
+
+<p>(I had another experience of the same nature last night as well. I turned on C-SPAN and they were running an old 70s TV interview with John Kerry about the Vietnam war. And it looked just like every modern 70s TV imitation I&#8217;d ever seen &#8212; complete with &#8220;bad&#8221; makeup job to make Kerry look thirty years younger! I thought that they were caricaturing the 70s, but apparently it actually did look just like that.)</p>
+
+<p>Anyway, my conclusion is that it won&#8217;t be long before Sorkin or Cochran and Surnow make this book into a movie, or at least a TV special. It&#8217;ll probably be called: &#8220;Against All Enemies: The True Story of September 11. Based on the Bestselling Book by Richard Clarke.&#8221;</p>
+
+<p class="posted">posted March 29, 2004 10:22 AM (<a class="category" href="cat_politics">Politics</a>) (<a href="#comments">0 comments</a>) <a href="001191" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001190" title="Shorter Richard Clarke">&laquo; prev</a> | <a href="./">up</a> | <a href="001193" title="How iTMS Works">next &raquo;</a></p>
+
+<p><a href="001185">Shorter Tom DeLay</a><br />
+<a href="001187">Wonderfalls</a><br />
+<a href="001188">President Bush: Why Can&#8217;t He Stop Lying?</a><br />
+<a href="001189">Markdown</a><br />
+<a href="001190">Shorter Richard Clarke</a><br />
+<strong>Against All Enemies: The Movie</strong><br />
+<a href="001193">How iTMS Works</a><br />
+<a href="001194">Free Culture Wiki: Piracy Hits a New Low</a><br />
+
+</p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/001191.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/mt-comments.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1191" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /><br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

@@ -1,0 +1,1096 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Who Writes Wikipedia? (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Who Writes Wikipedia?</h1>
+
+<div class="wikivote">
+<p class="head"><strong>Wikimedia 2006 Elections</strong></p>
+
+<p>
+Part 1: <a href="wikiroads">Wikimedia at the Crossroads</a><br />
+Part 2: <strong>Who Writes Wikipedia?</strong><br />
+Part 3: <a href="whorunswikipedia">Who Runs Wikipedia?</a><br />
+Part 4: <a href="morewikipedians">Making More Wikipedians</a><br />
+Part 5: <a href="morewikipedias">Making More Wikipedias</a><br />
+Part 6: <a href="wikicodeislaw">Code, and Other Laws</a><br />
+</p>
+
+<p><strong>Translations:</strong> <a href="http://www.hyuki.com/yukiwiki/wiki.cgi?WhoWritesWikipedia">日本語</a>, <a href="http://es.wikipedia.org/wiki/Usuario:Chewie/Qui%C3%A9n_escribe_la_Wikipedia">Español</a>, <a href="http://de.wikipedia.org/wiki/Benutzer:Avatar/Wer_schreibt_die_Wikipedia">Deutsch</a>, <a href="http://ulik.typepad.com/leafar/2006/09/qui_ecrit_wikip.html">Français</a> (<a href="mailto:me@aaronsw.com">add</a>)</p>
+
+<p><strong><a href="http://en.wikipedia.org/wiki/User:AaronSw/Election">Vote for me</a></strong> in the election for the Wikimedia Foundation&#8217;s Board of Directors.</p>
+</div>
+
+<p>I first met Jimbo Wales, the face of Wikipedia, when he came to speak at Stanford. Wales told us about Wikipedia&#8217;s history, technology, and culture, but one thing he said stands out. &#8220;The idea that a lot of people have of Wikipedia,&#8221; he noted, &#8220;is that it&#8217;s some emergent phenomenon &#8212; the wisdom of mobs, swarm intelligence, that sort of thing &#8212; thousands and thousands of individual users each adding a little bit of content and out of this emerges a coherent body of work.&#8221;<a href="whowriteswikipedia_fn1">†</a> <a name="fn1"></a>But, he insisted, the truth was rather different: Wikipedia was actually written by &#8220;a community &#8230; a dedicated group of a few hundred volunteers&#8221; where &#8220;I know all of them and they all know each other&#8221;. Really, &#8220;it&#8217;s much like any traditional organization.&#8221;</p>
+
+<p>The difference, of course, is crucial. Not just for the public, who wants to know how a grand thing like Wikipedia actually gets written, but also for Wales, who wants to know how to run the site. &#8220;For me this is really important, because I spend a lot of time listening to those four or five hundred and if &#8230; those people were just a bunch of people talking &#8230; maybe I can just safely ignore them when setting policy&#8221; and instead worry about &#8220;the million people writing a sentence each&#8221;.</p>
+
+<p>So did the Gang of 500 actually write Wikipedia? Wales decided to run a simple study to find out: he counted who made the most edits to the site. &#8220;I expected to find something like an 80-20 rule: 80% of the work being done by 20% of the users, just because that seems to come up a lot. But it&#8217;s actually much, much tighter than that: it turns out over 50% of all the edits are done by just .7% of the users &#8230; 524 people. &#8230; And in fact the most active 2%, which is 1400 people, have done 73.4% of all the edits.&#8221; The remaining 25% of edits, he said, were from &#8220;people who [are] contributing &#8230; a minor change of a fact or a minor spelling fix &#8230; or something like that.&#8221;</p>
+
+<p>Stanford wasn&#8217;t the only place he&#8217;s made such a claim; it&#8217;s part of the standard talk he gives all over the world. &#8220;This is the group of around a thousand people who really matter&#8221;, he told us at Stanford. &#8220;There is this tight community that is actually doing the bulk of all the editing&#8221;, he explained at the Oxford Internet Institute. &#8220;It&#8217;s a group of around a thousand to two thousand people,&#8221; he informed the crowd at GEL 2005. These are just the three talks I watched, but Wales has given hundreds more like them.</p>
+
+<p>At Stanford the students were skeptical. Wales was just counting the number of edits &#8212; the number of times a user changed something and clicked save. Wouldn&#8217;t things be different if he counted the amount of text each user contributed? Wales said he planned to do that in &#8220;the next revision&#8221;, but was sure &#8220;my results are going to be even stronger&#8221;, because he&#8217;d no longer be counting vandalism and other changes that later got removed.</p>
+
+<p>Wales presents these claims as comforting. Don&#8217;t worry, he tells the world, Wikipedia isn&#8217;t as shocking as you think. In fact, it&#8217;s just like any other project: a small group of colleagues working together toward a common goal. But if you think about it, Wales&#8217;s view of things is actually much <em>more</em> shocking: around a thousand people wrote the world&#8217;s largest encyclopedia in four years for free? Could this really be true?</p>
+
+<hr />
+
+<p>Curious and skeptical, I decided to investigate. I picked an article at random (&#8220;Alan Alda&#8221;) to see how it was written. <a href="http://en.wikipedia.org/w/index.php?title=Alan_Alda&amp;oldid=72331810">Today the Alan Alda page</a> is a pretty standard Wikipedia page: it has a couple photos, several pages of facts and background, and a handful of links. But <a href="http://en.wikipedia.org/w/index.php?title=Alan_Alda&amp;oldid=234091">when it was first created</a>, it was just two sentences: &#8220;Alan Alda is a male actor most famous for his role of Hawkeye Pierce in the television series MASH. Or recent work, he plays sensitive male characters in drama movies.&#8221; How did it get from there to here?</p>
+
+<p>Edit by edit, I watched the page evolve. The changes I saw largely fell into three groups. A tiny handful &#8212; probably around 5 out of nearly 400 &#8212; were &#8220;vandalism&#8221;: confused or malicious people adding things that simply didn&#8217;t fit, followed by someone undoing their change. The vast majority, by far, were small changes: people fixing typos, formatting, links, categories, and so on, making the article a little nicer but not adding much in the way of substance. Finally, a much smaller amount were genuine additions: a couple sentences or even paragraphs of new information added to the page.</p>
+
+<p>Wales seems to think that the vast majority of users are just doing the first two (vandalizing or contributing small fixes) while the core group of Wikipedians writes the actual bulk of the article. But that&#8217;s not at all what I found. Almost every time I saw a substantive edit, I found the user who had contributed it was not an active user of the site. They generally had made less than 50 edits (typically around 10), usually on related pages. Most never even bothered to create an account.</p>
+
+<hr />
+
+<p>To investigate more formally, I purchased some time on a computer cluster and downloaded a copy of the Wikipedia archives. I wrote a little program to go through each edit and count how much of it remained in the latest version.<a href="whowriteswikipedia_fn2">†</a> <a name="fn2"></a>Instead of counting edits, as Wales did, I counted the number of letters a user actually contributed to the present article.</p>
+
+<p>If you just count edits, it appears the biggest contributors to the Alan Alda article (7 of the top 10) are registered users who (all but 2) have made thousands of edits to the site. Indeed, #4 has made over 7,000 edits while #7 has over 25,000. In other words, if you use Wales&#8217;s methods, you get Wales&#8217;s results: most of the content seems to be written by heavy editors.</p>
+
+<p>But when you count letters, the picture dramatically changes: few of the contributors (2 out of the top 10) are even registered and most (6 out of the top 10) have made less than 25 edits to the entire site. In fact, #9 has made exactly one edit &#8212; this one! With the more reasonable metric &#8212; indeed, the one Wales himself said he planned to use in the next revision of his study &#8212; the result completely reverses.</p>
+
+<p>I don&#8217;t have the resources to run this calculation across all of Wikipedia (there are over 60 million edits!), but I ran it on several more randomly-selected articles and the results were much the same. For example, the largest portion of the Anaconda article was written by a user who only made 2 edits to it (and only 100 on the entire site). By contrast, the largest number of edits were made by a user who appears to have contributed no text to the final article (the edits were all deleting things and moving things around).</p>
+
+<hr />
+
+<p>When you put it all together, the story become clear: an outsider makes one edit to add a chunk of information, then insiders make several edits tweaking and reformatting it. In addition, insiders rack up thousands of edits doing things like changing the name of a category across the entire site &#8212; the kind of thing only insiders deeply care about. As a result, insiders account for the vast majority of the edits. But it&#8217;s the outsiders who provide nearly all of the content.</p>
+
+<p>And when you think about it, this makes perfect sense. Writing an encyclopedia is hard. To do anywhere near a decent job, you have to know a great deal of information about an incredibly wide variety of subjects. Writing so much text is difficult, but doing all the background research seems impossible.</p>
+
+<p>On the other hand, everyone has a bunch of obscure things that, for one reason or another, they&#8217;ve come to know well. So they share them, clicking the edit link and adding a paragraph or two to Wikipedia. At the same time, a small number of people have become particularly involved in Wikipedia itself, learning its policies and special syntax, and spending their time tweaking the contributions of everybody else.</p>
+
+<p>Other encyclopedias work similarly, just on a much smaller scale: a large group of people write articles on topics they know well, while a small staff formats them into a single work. This second group is clearly very important &#8212; it&#8217;s thanks to them encyclopedias have a consistent look and tone &#8212; but it&#8217;s a severe exaggeration to say that they wrote the encyclopedia. One imagines the people running <em>Britannica</em> worry more about their contributors than their formatters.</p>
+
+<p>And Wikipedia should too. Even if all the formatters quit the project tomorrow, Wikipedia would still be immensely valuable. For the most part, people read Wikipedia because it has the information they need, not because it has a consistent look. It certainly wouldn&#8217;t be as nice without one, but the people who (like me) care about such things would probably step up to take the place of those who had left. The formatters aid the contributors, not the other way around.</p>
+
+<hr />
+
+<p>Wales is right about one thing, though. This fact does have enormous policy implications. If Wikipedia is written by occasional contributors, then growing it requires making it easier and more rewarding to contribute occasionally. Instead of trying to squeeze more work out of those who spend their life on Wikipedia, we need to broaden the base of those who contribute just a little bit.</p>
+
+<p>Unfortunately, precisely because such people are only occasional contributors, their opinions aren&#8217;t heard by the current Wikipedia process. They don&#8217;t get involved in policy debates, they don&#8217;t go to meetups, and they don&#8217;t hang out with Jimbo Wales. And so things that might help them get pushed on the backburner, assuming they&#8217;re even proposed.</p>
+
+<p>Out of sight is out of mind, so it&#8217;s a short hop to thinking these invisible people aren&#8217;t particularly important. Thus Wales&#8217;s belief that 500 people wrote half an encyclopedia. Thus his assumption that outsiders contribute mostly vandalism and nonsense. And thus the comments you sometimes hear that making it hard to edit the site might be a good thing.</p>
+
+<p>&#8220;I&#8217;m not a wiki person who happened to go into encyclopedias,&#8221; Wales told the crowd at Oxford. &#8220;I&#8217;m an encyclopedia person who happened to use a wiki.&#8221; So perhaps his belief that Wikipedia was written in the traditional way isn&#8217;t surprising. Unfortunately, it is dangerous. If Wikipedia continues down this path of focusing on the encyclopedia at the expense of the wiki, it might end up not being much of either.</p>
+
+<div class="wikibox">
+
+<p><strong>More:</strong> <a href="http://en.wikipedia.org/wiki/User:AaronSw/Election/FAQ">Further reading</a> | <a href="http://en.wikipedia.org/wiki/User:AaronSw/Election">Vote for me</a> | <a href="http://meta.wikimedia.org/wiki/Talk:Who_Writes_Wikipedia%3F">Discuss on Meta-Wiki</a> | <a href="http://reddit.com/submit?url=http://www.aaronsw.com/weblog/whowriteswikipedia">Discuss on Reddit</a></p>
+
+<p><strong>Follow ups:</strong> <a href="writefp">Summary of further research</a>, <a href="whowritescomments">summary of responses</a>.</p>
+
+<p><strong>Additional information:</strong> <a href="http://www.aaronsw.com/2002/whowriteswikipedia/">my collection of research on this question</a>.</p>
+
+</div>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">September  4, 2006</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>This is interesting.  I came to a similar conclusion (that Wikipedia is similar to traditional encyclopedias) based on my own experiences as a contributor of traditional encyclopedia articles; see here:
+<a href="http://www.stat.columbia.edu/~cook/movabletype/archives/2006/08/wikipedia_and_e.html" rel="nofollow">http://www.stat.columbia.edu/~cook/movabletype/archives/2006/08/wikipedia_and_e.html</a></p>
+
+<p>Also see here for my further thoughts on the topic:
+<a href="http://www.stat.columbia.edu/~cook/movabletype/archives/2006/09/who_writes_wiki.html" rel="nofollow">http://www.stat.columbia.edu/~cook/movabletype/archives/2006/09/who_writes_wiki.html</a>
+Regarding the formatting issues that you mention near the end of your article, I agree that ultimately the ocntent is more important.  But I imagine the common format is a big part of Wikipedia&#8217;s appeal&#8212;it sort of makes it into the McDonald&#8217;s of information sources. I suspect that the clean and uniform format is a large part of Wikipedia&#8217;s air of authority.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.stat.columbia.edu/~gelman/blog">Andrew Gelman</a>
+ on September  4, 2006 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>Excellent article.</p>
+
+<p class="posted">posted by Paul Simpson
+ on September  4, 2006 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>An excellent article.  I tried to vote, but since I am one of your &#8220;occasional contributors&#8221; (I&#8217;ve edited only one article to make content changes), I am not eligible to vote.  It appears that the opinions of &#8220;occasional contributors&#8221; will not be heard.</p>
+
+<p class="posted">posted by Eric 
+ on September  4, 2006 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>Great article, Aaron. Will you release your code and conclusions?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://craphound.com/">Cory Doctorow</a>
+ on September  4, 2006 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>I need to clean the code up before I can publish it, but I&#8217;m happy to work with anyone who&#8217;s interested in pursuing this further.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com">Aaron Swartz</a>
+ on September  4, 2006 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c6">
+<p>Andrew Gelman says &#8220;I suspect that the clean and uniform format is a large part of Wikipedia&#8217;s air of authority.&#8221;</p>
+
+<p>Spot on, BUT the &#8220;air of authority&#8221; is quite a different matter than actual &#8220;authority&#8221;.</p>
+
+<p>The good sign is that format, etc. sells tickets but content changes the world.</p>
+
+<p>The bad sign is that those who groom this monkey seem to have taken control of the project by setting themselves up as a hierarchy via voting eligibility rules.</p>
+
+<p>The people Aaron shows to have crafted the content are largely disenfranchised while the &#8220;eyeshade editors&#8221; rule.</p>
+
+<p>Hope I&#8217;m wrong.</p>
+
+<p>Love.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.boobam.org">William Loughborough</a>
+ on September  4, 2006 <a href="#c6" rel="bookmark">#</a></p>
+</div>
+<div id="c7">
+<p>&#8220;Don&#8217;t worry, he tells the world, Wikipedia isn&#8217;t as shocking as you think. In fact, it&#8217;s just like any other project: &#8230;&#8221;</p>
+
+<p>And he&#8217;s correct, though that cuts both ways. There&#8217;s an &#8220;editorial staff&#8221; which handles the copyediting, versus the occasional freelance contributors, who work on specific topics. That is indeed a standard model.</p>
+
+<p>What&#8217;s really interesting about Wikipedia is how:</p>
+
+<p>1) It manages NOT TO PAY almost anyone, getting people to donate their services, on the basis of &#8220;community&#8221; or other ideas.</p>
+
+<p>2) It&#8217;s developed elaborate intellectual defenses against the failings of #1, whenever the flaws show through.</p>
+
+<p>Those are two aspects which are, if not exactly completely novel, definitely innovative implementations of eternal themes.</p>
+
+<p>Let&#8217;s again recall there&#8217;s <a href="http://www.americanventuremagazine.com/news.php?newsid=941" rel="nofollow">$4 million of venture capital</a> invested in the associated Wikia venture, and at a rule of thumb of 10x return, the investors want at least <em>$40 million</em>. That&#8217;s got to come from somewhere, and figuring out how to get work for free seems like a major part of it.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://sethf.com/">Seth Finkelstein</a>
+ on September  4, 2006 <a href="#c7" rel="bookmark">#</a></p>
+</div>
+<div id="c8">
+<p>Seth, you seem to think those venture capitalists are being rational in expecting Wikia to succeed to the tune of $40 mill; I&#8217;d say that that is rather optimistic and reminds me not a little of the first Internet bubble.</p>
+
+<p class="posted">posted by maru
+ on September  4, 2006 <a href="#c8" rel="bookmark">#</a></p>
+</div>
+<div id="c9">
+<p>You are obviously speaking of good encyclopedias. I had a wild boss who, in his earlier years, got an editorial job with one of those grocery store encyclopedias. He specialized in R through S.</p>
+
+<p>Julie</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://walkingprescott.blogspot.com">julie</a>
+ on September  4, 2006 <a href="#c9" rel="bookmark">#</a></p>
+</div>
+<div id="c10">
+<p>&#8220;Observe: The humorless wikipedia administrator in its natural habitat!&#8221; - me, looking at the &#8216;recent changes&#8217; page of the <i>Encyclopedia Dramatica</i></p>
+
+<p>There are the people who contribute content, and there are the people who maintain it. The former doesn&#8217;t know the intimate details of the wiki&#8217;s features. The latter does, and will sometimes leave snippy comments about the lack of this as they make it conform to the spec.</p>
+
+<p>The mindset is the same, whatever wikipedia-type place it&#8217;s found on. Even in ones dedicated to misinformation and gossip.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://egypt.urnash.com">Egypt Urnash</a>
+ on September  4, 2006 <a href="#c10" rel="bookmark">#</a></p>
+</div>
+<div id="c11">
+<p>Fantastic insight.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.liberalavenger.com">The Liberal Avenger</a>
+ on September  4, 2006 <a href="#c11" rel="bookmark">#</a></p>
+</div>
+<div id="c12">
+<p>Very insightful Aaron.</p>
+
+<p>In fact to think of it, I guess it is this flawed understanding of the nature of the contribution process to Wikipedia which Wales harbors might be behind the recent decision by Wikipedia to ban edits by users who are not logged in.</p>
+
+<p>I think this is one of the most regressive moves in the history of Wikipedia - by putting in a login &#8216;barrier&#8217; i would assume a lot of the casual (but as you pointed out, very critical) contribution is put off.</p>
+
+<p>This type of casual contribution is at the heart of Wikipedia, and no amount of vandalism is reason enough to put barriers around this. 
+It is like killing your goose which lays the golden eggs, just because you cant stop some of them from being stolen.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.slashindia.org">neeraj</a>
+ on September  4, 2006 <a href="#c12" rel="bookmark">#</a></p>
+</div>
+<div id="c13">
+<p>I already voted, and now I&#8217;m annoyed I didn&#8217;t vote for you!</p>
+
+<p>&lt;</p>
+
+<p>p><!--[You can always <a href='http://en.wikipedia.org/wiki/Special:Boardvote/vote'>change your vote!</a> --ASw]</p><p>-->This is a fantastic observation. If you weren&#8217;t running in the Board election, I&#8217;d be spreading it far and wide. As is, I feel too far into the guts of Wikimedia politics to be spreading it with propriety and not appearing to push your candidacy per se &#8230; gah.</p>
+
+<p>&lt;</p>
+
+<p>p>But yes. This has major implications for policy and how Wikipedia works.</p>
+
+<p>&lt;</p>
+
+<p>p>(And it&#8217;s also a nice big stick for me to hit people over the head with concerning Byzantine overengineered processes.)</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://en.wikipedia.org/wiki/User:David_Gerard">David Gerard</a>
+ on September  4, 2006 <a href="#c13" rel="bookmark">#</a></p>
+</div>
+<div id="c14">
+<p>David,</p>
+
+<p>You can vote again, and it will override your previous vote.</p>
+
+<p class="posted">posted by Jacob Rus
+ on September  4, 2006 <a href="#c14" rel="bookmark">#</a></p>
+</div>
+<div id="c15">
+<p>What computer cluster did you use? What kind of programming environment is it?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.zoo-crew.org">Will Bendick</a>
+ on September  4, 2006 <a href="#c15" rel="bookmark">#</a></p>
+</div>
+<div id="c16">
+<p>Aaron - this page was noted on wikien-l, and I suggested to Gregory Maxwell that you two should talk about how to get good data across the whole database. Greg is very good at running interesting queries on the whole database - if your methodology can be automated, this will give you accurate data. Since if you&#8217;re running for the Board because of this, I assume you&#8217;d prefer greater certainty!</p>
+
+<p>Thread starts here: http://mail.wikipedia.org/pipermail/wikien-l/2006-September/thread.html#53307</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://en.wikipedia.org/wiki/User:David_Gerard">David Gerard</a>
+ on September  4, 2006 <a href="#c16" rel="bookmark">#</a></p>
+</div>
+<div id="c17">
+<p>i love wikipedia.</p>
+
+<p>but i have felt that my contributions
+&#8212; on topics where i do have expertise &#8212;
+have been warped by people who merely want
+to &#8220;make it sound like an encyclopedia&#8221;
+without having any knowledge of the topic.</p>
+
+<p>it seems to me that the experts that
+wikipedia so desperately needs will be
+<em>precisely</em> those people who are <em>not</em>
+making edits to a large number of topics.</p>
+
+<p>-bowerbird</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.performancepoetry.com">bowerbird</a>
+ on September  4, 2006 <a href="#c17" rel="bookmark">#</a></p>
+</div>
+<div id="c18">
+<p>Interesting article, but I think you&#8217;re being overly dismissive of the insiders/formatters. Because the likelihood of casual users making significant contributions is determined not only by how easy it is for casual readers to contribute, but also by how many such readers there are to begin with. And the size of that pool of readers depends to a great extent on how readable, reliable and accessible the information presented is. So a change that imposes a minor impediment to casual edits can still result in a net increase in casual editors if it also helps the &#8220;insiders and formatters&#8221; improve Wikipedia&#8217;s usability, and increase its readership.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://en.wikipedia.org/wiki/User:Abou_Ben_Adhem">Abou Ben Adhem</a>
+ on September  4, 2006 <a href="#c18" rel="bookmark">#</a></p>
+</div>
+<div id="c19">
+<p>I second what bowerbird says. I used to be one of the people making small but regular contributions to Wikipedia, on the subject of places I have lived and the London theatre scene/history, both subjects on which I have a lot to contribute, but got fed up of the self-appointed officious jobsworths who would come along minutes later and revert your contribution or substantially modify it (so that it lost the important detail), in order that things would fit &#8220;their vision&#8221; for the sections they &#8220;patrol&#8221; and have &#8220;made their own&#8221;. My time is too valuable to argue with these people, sit monitoring discussion pages, or fight for ages to wrestle control back (and in doing so become as bad as these people, if I were to end up spending my entire waking hours on Wikipedia as they appear to).</p>
+
+<p>I&#8217;ve also become annoyed with the behaviour of this perceived &#8220;inner circle&#8221; when it comes to current events and the &#8220;high and mighty&#8221; attitude they have to outsider contributors (not me in these cases).</p>
+
+<p>Wikipedia was good up until 12-18 months ago but lately it&#8217;s become far too cliquey. Which scares a lot of knowledgeable would-be contributors off, because if we are to invest our valuable time contributing some expert knowledge on some subject, we want to know that our work will remain there for others, and not just keep getting reverted out in seconds by some control freak that knows nothing about the actual subject.</p>
+
+<p>Why am I taking the time to make this point here? Because your article proves the existance of this &#8220;inner gang&#8221; that I feel are actually holding Wikipedia back. To allow Wikipedia to grow and really pick the brains of the experts around the world, you need to do something to break up this inner gang and the mini empires they are building for themselves.</p>
+
+<p class="posted">posted by Ian
+ on September  4, 2006 <a href="#c19" rel="bookmark">#</a></p>
+</div>
+<div id="c20">
+<p>As an &#8220;occasional contributer&#8221; I&#8217;ve found largely the same thing. The &#8220;super editors&#8221; are the ones whom the site benefits, and, unfortunately, they share the same opinion as Wales that they are responsible for the bulk of the content. I&#8217;ve proposed the addition or deletion of a couple articles, cited Wikipedia policy (two or three points in each case) and have been told point blank that I am wrong and that &#8220;the other editors would agree with&#8221; the editor I was arguing with. I may not spend 10 hours a day on the site or have thousands of edits under my belt, but this sort of treatment just left me with a bad taste in my mouth, and it sounds like the founder is all but condoning it.</p>
+
+<p class="posted">posted by Anonymous
+ on September  4, 2006 <a href="#c20" rel="bookmark">#</a></p>
+</div>
+<div id="c21">
+<p>All of the original content before it was switched to PHPWiki was done by an almost entirely different group than the people who are doing it today, so while there may be 500 active supercontributors at any one time, between 2001 and now there has been a constantly changing group of active contributors. This has an effect on both the numbers that are being used here, I think. Early on, there was only about 500 people, total contributing, but everyone was a supercontributor.</p>
+
+<p>As a side note, it was much easier to contribute before, when you could discuss with other contributors and know that someone really had to be disruptive to be blocked. It happens way too easily now, primarily I think because of a number of truly unprofessional so-called &#8220;moderators&#8221;. The power imbalance now is very anti-wiki.</p>
+
+<p>alan_dershowitz (one of the earlier contributors.)</p>
+
+<p class="posted">posted by alan_dershowitz
+ on September  4, 2006 <a href="#c21" rel="bookmark">#</a></p>
+</div>
+<div id="c22">
+<p>This is a smart and important post.</p>
+
+<p class="posted">posted by Petey
+ on September  4, 2006 <a href="#c22" rel="bookmark">#</a></p>
+</div>
+<div id="c23">
+<p>Dear Aaron</p>
+
+<p>As another occasional contributor I&#8217;ve established 2-3 articles and watched them get a life of their own.</p>
+
+<p>When I tried to vote there was a curious response:</p>
+
+<blockquote>
+  <p>Sorry, you are not qualified to vote in this election here on the English Wikipedia. You need to have made 400 edits here before 2006-08-01T00:00:00; you have made 31. Also, your first edit on this wiki was at 2005-04-29T05:57:45; it needs to be before 2006-05-03T00:00:00.
+  Curious because in my understanding 2005 is before 2006. Perhaps I am misunderstanding the rule?</p>
+</blockquote>
+
+<p>Good luck with the election.</p>
+
+<p>Simon</p>
+
+<p class="posted">posted by Simon Pockley
+ on September  5, 2006 <a href="#c23" rel="bookmark">#</a></p>
+</div>
+<div id="c25">
+<p>Regardless of how many people contribute to Wikipedia content, I remain concerned about the unchecked biases of contributors.  Anyone can can make impressive-sounding citations to create an air of authority when writing/editing a topic.  But what percentage of those occasional, unregistered contributors who are subject matter experts on that topic review new contributions to verify the changes?  While this may be trivial for celebrity bios, it is particularly important for controversial scientific entries, such the standard model for physics, xenoestrogens, and global warming.</p>
+
+<p>At least with a traditional encyclopedia publishing process, the compiling company hires people with well-established expertise to check the work of free-lance contributors.  And on the most important topics, the compiling company gets top-notch subject matter writers to begin with.  None of this is guaranteed in cyberspace.</p>
+
+<p>As a test of my theory the problems with the lack of peer review in Wikipedia, I&#8217;ve augmented a topic (with citations) on a controversial medical topic to see if anyone bothers to challenge my assertions.  It will be interesting to see the revisions of that article.</p>
+
+<p class="posted">posted by jake3_14
+ on September  5, 2006 <a href="#c25" rel="bookmark">#</a></p>
+</div>
+<div id="c26">
+<p>Great work, great post.  I would vote for you if I was in the 400+ club.</p>
+
+<p class="posted">posted by david mathers
+ on September  5, 2006 <a href="#c26" rel="bookmark">#</a></p>
+</div>
+<div id="c27">
+<p>Your point is well taken, with a caveat: that it&#8217;s difficult to actually quantify particular anonymous users&#8217; contributions to Wikipedia.</p>
+
+<p>As anonymous users are tracked by IP address, any one real-world user may be broken up into a countless Wikipedia &#8216;users&#8217; if they happen to reside behind a dynamic IP.</p>
+
+<p>Even given a fairly stable IP address here at home, the Wikipedia user contributions page for my latest anonymous &#8216;identity&#8217; only lists 23 edits to my name. Another one from a month or two back lists only 6. My IP address at work seems to switch on an almost hourly basis, so multiple casual edits from even a single day from there may show up as isolated edits by random readers passing in the night.</p>
+
+<p>The idea that the bulk of Wikipedia&#8217;s substance comes from the more heavily specialized, non-community users strikes me as inherently reasonable (and actually quite reassuring).</p>
+
+<p>I don&#8217;t think, though, that you can establish with any certainty whether these anonymous users return time after time or if they really just make a handful of changes and never hit &#8216;edit&#8217; again.</p>
+
+<p class="posted">posted by Dan
+ on September  5, 2006 <a href="#c27" rel="bookmark">#</a></p>
+</div>
+<div id="c28">
+<p>This is fantastic research and very actionable. Unfortunately, as you note, some actions are going the other way (making it harder for the less frequent but more knowledgeable users).</p>
+
+<p>The other major grip I have with Wikipedia recently is the proliferation of citations. I understand why people think they are of value but I feel like a) they lead to another false sense of authority and b) they lead to disjointed articles (ie., I&#8217;ve seen articles that seem like a long list of citations with not a single sentence seeming to flow from the preious one).</p>
+
+<p class="posted">posted by pwb
+ on September  5, 2006 <a href="#c28" rel="bookmark">#</a></p>
+</div>
+<div id="c29">
+<p>I wrote several wikipedia articles, where I wrote an entire article up out of nothing. In each case, the article was then &#8220;edited&#8221; &#8212; without any notification to me &#8212; by some super-editors, who removed content, and turned what I thought was gosh-darn good writing into crap. I tried to explain to friends my frustrations, and they told me &#8220;Why do you even bother? Of course it&#8217;s just a bunch of self-important snobs.&#8221;</p>
+
+<p>So I went and looked at the people who &#8220;edited&#8221; my contributions, and saw that my friends were right. These people, by and large, &#8220;edited&#8221; thousands of articles. In most cases, these edits were to remove material that they found unsuitable. Indeed, some of the people-history pages contained little &#8220;awards&#8221; that people gave each other &#8212; for removing content from Wikipedia.</p>
+
+<p>Since I heard of your article, I headed on to the voting page, and, alas and alack, I am not eligible to vote, since I have only made 21 article edits. I was also informed that since I didn&#8217;t have the required number of edits by yesterday, I cannot become eligible.</p>
+
+<p>HURRAH, I am DISENFRANCHISED.</p>
+
+<p>All this leads me to ask, &#8220;I wonder if those little &#8220;awards&#8221; that people give each other count towards the required number of edits?</p>
+
+<p>There&#8217;s an old saying, &#8220;The lower the pay, the higher the politics.&#8221; I&#8217;ve seen it happen at college student activities, non-profit volunteer community organizations, etc.</p>
+
+<p>I believe it&#8217;s happening here, now, with Wikipedia.</p>
+
+<p class="posted">posted by Bill Coderre
+ on September  5, 2006 <a href="#c29" rel="bookmark">#</a></p>
+</div>
+<div id="c31">
+<p>Perhaps a more useful metric would be: # of letters typed that are still present in the current release. This would weed out those who contribute garbage data that is only removed later. An even more useful but difficult metric to measure would be: # of letters typed that are present in the most recent non-garbage release (as the current version of some pages may be vandalized).</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.carpeliam.com">Liam Morley</a>
+ on September  5, 2006 <a href="#c31" rel="bookmark">#</a></p>
+</div>
+<div id="c32">
+<p>did anyone check how many of Wales&#8217;s top .7% of most contributing authors are actually bots?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://creativecommons.pl">tarkowski</a>
+ on September  5, 2006 <a href="#c32" rel="bookmark">#</a></p>
+</div>
+<div id="c33">
+<p>I think that this is very insightful and reveals the great &#8216;black hole&#8217; that wikipedia could be drawn into.  If I had the chance to vote, it would be for you.  I fully support your campaign and would be interested to hear the outcome.</p>
+
+<p class="posted">posted by SonicSpeed
+ on September  5, 2006 <a href="#c33" rel="bookmark">#</a></p>
+</div>
+<div id="c34">
+<p>I&#8217;ll join in saying: I&#8217;d vote for you, but I&#8217;m well under 400 official edits.  I&#8217;ve made a lot more than my credited ~40, but I don&#8217;t usually log in.  I wouldn&#8217;t have thought it was important&#8230;</p>
+
+<p class="posted">posted by Jeremy Dunck
+ on September  5, 2006 <a href="#c34" rel="bookmark">#</a></p>
+</div>
+<div id="c35">
+<p>I find it funny that people are complaining it&#8217;s not easy enough to make edits because the big bad super editors revert your writing. Look &#8212; wikipedia can&#8217;t have it both ways, you need to cite your facts, sometimes that means going to the library to cite a fact you already know to be true. Maybe a google book search, a news search, whatever.</p>
+
+<p>Has anyone noticed the articles about wikipedia in the news lately? They are all scare tactics &#8212; wikipedia is a fraud because anyone can make edits! That&#8217;s why the editors have to be so tough about what is added, if they really did allow any old thing to be added wikipedia would be completely useless.</p>
+
+<p>So stop complaining, we can&#8217;t have it both ways. Either we are strict on each other or wikipedia is garbage. Take your pick.</p>
+
+<p>(And to the person who claimed anon IP&#8217;s cant make edits, you dont know what you&#8217;re talking about)</p>
+
+<p class="posted">posted by tch
+ on September  5, 2006 <a href="#c35" rel="bookmark">#</a></p>
+</div>
+<div id="c36">
+<p>Interesting, but as you comment, the analysis really needs to be expanded beyond a couple articles. Otherwise, you risk generalizing from too small a base.</p>
+
+<p>Speaking of which, I&#8217;ll generalize - or at least talk about - myself. The first big thing I did on Wikipedia was editing the Henry James entry up to featured-article status, plus writing a lot of articles on individual works by James. I did much of this work anonymously because I was often too lazy to log in under my account name.</p>
+
+<p>You could say I was your narrow-focus &#8220;expert&#8221; user at first, the kind of editor you think contributes most of the real content. But then something funny happened. I gradually turned into one of Jimbo&#8217;s 0.7% users. Now I make lots of edits to various articles on the encyclopedia, and almost none of them have anything to do with Henry James.</p>
+
+<p>Yesterday, for instance, I worked on an article called Human Waste Project (don&#8217;t ask). Yes, I chip in some real content to such articles, but I also do a lot of cleaning up, linking, organizing, citing, etc. As a result, my edit count has started to pile up, and my contributions list has become a hodgepodge of edits on wildly different subjects.</p>
+
+<p>So your two types of editors are not always distinct. Sometimes, a narrow-focus expert can turn into an all-purpose janitor. God help me, it happened to my little old self.</p>
+
+<p class="posted">posted by Casey Abell
+ on September  5, 2006 <a href="#c36" rel="bookmark">#</a></p>
+</div>
+<div id="c37">
+<p>Casey: <a href="http://www.aaronsw.com/weblog/whowritescomments" rel="nofollow">Seth Anthony&#8217;s study of admin habits finds</a> exactly what you describe: admins start out doing serious contributions, then become janitors. (He even uses the same term!)</p>
+
+<p>And then, apparently, they burn out and leave (for a while, at least).</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on September  5, 2006 <a href="#c37" rel="bookmark">#</a></p>
+</div>
+<div id="c38">
+<p></p>
+
+<p>Welcome to the world of the enlightened.</p>
+
+<p>You&#8217;ve (re)discovered that most editors don&#8217;t edit most pages most of the time, via a different approach from the one Greg Maxwell used.</p>
+
+<p>Thank you very much!</p>
+
+<p>Now if only more people with clue were to actually <em>help</em> me tidy wikipedia guidelines, that&#8217;d be nice. :-) </p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://en.wikipedia.org/wiki/User:Kim Bruning">Kim Bruning</a>
+ on September  5, 2006 <a href="#c38" rel="bookmark">#</a></p>
+</div>
+<div id="c39">
+<p>Oh yeah, I&#8217;m aware of the pattern. I think Angela Beesley said something similar in an interview somewhere. One caveat: &#8220;janitor&#8221; may be something of a misnomer. To take another example, I recently &#8220;janitored&#8221; the article on John Podhoretz. I did a lot of reorganization, straightened out the cites, set up a bibliography, etc.</p>
+
+<p>But I also added a lot of content about Podhoretz&#8217; views on various issues. So it&#8217;s not like janitors don&#8217;t make content contributions, as well. We shouldn&#8217;t get carried away with the distinction between the two types of editors. They really do blend into each other sometimes. For instance, they&#8217;ve blended into, well, me.</p>
+
+<p class="posted">posted by Casey Abell
+ on September  5, 2006 <a href="#c39" rel="bookmark">#</a></p>
+</div>
+<div id="c40">
+<p>I can&#8217;t vote for you &#8212; I didn&#8217;t make 400 edits, so I don&#8217;t count. :-)</p>
+
+<p>&lt;</p>
+
+<p>p></p>
+
+<p>Dunno if that confirms your suspicion. I can say I contributed substantial text to about 5 articles, 2 of which I just checked, and atleast part of my text is present in the article today.</p>
+
+<p>&lt;</p>
+
+<p>p></p>
+
+<p class="posted">posted by agrajag
+ on September  5, 2006 <a href="#c40" rel="bookmark">#</a></p>
+</div>
+<div id="c41">
+<p>You discovered some fascinating numbers and trends, how you present it a bit as a wall of text: Add some charts in there and you&#8217;ll have an internet sensation of an article.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.yafla.com/dforbes/">Dennis Forbes</a>
+ on September  5, 2006 <a href="#c41" rel="bookmark">#</a></p>
+</div>
+<div id="c42">
+<p>I don&#8217;t think there&#8217;s anything you can do to attract occasional contributors to the inner circle of Wikipedia - they just don&#8217;t care. They&#8217;re happy that they can share some knowledge with the world, and I highly doubt that Wikipedia&#8217;s policies lie in their area of interest.</p>
+
+<p class="posted">posted by Baczek, an "occasional contributor"
+ on September  5, 2006 <a href="#c42" rel="bookmark">#</a></p>
+</div>
+<div id="c43">
+<p>Your finding pretty much agree with what I&#8217;ve found from working on Wikipedia for a year or so.  I&#8217;m a little surprised that it&#8217;s skewed quite as far as you say - I think most newbies start by fixing small problems - then get the confidence in the process to dump their personal knowledge areas into a couple of articles which they proceed to maintain for a while.</p>
+
+<p>Then comes the fork in the road - some get drawn inexorably into the community and make more and more (mostly minor) edits - where others lose interest and go away.</p>
+
+<p>But without doubt, it is impossible for 500 people to have made even the smallest scratch into 1.2 million English language articles.  Over the couple of years that Wiki has really taken off, those 500 people would each have had to have written one new article a day in order to have written half of the articles out there.</p>
+
+<p>When you consider the increasing amounts of time those people spend arguing about policy, voting on articles to promote and delete and fixing up style/category/spelling/grammar issues too - that&#8217;s just not credible.</p>
+
+<p>Good article - I agree with you.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.sjbaker.org">Steve Baker</a>
+ on September  5, 2006 <a href="#c43" rel="bookmark">#</a></p>
+</div>
+<div id="c44">
+<p>Excellent article!</p>
+
+<p>I agree with most of the things you said.</p>
+
+<p>PS. If I could, I&#8217;d vote for you :)</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.drx.pl/">Luke Zapart</a>
+ on September  5, 2006 <a href="#c44" rel="bookmark">#</a></p>
+</div>
+<div id="c45">
+<p>This is an interesting analysis.</p>
+
+<p>This would be an absolutely exellent analysis, if someone would whip up one or two graphs that depict the contrasting metrics, and demonstrate what&#8217;s going on.</p>
+
+<p class="posted">posted by algal
+ on September  5, 2006 <a href="#c45" rel="bookmark">#</a></p>
+</div>
+<div id="c46">
+<p>Well I&#8217;d also vote for you if i could but im not playing whack-an-edit with these 500 subeditors to do that.</p>
+
+<p>I&#8217;d question the validity of any editor whom could make 500 changes, what do they know apart from say writing good english.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://bananasfk.wordpress.com">Bananasin the Falklands</a>
+ on September  5, 2006 <a href="#c46" rel="bookmark">#</a></p>
+</div>
+<div id="c47">
+<p>Unfortunately, it does not work as well as we would hope.  Check out the article in The New Yorker&#8230;</p>
+
+<p>http://www.newyorker.com/printables/fact/060731fa_fact</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.daveswave.net">dave</a>
+ on September  5, 2006 <a href="#c47" rel="bookmark">#</a></p>
+</div>
+<div id="c48">
+<p>I can tell you from first hand experience that you are correct. What MADE wikipedia great (for the casual contributor) is the ability to &#8220;put there two<br />
+cents in&#8221;.Yes I think the contributors are far more important.The fact is that the editors try to run a dictatorship and delete most of the articles because 
+of format,I thought that was why they are editors in the first place. Now you have to log in to contribute in which about half as people will get involved. So now you have &#8220;run of the mill&#8221; encyclopedia not an information machine
+way to go inovation killers</p>
+
+<p class="posted">posted by just2speek
+ on September  5, 2006 <a href="#c48" rel="bookmark">#</a></p>
+</div>
+<div id="c49">
+<p>Nope, you don&#8217;t have to log in to contribute. I still let a few anon edits slip in occasionally because I forget to log in.</p>
+
+<p>Anyway, I&#8217;m pretty exo, which in wikitalk means I concentrate on articles and related content like images, templates and article talk pages. Very interestingly, my edit count profile looks an awful like Aaron&#8217;s. (Run Essjay&#8217;s edit counter and you&#8217;ll see what I mean.)</p>
+
+<p>I like to follow some of the policy debates, and I occasionally get dragged into an article-for-deletion hoo-hah. I also copy the house newspaper, the Signpost, into my user page and make stupid comments on the stories.</p>
+
+<p>So yeah, I&#8217;ve gone a little past the fork in the road towards the meta side. But not too far. I still throw in lots of content.</p>
+
+<p class="posted">posted by Casey Abell
+ on September  5, 2006 <a href="#c49" rel="bookmark">#</a></p>
+</div>
+<div id="c50">
+<p>Very nice work Aaron!</p>
+
+<p>I was wondering re &#8220;random selection&#8221; of pages for your tests, &#8230; if you randomly select from the entire corpus, versus from the 1000 most popular (on some metric, eg. google rank), versus the 1000 oldest, etc&#8230; how the results would vary. Hope you can find some resources to dig further into this.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://danbri.org">Dan Brickley</a>
+ on September  5, 2006 <a href="#c50" rel="bookmark">#</a></p>
+</div>
+<div id="c51">
+<p>Speaking of random and non-random article lists, there&#8217;s an interesting list at the Signpost site of the 100 most popular articles on Wikipedia. You&#8217;ll notice an obvious pattern. Hint: sex sells.</p>
+
+<p class="posted">posted by Casey Abell
+ on September  5, 2006 <a href="#c51" rel="bookmark">#</a></p>
+</div>
+<div id="c53">
+<p>It is unfortunate that the qualifications for franchise serve to disenfranchise the most substantive contributors to wikipedia.  Since you are attempting to represent them, your campaign is rather handicapped.  I wish you the best possible success.</p>
+
+<p class="posted">posted by aminorex
+ on September  5, 2006 <a href="#c53" rel="bookmark">#</a></p>
+</div>
+<div id="c54">
+<p>You got my vote, man.</p>
+
+<p>I&#8217;d like to see more numbers and charts and more on your methods. Heck, I&#8217;d like to rerun your experiment in HuWiki.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://nyenyec.blogspot.com">nyenyec</a>
+ on September  5, 2006 <a href="#c54" rel="bookmark">#</a></p>
+</div>
+<div id="c57">
+<p>What sort of computing power would be required to get this run over a much larger (10-100%) chunk of the wikipedia?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://jeremy.zawodny.com/blog/">Jeremy Zawodny</a>
+ on September  6, 2006 <a href="#c57" rel="bookmark">#</a></p>
+</div>
+<div id="c58">
+<p>Wikipedia is past the first phase of its growth, when the emphasis was on seeding content.  It has reached sufficient size that parasitic elements start to become noticeable.  The emphasis must now be on cultivating an organization of editors that can properly tend to its growth.  This will require creating a hierarchy of editors and creating a system so that this hierarchy can be properly created and regulated.  For example, an easy complaint mechanism would allow a casual contributor like one of the commenters above to report his problem with an editor wiping out his content to another editor with wider authority, who can adjudicate.  Further, he might be given the ability to create a petition making a case for removing an administrator from control of a particular section.  This petition might be enforced if he can get enough registered users to vote for it.  Those who believe that anything can be done without some sort of administrator hierarchy and easy ways to collect consensus opinions are hoping for a utopian fantasy.  Wikipedia may be a good example of the tragedy of the commons, as most contributors, including me, cannot be bothered to look into the administrator selection process.  However, Wikipedians must always be aware that someone can fork the content and create their own system with its own editing hierarchy (though the costs of bandwidth and servers will ensure that this is not a spontaneous decision).  I suspect that forks to other sites with better administrator processes is what will happen.</p>
+
+<p class="posted">posted by Ajay
+ on September  6, 2006 <a href="#c58" rel="bookmark">#</a></p>
+</div>
+<div id="c59">
+<p>No successful forks have happened yet. Fred Bauder, one of the ArbCom members on Wikipedia, tried a fork with Wikinfo, but it never really caught on.</p>
+
+<p>Anybody who tries to impose a hierarchy of editors on a Wikipedia fork will find it hard to lure contributors away from more free-wheeling sites, like Wikipedia itself. That&#8217;s what happened to Bauder, and I suspect it will happen to anybody attempting a more rigidly policed fork site.</p>
+
+<p class="posted">posted by Casey Abell
+ on September  6, 2006 <a href="#c59" rel="bookmark">#</a></p>
+</div>
+<div id="c60">
+<p>Aaron,</p>
+
+<p>Excellent article, and congratulations on your slashdotting.  As per your last article I had gone to wikipedia to vote for you and found out that because I had not made more that 400 edits I couldn&#8217;t vote.  I was surprised that I didn&#8217;t meet the criteria as I&#8217;ve been a member for a long time. I decided I must not be a very good member so I doubled (by doing ten) my number of edits instead of voting.</p>
+
+<p>Now reading these points I am all the more motivated to vote for you but have decided that instead of me being a poor wikicitizen wikipedia&#8217;s voting system advances an unfair assumption.  The same assumption that you unearthed here: that the only people that matter are the large quantity editors.</p>
+
+<p>So I can&#8217;t vote for you, but if you do get elected and you do believe what you wrote you should act to change the voting system.</p>
+
+<p>-Andy</p>
+
+<p class="posted">posted by Andy Schilling
+ on September  6, 2006 <a href="#c60" rel="bookmark">#</a></p>
+</div>
+<div id="c61">
+<p>You seem to have forgotten considering those users with large numbers of edits and who contribute large amounts to articles. There may be those who are not by your definition &#8220;outsiders&#8221;. What are the statistics in this instance? This would have made your analysis a little more complete.</p>
+
+<p class="posted">posted by 
+ on September  6, 2006 <a href="#c61" rel="bookmark">#</a></p>
+</div>
+<div id="c69">
+<p>Intreguing study, Aaron. From my own personal (&amp; incomplete) experience, I have to agree with your conclusion &#8212; either I can focus on lots of little edits that concern style, formatting, &amp; so forth, or I can focus on making a few substantial contributions.</p>
+
+<p>Despite having written a number of essays in college, I still find it a challenge to write even 500 words on any given topic for Wikipedia.</p>
+
+<p>So why do some contributors cluster at one extreme or the other in their behavior &#8212; &amp; some end up becoming entirely involved in another axis of participation, creating &amp; enforcing policy? I sense material for a Master&#8217;s thesis in psychology or sociology here.</p>
+
+<p class="posted">posted by llywrch
+ on September  6, 2006 <a href="#c69" rel="bookmark">#</a></p>
+</div>
+<div id="c74">
+<p>A nice article and thx a lot for the insight!
+Anyhow i do have some concerns:
+One interesting thing about the wiki-thing in wikipedia is that different tasks (like editing, reviewing, formal qa - to name but a few) are conducted through a single interface and that the complexity of creating an article is therefore driven from the software itself into the flexible organisation of production and publication (so to say, the human factor).
+Regarding yours and Jimmy Wales research, i think that both approaches show some flaws in terms of this aspect. 
+You both wanted to identify an aspect of quality - Which contributions by whom made up the &#8220;essence&#8221; (a hard to operationalize term in anyway) of the article by quantitative means. I don&#8217;t know if this works at all, but in any case there needs to be some sort of categorization: 
+What kind of edit has been conducted here? Editing, Reviewing, Janitoring (?) etc.
+Did this edit lead towards the current state of the article or not? The so called &#8220;quality&#8221; of an article in wikipedia is not defined by absolute means but is the result of the quality demands of the stakeholders, therefore subject to dynamic change.
+In the end this approach is a tedious and time-consuming work if you want to conduct it for thousands of articles.
+And also, by the way, not as shiny and reliable as pure quantitative work.</p>
+
+<p class="posted">posted by Lars
+ on September  6, 2006 <a href="#c74" rel="bookmark">#</a></p>
+</div>
+<div id="c75">
+<p><i>&#8220;admins start out doing serious contributions, then become janitors.&#8221;</i></p>
+
+<p>&lt;</p>
+
+<p>p>Close. I sort of started on both, got way deep into en:wp administration, then into Foundation stuff, and now I spend my time on content (both copyediting tweaks and writing new short articles) and Foundation.</p>
+
+<p>&lt;</p>
+
+<p>p>I no longer even look at my watchlist. They&#8217;re not <i>my</i> articles.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://en.wikipedia.org/wiki/User:David_Gerard">David Gerard</a>
+ on September  6, 2006 <a href="#c75" rel="bookmark">#</a></p>
+</div>
+<div id="c76">
+<p>Very interesting article, and definitely worth reading. I often feel that the &#8216;Wikipedia community&#8217;, such as it is, places too much emphasis on users with a large number of edits (i.e., themselves), and doesn&#8217;t consider what those edits actually are. The current voting system is a perfect example of this. I would be voting for you, Aaron, but apparently I have only 85 edits. What I don&#8217;t understand is why this makes me less deserving of a say in how Wikipedia is run than someone with more edits.</p>
+
+<p class="posted">posted by Alasdair
+ on September  6, 2006 <a href="#c76" rel="bookmark">#</a></p>
+</div>
+<div id="c79">
+<p>I&#8217;m also one of the &#8216;hybrid&#8217; users mentioned above. When I first came aboard 2 1/2 years ago, I went crazy adding content on local institutions and issues, plus topics I know about but didn&#8217;t have significant content.</p>
+
+<p>But I only know so much; after a while I was mainly just maintaining what I&#8217;d contributed and talking about how else to present it, with other editors who were interested. Once in a while I&#8217;ll have a burst of new knowledge - I&#8217;ve visited a location or read an article or experienced a unique event - where I can dump a bunch more knowledge. But those are few and far between; 90% of my edits these days are cleanups, formats or comments, of both my work and of existing work that I have interest in and knowledge of.</p>
+
+<p>I think many &#8216;diehards&#8217; are the same; working to keep things looking good and presentable and encyclopedic to the outside world.</p>
+
+<p>I can&#8217;t speak for the &#8216;knowledgeable newbie&#8217; crowd - I don&#8217;t know them well - but we should keep them in mind when making policy decisions. We try to assume good faith and not bite them, as the policy pages say; how realistically they are followed is another matter. That, we will have to leave for the administrators.</p>
+
+<p>I&#8217;m still considering my vote. Aaron, you may well be on my final list; I&#8217;ll cosider all the issues when it comes to it.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://en.wikipedia.org/wiki/User:Radagast">Radagast</a>
+ on September  7, 2006 <a href="#c79" rel="bookmark">#</a></p>
+</div>
+<div id="c81">
+<p>Thanks for doing this analysis, it&#8217;s very interesting.</p>
+
+<p>I agree with algal that a graph would be good. I tend to be text-oriented myself, but I know that a lot of people skim the text but look at the figures when reading research.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://purl.net/net/bshanks">Bayle Shanks</a>
+ on September  7, 2006 <a href="#c81" rel="bookmark">#</a></p>
+</div>
+<div id="c82">
+<p>Aaron, please provide Jeremy Zawodny with any guidance you can on the work involved. He has the resources to get the work done.</p>
+
+<p class="posted">posted by 
+ on September  7, 2006 <a href="#c82" rel="bookmark">#</a></p>
+</div>
+<div id="c83">
+<p>Interesting article, I agree with your findings that articles are written mostly by anonymous (expert)contributors.</p>
+
+<p>Mostly they EXPAND the already existing (small) article. I think article creation is less common among anonymous contributors (this would be interesting to find out as well, or maybe there are already statistics on this??).</p>
+
+<p>The value of CATEGORISATION and creating INTERLINKAGES I think should be stressed more in your article, since these improve the encyclopedia and create new insights.
+categorisation/interlinking effort are probably more often undertaken by the active community (does statistical data exist?).</p>
+
+<p>Another point I&#8217;d like to make in my concern with DELETION of whole articles on wikipedia by often the active community: after a small week and some votes of this community on a certain article, the article may be voted to be deleted. This is often decided quantitatively, not qualitatively. Often arguments for keeping the article are not debated; or arguments for deletion are not well founded.
+Some contributors might be on a wikibreak, come back some time later and find out (or not, even worse) about a deleted article: old deleted pages are (sometimes?) completely inaccessible. 
+This is a loss of content that should be avoided since it frustrates contributors and decreases the quality of the encyclopedia for its users.</p>
+
+<p>Feedback on these concerns is much appreciated! :)</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.whirl.nl/wlog">Whirl</a>
+ on September  8, 2006 <a href="#c83" rel="bookmark">#</a></p>
+</div>
+<div id="c85">
+<p>Good article, interesting findings (thanks for the numbers &#8230;). I&#8217;ll publish a little summary on my blog poiting to your article.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.pageturner.info">PageTurner.info</a>
+ on September  9, 2006 <a href="#c85" rel="bookmark">#</a></p>
+</div>
+<div id="c86">
+<p>Great article, clear and interesting!</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://giik.net/blog">matt</a>
+ on September  9, 2006 <a href="#c86" rel="bookmark">#</a></p>
+</div>
+<div id="c88">
+<p>Contributeur français régulier, je peux confirmer que mon activité se partage entre quelques contributions substancielles dans mes domaines de spécialités et des interventions &#8220;d&#8217;éditeur&#8221; (forme, corrections, vérifications, critiques) beaucoup plus nombreuses. La loi de Pareto s&#8217;applique mais dans le sens 80 % des contributeurs pour le contenu et 20 % pour la forme.
+L&#8217;intérêt de Wikipedia n&#8217;est pas dans sa ressemblance plus ou moins proche avec les encyclopédies traditionnelles (recueil de l&#8217;information, rédaction, validation) qui est inévitable, je ne vois pas comment faire autrement !, mais dans le fait que l&#8217;ensemble de ces actions est ouvert à un grand nombre de personnes (potentiellement gigantesque). Car désormais les effets produits sont des régularités, des régulations qui dépassent celles qui étaient jusqu&#8217;alors accessibles : le recueil des informations sollicite des dizaines de milliers de personnes et progressivement de plus en plus, ce qui permet de couvrir des domaines qui n&#8217;étaient jamais couverts par les encyclopédies traditionnelles, limitées par les ressources de temps et matérielles. Les corrections-validations par des milliers de lecteurs produisent au fil du temps des articles de qualité acceptable qui ouvrent sur un thème et donne les moyens d&#8217;élargir la recherche et d&#8217;en faire éventuellement la critique (combien de fois suivant un lien externe à WP, j&#8217;ai pu critiquer une information et en proposer ou faire la correction dans un article ?). Ce processus est cumulatif dans le temps et accroît encore l&#8217;effet &#8220;grand nombre&#8221; : ne pas en tenir compte serait une grave erreur d&#8217;analyse. C&#8217;est d&#8217;ailleurs une erreur que certains expriment en demandant de manière récurrente des validations par des experts ou des comités restreints : une manière de supprimer l&#8217;effet &#8220;grand nombre&#8221; qui me semble-t-il est la force majeure du processus Wikipedia. Cette force en évolution permanente fait peur à certains, manifestement.</p>
+
+<p class="posted">posted by Jean
+ on September 11, 2006 <a href="#c88" rel="bookmark">#</a></p>
+</div>
+<div id="c89">
+<p>This article will have a profound impact on how I approach my own wiki project &#8212; http://toastmasters.wikia.com.
+I&#8217;m one of two &#8220;super&#8221; editors who have made the bulk of edits on the site; I&#8217;m now &#8220;out of content&#8221; &#8212; i have, literally, not much more to add.
+I realise now that I should be approaching so-called Subject Matter Experts and getting them to add content, and letting the rest of us tidy it up for them.
+Thanks for this insight &#8212; you have altered policy on one wiki at least!</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://toastmasters.wikia.com">Erich Viedge</a>
+ on September 11, 2006 <a href="#c89" rel="bookmark">#</a></p>
+</div>
+<div id="c119">
+<p>Great proactive analysis. Wales&#8217; statement, prior to his &#8220;next version&#8221;, probably shouldn&#8217;t have been so definite..</p>
+
+<p>Last month Jason Calacanis <a href="http://www.calacanis.com/2006/08/02/the-wikipedia-is-difficult-to-use-in-order-to-keep-out-non-techn/" rel="nofollow">wrote</a>, about the pitfalls of Wikipedia&#8217;s syntax and unintuitive interface. Given your findings and as a candidate for the foundation&#8217;s Board of Directors do you feel a leveling of the learning curve of the content production process should be of priority? After all, if the content producers are empowered to improve their formatting and structure, the &#8220;Top 2%&#8221; will have less ground to accumulate edits and thus power.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://angelogladding.com">Angelo Gladding</a>
+ on September 13, 2006 <a href="#c119" rel="bookmark">#</a></p>
+</div>
+<div id="c121">
+<p>Thanks, maybe one of the best articles i ever read about wikipedia. 
+Thank you very much for this result. 
+From my point of view this is confirm to out assumption that there must be a kind of critical mass, after that a wiki system will work.
+Maybe also from interest our research paper:
+http://elearningblog.tugraz.at/archives/107</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://elearningblog.tugraz.at">Martin Ebner</a>
+ on September 14, 2006 <a href="#c121" rel="bookmark">#</a></p>
+</div>
+<div id="c124">
+<p>I&#8217;ll have to agree with you here. I know that I&#8217;ve only made a few contributions to Wikipedia, mostly on subjects that I know enough about to make meaningful contributions. So occasionally I&#8217;ll jump on Wikipedia and make a few edits, usually substantial in content (in accordance with the &#8220;be bold&#8221; imperative of Wikipedia).</p>
+
+<p>Although it hasn&#8217;t always happened, largely I find that the pages are monitored by a specific person who end up attempting to erase the edits or substantially change them. Take a look at the Wikipedia page on Jack Thompson, which is basically edited into a hagiography. One of the pages I made a substantial edits to (roughly doubling the length of the article) was then edited back to its initial state by a person with a severe conflict of interest (vice-president of a company who was mentioned in the edits). What it often comes down to is that the people who are compulsively looking out for their own interests, rather than the truth, are willing to dedicate more time on the site squashing what they don&#8217;t like. Too bad, really.</p>
+
+<p class="posted">posted by Anonymous Contributor
+ on September 14, 2006 <a href="#c124" rel="bookmark">#</a></p>
+</div>
+<div id="c130">
+<p>I wrote an <a href="http://caromk.com/files/wikipedia_ethnography.pdf" rel="nofollow">ethnography of a Wikipedia article</a> a bit more than a year ago, looking at the <a href="http://en.wikipedia.org/wiki/Support_vector_machines" rel="nofollow">Support Vector Machines</a> article.</p>
+
+<p>Though my conclusions did not directly contradict those above, I did not find that the majority of major edits were made by less active users of Wikipedia.  For the Support Vector Machines article, I found that there were two &#8220;major editors&#8221; - one of whom was a very active Wikipedia user with an account and second was only known by an IP address but knew the norms of Wikipedia very well, indicating he/she too was an active Wikipedia user.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.caromk.com">Caroline Moore-Kochlacs</a>
+ on September 15, 2006 <a href="#c130" rel="bookmark">#</a></p>
+</div>
+<div id="c178">
+<p>Wish I&#8217;d seen into this essay earlier.  This is something I&#8217;ve believed for a while, but it&#8217;s nice to see someone confirm this by research.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.sentex.net/~ajy/">James Yolkowski</a>
+ on September 17, 2006 <a href="#c178" rel="bookmark">#</a></p>
+</div>
+<div id="c185">
+<p>Absolutely fascinating analysis. Well done. Thanks for posting.</p>
+
+<p class="posted">posted by Mahdi Gad
+ on September 27, 2006 <a href="#c185" rel="bookmark">#</a></p>
+</div>
+<div id="c232">
+<p>You purchased time on a cluster to analyse &#8220;a few articles&#8221;!  The analysis seems basically correct, however look at people like Charles Matthews and Mav - they make both substantial and substantive contributions.</p>
+
+<p class="posted">posted by Rich Farmbrough
+ on October 13, 2006 <a href="#c232" rel="bookmark">#</a></p>
+</div>
+<div id="c274">
+<p>I wish there were more of these analytical studies like your or the famous correspondance on Nature. Wikipedia is becoming too much of an important phenomenon for our society to let people speculate on how it works:we need to know as precisely as possible how it actually works, what kind of impact has on people and how can be improved.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.cafelamarck.it">Giorgio</a>
+ on October 24, 2006 <a href="#c274" rel="bookmark">#</a></p>
+</div>
+<div id="c275">
+<p>Respected Sir:</p>
+
+<p>I am a student of class X and wants to complete the project work on numbers 0,1,2,3,4,5,6,7,8 &amp; 9 discovered by whom in ancient times.  In fact a writeup is required to be submitted to the Ryan International School, Faridabad.</p>
+
+<p>Kindly help urgently as I am unable to find the site in wikipedia.</p>
+
+<p>An urgent response on above e mail of my father will help me</p>
+
+<p>Thanks &amp; regards,</p>
+
+<p>Vinayak Takru
+Class X</p>
+
+<p class="posted">posted by Vinayak
+ on October 26, 2006 <a href="#c275" rel="bookmark">#</a></p>
+</div>
+<div id="c279">
+<p>i&#8217;m not sure, but shouldn&#8217;t there be &#8216;140&#8217; next to the &#8216;2%&#8217; instead of &#8216;1400&#8217; in the third paragraph?</p>
+
+<p class="posted">posted by jnst
+ on November 16, 2006 <a href="#c279" rel="bookmark">#</a></p>
+</div>
+<div id="c280">
+<p>I think that the regulars play a role that is larger than &#8216;formatting&#8217;.  Part of the reason that Wikipedia is not a useless mess is because it is organized.  The same collection of information, poorly organized, would be little better than doing a Google search.  For many people, in many situations, the current Wikipedia is a more useful way to find certain kinds of information than a Google search is.</p>
+
+<p>Your observation that there are different types of users is spot on, but I think that all types (except vandals) play an indispensible role.</p>
+
+<p class="posted">posted by Rafael Garcia
+ on November 16, 2006 <a href="#c280" rel="bookmark">#</a></p>
+</div>
+<div id="c282">
+<p>I&#8217;d wager that the statistics are wholly made up and no such code exists.  I&#8217;m no proponent of Wikipedia, but I call bullshit on the article.  From what I&#8217;ve read, I believe that Swartz writes fiction.</p>
+
+<p>If what he has written is true, it would be easy for him to prove me and many a skeptic wrong, but I believe he cannot.</p>
+
+<p>JD</p>
+
+<p class="posted">posted by J Delphi
+ on December 18, 2006 <a href="#c282" rel="bookmark">#</a></p>
+</div>
+<div id="c283">
+<p>That&#8217;s a strong and baseless charge, J Delphi. I&#8217;ve provided the code and details on request to those who have asked, other studies have replicated the results, and a larger study is underway.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on December 21, 2006 <a href="#c283" rel="bookmark">#</a></p>
+</div>
+<div id="c286">
+<p>I have been a “original content generator” on Wikipedia for some time, but stopped after I’ve become disillusioned with the whole site.  I do not see very many users adding original content at all (at least on the articles I&#8217;ve worked on), other than just the moving, deleting and rewording things here and there.  What we have are the some smuggest, know-it-all editors and admins making snide remarks on the work I have done, but they haven’t done anything to add anything worthwhile.  But that&#8217;s my experience.</p>
+
+<p class="posted">posted by Calvin
+ on December 29, 2006 <a href="#c286" rel="bookmark">#</a></p>
+</div>
+<div id="c287">
+<p>That&#8217;s the experience of many people who have tried to participate on Wikipedia, Calvin:</p>
+
+<p>http://nonbovine-ruminations.blogspot.com/2006/10/sigh-wikipedia-needs-better-admins.html
+http://mail.wikimedia.org/pipermail/wikien-l/2006-October/054949.html
+http://www.cow.net/transcript.txt
+http://www.americanchronicle.com/articles/viewArticle.asp?articleID=11109
+http://www.roughtype.com/archives/2006/02/community_and_h.php
+http://www.techybytes.com/is-technology-slowing-down-freedom-of-speech/
+http://catallarchy.net/blog/archives/2006/12/20/the-stupidity-of-crowds/
+http://www.andycarvin.com/archives/2006/03/wikipedia_blocks_sch.html
+http://wikipediareview.com/index.php?showtopic=4
+http://www.aaronsw.com/weblog/whowritescomments
+http://pilotguy.wordpress.com/2006/12/20/where-have-all-the-admins-gone/
+http://thechrisd.spaces.live.com/Blog/cns!90D096458FBAE74E!242.entry
+http://stabani.com/archives/2006/247
+http://www.techcrunch.com/2007/01/01/wikipedia-bans-qatar/
+http://news.bbc.co.uk/2/hi/technology/6224677.stm</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://edtechdev.blogspot.com/">Doug Holton</a>
+ on January  5, 2007 <a href="#c287" rel="bookmark">#</a></p>
+</div>
+<div id="c289">
+<p>Most of my contributions have been removed (not modified) and so I have largely stopped contributing.</p>
+
+<p>Often times the contributions are removed and not modified with obscure references to numerous wikipedia policies that seem to make no sense and that are enforced very unevenly across the wikipedia.</p>
+
+<p>At other times, controversial but accurate information is just removed, resulting in a very bland innocuous mostly harmless article.  (And not terribly useful.)</p>
+
+<p>The cyberstalking article is a case in point.  It is humorous (and sad!) to examine how that article has evolved over time.</p>
+
+<p class="posted">posted by Jerry Asher
+ on January 30, 2007 <a href="#c289" rel="bookmark">#</a></p>
+</div>
+<div id="c299">
+<p>Aaron,</p>
+
+<p>I confess. I spend entirely too much time patrolling the web for reading material. But I had to pause to pile on here: this piece in that rare &#8220;splendidly good&#8221; category. Thanks for the good read.</p>
+
+<p>I&#8217;m sorry you didn&#8217;t win the election, but, ironically, it&#8217;s rather obvious why, eh?</p>
+
+<p class="posted">posted by Bill
+ on February  7, 2007 <a href="#c299" rel="bookmark">#</a></p>
+</div>
+<div id="c304">
+<p>What annoys me about Wikipedia is the people&#8217;s penchant for rewording other people&#8217;s stuff. For instance, I wrote original material on &#8220;Impression Fraud&#8221; on my site( http://www.sofizar.com/impression-fraud.php ). I was shocked to find that wikipedia entry for impression fraud was a summary of my article with nary a credit. Are the authors of wikipedia just trying to &#8220;get done&#8221; with everything?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.sofizar.net">Zafar Khan</a>
+ on February 12, 2007 <a href="#c304" rel="bookmark">#</a></p>
+</div>
+<div id="c306">
+<p>Let’s face it.  Few people want to strain themselves of doing the hard and winded research (such as going through books or scouring through newspapers and academic journals, and so on) and writing.   It&#8217;s easier just to rephrase someone else&#8217;s work or use other Web sites as citable &#8220;sources&#8221; as accessible through Google.</p>
+
+<p class="posted">posted by S.
+ on February 12, 2007 <a href="#c306" rel="bookmark">#</a></p>
+</div>
+<div id="c307">
+<p>I wonder if all the people who have had trouble with &#8220;mean administrators&#8221; really provided valuable content. Most of them never name the articles they worked on so that you can&#8217;t check if their claims are true. Just having a point of view doesn&#8217;t necessarily mean that it&#8217;s reasonable oder widely recognized.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://de.wikipedia.org">Carbidfischer</a>
+ on February 14, 2007 <a href="#c307" rel="bookmark">#</a></p>
+</div>
+<div id="c309">
+<p>I don&#8217;t know.  Just what is it with the current zombie-like fascinations with Wikipedia, MySpace, and so on?</p>
+
+<p>Perhaps Wikipedia simply gives people a certain surge of authoritative and administrative power and prestige over others.  Those with user names feel entitled to a sense of superiority, compared to a user with a mere IP address and a few original entries.</p>
+
+<p class="posted">posted by A.T.
+ on February 20, 2007 <a href="#c309" rel="bookmark">#</a></p>
+</div>
+<div id="c310">
+<p>Great article.  One time, I intentionally added factually correct info but with some intentional spelling and grammatical mistakes on a not-so-popular article, but it hasn’t really been touched for nearly 9 months already (and still has not to this day!). All the article received from one editor was a “Citation needed” notice.  So where are the lovely by the book editors?</p>
+
+<p class="posted">posted by J. Jeffers
+ on February 21, 2007 <a href="#c310" rel="bookmark">#</a></p>
+</div>
+<div id="c317">
+<p>Perhaps they have nothing else to do with their spare time.</p>
+
+<p class="posted">posted by !
+ on February 26, 2007 <a href="#c317" rel="bookmark">#</a></p>
+</div>
+<div id="c331">
+<p>&#8220;But on the other hand, the more people view an article the more it is likely to be corrected and balanced for NPOV.&#8221;</p>
+
+<p>The more people that view an article the more likely the article is to reflect the views of more people. Sometimes that will tend towards a NPOV and sometimes not. The article will increasingly reflect popular opinion (which may not be neutral at all).</p>
+
+<p>&#8220;it isn&#8217;t perfect, but in the opinion of many the results are fairly acceptable.&#8221;</p>
+
+<p>Perhaps, but not definitive. How do you justify that claim?</p>
+
+<p>When an article can be objective without threatening the views of people it stands a decent chance of being so. Wikipedia is, by its nature, not an objective resource. It is a useful one, though.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.einemillioneurohomepage.de     ">Iman Darwiche</a>
+ on March  9, 2007 <a href="#c331" rel="bookmark">#</a></p>
+</div>
+<div id="c343">
+<p>I think the usual problem with Wikipedia is that there is the expectation that someone else will do the work.</p>
+
+<p class="posted">posted by Lian Wen-chiu
+ on March 22, 2007 <a href="#c343" rel="bookmark">#</a></p>
+</div>
+<div id="c358">
+<p>I am agree with autors opinion. I think the volunteer authors of Wikipedia articles don&#8217;t have to be experts, although some certainly are. They could be anyone! Further, volunteers do not need any formal training before creating a new article or editing an existing article. Many people have created or edited articles in Wikipedia. They live in different countries of earth, from all ages and backgrounds. The autors are called a &#8220;Wikipedian&#8221; or &#8220;Wiki.&#8221; The policy to add to the encyclopedia only statements that are verifiable, and not to add original research. To hold the quality high there are special style guide encourages editors to cite sources. I love WIKI</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.villacasa.de">John Miller</a>
+ on April 17, 2007 <a href="#c358" rel="bookmark">#</a></p>
+</div>
+<div id="c360">
+<p>Most of my contributions have been removed (not modified) and so I have largely stopped contributing.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.maca-kapsel.de">Maca</a>
+ on May  3, 2007 <a href="#c360" rel="bookmark">#</a></p>
+</div>
+<div id="c362">
+<p>Absolutely great analysis and the follow ups on this were also great.</p>
+
+<p class="posted">posted by Amit Dixit
+ on May  8, 2007 <a href="#c362" rel="bookmark">#</a></p>
+</div>
+<div id="c365">
+<p>This article is vital; I&#8217;ll be sharing it with everyone I know&#8230;I only wish I&#8217;d found it sooner! It is so reassuring to find that someone else understands &#8212; someone with the expertise to illustrate the problems of Wikipedia in a way that cannot be swept aside by the &#8220;insiders.&#8221; I often find that my own lack of Wiki-protocol knowledge puts me at a disadvantage when arguing points on the talk pages. Thank goodness for WP:IAR (my ace in the hole)! The atmosphere at Wikipedia has become downright draconian; thanks for empowering me to exhale&#8230;.</p>
+
+<p class="posted">posted by Discouraged Editor
+ on May 10, 2007 <a href="#c365" rel="bookmark">#</a></p>
+</div>
+<div id="c373">
+<p>Very good article Aaron. I had this suspicion for a long time myself. Just couldn&#8217;t pursue it for various reasons. I am not a particularly big fan of Wikipedia or Jimbo Wales due to their very weird policies of editing. To date I have contributed only one big article and that thankfully survived massive editing. I feel those folks should open up a bit more. It seems way too rigid at the moment. Vandalism is inevitable but the community should grow. Stagnation will not only erode the quality of the site but also lead to its slow and painful death. I hope you read this Jimbo.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://rootshell.be/~timmyj">Timmy Jose</a>
+ on May 16, 2007 <a href="#c373" rel="bookmark">#</a></p>
+</div>
+<div id="c374">
+<p>Very good article Aaron. I had this suspicion for a long time myself. Just couldn&#8217;t pursue it for various reasons. I am not a particularly big fan of Wikipedia or Jimbo Wales due to their very weird policies of editing. To date I have contributed only one big article and that thankfully survived massive editing. I feel those folks should open up a bit more. It seems way too rigid at the moment. Vandalism is inevitable but the community should grow. Stagnation will not only erode the quality of the site but also lead to its slow and painful death. I hope you read this Jimbo.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://rootshell.be/~timmyj">Timmy Jose</a>
+ on May 16, 2007 <a href="#c374" rel="bookmark">#</a></p>
+</div>
+<div id="c375">
+<p>It&#8217;s not the first time in the history of mankind that a Great Thing is taken over by &#8220;admins&#8221; who don&#8217;t understand much of the Initial Idea, but who understand very well how to benefit of it. Hierarchies, structures and rules prevent any further progress and the Great Thing converts into a Serious Thing, that uses the Initial Idea only as a marketing tool.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.verek.com">Severin</a>
+ on May 17, 2007 <a href="#c375" rel="bookmark">#</a></p>
+</div>
+<div id="c394">
+<p>In response to the criticism made by &#8220;Carbidfischer&#8221;, well, if you have something to benefit from Wikipedia I&#8217;m sure you&#8217;ll defend them.</p>
+
+<p>Anyhow, I hope the author of the original article could do some similar analyses on the Wikipedia articles on Chinatown, Asian supermarket, and Little Saigon.  You see, I wrote a bulk of those articles and over the years I have seen many others just delete here, rephrase there, add a link there, make remarks thither but not much else.</p>
+
+<p class="posted">posted by Frustrated one
+ on June  7, 2007 <a href="#c394" rel="bookmark">#</a></p>
+</div>
+<div id="c396">
+<p>It is true that the Editors,or the formatters,are more concerned about the tone,style,category of the wikis.While most part of the world does not find any or even minimum adequate representation,(Even historic monuments and large towns in India do not appear even in the www,what to say of the wikipedia)the concern with formalities does discourage contributions.Contributors do so because they felt something about the topic and the feeling  will certainly come out.All of them,or even a few of them cannot be expected to have the attitude and training of encyclopedia editors.The editors appear to be specialists who know only editing and surely they seem to be knowing nothing else.In India,the office typists have the same attitude.They show all the concern for the format only,not for the content,because they do not realise the relative importance of the content.</p>
+
+<p class="posted">posted by N.Krishnamurthy
+ on June  9, 2007 <a href="#c396" rel="bookmark">#</a></p>
+</div>
+<div id="c513">
+<p>Dear Aaron,<br />
+why do you delete my comment!<br />
+You wrote in your article:  &#8220;Thus his assumption that outsiders contribute mostly vandalism and nonsense. And thus the comments you sometimes hear that making it hard to edit the site might be a good thing.&#8221;<br />
+If  �outsiders� like me give a different viewpoint you think the same way like Jimbo Wales.<br />
+Many Regards<br />
+Roland</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.dream-chairs.de">Roland</a>
+ on August  5, 2007 <a href="#c513" rel="bookmark">#</a></p>
+</div>
+<div id="c633">
+<p>Great post Aaron. I&#8217;m a CS grad student at Stanford and the sad truth is that the investigation you did as part of your blog post here is far more worthwhile than 99% of the so-called &#8220;research&#8221; and paper writing that happens in the CS department here.</p>
+
+<p class="posted">posted by Jeff Malkes
+ on January 16, 2008 <a href="#c633" rel="bookmark">#</a></p>
+</div>
+<div id="c643">
+<p>Wow, great article. Im glad to hear your findings, after hearing Wales initial findings. It has far reaching implications in society as a whole, not just Wikipedia. How depressing would that have been, that only some .7% of people were capable of any kind of productive contribution to society, with the rest of us just sitting around bickering about the presentation. Though it may seem like that to those with some kind of deep interest and active role in society, really all they are doing is directing everyone elses major contributions. In spite of their self deception to the contrary, their roles as spit shiners is immensely important, and  not at all petty. If they could get off of their imaginary high horses to see that, then they probably wouldn&#8217;t need the delusion to keep their self image so well bolstered.</p>
+
+<p class="posted">posted by Jesse A. Rudolph
+ on August 30, 2008 <a href="#c643" rel="bookmark">#</a></p>
+</div>
+<div id="c648">
+<p>Great article, I find some of the people policing wikipedia near stalinist. And often not knowledgable  to an astonishing degree.</p>
+
+<p class="posted">posted by ralf
+ on October 14, 2008 <a href="#c648" rel="bookmark">#</a></p>
+</div>
+<div id="c657">
+<p>Thanks for the provocative and interesting analysis.  I don&#8217;t agree that the editors of traditional encyclopedias concern themselves largely with formatting and presentation.  As mediators between the copyeditor and the contributor, their primary objective is to vet content: to assign articles, assure the reader that the contributors have some grounding in an existing literature to establish the authority of their claims, to check facts, and especially to align articles on various subjects with other articles: to remain true to the encyclopedia&#8217;s overarching purpose.  The insider-editing you describe in your article is largely basic copyediting, but it is far, far narrower than &#8220;traditional&#8221; encyclopedia editing, and it&#8217;s a significant reason why academics and instructors are wary of Wikipedia as an authoritative source as opposed to a window into the minds and ideas of contributors.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.h-net.org">Peter Knupfer</a>
+ on January  3, 2009 <a href="#c657" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="whowriteswikipedia" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

@@ -1,0 +1,19 @@
+@import "basestyle.css";
+
+body { 
+  font-family: Verdana, sans-serif;
+}
+
+h1, h2
+    { font-family: "Helvetica"; color: #006b6b; }
+h2.topmost 
+    { text-align: center; font-style: normal; font-weight: bold; font-size: 200%; 
+      font-family: "Helvetica"; color: #a10048;
+      margin-top: 0; }
+.hilite
+    { color: #a10048;}
+.sidebar { width: 33%; padding-left: 2em; }
+.page .sidebar { text-align: center; }
+.sidebar ul, .sidebar li { list-style: none; padding-left: 0; margin-left: 0} 
+.sidebar li { padding-bottom: 1em; }
+

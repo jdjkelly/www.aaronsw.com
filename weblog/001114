@@ -1,0 +1,261 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Shorter Paul O&#8217;Neill (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/001114.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001113" title="Cat in the Hat: Harmful to Minors?" />	<link rel="next" href="001115" title="Jefferson: Nature Wants Information to Be Free " />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Shorter Paul O&#8217;Neill</h1>
+</div>
+
+<div class="content">
+<p>Fmr. Treasury Secretary Paul O&#8217;Neill was on <em>60 Minutes</em> tonight, along with the author of a new book which pieces together numerous interviews with high-level administration officials. Here are some of the most interesting things:</p>
+
+<p>While Bush had campaigned on not doing any interventionist nation-building, at the <em>first</em> National Security Meeting (just after they got into office) they discussed invading Iraq and two days later they discussed the post-Saddam regime, including who wants oil contracts and where oil might be. (They showed pictures of documents establishing this.)</p>
+
+<p>Bush is routinely unengaged and bored in meetings and doesn&#8217;t ask questions. One of the few times Bush was interested was when they were trying to get him to rubber-stamp a second tax cut:</p>
+
+<blockquote>
+	<p>BUSH: Haven&#8217;t we already given money to rich people? This second tax cut&#8217;s gonna do it again. Didn&#8217;t we already, why are we doing it again?<br />
+	ADVISER: Well Mr. President, the upper class, they&#8217;re the entrepreneurs.<br />
+	BUSH: OK.<br />
+	[&#8230;]<br />
+	BUSH: Well, shouldn&#8217;t we be giving money to the middle, won&#8217;t people be able to say, &#8220;You did it once, and then you did it twice, and what was it good for?&#8221;<br />
+	KARL ROVE: Stick to principle. Stick to principle. Don&#8217;t waver.</p>
+</blockquote>
+
+<p>(The show didn&#8217;t present exact quotes, but apparently the author of the book has a transcript of the meeting.)</p>
+
+<p>To avoid this kind of thing, the President <a href="http://seattlepi.nwsource.com/opinion/143851_thomas15.html">doesn&#8217;t read newspapers</a> and rarely sees the outside world &#8212; instead he only talks to an insular group of advisers who all stay on-message with him.</p>
+
+<p>The book is <a href="http://www.amazon.com/exec/obidos/ASIN/0743255453/cookbooks02">The Price of Loyalty: George W. Bush, the White House, and the Education of Paul O&#8217;Neill</a>, by Ron Suskind and comes out Tuesday. </p>
+
+<p><strong>Update:</strong> The author has <a href="http://thepriceofloyalty.ronsuskind.com/thebushfiles/">put some of the files up on the Web</a> under a Creative Commons Public Domain Dedication.</p>
+
+<p class="posted">posted January 11, 2004 07:01 PM (<a class="category" href="cat_politics">Politics</a>) (<a href="#comments">10 comments</a>) <a href="001114" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001113" title="Cat in the Hat: Harmful to Minors?">&laquo; prev</a> | <a href="./">up</a> | <a href="001115" title="Jefferson: Nature Wants Information to Be Free ">next &raquo;</a></p>
+
+<p><a href="001106">Is it moral to plead the Fifth?</a><br />
+<a href="001107">Unspeakable Things</a><br />
+<a href="001111">Apple&#8217;s Secret Strategy: TV for Everyone</a><br />
+<a href="001112">Counterpoint: Downloading Isn&#8217;t Stealing</a><br />
+<a href="001113">Cat in the Hat: Harmful to Minors?</a><br />
+<strong>Shorter Paul O&#8217;Neill</strong><br />
+<a href="001115">Jefferson: Nature Wants Information to Be Free </a><br />
+<a href="001117">C-SPAN Crossfire</a><br />
+<a href="001118">Shorter George Lakoff: The Framing of Politics</a><br />
+<a href="001119">Bush Fear</a><br />
+<a href="001120">The Clinton-Gore Plan to Stop Al-Qaeda: Would 9-11 have happened?</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c178">
+
+<p>They didn&#8217;t say he makes up names to pass the time. ONeil was said to think he made up the names as a way to bully people. They also din&#8217;t say Bush doesn&#8217;t read the newspaper. Do you make this stuff up for fun or are deliberately you trying to miselead.</p>
+
+<p class="posted">posted by <a href="mailto:mbrand202@aol.com">Mark Brandes</a> at January 11, 2004 07:22 PM <a href="#c178">#</a></p>
+
+</div><div id="c179">
+
+<p>Fixed.</p>
+
+<p class="posted">posted by <a href="http://www.aaronsw.com/">Aaron Swartz</a> at January 11, 2004 07:27 PM <a href="#c179">#</a></p>
+
+</div><div id="c181">
+
+<p>This confirms what I suspected. Bush is Karl Rove&#8217;s puppet.</p>
+
+<p>I can&#8217;t believe his approval rating is that high. I&#8217;m sure this won&#8217;t change anything - people will still vote for him.</p>
+
+<p class="posted">posted by <a href="http://www.mcdevzone.com/">Mike Cohen</a> at January 11, 2004 08:21 PM <a href="#c181">#</a></p>
+
+</div><div id="c183">
+
+<p>GWB is the main player on the world stage. But hey&#8230;.you chumps are pretty good at this whole &#8220;blogging&#8221; thing.  Jeez.</p>
+
+<p class="posted">posted by <a href="mailto:dorkspotter@dink.net">dorkSpotter</a> at January 11, 2004 11:44 PM <a href="#c183">#</a></p>
+
+</div><div id="c218">
+
+<p>GWB is only there because of his family&#8217;s money, power and influence.</p>
+
+<p>The saddest thing about the last election is that it was between representatives of the two most influential political famlies in the States.</p>
+
+<p>So much for the whole &#8220;Anyone can be president&#8221; myth.</p>
+
+<p>/david</p>
+
+<p class="posted">posted by David Hamilton at January 13, 2004 10:50 AM <a href="#c218">#</a></p>
+
+</div><div id="c221">
+
+<p>My God! Who is this David Hamilton  guy..? Hey &#8220;Dave&#8221; welcome to the human condition. Money, power, influence of family&#8230;.???? Wow, that&#8217;s only as old as what&#8230;..recorded human history.
+I&#8217;ll bet you&#8217;re still mad about Ben n Jerry not providing free ice cream to the entire world, huh&#8230;.? Man&#8230;.where do these people come from..?</p>
+
+<p class="posted">posted by <a href="mailto:dorkspotter@dink.net">dorkSpotter</a> at January 13, 2004 05:53 PM <a href="#c221">#</a></p>
+
+</div><div id="c223">
+
+<p>GWB is one of a number of people directly responsible for an illegal war.  he and cheney and the lot, all those responsible for this illegal war, deserve to be tried in a court of law for thier crimes.  the burder of proof needs to be on them to substantiate thier statements&#8230;evidence not forthcoming they should be sent to prison and do hard time.  willfull deception of the legislative branch and the american public should be a capitol offence, in my book this is the highest treason.  i say this as a former soldier in the us army and a lover of what this country stands for.  the worste punishments need to be reserved for the wortse crimes, there are non higher than this.</p>
+
+<p class="posted">posted by <a href="mailto:mana_man@hotmail.com">/\/\</a> at January 14, 2004 02:05 AM <a href="#c223">#</a></p>
+
+</div><div id="c224">
+
+<p>BTW, GWB as a major world player is similar to typifying kermit the frog as having his own brain.  he is clearly a function of his handlers, as long as he is not allowed to adlib he is able to stick to the script.  in the words of my 70 year old grandfather, boosh is the worst president&#8230;and most dangerous&#8230;he has ever seen in his entire life.  the most powerful person in the current administration is dick cheney.  BTW when is the last time you saw his (cheney&#8217;s) picture in the news?  bush does what he&#8217;s told, to claim otherwise implies one&#8217;s residence in a hole for the last 4 years.  (as in head lodged in sand so deep the shoulders are no longer visible)  &#8230;and yes, mr. hamilton, unfortunately that dream has only existed in elementary school for at least the last 200 years</p>
+
+<p class="posted">posted by <a href="mailto:mana_man@hotmail.com">/\/\</a> at January 14, 2004 02:28 AM <a href="#c224">#</a></p>
+
+</div><div id="c228">
+
+<p>The world should concentrate on peace and diplomacy.</p>
+
+<p>In times of War, No one wins and the innocent die.</p>
+
+<p>MsRvls2003Poet@sbcglobal.net</p>
+
+<p class="posted">posted by <a href="mailto:MsRvls2003poet@yahoo.com">PaaP</a> at January 14, 2004 09:48 PM <a href="#c228">#</a></p>
+
+</div><div id="c670">
+
+<p>We must remember that the people are the employer and elected representatives are the employees.</p>
+
+<p>Simply stated,  they work for us.</p>
+
+<p>A good representative will remove him or herself when he or she is doing their country more harm than good.</p>
+
+<p>America is a great country  and each of us  must continue to work hard to keep America great by striving to improve in areas where we discover  we are  deficient. </p>
+
+<p>It is nice to know that  our 50+ States are living sided by side without going to war with each other.</p>
+
+<p>Perhaps the Middle East could learn to the same  without changing their way of living.
+Don&#8217;t you agree? </p>
+
+<p>GOD BLESS THE WORLD
+PaaP@  MsRvls2003Poet@aol.com</p>
+
+<p class="posted">posted by <a href="mailto:msrvls2003poet@sbcglobal.net">PaaP</a> at March  6, 2004 09:39 PM <a href="#c670">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/2002/001114.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/mt-comments.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1114" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /><br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

@@ -1,0 +1,81 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+  <title>Dear Congressman</title>
+  <link rel="stylesheet" type="text/css" href="/style.css" />
+</head>
+<body>
+<div id="head">
+  <h1>Dear Congressman</h1>
+</div>
+<div class="content">
+<p>Dear Congressman,</p>
+
+<p>I write you today not only as a constituent, but also as a creator and consumer of copyrighted works. I fear that the laws being pushed by the entertainment industry are seriously harming the public at large.</p>
+
+<h2>Background</h2>
+
+<p>The entertainment industry claims that these laws are needed to protect the artists. While I'm sure we would agree that it's only right to compensate artists for their work, the entertainment industry has a long history of not doing exactly that. Except for the small percentage of superstars, most musicians have to <em>pay the record companies</em> rather than get paid. If any laws are needed, they should ensure that the record companies have to pay a fair share to the artists. I believe that the entertainment industry is afraid the Internet will destroy their monopoly over the market and ability to cheat the vast majority of the artists. I don't think we should pass laws to protect these exploitative corporations.</p>
+
+<p>But instead of seeing bills to protect the artists, we're seeing the opposite: bills that hurt the majority of artists and consumers as well. Artists like Janis Ian and publisher Baen Books have found that when they put their works on the Web their sales go up. It seems that music companies are afraid of their artists not having to pay their exorbitant marketing fees because they can self-market through the Internet. So they are trying to crush this practice with a series of legislation that will put an end to sharing.</p>
+
+<h2>Peer To Peer Piracy Prevention Act</h2>
+
+<p>This bill was introduced by Rep. Howard Coble (R-NC) and Howard Berman (D-CA). The name alone should set off warning bells: sharing music is now "piracy" we must prevent? What kind of morals does this teach to our nation? But if the goals of the bill are bad, the methods are worse still. Apparently the court system in our country isn't good enough for copyright holders. This bill would allow them to crack into your computer if they simply <em>suspected</em> you were sharing copyrighted material.</p> 
+
+<p>This would do untold havoc to the Internet and computer security, but there's a more fundamental issue at stake: why do copyright holders deserve a special "right of revenge" like no other crime? If you are robbed, you don't get the right to steal your things back. If you are hurt, you don't get the right to hurt the other guy back. Why should the sharing of music with your friends get a harsher and less-checked punishment than robbery or violence?</p>
+
+<p>I encourage you to vote against this bill.</p>
+
+<h2>Digital Millennium Copyright Act</h2>
+
+<p>This law, passed by unanimous vote, extended copyright laws in ways never seen before. It's illegal to blow up buildings, but explaining how to do so is protected by the First Amendment. By contrast, the DMCA overrules these free speech rights by making it illegal to bypass copy-protection, even for a legal reason. There are many reasons to bypass copy protection: You may want to make a backup, so that you won't lose your ebooks and music if your computer breaks. You may want to play your legally purchased files in a program or computer that does not support the copy protection. There are many other reasons.</p> 
+
+<p>These are not hypothetical examples. Jon Johansen wrote software making it possible to play DVD movies on the GNU/Linux computer system. For his trouble he got a lawsuit from the MPAA (currently unresolved). Dmitry Sklyarov made it possible for blind people to have their Adobe eBooks read to them by a computer. He was thrown in jail by Adobe (he has since been freed, but case currently unresolved). But the DMCA goes farther than that. It also makes it illegal to share this software and to tell people how to get it. One company put the DVD movie-playing software on a t-shirt. The MPAA added them to the lawsuit. 2600 Magazine published a list of locations to get the software. They were sued too and lost the case.</p>
+
+<p>I encourage you to repeal the controversial "anti-circumvention" portion of this law.</p>
+
+<h2>Consumer Broadband Digital Protection Act</h2>
+
+<p>Suing, jailing and cracking into the computers of their customers is apparently not enough for the entertainment industry. With this bill, they want to make it illegal to build computers that allow things they don't like. Again, this would have disastrous effects on innovation in the computer industry, would take a way a lot of our rights, and would put the burden of law enforcement on computer makers.</p>
+
+<p>The entertainment industry sometimes claims it would be easy for computer makers to institute measures to prevent file sharing. First, this is not true, but even if it was, don't you think that computer makers would have already instituted it if it was effective? Microsoft Office retails for over $500, far more than any movie or CD that I know of. And while some people do share their copies of the software with each other, Microsoft has never found it necessary to institute the kind of measures that the entertainment industry is asking for.</p>
+
+<p>But does this bill even make sense? Cars kill thousands each year, but are you considering any bills to make cars illegal? To require that all cars have chips in them to detect dangerous driving situations and immediately shut down? And again we're talking about real people dying--thousands of them. I doubt anyone has died because their music or movies were shared.</p>
+
+<p>I encourage you to vote against this bill and the similar bills being proposed.</p>
+
+<h2>What's the harm?</h2>
+
+<p>I hope you see the pattern here. When considering such bills, I urge you to ask a simple question: What's the harm? The fact is, there is no harm. Music companies claim that <em>five times</em> the number of records sold are being traded on the Internet. Five times! I'm sure they'd have fancy statistics saying that this added up to a quadrillion dollars in lost revenue. But this makes the false assumption that all the downloads would have normally been CD sales. Instead, music sales have only dropped <em>five percent</em>. Five percent! Now the music industry changed the way they counted, raised prices for CDs and the economy has entered a downturn. All of those could have accounted for the five percent. But even if they didn't, can you seriously claim that we need all the measures described above for a five percent drop in sales?</p>
+
+<p>I thought the purpose of the government was to protect the people at large. Instead, it seems ever more and more to protect major industries from tiny drops in sales at the expense of the public at large.</p>
+
+<p>I hope you'll seriously consider my comments. I'm happy to discuss any of the issues raised here; please write or call me.</p>
+
+</div>
+<div class="footer">
+  <address><a href="http://www.aaronsw.com/">Aaron Swartz</a></address>
+  Please adapt this letter and send it to your own congressman! Find your congressman at <a href="http://www.congress.org/">Congress.org</a>.<br />
+This work is licensed under a <a href="http://creativecommons.org/licenses/by-nc-sa/1.0">Creative Commons License</a>.
+
+<!--
+<rdf:RDF xmlns="http://web.resource.org/cc/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<Work rdf:about="">
+<license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/1.0" />
+</Work>
+
+<License rdf:about="http://creativecommons.org/licenses/by-nc-sa/1.0">
+   <requires rdf:resource="http://web.resource.org/cc/Attribution" />
+   <permits rdf:resource="http://web.resource.org/cc/Reproduction" />
+   <permits rdf:resource="http://web.resource.org/cc/Distribution" />
+   <permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+   <requires rdf:resource="http://web.resource.org/cc/ShareAlike" />
+   <prohibits rdf:resource="http://web.resource.org/cc/CommercialUse" />
+   <requires rdf:resource="http://web.resource.org/cc/Notice" />
+</License>
+</rdf:RDF>
+-->
+</div></body>
+</html>

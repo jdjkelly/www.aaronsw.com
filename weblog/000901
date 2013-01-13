@@ -1,0 +1,81 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Illinois&#8217;s state &#8220;super-DMCA&#8221; (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000887" title="Real News" />	<link rel="next" href="000904" title="Locked in the Trunk" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Illinois&#8217;s state &#8220;super-DMCA&#8221;</h1>
+</div>
+
+<div class="content">
+<p>Ed Felten recently discovered a series of state laws the MPAA is trying to pass across the country, which he’s nicknamed the state super-DMCAs. (He has <a href="http://www.freedom-to-tinker.com/superdmca.html">been keeping excellent track of what we know about them</a>). Unfortunately, the Illinois version of the law was passed last year.</p>
+
+<p>I wrote my state representatives about the bill. My letter (following) outlines the effects each part of the bill could have. You’re welcome to use it however you like. (If you’re in an affected state — <a href="http://www.freedom-to-tinker.com/superdmca.html">here’s a list</a> — you’re especially encouraged to modify it apropriately and send it to your representative.)</p>
+
+<p>If you’re in Illinois, <a href="http://www.elections.state.il.us/dls/pages/DLSAddresscrit.asp">the state voting information site will let you find the email addresses of your representatives</a>. Feel free to send them the letter too.</p>
+
+<p>I’m not a lawyer or a legislator, and I probably made a few mistakes in the letter. <a href="mailto:superdmca@aaronsw.com">Email me</a> and I’ll correct them here. Here’s the letter:</p>
+
+<p>Dear Rep. May and Sen. Garrett,</p>
+
+<p>I recently found out about a law passed last year, <a href="http://www.ilga.gov/legislation/publicacts/pubact92/acts/92-0728.html">Public Act 92-0728</a>. This incredibly broad act amends the criminal code to make all sorts of perfectly reasonable things Illinois citizens do every day into felonies. The law is supposed to prevent people from watching Cable TV without purchasing it, but there are already laws on the books to do that — no new ones are needed. Instead the law’s major effect will be to outlaw reasonable things like DVD players and wireless Internet access cards.</p>
+
+<p>The law is already having some negative effects. For example, the Illinois author of <a href="http://www.hackbusters.net/">LaBrea</a>, a program which protects networks from unauthorized intruders, has been forced to stop distributing his software because doing so would be a felony under this new law.</p>
+
+<p>A detailed examination of the law follows:</p>
+
+<p>Section 1 makes it a crime to access or help someone access something that costs money to access, without paying for it. For example, putting a child on your shoulders if it happened to help him look thru a window where a cable program was being shown on the TV inside.</p>
+
+<p>Section 2a makes it a crime to be associated with a device which can access something that costs money to access without the express permission of the provider. For example, Apple Computer’s AirPort wireless cards allow you to access the Internet (which costs money to access) without the express permission of the provider. Every CompUSA store in Illinois sells these devices, which is now a felony.</p>
+
+<p>Section 2b makes it a crime to have an access device which conceals the origin of certain messages. For example, the AirPort cards mentioned above also conceal your origin, due to a technical detail of allowing multiple people Internet access. Another felony for CompUSA.</p>
+
+<p>Section 3 makes it illegal to make a device violate 2a or 2b.</p>
+
+<p>Section 4 makes it illegal to be associated with a device which bypasses any measure to prevent unauthorized access. For example, DVDs have a technical measure to prevent them from being accessed; all DVD players must bypass this measure. So now it’s a crime to own a DVD player (and a felony to own more than 10).</p>
+
+<p>Section 5a makes it illegal to have plans to build any of the devices above.</p>
+
+<p>Section 5b makes it illegal to have parts to build any of the devices above.</p>
+
+<p>Now you may say not to worry, because the government will only use these laws to prosecute real criminals; people using legitimate devices like DVD players or AirPort cards will never be sued. But the law also defines a civil cause of action, that allows any aggrieved party to sue. So CompUSA’s competitor, MicroCenter, could sue them, claiming their devices were used to access the MicroCenter website without express permission. CompUSA could have to have all their devices destroyed, pay the other side’s attorneys fees, and pay the gross revenue MicroCenter could have made had CompUSA customers payed to access their website.</p>
+
+<p>I’m sure there are many other outrageous ways people could use these extremely broad laws. I ask that you repeal this law quickly so that we won’t find out what they are, and so that Illinois citizens trying to connect to the Internet or watch DVDs don’t become felons.</p>
+
+<p>Sincerely,</p>
+
+<p>Aaron Swartz<br />
+349 Marshman<br />
+Highland Park, IL 60035</p>
+
+<p class="posted">posted April 21, 2003 12:59 PM (<a class="category" href="cat_politics">Politics</a>)  <a href="000901" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000887" title="Real News">&laquo; prev</a> | <a href="./">up</a> | <a href="000904" title="Locked in the Trunk">next &raquo;</a></p>
+
+<p><a href="000870">We&#8217;re Going to Japan</a><br />
+<a href="000872">Flight Report</a><br />
+<a href="000873">Live From Japan</a><br />
+<a href="000875">Japanese Oddities</a><br />
+<a href="000887">Real News</a><br />
+<strong>Illinois&#8217;s state &#8220;super-DMCA&#8221;</strong><br />
+<a href="000904">Locked in the Trunk</a><br />
+<a href="000913">Escaping the Trunk</a><br />
+<a href="000915">Cox News</a><br />
+<a href="000917">Media Concentration</a><br />
+<a href="000918">xmltramp</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

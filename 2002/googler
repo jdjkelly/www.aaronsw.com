@@ -1,0 +1,25 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+  <title>Googler</title>
+  <link rel="stylesheet" type="text/css" href="/style.css" />
+</head>
+<body>
+<div id="head">
+  <h1>Googler</h1>
+  <span class="description">All the Googles at your fingertips.</span>
+</div>
+<div class="content">
+
+<p>Googler makes it easy to search the Google you want, when you want. Give a prefix like <code>news:</code> (as in <code>news:iraq</code>) to search Google News or <code>images:</code> to search images. Prefix with <code>mid:</code> to retrieve a news messages from Google Groups or <code>?</code> (as in <code>?aaron</code>) to do an "I'm Feeling Lucky" search.</p>
+
+<form method="get" action="googler">
+<input name="q" type="text" /> <input type="submit" value="Search!" /> (<a href="_googler.py">Python source code</a>)
+</form>
+
+<p>If you're a IE/Mac user, you can <a href="http://www.macslash.com/articles/01/10/10/1828238.shtml">integrate Googler into your address bar</a> (just use <code><a href="http://www.aaronsw.com/2002/googler.cgi?secret=on&q=">http://www.aaronsw.com/2002/googler.cgi?secret=on&q=</a></code> as your magic string). If you like this, you might also like <a href="http://www.aaronsw.com/2002/dtrt">ADTRT</a>, which does everything Googler does and more! Also, check out <a href="http://google.blogspace.com/">the Google Weblog</a> for more Google tips and tricks.</p>
+
+</div>
+<div class="footer">
+  <address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</div></body>
+</html>

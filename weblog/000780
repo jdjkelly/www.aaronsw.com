@@ -1,0 +1,45 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>secroll (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000779" title="what should I do with my life?" />	<link rel="next" href="000781" title="Wireless &#8220;Security&#8221;" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>secroll</h1>
+</div>
+
+<div class="content">
+<p><a href="http://www.aaronsw.com/2002/secroll.py">secroll</a> is a python program to allow you to securely roll an n-sided die between two parties. If you remember <a href="http://www.aaronsw.com/weblog/000218">secure coin flipping</a>, this is a generalization of that.</p>
+
+<p>If you have expertise in the area, I&#8217;d really appreciate it if you could review it and let me know what you think. I&#8217;m especially interested in hearing about bugs and security holes. Thanks! <!-- I'm not certain it's bugfree or secure. If I was Knuth, I'd offer $0.32 for each bug and $2.56 for each security hole. Actually, if I really was Knuth I'd offer $2.56 for each bug and $20.48 for each bug. If I was D. J. Bernstein, I'd offer $100 for each security hole. Maybe I will after a couple people have reviewed it. --></p>
+
+<p class="posted">posted December 30, 2002 11:48 AM (<a class="category" href="cat_superheroes">Superheroes</a>)  <a href="000780" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000779" title="what should I do with my life?">&laquo; prev</a> | <a href="./">up</a> | <a href="000781" title="Wireless &#8220;Security&#8221;">next &raquo;</a></p>
+
+<p><a href="000774">segway movie: part 1</a><br />
+<a href="000776">be liberal in what you accept</a><br />
+<a href="000777">final(?) segway update</a><br />
+<a href="000778">it&#8217;s all about the spam-readers</a><br />
+<a href="000779">what should I do with my life?</a><br />
+<strong>secroll</strong><br />
+<a href="000781">Wireless &#8220;Security&#8221;</a><br />
+<a href="000783">Ideal PDA</a><br />
+<a href="000784">install in cron.yearly</a><br />
+<a href="000788">Is the Treo ideal?</a><br />
+<a href="000789">Classic PowerPoint Presentations</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

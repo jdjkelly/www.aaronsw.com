@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>The Vioxx Story (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>The Vioxx Story</h1>
+
+<p>In his book <em><a href="http://books.theinfo.org/go/019530067X">Doubt is Their Product</a></em>, David Michaels (currently head of OSHA) tells the Vioxx story in a way I&#8217;d never heard before (pp. 146-147):</p>
+
+<p>Aspirin and Aleve work by inhibiting the COX-1 and COX-2 enzymes. Inhibiting COX-2 lessens pain, but inhibiting COX-1 causes stomach problems like bleeding and ulcers. So the new class of COX-2 inhibitors, like Vioxx, were supposed to stop the pain without the nasty stomach side-effects.</p>
+
+<p>Of course, aspirin has the additional side effect of protecting your heart, so when they designed a study demonstrating the benefits of Vioxx, they made sure to a) exclude anyone with heart problems, and b) compare it against Aleve, which doesn&#8217;t have the same beneficial effects for the heart.</p>
+
+<p>The result of the study was shocking: despite all these efforts, the people who took Vioxx had 4 times the number of heart problems as the people who took Aleve. So what did the makers of Vioxx do? They told the FDA that this study showed how incredibly effective <em>Aleve</em> was at reducing heart attacks! Yes, it wasn&#8217;t that Vioxx increased the risk of a heart attack by 4 times &#8212; it was that Aleve magically reduced heart attacks by 80%.</p>
+
+<p>And the FDA believed them.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">February 10, 2010</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c3">
+<p>I think believe is an overly strong word here. Belief requires paying attention.</p>
+
+<p class="posted">posted by q
+ on February 11, 2010 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>why does this not surprise me?</p>
+
+<p>it comes down to a question of incentives, i think. obviously the drug companies have an incentive to figure out a way to push a new drug through, especially if they&#8217;ve already spent millions on research and development.</p>
+
+<p>but what incentives does the FDA have, exactly? on what does an FDA employee&#8217;s salary depend?</p>
+
+<p>obviously i have no real way of knowing. but my guess is that it doesn&#8217;t depend on making sure that it&#8217;s approvals are super-accurate.</p>
+
+<p>misguided incentives are why i find it very difficult to trust anyone in the federal government.</p>
+
+<p class="posted">posted by nic pfost
+ on February 11, 2010 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="vioxx" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

@@ -1,0 +1,32 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+  <title>Joshua Allen on Unix</title>
+  <link rel="stylesheet" type="text/css" href="/style.css" />
+</head>
+<body>
+<div id="head">
+  <h1>Joshua Allen on Unix</h1>
+  <span class="description">why the GNU tools are "hopelessly outdated"</span>
+</div>
+<div class="content">
+<p>Date: Thu, 6 Jun 2002 16:40:59 -0700<br />
+Message-ID: &lt;<a href="mid:4F4182C71C1FDD4BA0937A7EB7B8B4C10576BEF0@red-msg-08.redmond.corp.microsoft.com">4F4182C71C1FDD4BA0937A7EB7B8B4C10576BEF0@red-msg-08.redmond.corp.microsoft.com</a>><br />
+From: Joshua Allen<br />
+Subject: RE: N3 and N-Triples (was: RDF in HTML: Approaches)</p>
+
+<p>All this shows is that the GNU tools are hopelessly outdated.  They are 30-years old technologies, and every modern system today supports UTF-16.  The web is massively populated with UTF-16 data, and this is the fastest growing type of content.  Within 10 years, more than half of the information on the web will represented with Asian character sets that are best serialized in UTF-16.  And even if we ignore the moral repugnance of the Euro-centric bias in some of our information processing legacy, we have got to admit that the whole western world will be missing out on massive market opportunities (i.e. money) by having substandard ability to process global information.</p>
+
+<p>And besides, the GNU tools suck at more than just non-European languages, as your comment about "diff" points out.  Even if you fixed all of the GNU tools to have a proper concept of "character" to include a Unicode character, they would still be limited by the fact that they see the universe through "linefeed" colored glasses.  In XML, linefeeds are not relevant, so GNU diff is unable to do a proper diff of XML data, even *if* that data is purely 7-bit.</p>
+
+<p>When Aho, Kernigan, Wu et. al wrote those command-line tools, I am sure they did not expect for them to be turned into a "movement" (more like a "settlement") that would be standing in the way of progress and trying to squash solutions unrealistically into a 7-bit bucket.</p>
+
+<p>And finally, I would dispute that you can really use "diff" to determine changes between international documents expressed in the n-triples syntax.  First, you are making the assumption that the escaping syntax described by the n-triples doc is actually deterministic, reliable, and formal enough that various implementations will *always* arrive at the same 7-bit ASCII for the same UTF-16 graph.  Like I said, the syntax doesn't inspire trust in me, and I wouldn't at all be surprised if people start getting false negatives if they ever start testing internationalized graphs heavily.  But even then, *assume* that the n-triples syntax represents a work of genius at cononicalizing utf-16 in 7-bit, and assume that any two different n3 strings are guaranteed to actually represent different resources.  Diff *still* fails to detect isomorphism.  For starters, bNode names could be changed without impacting isomorphism.  I can imagine all sorts of n-triples documents that represent exactly the same graph, but would be reported by GNU diff as being different.</p>
+
+<p>So I think that catering to some ancient Unix command-line tools should be a very minor (if at all) consideration in syntax recommendation.</p>
+
+</div>
+<div class="footer">
+<p>Joshua Allen is a Microsoft employee.</p>
+<p><em>reformatted from <a href="http://lists.w3.org/Archives/Public/www-rdf-interest/2002Jun/0125">the version on the list archive</a> by <a href="http://www.aaronsw.com/">Aaron Swartz</a></em></p>
+</div></body>
+</html>

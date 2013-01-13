@@ -1,0 +1,33 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+  <title>Tips for Book Authors</title>
+  <link rel="stylesheet" type="text/css" href="/style.css" />
+</head>
+<body>
+<div id="banner">
+  <h1>Tips for Book Authors</h1>
+</div>
+<div class="content">
+
+<p>Here are some tips for book authors who want to make their readers happy, in order of importance (some of the less important tips, if followed, make some of the more important ones unnecessary):</p>
+
+<ol>
+<li><strong>Keep your copyright.</strong> I'd be interested in hearing about various publisher's positions on allowing authors to keep their copyright. Cory Doctorow tells me that most fiction authors and freelance journalists get to retain their copyright. Looking at the techical books I own, they all say they are copyrighted by the publisher.</li>
+
+<li><strong>Provide full machine-readable text.</strong> Provide full text of the book, preferably in HTML but other reasonably-popular open machine-readable formats are probably alright, with the book. You're most likely to do this by putting it on a CD-ROM included with the book, since putting it online is much more difficult to do securely. Doing this makes your book far more useful to readers, who can search, quote, and study your book much more easily.</li>
+
+<li><strong>Sell electronic copies at gain.</strong> Printing, distributing, and selling adds enormous cost to making a book, but with the Internet these are no longer required. Sell electronic copies of the book on your website, for the same amount (or less) you receive in royalties from the printed book. (Your publisher may also want an additional charge for editing and other production costs. That's fine too, although you may want to consider selling unedited copies without the additional charge.) If you do this, please let me know what the sales numbers of printed and electronic (and electronic-without-editing, if applicable).</li>
+
+<li><strong>Provide electronic copies for free.</strong> Please provide copies for free on the Internet so that those who cannot afford your book and those who don't know about (search engine users, for example) can find it. Baen Books has found that doing this <a href="http://www.baen.com/library/palaver6.htm">actually increases sales of the printed book</a>. Instead of selling electronic copies, you can ask for voluntary payment. If you do this, please let me know the numbers of viewers and donators.</li>
+
+<li><strong>Donate to the public domain.</strong> Once you've recouped the costs of the book (i.e. made enough money to live comfortably), please donate the book to the public domain (i.e. give up your copyright). The copyright system was created only to increase the size of the public domain; please don't cheat the public by taking more of it than you need.</li>
+
+<li><strong>Use decimal page numbers.</strong> The idea (<a href="http://www.halfbakery.com/idea/non-integer_20page_20numbers">originally suggested by Ry4an</a>) is to replace meaningless page numbers with the percentage of the book that's completed. The key benefit is that citations work across different editions and font sizes.</li>
+</ol>
+
+<p>I'm interested in hearing about other suggestions for book authors. I'm also interested in hearing about the results of anyone who's followed these tips.</p>
+</div>
+<div class="footer">
+  <address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:book-author-tips@aaronsw.com">book-author-tips@aaronsw.com</a>)</address>
+</div></body>
+</html>

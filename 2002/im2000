@@ -1,0 +1,34 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+  <title>Aaron's Internet Mail 2000 Proposal</title>
+</head>
+<body>
+<a href="http://www.aaronsw.com/">Aaron Swartz</a><br />
+<a href="http://cr.yp.to/im2000.html">Internet Mail 2000</a><br />
+<h1>Aaron's Internet Mail 2000 Proposal</h1>
+
+<h2>Messages</h2>
+
+<p>Messages are stored on an HTTP server and identified by their URI. HTTP's Accept: headers can be used to allow multiple message formats to compete. All implementations should support message/rfc822 for the foreseeable future.</p>
+
+<h2>Security</h2>
+
+<p>Messages should use PGP encryption to ensure privacy.</p>
+
+<h2>Sending</h2>
+
+<p>The protocol for a user to send a message to his ISP is to be decided.</p>
+
+<h2>Notification</h2>
+
+<p>Recipients are identified by <em>name</em>@<em>fqdn</em>. Notification is done to host <em>fqdn</em> using QMTP, except that messages are the URI of the message and the envelope sender address is omitted.</p>
+
+<p><em>Typically </em>fqdn<em> is a dynamic DNS entry pointing to the user's current IP address. </em></p>
+
+<h2>Mailing Lists</h2>
+
+<p>Mailing lists are stored as a directory of messages. List messages are numbered sequentially, starting at 1. Messages are located at the concatenation of the mailing list URI and the message number. GETing the mailing list URI itself should return the number of the most recent message, with content-type text/plain.</p>
+
+<p><em>A typical client will allow the user to retrieve all previous messages and then periodically check for </em>most recent message number<em> + 1.</em></p>
+
+</body></html>

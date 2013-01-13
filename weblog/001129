@@ -1,0 +1,216 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>TV Update: Monk back, 24 bad, American Beauty great, Zim good (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/001129.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001125" title="Suspected Terrorist" />	<link rel="next" href="001131" title="Unintelligent Design" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>TV Update: Monk back, 24 bad, American Beauty great, Zim good</h1>
+</div>
+
+<div class="content">
+<p>Updated: <a href="http://www.aaronsw.com/2002/tv">What&#8217;s Good on TV</a>.</p>
+
+<p><a href="http://www.aaronsw.com/2002/tv#monk">Monk</a> has started back up again.</p>
+
+<p>24 has thrown accuracy out the window.</p>
+
+<p>I just watched <em>American Beauty</em>. It has to be one of the best films of all-time. Go watch it now. (Doesn&#8217;t Lester Burnham remind you of <a href="http://philip.greenspun.com/">Philip</a>?) But it made me think, <a href="http://www.aaronsw.com/2002/tv#niptuck">Nip/Tuck</a> is essentially what <em>American Beauty</em> would be like if it was a TV show.</p>
+
+<p>And I finished Invader Zim and added a review:</p>
+
+<blockquote>
+	<h3>Jhonen Vasquez&#8217;s Invader Zim</h3>
+	
+	<p>Jhonen Vasquez, a deeply-dark comic book artist with an unhealthy obsession with doom, brings his bizarre world to the screen. Premise: An alien invader visits Earth on a mission to destroy it, blending in as a student in the mean time. Normally this stage is only used to parody sci-fi cliches, with only sideways glimpses at Jhonen&#8217;s world (the teacher keeps telling the students they&#8217;re doomed, the school mispells its name SKOOL, the children jump out the windows when the bell rings) but sometimes the show will point its satire at the wider world (one show was on the problems with the electoral process, another on the media&#8217;s obsession with &#8220;crises&#8221;). Either way, the crazy world makes the show interesting and hilarious. 2x15m, apx. 1 season. (<a href="http://www.nick.com/all_nick/tv_supersites/zim/">Nickelodeon</a>, BitTorrent, DVD coming soon)</p>
+	
+	<p><em>&#8220;Invaders blood marches though my veins, like, giant riadoactive rubber pants! The pants command me! Do not ignore my veins!&#8221;</em></p>
+</blockquote>
+
+<p>Oh, and keep watching the West Wing. What a show! Why doesn&#8217;t one of the democratic presidential candidates hire Aaron Sorkin as speechwriter already? (Dean, I&#8217;m looking at you&#8230;)</p>
+
+<p class="posted">posted January 20, 2004 02:30 PM (<a class="category" href="cat_tv">TV</a>) (<a href="#comments">7 comments</a>) <a href="001129" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001125" title="Suspected Terrorist">&laquo; prev</a> | <a href="./">up</a> | <a href="001131" title="Unintelligent Design">next &raquo;</a></p>
+
+<p><a href="001117">C-SPAN Crossfire</a><br />
+<a href="001118">Shorter George Lakoff: The Framing of Politics</a><br />
+<a href="001119">Bush Fear</a><br />
+<a href="001120">The Clinton-Gore Plan to Stop Al-Qaeda: Would 9-11 have happened?</a><br />
+<a href="001125">Suspected Terrorist</a><br />
+<strong>TV Update: Monk back, 24 bad, American Beauty great, Zim good</strong><br />
+<a href="001131">Unintelligent Design</a><br />
+<a href="001132">Shorter State of the Union</a><br />
+<a href="001133">Liberate Libertarianism</a><br />
+<a href="001136">Visiting Libertopia: The Magical Power of Property</a><br />
+<a href="001138">Aaron Swartz: The Interview</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c308">
+
+<p>I found last week&#8217;s West Wing (&#8220;The Benign Perogative&#8221; on Mandatory Minimums) one of the best I&#8217;ve seen in a long time, so good that I actually watched it twice. Quite suprising to me that the quality hasn&#8217;t gone out the window without Sorkin. Last week&#8217;s episode really did what the show does so effectively, take boring issues and make them about real people. It takes this to such an extreme that last week&#8217;s episode could better be summed up as &#8220;Donna&#8217;s relation with the issue of mandatory minimums&#8221; than being just about the issue itself. </p>
+
+<p>I highly recomend the Season 1 DVD to any fans (recently released for Region 1, available from Amazon). The episodes are of course amazing, but the commentaries and the &#8220;making of&#8221; features will excite any Wingnuts. </p>
+
+<p class="posted">posted by <a href="mailto:zlipton@cpan.org">Zach Lipton</a> at January 20, 2004 03:00 PM <a href="#c308">#</a></p>
+
+</div><div id="c316">
+
+<p>Good God, Aaron! American Beauty is surely one of the most overblown, pompous and puerile movies ever made. It&#8217;s nicely shot but commits the unpardonable sin of being <em>boring</em>. Teenage angst begets middle aged navel gazing: how trite.</p>
+
+<p class="posted">posted by KJO at January 21, 2004 06:54 AM <a href="#c316">#</a></p>
+
+</div><div id="c323">
+
+<p>I didn&#8217;t find it particularly boring &#8212; the murder mystery made you watch things closely and the comedy helped you enjoy it. I can&#8217;t say precisely why I liked the movie so much, but I find it hard to believe that it&#8217;s boring. To me it seems the classic text on the reality of suburbia.</p>
+
+<p class="posted">posted by <a href="http://www.aaronsw.com/">Aaron Swartz</a> at January 21, 2004 07:52 PM <a href="#c323">#</a></p>
+
+</div><div id="c324">
+
+<p>What specifically is inaccurate about recent episodes of 24?</p>
+
+<p class="posted">posted by skeptic at January 21, 2004 08:03 PM <a href="#c324">#</a></p>
+
+</div><div id="c325">
+
+<p>&#8220;We can&#8217;t get a satellite over&#8221;, &#8220;it&#8217;ll take me 20 minutes to try all the frequencies&#8221;, are the ones that come to mind but overall it seems the tech stuff has taken on a new level of silliness, and the getting-thru-a-second-too-late gimmick is getting old. </p>
+
+<p class="posted">posted by <a href="http://www.aaronsw.com/">Aaron Swartz</a> at January 21, 2004 09:04 PM <a href="#c325">#</a></p>
+
+</div><div id="c350">
+
+<p>RE: American Beauty. 
+Agree to differ on this one, I&#8217;m afraid - still thought it was boring; and what suburb did you grow up in? However, a nice little movie about suburbia, in the same style but better done, was &#8216;The Virgin Suicides&#8217;.</p>
+
+<p class="posted">posted by KJO at January 23, 2004 07:37 AM <a href="#c350">#</a></p>
+
+</div><div id="c355">
+
+<p>I&#8217;ll take a look at The Virgin Suicides, hopefully it&#8217;s more interesting than Lost in Translation (now <em>that&#8217;s</em> a movie that is &#8220;nicely shot but [&#8230;] <em>boring</em>&#8221;, although I enjoyed it anyway).</p>
+
+<p class="posted">posted by <a href="http://www.aaronsw.com/">Aaron Swartz</a> at January 23, 2004 12:13 PM <a href="#c355">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/001129.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/mt-comments.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1129" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /><br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

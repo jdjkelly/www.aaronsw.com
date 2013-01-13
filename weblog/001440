@@ -1,0 +1,270 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>P2P Politics (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001440.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001439" title="Stanford: Day 27" />	<link rel="next" href="001444" title="The World Is Watching" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>P2P Politics</h1>
+</div>
+
+<div class="content">
+<p>Over the weekend I built an exciting new site with Larry Lessig and J Christopher Garcia (who did the fabulous design). It&#8217;s called <a title="p2p-Politics" href="http://p2p-politics.com/">p2p-Politics</a> and it lets you share and send political clips before the election.</p>
+
+<p>MoveOn.org has contributed some fantastic submissions from their Bush in 30 Seconds contest and the John Kerry campaign has sent in the biographical movie they showed at the convention, along with clips from Michael J. Fox and Jim Rassman. And the site will host any Creative Commons-licensed political clips that you submit.</p>
+
+<p>Also exciting is that each ad has an associated wiki page where you can comment, fact-check, etc. to your heart&#8217;s delight.</p>
+
+<p>As always, your suggestions are appreciated (as is helping to spread the word!).</p>
+
+<ul>
+<li><a title="p2p-Politics" href="http://p2p-politics.com/">Website</a></li>
+<li><a href="http://lists.ibiblio.org/pipermail/cc-presslist/2004-October/000039.html">Press release</a></li>
+<li><a href="http://news.zdnet.com/2100-9588_22-5418034.html">ZDNet</a></li>
+</ul>
+
+<p class="posted">posted October 18, 2004 02:14 AM (<a class="category" href="cat_politics">Politics</a>) (<a href="#comments">12 comments</a>) <a href="001440" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001439" title="Stanford: Day 27">&laquo; prev</a> | <a href="./">up</a> | <a href="001444" title="The World Is Watching">next &raquo;</a></p>
+
+<p><a href="001434">TextMate</a><br />
+<a href="001436">Got Money?</a><br />
+<a href="001437">Misstated Union: An Interview with David Brock</a><br />
+<a href="001438">Stewart on Crossfire</a><br />
+<a href="001439">Stanford: Day 27</a><br />
+<strong>P2P Politics</strong><br />
+<a href="001444">The World Is Watching</a><br />
+<a href="001445">The Politics of Lying</a><br />
+<a href="001446">Stanford: Day 39</a><br />
+<a href="001448">Stanford: Day 40</a><br />
+<a href="001449">Stanford: Day 41</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c3107">
+
+<p>Wow, someone built an election-related website without a &#8220;not authorized by any candidate or candidate&#8217;s committee&#8221; disclaimer.  Will this last?</p>
+
+<p class="posted">posted by <a target="_blank" title="http://vitanuova.loyalty.org/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3107">Seth Schoen</a> at October 18, 2004 03:33 AM <a href="#c3107">#</a></p>
+
+</div><div id="c3112">
+
+<p>I notice when to goto the site the &#8216;Kerry&#8217; tab is active by default rather then the simple random or alternating choices.</p>
+
+<p>I assume this is by choice and if so is this or is this not just an anti-bush wearing a guise of &#8216;shared knowlage&#8217;?</p>
+
+<p>Hopefully I&#8217;m wrong here.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.asleep.net/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3112">A.Sleep</a> at October 18, 2004 06:50 AM <a href="#c3112">#</a></p>
+
+</div><div id="c3113">
+
+<p>Ahh, never mind. I see the point of the site. I clicked on the other two candidates (too bad you aren&#8217;t including more) and noticed the only one you care about is Kerry.</p>
+
+<p>Ignore my question since it&#8217;s the obvious answer.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.asleep.net/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3113">A.Sleep</a> at October 18, 2004 06:52 AM <a href="#c3113">#</a></p>
+
+</div><div id="c3114">
+
+<p>
+A. Sleep: If you had looked, you might&#8217;ve noticed Aaron has blogged critically and favorably of Nader as well &#8212; so he does not appear to be a knee-jerk &#8220;Anybody But Bush&#8221; or &#8220;Pro-Kerry&#8221; person to me&#8230; though I don&#8217;t think he&#8217;s come out and endorsed anyone.
+</p>
+
+<p>
+By my understanding it is an open site for you to publish your works under creative commons in favor of any of those candidates. It just seems Kerry supporters responded first.
+</p>
+
+<p>
+Here&#8217;s another p2p political project, this one doesn&#8217;t involve much in the way of software &#8212; its peer-to-peer in the realworld sense: <a href="http://www.votepact.com/">VotePact.com</a>.
+</p>
+
+<p>
+A way for third parties and independents to get real leverage while ducking the (incredibly flawed and mathmatically, statistically idiotic) &#8220;spoiler&#8221; accusations.
+</p>
+
+<p class="posted">posted by independent voter at October 18, 2004 07:42 AM <a href="#c3114">#</a></p>
+
+</div><div id="c3116">
+
+<p>Hey, great site! Can you please include the Libertarian Party, though? Green Party and Constitution Party as well.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://caw.homelinux.net:81" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3116">Curtis</a> at October 18, 2004 10:56 AM <a href="#c3116">#</a></p>
+
+</div><div id="c3119">
+
+<p>How about RSS/Atom feeds for either one or any candidates so we can tell when new videos are added?</p>
+
+<p>Thanks in advance ;)</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.brain-stream.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3119">B.K. DeLong</a> at October 18, 2004 01:31 PM <a href="#c3119">#</a></p>
+
+</div><div id="c3120">
+
+<p>If you look at the Dan Gilmore blog entry (http://weblog.siliconvalley.com/column/dangillmor/archives/010920.shtml) and Larry Lessing blog entry (http://www.lessig.org/blog/archives/002228.shtml), both Bush &amp; Nader have been invited to submit items, but haven&#8217;t responded so far.  </p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.lessig.org/blog/archives/002228.shtml" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3120">Jo Wenner</a> at October 18, 2004 02:08 PM <a href="#c3120">#</a></p>
+
+</div><div id="c3121">
+
+<p>This is great! A.Sleep, this site being pro-Kerry because it doesn&#8217;t have a link to pro-Bush? Go watch to Fox News, then we&#8217;ll talk.</p>
+
+<p class="posted">posted by Cory. at October 18, 2004 04:23 PM <a href="#c3121">#</a></p>
+
+</div><div id="c3122">
+
+<p>I&#8217;m not involved w/ the site, but I also solicited the Bush and Nader campaigns to add their ads.  </p>
+
+<p>I definitely get the sense that it&#8217;s pro-Kerry due to the current content and tab selection, but it&#8217;s not appropriate to blame that site if neither of the opposition candidates respond.</p>
+
+<p>Regardless, surface-level visitors are quite likely to dismiss the site due to it&#8217;s current apparent slant.</p>
+
+<p>I hope this is quickly corrected.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://dunck.us" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3122">Jeremy Dunck</a> at October 18, 2004 06:54 PM <a href="#c3122">#</a></p>
+
+</div><div id="c3185">
+
+<p>This type of innovation gives me great hope for our country. Thanks Aaron.</p>
+
+<p>Stanford; ROCK that campus November 2, I&#8217;ll try and do the same down here in Sunnyvale.</p>
+
+<p>This election is one of the most important in our country&#8217;s history. November second holds for every American great struggle and great emotion. We owe it to each other as one united body of people not to lock this emotion behind our front doors. Let the television into the public space, into the streets, the civic centers, out our front doors and mingle. Celebrate this day and make our voice heard. Let our music fill the air, and our dance move our bodies in our front yards and our streets. If Kerry wins, we dance in the streets, and if Bush wins, we dance in the streets. Never forget, We are United. Our expression is free. Together, may we provide the truth</p>
+
+<p class="posted">posted by Tim Andonian at October 24, 2004 03:43 AM <a href="#c3185">#</a></p>
+
+</div><div id="c3186">
+
+<p>This type of innovation gives me great hope for our country. Thanks Aaron.</p>
+
+<p>Stanford. ROCK that campus November 2, I&#8217;ll try and do the same down here in Sunnyvale.</p>
+
+<p>This election is one of the most important in our country&#8217;s history. November second holds for every American great struggle and great emotion. We owe it to each other as one united body of people not to lock this emotion behind our front doors. Let the television into the public space, into the streets, the civic centers, out our front doors and mingle. Celebrate this day and make our voice heard. Let our music fill the air, and our dance move our bodies in our front yards and our streets. If Kerry wins, we dance in the streets, and if Bush wins, we dance in the streets. Never forget, We are United. Our expression is free. Together, may we provide the truth</p>
+
+<p class="posted">posted by Tim Andonian at October 24, 2004 03:45 AM <a href="#c3186">#</a></p>
+
+</div><div id="c3202">
+
+<p>Lets see, hmm, 4 ads in the Other, 6 in the Rep tab, and OMG 50+ in the Dem tab. Nah, it&#8217;s not slanted at all!</p>
+
+<p class="posted">posted by Dave Carlton at October 25, 2004 09:15 PM <a href="#c3202">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001440.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1440" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

@@ -1,0 +1,176 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Stanford: Day 53 (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001473.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001472" title="Stanford: Day 52" />	<link rel="next" href="001474" title="Stanford: Day 54" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Stanford: Day 53</h1>
+</div>
+
+<div class="content">
+<p>Stupidly, I haven&#8217;t done the reading for Sociology today so I walk to class with my head in a book. As I walk down the stairs I notice someone walk past me in my peripheral vision. I turn around and it&#8217;s apparently TGIQ, already halfway up the stairs and walking briskly. Maybe she just came by to grab the handout and leave? That seems a little silly, although it&#8217;s rather clear she doesn&#8217;t care about the class.</p>
+
+<hr />
+
+<p>Seth Schoen tells me about a GNU Radio meeting on campus today, so I head over to see what&#8217;s up. The meeting is at the Stanford Radio Club, which apparently consists <em>entirely</em> of adult white men (despite it being a student group, I am the only undergrad). We go around and everyone says their ham radio callsign. The club president from &#8216;77 is here and the one from &#8216;61 leads the meeting, electing this year&#8217;s president.</p>
+
+<p>Matt Ettus of the GNU Radio project is here to talk about the new hardware he built for GNU Radio, the Universal Software Radio Peripheral (USRP). As Matt talks bout how hard it is to write your own signal processing code, an elderly lady sitting in front of me nods in agreement.</p>
+
+<p>The USRP (pronounced &#8220;usurp&#8221;) is a simple device that lets you use your USB2-enabled computer to send and receive radio messages on a variety of different frequencies, as controlled by your computer. The University of Utah has gotten a grant to pay for making them and selling them at cost; they also pay for the time of Matt and also the guy working on the related software. There&#8217;s also someone else working on a board that let&#8217;s you use unused TV bands.</p>
+
+<p>Most of the talk is pretty technical &#8212; slides say things like &#8220;SPI bus: program your PLL&#8221; &#8212; but he quickly gets to the demos. He shows how simple GNU Radio is to use. He writes a program to play a dial tone in only four lines. With just a couple more lines he can broadcast four different recordings simultaneously on different channels. (At this point, the audience pulls out their radios to try to pick up his signals.) And, of course, it can receive four recordings as well.</p>
+
+<p>What&#8217;s the point of all this? By moving things into software and out of hardware, it means that things can be far more dynamic. Instead of replacing all your hardware when cell phones go to 3G or 802.11b gets upgraded to 802.11g, you just download a software upgrade which modifies the hardware appropriate. Plus you can have &#8220;smart radios&#8221; which look around to see what channels are being used and automatically find free ones.</p>
+
+<p>The whole thing is free software so anyone can use it. It runs on Linux, where you have the &#8220;best-in-the-world tools&#8221; as opposed to the proprietary stuff you have to run on other people&#8217;s hardware. And everything is documented an open &#8212; indeed, another group build a different version of the hardware and quickly got the code running on heir version.</p>
+
+<p>A few years ago they did a demo decoding HDTV on the computer but it was very slow. He says things have improved to the point where you could probably do it in real-time now with a $10,000 machine.</p>
+
+<p>During Q+A, someone asks if you can use the technology to scan for the frequencies of the enemy in a combat zone. Matt says they&#8217;re working with SIGINT and COMINT.</p>
+
+<p>As the talk ends, someone thanks him for a work. &#8220;It&#8217;s a very cool project,&#8221; he replies. &#8220;I&#8217;m glad now I get to work on it full time.&#8221;</p>
+
+<p class="posted">posted November 14, 2004 04:21 PM (<a class="category" href="cat_education">Education</a>) (<a href="#comments">1 comments</a>) <a href="001473" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001472" title="Stanford: Day 52">&laquo; prev</a> | <a href="./">up</a> | <a href="001474" title="Stanford: Day 54">next &raquo;</a></p>
+
+<p><a href="001464">Amy Goodman (and guests) on the Election</a><br />
+<a href="001467">Stanford: Day 50</a><br />
+<a href="001468">Stanford: Day 51</a><br />
+<a href="001469">Donald Knuth writes Condi Rice</a><br />
+<a href="001472">Stanford: Day 52</a><br />
+<strong>Stanford: Day 53</strong><br />
+<a href="001474">Stanford: Day 54</a><br />
+<a href="001475">Stephen Pinker on Uniting Techies and Fuzzies</a><br />
+<a href="001476">Stanford: Day 55</a><br />
+<a href="001477">Barry Scheck on the Dark Side of Justice</a><br />
+<a href="001478">Stanford: Day 56</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c4020">
+
+<p>I&#8217;ve always wondered, though&#8212;this tech is really cool, but you still need the dedicated daughterboards for the specific freqs and of course special antennas depending on frequency as well.  So, it&#8217;s maybe a little easier, but I don&#8217;t see gettin garound the antenna issue easily.  Unless I&#8217;m missing something.</p>
+
+<p class="posted">posted by  at February 25, 2005 12:41 PM <a href="#c4020">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001473.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1473" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

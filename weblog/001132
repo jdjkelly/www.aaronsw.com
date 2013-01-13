@@ -1,0 +1,301 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Shorter State of the Union (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/001132.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001131" title="Unintelligent Design" />	<link rel="next" href="001133" title="Liberate Libertarianism" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Shorter State of the Union</h1>
+</div>
+
+<div class="content">
+<p>BUSH: America is good. Soldiers and law enforcement are making America safer. Tax cuts are making America stronger. We need more!</p>
+
+<p>Terrorists are bad and still here. But the PATRIOT Act is good, renew it. Afghanistan is good now. Iraq is good now. There are bad people in the shadows, but they don&#8217;t scare us. Libya is destroying their WMDs, we sure scared them. Now for North Korea and Iran. </p>
+
+<p>We <em>are</em> at war. Not invading Iraq <em>would</em> have been bad. We <em>have</em> internationalized the government of Iraq. Please provide more money, so we can bring democracy to Iraq and Afghanistan. <em>We</em> will create an empire of peace in the world.</p>
+
+<p>Tax cuts are good. The economy is up. (People can spend better than government.) Renew the tax cuts. Accountability is good. Schools are better. (Government can educate better than people.) We need to spend more money on reading, math, and science.</p>
+
+<p>Protect businesses from regulation and lawsuits. Modernize our electricity system, promote conservation, reduce dependence on foregin oil. Free trade, create jobs. Privatize part of Social Security. But limit spending and cut the deficit. [See how he sneaked that in there? - Ed.] Reform immigration. Improve health care. (The drug benefit was good, I&#8217;ll veto any attempts to get rid of it.) Pass Association Health plans and a lower-income health care tax credit. Computerize health records. Protect doctors from lawsuits. Make premiums tax-deductable.</p>
+
+<p>Goodness is good. Families are good. Drug use is down. Pay $23M for drug testing in schools if you love children. Steroids are bad. STDs are bad. Fact: Abstinence is the only solution. Culture is bad. Marriage is good. Gay people are bad. I fund faith-based initiatives, which are good. Pay $300M to train released prisoners (including by faith-based groups).</p>
+
+<p>America is still good. Cute kids are good, they should thank troops. God is good.</p>
+
+<h3>Democratic Response</h3>
+
+<p>PELOSI: America is good. Democrats are good. We should cooperate with other countries. Don&#8217;t lie to us. Soldiers are dying. Sweetheart Haliburton contracts are bad. Democrats are better at stopping terrorism: we&#8217;d inspect more containers, increase secutity on nuclear plants, help law enforcement communicate, secure uranium, not diminish civil liberties, and help veterans. Make America better.</p>
+
+<p>DASCHLE: America is good. Make it better. Bush wants to spend social security money on tax cuts. Americans are good. Help them, not rich people. Bush lost 3M jobs. We&#8217;ll create good ones. Label country of origin. Fund schools. College tuition costs is up. Health care is a right. 43M don&#8217;t have it. Increase in health care premiums is greater than size of tax cut. Bush won&#8217;t make it cheaper and will weaken coverage. Dead people are bad. Cheap drugs are good. Social security should be a guarantee.</p>
+
+<p class="posted">posted January 20, 2004 09:01 PM (<a class="category" href="cat_politics">Politics</a>) (<a href="#comments">13 comments</a>) <a href="001132" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001131" title="Unintelligent Design">&laquo; prev</a> | <a href="./">up</a> | <a href="001133" title="Liberate Libertarianism">next &raquo;</a></p>
+
+<p><a href="001119">Bush Fear</a><br />
+<a href="001120">The Clinton-Gore Plan to Stop Al-Qaeda: Would 9-11 have happened?</a><br />
+<a href="001125">Suspected Terrorist</a><br />
+<a href="001129">TV Update: Monk back, 24 bad, American Beauty great, Zim good</a><br />
+<a href="001131">Unintelligent Design</a><br />
+<strong>Shorter State of the Union</strong><br />
+<a href="001133">Liberate Libertarianism</a><br />
+<a href="001136">Visiting Libertopia: The Magical Power of Property</a><br />
+<a href="001138">Aaron Swartz: The Interview</a><br />
+<a href="001141">Why Raise Children?</a><br />
+<a href="001142">Freedom of Speech, or The DeCSS Haiku</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c312">
+
+<p>thanks for the lowdown</p>
+
+<p class="posted">posted by mike at January 20, 2004 09:27 PM <a href="#c312">#</a></p>
+
+</div><div id="c313">
+
+<p>Unless I missed it, he didn&#8217;t mention the space program.  I would say it was because it would contradict his claim that we can reduce the deficit 5 years from now, but why did he talk about new revenue decreases and new college financial aid entitlements in that case?</p>
+
+<p class="posted">posted by <a href="http://www.livejournal.com/~bryguypgh">bryguy</a> at January 20, 2004 09:45 PM <a href="#c313">#</a></p>
+
+</div><div id="c314">
+
+<p>It is easy to criticize others answers to problems, but what I would like to hear from you is your answers to the same problems, and how you are going to implement them. </p>
+
+<p class="posted">posted by Tony at January 21, 2004 02:19 AM <a href="#c314">#</a></p>
+
+</div><div id="c317">
+
+<p>( gah - so aaron has to be a politician now? what&#8217;s wrong with a summary? )</p>
+
+<p class="posted">posted by  at January 21, 2004 07:36 AM <a href="#c317">#</a></p>
+
+</div><div id="c318">
+
+<p>Uh, this isn&#8217;t a summary? I thought boiling it down like this might be funny (Goodness is good!) and reveal contradictions (only you know how to manage your money! only we know how to teach your children!). It&#8217;s also interesting that the democratic response was much harder to boil down.</p>
+
+<p class="posted">posted by <a href="http://www.aaronsw.com/">Aaron Swartz</a> at January 21, 2004 10:20 AM <a href="#c318">#</a></p>
+
+</div><div id="c320">
+
+<p>missed it &#8230; why was the Democratic response harded to boil down?  More meat?  More confusing?  Both?  Neither? </p>
+
+<p>Goodness is double-plus good.</p>
+
+<p class="posted">posted by Bob at January 21, 2004 12:20 PM <a href="#c320">#</a></p>
+
+</div><div id="c321">
+
+<p>I loved your boil - on &#8220;getting &amp; giving your answers&#8221; the answers are not easy and trying to make them easy by using glid phrases and twisted reality is not one of the answers.  </p>
+
+<p>Sitting at my even less than &#8220;middle average joe house&#8221; counting my $.03 increase wage earings and trying to figure out how to pay for all this wonderful health insurance that is now available to me - Just can&#8217;t help feeling that all those High Rollers just don&#8217;t get it, or don&#8217;t to get, or just think that I am too stupid to even begin to get it.</p>
+
+<p>Keep Summing.  nmcil</p>
+
+<p class="posted">posted by <a href="http://www.domney.com">nmcil</a> at January 21, 2004 12:38 PM <a href="#c321">#</a></p>
+
+</div><div id="c322">
+
+<p>Bob, they just tended to communicate more complicated ideas (e.g. Democrats are better at achieving goodness vs. goodness is good). </p>
+
+<p class="posted">posted by <a href="http://www.aaronsw.com/">Aaron Swartz</a> at January 21, 2004 01:37 PM <a href="#c322">#</a></p>
+
+</div><div id="c327">
+
+<p>LOL &#8212; fantastic summary! Some work colleagues asked if I&#8217;d seen it (particularly re the gay marriage stuff) and I was delighted to find your summary version :-)</p>
+
+<p class="posted">posted by <a href="http://blog.meriwilliams.com">Meri</a> at January 22, 2004 03:17 AM <a href="#c327">#</a></p>
+
+</div><div id="c328">
+
+<p>Sorry Aaron, I&#8217;m European and I rely on irony a little too much when I write. What I meant was: Aaron <em>doesn&#8217;t</em> have to be a politician, and this <em>is</em> a summary. Hey - the coverage over here hardly covered a Dem. response at all. Who knew?</p>
+
+<p class="posted">posted by SummaryDude at January 22, 2004 03:31 AM <a href="#c328">#</a></p>
+
+</div><div id="c408">
+
+<p>Interesting summary&#8230; I&#8217;m wondering where a few of those points came from. </p>
+
+<p>He does say that tax cuts are making America stronger&#8230; but where did he say we need more? I&#8217;m sorry, I&#8217;m looking through the text of his speech, and I just can&#8217;t find it. It is ten pages long in Microsoft Word, I could easily be missing it&#8230; Oh there it is&#8230; No, wait, he&#8217;s simply saying the tax cuts we <em>already</em> have need to be renewed. Maybe this is it&#8230; no, that&#8217;s still the tax cuts Congress already passed&#8230; Well, maybe you can enlighten me. Alright. </p>
+
+<p>Ooh, that&#8217;s an interesting contradiction there that you point out by boiling down the language&#8230; or a seeming one anyway. &#8220;People can spend more than government,&#8221; and &#8220;Government can educate better than people.&#8221; He definitely acknowledges that the tax cuts Congress already passed are working and that the people have spent that money wisely&#8230; I&#8217;m wondering why you have parantheses there, almost like he didn&#8217;t really say it. </p>
+
+<p>I&#8217;m not sure how much clearer he could have said it though: &#8220;Americans took those dollars and put them to work, driving this economy forward.  The pace of economic growth in the third quarter of 2003 was the fastest in nearly 20 years&#8230; [Yada yada yada] These numbers confirm that the American people are using their money far better than government would have &#8212; and you were right to return it.&#8221; </p>
+
+<p>But I&#8217;m just not seeing a statement that&#8217;s quite that clear that you could take to mean &#8220;Government can educate better than people&#8221;&#8230; In fact, I can&#8217;t find any statement that could mean that. He quite often says that government will help fund education, will encourage fewer children to be left behind&#8230; but I&#8217;m pretty sure the same people who were educating before 2000 are still educating, they&#8217;re just doing so with 36% more funding. Well, maybe you can show me where I&#8217;m wrong on that one too. </p>
+
+<p>What else&#8230; ah, jobs, the economy&#8230; and an editorial comment nonetheless! Wait&#8230; what did he sneak in there? &#8220;Limit spending and cut the deficit.&#8221; Yes&#8230; yes, he definitely said that the budget he is proposing limits spending and is cutting the deficit&#8230; By golly you&#8217;re right! </p>
+
+<p>To sneak that into that section like that, into the speech at all! To talk about government spending and reducing the deficit when it&#8217;s only one of the most talked about issues nowadays and one of the things his administration is most often criticized concerning! How dare he address the very issues his opponents are addressing! Especially in a speech like this; government spending has <em>nothing</em> to do with the State of the Union! This is sheer stupidity! And snuck in so cleverly here&#8230; I mean, this section of his speech was clearly meant to address things like jobs and economic growth and free trade and taxes and other money issues&#8212; what does spending have to do with that? Absolutely nothing! For crying out loud&#8230; </p>
+
+<p>I&#8217;d think with all his staff, Bush could have snuck that devious defense of his budget somewhere else in the speech, somewhere more fitting, where the stark contrast wouldn&#8217;t have so illuminated it that even I can see the horror of it. Well, before I get too riled up, I should move on&#8230; </p>
+
+<p>&#8220;Goodness is good&#8221;? How idiotic! Leave it to a Texan to say that to the nation. It&#8217;s even a bit Orwellian, as has been already pointed out&#8230; Ah, here&#8217;s the paragraph referred to, and he definitely did say&#8230; or wait&#8230; no&#8230; I don&#8217;t think he did. It looks like he says&#8230; &#8220;the unseen pillars of civilization&#8221; are good. What the heck are those? Ah, he says right in that same paragraph, how convenient! Courage. Compassion. Integrity. Reverence and Respect for those of different faiths and races. American values. Families. Schools. Churches. Well gee, that&#8217;s a lot more than just &#8220;goodness.&#8221; </p>
+
+<p>A lot less Orwellian too&#8230; Big Brother didn&#8217;t have too much courage, or compassion, or integrity, or reverence and respect for differences, he discouraged families, punished schools that weren&#8217;t government schools and destroyed churches. Ah well, I suppose that&#8217;s all just a minor difference anyway&#8230; </p>
+
+<p>&#8220;STDs are bad&#8221;&#8230; I think just about everyone agrees on that&#8230; </p>
+
+<p>&#8220;Gay people are bad&#8221;&#8230; whoa, hold on! I don&#8217;t remember anything about gay people, at all&#8230; in fact, Bush never mentioned the word &#8220;gay&#8221; in the State of the Union Address, and I definitely don&#8217;t see where he said gay people are bad. Of course, I&#8217;ve been reading the speech, and rereading the speech and reading your summary and so forth for quite awhile now, my eyes are getting pretty tired&#8230; Okay, there he does support Bill Clinton&#8217;s 1996 Defense of Marriage Act. </p>
+
+<p>This is interesting&#8230; I&#8217;m somewhat curious why the courts&#8217; subversion of the will of the people in this regard, not to mention Bush&#8217;s determination to serve that will, was left out of the summary, and &#8220;Gay people are bad&#8221; substituted for it, especially when he never said that. </p>
+
+<p>In the next paragraph even, he said, &#8220;each individual has dignity and value&#8221;&#8230; that doesn&#8217;t sound to me like he&#8217;s saying anyone is bad. Even the terrorists who want to blow us up, if you remember from earlier in the speech, aren&#8217;t bad&#8230; he even wants to share democracy, liberty and freedom with them. Most interesting how you reflected this in your summary. </p>
+
+<p>Ah, good old age 2&#8230; or age 10 Ashley Pearson (sorry if you didn&#8217;t actually watch the speech, you wont understand that)&#8230; Yes, cute kids are good, and they should thank our troops, as we all should&#8230; they should also study hard, obey their parents and help someone in need. &#8220;May God bless the United States of America. Thank you.&#8221;</p>
+
+<p class="posted">posted by Tmesis Grok at January 29, 2004 01:51 PM <a href="#c408">#</a></p>
+
+</div><div id="c409">
+
+<p>More tax cuts: &#8220;Unless you act, Americans face a tax increase. [&#8230;] the tax cuts you passed should be permanent.&#8221; If they need to be renewed then we don&#8217;t quite have them yet. I see your distinction, but I don&#8217;t think it&#8217;s all that important.</p>
+
+<p>Parentheses: The parentheses are there because it was a parenthetical aside in my version, an explanation or defense. I use [brackets] for things people don&#8217;t say.</p>
+
+<p>&#8220;Government can educate better than people&#8221;: He didn&#8217;t quite say this, but he endorsed No Child Left Behind (&#8220;We&#8217;re requiring higher standards. We are regularly testing every child on the fundamentals.&#8221;) which took school control out of the hands of local school boards and gave it to Washington.</p>
+
+<p>Snuck that in there: My point was that he asked for dozens of new programs and spending projects, and right in the <em>middle</em> of asking, he said &#8220;oh yeah, and cut the budget too&#8221;, as if it were another program we could throw money at. I just thought it was funny.</p>
+
+<p>Gay people are bad: Well, he said that they don&#8217;t deserve the protections of marriage (by endorsing the FMA) but you&#8217;re right, he was careful not to say the word &#8220;gay&#8221; (perhaps because it&#8217;s so bad?).</p>
+
+<p>&#8220;Bill Clinton&#8217;s DOMA&#8221;: Why do you call it Bill Clinton&#8217;s? I know he signed it but Presidents sign lots of things they don&#8217;t particularly support. Did he write the bill? Or passionately support it or something?</p>
+
+<p>&#8220;the courts&#8217; subversion of the will of the people&#8221;: Whoa! Did someone not tell you what judicial review was for? Subverting the will of the people (as expressed by their legislators) is  <em>all</em> courts do when declaring laws unconstitutional. It&#8217;s their job! The Courts are there to make sure the unfavored minority (gay people, flagburners, dissidents, blacks, Japanese-Americans) are protected from the tyranny of the majority.</p>
+
+<p>Ashley Pearson, Age 2&#8212;10: Yeah, at the time I was thinking &#8220;President Bush knows binary?&#8221;. ;-)</p>
+
+<p class="posted">posted by <a href="http://www.aaronsw.com/">Aaron Swartz</a> at January 29, 2004 01:53 PM <a href="#c409">#</a></p>
+
+</div><div id="c557">
+
+<p>I am 14 and coming from my young point of view! I think Bush really needs to take a look at his nation and stop trying to impress the cameras with his whole good little boy act. Yes we do need more money put into the schools but not just in the acadamics, I go to an inter-city school so believe me I KNOW and SEE it everyday. </p>
+
+<p>The whole computerizing thing needs to be out, just for very obvious reasons. The drugs use is down is nothing but GARBAGE in rather large loads. I wanna know where he&#8217;s getting his information from!</p>
+
+<p>Well I got to rant my bit out and now gotta finish my American Government homework. </p>
+
+<p class="posted">posted by <a href="mailto:MoonPrincess2097@bellsouth.net">Lena's Mouth (age 14) </a> at February 18, 2004 05:58 PM <a href="#c557">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/2002/001132.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/mt-comments.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1132" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /><br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

@@ -1,0 +1,397 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Stanford: Day 58 (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001480.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001479" title="Stanford: Day 57" />	<link rel="next" href="001485" title="Stanford: Day 59" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Stanford: Day 58</h1>
+</div>
+
+<div class="content">
+<p>Kat and Vicky want to know why I eat breakfast alone reading a book, instead of talking to them. I explain to them that however nice and interesting they are, the book is written by an intelligent expert and filled with novel facts. They explain to me that not sitting with someone you know is a major social faux pas and not having a need to talk to people is just downright abnormal.</p>
+
+<p>I patiently suggest that perhaps it is they who are abnormal. After all, I can talk to people if I like but they are unable to be alone. They patiently suggest that I am being offensive and best watch myself if I don&#8217;t want to alienate the few remaining people who still talk to me.</p>
+
+<p class="posted">posted November 15, 2004 02:17 AM (<a class="category" href="cat_education">Education</a>) (<a href="#comments">25 comments</a>) <a href="001480" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001479" title="Stanford: Day 57">&laquo; prev</a> | <a href="./">up</a> | <a href="001485" title="Stanford: Day 59">next &raquo;</a></p>
+
+<p><a href="001475">Stephen Pinker on Uniting Techies and Fuzzies</a><br />
+<a href="001476">Stanford: Day 55</a><br />
+<a href="001477">Barry Scheck on the Dark Side of Justice</a><br />
+<a href="001478">Stanford: Day 56</a><br />
+<a href="001479">Stanford: Day 57</a><br />
+<strong>Stanford: Day 58</strong><br />
+<a href="001485">Stanford: Day 59</a><br />
+<a href="001486">Network News Presidents on the Election</a><br />
+<a href="001487">Stanford: Day 60</a><br />
+<a href="001488">Stanford: Day 61</a><br />
+<a href="001490">The People Themselves: A Debate</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c3419">
+
+<p>Ok, if you say &#8220;however nice and interesting they are&#8230;&#8221; it sounds like they aren&#8217;t nice and interesting <em>enough</em> to divert you from your book. They can be nice and interesting, <em>and</em> you can read your book. Is that what you meant? </p>
+
+<p>&#8220;&#8230;not having a need to talk to people is just downright abnormal&#8221; - no, it isn&#8217;t. Really, it isn&#8217;t. Perhaps <em>never</em> speaking to anyone might be, I suppose. What&#8217;s wrong with abnormal anyway?</p>
+
+<p>I don&#8217;t think they are <em>unable</em> to be alone: perhaps they see you, want to talk to you&#8230; perhaps they might actually enjoy your company. Weird, I know.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://robertbrook.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3419">Robert Brook</a> at November 15, 2004 05:12 AM <a href="#c3419">#</a></p>
+
+</div><div id="c3420">
+
+<p>This one is a tough call!  Aaron, I&#8217;m like you in that I tend to be quiet and studious in the morning.  On weekends, my wife sleeps in, so I go off the to the coffee shop to read and write.  <i>But</i>, even though it may be a drain, when we have house guests, or when I am a guest, I always interact with whomever else is up, even though I&#8217;d rather not.  Why?</p>
+
+<p>There&#8217;s a principle involved here, best paraphrased by a former boss of mine: <b><i>&#8220;It&#8217;s not a do-loop.&#8221;</i></b>  The bottom line is that we are social beings.  Therefore, most of the time, <i>relationships</i> trump <i>tasks</i>.
+<p>I have always been very task-oriented and, I have to work at the relationship part.  In college, I didn&#8217;t realize this part of my nature, or the principle I cited above.  As a result, I graduated extremely lonely and alienated.
+<p>I&#8217;m not suggesting that will be the same for you, but it <i>does</i> appear you&#8217;re started down a path.  I&#8217;d take the advice of Kat and Vicky.  For one thing, I think they must be terrific friends if they&#8217;re willing to confront you on something like that.  There are so many others who would have simply written you off without saying anything.  You&#8217;ll have plenty of time to read when you&#8217;re living in that first apartment in that first job in an unfamiliar city where you don&#8217;t know anybody.</p></p></p>
+
+<p class="posted">posted by Russ Schwartz at November 15, 2004 06:12 AM <a href="#c3420">#</a></p>
+
+</div><div id="c3422">
+
+<p>I&#8217;m amused by your story, but I don&#8217;t know if you&#8217;re polling your readership for advice or just remarking on your day. If the former, I&#8217;m with Kat and Vicky.</p>
+
+<p>I&#8217;m assuming it&#8217;s the latter. Hey, it&#8217;s your life, but decisions have opportunity costs.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://mccarthy.vg/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3422">Jamie McCarthy</a> at November 15, 2004 07:41 AM <a href="#c3422">#</a></p>
+
+</div><div id="c3424">
+
+<p>I don&#8217;t know Aaron, this seems a little arrogant to me. They&#8217;re not interesting enough to get your attention? You&#8217;re much more on the level of an &#8220;expert&#8221; and would rather learn &#8220;novel facts&#8221; as if you couldn&#8217;t get that from the other two? I don&#8217;t think you&#8217;re as self-absorbed as that&#8230;.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://bigben.blogs.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3424">Ben Casnocha</a> at November 15, 2004 09:28 AM <a href="#c3424">#</a></p>
+
+</div><div id="c3425">
+
+<p>The book won&#8217;t go away if you slow down reading it, your friends/acquaintances/social interactions will. I&#8217;d take some time with them.</p>
+
+<p>(I usually eat breakfast alone, but that&#8217;s because any social subsystems come online about half an hour after breakfast&#8230;)</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.manuzhai.nl/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3425">Manuzhai</a> at November 15, 2004 09:57 AM <a href="#c3425">#</a></p>
+
+</div><div id="c3426">
+
+<p>Kat and Vicky are right.  That is a bit of asocial faux pas.</p>
+
+<p>Also, it was pretty condescending of you to suggest that they were less interesting than this book you&#8217;re reading.  Even if it&#8217;s true, there are many other things you could have said without jeopardizing your friendship with them.</p>
+
+<p>My unsolicited advice is that you pay them a visit and apologize.  These girls are trying to get you out of your shell and open up a little.  And you&#8217;re really not making it easy for them.  Help them out before they give up and consider you a lost cause.</p>
+
+<p>-Al</p>
+
+<p class="posted">posted by Al at November 15, 2004 10:01 AM <a href="#c3426">#</a></p>
+
+</div><div id="c3428">
+
+<p>Aaron, there will ALWAYS be something interesting to do, but friends are a scarce resource, to be enjoyed. Life goes by pretty quick&#8230; you need to enjoy it, friends open up all sorts of opprotunities you&#8217;ll otherwise miss.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://mikewarot.blogspot.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3428">Mike Warot</a> at November 15, 2004 12:00 PM <a href="#c3428">#</a></p>
+
+</div><div id="c3429">
+
+<p>I&#8217;d probably chat with <a href="http://www.katicus.blogspot.com/">Kat</a> when given the chance.</p>
+
+<p class="posted">posted by  at November 15, 2004 12:35 PM <a href="#c3429">#</a></p>
+
+</div><div id="c3430">
+
+<p>Aaron, college is more than about learning more facts to cram into your head.  It is about connecting with people.  It is about growing with people for the next 4/5/X years.  It is about making new relationships, and unlocking a huge part of your life that, until college, has never existed.</p>
+
+<p>I&#8217;m not suggesting that you burn your studies in order to go out and party every night, but trust me, something as seemingly innocent as sitting with a group of friends at breakfast will help you grow as a person far more than any book ever will.</p>
+
+<p class="posted">posted by Mark at November 15, 2004 12:50 PM <a href="#c3430">#</a></p>
+
+</div><div id="c3431">
+
+<p>Question:  &#8220;Why aren&#8217;t you talking with us?&#8221;</p>
+
+<p>This is a trick question.  Actually, it&#8217;s not really a question.  It took me a long time to figure this out, and I only did it with help, and I still have trouble recognizing that this is <em>not really a question.</em>  At the very least, it&#8217;s a statement (&#8220;we&#8217;d like you to talk to us.&#8221;), and at most it&#8217;s a request (&#8220;please talk to us.&#8221;).</p>
+
+<p>That girl reading a book who doesn&#8217;t find you interesting anyway, <em>that</em> girl never <em>ever</em> asks you why you&#8217;re not talking to her.  She doesn&#8217;t care.  By the same token, Kat and Vicky aren&#8217;t asking out of intellectual curiosity.</p>
+
+<p>Now, Kat and Vicky may want your attention for selfish reasons that you have no reason to want to support.  And perhaps you don&#8217;t want to foster any kind of relationship with them, in which case the &#8220;please stop boring me&#8221; response is expedient, if selfish in its own right.  However, my personal opinion is that time spent talking with them would be well-spent.</p>
+
+<p>Back when I had my head lodged in a book half the day, I might have responded as you did.  If I had known then (what I know now) that it wasn&#8217;t actually the question it sounded like, I might have responded differently.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://toehold.blogspot.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3431">Kyle Hasselbacher</a> at November 15, 2004 01:28 PM <a href="#c3431">#</a></p>
+
+</div><div id="c3432">
+
+<p>There was a good essay in the Atlantic Monthly last year called <a href="http://www.theatlantic.com/doc/prem/200303/rauch">&#8220;Caring for your Introvert&#8221;</a> that I referred several extrovert friends of mine to, explaining that introversion and not wanting to be around people all the time did not make one abnormal or a freak - just different.  Unfortunately, it appears to be only accessible for pay now.  The one quote I remember is that he paraphrases Sartre and notes that for an introvert, &#8220;Hell is other people at breakfast.&#8221;  </p>
+
+<p>Extroverts recharge by being around people, so they can&#8217;t understand why anybody would ever want to be alone.  Introverts need time alone to process.  We&#8217;re different.  It&#8217;s not that we don&#8217;t like you, it&#8217;s not that we don&#8217;t want to be around you, but we just need space sometimes without other people.  It&#8217;d be easier if people accepted that and didn&#8217;t take it personally, but alas, that&#8217;s not the case.  </p>
+
+<p>Anyway, I sympathize.  I&#8217;ve had <a href="http://www.nehrlich.com/blog/2003/11/17#introversion">similar thoughts</a>.  In this case, though, I think I&#8217;d agree with others&#8217; comments and make the effort to re-connect with Kat and Vicky, since they&#8217;re making the effort to reach out to you.  But maybe try to explain to them that wanting to be alone isn&#8217;t abnormal, and that it&#8217;s just a different personality trait.  Find a copy of that article if you can, and have them read it.  Good luck!</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.nehrlich.com/blog" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3432">Eric Nehrlich</a> at November 15, 2004 01:28 PM <a href="#c3432">#</a></p>
+
+</div><div id="c3434">
+
+<p>I think that you might want to consider the possibility that Kat and Vicky are experts too (on different things to your book) and that they clearly have novel facts to pass on to you (eg., that it is a social faux pas to ignore others when you have breakfast in the same place). </p>
+
+<p>If your book is really engrossing - say hi to them when you/they arrive, and mention that your book is amazing and you are at a cliff-hanger moment and have to turn the page, and that you would chat but you <em>must</em> read today. And that you&#8217;ll talk to them tomorrow. </p>
+
+<p>College is very much about learning social things you never have a chance to at home / school. Even if you hate what you learn, it is important to understand how other people (the majority) act and expect others to act. You will need this information for the rest of your life, whether you blend with the crowd, sometimes fit in and sometimes stay alone, or stay by yourself (you still need to interact enough to stop yourself getting lynched!)</p>
+
+<p class="posted">posted by laurie at November 15, 2004 03:25 PM <a href="#c3434">#</a></p>
+
+</div><div id="c3438">
+
+<p>(The following, despite being unsolicited, is respectfully submitted anyway. It&#8217;s about your first paragraph&#8212;book vs. buddies&#8212;not about that second and much deeper issue&#8212;philosophical, psychological, anthropological, sociological&#8212;of which choice is &#8216;normal&#8217;.)</p>
+
+<p>Like many of your readers who commented above, I totally know where you&#8217;re coming from. For example, I find the casual talk of most people my age (19) extremely banal. Many group conversations are about things like friends of friends or paintball, when I&#8217;d much rather be thinking about some random political issue (or tech, or literature, or history&#8212;you know, something &#8216;real&#8217;.) In short, I find their conversation crushingly boring, and I&#8217;m sure the judgement is reciprocated.</p>
+
+<p>But one can&#8217;t exactly function in &#8216;understand/change/save the world&#8217; mode 24/7. If you actually feel that engaging Kat and Vicky has less to offer then your book, then&#8212;to pursue an economic analogy&#8212;you may want to engage them out of simple self-interest. Jamie M. nailed it&#8212;these choices come with opportunity costs, and you may decide that you can&#8217;t afford to deprive the other capacities of your intellect to this extreme.</p>
+
+<p>Not if you want to quickly find help when moving the next filing cabinet. Not if you want to experience what dancers are enjoying rather than puzzling about them. Not if you want to waltz into a future TGIQ&#8217;s life.</p>
+
+<p>Also&#8212;a warning&#8212;although not quite as bad as the situation in high schools, college too has its &#8216;cliques&#8217;. If you&#8217;re stereotyped as a complete people-shunner, or even just inconsiderate, it may end up being very difficult to break out of that mold.</p>
+
+<p>(IMHO, etc.)</p>
+
+<p class="posted">posted by <a target="_blank" title="http://firasd.org" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3438">Firas</a> at November 15, 2004 05:19 PM <a href="#c3438">#</a></p>
+
+</div><div id="c3440">
+
+<p>Well, we still love you Aaron.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.ryguillian.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3440">Ryan Hayes</a> at November 15, 2004 06:11 PM <a href="#c3440">#</a></p>
+
+</div><div id="c3441">
+
+<p>Kyle Hasselbacher said:</p>
+
+<blockquote>
+  <p>“Why aren’t you talking with us?” &#8230; is a trick question&#8230; At the very least, it’s a statement (“we’d like you to talk to us.”), and at most it’s a request (“please talk to us.”).</p>
+</blockquote>
+
+<p>Excellent observation. In this case, it&#8217;s an invitation, by friends of yours, to initiate social contact. Why is it couched in a question? Because that&#8217;s the way our customs-ridden society works socially. Indirectly.</p>
+
+<p>In a reversed situation, when you are the one wanting to initiate contact with others, you also have to be alert for such indirect cues coming from the other direction. Does the other party want you to continue contact? These cues are also highly indirect, so you need to learn to interpret them in terms of a social framework. Learning to see and interpret these indirect cues are especially applicable for landing dates (or more) with girls :-) </p>
+
+<p>That said, if you really do want to be alone on a particular day, I suggest going somewhere where you are unlikely to meet people who will talk to you, e.g. an off-campus cafe or some non-popular pizza joint or something. If you&#8217;re in a campus social gathering place like the cafeteria or something, then you simply have to get used to the fact that it&#8217;s socially expected that you socially interact in such an environment.</p>
+
+<p>You might want to try alternating your lifestyle between &#8220;social days&#8221; (spent in social locations with the goal of gaining social experience and having fun) and &#8220;solitary days&#8221; (spent in your &#8220;hideout&#8221; locations for downtime). But make no mistake: social experience must be learned. Don&#8217;t spend all your time in &#8220;solitary-mode&#8221; then expect to be able to go full-throttle into &#8220;social mode&#8221; with the flip of a switch and become the life of the party when you go out. Instead, encourage yourself to intentionally put yourself into social situations and to push your social boundaries. Try talking to different people in different ways and styles, and learn how you react to people and people react to you.  </p>
+
+<p>Mr. SW</p>
+
+<p class="posted">posted by  at November 15, 2004 08:44 PM <a href="#c3441">#</a></p>
+
+</div><div id="c3442">
+
+<p>Aaron,
+I was in a similar situation back in college, in that I felt that I had to absorb so much information for my future tech/entreprenurial path, that a lot of times I shunned trips, people, experiences in favor of writing software, reading, etc. This worked well for my direct level of experience and competence in technical areas, and helped me excel in work related functions.</p>
+
+<p>However.</p>
+
+<p>I soon realized how short sighted I was once I found out in the &#8220;Real World&#8221;TM just how important &#8220;who you know&#8221; or &#8220;how you can relate to people&#8221; was. I have had projects where, as quality a job as it was, or as much potential as it had, it came down to the contacts i had to get my work out, ie, the relationships I had cultivated.</p>
+
+<p>So, you never know, even though you may not feel that certain people&#8217;s company is worth much, its at least good practice relating to people. Plus, your perceptions of people may even change over time, and you may find out that some of the most important people in your life are right in front of you. You never know.</p>
+
+<p>Take a chance, put the book down now and then.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.stoofoo.net" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3442">JP</a> at November 15, 2004 09:10 PM <a href="#c3442">#</a></p>
+
+</div><div id="c3446">
+
+<p>Reading this, I&#8217;m struck by the distancing devices you put into writing such a brief entry.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.jzip.org/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3446">adamsj</a> at November 16, 2004 06:41 AM <a href="#c3446">#</a></p>
+
+</div><div id="c3448">
+
+<p>Aaron (and Eric), <a href="http://www.learningplaceonline.com/relationships/friends/caring-introvert.htm">here&#8217;s a reprint</a> of the Atlantic Online article from <a href="http://www.learningplaceonline.com">The Learning Place Online</a>.  It&#8217;s a good little article.</p>
+
+<p>As an introvert, I can relate.  During my MBA program, they had us take the Myers-Briggs personality exam, without telling us that&#8217;s what it was.  They then had all the &#8220;E&#8221;s go to one side of the room and the &#8220;I&#8221;s to the other while the facilitators went to &#8220;get something.&#8221;  After five minutes, they came back in and said &#8220;stop and look around.&#8221;  The &#8220;E&#8221;s (extroverts) were all clumped together and had been chatting.  The &#8220;I&#8221;s (introverts) were lined up along the wall silent and staring straight ahead.  It was rather telling.  </p>
+
+<p>Just because you&#8217;re an introvert, that doesn&#8217;t make you weird.  Obviously the world seems to be dominated by extroverts, but that can also be due to them being more vocal and visible.  </p>
+
+<p>I&#8217;m the type, like Eric mentioned, who recharges by being alone.  The &#8220;chatty&#8221; people can wear me down.  The trick is to find others with common interests who don&#8217;t run you down.  Not as easy as being an extrovert, obviously, but doable.  I&#8217;d try to explain this to Kat and Vicky, that sometimes you just need time by yourself.</p>
+
+<p class="posted">posted by Todd at November 16, 2004 10:34 AM <a href="#c3448">#</a></p>
+
+</div><div id="c3451">
+
+<p>Good to see you in Stanford. Hope you shake the place up a bit.</p>
+
+<p>Best,</p>
+
+<p>Stefan</p>
+
+<p class="posted">posted by Stefan Decker at November 17, 2004 05:52 PM <a href="#c3451">#</a></p>
+
+</div><div id="c3459">
+
+<p>Nothing wrong with that - I frequently opt out of lunch with others to read while I eat.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.zacheverson.com/blog" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3459">Zach  </a> at November 19, 2004 11:50 PM <a href="#c3459">#</a></p>
+
+</div><div id="c3461">
+
+<p>I remember something similar happening in 8th grade. I was skimming a book on basic data structures (I don&#8217;t think it was done conspicuously, I had it flat against a table so you couldn&#8217;t even tell it was a technical book unless you looked closely at the pages) and I pretty much got the same speech.</p>
+
+<p>I say screw those people. Do what you want. Tell those girls something along the lines of &#8220;we&#8217;re not in high school anymore.&#8221;</p>
+
+<p class="posted">posted by Warren Henning at November 20, 2004 08:39 PM <a href="#c3461">#</a></p>
+
+</div><div id="c3466">
+
+<p>Remember to be social :) I kept forgetting to come out of my hidey-hole in undergrad and I kind of regret not being <em>more</em> social. However, I knew a lot of kids (especially girls for some reason) who were incapable of having &#8220;alone&#8221; time. Always made me wonder if they were a) too shallow to spend time with themselves or b) had too many demons  to want to be alone with them. Always made for a fun time trying to guess while actually conversing with the vapid little beasties. </p>
+
+<p class="posted">posted by <a target="_blank" title="http://battybeyond.blogspot.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3466">Tammy</a> at November 22, 2004 06:59 PM <a href="#c3466">#</a></p>
+
+</div><div id="c3470">
+
+<p>I think you should talk to Kat and Vicky over breakfast maybe your mind will become more alert from actual human conversation rather than printed words. Also if you carry on with this logic then the average hobo would not be worth talking to when actually this is where you can find a lot about real life so put those freaking books away and talk to your house mates and generally anyone human try a dog too. Real life is always more interesting and shocking than fantasy.
+KPXXX</p>
+
+<p class="posted">posted by Kirsty at November 25, 2004 06:50 PM <a href="#c3470">#</a></p>
+
+</div><div id="c4018">
+
+<p>If there&#8217;s one place to learn to be social, college is it.  I really think that&#8217;s half the point for the institution.  Yes, you&#8217;re reading interesting, challenging books.  However:</p>
+
+<ol>
+<li><p>People are interesting and challenging, too.  Not just what they say, but their dreams, fears, feelings, etc.  There may be nothing as complex as a person.</p></li>
+<li><p>Dealing with people well is an enormous advantage in (college and &#8220;real world&#8221;) life.  Not only in a banal financial sense, but you get to do more of the interesting things you like to do if you are better at talking to people about them.  Not to mention you have more of a chance of turning people on to your ideas.  (They could convince you, too&#8212;it goes both ways and you&#8217;re not always right.)</p></li>
+</ol>
+
+<p>Sometimes I&#8217;m an introvert, sometimes an extrovert.  Either is fine, but routinely preferring the company of a book (or the computer, or TV or&#8230;) to real live people is not, in my opinion, a healthy habit.  People are fun&#8212;give &#8216;em a chance. :)  There&#8217;s plenty of reading time out there, and far less available time spent with friends or acquaintences.</p>
+
+<p>When it comes down to it, people are the most valuable resource on the planet, and dealing with people is the most valuable and rewarding skill.</p>
+
+<p class="posted">posted by Rich at February 25, 2005 12:29 PM <a href="#c4018">#</a></p>
+
+</div><div id="c4019">
+
+<p>Oh&#8212;and they are not <em>unable</em> to be alone.  They are <em>unwilling</em> to be alone when presented with the alternative.  It&#8217;s a preference, not a compulsion.</p>
+
+<p>Not to be to harsh, but you need to be aware of that whole glass houses and stones thing.  &#8220;After all, I can talk to people if I like&#8230;&#8221;&#8212;really?  Some of your posts suggest otherwise, perhaps.</p>
+
+<p>No hard feelings, I was terribly shy in the beginning of college, so I know where you&#8217;re coming from.  Just don&#8217;t bash them because they&#8217;re different.  Yes, they made a comment to you, but they&#8217;re actually doing you a great service.  THIS is the place to learn this stuff (people).  Don&#8217;t worry&#8212;you don&#8217;t have to get it all in the first semester. :)</p>
+
+<p class="posted">posted by Rich at February 25, 2005 12:36 PM <a href="#c4019">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001480.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1480" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+>
+
+<channel rdf:about="http://lists.userland.com/mailman/listinfo/radio-outline">
+<title>Radio-Outline</title>
+<link>http://lists.userland.com/mailman/listinfo/radio-outline</link>
+<description>The Radio UserLand Outliner list</description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://lists.userland.com/pipermail/radio-outline/2002-July/000361.html" />
+  <rdf:li rdf:resource="http://lists.userland.com/pipermail/radio-outline/2002-July/000360.html" />
+  <rdf:li rdf:resource="http://lists.userland.com/pipermail/radio-outline/2002-July/000359.html" />
+  <rdf:li rdf:resource="http://lists.userland.com/pipermail/radio-outline/2002-July/000358.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://lists.userland.com/pipermail/radio-outline/2002-July/000361.html">
+<title>Georg Berg</title>
+<link>http://lists.userland.com/pipermail/radio-outline/2002-July/000361.html</link>
+<description>Georg Berg: I need a slide for every second-level line: I want to get a layout which presents the title of the presentation on each
+slide.
+<br />
+I thought of putting the title of the presentation in the only one
+first-level line and changing the template.
+<br />
+How can I tell the renderer, to do its building of the presentation with th=
+e [...]</description>
+</item>
+
+<item rdf:about="http://lists.userland.com/pipermail/radio-outline/2002-July/000360.html">
+<title>Rick Klau</title>
+<link>http://lists.userland.com/pipermail/radio-outline/2002-July/000360.html</link>
+<description>Rick Klau: Formatting the directory outliner?: This is a multi-part message in MIME format.
+Hi -
+<br />
+I'm trying to get the directoryFrame macro =
+(http://radio.outliners.com/directoryOutliner) to serve as my blogroll. =
+Couple of reasons for this, but mostly I prefer the presentation of the =
+data to a straight text linked format. [...]</description>
+</item>
+
+<item rdf:about="http://lists.userland.com/pipermail/radio-outline/2002-July/000359.html">
+<title>Lawrence Lee</title>
+<link>http://lists.userland.com/pipermail/radio-outline/2002-July/000359.html</link>
+<description>Lawrence Lee: viewDirectory: This is a multi-part message in MIME format.
+Hi Venky,
+<br />
+It doesn't require Manila. First, update RadioCommunityServer.root:
+<br />
+http://rcs.userland.com/stories/storyReader$29
+<br />
+Then try exiting and restarting Radio and a new folder
+/www/rcsPublic/viewDirectory with an index.txt file should be created. [...]</description>
+</item>
+
+<item rdf:about="http://lists.userland.com/pipermail/radio-outline/2002-July/000358.html">
+<title>Venkatesh Raju</title>
+<link>http://lists.userland.com/pipermail/radio-outline/2002-July/000358.html</link>
+<description>Venkatesh Raju: viewDirectory: This message is in MIME format. Since your mail reader does not understand
+this format, some or all of this message may not be legible.
+Hi,
+	For a quick background please see
+http://lists.userland.com/pipermail/radio-outline/2002-June/000347.html.
+<br />
+We now have a RCS server within our intranet. [...]</description>
+</item>
+
+</rdf:RDF>

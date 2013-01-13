@@ -1,0 +1,15 @@
+html, body { text-rendering: optimizeLegibility; }
+hr { border: 0; text-align: center; }
+hr:after { content: "*  *  *"; }
+td
+    { vertical-align: top;}
+
+.posted, address
+    { text-align: right; color: gray; margin-top: 2em; }
+img 
+    { border: 0;}
+
+.img { float: right; padding-left: 2em; }
+
+.adage, .adage a:link, .adage a:visited, .adage a:hover, .adage a:active { color: black; }
+.sponsorship, .sponsorship a:link, .sponsorship a:visited { color: #666; }

@@ -1,0 +1,44 @@
+@import "../sharedstyle.css";
+/* for old nearby */
+
+.box { width: 40em; float: none; margin: auto; padding-bottom: 1em;}
+.box h2 { margin: 0; }
+.box p { margin: .6em 0 0 0 ;}
+
+dt { margin-top: 1em; font-weight: bold; }
+
+
+
+/* for 001371 */
+
+th { text-align: right; }
+thead th { text-align: left; } 
+.free { background-color: #0f0; }
+.hear { background-color: yellow; }
+.none { background-color: #f00; }
+
+/* for Money and Politics */
+table.chart td:first-child { text-align: right; }
+table.chart th, table.chart td { padding-left: 1em; text-align: left}
+
+.dateline { text-align: right; font-style: italic; }
+
+/* for 2006 wikimedia elections */
+.wikivote {
+  width: 33%;
+  float: right;
+  border: 1px solid yellow;
+  padding: 0 1em 0 1em; 
+  margin: 0 1em 1.5em 1.5em;
+}
+.wikivote .head { text-align: center; }
+
+.wikibox  {
+  border: 1px solid yellow;
+  padding: 0 1em 0 1em; 
+  margin: 0 1em 1.5em 1.5em;
+  text-align: center;
+}
+
+.sponsorship { padding-top: 20em; }
+.sponsorship table { width: 100%; }

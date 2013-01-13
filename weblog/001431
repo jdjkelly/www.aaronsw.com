@@ -1,0 +1,275 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Stanford: Day 15 (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001431.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001430" title="Stanford: Day 14" />	<link rel="next" href="001432" title="Stanford: Day 16" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Stanford: Day 15</h1>
+</div>
+
+<div class="content">
+<p>Time moves very slowly here. Even though it&#8217;s only been two weeks, it feels like I&#8217;ve been here months. Back at home, the weeks would flow like water and two would have past before I&#8217;d even woken up. It can&#8217;t really go on like this, can it?</p>
+
+<p>One of the side effects of time moving slowly is that it&#8217;s really easy to get everything done. There&#8217;s so much time that I&#8217;m like a week ahead in my school work. Part of this may be that I came to school after reading and trying to apply the philosophy expressed in the book <em>Getting Things Done</em>, which has been a tremendous psychological help. (One of my side projects is writing some software to implement the philosophy, but it might not be so needed here.)</p>
+
+<p>At CS class, before class has officially started, I imagine our always cheery and upbeat professor cruelly barking orders at the TAs until the cameras come on. Maybe this is because he says &#8220;happy-scrappy&#8221; a lot, which isn&#8217;t even a real word. This class, presumably representative of how most professional programmers are trained, sends some odd mixed messages. </p>
+
+<p>First, they make it very clear that you are not to work with others when possible, because of Honor Code violations and zeros. (At dinner I sit with some TAs who say that last year, after the first assignment was turned in, the professor claimed that one student had already been caught in an Honor Code violation. They were skeptical, since all the software they see is so similar they don&#8217;t even think the professors bother to check for honor code violations.)</p>
+
+<p>Second, the professor claims the software engineering world cares more about code quality than about new features, so this is reflected in the grading. With the possible exception of Google (where the professor apparently works), this can&#8217;t possibly be true, as anyone who&#8217;s used computer software surely knows.</p>
+
+<p>And yet, despite this exhortation to code well, he claims it&#8217;s almost impossible to write software without bugs. This kind of defeatist attitude probably reduces motivation to code well. But it&#8217;s also false, as djb has clearly shown by releasing numerous large software projects without bugs. It just takes a little more time and a little less concern about features. But with defeatist attitudes like these, who&#8217;s going to put in the effort?</p>
+
+<p>Today I also have my first Sociology &#8220;section&#8221;. (All the large classes are broken into sections which meet individually to discuss things.) The discussion is typically inane, but I am surprised by how quiet I am in it, as opposed to my talkativeness in the Humanities section. I feel like a thick fog of oppresiveness hangs in the air, and it is so threatening that I can barely get out my name and something interesting about me. (Unable to think of something for the latter, I say I&#8217;m interested in &#8220;how stuff works&#8221;.) What accounts for this? It could be situational factors, but they weren&#8217;t that different. It could be that I&#8217;m less comfortable with sociological issues, but I&#8217;ve actually read sociology books and I haven&#8217;t read any philosophy. I don&#8217;t know what explains this.</p>
+
+<p>At lunch, the person sitting next to me is taking &#8220;Technology and National Security&#8221; from William Perry, <a href="http://www.washingtonpost.com/wp-srv/politics/govt/admin/cohen.htm">Clinton&#8217;s poetry-writing Secretary of Defense</a> (I only know this because of an episode of Michael Moore&#8217;s <em>The Awful Truth</em> where he alleged a poetry-writing girly-man couldn&#8217;t protect the country). This, of course, is as opposed to Bush&#8217;s Secretary of Defense, <a href="http://slate.msn.com/id/2081042">whose poetry-writing is purely accidental</a>.</p>
+
+<p>As part of my quest to create a club for people who don&#8217;t like clubs, I consider starting a local chapter of the <a href="http://candorclub.org/">Candor Clib</a>. The basic rules of the Candor Club are that as long as you wear your Candor Club button and are speaking only to other Candor Club members, you must:</p>
+
+<ol>
+<li>answer all questions honestly (e.g. &#8220;Yes, that shirt really does look ugly on you.&#8221;)</li>
+<li>be explicit about what you want (e.g. &#8220;Can we talk about something else now? I&#8217;m no longer interested.&#8221;)</li>
+</ol>
+
+<p>People who subscribe to these tenets seem like people who would make cool friends. The only problem is that I don&#8217;t know how to advertise it well and I don&#8217;t really have any space to hold meetings. Maybe just walking around with my Candor Club button will be enough.</p>
+
+<p class="posted">posted October 05, 2004 12:39 PM (<a class="category" href="cat_education">Education</a>) (<a href="#comments">11 comments</a>) <a href="001431" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001430" title="Stanford: Day 14">&laquo; prev</a> | <a href="./">up</a> | <a href="001432" title="Stanford: Day 16">next &raquo;</a></p>
+
+<p><a href="001426">Stanford: Day 9</a><br />
+<a href="001427">Stanford: Day 10</a><br />
+<a href="001428">Stanford: Day 11</a><br />
+<a href="001429">Stanford: Day 12</a><br />
+<a href="001430">Stanford: Day 14</a><br />
+<strong>Stanford: Day 15</strong><br />
+<a href="001432">Stanford: Day 16</a><br />
+<a href="001433">Of Conspiracies and Filing Cabinets</a><br />
+<a href="001434">TextMate</a><br />
+<a href="001436">Got Money?</a><br />
+<a href="001437">Misstated Union: An Interview with David Brock</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c2994">
+
+<p>I&#8217;ve TA&#8217;d the 106&#8217;s twice. The lecturer (he&#8217;s not a professor, as you said) does not &#8220;bark orders&#8221; until  the cameras come on. He&#8217;s just as friendly and easygoing &#8220;behind the scenes&#8221; as he is during class. He&#8217;s also a very smart man who knows what he&#8217;s talking about. You appear to have trouble accepting that there might actually be an authoritative figure who&#8217;s both brilliant and congenial, who isn&#8217;t part of any &#8220;system,&#8221; who isn&#8217;t trying to indoctrinate you with any sort of &#8220;subversive ideals.&#8221; Which is a shame, since there are many such teachers at Stanford, and it sounds like you&#8217;re at least a few years off from realizing that the world isn&#8217;t compromised of a homogeneous population of brainwashed people that you&#8217;re majestically rebelling against.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.blakeross.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2994">Blake</a> at October  5, 2004 02:16 PM <a href="#c2994">#</a></p>
+
+</div><div id="c2995">
+
+<p>I&#8217;m also uncertain why you&#8217;re so surprised at the copious free time. It&#8217;s your second week of your first quarter of your first year at college. Heck, even I&#8217;m still getting syllabi from some teachers.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.blakeross.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2995">Blake</a> at October  5, 2004 02:18 PM <a href="#c2995">#</a></p>
+
+</div><div id="c2997">
+
+<p>A club for deceit, flattery, and connivance would be more fun. And probably lead to more financial success in later life.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://crossroads.net/a" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2997">Adam Rice </a> at October  5, 2004 02:20 PM <a href="#c2997">#</a></p>
+
+</div><div id="c2998">
+
+<p>I don&#8217;t know if you&#8217;ve seen this, but <a href="http://www.43folders.com/">43 Folders</a> has a lot to say about using the tips from <em>Getting Things Done</em> in a digital environment. Worth a look, to be sure.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.sanstelos.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2998">Tom Burns</a> at October  5, 2004 03:27 PM <a href="#c2998">#</a></p>
+
+</div><div id="c2999">
+
+<p>Aaron - I am worried about your mental health.  It was 20 years ago that I attended a similar institution (the University of Chicago) and reading your posts I remember how deathly serious people took themselves in that environment. What ever happened to self-irony?</p>
+
+<p>College is a very strange kind of intentional community &#8212; you choose to join the community, but you don&#8217;t choose your fellow community members. And everyone there is ultimately a short timer.</p>
+
+<p>In a real community we would be more selective of our fellow communitarians and we would have a longer view of the relationships and the environment in which we participate.</p>
+
+<p>The strange kind of community that is the &#8220;selective liberal arts college&#8221; fosters a false familiarity which is ultimately alienating, or at least so I found it, and I read in your posts that you are finding it alienating as well (if not surreal).</p>
+
+<p>The answer for me was to spend less and less time within the walls of academy and more and more time in the greater world outside, seeking and building that community of people who would see their interactions with me from a longer and more essential perspective. </p>
+
+<p>The purpose of being in the academy can still be served, without believing that being there is part of your lifestyle.  Its just a job :-)</p>
+
+<p class="posted">posted by <a target="_blank" title="http://tedshelton.blogspot.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2999">Ted Shelton</a> at October  5, 2004 04:02 PM <a href="#c2999">#</a></p>
+
+</div><div id="c3008">
+
+<p>I propose that Aaron &#8220;walk the talk&#8221; to start a Candor Club.  Why not just duplicate a bunch of hand-outs that say:</p>
+
+<p>&#8220;I want make cool friends, and I&#8217;m starting a Candor Club as the venue.  I don’t know how to advertise it well, so you&#8217;re going to have to settle for this hand-out.  I have no idea where to hold the meeting, so just join me at ~landmark~ ~time~  and we&#8217;ll figure out where to go.&#8221;</p>
+
+<p>Then put the hand-outs everywhere &#8212; bulletin boards, lavatories, whatever.</p>
+
+<p class="posted">posted by Russ Schwartz at October  6, 2004 01:19 PM <a href="#c3008">#</a></p>
+
+</div><div id="c3010">
+
+<p>One of the many casualties of home schooling is deferred emotional development.  After three months of posts like this, everyone will know his name&#8230; ;o)</p>
+
+<p>All software has bugs.  Even a simple one-line C program that prints a string to standard out probably has some, given the libraries it&#8217;s calling.  Whoever &#8220;djb&#8221; is must have some special qualities none of the rest of us have&#8230;</p>
+
+<p class="posted">posted by  at October  6, 2004 02:15 PM <a href="#c3010">#</a></p>
+
+</div><div id="c3027">
+
+<p>Your teacher is sloppy in an effort to be &#8220;hip&#8221; &#8212; you may be picking up on this without specific analytic tools. But your sense seems warranted. Nevertheless to get your ticket to ride, you do have to stand in line and pass the blue line test. (Are you above this line.) </p>
+
+<p>but in addition ot sitting through &#8221; &#8230;we call sortof escape sequences&#8230;&#8221; you should augment your education. Try some items from this list:
+Gabriel &#8220;Patterns Of Software&#8221;
+Ferguson &#8220;High St@kes, No Prisoners&#8221;
+These first two from the field. The next are technical with insights from persons with thousands of hours in the chair. 
+Kernighan &#8220;The Practice of Programming&#8221;
+Meyers &#8220;Effective C++&#8221;
+Maguire &#8220;Writing Solid Code&#8221;</p>
+
+<p>And finally a book that was the basis for the patterns revolution in software. 
+Alexander &#8220;Notes on the Synthesis of Form&#8221;</p>
+
+<p>As for team or group effort explore:
+http://www.xprogramming.com/xpmag/whatisxp.htm</p>
+
+<p class="posted">posted by <a target="_blank" title="http://webionaire.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3027">rickb</a> at October  7, 2004 01:33 PM <a href="#c3027">#</a></p>
+
+</div><div id="c3028">
+
+<p>Hi Aaron,</p>
+
+<p>Which &#8220;Getting Things Done&#8221; did you mean?  I find two in Amazon: one by Edwin C. Bliss and another by David Allen.</p>
+
+<p>Also, William Cohen was the poet, and his predecessor was Perry (the one who&#8217;s teaching the class).  Cohen was the Republican, which one can assume related to Moore&#8217;s comments (haven&#8217;t seen it).</p>
+
+<p class="posted">posted by  at October  8, 2004 06:48 AM <a href="#c3028">#</a></p>
+
+</div><div id="c3055">
+
+<p>The software engineering world does care more about code quality than new features. What this prof isn&#8217;t telling you is that most software development is NOT produced via software engineering.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.pete.gontier.org/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3055">Pete Gontier</a> at October 12, 2004 09:54 PM <a href="#c3055">#</a></p>
+
+</div><div id="c3353">
+
+<p>Kudos on exposing the defeatist elements in the Computer Science curriculum. I&#8217;ve never understood why the dogma of the software with bugs thing is so universally accepted. I think it comes from the book The Mythical Man-Moth which I had to read in College and you probably will too.</p>
+
+<p>I guess it&#8217;s reasonable to assume that there will be bugs in a very large project, but this book argues that the first incantation of a software will be so infested that it has to be thrown out.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.rundeep.net" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3353">Randeep</a> at November  4, 2004 05:11 PM <a href="#c3353">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001431.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1431" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

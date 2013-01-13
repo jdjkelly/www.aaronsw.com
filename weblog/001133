@@ -1,0 +1,266 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Liberate Libertarianism (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/001133.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001132" title="Shorter State of the Union" />	<link rel="next" href="001136" title="Visiting Libertopia: The Magical Power of Property" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Liberate Libertarianism</h1>
+</div>
+
+<div class="content">
+<p>Seth Finkelstein, in his essay <a href="http://www.sethf.com/essays/major/libstupid.php">Libertarianism Makes You Stupid</a>, proposed a series of &#8220;Dispatches from Libertopia&#8221; as a way of elucidating the problems with libertarian theories. Libertopia is a world made up only of rational economic actors who follow the principles of libertarianism (property, freedom, capitalism). In a similar manner, I&#8217;m going to try my hand at discussing some of the practical problems with Libertopia.</p>
+
+<p>Why bother discussing libertarianism? Its ideas are elegant and seductive, especially to a world of Internet users who find that they get along much better with technology than with government regulation &#8212; in the world of cyberspace, most of the traditional functions of government (education, protection, etc.) can simply be replaced with a technological solution. No one would want to walk around everywhere with a team of bodyguards and a bulletproof vest, but it&#8217;s not difficult (for geeks, at least) to install the digital equivalents protecting them from viruses and intruders.</p>
+
+<p>And so, the elegance of a technological solution to everything begins to crowd out rational assessments of the problems. The theory is so beautiful it must be true! If things don&#8217;t quite fit, then maybe they&#8217;re wrong or maybe we don&#8217;t want them to fit. And this irrationality slowly creeps up until the results are downright bizarre.</p>
+
+<p>Government regulation, for example, is inherently bad, while property and contracts are inherently good. But you can&#8217;t really have property without government regulation enforcing it! So to convince a libertarian that he should support your government regulation, you don&#8217;t discuss the costs and benefits of the regulation, but instead try to convince him that the regulation is a consequence of some implied contract or is really just another form of property. </p>
+
+<p>And this belief in certain types of government regulation ends up destroying the free market that the regulation was meant to protect. A free market may require some freedom of contract, but if everyone is forced to sign a contract promising not to compete, then there&#8217;s not much of a market left!</p>
+
+<p>Since I&#8217;m not fond of such self-deception, especially when used to defend things I find noxious, this series of articles will look at places where libertarian theory breaks down and eats itself. (Perhaps the wrong metaphor &#8212; a libertarian would certainly think self-cannibalism is OK. (Not that I disagree!)) Here are the topics I plan to discuss:</p>
+
+<ul>
+<li><a href="http://www.aaronsw.com/weblog/001058">Inhertiance Parasites</a></li>
+<li><a href="http://www.aaronsw.com/weblog/001136">The Magical Power of &#8220;Property&#8221;</a></li>
+<li><a href="http://www.aaronsw.com/weblog/001141">Why raise children?</a></li>
+<li>Who&#8217;s afraid of the welfare state?</li>
+</ul>
+
+<p>I should be clear that I have a lot of sympathy for libertarianism, and agree with it most of the time. (I do think that the government should stay out of activities to which all parties have consented.) But I feel a duty to highlight the times when libertarian principles get in the way of libertarian goals.</p>
+
+<p class="posted">posted January 21, 2004 05:14 PM (<a class="category" href="cat_politics">Politics</a>) (<a href="#comments">7 comments</a>) <a href="001133" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001132" title="Shorter State of the Union">&laquo; prev</a> | <a href="./">up</a> | <a href="001136" title="Visiting Libertopia: The Magical Power of Property">next &raquo;</a></p>
+
+<p><a href="001120">The Clinton-Gore Plan to Stop Al-Qaeda: Would 9-11 have happened?</a><br />
+<a href="001125">Suspected Terrorist</a><br />
+<a href="001129">TV Update: Monk back, 24 bad, American Beauty great, Zim good</a><br />
+<a href="001131">Unintelligent Design</a><br />
+<a href="001132">Shorter State of the Union</a><br />
+<strong>Liberate Libertarianism</strong><br />
+<a href="001136">Visiting Libertopia: The Magical Power of Property</a><br />
+<a href="001138">Aaron Swartz: The Interview</a><br />
+<a href="001141">Why Raise Children?</a><br />
+<a href="001142">Freedom of Speech, or The DeCSS Haiku</a><br />
+<a href="001143">The Media vs. The Facts</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c326">
+
+<p>Thanks much for the front-page mention!</p>
+
+<p>One clarification: Libertopia, as I meant it there, was not &#8220;a world
+made up only of rational economic actors who follow the principles of
+libertarianism&#8221;. Rather, it was a world where society was run
+according to <em>Libertarianism</em>. I was thinking of a certain type
+of Science Fiction, where one overriding principle defines a society.
+So if a person was an irrational economic actor, like selling
+themselves into slavery (aka &#8220;permanent life contract&#8221; in Libertopia),
+the overall attitude would be &#8220;Evolution In Action&#8221; or some such.</p>
+
+<p>And the point was that since there is no Libertopia, there&#8217;s no steady
+string of atrocities from it to provoke people. No profile of the
+&#8220;Repo Man&#8221; who goes after people who have pledged their organs to get
+out of debt and failed. No commodities market reports including the
+price of babies for adoption and virgins for prostitution. No glossy
+articles about &#8220;Buying &#8220;Slaves&#8221;(Life-Contracts) - Is It Worth it?&#8221;.
+And so on.</p>
+
+<p>There&#8217;s probably some very good stories here which could be written by a
+better writer than I.</p>
+
+<p class="posted">posted by <a href="http://sethf.com/">Seth Finkelstein</a> at January 21, 2004 09:32 PM <a href="#c326">#</a></p>
+
+</div><div id="c329">
+
+<p>Nice headline, Seth.  No doubt it&#8217;s intended to encourage rational discourse on the subject.  As a rebuttal, I&#8217;m composing an essay entitled &#8220;Judaism Makes You Seditious&#8221;.  I&#8217;m sure you&#8217;ll enjoy it.</p>
+
+<p class="posted">posted by <a href="mailto:herrdoktor@frankenstein-institut.il">Ira Frankenstein</a> at January 22, 2004 04:46 AM <a href="#c329">#</a></p>
+
+</div><div id="c330">
+
+<p>There&#8217;s times I&#8217;ve considered if the title is undignified. However, at heart, it was not meant as purely polemical, but rather as raw truth. That is, I do believe <em>sometimes</em> one is justified in saying &#8220;The Emperor Has No Clothes!&#8221;, as opposed to &#8220;Debating The Sartorial State Of The Emperor.&#8221;.</p>
+
+<p>I don&#8217;t view this as license to be randomly inflammatory . It comes with an obligation to support the proposition. But neither did I feel constrained to pretend any deference to a
+mind-flaying cult of business worship.</p>
+
+<p class="posted">posted by <a href="http://sethf.com/infothought/blog/">Seth Finkelstein</a> at January 22, 2004 07:35 AM <a href="#c330">#</a></p>
+
+</div><div id="c331">
+
+<p>A short critique on libertarianism:</p>
+
+<p>http://goatee.net/2002/12#_02mo</p>
+
+<p>&#8230;
+When I first began to think about political philosophy I was strongly attracted to the libertarian philosophy of individual freedom, self-determination, and skepticism of external governance. These are still central maxims of my philosophy but I would not longer consider myself a libertarian.</p>
+
+<p>Why? Because the movement is reckless with respect to its intellectual and moral responsibilities. Wonderfully simple and elegant principles of personal freedom and free markets avoid issues of short term market irrationality, bias, and monopoly. How does one mitigate against deceit and irrationalities? Why is market/corporate governance always better than civil governance? And how does a statement of absolute rights encourage their exercise? Most libertarians will not engage on these issues. Instead, they plead that a well functioning market it better than government. But as I learned from Lessig, markets do govern, and I&#8217;ve found that can do so maliciously and coercively. And you still have to ask the question of how do we enable them to function well?</p>
+
+<p>The libertarian philosophy often serves as an excuse for the selfish and a support to the exploitative: speaking highly of freedom while undermining the ability to exercise it. When I see a libertarian pundit from a well funded think-tank attacking some liberal program, I often agree with much of what he is saying. However, I also think, &#8220;at least the liberals give a damn&#8221; and I ask why don&#8217;t I see these folks criticizing the drug war, corporate welfare, or the military-industrial complex? Beware of beautiful philosophies of principle that are selectively cited in practice.</p>
+
+<p class="posted">posted by <a href="http://reagle.org/joseph">Joseph Reagle</a> at January 22, 2004 10:01 AM <a href="#c331">#</a></p>
+
+</div><div id="c334">
+
+<p>This falls under Seth Finkelstein&#8217;s &#8220;There are all kinds of Libertarians&#8221; sort of objection, but what the heck, it&#8217;s one of my favorite topics: <a href="http://praxeology.net/anticopyright.htm">some libertarians</a> don&#8217;t think calling an intangible good property magically justifies treating it as such.  </p>
+
+<p>I especially look forward to &#8220;Why raise children?&#8221; (answer: <a href="http://www.google.com/search?hl=en&amp;ie=UTF-8&amp;oe=UTF-8&amp;q=childfree&amp;btnG=Google+Search">indeed</a>), as I don&#8217;t see an obvious connection to libertarianism.</p>
+
+<p>Joseph Reagle: Pundits from by far the most well funded libertarian think tank criticizing the <a href="http://cato.org/current/drug-war/index.html">drug war</a>, <a href="http://cato.org/fiscal/corporate-welfare.html">corporate welfare</a>, and <a href="http://cato.org/current/iraq/index.html">the military-industrial complex</a> (the Iraq war anyway, the m-i complex is too big a target for one link).</p>
+
+<p class="posted">posted by <a href="http://gondwanaland.com/ml/">Mike Linksvayer</a> at January 22, 2004 01:02 PM <a href="#c334">#</a></p>
+
+</div><div id="c448">
+
+<p>All ideologies need to go away. Ideologues base all decisions on their ideologies, usually heading in silly &#8212; at best &#8212; directions. Sorry, life is not that structured to support ideologies. It&#8217;s basically a mess. But a nice mess. </p>
+
+<p>I really don&#8217;t see that liberals (mostly Dems in the US), for example, &#8220;give a damn&#8221; about anything beyond taxing people to death. dismantling the intelligence network and then wondering why our intelligence is wrong. Duh! </p>
+
+<p>All of this leads me to why I like President Bush. He&#8217;s no conservative, no liberal, no libertarian. He was our governor for six years. During that time, we saw him as a kind man who likes people, is faithful to his wife, overcame a drinking/drug problem and can be trusted to do what he says. </p>
+
+<p>That&#8217;s pretty good, even if you don&#8217;t like many of his policies. He appears to have no predominate ideology. That is good, too. And he does not use botox (or something similar) to remove the wrinkles, as Kerry apparently has done in recent weeks. </p>
+
+<p>He&#8217;s just a basically honest everyday guy who cares about people. The media and libs see him as stupid. But that is their own folly. He is new-Texas smart. </p>
+
+<p>Basically, I&#8217;m not political. But I really like this guy. He&#8217;s the second president since I started voting in 1968 that I&#8217;ve really liked.</p>
+
+<p>BTW, you&#8217;re text converter is cool. For double dashes it creates an em dash, or something similar. It reminds me of TeX (http://www.tug.org). Nice quality. Thanks.</p>
+
+<p class="posted">posted by <a href="mailto:bkerstetter@mac.com">Bob Kerstetter</a> at February  3, 2004 02:19 PM <a href="#c448">#</a></p>
+
+</div><div id="c797">
+
+<p>What we have here, is a failure to communicate!</p>
+
+<p>Libertarianism, as a political system, does not deny the need of the government to do what only governments can do.</p>
+
+<p>In essence, the communication failure partakes of the &#8220;Straw Man&#8221; fallacy: claiming that Libertarianism believes or asserts something that it actually doesn&#8217;t.</p>
+
+<p class="posted">posted by <a href="mailto:john@betelgeuse.us">John Stevens</a> at March 25, 2004 11:14 PM <a href="#c797">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/001133.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/mt-comments.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1133" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /><br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

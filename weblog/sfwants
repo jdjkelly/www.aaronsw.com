@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>What do startup founders want? (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>What do startup founders want?</h1>
+
+<p><a href="http://www.yamdas.org/column/technique/sfwantsj.html">日本語</a></p>
+
+<p>To oversimplify greatly for a second:</p>
+
+<p>People in New York want money. People in Los Angeles want fame. People in DC want power. People in Miami want to have fun. But what do people in San Francisco want?</p>
+
+<p>It&#8217;s not money. Sure, a startup that sells for a lot of money is nice, but it&#8217;s clearly not the goal. I think few startup founders would feel good about building something worthless and then tricking a big company into buying it for a lot of money.</p>
+
+<p>It&#8217;s not fame. Sure, Mark Zuckerberg is famous now, but he actually seems more annoyed about that than anything.</p>
+
+<p>It&#8217;s not power, or else the founders of GitHub would look ridiculous for giving all their power away to their employees. Paul Buchheit didn&#8217;t write Gmail because he wanted to control the actions of its users.</p>
+
+<p>It&#8217;s certainly not having fun. (Although, like most hard things, startups are actually surprisingly fun.)</p>
+
+<p>No, I think the thing startup founders want is <em>importance</em>.</p>
+
+<p>Importance is a bit like power, but heavily diluted. Power is about being able to make people do something they wouldn&#8217;t otherwise do. The Instagram founders weren&#8217;t in it for power: they have very little interest in making people take photos they wouldn&#8217;t otherwise take. But nonetheless, their decisions had a great deal of importance for their users. If they decided to put ads in their app or remove a favorite filter, millions of people&#8217;s lives suddenly get a little bit more annoying.</p>
+
+<p>Because your tiny decisions have huge impacts on people, when you&#8217;re important everyone wants to hear what you have to say. You can go to TED and WEF and the audience wants to come up to talk to you, not so much because they want something from you, but because what you think has a big impact on their lives.</p>
+
+<p>This is why selling a startup is so hard. It gets you money and fame but it means losing a lot of your importance. Now when you go to TED, you&#8217;re a has-been; you just answer questions about what the good old days are like.</p>
+
+<p>Importance is different from impact. Tim Berners-Lee (inventor of the Web) had a huge impact in the world, but he&#8217;s not particularly important. He decided long ago that the Semantic Web was the next big thing, but few people cared, because practically there was very little he could actually do about it.</p>
+
+<p>Dick Costolo (CEO of Twitter), by contrast, is pretty important. If he decides that Twitter needs a &#8220;consistent user experience&#8221;, he can shut down apps millions of people use each day, destroying the companies that build them.</p>
+
+<p>We all know the dangers of wanting money or power. But the dangers of wanting importance are little-discussed. Importance tends to require centralizing things, which means restraining innovation and leaving yourself open to the demands of actual power.</p>
+
+<p>Imagine Tim had built the Web the same way folks built Twitter. All our web pages would be would be hosted by a single company, accessed through an API that they defined and could change at whim. Web applications would be far weaker than they are today (since it would be hard to store anything interesting on TimCo&#8217;s servers) and powerful corporations would constantly be knocking people offline permanently for various terms-of-service violations (no trademark infringement! no hate speech!).</p>
+
+<p>Tim would be much more important in this world, but I don&#8217;t think the rest of us would be better off.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">August  5, 2012</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>This is such an astonishingly wrong and simplistic analysis that I&#8217;m just&#8230; confused. What on earth made you think this was worth publishing?</p>
+
+<p class="posted">posted by kazerad
+ on August  5, 2012 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>Your metric of &#8220;importance&#8221; seems to confuse multiple dimensions &#8212; power (your example of Costolo is obviously about power by your own definition), fame (people watch what famous people do, think they are interesting, etc.) and a dimension you don&#8217;t really focus on that I think is more interesting, which maybe we could call &#8220;catalyzing&#8221;.  This is bringing about a change far beyond your own direct powers, by creating a pattern that generates positive feedback.</p>
+
+<p>Berners-Lee was catalytic in that sense.  Steve Jobs obviously was.  Brin and Page were catalytic.  I think that&#8217;s an substantial component of the motivation for most very effective entrepreneurs (whether for profit or not).</p>
+
+<p class="posted">posted by Jed Harris
+ on August  5, 2012 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>You claim &#8220;You can go to TED and WEF and the audience wants to come up to talk to you, not so much because they want something from you, but because what you think has a big impact on their lives.&#8221;</p>
+
+<p>Really? The TED or WEF attendee who has paid big bucks to attend such an expensive event, and so has the priorities of someone who can pay such big bucks to attend such an expensive event, is more interested in the relatively remote generalized impact on their lives, versus the more practical whats-in-it-for-me ?</p>
+
+<p>Well, I suppose I can&#8217;t disprove that, but it strikes me as implausible.</p>
+
+<p>I must disclaim I&#8217;ve attended very few conferences, and never TED or WEF.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://sethf.com/">Seth Finkelstein</a>
+ on August  5, 2012 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>I’ll disagree with the tenor of the comments here about the worth of the article insofar as I think its real point was the juxtaposition of the Costolo vs Berners-Lee approaches to affecting the world. I figure that it got where it did by starting with the position that the decentralised approach is a common good in the long run, then asking what motivates one vs the other, and making a leap that the TBL style hinges on a fundamental humbleness in some particular respect.</p>
+
+<p>I agree with all the premises and I believe this is a question worth asking and thinking about.</p>
+
+<p>But like the previous commenters I have to say that I do not think this notion of importance as a motivation holds up. It is too close to the surface. It also appears muddled: “importance” as set out here seems a mere variant of power and as such I believe introducing the term merely confounds rather than clarifies. The Instagram founders may not have power over the actions of their users, but they nevertheless have power over the Instagram application. If they decide to change it, it changes. That is also why such a position makes you “open to the demands of actual power” – you <em>have</em> power, and a greater power can therefore coerce you to exercise your own power in a particular direction of their choosing. If the Instagram founders did not directly control the Instagram app and service, what demands could “actual” power effectively place on them?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://plasmasturm.org/">Aristotle Pagaltzis</a>
+ on August  5, 2012 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>In that case, how would you classify Tim&#8217;s motivations in creating the web? Clearly not money, power, or (according to your analysis) importance. Fame? I doubt he was in it for fame, though he did achieve that (in some circles). Maybe yet another category of &#8220;just wants to build something cool?&#8221;</p>
+
+<p>For that matter, what is the classification of Stallman&#8217;s motivations (though sometimes it feels like fame). Anti-power? Benevolence?</p>
+
+<p class="posted">posted by jdt
+ on August  7, 2012 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="sfwants" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

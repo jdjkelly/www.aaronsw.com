@@ -1,0 +1,414 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Why is Big Media losing viewers? Because it sucks (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001397.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001395" title="Press Clipping" />	<link rel="next" href="001401" title="The Behavior Without A Name" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Why is Big Media losing viewers? Because it sucks</h1>
+</div>
+
+<div class="content">
+<p>Watching the coverage of this week&#8217;s Democratic National Convention, I&#8217;ve seen endless amounts of media handwringing about the coverage of this week&#8217;s Democratic National Convention. Why are people <a href="http://www.aaronsw.com/weblog/001347">turning to comedy news like <em>The Daily Show</em></a>? Why are people turning to partisan outlets like Fox News and talk radio? Why are people reading untalented webloggers? </p>
+
+<p>After some consideration, Big Media has concluded it&#8217;s the people&#8217;s fault. They&#8217;ve become to partisan, shallow, and stupid to handle healthy, traditional news, so they&#8217;ve abandoned it for lesser outlets. While this storyline is no doubt convenient for the people espousing it (see, we&#8217;re not doing anything wrong &#8212; it&#8217;s their fault!) it doesn&#8217;t seem quite right to me. The actual answer, which lies unspoken between the lines of all discussion on the subject, is much simpler: people are abadoning Big Media because it sucks.</p>
+
+<p>Notice how the media simply refuses to acknowledge this possibility. Although evidence of the elite media&#8217;s conservative bias is overwhelming (name one overtly liberal TV talk show host or regular pundit; read <a href="http://www.whatliberalmedia.com/"><em>What Liberal Media?</em></a> if you&#8217;re still not convinced), the only kind of bias the media will acknowledge is a potential liberal one. Every article about webloggers ends with the platitude that bloggers won&#8217;t be replacing journalists anytime soon. And when John Stewart was about to suggest that the regular media simply refused to do their job and call BS when they saw it, Ted Koppel quickly ended the interview.</p>
+
+<p>No, in denial, Big Media will never admit it has a problem.</p>
+
+<p>But it does. America is the only country with a media that refuses to analyze the news and draw conclusions. Instead, in the service of some notional &#8220;objectivity&#8221;, American media will only repeat &#8220;facts&#8221;&#8212;that is, quotes provided by both sides. There is no memory, no analysis, no context, no conclusions, no opinions, no humanity at all. Is it any surprise that Amerians look elsewhere for their news?</p>
+
+<p>Big Media has a prepared response. Why, they say, the very pillars of civilization would crumble if opinion were allowed in the news! This is absurd. First, as I have noted, practically every other country allows analysis in their news, and they seem to be doing fine. Second, we already have opinion, it just comes in the form of vapid and partisan pundits. Letting actual journalists give us their opinions would certainly be an improvement over those guys. Third, Americans are already leaving Big Media for partisan sources or no news sources at all. Surely giving your viewers opinionated news is better than having no viewers at all.</p>
+
+<p>This is not to say we should throw accuracy out the window and listen to whatever lies make us feel good. No, journalism&#8217;s goal should be to be fair and accurate (the oppposite of false and misleading), not &#8220;objective&#8221; and &#8220;balanced&#8221;. A journalist should tell the whole truth and not try to mislead the reader. But as long they do so, they should be free to give whatever context and draw whatever conclusions they feel are appropriate. Once you&#8217;ve given side A and side B a fair shake, there&#8217;s no harm&#8212;indeed, there&#8217;s a great service&#8212;in telling which side you&#8217;ve chosen and why.</p>
+
+<p>It seems clear to me that media with context and humanity is more popular than that with soulless objectivity. If Big Media wants to stop losing viewers to these supposedly less careful sources of information, they can start by adopting these goals as their own.</p>
+
+<p class="posted">posted July 30, 2004 05:18 PM (<a class="category" href="cat_politics">Politics</a>) (<a href="#comments">21 comments</a>) <a href="001397" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001395" title="Press Clipping">&laquo; prev</a> | <a href="./">up</a> | <a href="001401" title="The Behavior Without A Name">next &raquo;</a></p>
+
+<p><a href="001391">Press Clipping</a><br />
+<a href="001392">Hackers and Painters: How to Think Like a Computer Millionaire</a><br />
+<a href="001393">Who would bin Laden vote for?</a><br />
+<a href="001394">Wolf Blitzer Distorts</a><br />
+<a href="001395">Press Clipping</a><br />
+<strong>Why is Big Media losing viewers? Because it sucks</strong><br />
+<a href="001401">The Behavior Without A Name</a><br />
+<a href="001403">What is the real purpose of military spending?</a><br />
+<a href="001405">Press Clipping</a><br />
+<a href="001406">How Control Works</a><br />
+<a href="001407">Right Wing Funnies</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c2631">
+
+<p>Just out of curiousity, why do you care? If Big Media is failing to the likes of partisan news sources and you want more opinion in news, why worry? It seems that wwe&#8217;re seeing survival of the fittest in the media sphere where the big media dodo is disappearing. Or is it that you worry if only the pundits provide opinion and context, then this is worse?</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aetherial.net" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2631">Chris</a> at July 30, 2004 06:04 PM <a href="#c2631">#</a></p>
+
+</div><div id="c2632">
+
+<p>There are two concerns. First, I&#8217;d love to have more opinionated news source (&#8220;new media&#8221;). If Big Media gets into the game, then I&#8217;m better off. Second, I&#8217;m concerned at the poor quality of some of the existing new media outlets. Fox News, for example, is frequently false and misleading. And many pundits are idiotic and harmful. If new media can take viewers away from these people with better journalism, then democracy is better off, since more people will get the truth.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2632">Aaron Swartz</a> at July 30, 2004 06:13 PM <a href="#c2632">#</a></p>
+
+</div><div id="c2633">
+
+<p>What if the situation is such that people are simply self-selecting and like the firey pundits that reaffirm their views, regardless of accuracy? Seems to me that this is more the case than people wanting better journalism. Just some personal observations.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aetherial.net" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2633">Chris</a> at July 30, 2004 06:18 PM <a href="#c2633">#</a></p>
+
+</div><div id="c2634">
+
+<p>Not providing opinions, and reporting just the facts, is related to good journalism &#8212; boring as it may be.  However, the fault that I would make with big media is what they DON&#8217;T report.  To me, big media is expressing an opinion through what they&#8217;re reporting, and what they&#8217;re not reporting, and are therefore masking their opinion as quasi-journalism.  All while being dictated by their corporate interests.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://blog.jonhenshaw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2634">Jon Henshaw</a> at July 30, 2004 06:46 PM <a href="#c2634">#</a></p>
+
+</div><div id="c2635">
+
+<p>&#8220;Why are people turning to comedy news like The Daily Show? Why are people turning to partisan outlets like Fox News and talk radio?&#8221;</p>
+
+<p>Because they are more fun and they don&#8217;t make you think? Because people want entertainment, not education?</p>
+
+<p class="posted">posted by Jarno Virtanen at July 31, 2004 03:32 AM <a href="#c2635">#</a></p>
+
+</div><div id="c2640">
+
+<p>I have a suggestion:  Turn off TV and ban it from your
+place that you consider as home.</p>
+
+<p>Second suggestion:  Read &#8220;Amusing Ourselves to Death: Public
+Discourse in the Age of Show Business&#8221; by Neil Postman.</p>
+
+<p>Joseph Pietro Riolo<br />
+&lt;riolo@voicenet.com&gt;</p>
+
+<p>Public domain notice:  I put all of my expressions
+in this comment in the public domain.</p>
+
+<p class="posted">posted by Joseph Pietro Riolo at July 31, 2004 07:13 AM <a href="#c2640">#</a></p>
+
+</div><div id="c2644">
+
+<p><em>After some consideration, Big Media has concluded it’s the people’s fault.</em></p>
+
+<p>Straw man.</p>
+
+<p><em>Although evidence of the elite media’s conservative bias is overwhelming</em></p>
+
+<p>False.</p>
+
+<p><em>the only kind of bias the media will acknowledge is a potential liberal one</em></p>
+
+<p>Also false.</p>
+
+<p><em>Every article about webloggers ends with the platitude that bloggers won’t be replacing journalists anytime soon</em></p>
+
+<p>Also false, but even if true, so what?  &#8220;Weblogs&#8221; are lame, every single one of them, including mine and yours.</p>
+
+<p><em>America is the only country with a media that refuses to analyze the news and draw conclusions.</em></p>
+
+<p>That&#8217;s not merely false, that&#8217;s inane and ridiculously stupid.</p>
+
+<p>It&#8217;s at this point I will read no further.  I can&#8217;t be bothered reading such nonsense.</p>
+
+<p>A far better explanation of our problems is, as Joseph said, Postman&#8217;s.  Postman doesn&#8217;t let the media off the hook &#8212; far from it &#8212; but he doesn&#8217;t make such silly sweeping generalizations either.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://slashdot.org/~pudge/journal" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2644">pudge</a> at August  1, 2004 01:22 AM <a href="#c2644">#</a></p>
+
+</div><div id="c2648">
+
+<p><em>&#8220;Weblogs&#8221; are lame, every single one of them, including mine and yours.</em></p>
+
+<p>One purveyor of &#8220;silly sweeping generalizations&#8221; criticises another&#x2014;how fun!</p>
+
+<p>The very term &#8220;Weblog&#8221; blurs our perception of the phenomenon: it is simply people writing, as they&#8217;ve done for centuries, and as such encompasses the whole range of human activity. Weblogs can be used to communicate between friends, as personal therapy, a conduit for punditry, and many other purposes. And, of course, the majority of people&#8217;s writing is vapid and lacks value out of a very limited context. The same criticism can be applied of the news: will history really judge Svengate important in just ten years&#8217; time? More to the point, will history really judge the media&#8217;s current liberal/conservative bias to be important to the development of mankind at any point in our future? It might make an interesting footnote in some media journal a hundred years from now, I suppose.</p>
+
+<p>Replying to the arguments by assertion with further arguments by assertion was also rather yawnworthy unless you were pointing out the impolite debating tactic. But this is a Weblog of Aaron&#8217;s opinions, and whether they be right or wrong either in your opinion or truth, his statement of them here is merely readers&#8217; context, not a challenge.</p>
+
+<p>I wag my finger in this direction from time to time, and I think few posts have deserved it more than this one. No amount of comment on the state of the Big Media from the weblog sector is going to have an effect; where&#8217;s the insight&#8212;comparable to Schoen&#8217;s&#8212;gone? I don&#8217;t see any equivalent to his: </p>
+
+<blockquote>
+<p>One of the many remarkable things about this passage is that Lincoln mentions that both sides &#8220;invoke [God&#8217;s] aid&#8221;, so that &#8220;the prayers of both could not be answered&#8221;. Did other, later war presidents admit, when invoking God&#8217;s aid, that their enemies were doing the same?</p>
+</blockquote>
+
+<p>in here, but I know of few that are as capable of it.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://inamidst.com/sbp/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2648">Sean B. Palmer</a> at August  2, 2004 03:44 PM <a href="#c2648">#</a></p>
+
+</div><div id="c2649">
+
+<p><em>One purveyor of “silly sweeping generalizations” criticises another—how fun!</em></p>
+
+<p>I was making a sweeping generalization, but it is an accurate one, if you understand what I meant, which is probably not the same as what it might appear to mean.</p>
+
+<p><em>The very term “Weblog” blurs our perception of the phenomenon: it is simply people writing, as they’ve done for centuries, and as such encompasses the whole range of human activity.</em></p>
+
+<p>Exactly.  That&#8217;s why I prefer the terms &#8220;journal&#8221; for my posts and &#8220;discussion&#8221; for what follows, because it&#8217;s just stuff that has happened from time immemorial.  Imbuing it with a new name makes some sense from a categorical perspective, but it is often implied &#8212; explicitly and implicitly &#8212; that there&#8217;s something unique about it, that the mere exercise of &#8220;blogging&#8221; is a great and wonderful thing.  My point is that it isn&#8217;t.</p>
+
+<p>I could say a lot more about &#8220;weblogs,&#8221; particularly that the content is nearly universally insufficient to replace journalism (the only exceptions I can think of are &#8220;weblogs&#8221; by real journalists, like Josh Marshall&#8217;s TPM); even I &#8212; having a degree in journalism, having done professional journalism, having a political journal online, and believing I have interesting things to say &#8212; have, by my own standards, an amateurish journal.  I&#8217;ve got promise, but I&#8217;d need to put a lot more work into the writing for it to be worthwhile.</p>
+
+<p>But that&#8217;s beside my point, which is merely that I don&#8217;t see &#8220;weblogs&#8221; as a useful or interesting categorization.  But I also despise the terms &#8220;meme&#8221; and &#8220;P2P&#8221; and &#8220;DHTML,&#8221; so perhaps I am just a crank.</p>
+
+<p><em>Replying to the arguments by assertion with further arguments by assertion was also rather yawnworthy unless you were pointing out the impolite debating tactic.</em></p>
+
+<p>Close.  If he argues by assertion, I see no need to provide evidence to contradict his assertions, and I emphasize the idea by being especially brief.  Indeed, unless he provides evidence, how can I even know how to target my replies, should I choose to provide evidence?  Perhaps I missed his point, so I &#8220;encourage&#8221; him to prove his claims by stating they are false.</p>
+
+<p><em>But this is a Weblog of Aaron’s opinions, and whether they be right or wrong either in your opinion or truth, his statement of them here is merely readers’ context, not a challenge.</em></p>
+
+<p>I&#8217;ve been here for awhile, and I challenge much of what he says, when I feel it should be challenged.  He doesn&#8217;t seem to mind, and we often achieve mutual enlightenment from the exercise.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://slashdot.org/~pudge/journal" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2649">pudge</a> at August  2, 2004 06:18 PM <a href="#c2649">#</a></p>
+
+</div><div id="c2653">
+
+<p>I completely disagree and <a href="http://www.livejournal.com/community/essays/3437.html">argue the opposite</a>.</p>
+
+<p class="posted">posted by Michael Dayah at August  5, 2004 12:10 PM <a href="#c2653">#</a></p>
+
+</div><div id="c2654">
+
+<p>Point 1: Media bias in the USA is far more subtle than potentially presenting slanted analysis - the bias comes in the choice of what to report. Consider - during the 60&#8217;s the major media chose not to report on JFK&#8217;s affairs and precarious physical condition (he was in very poor health) - on the flip side, the media in the 90&#8217;s chose to report all about Clinton&#8217;s perversions and passions - even down to telling us that crooked Willy&#8217;s &#8220;willy&#8221; is crooked (from the Paula Jones testimony). The latter case betrays a bias that the shape of the presidential penis is more significant than the commission of &#8220;high crimes and misdemeanors&#8221;. </p>
+
+<p>Point 2: Having watched the major media badly misreport the &#8220;facts&#8221; on all matter of scientific matters (I assume that 4 college degrees and 20 years in science, engineering, and technology have provided with enough experience and knowledge to recognize at least some of their mistakes), I have absolutely no belief that those in the media are qualified or capable of providing accurate, let alone unbiased analysis. I prefer the current state of affairs where they just try to report the facts (and screw up on a regular basis) to exacerbating the situation by having them provide their own analysis. About the only time they get it anywhere near right is when they accidently get an interview with someone who IS qualified. (Since they have litte idea but lots of preconceived notions about what the truth is they are just as likely to get liars and whakos to give analysis as genuinely knowledgeable people.) Considering how mistaken those in the media are about their own knowledge of what&#8217;s true and what&#8217;s not, they really aren&#8217;t prepared to decide what is or is not BS. The real solution to the problem of media bias and poor analytical skills would be to require those writing the stories to get a genuine education in the areas they are reporting, but my own observation is &#8220;Those who can - do, those who can&#8217;t (but at least understand  what what those who do are up to) teach, and those who are totally cluess become reporters and news anchors.&#8221;</p>
+
+<p class="posted">posted by  at August  5, 2004 02:28 PM <a href="#c2654">#</a></p>
+
+</div><div id="c2657">
+
+<p><em>Point 1: Media bias in the USA is far more subtle than potentially presenting slanted analysis - the bias comes in the choice of what to report.</em></p>
+
+<p>Yes, but that is not US-specific.  It happens everywhere.</p>
+
+<p>As to the media reporting on Clinton&#8217;s affair with Lewinsky &#8230; I don&#8217;t buy it, not when they are reporting on official government actions and statements regarding an investigation into laws broken by the President.</p>
+
+<p>It was not news until after Janet Reno told Ken Starr to investigate the matter (which was a few days after he was approached by whatshername, Lewinsky&#8217;s friend).  The contents of the report itself were official Congressional documents to be used in preparing for an impeachment.  I didn&#8217;t see anyone report on the shape of the President&#8217;s penis, FWIW.  And I don&#8217;t thank you for noting it.  :/</p>
+
+<p>The zeal with which it was reported was certainly subject to bias, but I can&#8217;t see how the decision to report it could be considered such.  Rather, a decision to NOT report on it would be far more biased than the decision to report on it.</p>
+
+<p><em>The real solution to the problem of media bias and poor analytical skills would be to require those writing the stories to get a genuine education in the areas they are reporting</em></p>
+
+<p>That&#8217;s not a real solution, it&#8217;s a ridiculous idea.  I know you are coming from the sciences where a piece of paper means a lot, but to most of the world, it means jack.  I am plenty qualified to cover computer stories, and yet I&#8217;ve never taken a class in computers.</p>
+
+<p>It&#8217;s true that many journalists don&#8217;t understand what they are reporting on.  I once wrote a story about horse racing that appeared in the Oakland Tribune, and it was a pretty crummy story.  My editor gave it to me, so I wrote it.  It happens.  But I could also write many stories on fields I&#8217;ve never formally studied, and if I had the time to learn more about it, I could&#8217;ve written a good story about horse racing, too.</p>
+
+<p>There are a great deal of excellent reporters out there.  Your criticism is far too broad.  Perhaps you should get a genuine education in the area of journalism before you analyze it?  :-)</p>
+
+<p class="posted">posted by <a target="_blank" title="http://slashdot.org/~pudge/journal" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2657">pudge</a> at August  6, 2004 01:31 AM <a href="#c2657">#</a></p>
+
+</div><div id="c2658">
+
+<p>c2654 writes: &#8220;The real solution to the problem of media bias and poor analytical skills would be to require those writing the stories to get a genuine education in the areas they are reporting.&#8221;</p>
+
+<p>pudge responds: &#8220;That&#8217;s not a real solution, it&#8217;s a ridiculous idea.  I know you are coming from the sciences where a piece of paper means a lot, but to most of the world, it means jack.  I am plenty qualified to cover computer stories, and yet I&#8217;ve never taken a class in computers.&#8221;</p>
+
+<p>Then why do you assume &#8220;a genuine education&#8221; means &#8220;a piece of paper&#8221;? I&#8217;m sure you&#8217;ve gotten a genuine education in computers, formal or not.</p>
+
+<p>(BTW, can you suggest some &#8220;excellent reporters&#8221; out there?)</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2658">Aaron Swartz</a> at August  6, 2004 09:01 AM <a href="#c2658">#</a></p>
+
+</div><div id="c2659">
+
+<p><em>Then why do you assume “a genuine education” means “a piece of paper”?</em></p>
+
+<p>Because it is what most people with four degrees mean when they say it, and he didn&#8217;t clarify it to mean otherwise.</p>
+
+<p><em>I’m sure you’ve gotten a genuine education in computers, formal or not.</em></p>
+
+<p>Not according to many.</p>
+
+<p><em>(BTW, can you suggest some “excellent reporters” out there?)</em></p>
+
+<p>Pick up any newspaper, they are all over.  Bob Woodward is an obvious example, of course.  John Burns for the NY Times.  For familiar examples on TV, there&#8217;s Tom Brokaw (whatever you think of him as an anchor, he&#8217;s a fine reporter).  On CNN, Candy Crowley.  On PBS NewsHour, Kwame Holman (and all of the reporters on NewsHour are very good, as one might expect).</p>
+
+<p>This feels like a silly exercise.  <em>Of course</em> there are many excellent reporters out there.  How could there possibly not be?</p>
+
+<p class="posted">posted by <a target="_blank" title="http://slashdot.org/~pudge/journal" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2659">pudge</a> at August  6, 2004 10:04 AM <a href="#c2659">#</a></p>
+
+</div><div id="c2660">
+
+<p>As a jounalist, you probably know, then, that reporters are only as good as their editors will allow them to be.  It is the editors who assign the stories and decided where a story is played.  The editor(s) decide if it&#8217;s page one or the first story on TV, and it&#8217;s their bosses who have the power to kill a story.</p>
+
+<p>You have still not negated the facts that people are looking for alternative news reporting.  It seems a shame that in order to get a complete reporting on the day&#8217;s news, Americans have to turn to the BBC.  I&#8217;m talking specifically about the Iraq war (which btw was never declared by congress).  American news only focused on what the generals were saying and the administration.  There were few (if any) anti-war interviews.</p>
+
+<p class="posted">posted by cherokee at August  8, 2004 09:21 PM <a href="#c2660">#</a></p>
+
+</div><div id="c2664">
+
+<p>Bob Woodward, as we&#8217;ve already discussed, is a liar or very, very sloppy. That immediately disqualifies him in my mind.</p>
+
+<p>I&#8217;ve never seen Tom Brokaw actually do any journalism (that is, research things, not read scripts other people have prepared) and considering his situation I doubt he could. (The pressure to spend his limited time reading scripts or making stuff up must be immense.)</p>
+
+<p>Burns only has two articles currently available for free on nytimes.com. Judging from them he appears to be a talented storyteller, but not really a reporter (he only wrote about events he directly observed).</p>
+
+<p>Candy Crowley has not said anything notable on the rare occasions I watch CNN.</p>
+
+<p>I&#8217;ve never watched the NewsHour, but from what I&#8217;ve heard, it&#8217;s not all that good.</p>
+
+<p>pudge asks &#8220;How could there possibly not be [many excellent reporters]?&#8221; This doesn&#8217;t make any sense to me. What law requires there be excellent reporters? All the pressures on reporters encourage them to do a bad job, there is little in the way of professional requirements or in-depth training, and the people actually trying to make journalism better appear to be a small minority shunned by those in power. All this leads me to the opposite: I&#8217;d be surprised if there were many excellent reporters!</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2664">Aaron Swartz</a> at August 10, 2004 10:28 AM <a href="#c2664">#</a></p>
+
+</div><div id="c2667">
+
+<p>Finally&#8230; an articulate voicing of the real problems of big media&#8230; of course no one employed by Bid Media would say this out of fear of loosing their jobs&#8230;</p>
+
+<p class="posted">posted by <a target="_blank" title="http://mediamentor.ca" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2667">George Lessard</a> at August 11, 2004 12:34 AM <a href="#c2667">#</a></p>
+
+</div><div id="c2669">
+
+<p>I disagree that America has &#8221; a media that refuses to analyze the news and draw conclusions.&#8221; I think media is rife with &#8220;their&#8221; take on events rather than simply reporting what happened or what was said. Time limitations and coporate sponsorship of the news informs literally what we hear from the Big Media more so than ever.
+Sheesh, CNN was hyperventilating over the balloons not descending on cue. That was their big comment at the conclusion of Kerry&#8217;s speech.
+And the vultures at MSNBC were feeding on the carrion of trivia rather than an open report on events and the subsequent reactions.</p>
+
+<p>I will admit to being slightly impressed by Joe Scarborough who referred several times to his being Republican, but failed to exhibit the smug condescension of politicians and reporters alike. He also found good things to report during the Democratic convention.</p>
+
+<p>I don&#8217;t want anyone analyzing the news for me, I reserve that right for myself. Unfortunately, if I don&#8217;t have the facts, it is a difficult task.</p>
+
+<p>JLH</p>
+
+<p class="posted">posted by Jan at August 11, 2004 01:53 PM <a href="#c2669">#</a></p>
+
+</div><div id="c2672">
+
+<p>&#8220;I am plenty qualified to cover computer stories&#8221;</p>
+
+<p>That&#8217;s hilarious coming from a Slashdot editor.</p>
+
+<p class="posted">posted by AnonCoward at August 11, 2004 07:43 PM <a href="#c2672">#</a></p>
+
+</div><div id="c2675">
+
+<p>That you would disqualify Woodward in your mind disqualifies you in mine.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://slashdot.org/~pudge/journal" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2675">pudge</a> at August 12, 2004 06:31 PM <a href="#c2675">#</a></p>
+
+</div><div id="c2707">
+
+<p>c2654: I guess I&#8217;m optimistic that requiring people to provide their analysis might force the media to hire people who actually know of what they speak, since it would be a lot more obvious how bad most journalists are.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2707">Aaron Swartz</a> at August 19, 2004 03:39 PM <a href="#c2707">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001397.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1397" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

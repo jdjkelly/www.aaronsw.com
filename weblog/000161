@@ -1,0 +1,43 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Fancy Stats-Man (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/000161.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000160" title="My First Usenet Post" />	<link rel="next" href="000162" title="My First Drive" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Fancy Stats-Man</h1>
+</div>
+
+<div class="content">
+<p>I&#8217;ve just added <a href="http://www.aaronsw.com/stats/">Aaron Swartz: The Stats</a>, thanks to <a href="http://diveintomark.org/archives/00000079.html">Mark Pilgrim&#8217;s awesome sitestats.py</a> software. It was easy to install, only took a few modifications and works beautifully. <em>Thanks!</em></p>
+
+<p class="posted">posted February 07, 2002 11:15 AM (<a class="category" href="cat_technology">Technology</a>)  <a href="000161" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000160" title="My First Usenet Post">&laquo; prev</a> | <a href="./">up</a> | <a href="000162" title="My First Drive">next &raquo;</a></p>
+
+<p><a href="000156">Plucky Headline Viewer for Mac</a><br />
+<a href="000157">FBI: Illegal DVDs Fund Terrorism</a><br />
+<a href="000158">Arrgh, pirates.</a><br />
+<a href="000159">Moving to Movable Type</a><br />
+<a href="000160">My First Usenet Post</a><br />
+<strong>Fancy Stats-Man</strong><br />
+<a href="000162">My First Drive</a><br />
+<a href="000163">Ender&#8217;s Shadow by Orson Scott Card</a><br />
+<a href="000164">The Decline and Fall of ArsDigita</a><br />
+<a href="000165">My Flamboyant Grandson</a><br />
+<a href="000166">CodeCon!</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

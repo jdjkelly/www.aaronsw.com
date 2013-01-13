@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>A Non-Local Revolution (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>A Non-Local Revolution</h1>
+
+<p>Paul Graham has recently argued for two points: first, that tech startups will <a href="http://www.paulgraham.com/startuphubs.html">continue to collect in Silicon Valley</a>. Second, that startups may represent <a href="http://www.paulgraham.com/highres.html">a new economic phase</a>, replacing the <a href="http://www.paulgraham.com/ladder.html">corporate ladder of old</a>. Now he&#8217;s suggesting that these two effects combined might lead to <a href="http://www.paulgraham.com/revolution.html">a very local economic revolution</a>.</p>
+
+<p>The first point &#8212; that tech startups collect in Silicon Valley &#8212; is certainly true, just like car companies all tend to cluster in Detroit. This is because of a feedback effect set off by some random initial condition: Shockley Semiconductor was started in Silicon Valley, so when its employees left to start their own companies they did so there, and so on. Now everyone in the industry moves to Silicon Valley because that&#8217;s where everyone else is.</p>
+
+<p>This isn&#8217;t a new idea; it was a central topic in Paul Krugman&#8217;s research, for example, and even before that you can see similar ideas expressed by social theorists like Jane Jacobs. (For more information, see the Wikipedia article <a href="http://en.wikipedia.org/wiki/Business_cluster">Business cluster</a>, Krugman&#8217;s <em>Geography and Trade</em>, and Jacobs&#8217; brilliant book <em>The Economy of Cities</em>.) Industries tend to cluster together.</p>
+
+<p>The second &#8212; that startups represent a new economic phase &#8212; may also be true. It&#8217;s a rather more extreme claim, but it would be pretty cool.</p>
+
+<p>But I don&#8217;t think it combines with the first to create a local revolution. It&#8217;s true, tech startups have generated a lot of wealth, but they&#8217;re far from the only kind of startup to do so. The amazing thing about the Internet is that it makes all sorts of startups possible.</p>
+
+<p>Previously, if you wanted to start a newspaper, you had to buy a building and hire a staff and get some printing presses and a delivery service and an ad sales team and access to the wire services. Now you just start a blog, read the wire services online, and link to the stories you like.</p>
+
+<p>Previously, if you wanted to sell a new kind of soap, you had to build warehouses and a distribution network and a shipping infrastructure and make deals with retail outlets. Now you have <a href="http://www.amazonservices.com/content/fulfillment-by-amazon.htm">Amazon Fulfillment Services</a> handle all the physical details and just advertise your product on the Web.</p>
+
+<p>And new startups are helping this process along all the time. One Y Combinator startup tries to make things easier for food producers, another helps you run an online magazine. More are surely close behind.</p>
+
+<p>It&#8217;s tempting to think that a soap company which only sold through the Internet would always be a small concern. But why should it be any different from Internet companies? Reddit was small when it started, but it quickly grew through word-of-mouth. Sure, we had some tough nights making things scale, but in the end we were able to ramp up to a site with millions of users.</p>
+
+<p>Similarly, I met <a href="http://bksalsa.com/">some folks in Brooklyn who started a small salsa company</a> in their apartment. At first they made the salsa in their kitchen and sold jars through their bedroom window. As business picked up, they got a bigger space and started selling more. Now they&#8217;re manufacturing in scale and you can find them at Whole Foods. This worked because New York City was a big enough audience that they had room to scale up. The Internet is big in exactly the same way.</p>
+
+<p>As the Internet is everywhere and everyone knows how to use it, why won&#8217;t we see online startups in every industry? And then why not all across the globe? It may make sense for tech startups to move to Silicon Valley, but does it really make sense for soap startups? For food startups? No, it seems more likely that each industry will cluster the way tech companies and car companies have.</p>
+
+<p>Silicon Valley may have had the first wave, but the next one belongs to the world.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">April 15, 2009</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<blockquote>
+  <p>At first they made the salsa in their kitchen and sold jars through their bedroom window</p>
+</blockquote>
+
+<p>Is that legal?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.welton.it/davidw">David N. Welton</a>
+ on April 15, 2009 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>&#8220;Now you just start a blog, read the wire services online, and link to the stories you like.&#8221;</p>
+
+<p>Except that a blog isn&#8217;t a newspaper by any stretch of the imagination, and can&#8217;t be, without some of the same efforts at real journalism. (Not that papers are doing a great job of that these days, either&#8230;)</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://grafly.com">Chris Ryland</a>
+ on April 15, 2009 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>What Chris Ryland said. This post is a bit evangelistic, though it&#8217;s understandable given your background and experiences.</p>
+
+<p>&#8220;why won’t we see online startups in every industry?&#8221;</p>
+
+<p>Because not every industry is a pure information product.</p>
+
+<p>Note you may see online startups trying to <em>service</em> every industry - and that&#8217;s of course ample fodder for the marketers and hucksters who prey in the environment - but that&#8217;s hardly the total economy.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://sethf.com/">Seth Finkelstein</a>
+ on April 15, 2009 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>Interesting take. Which YC company aims to help you run an online magazine?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.mattwolf.org">Matt Wolf</a>
+ on April 16, 2009 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>I think this is likely to happen most at the hyperlocal scale: decentralizing local commerce rather than intercity commerce.  Let me explain.</p>
+
+<p>Here in Buenos Aires, there is a district several blocks long that consists about 50% of (the local equivalent of) pawn shops; there’s another district that consists of stores that sell water pumps and large electric motors.  Around the corner from me are three TV remote-control stores — across the street from each other.  Galería Jardín downtown has about 40 good computer shops with decent prices; the rest of the city has essentially none.</p>
+
+<p>Why does this happen here and not anyplace I lived in the US?  I suspect that it’s because the Yellow Pages is terrible.  My 2006–2007 edition is only 1056 pages — for a city of 3 million with 10 million more in the suburbs, most of whom work in the City.  So people can&#8217;t “let their fingers do the walking” — they do it the old-fashioned way, with their feet.  So physical proximity to the people who might refer customers to you is imperdible.  (And the city is huge, 79 square miles, 60% bigger than Boston&#8217;s land area, and similarly difficult parking and heavily trafficked streets.  So physical proximity matters a lot.)</p>
+
+<p>But people who sell on MercadoLibre (the local eBay clone, part owned by eBay since 2001) run their businesses in any old place in the city, where rent is cheaper.  I bought a wireless AP on MercadoLibre from a company in the back of an apartment building in a residential neighborhood.  The metal door leading from the apartment building&#8217;s lobby into the store was opaque and had no signs; I had to knock and tell them who I was and what I was there for in order to enter.  (Once inside, it was much like any other electronics store.)  Many of their buyers don’t come to pick up the goods in person; instead they are delivered by motorcycle courier.</p>
+
+<p>A couple of years ago, Beatrice bought luxury sheets for a hotel we were housesitting.  The place she bought them didn’t sell on MercadoLibre, but they get their business through word of mouth, so the entryway is quite similar.  Our accountant&#8217;s office, our immigration lawyers’ offices, and the place where some friends and family members recently edited a feature film are all similarly nondescript, often on the fourth floor of some unlabeled building or something.</p>
+
+<p>There are any number of restaurants, nightclubs, bars, and so on here that are similarly nondescript — they operate in somebody&#8217;s house, or in a space that looks like an ordinary house from the outside but is a fully outfitted restaurant or whatever on the inside.  They get their business by word-of-mouth and advertising online, rather than from people walking by.</p>
+
+<p>Now, I suspect that some of this nondescriptness is defensive in nature, rather than merely a result of finding business through non-physical-proximity channels.  Some of these businesses are not properly licensed (my company is very unusual here in Buenos Aires by attempting to do everything legally, which has cost us roughly a year of no income so far) and others want to avoid being targeted for armed robbery.</p>
+
+<p>So I think many of the ordinary physical features of business to which we have become accustomed – storefronts, signs, logos on buildings, business districts, malls, galerías, and the like — are essentially informational in nature.  Their purpose is to make it easier for customers or suppliers to gain the information they need in order to conduct transactions.  As this information becomes more easily available, we can expect demand to dry up for “location, location, location,” for a larger and larger range of businesses.</p>
+
+<p>So that’s how I think the internet will change the locations of businesses that sell physical goods.  It doesn’t make it any easier to ship the goods; FedEx and the transition to &#8220;intermodal transport unit&#8221; containers did that in the 1970s, and the gradual reduction of trade barriers on physical goods has been doing that since then.  It will make it easier to <em>find</em> goods, which will drastically reshape our downtowns and will diversify the available goods by quite a bit, but I don’t think it will dramatically increase the number of people mail-ordering soap or dishes from other cities.</p>
+
+<p>Maybe I’m wrong though.</p>
+
+<p>(And this is <em>before</em> the widespread availability and standardization of automated fabrication.)</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://canonical.org/~kragen/">Kragen Javier Sitaker</a>
+ on April 18, 2009 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="nonlocal" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

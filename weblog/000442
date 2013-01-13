@@ -1,0 +1,62 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>RMS and Miguel: Straight Talking (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000441" title="HelixCommunity.org" />	<link rel="next" href="000443" title="blue gene" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>RMS and Miguel: Straight Talking</h1>
+</div>
+
+<div class="content">
+<p>Stallman has quite a bit of humopr about himself and his positions even if he&#8217;s serious about his ideals. They don&#8217;t really know what to talk about but someone in the audience suggested Mono licensing.</p>
+<p>I had to miss the rest of the talk.</p>
+
+<p>RMS: More options don&#8217;t always mean more freedom. If slavery was legal many people would sell themselves into slavery and people would have a lot less freedom.</p>
+
+<p>Q: How do you present morality and ethics to a company? RMS: I don&#8217;t focus on companies. That&#8217;s another difference. We&#8217;ll try and sometimes we succeed. But we don&#8217;t want to accept companies the rulers of the world. We want to work for the people. </p>
+
+<p>Q: What about the hardware? Shouldn&#8217;t the GPL cover hardware? RMS: Treacherous Computing and Digital Restrictions Management are a terrible danger, but I don&#8217;t think that changing the GPL would help. And if we do change the GPL we can&#8217;t add restrictions to current software &#8212; that&#8217;s part of our policy. Nobody should have that power. People can choose to use the new version with the requirement but it means that the requirement won&#8217;t affect previous versions. We also have a lot of limits by copyright law. You can&#8217;t restrict the hardware. And porting to a new platform is one of our freedoms. We can stop laws against general computers but if everyone switches to treacherous computers so they can watch movies. ESR: We started GeekPAC and we will start lobying. RMS: Yes, we also need an alert system.</p>
+
+<p>Q: I was struck by the talk and outline of freedoms. Imagine the day when we&#8217;re all free, how do we measure efficiency? How do we make things better? I think you&#8217;re saying that freedom will make things better. RMS: I don&#8217;t think of the ultimate value as making better software. Making freedom helps people improve things. Not being free is being in chains. You get spyware imposed on you. Freedom in itself is important. Ethical principles need not be measured by practical benefits. We don&#8217;t need to justify it by saying we&#8217;ll get better software (even though it seems clear we do). But we don&#8217;t need to measure what&#8217;s better &#8212; we can just pick the better one.</p>
+
+<p>Requirements for being a GNU project? RMS: There are quite a number. Miguel: Top two? I&#8217;m not going to call Linux GNU/Linux. RMS: You&#8217;re not going to call GNU/Linux GNU/Linux. Miguel: Well call it GNU/X11/BSD/Linux. RMS: Let&#8217;s take a look at it. If you&#8217;d like to call it that, feel free. But the argument that&#8217;s being made is that X11 deserves as much credit as GNU. Let&#8217;s compare: X11 developed an important piece of software and they&#8217;re not making any claims. GNU developed an even bigger piece for the specific purpose of building a system like this. Certainly we should give the credit to the biggest contribution? That&#8217;d be GNU. Then we give the rest credit as we wish. Then we cut it off somewhere. I don&#8217;t care where you draw the line &#8212; I draw it at GNU/Linux because it&#8217;s an important piece, many people have heard the name, it&#8217;s distinguished from the GNU system properly speaking,  and I don&#8217;t want to tell people not to give Torvalds credit. If you want to call it something else then please do. But it&#8217;s not logical to think that the small contribution should get all credit and the biggest contribution should get none. Miguel: It&#8217;s too long, too hard to explain. I want to make another argument, not discuss naming.</p>
+
+<p>Eric S. Raymond&#8217;s picking a fight about Open Source vs. Free Software. </p>
+
+<p>Miguel: Outside the US we should use <em>software libre</em> but it&#8217;s okay to use open source in the US. But open source is pompous in other countries. Stallman: You can use libre in English. Or say free software, free as in freedom. It&#8217;d be disastrous to change the name&#8230;maybe if there was a perfect word but it doesn&#8217;t have one that means libre. Miguel: It depends who you&#8217;re talking to&#8230; RMS: I&#8217;m not trying to get more users, I&#8217;m trying to teach people about freedom, which is why we have the freedom.</p>
+
+<p>RMS: Java&#8217;s an even worse situation. Java really took off but we don&#8217;t have fully compatible implementations. If you want to develop free Java programs please test them with free systems and help developer GNU Compiler for Java or GNU Classpath. We need to write free replacements for a whole load of standard Java libraries. Denise of Sun: Sun&#8217;s released SDKs for free implementations and worked with Apache. M: Sun&#8217;s been really responsive and helpful. We should take a nice approach and explain why it&#8217;s important approach. RMS: In theory, you&#8217;re right. OpenOffice is tremendously helpful. However, Java&#8217;s done by a different group. I tried talking to them but be careful that you don&#8217;t &#8220;partner&#8221; with them &#8212; using their non-free software and hope it will be free.</p>
+
+<p>RMS: We have rules we send to people who want to make a GNU package. Originally we thought Mono would be a GNU package but then it turns out it&#8217;s not. That&#8217;s OK. Q: Implementing .NET? RMS: We implement things we don&#8217;t like &#8212; COBOL, FORTRAN, C# is the same. I suspect there will be a lot of people using their platform because of their clout so we should support it. Q: Won&#8217;t .NET need a free software implementation to suceed? RMS: We don&#8217;t have that much clout yet&#8230; maybe in 5 years, but we don&#8217;t have the power now. Miguel: Even if we aren&#8217;t API compatible, we still get a lot of benefits from C#. </p>
+
+<p class="posted">posted July 24, 2002 04:02 PM (<a class="category" href="cat_technology">Technology</a>)  <a href="000442" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000441" title="HelixCommunity.org">&laquo; prev</a> | <a href="./">up</a> | <a href="000443" title="blue gene">next &raquo;</a></p>
+
+<p><a href="000437">free larry</a><br />
+<a href="000438">Larry Lessig: Freeing Culture</a><br />
+<a href="000439">Richard Stallman: Where This All Came From</a><br />
+<a href="000440">Guido van Rossum: State of the Python Union</a><br />
+<a href="000441">HelixCommunity.org</a><br />
+<strong>RMS and Miguel: Straight Talking</strong><br />
+<a href="000443">blue gene</a><br />
+<a href="000445">Carl Malamud: NetTopBox</a><br />
+<a href="000446">OSCON: Final Night</a><br />
+<a href="000447">get out of my hair</a><br />
+<a href="000450">Eyesight Feedback</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

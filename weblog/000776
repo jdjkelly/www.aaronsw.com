@@ -1,0 +1,51 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>be liberal in what you accept (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000774" title="segway movie: part 1" />	<link rel="next" href="000777" title="final(?) segway update" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>be liberal in what you accept</h1>
+</div>
+
+<div class="content">
+<p>You&#8217;ve almost surely heard the Jon Postel phrase &#8220;Be liberal in what you accept, and conservative in what you send&#8221;. But do you agree with it?</p>
+
+<p>It can be interpreted as <a href="http://www.usc.edu/webcast/events/postel/">a suggestion on how to behave</a>. While this might make good advice for conservatives (don&#8217;t get mad because people don&#8217;t act the same as you), for liberals it seems like a guide for a needlessly boring life. If we were all conservative in what we do, then we wouldn&#8217;t do much that is new, or different. This would seem to retard progress. Of course, the same would be true in protocols so perhaps we need a &#8220;where possible&#8221; qualifier. That is, you should use the most conservative way of saying something. This makes sense in protocol design, where there are only computers at the other end, but in real life there is far more than semantic equivalence: associations, beauty, etc.</p>
+
+<p>Others argue that <a href="http://www.netsys.com/ietf/1999/5245.html">context must be taken into account</a>, that the suggestion is only for the purposes of interoperability. This makes more sense to me; I have found myself on several occasions making misleading or false statements for the purposes of interoperability. Obviously, interoperability is essential.</p>
+
+<p>Others say <a href="http://www.netsys.com/ietf/1999/5222.html">it is only applicable to protocol design</a>. Even in this narrowest view, it would seem that some agree. Certainly, XML (highly endorsed by people who unfortunately don&#8217;t know any better) encourages you to be conservative in what you accept and liberal in what you put out.</p>
+
+<p>It seems to me that a well-designed protocol would have only one saying things and require that you use it. After all, <a href="http://cr.yp.to/qmail/guarantee.html">there are two types of interfaces</a>: good interfaces and user interfaces. (There is actually a third type, as demonstrated by XML: bad interfaces, which are neither good for computers nor users. It never ceases to amaze me how XML is bad at <em>everything</em>.)</p>
+
+<p class="posted">posted December 26, 2002 12:03 PM (<a class="category" href="cat_personal">Personal</a>)  <a href="000776" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000774" title="segway movie: part 1">&laquo; prev</a> | <a href="./">up</a> | <a href="000777" title="final(?) segway update">next &raquo;</a></p>
+
+<p><a href="000768">movie maker mentality</a><br />
+<a href="000769">sidebar, segway update</a><br />
+<a href="000771">segway report</a><br />
+<a href="000773">segway and social harmony</a><br />
+<a href="000774">segway movie: part 1</a><br />
+<strong>be liberal in what you accept</strong><br />
+<a href="000777">final(?) segway update</a><br />
+<a href="000778">it&#8217;s all about the spam-readers</a><br />
+<a href="000779">what should I do with my life?</a><br />
+<a href="000780">secroll</a><br />
+<a href="000781">Wireless &#8220;Security&#8221;</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

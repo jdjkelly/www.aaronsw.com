@@ -1,0 +1,51 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>File Cabinet Lib (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/000721.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000720" title="The Case for Source Code Escrow" />	<link rel="next" href="000722" title="today&#8217;s featured superhero: Dean Kamen" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>File Cabinet Lib</h1>
+</div>
+
+<div class="content">
+<p class="img"><img src="http://www.aaronsw.com/2002/gelernterNov7-1" alt="A file cabinet being thrown out the window" id="fileCabinetLibImg" /> <cite><a href="http://jonkeegan.com">Jon Keegan</a>, New York Times</cite></p>
+
+<p><a href="http://www.aaronsw.com/2002/gelernterNov7">David Gelernter has <em>another</em> article in the Times</a> today. What&#8217;s up with this? Why does Gelernter get so much print, when many other innovative developers get none? Don&#8217;t get me wrong, I&#8217;m a big fan, but it&#8217;s getting a little much. What other New York Times writer gets to push their own products in news stories?</p>
+
+<p>And the content is a little strange too. There&#8217;s the usual explanation of why Scopeware is The Most Important Thing (when do we get to try it, David?) but he also says that there isn&#8217;t anything wrong with Windows, we just need to use it to climb out of our hole. It&#8217;s remarkable how close this is to Andreesen&#8217;s comment about &#8220;poorly-debugged device drivers&#8221; but it&#8217;s even more remarkable that he goes immediately on to say that Microsoft isn&#8217;t harming innovation and hasn&#8217;t done anything to stop it.</p>
+
+<p>Does your computer not crash, Gelernter? Are you never affected by Windows viruses? Do you not find the interface <a href="http://www.amazon.com/exec/obidos/ASIN/046504316X/coolbooks02">ugly</a>?</p>
+
+<p>That aside, there&#8217;s the usual great thoughts about the computer and <a href="#fileCabinetLibImg">an absolutely delightful illustration</a>. YOU CAN AND MUST DESTROY FILE CABINETS NOW! I cut it out of the paper and taped it to my door. That&#8217;s the first time I&#8217;ve ever done that.</p>
+
+<p class="posted">posted November 07, 2002 11:08 AM (<a class="category" href="cat_technology">Technology</a>)  <a href="000721" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000720" title="The Case for Source Code Escrow">&laquo; prev</a> | <a href="./">up</a> | <a href="000722" title="today&#8217;s featured superhero: Dean Kamen">next &raquo;</a></p>
+
+<p><a href="000715">Announcing Decisions</a><br />
+<a href="000716">i&#8217;ve got the jitterbug</a><br />
+<a href="000717">Quality Software</a><br />
+<a href="000718">Official Argument Transcripts</a><br />
+<a href="000720">The Case for Source Code Escrow</a><br />
+<strong>File Cabinet Lib</strong><br />
+<a href="000722">today&#8217;s featured superhero: Dean Kamen</a><br />
+<a href="000723">today is my birthday</a><br />
+<a href="000725">book connections: death and life, future of ideas, elements of typography</a><br />
+<a href="000726">Trusted Clothing / Trusted Computing: A Parable</a><br />
+<a href="000727">Is the intuitive hypertext interface finally here?</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

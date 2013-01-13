@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>A Censorship-Resistant Web (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>A Censorship-Resistant Web</h1>
+
+<p>Imagine someone put a document up at <code>http://pentagonpapers.com/volumes/1.html</code> that a) some people want to read and b) some people want to keep you from reading.</p>
+
+<h2>Step one: How it works now</h2>
+
+<p>On the current Web, the way you request such a document is like this:</p>
+
+<ol>
+<li>You ask one of your pre-programmed root servers who is in charge of <code>.com</code></li>
+<li>They respond with VeriSign, so you ask VeriSign who is in charge of <code>pentagonpapers.com</code></li>
+<li>They respond with Acme ISP, so you ask ACME ISP where to find <code>pentagonpapers.com</code></li>
+<li>It responds with an IP address, so you request the page from that IP</li>
+</ol>
+
+<p>The censors can ask VeriSign to give them control of pentagonpapers.com, they can try to shut down Acme ISP, they can try to prevent you from getting hosting, and they can try to shut down your IP. All of these have been used recently, with some success. You need a backup plan.</p>
+
+<p>Let&#8217;s imagine we want this URL to resolve in an uncensorable way. How would we do it?</p>
+
+<h2>Step one: Domain name ownership</h2>
+
+<p>First we would have a <em>certificate authority</em> (CA) which would sign statements of the form: &#8220;As of [DATE], [DOMAIN NAME] is owned by the holder of [PUBLIC KEY].&#8221; (Let&#8217;s call this a <em>certificate</em>.) Conveniently, there&#8217;s already a whole industry of trusted businesses that make these statements &#8212; they&#8217;re called SSL certificates.</p>
+
+<p>The problem is that CAs are presumably just as subject to attack as the registrars (in fact, in some cases they are the registrars!). One possibility is to set up a certificate authority that will not sign such statements for people attempting to engage in censorship. It seems probable that such a policy would be protected by the First Amendment in the US. However, &#8220;people engaging in censorship&#8221; is a somewhat subjective notion. Also, it&#8217;s always possible a court could order the certificate authority to turn over the private signing key (or the key could be obtained in some other way).</p>
+
+<p>Another possibility is some kind of &#8220;rollback UI&#8221;. If you know vaguely when the censorship attempts started, you can only trust certifications made before that date. This is a somewhat difficult feature to implement in a way that makes sense to users, though. The best case scenario is one in which the user can clearly distinguish between a censored and uncensored page. In that case, if the page appears censored they can hit a &#8220;go back a month&#8221; button and the system will only trust certifications made more than a month prior to the certification it&#8217;s currently using. The user can hit this button repeatedly until they get an uncensored version of the page.</p>
+
+<h2>Step two: Web page authentication</h2>
+
+<p>Next the owner of the website will need to sign statements of the form &#8220;The content of [URL] had the hash [HASH] on [DATE].&#8221; (Let&#8217;s call this an <em>authenticator</em>.) Now given a page, a corresponding valid authenticator, and a corresponding valid certificate (call this trio an <em>authentic page</em>), browsers can safely display a page even if it can&#8217;t access the actual web server. The digital signatures work together to prove that the page is what the website owner wanted to publish. If a browser gets back multiple authentic pages, it can display the latest one (modulo the effects of the &#8220;go back a month&#8221; button).</p>
+
+<h2>Step three: Getting authentic pages</h2>
+
+<p>Set up a series of domain-to-certificate servers. These servers take a domain names (e.g. <code>pentagonpapers.com</code>) and returns back any certificates for it. Certificates can be obtained by <a href="https://www.eff.org/observatory">crawling the Web</a> or by being submitted by website owners or by being submitted by the CAs themselves.</p>
+
+<p>Set up a series of URL-to-hash servers. These servers take a URL and return back any valid authenticators for that URL. Authenticators are very small, so each URL-to-hash server can probably store all of them. If spam becomes a problem, a little bit of hashcash could be required for storage. Website owners submit their authenticators to the URL-to-hash servers.</p>
+
+<p>Set up a series of hash-to-URL servers. These servers take a hash and return a series of URLs which can be dereferenced in the normal way to obtain a file with that hash. People can submit hash-to-URL mappings to these servers and they can attempt to automatically verify them by downloading the file and seeing if the hash matches.<sup id="fnref:fn1"><a href="#fn:fn1" rel="footnote">1</a></sup><sup id="fnref:fn2"><a href="#fn:fn2" rel="footnote">2</a></sup> Again, these mappings are very small so each server can probably store all of them.<sup id="fnref:fnr"><a href="#fn:fnr" rel="footnote">3</a></sup></p>
+
+<p>Then there are a series of servers that host controversial files. Perhaps they saved a copy before the site was censored, perhaps they received it thru some out-of-band channel<sup id="fnref:oob"><a href="#fn:oob" rel="footnote">4</a></sup>. However they got it, they put them up on their website and then submit the URL to the hash-to-URL servers. Meanwhile, the site publisher submits an authenticator to the URL-to-hash servers.</p>
+
+<p>Now, if a browser cannot obtain the <code>pentagonpapers</code> page through normal means it can:</p>
+
+<ol>
+<li>Ask each domain-to-cetificate server it knows for certificates for <code>pentagonpapers.com</code></li>
+<li>Ask each URL-to-hash server it knows for authenticators for the URL</li>
+<li>Ask each hash-to-URL server it knows for alternative URLs</li>
+<li>Download from the alternative URLs<sup id="fnref:fnb"><a href="#fn:fnb" rel="footnote">5</a></sup></li>
+</ol>
+
+<p>This can be implemented through a browser plugin that you click when a page appears to be unavailable. If it takes off, maybe it can be built in to browsers. (While I&#8217;ve been assuming the worst-case-scenario of censorship here, the system would be equally useful for sites that are just down because their servers couldn&#8217;t handle the load or some other innocent failure.)</p>
+
+<p>This system should work unless our adversary can censor every well-known CA, every well-known URL-to-hash server, every well-known hash-to-URL server, or every alternative URL.</p>
+
+<h2>Step four: Beyond the Web</h2>
+
+<p>We can help ensure this by operating at least one of each as a Tor hidden service. Because the operator of the service is anonymous, they are immune to legal threats.<sup id="fnref:fn3"><a href="#fn:fn3" rel="footnote">6</a></sup> If the user doesn&#8217;t have Tor, they can access them through <a href="http://tor2web.org/">tor2web.org</a>.</p>
+
+<p>Similarly, if you know your document is going to get censored, you can skip steps 1 and 2. Instead of distributing a <code>pentagonpapers.com</code> URL which is going to go down, you can just distribute the hash. For users whose browsers don&#8217;t support this system, you can embed the hash in a URL like:</p>
+
+<pre><code>https://hash2url.org/sha1/284219ea93827cdd26f5a697112a029b515dc9a4
+</code></pre>
+
+<p>where <code>hash2url.org</code> is a hash-to-URL server that redirects you to a valid URL.</p>
+
+<p>And, of course, if you somehow have access to a working P2P system, you can just it to obtain authentic pages.</p>
+
+<h2>Conclusions</h2>
+
+<p>What&#8217;s nice about this system is that it gets you censorship resistance without introducing anything wildly new. There are already certificate authorities. There are already hash-to-URL servers. There are already mirrors. There&#8217;s already Tor. (There&#8217;s already tor2web.) The only really new thing specific to censorship resistance is URL-to-hash servers of the form I described, but they&#8217;re very simple and hopefully uncontroversial.</p>
+
+<p>There is some work to be done stitching all of these together and improving the UI, but unlike with some other censorship-resistance systems, there&#8217;s nothing you can point to as having no good purpose except for helping bad guys. It&#8217;s all pretty basic and generally useful stuff, just put together in a new way.</p>
+
+<p><strong>If you&#8217;re interested in helping build something like this,</strong> please send me an email: <a href="mailto:me@aaronsw.com">me@aaronsw.com</a>.</p>
+
+<div class="footnotes">
+<hr />
+<ol>
+
+<li id="fn:fn1">
+<p>Any server will have finite bandwidth, so an attacker could try to fool the hash-to-URL server by submitting a URL which when dereferenced never stops sending the data. The hash-to-URL servers should stop after a certain limit and mark the URL as unverified due to max file size. If the server ever obtains a file whose size is under the limit with that hash, it can toss all such URLs.&#160;<a href="#fnref:fn1" rev="footnote">&#8617;</a></p>
+</li>
+
+<li id="fn:fn2">
+<p>URLs can go out of date so perhaps upon receiving sufficient complaints about a URL being &#8220;bad&#8221;, the server should attempt to reverify. Again, hashcash can be used throughout to avoid spam.&#160;<a href="#fnref:fn2" rev="footnote">&#8617;</a></p>
+</li>
+
+<li id="fn:fnr">
+<p>A possible protocol for the above two servers is provided in <a href="http://www.ietf.org/rfc/rfc2169.txt">RFC 2169</a>.&#160;<a href="#fnref:fnr" rev="footnote">&#8617;</a></p>
+</li>
+
+<li id="fn:oob">
+<p>I have ideas on how to automate this, naturally, but this essay is already far too long.&#160;<a href="#fnref:oob" rev="footnote">&#8617;</a></p>
+</li>
+
+<li id="fn:fnb">
+<p><em>Optional bonus:</em> Use HTTP Range headers to download 1/n of the file from each of the n URLs. There are some circumstances where this could speed things up. Or maybe it&#8217;s just annoying.&#160;<a href="#fnref:fnb" rev="footnote">&#8617;</a></p>
+</li>
+
+<li id="fn:fn3">
+<p>This moves the censorship weak link to the distribution of introduction points to hidden services.<sup id="fnref:fn5"><a href="#fn:fn5" rel="footnote">7</a></sup> But instead of being published by a DHT, introduction points can be distributed through a flood protocol<sup id="fnref:fn6"><a href="#fn:fn6" rel="footnote">8</a></sup>. Or maybe the DHT can be modified so that there&#8217;s no obvious censorship point?&#160;<a href="#fnref:fn3" rev="footnote">&#8617;</a></p>
+</li>
+
+<li id="fn:fn5">
+<p>The introduction points themselves can&#8217;t be censored because they don&#8217;t know who they&#8217;re talking to. (I think they do in the current implementation of Tor, but this doesn&#8217;t seem necessary. The hidden service can generate a new keypair for each introduction point and send the public key to the introduction point and to Alice.)&#160;<a href="#fnref:fn5" rev="footnote">&#8617;</a></p>
+</li>
+
+<li id="fn:fn6">
+<p>Is this too chatty? Probably. But remember, it&#8217;s a last-case resort in some kind of insane police-state world where every country prevents people from running servers that give out the IP addresses of other servers that let you talk to a third server which will give you illegal content.&#160;<a href="#fnref:fn6" rev="footnote">&#8617;</a></p>
+</li>
+
+</ol>
+</div>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">December 21, 2010</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>I also got thinking about what you do when there are lots of potential takedown points.  I was thinking one handy piece could be a client-side piece &#8212; a few static files that anybody can put on a server constitute a program that 1) tries a bunch of directory servers to find where a file with a particular hash is stored, 2) tries to download and check the hash of the file at each location, 3) displays the &#8220;winner,&#8221; the first document that hashes to the right value.  (That takes cross-domain communication and crypto in JavaScript, but both are possible these days.)  The handy thing is that the client piece can be hosted <em>anywhere</em> trivially, without hosting the actual censored content.  The client could also come with a list of some hashes for interesting documents and some places to look for them.</p>
+
+<p>Or a simpler version of that would be just one page that looks through a hardcoded list of URLs for a page whose contents authenticate, i.e., one that isn&#8217;t down yet.  Just saves the user the trouble of testing a list of mirrors by hand, but that&#8217;s a real win when users want to find stuff easily.</p>
+
+<p>Your system lets the publisher update the page, including when the update content isn&#8217;t known beforehand &#8212; e.g., when it&#8217;s breaking news instead of the next volume of the Pentagon Papers.  That&#8217;s harder to solve with a document-hash-based system, but possible; you need to authenticate that the update is also by the original author.  If the original document contains the author&#8217;s public key, or a hash of it, or a hash used for a one-time Lamport signature, you can use that.</p>
+
+<p>(Not trying to argue about the merits of the two systems.  One clear advantage of a system without a heavy client side is that it doesn&#8217;t depend on the vagaries of the client platform (i.e., it runs on IE6).  Just spelling out what I&#8217;d been thinking about when I read this.)</p>
+
+<p class="posted">posted by Randall
+ on December 23, 2010 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>You might want to look at content-based addressing. The idea is that whenever we want to put information on the web, we take the document and take a 128-bit (or larger) hash of said document. Then that hash is the permanent reference. if anybody wants to retrieve this document, they submit this hash to a retrieval service. Authenticity is obtained by hashing and availability is guaranteed by having lots of retrieval services. Name &#8212;> Hash can be implemented in the system itself (by making a root-document style of entry &#8212;- essentially a directory structure).</p>
+
+<p>Van Jacobson is doing some work in this space: pages.cs.wisc.edu/~akella/CS838/F09/838-Papers/ccn.pdf</p>
+
+<p class="posted">posted by Prakhar Goel
+ on December 23, 2010 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>True censorship will happen the day it becomes illegal to &#8220;try&#8221; to access censored data</p>
+
+<p>There might be countries where this is already occuring.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://simpliwiki.com">JeanHuguesRobert</a>
+ on December 23, 2010 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>My bets on some voluntary cloud botnet as the truly independent and practically invulnerable hosting platform.</p>
+
+<p class="posted">posted by Ursus
+ on December 23, 2010 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c6">
+<p>You can easily overcome the CA point of failure by using history based trust model (CAs are part of a delegation of authority trust model)</p>
+
+<p>How do you do that? By basing your censorship circumvention system on a builtin social network. This way you put trust in the right entities : identities (people). Not content and not arbitrarly chosen authorities.</p>
+
+<p>I&#8217;ll send you an email.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="https://NoMemorySpace.wordpress.com">Slim Amamou</a>
+ on December 23, 2010 <a href="#c6" rel="bookmark">#</a></p>
+</div>
+<div id="c7">
+<p>This is something search engines should do automatically.  Google could easily compute the secure hash of every page it crawls and provide automatic links to mirrors (defined as pages with the same secure hash) of pages that are no longer available (or just under high load).  It could even provide an indication of how complete a mirror is by the percentage of files linked to by the original domain are also present (and match the secure has) at the mirror.</p>
+
+<p>A very similar service exists now in the form of URL shortening services.  It would not require much work to implement one-to-many relationships between the shortened versions of URLs and the mirrors of the content.  Automatic detection of mirrors could be accomplished by keeping hashes of the original content and comparing any new URL submitted for shortening to the hash database and merging detected mirrors into one shortened URL.  A recursive hash tree would be necessary to prevent spoofed mirrors, and a reverse lookup added for users who know the original URL but can&#8217;t access the site because it is down or censored.</p>
+
+<p>The only thing missing from either of these descriptions is a notion of authoritative publishing, e.g. detecting when an original URL points to an updated, but authoritative, site and the mirrors aren&#8217;t updated yet.  In this case, it would clearly have been in everyone&#8217;s best interest if the web had been designed with signed content from the beginning.  If a suitable standard could be found for signing the content of web pages (even something as simple as dropping index.html.gpg, image1.jpg.gpg or a collective MD5SUMS.gpg into the webroot), mirror detection services could automatically recognize newer authoritative content by a newer signature date.  Mirrors of signed content would be identified by a common set of public keys used to sign their content, and when an update occurred it would be recognized that the mirrors no longer matching the content are still mirrors, but simply out of sync.  This would prevent the ability of attackers to spam old mirror content or otherwise attempt to add mirrors with disinformation.</p>
+
+<p>I think your scheme could be extended to support OpenPGP signatures in addition to (and maybe in preference over) hashes plus SSL certificates.  The publisher would publish a signature of the contents of a URL instead of just a hash of a URL.  A hash is still included in the signature for the purpose of uniquely identifying content, but it is tied to a publisher.  This would not require additional trusted SSL certificates for mirrors, just the presence of the signed content on any mirror sites.</p>
+
+<p>There are still attacks possible where lots of rogue mirrors are published with a different key in an attempt to steal the authenticity of all mirror sites away from the original publisher.  Basically the only way to circumvent such a situation is with a web of trust like PGP implements.  Take a situation where wikileaks is completely censored and forced offline.  At this point any number of mirrors may exist but it is now impossible to tell which may be being updated by the &#8220;real&#8221; wikileaks crew and which may be subverted.  If a majority of mirrors (which includes many fakes created by attackers) start to publish new information, there is no way to tell with SSL certs alone whether the updates should be trusted.  This is kind of a far fetched attack, but it makes sense to avoid any potential weaknesses during the design phase.  Provisions for recognizing revoked PGP keys should also be in place for the case where publishers know they will be arrested/interrogated/subverted and further updates with their key should not be trusted.</p>
+
+<p class="posted">posted by Ben
+ on December 23, 2010 <a href="#c7" rel="bookmark">#</a></p>
+</div>
+<div id="c8">
+<p>You&#8217;ve got the right idea, but this bothers me:
+&#8220;Conveniently, there’s already a whole industry of trusted businesses that make these statements — they’re called SSL certificates.&#8221;
+Can we really trust any businesses in this scenario?</p>
+
+<p>You should look at Freenet; it&#8217;s doing something very similar already. You discover nearby nodes and when you want to retrieve a file (by hash), you ask them if they have it. If they don&#8217;t, they ask someone else, and relay it back to you. This means there&#8217;s no way to tell if someone is downloading the file for themselves or just passing it along.</p>
+
+<p>Each node may keep copies of some of the content as well, deleting old files that haven&#8217;t been requested in some time - so there are many copies of every file floating around, disappearing only when nobody wants them anymore. Since the files are encrypted (part of the URL serves as the key), the nodes can&#8217;t tell what is in the files they decide to keep, so they can&#8217;t try to censor or alter anything and can&#8217;t be prosecuted for keeping it.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://segment6.blogspot.com/">⬡</a>
+ on December 23, 2010 <a href="#c8" rel="bookmark">#</a></p>
+</div>
+<div id="c9">
+<p>Separate from censorship-resistance, this system would also allow ad-hoc p2p caching of content &#8212; to handle traffic surges or provide a level of anonymized viewing.</p>
+
+<p>The domain names seem to be like handy pet names for certificates. The proposed &#8216;tdb:&#8217; URI scheme could prove useful for referring to expired mappings of domain->cert or URI->content. (&#8216;tdb&#8217; seems to have subsumed &#8216;duri&#8217; in Masinter&#8217;s latest draft: http://larry.masinter.net/duri.html )</p>
+
+<p>A URI scheme giving every signing-key its own path-like namespace could also be useful, as with the hypothesized &#8216;kau&#8217; and other schemes we discussed in this 2002 thread:</p>
+
+<p>http://notabug.com/zest/p2p-hackers/msg00048.html</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://memesteading.com">Gordon Mohr</a>
+ on December 23, 2010 <a href="#c9" rel="bookmark">#</a></p>
+</div>
+<div id="c10">
+<p>Good luck. But I&#8217;ve seen so many This-Time-For-Sure sorts of these systems that I now put them in the same general class as perpetual motion machines.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://sethf.com/">Seth Finkelstein</a>
+ on December 24, 2010 <a href="#c10" rel="bookmark">#</a></p>
+</div>
+<div id="c11">
+<p>You have described Freenet to a T.</p>
+
+<p class="posted">posted by James
+ on December 24, 2010 <a href="#c11" rel="bookmark">#</a></p>
+</div>
+<div id="c12">
+<p>Re: James and Seth &#8212; meh, I say, meh!</p>
+
+<p>Freenet, Tor, and DHTs seem pretty hard to censor but involve a lot of work for end users.  Unsolved problem seems to be to make a way to find censored content that just requires the end user to hit a locator URL (maybe at one of many domains), gives the locator services some separation from the actual content hosts (making it &#8220;safer&#8221; to host a locator), and is pretty resilient when content hosts go down.</p>
+
+<p class="posted">posted by Randall
+ on December 25, 2010 <a href="#c12" rel="bookmark">#</a></p>
+</div>
+<div id="c13">
+<p>Another similar project from ten years ago was Publius:</p>
+
+<p>http://cs.nyu.edu/~waldman/publius/</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://lippard.blogspot.com/">Jim Lippard</a>
+ on December 26, 2010 <a href="#c13" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="uncensor" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

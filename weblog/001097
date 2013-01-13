@@ -1,0 +1,55 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Fixing Public Transportation (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/001097.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001096" title="ACS Radio Interview" />	<link rel="next" href="001099" title="Saddam&#8217;s Simple Life" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Fixing Public Transportation</h1>
+</div>
+
+<div class="content">
+<p>Public transportation is hobbled by a lack of several things: cleanliness, convenience, status. I can&#8217;t easily solve any of those problems and they don&#8217;t matter all that much to me. But there is one thing I can solve and care about: public transportation&#8217;s lack of usability.</p>
+
+<p>Currently things are a hodge-podge of different, mostly incompatible systems, set out in archaic routes which only make sense to transport geeks. (Because there&#8217;s such a hodgepodge, I&#8217;ll collectively refer to things like trains, trams, and busses as &#8220;cars&#8221; and rails, lines, and routes as &#8220;tracks&#8221;.) And because most tracks have low visibility, status information is also rare. I propose a simple technological solution. (Credit: 146 to 149 of Edward
+Tufte&#8217;s <a
+href="http://www.amazon.com/exec/obidos/ASIN/0961392126/coolboks02/">Visual Explanations</a> describes a similar system for art museums.)</p>
+
+<p>First, attach wireless beacons to all the cars. Then, at each stop install at least one computer kiosk. The kiosk can receive the beacon so it knows when each car comes by. It&#8217;s also connected to the Internet (perhaps indirectly) so it can report this information to the transit website. When not in use, the kiosk will display a simple status message like &#8220;Next car in 3 minutes.&#8221;</p>
+
+<p>However, you can also use the kiosk. You enter your destination, and optionally your other constraints. It determines the best route for you, asks you to insert the appropriate amount of money, and prints out your instructions and tickets.</p>
+
+<p>To simplify the instructions, clearer signage with simple termininology will be installed throughout the system. That way the instructions can be something simple and unambiguous like &#8220;follow the signs to the Q train&#8221; and &#8220;wait for the L bus&#8221;. If any significant amounts of walking need to be done, it&#8217;ll also print you out a clear walking map. The tickets will all be simple labeled cards (&#8220;Give to conductor on Q train.&#8221;, &#8220;Insert into gate at L tram.&#8221;). Color coding could also be used to make things even clearer.</p>
+
+<p>Of course, we&#8217;d have to make sure <em>this</em> system was usable, but I don&#8217;t think that should be too difficult. I suspect you could find talented public transport geeks willing to do much of the work for free/cheap. I also don&#8217;t think the kiosks and signage will be expensive. (You might even be able to get some company to donate the computers in exchange for advertising.) However, I think this will lead to a noticable increase in the use of public transportation &#8212; visitors will be less afraid of using a confusing and unfamiliar system and residents, having seen how easy it is, will use it more often.</p>
+
+<p class="posted">posted December 17, 2003 12:29 PM (<a class="category" href="cat_technology">Technology</a>)  <a href="001097" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001096" title="ACS Radio Interview">&laquo; prev</a> | <a href="./">up</a> | <a href="001099" title="Saddam&#8217;s Simple Life">next &raquo;</a></p>
+
+<p><a href="001087">Instant Message from LelandJr247</a><br />
+<a href="001090">• FLEEP •</a><br />
+<a href="001093">Alternative Compensation Systems</a><br />
+<a href="001095">I&#8217;m Not President But I Play One On TV</a><br />
+<a href="001096">ACS Radio Interview</a><br />
+<strong>Fixing Public Transportation</strong><br />
+<a href="001099">Saddam&#8217;s Simple Life</a><br />
+<a href="001101">Software that Sucks</a><br />
+<a href="001102">Nothing So Strange</a><br />
+<a href="001103">Contest: What has Bush done for you?</a><br />
+<a href="001105">Plea for Help</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

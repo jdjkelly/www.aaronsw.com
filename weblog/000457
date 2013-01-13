@@ -1,0 +1,69 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>is it rabbittime already? (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000456" title="i love it when a plan comes together" />	<link rel="next" href="000459" title="rabbit, rabbit" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>is it rabbittime already?</h1>
+</div>
+
+<div class="content">
+<p><a href="http://cr.yp.to/y2k.html">Dan J. Bernstein on time</a>: &#8220;Don&#8217;t contribute to the Y10K problem! Thanks to my lobbying, Internet mail messages are now allowed to have 5-digit years.&#8221;</p>
+
+<p>Ugh, head that the Bush Administration wants to invade Iraq. Can we throw them out of office yet?</p>
+
+<p>Anyone know where I can get a list of registered domain names?</p>
+
+<p>Announcing the <a href="http://creativecommons.org/metadata/">Creative Commons Metadata Project</a>. Tell all your friends, but not the newspapers. Only geeky stuff in there. Our <a href="http://creativecommons.org/metadata/spec">technical specification is in beta</a> so send us your feedback.</p>
+
+<p>What does it mean when someone else wrote the exact same program you did, with the exact same tools and the exact same implementation decisions? It&#8217;s a 10-line Python script I run as a cron job that uses Orchard to grab RSS files, html2text to convert them to ASCII and then emails them to me so I can use my nice mail client as my aggregator. I keep procrastinating and not releasing it. Today I learned that Mark Pilgrim wrote the same thing with the same tools.</p>
+
+<p>I&#8217;m parsing RSS files with expat in Python and it seems to be overly picky about character codes. It&#8217;ll choke with a fatalError (not well-formed (invalid token)) on things like Smart Quotes when IE will let them through. Is there a way to turn this pickiness off?</p>
+
+<p>Someone once told me that down south they called the US Civil War &#8220;The War of Northern Aggression&#8221;. And at P2PCon2, Lessig made the analogy to the fight between the Hollywood and Silicon Valley, where the North(ern Californians) thought content should be free and the South thought it should be owned. So does that mean that this is the war of southern agression (or regulation)?</p>
+
+<p>After a long night, my favorite weblogs look like this: <a href="http://web.lfw.org/jminc/Jaguar/http://wmf.editthispage.com/">Hack the Planet</a>, <a href="http://web.lfw.org/jminc/Infrastructure/http://doc.weblogs.com/">Doc Searls</a>, <a href="http://web.lfw.org/jminc/Developers/http://www.microsoft.com/presspass/exec/steve/default.asp">Steve Ballmer</a>.</p>
+
+<p><a href="http://bitconjurer.org/BitTorrent/download.html">BitTorrent 3.0 is out.</a> They&#8217;ve got a Mac OS X GUI version now that integrates with IE and <a href="http://bitconjurer.org/BitTorrent/protocol.html">finished documentation</a>.</p>
+
+<p><a href="http://boingboing.net/2002_07_01_archive.html#85300828">Cory&#8217;s back and spewing blog pieces.</a> Hm. Somehow I missed <a href="http://www.stupidfool.org/disneyland/">Mena&#8217;s photos of Disneyland</a>. I figured I did pretty well on the Cory Doctorow Replacement Test, I blogged 5 out of 20 of the things he&#8217;s posted. I&#8217;m one quarter Cory!</p>
+
+<p><img src="http://www.harrumph.com/casio/shoes-2.JPG" align="right" />Don&#8217;t forget: tomorrow morning is the day to say <a href="http://www.harrumph.com/rabbit/">rabbit, rabbit</a>.</p>
+
+<p><em>&#8220;And don&#8217;t forget, some bunny loves you, baby!&#8221;</em></p>
+
+<p>After <a href="http://www.harrumph.com/020727.shtml">this incident</a>, I&#8217;m tempted to link to one of Heather&#8217;s images just to see what will happen.</p>
+
+<p>The funnies, though, is <a href="http://www.harrumph.com/020511.shtml">what happened to her own page</a>!<br clear="all" /></p>
+
+<p class="posted">posted July 31, 2002 11:30 AM (<a class="category" href="cat_others">Others</a>)  <a href="000457" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000456" title="i love it when a plan comes together">&laquo; prev</a> | <a href="./">up</a> | <a href="000459" title="rabbit, rabbit">next &raquo;</a></p>
+
+<p><a href="000450">Eyesight Feedback</a><br />
+<a href="000451">movable code</a><br />
+<a href="000452">irby nation</a><br />
+<a href="000453">pay up for free software</a><br />
+<a href="000456">i love it when a plan comes together</a><br />
+<strong>is it rabbittime already?</strong><br />
+<a href="000459">rabbit, rabbit</a><br />
+<a href="000461">today&#8217;s featured superhero: D. J. Bernstein</a><br />
+<a href="000463">you can&#8217;t handle the x-height!</a><br />
+<a href="000465">miller reminds you to think when you link</a><br />
+<a href="000466">A Contrarian View of Open Source</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

@@ -1,0 +1,30 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+  <title>CSS Border Tests</title>
+</head>
+<body>
+<div style="border: 5px hidden red">hidden</div>
+<p></p>
+<div style="border: 5px dotted red">dotted</div>
+<p></p>
+<div style="border: 5px dashed red">dashed</div>
+<p></p>
+<div style="border: 5px solid red">solid</div>
+<p></p>
+<div style="border: 5px double red">double</div>
+<p></p>
+<div style="border: 5px dot-dash red">dot-dash</div>
+<p></p>
+<div style="border: 5px dot-dot-dash red">dot-dot-dash</div>
+<p></p>
+<div style="border: 5px wave red">wave</div>
+<p></p>
+<div style="border: 5px groove red">groove</div>
+<p></p>
+<div style="border: 5px ridge red">ridge</div>
+<p></p>
+<div style="border: 5px inset red">inset</div>
+<p></p>
+<div style="border: 5px outset red">outset</div>
+</body>
+</html>

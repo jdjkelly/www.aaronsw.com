@@ -1,0 +1,252 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>TextMate (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001434.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001433" title="Of Conspiracies and Filing Cabinets" />	<link rel="next" href="001436" title="Got Money?" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>TextMate</h1>
+</div>
+
+<div class="content">
+<p><em>The following post is for Mac OS X users.</em></p>
+
+<p>I&#8217;ve long been surprised by the passion evoked in BBEdit users. BBEdit is a tolerbale editor, I suppose, but it&#8217;s not exactly great, or even good. It&#8217;s expensive, rather limited in features, ugly, and clunky.</p>
+
+<p>But now there is a text editor worth getting excited about (at least if one considers a text editor a worthy object of excitement): <a href="http://macromates.com/">TextMate</a>. TextMate is cheap ($39 for the month, $49 regularly), featureful (tabs, foldings, clipboard history, projects, etc.), innovative (recordable macros, snippets, bookmarks, column typing), and relatively elegant.</p>
+
+<p>If you don&#8217;t know what I&#8217;m talking about, don&#8217;t worry &#8212; it&#8217;s all carefully explained (with clear animations) <a href="http://macromates.com/">on the front page</a>.</p>
+
+<p>This is all in version 1.0. The developers seem to be active and responsive, so we may reasonably look forward to rapid improvement and innovation.</p>
+
+<p class="posted">posted October 10, 2004 07:18 PM (<a class="category" href="cat_technology">Technology</a>) (<a href="#comments">13 comments</a>) <a href="001434" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001433" title="Of Conspiracies and Filing Cabinets">&laquo; prev</a> | <a href="./">up</a> | <a href="001436" title="Got Money?">next &raquo;</a></p>
+
+<p><a href="001429">Stanford: Day 12</a><br />
+<a href="001430">Stanford: Day 14</a><br />
+<a href="001431">Stanford: Day 15</a><br />
+<a href="001432">Stanford: Day 16</a><br />
+<a href="001433">Of Conspiracies and Filing Cabinets</a><br />
+<strong>TextMate</strong><br />
+<a href="001436">Got Money?</a><br />
+<a href="001437">Misstated Union: An Interview with David Brock</a><br />
+<a href="001438">Stewart on Crossfire</a><br />
+<a href="001439">Stanford: Day 27</a><br />
+<a href="001440">P2P Politics</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c3042">
+
+<p>This looks nice, but won&#8217;t replace BBEdit in a long shot.  With all of the encoding handling, HTML editing, Template inclusion system, speed of handling 100mb files etc of BBedit, I&#8217;ll be using BBEdit for some time to come.</p>
+
+<p class="posted">posted by Steve at October 10, 2004 07:31 PM <a href="#c3042">#</a></p>
+
+</div><div id="c3043">
+
+<p>If BBEdit is limited in features you know what you&#8217;re talking about. Wait, you don&#8217;t know what you&#8217;re talking about.</p>
+
+<p>I don&#8217;t see anything new in TextMate that makes it better than BBEdit. It&#8217;s cheaper, that&#8217;s about it.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://them.ws/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3043">James</a> at October 10, 2004 11:27 PM <a href="#c3043">#</a></p>
+
+</div><div id="c3044">
+
+<p>BBEdit is ugly, true. But to say it lacks features or that they are limited is simply not true. The multi-file search and replace, the great markup tools and integration with CVS/Shell Scripts/FTP are all good starting points which other editors don&#8217;t come close to.</p>
+
+<p>I cannot deny that it isn&#8217;t lickable like other OS X apps, but who cares?</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.j-dom.org" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3044">Jason Kitcat</a> at October 11, 2004 03:46 AM <a href="#c3044">#</a></p>
+
+</div><div id="c3046">
+
+<p>The UI on TextMate is nicer than BB Edit, but they both suck as editors. I like vim, not because of its nice interface (it also sucks) but because I&#8217;ve been using it for ten years. No other reason.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://lowmag.net" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3046">Eli Sarver</a> at October 11, 2004 06:04 AM <a href="#c3046">#</a></p>
+
+</div><div id="c3048">
+
+<p>I&#8217;ve been using BBEdit for years and I&#8217;m still finding new features.</p>
+
+<p>Some of my favorte BBEdit features are: file compare, shell command window, HTML preview in BBedit, user-definable language hilighting, open from &amp; save to FTP server, file browser, and regular expressions.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.mcdevzone.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3048">Mike Cohen</a> at October 11, 2004 09:06 AM <a href="#c3048">#</a></p>
+
+</div><div id="c3049">
+
+<p>So, uh, it sounds rather like <a href="http://www.jedit.org/">jEdit</a>, except $40 more expensive, not open source, and only able to run on OS X.</p>
+
+<p>jEdit has plugins, too, and since it&#8217;s a Java app, you can use one editor on Mac OS X, Linux, Solaris, and Windows.</p>
+
+<p>The only thing that TextMate looks to have that jEdit doesn&#8217;t is column typing, and even that would be pretty easy to code up as a plugin or macro for jEdit (assuming it would really be that useful).</p>
+
+<p>Honestly, haven&#8217;t text editors become commoditized by now?</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.eschew.org/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3049">Ben Karel</a> at October 11, 2004 02:13 PM <a href="#c3049">#</a></p>
+
+</div><div id="c3050">
+
+<p>Have you see <a href="http://43folders.com/">43 Folders</a>? It&#8217;s a site about applying Getting Things Done to the tech world. He uses (loves) TextMate, and a few other cool Mac programs.</p>
+
+<p class="posted">posted by Taylor at October 12, 2004 12:12 AM <a href="#c3050">#</a></p>
+
+</div><div id="c3052">
+
+<p>Nice to see that emacs-versus-vi generalises so well.</p>
+
+<p class="posted">posted by Sean Neakums at October 12, 2004 05:03 AM <a href="#c3052">#</a></p>
+
+</div><div id="c3053">
+
+<p><a href="http://macvim.org/">macvim.org</a> :)</p>
+
+<p class="posted">posted by <a target="_blank" title="http://plasmasturm.org/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3053">Aristotle</a> at October 12, 2004 09:43 AM <a href="#c3053">#</a></p>
+
+</div><div id="c3097">
+
+<p>I&#8217;m a relatively new Mac user, only been on the platform for about 4 years, switched from OS/2, Windows and Linux&#8230; and I have to say, while I use vim for simple editing, I find BBEdit to be my favorite editor.  I always upgrade, it keeps getting better. It has QWAN.</p>
+
+<p class="posted">posted by Stu Charlton at October 16, 2004 08:29 PM <a href="#c3097">#</a></p>
+
+</div><div id="c3099">
+
+<p>I use TextEdit. :-P</p>
+
+<p class="posted">posted by Ryan Hayes at October 17, 2004 02:15 AM <a href="#c3099">#</a></p>
+
+</div><div id="c3103">
+
+<p>bbedit is so much crappy that I can&#8217;t think people really like it. Maybe because there are no other good editors on a mac. And, I mean, it costs lots of bucks. </p>
+
+<p>Haven&#8217;t tried textmate. Some people seem to like it, most of the others seem to prefer Vim. I guess I&#8217;ll stay with the latter.</p>
+
+<p class="posted">posted by  at October 17, 2004 09:38 AM <a href="#c3103">#</a></p>
+
+</div><div id="c3160">
+
+<p>Man BBEdit has been a poor editor now for a while.  They really need to drop OS 9 suport and write a Cocoa app if they want to charge enormous upgrade prices.  </p>
+
+<p>Xcode can still not be beat BTW.  </p>
+
+<p class="posted">posted by Will at October 21, 2004 01:33 AM <a href="#c3160">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001434.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1434" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

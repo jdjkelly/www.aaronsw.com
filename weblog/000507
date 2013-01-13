@@ -1,0 +1,49 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Yee-Haw! Roundup time! (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000505" title="rfc822 has no chance to survive. take your mime." />	<link rel="next" href="000508" title="Full Tilt for Software Freedom" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Yee-Haw! Roundup time!</h1>
+</div>
+
+<div class="content">
+<p>I&#8217;ve been trying to get the <a href="http://roundup.sourceforge.net/">Bizar implementation</a> of Ka-Ping Yee&#8217;s <a href="http://web.lfw.org/ping/sc-roundup.html">Roundup: an Issue-Tracking System for Knowledge Workers</a> to work (with some success) which got me rereading his <a href="http://web.lfw.org/ping/sc-roundup.html">excellent paper</a>.</p>
+
+<p>Two things caught my eye this time: the hyperdatabase and nosy lists. A hyperdatabase seems just like the RDF databases I&#8217;m building, except with some more structure. It&#8217;s great that Ka-Ping came to the same requirement as I did, perhaps he got it from hanging out with the Xanadu folks, who did things the same way as RDF.</p>
+
+<p>Nosy lists, on the other hand, are an interesting model for email lists I hadn&#8217;t thought of. Every time you start a new thread/issue, it gets emailed to the whole list. But from then on a new &#8220;nosy list&#8221; is created. You&#8217;re subscribed to the nosy list by replying, making a comment on the web page for the thread, adding yourself to the list through the web page, or being cced to the list by someone else. From then on only people on the nosy list get messages in the thread. Ka-Ping writes &#8220;Nosy lists have actually been tried in practice, and their emergent properties have turned out to be very effective.&#8221; I certainly believe it! It&#8217;d be much easier to only have to listen to the threads I&#8217;m interested in, rather than having to delete all messages in the ones I&#8217;m not.</p>
+
+<p>Perhaps one day I&#8217;ll get nosy lists, zest and an RDF/hyperdatabase working and I&#8217;ll get to use all this cool stuff. </p>
+
+<p class="posted">posted August 14, 2002 03:39 PM (<a class="category" href="cat_technology">Technology</a>)  <a href="000507" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000505" title="rfc822 has no chance to survive. take your mime.">&laquo; prev</a> | <a href="./">up</a> | <a href="000508" title="Full Tilt for Software Freedom">next &raquo;</a></p>
+
+<p><a href="000501">Dr. Suess Enterprises In Favor of Perpetual Copyright</a><br />
+<a href="000502">Other Amici Claims</a><br />
+<a href="000503">US Locks Up US Citizens With No Process!</a><br />
+<a href="000504">Make Mozilla Money Fast!</a><br />
+<a href="000505">rfc822 has no chance to survive. take your mime.</a><br />
+<strong>Yee-Haw! Roundup time!</strong><br />
+<a href="000508">Full Tilt for Software Freedom</a><br />
+<a href="000509">The Search for Sight</a><br />
+<a href="000511">book publisher is chinese household</a><br />
+<a href="000512">James Valenti, 81 103 103 197 224 0</a><br />
+<a href="000513">Dr. Suess is Fifth Highest Grossing Dead Celebrity</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Is the DMCA a scam? (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Is the DMCA a scam?</h1>
+
+<p>I received my first DMCA takedown notice today. I published publicly-available IRS information about the nonprofit Kwaze-Kwasa [USA] Inc. Kwaze-Kwasa sent a letter to my ISP asking that it be taken down. I do not know why they want to keep this public information off the Internet, but I do know that the law lets them.</p>
+
+<p>For those who aren&#8217;t familiar, the Digital Millennium Copyright Act contained a section known as OCILLA (distinct from its also-famous anticircumvention provisions) that regulates publishing copyrighted material online.</p>
+
+<p>There are three big parties with interests in this subject: copyright holders, who want strong tools to keep copyrighted material offline; ISPs, who don&#8217;t want copyright law to apply to them&#8217; and Internet users, who want to be able to publish and read interesting content. OCILLA was largely written by ISPs and pretty much maximizes their interests at the expense of copyright holders and users.</p>
+
+<p>I&#8217;m very glad that copyright holders get the short end of the stick &#8212; they want to modify the law to make sites like YouTube illegal, just because some people upload copyrighted material to it. If they had their way, websites based around user-generated content would pretty much be impossible.</p>
+
+<p>But I am frustrated the law doesn&#8217;t do enough for users. The takedown notice I was sent was obviously bogus &#8212; it didn&#8217;t even allege a copyright violation, since the information I published wasn&#8217;t even copyrightable (it was all basic facts and statistics published by the US government). Yet my ISP informed me that if I didn&#8217;t take the page down, they&#8217;d take my entire website offline. And they have to do that because if they don&#8217;t, they can be sued under the copyright law and could face very heavy penalties.</p>
+
+<p>To get the page backup, I have to swear under penalty of perjury that I think the takedown was a mistake (yet the sender of a takedown does not have to swear that they think the takedown is valid!), consent to a lawsuit if the sender disagrees, and wait two weeks. Two weeks!</p>
+
+<p>In short, the DMCA lets you get any page taken off the Internet for two weeks. This isn&#8217;t just a law itching for abuse; it&#8217;s a law being abused.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">November 14, 2009</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>Hi Aaron,</p>
+
+<p>I have sent a few DMCA notices in the past and the sender of a takedown does have to swear under penalty of perjury.</p>
+
+<p>If the DMCA you received is bogus you can probably fire back. Talk to a lawyer.</p>
+
+<p>http://www.mcanerin.com/EN/articles/copyright-03.asp</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://panospace.wordpress.com/">Yuval Levy</a>
+ on November 14, 2009 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>Yeah, the takedown sender does have to declare, under penalty of perjury, that they own the copyright to the work in question (&#8220;authorized to act on behalf&#8221; of the copyright owner, to be precise).</p>
+
+<p>If Kwaze-Kwasa sent a takedown notice over &#8220;publicly-available IRS information&#8221;, and you have a &#8220;good faith belief&#8221; that they made a &#8220;mistake or misidentification of the material,&#8221; then feel free to counter-swear. And try to get them into court if you can. They can explain to a judge why they committed perjury.</p>
+
+<p>And yes, if the ISP wants to remain non-liable under section 512, they do need to wait at least 10 business days (and not more than 14) after your counter-notice before they restore the material in question. Yep, it&#8217;s a horrible law.</p>
+
+<p>http://www.law.cornell.edu/uscode/17/usc_sec_17_00000512&#8212;&#8212;000-.html</p>
+
+<p>To be effective under this subsection, a notification of claimed infringement must be a written communication provided to the designated agent of a service provider that includes substantially the following: [&#8230;] A statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.</p>
+
+<p>http://yro.slashdot.org/story/05/11/24/133226/DMCA-Abuse-Widespread</p>
+
+<p class="posted">posted by Jamie McCarthy
+ on November 14, 2009 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>Hi Aaron,
+If you had read the feedback we posted on your site you&#8217;d know what law you were breaking by publishing the information. You ignored our friendly request to remove one part of the information that may not be freely published. When you did not respond to feedback on your site, calls to the telephone number you provide, and e-mails; you left us, on the advice of the IRS  fraud department (who will be contacting you as well), no option but to issue a take down request. When you receive a copy of the DMCA letter or peruse your feedback you will know what the problem is it is very clearly stated &#8230; or contact us &#8230; we friendly and only did DCMA as a last resort and did swear under perjury what the problem is.</p>
+
+<p class="posted">posted by Rob
+ on November 14, 2009 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>You only have to swear that you&#8217;re the copyright holder, you don&#8217;t have to swear that you think the copyrighted material was infringed. So I can takedown your website for it copying my blog and all I have to do is swear that I hold the copyright to my blog, I don&#8217;t have to swear that I think you copied it.</p>
+
+<p>Rob: Please show me something that says employer identification numbers are private information. The IRS <a href="http://www.irs.gov/taxstats/charitablestats/article/0,,id=97186,00.html" rel="nofollow">puts them all online</a>! Are you going to threaten the IRS too?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on November 15, 2009 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>We are working with the IRS &#8230; they do not publish SSN or EIN &#8230; publish means anyone can view &#8230; no one can go to the IRS website and view SSN or EIN information. You are downloading or searching the files they make availble for the public to check the credentials of any public nonprofit and then re-publishing that information for anyone to view. The IRS confirms and states to us that is illegal &#8230; as we said before we have no qualms about you publishing all the information except for the EIN as we have no business relationship and have not given you the information or the permission to publish it and neither has the IRS. I don&#8217;t believe you have any malicious intent towards us but many cyber criminals out there are forever phishing and setting up scams &#8230; we are trying to be good citizens in protecting ourselves and others against fraud that could be done in our name using our EIN. We will protect and enforce our rights not to have our EIN published by a third party.</p>
+
+<p class="posted">posted by Rob
+ on November 15, 2009 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c6">
+<p>I&#8217;m not sure what convoluted law this &#8220;Rob&#8221; has in mind, but I can tell that he is confused.</p>
+
+<p>He seems to be confused because in one sentence he says &#8220;publish means anyone can view&#8221; &#8212; he even confirms that the IRS makes EIN-containing files &#8220;availble [sic] for the public&#8221; &#8212; and then goes on to accuse Aaron of &#8220;re-publishing that information for anyone to view.&#8221;</p>
+
+<p>&#8220;Rob&#8221; seems to have already admitted that the information is already available to the public, and that the IRS has already published it for anyone to view. I guess we&#8217;ll leave the legal questions up to the lawyers, but in commonsense terms, it&#8217;s easy to see that &#8220;Rob&#8221; is the one blowing smoke here.</p>
+
+<p class="posted">posted by JeffMo
+ on November 29, 2009 <a href="#c6" rel="bookmark">#</a></p>
+</div>
+<div id="c7">
+<p>Rob, I don’t think you understand. All anyone has to do is download this file:
+http://www.irs.gov/pub/irs-soi/eo_co.exe</p>
+
+<p>which includes all of the EINs for employers in Colorado.</p>
+
+<p>Then they can search for “KWAZE-KWASA” to find this line:
+http://pastebin.com/f73eaa1c3</p>
+
+<p>This information is already “public,” and <em>definitely</em> not copyrightable.</p>
+
+<p class="posted">posted by Jacob Rus
+ on November 29, 2009 <a href="#c7" rel="bookmark">#</a></p>
+</div>
+<div id="c10">
+<p>Rob&#8217;s clueless.</p>
+
+<p>Publish, verb transitive: \
+1.  To prepare and issue (printed material) for public distribution or sale.
+2. To bring to the public attention; announce.</p>
+
+<p>&#8220;no one can go to the IRS website and view SSN or EIN information.&#8221;</p>
+
+<p>Except I&#8217;m on the IRS website and viewing the EIN information for my former employers THIS VERY MOMENT, plus MY OWN BUSINESS. Are you blind, or stupid? EINs are public and printed directly on your tax returns, fool. Anybody could dig thru the trash and find out a company&#8217;s EIN.</p>
+
+<p>The IRS is stupid, you&#8217;re stupid, and this bullshit needs to stop. If it doesn&#8217;t stop, I&#8217;m going to make it stop, and when I had to go up against Electronic Arts to get the bullshit to stop, THEY PAID A HEAVY PRICE.</p>
+
+<p>You want to dance, I hope you&#8217;re prepared to do the devil&#8217;s tango. Your lawyers are just fresh meat to me.</p>
+
+<p class="posted">posted by Alex McQuown
+ on November 29, 2009 <a href="#c10" rel="bookmark">#</a></p>
+</div>
+<div id="c11">
+<p>I&#8217;m curious the information about the non-profit group Kwaze-Kwasa (USA) Inc. Did you find their filing for non profit status questionable?</p>
+
+<p>What does the group do that drew your attention?</p>
+
+<p>Other than send &#8216;take down&#8217; letters - what are they invovled with?</p>
+
+<p class="posted">posted by Dakota Harrison
+ on November 29, 2009 <a href="#c11" rel="bookmark">#</a></p>
+</div>
+<div id="c17">
+<p>@Rob - yes they do publish EIN information. You also neglected to respond to the link Aaron provided. Additionally, this information has been posted to wikileaks (not by me, but easily found searching kwaze-kwasa)- good luck getting it removed by them.</p>
+
+<p class="posted">posted by Cabe
+ on November 30, 2009 <a href="#c17" rel="bookmark">#</a></p>
+</div>
+<div id="c18">
+<p>&#8220;The IRS confirms and states to us that is illegal&#8221;</p>
+
+<p>Really? I would like that IRS agent&#8217;s name, please. They obviously are not fit for their job if they do not know basic information like that.</p>
+
+<p class="posted">posted by Alex McQuown
+ on November 30, 2009 <a href="#c18" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="kwaze-kwasa" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

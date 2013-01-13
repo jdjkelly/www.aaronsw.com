@@ -1,0 +1,12 @@
+
+#  Notation3 generation by
+#       notation3.py,v 1.88 2001/08/30 21:21:00 connolly Exp
+
+#   Base was: fakeroo:j8d8sd9
+     @prefix : <irc://localhost/#> .
+     @prefix cr: <irc://localhost/foo#> .
+    
+    :cert1     :issuer  [
+             cr:SHA "TLCgPLFlGTzgUbcaYLW8kGTEnUk=" ] .
+    
+#ENDS

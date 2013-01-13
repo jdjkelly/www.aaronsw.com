@@ -1,0 +1,447 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Markdown (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/001189.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001188" title="President Bush: Why Can&#8217;t He Stop Lying?" />	<link rel="next" href="001190" title="Shorter Richard Clarke" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Markdown</h1>
+</div>
+
+<div class="content">
+<p>For months I&#8217;ve been working with John Gruber on a new project. The idea was to make writing simple web pages, and especially weblog entries, as easy as writing an email, by allowing you to use much the same syntax and converting it automatically into HTML. </p>
+
+<p>Together we pored over the syntax details from top to bottom, trying to develop the perfect format, and I think we&#8217;ve got something pretty darn great. We&#8217;ve tested it extensively: on our blogs, in my comments form, in our emails. It&#8217;s all worked amazingly well.</p>
+
+<p>The format, and John Gruber&#8217;s perl implementation of it, is called Markdown. I highly recommend it. It plugs right into Movable Type and makes writing entries so much easier and fun.</p>
+
+<ul>
+<li><a href="http://daringfireball.net/projects/markdown/">Official Website</a></li>
+<li><a href="http://daringfireball.net/2004/03/dive&#95;into&#95;markdown">Gruber Manifesto</a></li>
+</ul>
+
+<p>As John was getting ready to release, I did <a href="http://www.aaronsw.com/weblog/000918">another couple-hour project</a> and wrote the software to go in reverse: to take HTML and turn it back into Markdown. It&#8217;s just a first alpha draft, but it seems to handle everything I&#8217;ve thrown at it. (If you run into problems, please let me know.)</p>
+
+<ul>
+<li><a href="http://www.aaronsw.com/2002/html2text/">html2text</a></li>
+</ul>
+
+<p>Both projects are free software, available under the GNU GPL. <em>Share and enjoy!</em></p>
+
+<p class="posted">posted March 19, 2004 05:36 PM (<a class="category" href="cat_technology">Technology</a>) (<a href="#comments">26 comments</a>) <a href="001189" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001188" title="President Bush: Why Can&#8217;t He Stop Lying?">&laquo; prev</a> | <a href="./">up</a> | <a href="001190" title="Shorter Richard Clarke">next &raquo;</a></p>
+
+<p><a href="001177">San Francisco Protects the Freedom to Marry</a><br />
+<a href="001179">Sue for Freedom: Saving Steamboat Roy</a><br />
+<a href="001185">Shorter Tom DeLay</a><br />
+<a href="001187">Wonderfalls</a><br />
+<a href="001188">President Bush: Why Can&#8217;t He Stop Lying?</a><br />
+<strong>Markdown</strong><br />
+<a href="001190">Shorter Richard Clarke</a><br />
+<a href="001191">Against All Enemies: The Movie</a><br />
+<a href="001193">How iTMS Works</a><br />
+<a href="001194">Free Culture Wiki: Piracy Hits a New Low</a><br />
+</p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c726">
+
+<p>Why does Markdown even exist?  What&#8217;s wrong with reStructuredText?</p>
+
+<p class="posted">posted by <a href="http://bob.pycs.net/">Bob Ippolito</a> at March 19, 2004 06:54 PM <a href="#c726">#</a></p>
+
+</div><div id="c728">
+
+<p>Is there a Python version of Markdown in existence?</p>
+
+<p class="posted">posted by <a href="http://xian.mintchaos.com">Xian</a> at March 19, 2004 09:09 PM <a href="#c728">#</a></p>
+
+</div><div id="c729">
+
+<p>And what about Textile?</p>
+
+<p class="posted">posted by <a href="http://www.johnzeratsky.com">jazer</a> at March 19, 2004 10:03 PM <a href="#c729">#</a></p>
+
+</div><div id="c730">
+
+<p>I dig it. </p>
+
+<p>In response to the question about reStructuredText, I would just point out the contrast between these two documents:  </p>
+
+<ul>
+<li><a href="http://docutils.sourceforge.net/docs/rst/quickstart.txt">reStructuredText primer in reStructuredText format</a>  </li>
+<li><a href="http://www.aaronsw.com/2002/html2text/?url=http%3A%2F%2Fdocutils.sourceforge.net%2Fdocs%2Frst%2Fquickstart.html">reStructuredText primer in Markdown format</a> (via html2text)</li>
+</ul>
+
+<p>The Markdown format is a lot easier to read, and probably a lot easier to write.  The HTML output from passing that html2text text back through Markdown is a little different than the original HTML document, but I don&#8217;t think it would be difficult to get it back to nearly the same result.  The point is the difference between producing a piece of writing and creating an HTML document.  Having to do the first by also doing the second is tedious.</p>
+
+<p>I also dig that Markdown.pl works as a blosxom plugin out of the box. (Btw, if you use the writeback plugin, I have a 1 line diff for adding Markdown support to user writebacks <a href="http://greg.vario.us/software/writeback.patch">here</a>.)</p>
+
+<p class="posted">posted by <a href="http://greg.vario.us">Greg</a> at March 20, 2004 01:15 AM <a href="#c730">#</a></p>
+
+</div><div id="c734">
+
+<p>Are you guys aware of YAML?</p>
+
+<p>I took the &#8220;learn YAML in 5 minutes&#8221; experiment, and it took me around 4.5 minutes, if I recall correctly.</p>
+
+<p>I liked it!</p>
+
+<p>Looking forward to using more markdown/yaml &#8216;ish stuff&#8230;</p>
+
+<p class="posted">posted by <a href="http://zooko.com/log.html">Zooko</a> at March 20, 2004 05:48 AM <a href="#c734">#</a></p>
+
+</div><div id="c735">
+
+<p>Here&#8217;s  <a href="http://www.aaronsw.com/2002/html2text/?url=http%3A%2F%2Fzooko.com%2Flog.html">
+my asciinated web log
+</a>.  (Here&#8217;s <a href="http://zooko.com/log.html">the original</a>.)</p>
+
+<p>I wonder what it will look like when I run markdown to htmlify it.</p>
+
+<p>Would you rather receive the ASCII version in e-mail than read my web page?  I guess I should learn how to do RSS feeds&#8230;</p>
+
+<p class="posted">posted by  at March 20, 2004 05:54 AM <a href="#c735">#</a></p>
+
+</div><div id="c736">
+
+<p>You can write reStructuredText just about as lazily as you can write Markdown.  The comparison you make is a bad example, the source reST document has a lot of metadata, which means more markup, but it makes the output more flexible (i.e. a table of contents that makes sense could be automatically generated).  </p>
+
+<p>Also, a lot of the markup is taken out by the markdown converter because the links are numbered instead of named.. which isn&#8217;t something a human would probably do for a document with 42 links!</p>
+
+<p>If you take the metadata out of the reST document, or put it into the Markdown document (i.e. name the links, if that&#8217;s possible), the documents become largely equivalent in readability and writability.  However, the reST markup has been around much longer, has much more software that uses it, stable and complete APIs are available for Python and Perl (probably others), has outputs other than html, and it&#8217;s <em>designed for extensibility</em>.  For example, you can add arbitrary new types of blocks with &#8220;plugins&#8221;&#8230; you know, for those times where you&#8217;re writing something other than a weblog.</p>
+
+<p class="posted">posted by <a href="http://bob.pycs.net/">Bob Ippolito</a> at March 20, 2004 07:07 AM <a href="#c736">#</a></p>
+
+</div><div id="c738">
+
+<blockquote>
+	<p>If you take the metadata out of the reST document, or put it into the Markdown document (i.e. name the links, if that’s possible), the documents become <em>largely equivalent in readability and writability</em>.</p>
+</blockquote>
+
+<p>Perhaps, (and perhaps the example is unfair) but the point is that Markdown is made for the purpose of writing for publication on the web without knowing any syntax necessarily.  Its un-syntax is the point.  It makes it easy for an email-savvy, weblog-savvy, HTML-unsavvy person to get their words on the page.  I think that Markdown is better suited for that (its purpose) than reST is.  The comparison between the documents was to point out the syntax differences: nobody writes an email like reST, whereas the Markdown source could have been sent as an email just fine.  If written by hand the links would certainly have been named rather than numbered.</p>
+
+<p>The <a href="http://daringfireball.net/2004/03/dive&#95;into&#95;markdown">Dive into Markdown</a> article is worth reading.</p>
+
+<p>(Btw, reST seems great for other purposes, especially writing documentation.  Is there an extension for converting to Docbook? If so I may have to learn more about it. It may even have been a good weblog/discussion board post writing formatter, but I&#8217;ve never seen it used as such.)</p>
+
+<p class="posted">posted by <a href="http://greg.vario.us">Gregory</a> at March 20, 2004 10:57 AM <a href="#c738">#</a></p>
+
+</div><div id="c740">
+
+<p>I&#8217;m actually working on a similar markup tool, spurred by my frustration with the existing &#8216;simple&#8217; tools - reStructuredText, Textile, etc.  They&#8217;re good tools, but the markup leans towards complex, considering their stated goals.  That&#8217;s my opinion of course, but I dream of a simpler tool. </p>
+
+<p>Markdown looks to have some interesting possibilities, I&#8217;m interested to see where it goes.  I&#8217;m always amazed at how many people are attacking similar problems at the same time :)</p>
+
+<p>My 2 bits is that plain markup tools need to do more magic.   Tools in general do, but markup tools should make specific markup tasks easier.  I have dreams of generating graphs from ascii art or from included csv data, auto-formatting recipes, colourizing source code (automatically of course) and the like.  </p>
+
+<p class="posted">posted by <a href="http://warpedvisions.org">mx</a> at March 20, 2004 11:54 AM <a href="#c740">#</a></p>
+
+</div><div id="c742">
+
+<p>My god, this is too cool&#8230; thank you.</p>
+
+<p class="posted">posted by <a href="http://pobox.com/~joehall/nqb/">joe</a> at March 20, 2004 01:27 PM <a href="#c742">#</a></p>
+
+</div><div id="c743">
+
+<p>It seems to me that a user of a weblog software package will know HTML but the chances are much smaller a user will know a recently-invented meta-language.</p>
+
+<p>Plus, HTML is a widely accepted standard that is useful in other contexts, whereas a new metalanguage only has one application (so far, granted).</p>
+
+<p>If the user has a choice of learning something that is applicable one place and something that is applicable many places, wouldn&#8217;t they opt for learning something applicable in many places?</p>
+
+<p>HTML&#8217;s b, i, img, a href, h2, h3, p, br tags are all one really needs, and it doesn&#8217;t seem that hard to wrap things in &lt; and >&#8230;</p>
+
+<p class="posted">posted by <a href="http://www.dominik.net/">Dominik Rabiej</a> at March 20, 2004 02:28 PM <a href="#c743">#</a></p>
+
+</div><div id="c744">
+
+<p>I find it strange not to find the word Wiki anywhere on the Markdown Site. Sure there have been ascii2html formatters before but not as divers or widely used. This created a lot of discussion which might have saved you a lot of figuring.</p>
+
+<p>Example? Starting every line with &#8220;either 4 spaces or one tab&#8221; only works with good editors, so most Wikis abolished it long ago.</p>
+
+<p class="posted">posted by Tobias Weber at March 20, 2004 02:35 PM <a href="#c744">#</a></p>
+
+</div><div id="c745">
+
+<p>I fail to see the huge benefits over ReST. Sure, I&#8217;m the author of the ReST Primer, but really, looking at them, I can&#8217;t see it. To be honest, some of the Markdown stuff looks&#8230; well, how is:</p>
+
+<pre># [Structure][11]</pre>
+
+<p>better than</p>
+
+<pre>Structure
+---------</pre>
+
+<p>as a heading? I dunno.</p>
+
+<p>Anyway, why not just plug in <a href="http://epoz.sourceforge.net/">Epoz</a> and be done away with all this cryptic editing altogether :)</p>
+
+<p class="posted">posted by <a href="http://mechanicalcat.net/richard/log">Richard</a> at March 20, 2004 04:04 PM <a href="#c745">#</a></p>
+
+</div><div id="c746">
+
+<p>yes, reStructuredText can do docbook.</p>
+
+<p>I have written structured emails in reStructuredText format, and sent them to people who have no knowledge of HTML syntax, reST, Python, etc. and they had no problem understanding it.</p>
+
+<p>For the simple stuff (bold, italics, sections, etc.) reST basically is what you would write in an email (assuming monospace font).</p>
+
+<p class="posted">posted by <a href="http://bob.pycs.net/">Bob Ippolito</a> at March 20, 2004 04:19 PM <a href="#c746">#</a></p>
+
+</div><div id="c747">
+
+<p>John, Aaron: I. Love. You. Guys! Thank you so much for Markdown.</p>
+
+<p>I&#8217;ve never understood why people liked the cryptic, feature-bloated syntax of most Wiki packages (and Textile too) better than just writing plain HTML. Markdown seems <em>so</em> natural in comparison, and I particularily love the way you allow a mixture of ordinary HTML and Markdown syntax within the same file, and the intelligent handling of code examples and character escaping. Those are Markdown&#8217;s killer features IMO.</p>
+
+<p>I think most Wikis (including the Wikipedia) could benefit greatly if they adopted Markdown as their default syntax option.</p>
+
+<p class="posted">posted by <a href="http://mar.anomy.net/">Már</a> at March 20, 2004 08:19 PM <a href="#c747">#</a></p>
+
+</div><div id="c753">
+
+<p>Just a teeny little nitpick: &#8220;available under the GNU GPL&#8221; is a little redundant. The only GPL is the GNU GPL. It&#8217;s like saying &#8220;the Manhattan in New York&#8221;, or &#8220;Boeing&#8217;s 747&#8221;.</p>
+
+<p class="posted">posted by  at March 21, 2004 11:08 PM <a href="#c753">#</a></p>
+
+</div><div id="c754">
+
+<p>Actually, there&#8217;s <a href="http://www.affero.org/oagpl.html">the Affero GPL</a>, <a href="http://www.opensource.org/licenses/nethack.php">the nethack GPL</a>, and probably others. Even if there were no others, it&#8217;s not unlikely that someone may come up with a &#8220;General Public License&#8221; in the future, so it&#8217;s good to distinguish.</p>
+
+<p class="posted">posted by <a href="http://www.aaronsw.com/">Aaron Swartz</a> at March 22, 2004 12:02 AM <a href="#c754">#</a></p>
+
+</div><div id="c755">
+
+<p>Bob Ippolito wrote:</p>
+
+<blockquote>
+	<p>Why does Markdown even exist? What’s wrong with reStructuredText?</p>
+</blockquote>
+
+<p>Why so touchy?</p>
+
+<p>Is there a Perl implementation of reST, or a Movable Type single-file plug-in wrapper? As far as I&#8217;m aware, no. So, even without any arguments about reST&#8217;s syntax, I just don&#8217;t see how one could argue that I could have just used reST.</p>
+
+<p>And if I was going to write my own code, there was no way I was going to write code to re-implement reST&#8217;s rather large feature set. I&#8217;m much too lazy.</p>
+
+<p>I&#8217;ll happily admit that I was inspired by a few bits and pieces of reST&#8217;s syntax, but to be honest, when I was at the point of deciding whether I should write something new or just use an existing formatting syntax, reST wasn&#8217;t even in the running. To me, the best parts of reST are the parts it borrowed from Setext.</p>
+
+<p class="posted">posted by <a href="http://daringfireball.net/">John Gruber</a> at March 22, 2004 12:12 AM <a href="#c755">#</a></p>
+
+</div><div id="c756">
+
+<p>My major complaint about reST is that it requires documents be filled with all sorts of magic _s and :s  and ..s and other nonsense &#8212; Markdown seems much cleaner to me. (I also don&#8217;t like reST&#8217;s section syntax.) When I come across a reST document (and I&#8217;ve come across a number in Python work), it immediate screams &#8220;something is going on here&#8221;, whereas Markdown is readable, and often undistinguishable from a normal email.</p>
+
+<p>I&#8217;m not sure that reST&#8217;s age or increased set of software buys it anything &#8212; a format only needs one parser to be useful. I&#8217;ve never had much need for formats other than HTML and text. Markdown has already been extended (e.g. through SmartyPants) via its low-tech extension interface.</p>
+
+<p class="posted">posted by <a href="http://www.aaronsw.com/">Aaron Swartz</a> at March 22, 2004 12:23 AM <a href="#c756">#</a></p>
+
+</div><div id="c757">
+
+<blockquote>
+	<p>Is there a Python version of Markdown in existence?</p>
+</blockquote>
+
+<p>No, but it&#8217;s easy to call the Perl script from Python:</p>
+
+<pre>import os
+def markdown(text):
+    i, o = os.popen2("perl Markdown.pl") # let the Perl code take it
+    i.write(text); i.close()
+    return o.read()
+</pre>
+
+<p class="posted">posted by <a href="http://www.aaronsw.com/">Aaron Swartz</a> at March 22, 2004 12:23 AM <a href="#c757">#</a></p>
+
+</div><div id="c758">
+
+<p>By the way, Nick Moffitt implemented a similar idea called <a HREF="http://cvs.lnx-bbc.org/cvs/*checkout*/gar/tron.awk?rev=HEAD&amp;content-type=text/plain">tron</a> in awk, for use in formatting some documentation pages for the <a HREF="http://www.lnx-bbc.org/">LNX-BBC</a> project.  I&#8217;ve never used it, but it seemed to be pretty similar in concept to your project.</p>
+
+<p class="posted">posted by <a href="http://vitanuova.loyalty.org/">Seth Schoen</a> at March 22, 2004 01:08 AM <a href="#c758">#</a></p>
+
+</div><div id="c761">
+
+<p>Is anyone working on a PHP implementation of Markdown? I&#8217;d like to try Markdown on my personal weblog/wiki system, but the external process solution suggested above is a bit too heavy for my needs.</p>
+
+<p>I can offer help in testing and fixing bugs if someone has already started. Otherwise I&#8217;ll probably write the PHP version myself.</p>
+
+<p>PS. Any ideas on using Markdown as wiki markup? Would it be better to support wiki-links (CamelCase, brackets, or other some mechanism) as a pre- or post-processing step, or to integrate wiki support directly in Markdown?</p>
+
+<p class="posted">posted by <a href="mailto:hukka@iki.fi">Jukka Zitting</a> at March 22, 2004 04:52 AM <a href="#c761">#</a></p>
+
+</div><div id="c762">
+
+<p>I&#8217;m working on a Markdown wiki. My current plan is to use [[double brackets]] as the Wiki syntax, ala MediaWiki (Wikipedia). I&#8217;ll probably do this in postprocessing, avoiding &lt;pre&gt; and &lt;code&gt; tags.</p>
+
+<p>I&#8217;m not too worried about calling out to a separate process &#8212; it&#8217;s pretty cheap most of the time. If it actually does become a bottleneck, you can pretty easily switch to a server-client model. Having Markdown in your favorite language, while nice, is probably not the best use of time.</p>
+
+<p class="posted">posted by <a href="http://www.aaronsw.com/">Aaron Swartz</a> at March 22, 2004 10:53 AM <a href="#c762">#</a></p>
+
+</div><div id="c764">
+
+<blockquote>
+	<p>Is anyone working on a PHP implementation of Markdown?</p>
+</blockquote>
+
+<p>I am not.</p>
+
+<p>But I&#8217;ve received email from several people who say they&#8217;d like to port it. If anyone is successful, I&#8217;d be delighted, and I&#8217;ll certainly link to the port(s) from Daring Fireball.</p>
+
+<p>My best guess, however, is that a PHP or Python port would require a bit more engineering than a simple Perl-to-<em>foo</em> translation. I suspect certain of the Perl idioms (especially advanced regex substitutions) I use in Markdown.pl can&#8217;t be directly translated to either PHP or Python. In other words, I think it&#8217;d need to be rewritten in another language, not merely translated.</p>
+
+<p class="posted">posted by <a href="http://daringfireball.net/">John Gruber</a> at March 22, 2004 01:00 PM <a href="#c764">#</a></p>
+
+</div><div id="c776">
+
+<blockquote>My current plan is to use [[double brackets]] as the Wiki syntax.</blockquote>
+
+<p>Wouldn&#8217;t it make sense to just use the [single bracket][SingleBracket] syntax that Markdown already uses and just process wiki links after Markdown. Since all non-existing Markdown link brackets  are still in the document after processing. That would keep it from adding a whole new concept.</p>
+
+<p>You sould even use the [empty single bracket][] syntax for self-referencing wiki links.</p>
+
+<p>Also, do you foresee any problems with Markdown&#8217;s indentation in webforms? On OSX with text extras indention is handled nicely, but on many browsers/systems it is not.</p>
+
+<p class="posted">posted by <a href="http://xian.mintchaos.com">Xian</a> at March 22, 2004 04:59 PM <a href="#c776">#</a></p>
+
+</div><div id="c811">
+
+<p>Comparing rest to markdown primer. In the first four lines the following were different.</p>
+
+<p>No footnote on Contents
+The Author and Version don&#8217;t appear to be semantic (i.e. it&#8217;s just text.. whatever happened to the semantic web)
+The ReST document includes auto replacements</p>
+
+<p>If you only want to use the basics of ReST do so but compare like for like. As for headers, the # bits look more like comments.</p>
+
+<p>In general I think it&#8217;s better to spend time extended, documenting or contributing to good existing projects rather than writing yet another version. In this case, an extension module for ReST or some better documentation could have acheived everything here, made ReST better and avoided wasted effort on two different projects</p>
+
+<p>although my main url is pollenation.net my blog is <a href="http://pollenation.net/journal/tim.php">here</a></p>
+
+<p class="posted">posted by <a href="http://www.pollenation.net">Tim Parkin</a> at March 28, 2004 10:28 AM <a href="#c811">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/001189.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/mt-comments.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1189" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /><br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

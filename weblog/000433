@@ -1,0 +1,61 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>[insert something witty here] (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000432" title="A cure for nearsightedness?" />	<link rel="next" href="000434" title="OSCON Bloggers" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>[insert something witty here]</h1>
+</div>
+
+<div class="content">
+<p><a href="http://www.jeremie.com/">Jeremie Miller of Jabber has a weblog.</a></p>
+
+<p>The Doctor (Demento) is in (on the radio).</p>
+
+<p><a href="http://ftp.arl.mil/~mike/ping.html">The <em>true</em> story of the PING program, by it&#8217;s author.</a> Even includes information on the famed book.</p>
+
+<p><a href="http://cvs.apache.org/viewcvs.cgi/ietf-uri/">The latest drafts of the URI spec are being kept in CVS.</a></p>
+
+<p><strong>Publish your hashes while you can.</strong> A number of P2P systems are being developed that key off of the SHA1 hash of a file and use that to locate a copy. The one problem is that there&#8217;s no way to search for a file hash. One solution would be to put up web pages with some word (the name of the P2P system, for example) and &#8220;hash&#8221; that listed file information along with the SHA1 hash. So you&#8217;d have a table that mapped from &#8220;Radiohead - Kid A&#8221; to dc7cd111a1d8bee1e7b33b23b8c1924ead69a383. Scripts to make these would be easy to write. Then, when you wanted a hash you could just search Google for &#8220;p2pservicename hash radiohead kid a&#8221; and you&#8217;d probably get the answer within the first few results. This would be hard to shut down because they&#8217;d need to come up with lists of all the infringing pages which requires human involvement.</p>
+
+<p>Argh! Just realized my mailer was wrapping my really cool .sig at 73 chars. I&#8217;ve taken out my last name to make it fit. :-(</p>
+
+<p>Mike Cohen points out that iTunes 3 generates a ~/Music/iTunes/iTunes Music Library.xml file which has your music database in XML. Neat.</p>
+
+<p>Woohoo! There&#8217;s a <a href="http://sourceforge.net/projects/zest/">Zest SourceForge project</a> and <a href="http://lists.sourceforge.net/lists/listinfo/zest-devel">mailing list</a>. Zest is the tool that makes cool mailing list archives like <a href="http://web.lfw.org/python/pydev-sample/">this sample from python-dev</a> and <a href="http://web.lfw.org/ping/e-archive/">this one from e-lang</a>. Ooh, there&#8217;s even <a href="http://cvs.sourceforge.net/cgi-bin/viewcvs.cgi/zest/zest/">code and docs in CVS</a>. I wonder what mailing lists I should try this on. I <a href="http://notabug.com/zest/p2p-hackers/">did a test on p2p-hackers</a> but it&#8217;s not as useful as it could be because it chokes on the full archive (so I only did this month) and they&#8217;re munging the addresses so you don&#8217;t get the names displayed.</p>
+
+<p>The <a href="http://www.sims.berkeley.edu/~ping/peep/">peephole display</a> movie by Ka-Ping is very cool. Combined with small gyroscopes (like those in <a href="http://www.media.mit.edu/resenv/danceshoe.html">the Media Lab dance shoe</a>) and a hold-and-reposition button like the mouse has I think this could actually make PDAs useful and usable to me. (Yet another reason to go to Berkeley&#8230;)</p>
+
+<p>Anyone else notice that iTunes 3 uses the new Jaguar tweaked UI elements? This seems odd to me because I thought that the UI elements were baked into the OS, not the app. </p>
+
+<p class="posted">posted July 21, 2002 11:04 AM (<a class="category" href="cat_others">Others</a>)  <a href="000433" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000432" title="A cure for nearsightedness?">&laquo; prev</a> | <a href="./">up</a> | <a href="000434" title="OSCON Bloggers">next &raquo;</a></p>
+
+<p><a href="000424">Reflections on the Keynote</a><br />
+<a href="000425">i&#8217;m not dead yet</a><br />
+<a href="000429">you may already have one</a><br />
+<a href="000431">loose clothes == loose morals</a><br />
+<a href="000432">A cure for nearsightedness?</a><br />
+<strong>[insert something witty here]</strong><br />
+<a href="000434">OSCON Bloggers</a><br />
+<a href="000435">everyone looks like me</a><br />
+<a href="000436">plane day</a><br />
+<a href="000437">free larry</a><br />
+<a href="000438">Larry Lessig: Freeing Culture</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

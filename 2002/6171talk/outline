@@ -1,0 +1,266 @@
+The Semantic Web (for Web Developers)
+Aaron Swartz <http://www.aaronsw.com>
+http://www.aaronsw.com/2002/6171talk/
+
+A Dream
+	"The aim would be to allow a place to be found for any information or reference which one felt was important, and a way of finding it afterwards."
+	 -- Tim Berners-Lee, 1989
+	    http://www.w3.org/History/1989/proposal.html
+	
+	[ten years later]
+	
+	"Now, miraculously, we have the Web. For the documents in our lives, everything is simple and smooth. But for data, we are still pre-Web." 
+	-- Tim Berners-Lee, 2001
+	   http://www.w3.org/DesignIssues/Business
+
+	Build a Web for data
+	Provide databases so machines can read them
+	Build a Google that supports SQL
+	
+Misconceptions
+	Myth: "Semantic Web" means that computers will _understand_ things
+		there are no more semantics here than in any XML file or protocol
+		computers aren't becoming intelligent or reading natural language
+		we're just moving structured databases around the Web
+		structuring the data is how we get computers to use it
+	
+	Myth: they're just doing 60s-style Artificial Intelligence
+		we're not trying to build an intelligent being
+		no more so than Google can pass the Turing Test
+		just putting it into a bigger database
+		
+	Myth: people have to enter all the data by hand
+		while lots of useful stuff is entered by people
+		more comes from databases and other such sources
+		lots of ways to get information without active annotation
+	
+Protocol (HTTP)
+	URLs / URIs can identify anything
+	web servers give you limited access to them
+
+	GET http://www.foo.org/bar HTTP/1.1
+	Authorization: Digest response="6629fae49393a05397450978507c4ef1"
+	Accept: text/x-dvi; q=.8; text/x-c
+	Accept-Encoding: compress, gzip
+	If-None-Match: "r2d2xxxx"
+	Cache-Control: max-age=800
+
+	
+	HTTP/1.1 200 OK
+	Last-Modified: Tue, 16 Apr 2002 15:17:18 GMT
+	ETag: "c3piozzzz"
+	Accept-Ranges: bytes
+	Content-MD5: 128d2bd193b5b91296d2ea67b3c4f601
+	Content-Type: text/html; charset=us-ascii
+	
+	body of the message
+
+	a few methods
+		GET:  tell me about X (returns a representation of X)
+		POST: tell X something for me (returns a URI for more info)
+		PUT:  update X (returns success or error)
+			first Web browser was also a Web editor, PUT saves to the server
+			AOLpress got this right too, now the only one left is Amaya
+	acting on a lot of Resources (identified by URIs)
+		Resources are concepts: cars, homepages, songs
+	cool properties
+		uses cryptographic hashes to avoid sending password in the clear
+		accept headers say what formats the client likes for versioning
+		If-None-Match allows for polling and saves bandwidth
+		accept-encoding for built-in compression
+		accept-ranges allows only portions of a file to be grabbed
+			(great for swarming MP3s)
+		content-md5 allows for message verification
+		
+Format (RDF)
+	Name things with URIs
+		people:		http://me.aaronsw.com/
+		concepts:	http://purl.org/dc/terms/modified
+		emergent:	uuid:04b749bf-3bb2-4dba-934c-c92c56b709df
+		persistent:	tag:sandro@world.std.org,2001-06-05:Taiko
+		secure:		esl:SHA1:AwUBO5...=ckCE:someName
+		URIs are general, expandable via schemes
+		But they still follow Zooko's Law:
+			Names can be Decentralized, Secure, Human-Memorizable: Choose Two
+			http://www.erights.org/elib/capability/images/zooko-triangle.gif
+	Make statements with "triples"
+		<Aaron> <name> "Aaron Swartz" .
+		<Aaron> <knows> <Philip> .
+		<Philip> <employer> <MIT> .
+		<MIT> <website> <http://web.mit.edu/> .
+		just like databases:
+		<primaryKey> <columnName> "field value" . 
+	Extended Syntax (Notation3)
+		@prefix p: <http://www.foo.org/namespace/> .
+		@prefix default <tag:aaronsw.com,2002:ns:> .
+		
+		p:John says { Dogs like Food } .
+		
+		p:Sally uses _:x . # _:x says make me a name.
+		_:x		name "Internet Explorer" .
+		_:x		homepage <http://www.microsoft.com/ie/> .
+		...
+Why's this better than XML?
+	http://www.w3.org/DesignIssues/RDF-XML
+	XML was designed for documents, not data
+		lots of ways to express the same data
+		
+		<author>           
+	     <uri>page</uri>
+	     <name>Ora</name>
+		</author>
+		
+		<document href="page">
+		   <author>Ora</author>
+		</document>
+		
+		<document href="http://www.w3.org/test/page" author="Ora" />
+		etc.
+		
+		all mean: <http://www.w3.org/test/page> <author> "Ora" .
+		
+		the xml "infoset" is very complex (attributes, entities, trees, PIs, comments), mapping between formats is done with XSLT (a turing-complete language)
+		we can throw most of it away
+	Triples have nice features
+		extensible:       old code ignores new data
+		self-documenting: just throw a URI to your browser
+	Of course, triples can be stored in XML if you like... it's just sorta ugly.
+Combined: Semantic Web Services
+	GET, POST and PUT triples
+		Event system
+		GET provides triples describing the event
+		  <e101> <title> "How to care for exotick plants" .
+		  <e101> <club> <bostonClub>
+		  <bostonClub> <title> "Boston Club" .
+		POST lets users add their signup information
+		  <e101> <attendee> <aaron> .
+		  <aaron> <name> "Aaron Swartz" .
+		  <aaron> <email> <mailto:me@aaronsw.com> .
+		PUT updates the event information
+		  <e101> <title> "How to Care for Exotic Plants" .
+	it all goes into a big database (sometimes called a store), just like html web apps
+Why is this better than SOAP or XML-RPC?
+	RPC and XML are tightly-coupled
+		- typed, breakage, complexity
+	GET/POST/PUT and triples are generic
+		+ generic cachers and crawlers work on GET, not POST
+		+ generic tools work on all RDF
+		+ self-documenting, easy to adapt
+		+ triples are easy to merge: just cat together
+	SOAP is bloated and ugly
+		<?xml version="1.0"?>
+		<SOAP-ENV:Envelope
+		    xmlns:xsi="http://www.w3.org/1999/XMLSchema-instance"
+		    xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/"
+		    xmlns:xsd="http://www.w3.org/1999/XMLSchema"
+		    SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"
+		    xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+		 <SOAP-ENV:Body>
+		  <ns:WhosOnlineResponse xmlns:ns="http://www.aduni.org/">
+		   <user>
+		    <first_names xsi:type="xsd:string">Eve</first_names>
+		    <last_name xsi:type="xsd:string">Andersson</last_name>
+		    <email xsi:type="xsd:string">eveander@arsdigita.com</email>
+		   </user>
+		  </ns:WhosOnlineResponse>
+		 </SOAP-ENV:Body>
+		</SOAP-ENV:Envelope>
+		
+		vs.
+		
+		@prefix default <http://www.aduni.org/> .
+		@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+		
+		user1000 rdf:type   User .
+		user1000 firstName "Eve" .
+		user1000 lastName  "Andersson" .
+		user1000 email     "eveander@arsdigita.com" .
+
+Assignment
+	Draw up an example scenario where Alex Greenspun wants to buy a copy of Travels with Samanatha. 
+		First he GETs information about isbn:1588750019 (returned in RDF)
+		Then he POSTs ordering information so he can purchase it
+		Finally he PUTs a reviews of a book
+	Sketch out the URIs and the RDF statements used.
+
+Possible Solution
+	GET isbn:1588750019
+	
+	<isbn:1588750019>	title "Travels with Samantha" .
+	<isbn:1588750019>	author a:PhilipGreenspun .
+	<isbn:1588750019>	pages "368" .
+	
+	POST isbn:1654653245
+	
+	<Alex> wantsToPurchase <isbn:1654653245> .
+	<Alex> name "Alex Greenspun" .
+	<Alex> creditCard _:x .
+	_:x		provider <Visa> .
+	_:x 	number "1234 5678 9101 1121" .
+	
+	PUT http://bookstore.example.com/book/1654653245/reviews/alexGreenspun
+	
+	<> title "I love this book!" .
+	<> author p:alexGreenspun .
+	<isbn:1654653245> rating "5" .
+	<> content "This book was great. I loved all the pictures of me." .
+
+The Semantic Frontier
+	Logic
+		Provide rules (code) for the system to take triples and create new ones.
+		Using symbolic logic, sort AIy
+		
+		Rule:
+			{ ?y :price ?z. ?z math:greaterThan "100". }
+			log:implies
+			{ ?y :shippingCost "0". }
+			
+			?foo is a free variable, can be anything
+			probably seen in math or logic, forAll and such
+		Inference:
+			SKU29833 price "250". "250" math:greaterThan "100".
+			SKU29833 shippingCost free.
+		
+		Inference Engines
+			Take in rules and data
+			Spit out some inferences
+			Like custom code, but usually easier to write and port
+			declarative programming, extension of a database
+		
+		Long Term
+			Application "logic" converted into rules
+			Other people can use it on their sets, discover new things
+			Whole world of inference engines, thinking live on the Web
+			
+		Example
+			sending a message to your great grandson
+				p:Aaron son _:z .
+				_:z son _:y .
+				_:y son _:x .
+				<Message> to _:x .
+
+				Inference engine knows your lineage and replaces this with:
+				<Message> to p:jo3eph .
+	Aggregation
+		combine lots of sources into one
+		google or plesh will provide unified interface
+			Google: crawling
+			Plesh: emergent networks, like gnutella
+		"Ask The Web"
+		
+	Security
+		who do you trust?
+			real life follows trust networks
+			tipping point, mavens
+		Web of Trust
+			lets you specify who you trust, who they trust, etc.
+		Digital Signatures
+			authenticate the information, no lying
+			end the DNS hierarchical stranglehold, open things up to be p2p
+			but still secure
+	
+Looking Forward
+	More data to play with
+	Cool apps to use it (SQL JOINs across websites!)
+	Individual semantic web "sites" become one big semantic web
+	Eventually, data becomes as available as documents

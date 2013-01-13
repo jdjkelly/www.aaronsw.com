@@ -1,0 +1,516 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>A Call for Science that Matters (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>A Call for Science that Matters</h1>
+
+<p>Ever see a study that makes you scratch your beard? Ever hear about a research result that makes you go &#8220;I wish everybody knew about this!&#8221;? Ever want to run into a congressman&#8217;s office and hit them over the head with a journal article? In this era of technological complexity and postmodern fiction, sometimes brain scans can reveal more about the human condition than a new novel. And yet, while the novels get detailed reviews in the <em>New York Times</em>, the best a research study is likely to get is an inaccurate description and some ambiguous quotes from the study&#8217;s authors.</p>
+
+<p>Well, here&#8217;s your chance to change that. In the comments, post your favorite study &#8212; the one that makes you sit up and say &#8220;wow, this result ought to change everything&#8221;. If you don&#8217;t mind, we&#8217;ll take the best to help fill up a new website we&#8217;re starting, collecting and sharing these new research results. (If you want to help us with the project, <a href="mailto:editors@sciencethatmatters.com">be sure to let us know!</a>)</p>
+
+<p>I&#8217;ll go first:</p>
+
+<p>In 1994, the RAND Corporation, a major US military think tank, conducted a massive study (with funding from the Office of National drug Control Policy, the US Army, and the Ford Foundation) to measure the effectiveness of various forms of preventing the use of illegal drugs, particularly cocaine.</p>
+
+<p>They analyzed a variety of popular methods and calculated how much it would cost to use each method to reduce cocaine consumption in the US by 1%. Source-country control &#8212; military programs to destroy drug production in countries like Peru, Bolivia, and Colombia &#8212; are not just devastating to poor third-world citizens; they&#8217;re also the least effective, costing $783 million for a 1% reduction. Interdiction &#8212; seizing the drugs at the border &#8212; is a much better deal, costing only $366 million. Domestic law enforcement &#8212; arresting drug dealers and such &#8212; is even better, at $246 million. But all of those are blown completely out of the water by the final option: funding treatment programs for drug addicts would reduce drug use by 1% at a cost of only $34 million.</p>
+
+<p>In other words, for every dollar spent on trying to stop drugs through source-country control, we could get the equivalent of twenty dollars benefit by spending the same money on treatment. This isn&#8217;t a bunch of hippy liberals saying this. This is a government think tank, sponsored by the US Army.</p>
+
+<ul>
+<li><a href="http://www.rand.org/pubs/monograph_reports/MR331/index2.html">Read the study</a></li>
+</ul>
+
+<p>OK, your turn.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">April 24, 2007</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>I think the study quoted in <a href="http://www.nytimes.com/2006/07/24/opinion/24gilbert.html?ei=5088&amp;en=d3e66404c34a3f4b&amp;ex=1311393600&amp;partner=rssnyt&amp;emc=rss&amp;pagewanted=all" rel="nofollow">this article</a> very interesting: &#8220;The researcher began the game by exerting a fixed amount of pressure on the first volunteer’s finger. The first volunteer was then asked to exert precisely the same amount of pressure on the second volunteer’s finger. The second volunteer was then asked to exert the same amount of pressure on the first volunteer’s finger. And so on. The two volunteers took turns applying equal amounts of pressure to each other’s fingers while the researchers measured the actual amount of pressure they applied.</p>
+
+<p>The results were striking. Although volunteers tried to respond to each other’s touches with equal force, they typically responded with about 40 percent more force than they had just experienced.&#8221;</p>
+
+<p class="posted">posted by David Hoeffer
+ on April 24, 2007 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>This <a href="http://www.nytimes.com/2003/12/14/magazine/14COINCIDENCE.html" rel="nofollow">older NYTimes article on coincidence theory</a> is very interesting if true, although hard to understand what is causing the variability in random number generation.</p>
+
+<p>&#8220;&#8230;<a href="http://en.wikipedia.org/wiki/Robert_G_Jahn" rel="nofollow">Robert G. Jahn</a>, a science and engineering professor at Princeton. Since 1979, Jahn had amassed a mountain of data demonstrating people&#8217;s ability to alter the outcome of a random event generator &#8212; essentially a machine designed to replicate a perfect coin toss over and over &#8212; in a minute but statistically significant way.&#8221;</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://graysky.org">Mike</a>
+ on April 24, 2007 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>I should mention others think the <a href="http://goodmath.blogspot.com/2006/04/bad-math-of-paranormal-research-pear.html" rel="nofollow"></a>. So maybe a counter-example of what you wanted in terms of good science making it into the NY Times ;-)</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://graysky.org">Mike</a>
+ on April 24, 2007 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>Oops, looks like ate the link. Meant to write some people consider the <a href="http://goodmath.blogspot.com/2006/04/bad-math-of-paranormal-research-pear.html" rel="nofollow">PEAR research very bogus</a>.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://graysky.org">Mike</a>
+ on April 24, 2007 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>No specific papers, but anything dealing with the power of placebos in medicine is very interesting.</p>
+
+<p class="posted">posted by Greg
+ on April 24, 2007 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c6">
+<blockquote>
+  <p>Extrapolating, &#8230;</p>
+</blockquote>
+
+<p>Except you can&#8217;t just extrapolate.  If you&#8217;re going to do this you should not use the findings to make bogus claims.  That&#8217;s just as bad as the NYT giving an &#8220;inaccurate description&#8221;.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://eurekaman.com">Rowan</a>
+ on April 24, 2007 <a href="#c6" rel="bookmark">#</a></p>
+</div>
+<div id="c7">
+<p>The Lancet <a href="http://www.thelancet.com/webfiles/images/journals/lancet/s0140673606694919.pdf" rel="nofollow">excess mortality</a> line of papers would indicate some important matter.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://talboito.com">talboito</a>
+ on April 24, 2007 <a href="#c7" rel="bookmark">#</a></p>
+</div>
+<div id="c8">
+<p>Recent study in quantum mechanics showing reality is overrated, thereby screwing over a large number of hidden-variable theories.</p>
+
+<p>http://www.nature.com/nature/journal/v446/n7138/abs/nature05677.html</p>
+
+<p class="posted">posted by itistoday
+ on April 25, 2007 <a href="#c8" rel="bookmark">#</a></p>
+</div>
+<div id="c9">
+<p>Donald Shoup&#8217;s <em>The High Price of Free Parking</em> (http://www.amazon.com/High-Cost-Free-Parking/dp/1884829988) explains how free street parking hurts our cities and our environment by poorly allocating a public good.</p>
+
+<p>See also Shoup&#8217;s NYT Op-Ed:
+http://www.nytimes.com/2007/03/29/opinion/29shoup.html?ex=1332820800&amp;en=cdab73e4e6c4a982&amp;ei=5090&amp;partner=rssuserland&amp;emc=rss</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://ktheory.com/">Aaron</a>
+ on April 25, 2007 <a href="#c9" rel="bookmark">#</a></p>
+</div>
+<div id="c10">
+<p>http://ruccs.rutgers.edu/ArchiveFolder/Research%20Group/Publications/Rethink/rethink.html</p>
+
+<p>Implication: humans are <em>not rational</em> in most of the things they do, they are merely moist robots (in Scott Adams&#8217; words). Misunderstanding this is what causes just about all of the problems in politics, religion, and personal relationships.</p>
+
+<p class="posted">posted by Andrey Fedorov
+ on April 25, 2007 <a href="#c10" rel="bookmark">#</a></p>
+</div>
+<div id="c11">
+<p>Good luck, it&#8217;s a noble cause.</p>
+
+<p>But given the amount of trouble I have conveying the general proposition &#8220;Everyone can&#8217;t be above average&#8221;, and the <em>implications</em> thereof, I have grown very bitter and cynical.</p>
+
+<p>I&#8217;d vote for some sort of primer on probability theory and how it interacts badly with human cognition, though I don&#8217;t have a short summary handy.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://sethf.com/">Seth Finkelstein</a>
+ on April 25, 2007 <a href="#c11" rel="bookmark">#</a></p>
+</div>
+<div id="c12">
+<p>Cancer Researchers Report Ability To Detect Cancer At Curable Stage</p>
+
+<p>http://www.curingdeath.com/Research/Cancer_Researchers_Report_Ability_To_Detect_Cancer_At_Curable_Stage.asp</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://physicshead.blogspot.com/">pH</a>
+ on April 25, 2007 <a href="#c12" rel="bookmark">#</a></p>
+</div>
+<div id="c13">
+<p>I&#8217;d vote for this; fast, broad-range visual machine categorization at a level comparable to humans.</p>
+
+<p>Overview:
+http://www.economist.com/science/displaystory.cfm?story_id=8954632</p>
+
+<p>Thomas Serre&#8217;s publications page (all downloadable). 
+http://web.mit.edu/serre/www/Publications.htm</p>
+
+<p>I haven&#8217;t read the papers to see how general they are and how much The Economist is hyping but, it sounds like an amazing start, at least.</p>
+
+<p class="posted">posted by AI Reader
+ on April 25, 2007 <a href="#c13" rel="bookmark">#</a></p>
+</div>
+<div id="c14">
+<p>A very simple test to separate out those who are incapable of abstract reasoning:</p>
+
+<p>http://www.codinghorror.com/blog/archives/000635.html</p>
+
+<p>If half of the students in a <em>programming</em> class are incapable of abstract reasoning (and will fail that class because of it), what does that say about the general population?</p>
+
+<p>Prescription: people incapable of abstract reasoning need to be made into second-class citizens, with absolutely no say in any important social, political or economic decisions. Nothing to say about pollution, energy, healthcare, tax policy, war, peace, not even the political system itself. Their judgement is provably no good.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://richardkulisz.blogspot.com">rk</a>
+ on April 25, 2007 <a href="#c14" rel="bookmark">#</a></p>
+</div>
+<div id="c15">
+<p>M. King Hubbert&#8217;s original paper on Nuclear Energy and the Fossil Fuels.</p>
+
+<p>http://www.energybulletin.net/13630.html</p>
+
+<p>we need to switch to nuclear ASAP. That means electric powered high speed trains, not trains. And subways, not automobiles.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://richardkulisz.blogspot.com/">rk</a>
+ on April 25, 2007 <a href="#c15" rel="bookmark">#</a></p>
+</div>
+<div id="c16">
+<p>http://www.physorg.com/news96002930.html</p>
+
+<p>this is really a statement of the obvious. But basically, cities are good and the larger they are the better. The more you share key infrastructure, the more efficiently you use your resources, the more surplus you leave for people to live the good life, the more leisure they have, the more time they have to innovate.</p>
+
+<p>We need to figure out ways to build downtowns like Paris instead of &#8220;growing&#8221; lots of tiny towns or decreasing urban density by plopping down commercial skyscrapers. Death to urban planners!</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://richardkulisz.blogspot.com">rk</a>
+ on April 25, 2007 <a href="#c16" rel="bookmark">#</a></p>
+</div>
+<div id="c17">
+<p>Trees reduce traffic accidents.</p>
+
+<p>http://www.newurbannews.com/ResearchTreesSep06.html</p>
+
+<p>The more trees (and other street furniture you have) on a street, the fewer accidents you have.</p>
+
+<p>Other results you can find: traffic signs generally increase the rate of accidents.</p>
+
+<p>http://carfree.com isn&#8217;t &#8220;science&#8221; so much as engineering, but basically, we KNOW how to build liveable cities. We&#8217;re just not doing it.</p>
+
+<p>Everything you know about building liveable cities is wrong! Death to urban planners!</p>
+
+<p class="posted">posted by rk
+ on April 25, 2007 <a href="#c17" rel="bookmark">#</a></p>
+</div>
+<div id="c18">
+<p>How to eliminate war and all other social ills, by eradicating child abuse:</p>
+
+<p>http://www.nospank.net/mcfrlnd.htm</p>
+
+<p>child abuse of any kind (including &#8220;spanking&#8221;) is condemned by pediatrics&#8217; associations.</p>
+
+<p class="posted">posted by rk
+ on April 25, 2007 <a href="#c18" rel="bookmark">#</a></p>
+</div>
+<div id="c19">
+<p>Any research into breastfeeding vs infant formula. And there&#8217;s lots of it available. Infant formula should be made illegal and its manufacturers thrown in jail.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://richardkulisz.blogspot.com">rk</a>
+ on April 25, 2007 <a href="#c19" rel="bookmark">#</a></p>
+</div>
+<div id="c20">
+<p>Research into the productivity of cooperatives versus corporations. IOW, social democracy versus white-collar totalitarianism.</p>
+
+<p>http://www.eurotrib.com/story/2007/2/24/7369/59357#22</p>
+
+<p>http://www.amazon.com/Seven-Day-Weekend-Changing-Work-Works/dp/1591840260</p>
+
+<p>Social democracy produces superior results according to every single metric. This is empirically proved. Corporations should be made illegal.</p>
+
+<p class="posted">posted by rk
+ on April 25, 2007 <a href="#c20" rel="bookmark">#</a></p>
+</div>
+<div id="c21">
+<p>What happened in Worgl, Austria at the height of the Great Depression. The imposition of demurrage to the currency lifted an entire region out of poverty. Until the bankers got scared and quashed it. Death to bankers!</p>
+
+<p>http://www.reinventingmoney.com/worglCurrDemurr.php</p>
+
+<p class="posted">posted by rk
+ on April 25, 2007 <a href="#c21" rel="bookmark">#</a></p>
+</div>
+<div id="c22">
+<p>Rand Study - re Science that matters</p>
+
+<p>the obvious tradeoff, unmentioned in your summary is the numbers of source-countrys vs the number of users.   and governments tend have more structured ways of dealing w/ peers (other governments) than with citizens.  couple this with a known tendency to have plausable deniability - &#8220;its the governments job&#8221; instead of each person being indivdually responsible, is in large measure a cost driver.  imho of course.</p>
+
+<p class="posted">posted by bill 
+ on April 25, 2007 <a href="#c22" rel="bookmark">#</a></p>
+</div>
+<div id="c23">
+<p>http://www.fastcompany.com/magazine/96/open_boss.html</p>
+
+<p>Hare&#8217;s new research (new? it&#8217;s old by now) into corporate psychopaths. Another reason why corporations should be made illegal.</p>
+
+<p>Oh, speaking of psychopaths? Forget second-class citizens, they should be third-class citizens. Because they&#8217;re not human beings, they&#8217;re something else.</p>
+
+<p class="posted">posted by rk
+ on April 25, 2007 <a href="#c23" rel="bookmark">#</a></p>
+</div>
+<div id="c24">
+<p>Montessori method. Sudbury Valley / Summerhill. Democratic schools. Free schools. All different words for one thing: ANARCHIST schools. Schools made by anarchists at the end of the 19th century to propagate their values. Because raising children to become autonomous individuals instead of obedient little robots generates enormous dividends. Economic, sociological, and of course intellectual.</p>
+
+<p>Ricardo Semler of the wildly successful Semco has started an anarchist school in Brazil to rescue children from the traditional school system.</p>
+
+<p>The research on this subject? There are multiple books written just <em>presenting</em> the research. ALFIE KOHN!</p>
+
+<p>http://www.alfiekohn.org/books.htm#null</p>
+
+<p>THE HOMEWORK MYTH: Why Our Kids Get Too Much of a Bad Thing</p>
+
+<p>THE CASE AGAINST STANDARDIZED TESTING: Raising the Scores, Ruining the Schools</p>
+
+<p>THE SCHOOLS OUR CHILDREN DESERVE: Moving Beyond Traditional Classrooms and &#8220;Tougher Standards&#8221;</p>
+
+<p>BEYOND DISCIPLINE: From Compliance to Community</p>
+
+<p>PUNISHED BY REWARDS: The Trouble with Gold Stars, Incentive Plans, A&#8217;s, Praise, and Other Bribes</p>
+
+<p>That&#8217;s 5 books just about different aspects of schooling. All of them presenting solid research.</p>
+
+<p class="posted">posted by rk
+ on April 25, 2007 <a href="#c24" rel="bookmark">#</a></p>
+</div>
+<div id="c25">
+<p>NO CONTEST: The Case Against Competition</p>
+
+<p>http://www.alfiekohn.org/books.htm#null</p>
+
+<p>An old, old book of Alfie Kohn&#8217;s that is exquisitely researched. It changes <em>everything</em>!</p>
+
+<p class="posted">posted by rk
+ on April 25, 2007 <a href="#c25" rel="bookmark">#</a></p>
+</div>
+<div id="c26">
+<p>UNCONDITIONAL PARENTING: Moving from Rewards and Punishments to Love and Reason</p>
+
+<p>Another Alfie Kohn book. Draws on the literal mountain of research in empathic parenting. Also known as Taking Children Seriously. Also known as the Helping Mode of Parenting. There are many researchers working on this subject. McFarland (the pediatrist) above is only one of them, dealing with only a small part of it.</p>
+
+<p>And empathic parenting is only the tip of a very big iceberg in research about the history of childhood. Childhood in the past was horrific. And childhood in primitive cultures is horrific. This has enormous implications for foreign policy. We shouldn&#8217;t be &#8220;respecting&#8221; third-world cultures. We should be breaking them using armies of social workers.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://richardkulisz.blogspot.com">rk</a>
+ on April 25, 2007 <a href="#c26" rel="bookmark">#</a></p>
+</div>
+<div id="c27">
+<p>Uh, I think he was requesting interesting, completely unintuitive research.  Not books and papers that discuss your own personal pet causes.</p>
+
+<p class="posted">posted by Jgraham
+ on April 25, 2007 <a href="#c27" rel="bookmark">#</a></p>
+</div>
+<div id="c28">
+<p><a href="http://www.aaronsw.com/weblog/stmcall#c14" rel="nofollow">rk</a>: It&#8217;s not a test of abstract <em>reasoning</em>; it&#8217;s a test of understanding formal <em>syntax</em>. It&#8217;s not really that surprising to me that most people, never having been exposed to syntax, don&#8217;t immediately understand it without special training. I think the training should be pretty easy, but it hasn&#8217;t really been tested to my knowledge.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on April 25, 2007 <a href="#c28" rel="bookmark">#</a></p>
+</div>
+<div id="c29">
+<p>Neat paper summarizing the field of human cognitive biases: http://www.singinst.org/Biases.pdf</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://jey.kottalam.net">Jey Kottalam</a>
+ on April 25, 2007 <a href="#c29" rel="bookmark">#</a></p>
+</div>
+<div id="c30">
+<p>Unfortunately I still haven&#8217;t been able to read the actual paper, but the dichloroacetate results are pretty interesting, and I wish more people knew about them.  See http://del.icio.us/kragen/dichloroacetate for my collection of links on them; the primary article is &#8220;A Mitochondria-K+ Channel Axis Is Suppressed in Cancer and Its Normalization Promotes Apoptosis and Inhibits Cancer Growth&#8221;.</p>
+
+<p>The most recent really interesting piece of research I ran across told me that the murder rate here in Buenos Aires was half the rate in California, which changed the way I looked at Buenos Aires.  (From http://wwwpolcrim.jus.gov.ar/ somewhere.)</p>
+
+<p>Most of the research I think is interesting in the last few years is linked from http://del.icio.us/kragen/research &#8212;- I&#8217;m not sure everything really important is there, though.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://pobox.com/~kragen">Kragen Sitaker</a>
+ on April 26, 2007 <a href="#c30" rel="bookmark">#</a></p>
+</div>
+<div id="c32">
+<p>Research is interesting. Experimental results that are published due to a expected outcome are interesting. Experimental results that are not published due to an unexpected outcome can be even more interesting.</p>
+
+<p>It&#8217;s great to publish results when an experiment produces desired results. But what if out of 100 tests, only 5 &#8220;succeed&#8221; and 95 &#8220;fail&#8221;. However, it&#8217;s the 5 that succeed that are published? We are left believing the experiments are valid and reproducible when they are not 95 out of 100 times.</p>
+
+<p class="posted">posted by Sean Abrahams
+ on April 26, 2007 <a href="#c32" rel="bookmark">#</a></p>
+</div>
+<div id="c33">
+<p>Brain scans tell us nothing. Reading them is akin to reading tea leaves. It is an advanced version of phrenology which attempts to &#8220;localize&#8221; certain activity in certain parts of the brain. But this consistency is an illusion.</p>
+
+<p>Moreover, a policy paper on drug treatments is not science, clown. Try getting a real education before pretending to know what science is.</p>
+
+<p>Anyone who thinks Chomsky knows anything is clearly incompetent to judge such matters.</p>
+
+<p>Leave science to the professionals -and educated - and go code something interesting.</p>
+
+<p class="posted">posted by Non Believer
+ on April 27, 2007 <a href="#c33" rel="bookmark">#</a></p>
+</div>
+<div id="c34">
+<p>Interesting idea. Here&#8217;s <a href="http://potency.berkeley.edu/text/Paustenbach.pdf" rel="nofollow">a survey</a> that changed how I think about diet. Summary: <i>Half of all chemicals tested in standard high-dose animal cancer tests, whether occurring naturally or produced synthetically, are &#8220;carcinogens.&#8221; &#8230;  The focus of regulatory policy is on synthetic chemicals, although 99.9% of the chemicals humans ingest are natural&#8230;.  Plants in the human diet contain thousands of natural &#8220;pesticides&#8221; produced by plants to protect themselves from insects and other predators&#8230;.  If reducing synthetic pesticides makes fruits and vegetables more expensive, thereby decreasing consumption, then the cancer rate will increase, especially for the poor.</i></p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://letmespellitoutforyou.blogspot.com">Mike Sierra</a>
+ on April 27, 2007 <a href="#c34" rel="bookmark">#</a></p>
+</div>
+<div id="c35">
+<p>rk: I find it really amusing that right after admitting that what <i>carfree.com</i> offers isn&#8217;t really &#8220;science,&#8221; you make the astonishing claim that eradicating spanking and child abuse will &#8220;eliminate war and all other social ills.&#8221; You also offer me no good reason to believe that those who truly are &#8220;incapable of abstract reasoning need to be made into second-class citizens.&#8221;</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://letmespellitoutforyou.blogspot.com">Mike Sierra</a>
+ on April 27, 2007 <a href="#c35" rel="bookmark">#</a></p>
+</div>
+<div id="c36">
+<p>This is an entertaining read&#8230; makes you wonder if intelligence is a catch-22.</p>
+
+<p>&#8220;Unskilled and Unaware of It: How Difficulties in Recognizing One&#8217;s Own Incompetence Leads to Inflated Self-Assessments&#8221;
+http://www.apa.org/journals/features/psp7761121.pdf</p>
+
+<p class="posted">posted by Michael
+ on April 28, 2007 <a href="#c36" rel="bookmark">#</a></p>
+</div>
+<div id="c37">
+<p>http://www.geog.ucsb.edu/~marstonj/DIS/CH3_1.html#317 is kind of interesting in part because the results are essentially unequivocal, which we all expected. The whole dissertation is &#8220;important&#8221; and only barely starting its implementation (in Seattle), but this mid-point communicates the flavor of the results.</p>
+
+<p>Basically it&#8217;s that having access to more information about the environment enables better handling of the environment.</p>
+
+<p>Love.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.boobam.org">William Loughborough</a>
+ on April 28, 2007 <a href="#c37" rel="bookmark">#</a></p>
+</div>
+<div id="c38">
+<p>These were some really great posts; I read all of the linked articles.  Some of the cognitive bias ones were annoying because the researchers seemed oblivious that when asking people to &#8220;Rank by probability: (1) A, (2) A and B&#8221; that English is just ambiguous enough that it&#8217;s legitimate (or not, depending on precise wording) to rank (2) as more probable than (1).  Some of the other cognitive bias questions also likewise seemed &#8220;stacked.&#8221;  I wonder about the cognitive bias of people when confronted with the possibility that modern physics experiments may cause catastrophic events; for example, I&#8217;ve been wondering for some time about the Large Hadron Collider&#8217;s safety report, which uses Hawking&#8217;s (untested) theory to that argue that the world will not end when the LHC starts up.  Now six different academics authored this paper <a href="http://doc.cern.ch/yellowrep/2003/2003-001/p1.pdf" rel="nofollow">[1]</a>, but one wonders about cognitive bias when one realizes that they are effectively promising that 6 billion people on our planet will not die due to the logical consequences of an untested theory.  Perhaps I misread the paper or perhaps I should contact the authors and ask for an explanation.</p>
+
+<p>The &#8220;programmers fall into 2 categories&#8221; writeup is really informal; I think one should look for better studies in that area.</p>
+
+<p>I guess you guys have already seen the &#8220;Magic Ink&#8221; paper by Bret Victor.  Let&#8217;s see, I&#8217;d recommend the Lifelong Kindergarten research group&#8217;s publications (MIT) <a href="http://llk.media.mit.edu/" rel="nofollow">[2]</a>; for an informal document, I enjoyed &#8220;Computer as Paint Brush:
+Technology, Play, and the Creative Society&#8221; by Mitchel Resnick <a href="http://llk.media.mit.edu/papers/playlearn-handout.pdf" rel="nofollow">[3]</a>.  The underlying values remind me in some ways of Bob Black&#8217;s Abolition of Work essay, but presented without the anarchy and pessimism.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.connellybarnes.com/">Connelly Barnes</a>
+ on April 29, 2007 <a href="#c38" rel="bookmark">#</a></p>
+</div>
+<div id="c39">
+<p>Also, it looks like you&#8217;re editorializing, so maybe delete the comment by the ad hominem guy?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.connellybarnes.com/">Connelly Barnes</a>
+ on April 29, 2007 <a href="#c39" rel="bookmark">#</a></p>
+</div>
+<div id="c40">
+<p>Oh, and call me superstitious, but I avoid AI research because I was once in the shower and hadn&#8217;t thought about AI-related topics for 7 months when I thought, &#8220;Hey could I use introspection to program a copy of myself?&#8221;  I wasn&#8217;t paying much attention as I flipped open a plastic shampoo bottle and somehow took a 2 cm long gouge of skin out of my thumb; the cut was quite deep.  Maybe lots of people cut themselves on plastic shampoo bottles, but it seemed really spooky to me.  This coupled with the sudden &#8220;deep thoughts&#8221; about AI gave me the really unsettling feeling that my body was disintegrating.  Not a happy feeling!  So I avoid AI.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.connellybarnes.com/">Connelly Barnes</a>
+ on April 29, 2007 <a href="#c40" rel="bookmark">#</a></p>
+</div>
+<div id="c41">
+<p><a href="http://sonoran.org/index.php?option=com_content&amp;task=view&amp;id=154&amp;Itemid=27" rel="nofollow">Prosperity in the 21st Century West: The Role of Protected Public Lands</a></p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://nicoleswan.com">Nicole</a>
+ on April 30, 2007 <a href="#c41" rel="bookmark">#</a></p>
+</div>
+<div id="c42">
+<blockquote>
+  <p>In other words, for every dollar spent on trying to stop drugs through source-country control, we could get the equivalent of twenty dollars benefit by spending the same money on treatment.</p>
+</blockquote>
+
+<p>That assumes the last 1% costs as much as the first 1%&#8212;ridiculous bunk.  A real study would have determined price curves for all of those methods as the percentage gets higher and higher.</p>
+
+<p class="posted">posted by Charles
+ on May  3, 2007 <a href="#c42" rel="bookmark">#</a></p>
+</div>
+<div id="c45">
+<p>Albert Bartlett&#8217;s talk on exponential growth and finite resources is also important, not because it is particularly unobvious or hasn&#8217;t been repeated loudly by many people, but because 99% of both the public and our leaders appear to &#8220;believe in growth&#8221; which unfortunately has the effect of clearly contradicting physics, even within our lifetime.
+http://globalpublicmedia.com/lectures/461</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.connellybarnes.com/">Connelly Barnes</a>
+ on May  9, 2007 <a href="#c45" rel="bookmark">#</a></p>
+</div>
+<div id="c46">
+<p>From the Overcoming Bias web site (http://www.overcomingbias.com/) a pointer to another RAND study that &#8220;changes everything&#8221;; this time w.r.t. health care spending.  They put it clearly and succinctly (http://www.overcomingbias.com/2007/05/medicine_as_sca.html), but the gist is that there is no correlation between health care spending and outcomes.</p>
+
+<p class="posted">posted by jmc
+ on May 15, 2007 <a href="#c46" rel="bookmark">#</a></p>
+</div>
+<div id="c47">
+<p><a href="http://seattlepi.nwsource.com/national/1110AP_Death_Penalty_Deterrence.html" rel="nofollow">For what it&#8217;s worth&#8230;</a></p>
+
+<p class="posted">posted by Mike Sierra
+ on June 11, 2007 <a href="#c47" rel="bookmark">#</a></p>
+</div>
+<div id="c50">
+<p>Impressive article. I reallly like and share your ideas. I think the contributors are much more important. Articles should&#8217;t be deleted because of format, I wouldnt call it a good idea. IMHO it is unfair for contributors it seems to spoil esoteric character of Wikipedia as the palce that unites people under the flag of sharing information. Wikeipedia is one of those places that make information free an accessible. Format shouldnt be improtnat this what seems to be esenctial - is content. Best regards</p>
+
+<p><a href="http://www.araba.resimleri.com" title="Araba Resimleri" target="_blank" rel="nofollow">Araba Resimleri</a>
+<a href="http://www.Bebek.resimleri.com" title="Bebek Resimleri" target="_blank" rel="nofollow">Bebek Resimleri</a>
+<a href="http://www.LiseLi.resimleri.com" title="Liseli Resimleri" target="_blank" rel="nofollow">Liseli resimleri</a>
+<a href="http://www.Kedi.resimleri.com" title="Kedi resimleri" target="_blank" rel="nofollow">Kedi resimleri</a>
+<a href="http://www.Kopek.resimleri.com" title="Kopek resimleri" target="_blank" rel="nofollow">Kopek Resimleri</a>
+<a href="http://www.manzara.resimleri.com" title="Manraza resimleri" target="_blank" rel="nofollow">Manzara resimleri</a>
+<a href="http://www.Bayrak.resimleri.com" title="Bayrak Resimleri" target="_blank" rel="nofollow">Bayrak resimleri</a>
+<a href="http://www.Sex.resimleri.com" title="Sex Resimleri" target="_blank" rel="nofollow">Sex Resimleri</a>
+<a href="http://www.Seks.resimleri.com" title="Seks Resimleri" target="_blank" rel="nofollow">Seks Resimleri</a>
+<a href="http://www.Manken.resimleri.com" title="Manken resimleri" target="_blank" rel="nofollow">manken resimleri</a>
+<a href="http://www.Besiktas.resimleri.com" title="Besiktas resimleri" target="_blank" rel="nofollow">Besiktas Resimleri</a>
+<a href="http://www.Hayvan.resimleri.com" title="Hayvan resimleri" target="_blank" rel="nofollow">Hayvan resimleri</a>
+<a href="http://www.Fenerbahce.resimleri.com" title="fenerbahce resimleri" target="_blank" rel="nofollow">Fenerbahce resimleri</a>
+<a href="http://www.Amatorliseli.com" title="Amator" target="_blank" rel="nofollow">Amator</a>
+<a href="http://www.bakire.info" title="LiseLi" target="_blank" rel="nofollow">LiseLi</a>
+<a href="http://www.ihikaye.com" title="Hikaye" target="_blank" rel="nofollow">Hikaye</a>
+<a href="http://www.resimleri.com" title="resimleri" target="_blank" rel="nofollow">resimleri</a>
+<a href="http://www.sadeceseks.com" title="seks hikaye" target="_blank" rel="nofollow">seks hikaye</a>
+<a href="http://www.bakire.info" title="liseli" target="_blank" rel="nofollow">liseli</a>
+<a href="http://www.ifade.net" title="ifade" target="_blank" rel="nofollow">ifade</a>
+<a href="http://www.bakire.info" title="bakire" target="_blank" rel="nofollow">bakire</a>
+<a href="http://www.ucretsiz.net" title="ucretsiz" target="_blank" rel="nofollow">ucretsiz</a>
+<a href="http://www.Turk-oyun.com" title="TUrk Oyun" target="_blank" rel="nofollow">Turk oyun</a>
+<a href="http://www.Forexturkey.com" title="Forex" target="_blank" rel="nofollow">Forex</a>
+<a href="http://www.sadeceseks.com" title="Sex hikayeleri" target="_blank" rel="nofollow">Sex Hikayeleri</a>
+<a href="http://www.imageturk.com" title="images upload" target="_blank" rel="nofollow">images upload</a>
+<a href="http://www.imageturk.com" title="image upload" target="_blank" rel="nofollow">image upload</a>
+<a href="http://www.resimleri.com" title="Resim" target="_blank" rel="nofollow">Resim</a>
+<a href="http://www.resimleri.com" title="resimler" target="_blank" rel="nofollow">resimler</a>
+<a href="http://www.resimleri.com" title="Bedava Resim" target="_blank" rel="nofollow">Bedava Resim</a>
+<a href="http://www.hizlioyun.Com" title="Kral oyun" target="_blank" rel="nofollow">Kral oyun</a>
+<a href="http://www.hizlivideo.com" title="Video izLe" target="_blank" rel="nofollow">Video izLe</a></p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.sadeceseks.com">Hikaye</a>
+ on July 25, 2007 <a href="#c50" rel="bookmark">#</a></p>
+</div>
+<div id="c58">
+<p>Actually, I now think I&#8217;d change my post for &#8220;science that matters&#8221; to the attempts by Aubrey de Grey to introduce the public to the potential feasibility of life extension research.  If one is being strictly rational, it probably makes sense to throw billions of dollars at researching life extension on humans and species similar to us.  Most people are strictly irrational when dealing with the &#8220;ethical issues&#8221; of letting people live longer, thus the pressing need to popularize life extension research.  http://en.wikipedia.org/wiki/Aubrey_de_Grey</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.connellybarnes.com/">Connelly Barnes</a>
+ on August 28, 2007 <a href="#c58" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="stmcall" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

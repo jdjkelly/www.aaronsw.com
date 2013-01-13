@@ -1,0 +1,15 @@
+links 0.92
+
+     1. Bare: What's this subermaket? Jane asked.
+     2. CSSed bare: What's this subermaket? Jane asked.
+     3. CSSed w/ quotes: What's this subermaket? Jane asked.
+     4. Entities: "`What's this "subermaket"?' Jane asked."
+     5. ASCII: "'What's this "subermaket"?' Jane asked."
+
+Lynx 2.8.5dev.8 (28 May 2002) (development version)
+
+     1. Bare: "`What's this "subermaket"?' Jane asked."
+     2. CSSed bare: "`What's this "subermaket"?' Jane asked."
+     3. CSSed w/ quotes: "`What's this "subermaket"?' Jane asked."
+     4. Entities: ""``What's this ""subermaket""?'' Jane asked.""
+     5. ASCII: ""`'What's this ""subermaket""?'' Jane asked.""

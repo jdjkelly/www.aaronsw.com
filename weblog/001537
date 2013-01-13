@@ -1,0 +1,191 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Stanford: Tuesday, November 30 (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001537.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001536" title="Stanford: Monday, November 29" />	<link rel="next" href="001538" title="Stanford: Wednesday, December 1" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Stanford: Tuesday, November 30</h1>
+</div>
+
+<div class="content">
+<p>I decide to visit Lessig&#8217;s class again; this time I get Lessig himself. Before class begins, he chats with the same female student that Zittrain did yesterday. He starts class off by asking about Zittrain. How was he? Despite having been accused of being a spy, I decide not to volunteer. He spots me anyway; I cover by saying <em>Zittrain</em> asked me to spy on <em>him</em>. </p>
+
+<p>Lessig compares himself unfavorably to Zittrain&#8217;s humor. &#8220;That&#8217;s why I had to leave Harvard,&#8221; he explains. He hopes we all had a nice time &#8220;suffering the enjoyment&#8221; of Zittrain&#8217;s company. The students note that they did and he thanks them for feeding his &#8220;uncertainty and self-doubt&#8221;.</p>
+
+<p>Lessig wanders around the room throughout the lecture, climbing up the steps, spinning the chairs, sitting on the tables, standing on the chairs, hanging from railings &#8212; he&#8217;s <a href="http://www.aaronsw.com/weblog/000650">more fidgety than the Supreme Court justices</a>. He gestures animatedly. The students seem confused. He tries to win them back with a sex ed example.</p>
+
+<hr />
+
+<p>I wonder if my uncomfortableness around people of other races stems from an overdose of racial sensitivity. I vaguely remember a bunch of Sesame Street cartoons about being nice to people who are different and stuff like that. But what strikes me most is an incident from my early childhood: </p>
+
+<p>For many years I went to an expensive private school in the wealthy Chicago suburb of Winnetka. Naturally, the school was practically all-white (when, a few years after I left, an inner-city black girl somehow got a scholarship or something, it got a documentary news story on PBS) and I vividly remember seeing a black man in the lunchroom one day. For some reason I wanted to tell my parents about something he&#8217;d done, but I remember being mortified of calling him black, because I thought that would be racist.</p>
+
+<p>I may have well been right to not call him black &#8212; I don&#8217;t comment that white people are white &#8212; but what strikes me is how scared I was about thinking that he was black, how I worried that I was racist for thinking such a thing. Anyway, I wonder if that may be part of what&#8217;s happened to me.</p>
+
+<hr />
+
+<p>I haven&#8217;t really done anything for our group IHUM project, which I think is due tomorrow. I get a nasty email threatening me about it and saying that it&#8217;s my last chance to help. I head over to the library to meet the group and stay long into the night (until like 1AM or something absurd) working on our PowerPoint presentation. I make charts for the results of our poll and mix in some video interviews that Sara did about the poll topics.</p>
+
+<p>Download: <a href="http://www.aaronsw.com/weblog/static/ihumproject.pdf">3.9MB PDF of our presentation (sans movie clips)</a> Probably pretty boring, although it got an A.</p>
+
+<p class="posted">posted February 02, 2005 09:25 PM (<a class="category" href="cat_education">Education</a>) (<a href="#comments">3 comments</a>) <a href="001537" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001536" title="Stanford: Monday, November 29">&laquo; prev</a> | <a href="./">up</a> | <a href="001538" title="Stanford: Wednesday, December 1">next &raquo;</a></p>
+
+<p><a href="001529">Home: Day 1</a><br />
+<a href="001530">Home: Day 2</a><br />
+<a href="001531">Home: Day 3</a><br />
+<a href="001533">Keeping Up with the Rosses</a><br />
+<a href="001536">Stanford: Monday, November 29</a><br />
+<strong>Stanford: Tuesday, November 30</strong><br />
+<a href="001538">Stanford: Wednesday, December 1</a><br />
+<a href="001540">Stanford: Thursday, December 2</a><br />
+<a href="001541">Stanford: Friday, December 3</a><br />
+<a href="001542">Stanford: Saturday, December 4</a><br />
+<a href="001545">Your Congress is a Bunch of Idiots</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c3889">
+
+<p>Stupid question : Did your group use statistic tools to assess its conclusions ? or was it some &#8220;freestyle&#8221; exercise ? 
+(some people do nothing but wander on the net and ask stupid things, I&#8217;m a part of them)</p>
+
+<p class="posted">posted by Cn at February  3, 2005 07:48 AM <a href="#c3889">#</a></p>
+
+</div><div id="c3896">
+
+<p>No, we just made little charts with raw numbers.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3896">Aaron Swartz</a> at February  6, 2005 04:17 PM <a href="#c3896">#</a></p>
+
+</div><div id="c3974">
+
+<p>The last slide says &#8220;fin.&#8221;  What does that mean?</p>
+
+<p>Automatic &#8220;D&#8221; for using Powerpoint.</p>
+
+<p>Haha, a poster of &#8220;Pulp Fiction&#8221; with two men shooting a gun in the back, and the presentation was supposed to be about violence and human behaviour?  So, what was the point of this?  How to conduct a survey?  You know, if all you learned from this was how to conduct a good survey, then it would have been all worth it&#8230;  But judging from the slides, I doubt the surveys were that good.  It&#8217;s a free country, right, but not an equal one?</p>
+
+<p class="posted">posted by  at February 15, 2005 05:18 AM <a href="#c3974">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001537.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1537" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

@@ -1,0 +1,193 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Lessons in Capitalism #3: Sycophancy (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001652.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001651" title="Stanford: Feats of Memory" />	<link rel="next" href="001653" title="Stanford: Spring Break" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Lessons in Capitalism #3: Sycophancy</h1>
+</div>
+
+<div class="content">
+<p>A young BEN BEZARK is bouncing a ball in front of our elementary school. While he plays, a young AARON SWARTZ provides advice for his new band. They are both in third grade. The hit song &#8220;Lump&#8221; By The Presidents of the United States is topping the charts. </p>
+
+<p>AARON: You&#8217;ve got to have that special something in your songs, that little oomph, that &#8220;Lump&#8221; factor. <br />
+BEN: <em>(disinterested)</em> OK. <br />
+AARON: The Lump Factor is key. Your songs need to be more Lump. <br />
+BEN: Right.</p>
+
+<p>It continues like this, Ben bouncing his ball, me extolling the Lump factor, Ben nodding quietly. Finally, it builds to a point that&#8217;s just completely absurd.</p>
+
+<p>AARON: You have to feel the Lump, fill your songs with a Lump, you have to <em>be</em> Lump. <br />
+BEN: Well, we don&#8217;t want to be too much like Lump. <br />
+AARON: <em>(backpedalling)</em> Oh, no, no, you just want to the Lump quality, you want quality really&#8230;</p>
+
+<p class="posted">posted March 26, 2005 07:42 PM (<a class="category" href="cat_education">Education</a>) (<a href="#comments">2 comments</a>) <a href="001652" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001651" title="Stanford: Feats of Memory">&laquo; prev</a> | <a href="./">up</a> | <a href="001653" title="Stanford: Spring Break">next &raquo;</a></p>
+
+<p><a href="001647">Stanford: Schoolwork</a><br />
+<a href="001648">Stanford: To the Hypnotist</a><br />
+<a href="001649">Stanford: Stop Hiring Me</a><br />
+<a href="001650">Stanford: Textbooks for Idiots</a><br />
+<a href="001651">Stanford: Feats of Memory</a><br />
+<strong>Lessons in Capitalism #3: Sycophancy</strong><br />
+<a href="001653">Stanford: Spring Break</a><br />
+<a href="001654">Home: Spring Break</a><br />
+<a href="001628">Stanford Interactive: What classes should I take?</a><br />
+
+</p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c4660">
+
+<p>A young LINUS is hacking on the next version of his operating system. While he hacks, a young PUNDIT provides advice for his OS.</p>
+
+<p>PUNDIT: You&#8217;ve got to have that special something in your OS, that little oomph, that &#8220;Windows&#8221; factor.</p>
+
+<p>LINUS: <em>(disinterested)</em> OK.</p>
+
+<p>&#8230;&#8230;</p>
+
+<p>PUNDIT: You have to feel the Windows, fill your songs with a Windows, you have to <em>be</em> Windows.</p>
+
+<p>LINUS: Well, we never wanted to be Windows.</p>
+
+<p>PUNDIT: You wankers.</p>
+
+<p>&#8230;&#8230;</p>
+
+<p><em>(other people start making Linux look like Windows)</em></p>
+
+<p>PUNDIT: Damn, Linux looks too much like Windows. If there&#8217;s no difference between Linux and Windows, why exactly&#8217;ll people want to switch to Linux? Linux should aim to be different!</p>
+
+<p>LINUS: <em>(to self)</em> Wankers.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://mncw.tk/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=4660">bi</a> at March 27, 2005 09:41 AM <a href="#c4660">#</a></p>
+
+</div><div id="c4701">
+
+<p>Sycophancy is capitalist?</p>
+
+<p class="posted">posted by Robert Brook at March 31, 2005 09:25 AM <a href="#c4701">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001652.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1652" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

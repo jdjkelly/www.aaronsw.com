@@ -1,0 +1,217 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>The Facts About Money and Politics (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001458.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001457" title="Money and Politics" />	<link rel="next" href="001459" title="Stanford: Day 45" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>The Facts About Money and Politics</h1>
+</div>
+
+<div class="content">
+<p><a href="http://www.aaronsw.com/weblog/001457">My previous post</a> was meant as a somewhat humorous and thought-provoking piece of commentary about campaign spending.</p>
+
+<p>However, for those who are truly curious about how money runs politics, I know of no better source than Thomas Ferguson&#8217;s book <em>Golden Rule: The Investment Theory of Party Competition and the Logic of Money-Driven Political Systems</em>. The principle alluded to by the title is &#8220;to discover who rules, follow the gold&#8221; and Ferguson does just that. Using historical evidence including letters, contribution records, public statements, and other documents, Ferguson shows precisely how, from the very founding of the country, politics has been a game for and by large wealthy interests.</p>
+
+<p>The underlying theory is really very simple: running a political campaign is expensive. Individuals are poorly organized to contribute with significant effects. That leaves large corporations who fund practically all viable candidates.</p>
+
+<p>Of course, corporations are usually not monolithic, and political battles arise because of their conflicting interests. Some industries may prefer protectionism to secure the domestic market for themselves. Others may prefer free trade so they can sell and buy from foreign markets. These different corporate blocs coalesce around different candidates who then spend their money to do whatever it takes to get the populace to vote for them.</p>
+
+<p>The key point about the theory is that issues which no corporations support, even if massively popular among the people, will never be raised in a political campaign. Were a candidate to make the mistake of supporting them, his money supply would quickly dry up and his campaign would wither. The result? All political policies enacted, from the New Deal to the invasion of Vietnam, are those supported by the wealthy corporations, not the people.</p>
+
+<ul>
+<li><a href="http://www.amazon.com/exec/obidos/ASIN/0226243176/coolbooks02">Amazon.com</a></li>
+<li><a href="http://print.google.com/print?id=Arex0Mrgb64C">Google Print</a></li>
+<li><a href="http://www.press.uchicago.edu/cgi-bin/hfs.cgi/00/12834.ctl">University of Chicago Press</a> (publishers)</li>
+</ul>
+
+<p class="posted">posted November 04, 2004 08:42 PM (<a class="category" href="cat_politics">Politics</a>) (<a href="#comments">10 comments</a>) <a href="001458" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001457" title="Money and Politics">&laquo; prev</a> | <a href="./">up</a> | <a href="001459" title="Stanford: Day 45">next &raquo;</a></p>
+
+<p><a href="001450">Philip Zimbardo on the Psychology of Evil</a><br />
+<a href="001451">Stanford: Day 42</a><br />
+<a href="001452">Stanford: Day 43</a><br />
+<a href="001454">November Surprise: The Votemaster is Andrew Tanenbaum</a><br />
+<a href="001457">Money and Politics</a><br />
+<strong>The Facts About Money and Politics</strong><br />
+<a href="001459">Stanford: Day 45</a><br />
+<a href="001460">Stanford: Day 46 </a><br />
+<a href="001461">Stanford: Day 47</a><br />
+<a href="001462">David Boies on the Dispensation of Justice</a><br />
+<a href="001463">Stanford: Day 48</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c3356">
+
+<p>The observant will note that this post argues something very different from the previous one. The previous post implied that money controls who <em>wins</em> elections. This one describes how money controls who gets to be in them. </p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3356">Aaron Swartz</a> at November  4, 2004 09:00 PM <a href="#c3356">#</a></p>
+
+</div><div id="c3357">
+
+<p>so which wealthy corporations support banning gay marriage?</p>
+
+<p class="posted">posted by <a target="_blank" title="http://trainedmonkey.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3357">jim winstead</a> at November  4, 2004 09:30 PM <a href="#c3357">#</a></p>
+
+</div><div id="c3358">
+
+<p><i>so which wealthy corporations support banning gay marriage?</i></p>
+
+<p>The Christian Coalition.</p>
+
+<p>ok, so they&#8217;re not a corporation, per se.  But they and their counterparts have a lot of money.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://steve.mikexstudios.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3358">Steve</a> at November  4, 2004 09:45 PM <a href="#c3358">#</a></p>
+
+</div><div id="c3359">
+
+<p>But that invalidates the &#8220;military-industrial complex&#8221; argument completely. The Christian Coalition is a coalition of people, not a corporation. Which only proves that you can get your way if you actually organize.</p>
+
+<p>Further, the Internet lowers that barrier to entry, as evidenced by the Howard Dean campaign.</p>
+
+<p>&#8220;Individuals are poorly organized to contribute with significant effects&#8221; - that&#8217;s the key sentence. It might have been true &#8220;back then&#8221;, but both the CC and HD show that that&#8217;s not the case any more. </p>
+
+<p class="posted">posted by <a target="_blank" title="http://groby.livejournal.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3359">Robert 'Groby' Blum</a> at November  4, 2004 10:01 PM <a href="#c3359">#</a></p>
+
+</div><div id="c3360">
+
+<p>i agree Robert.</p>
+
+<p>it is typical of the left to believe that other people&#8217;s beliefs are somewhat &#8220;false&#8221; ( the Marxist term being &#8220;false consciousness&#8221;) and must be influenced by the bourgeoisie -  in the past-  or the Big Bad Corporations today. This stops the left actually reflecting on the deep seated beliefs of their opposition, not an ideology which will actually win elections in the future. Not only are Corporations agnostic on the issue of gay marriage, to pick an issue, but most people who work in Corporations, or in Urban areas - where corporations are the most active - are liberals. Most of the people who work for the bourgeois media are liberal on cultural issues. The only &#8220;corporations&#8221; which influence the conservative vote are the Churches.</p>
+
+<p>A candidate most likely to win will attract more money. An incumbent also has an edge. Clinton attracted more money in his second run than in his first. </p>
+
+<p>what galvanized the vote this time, for the right, was Gay marriage. Thats it. The sinister &#8220;people are controlled by Corporations&#8221; nonsense is utter bull. In fact, the other side also believes a similar level of cant about the &#8220;liberal&#8221; media, with more actual perspicuity - the vast majority of news people who work for the main media would be liberal on cultural issues, though they may have differences on economic matters  ( The WSJ is socially liberal, for the most part)</p>
+
+<p>Time to engage with the other side and stop pretending they are, in fact, just drones.</p>
+
+<p class="posted">posted by eoin at November  5, 2004 05:30 AM <a href="#c3360">#</a></p>
+
+</div><div id="c3361">
+
+<p>I doubt that the New Deal was supported by any large financial corporations. In fact, I believe it was completely the opposite, it was aggresively criticized at the time as un-American, and seen as protecting workers and the trade unions. Although many of its reforms were in fact stifled by money-driven interest groups, the fact that it was passed through shows that not all policies are made to please the fat cats.</p>
+
+<p class="posted">posted by  at November  5, 2004 08:48 AM <a href="#c3361">#</a></p>
+
+</div><div id="c3362">
+
+<p>In the olden days, the publicans would raise more than 3 times the cash that democrats could.  Dems countered this advantage with volunteers.  Then dems started losing elections due to lack of TV ads.</p>
+
+<p>Now the dems raise cash equal to the pubs.  And the pubs utilized stealth campaigns of volunteers, formally known as Xtian rite.  While I am unhappy with the result, I have to applaud the pubs use of people whose motivation was not profit. </p>
+
+<p>What about next time ?  How will the issues be presented next time ?  Is this how candidates will be discovered?</p>
+
+<p class="posted">posted by skeeter at November  5, 2004 10:48 AM <a href="#c3362">#</a></p>
+
+</div><div id="c3364">
+
+<p>corporations aren&#8217;t entirely agnostic on issues related to gay marriage. over 200 of the fortune 500 companies offer domestic partner benefits (<a href="http://diversity.monster.com/gale/articles/marriage/">cite</a>).</p>
+
+<p class="posted">posted by <a target="_blank" title="http://trainedmonkey.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3364">jim winstead</a> at November  5, 2004 04:40 PM <a href="#c3364">#</a></p>
+
+</div><div id="c3409">
+
+<p>btw, c-span.org has some shows with larry noble (the executive director of the center for responsive politics) up on their site.  i&#8217;ve watched him before a few times, and the shows have always been interesting.</p>
+
+<p>just search for his name of the center&#8217;s name on cspan&#8217;s site.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://fratocrates.blogspot.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3409">jesus henry christos</a> at November 13, 2004 11:24 PM <a href="#c3409">#</a></p>
+
+</div><div id="c4705">
+
+<p>Whoa! This is an oversimplification of Ferguson&#8217;s theory, so I can understand the reasoning behind these comments. Best to read the book for yourself.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://dailyunion.blogspot.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=4705">Joseph</a> at March 31, 2005 07:24 PM <a href="#c4705">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001458.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+
+<p><a href="http://www.aaronsw.com/weblog/legalbribes">Post your comment here</a>.</p>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

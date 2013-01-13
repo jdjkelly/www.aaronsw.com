@@ -1,0 +1,194 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Stanford: Out at the Movies (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001633.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001632" title="Lessons in Capitalism #1: Division of Labor" />	<link rel="next" href="001634" title="Stanford: Form Without Content" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Stanford: Out at the Movies</h1>
+</div>
+
+<div class="content">
+<p class="dateline">January 30 [sic]</p>
+
+<p>The good news is that Stanford presents real feature film prints on campus, not long after they come out in normal theaters. (I repeatedly have to remember that this place is <em>Stanford</em>. I was just asking myself &#8220;How do they get studios to send them prints?&#8221; But duh, they just call and say they&#8217;re Stanford.)</p>
+
+<p>The bad news is hat it&#8217;s he worst movie going experience I&#8217;ve ever had. Before the film starts, people wad up newspapers and throw them. I got hit in the back of the end 3 times <em>in a row</em>. (Granted, I was the only one in the front row &#8212; but still!) I pretended not to notice.</p>
+
+<p>Then, when the film starts, the kids just ignore it and keep taking, except for the few that toss their backpacks up into the light of the projector. Several minutes in, they apparently notice the film has started, and quiet down, but they continually make collective jeers throughout the movie.</p>
+
+<p>And it&#8217;s not just the students. Last time, the presenters didn&#8217;t bother to test the print (<em>Napoleon Dynamite</em>) and, as a result, never noticed they&#8217;d somehow gotten a version without any dialog, just background noise and music. (I guess they meant to send it to a dubbing station or something? Why else would you make a print like that?)</p>
+
+<p>They ended up having to get back the DVD they&#8217;d just raffled off and played that instead, with the accompanying tinny sound and small screen (it wasn&#8217;t even widescreen!). Not that the sound is very good normally &#8212; it&#8217;s pumped up way too loud and you lose all subtlety.</p>
+
+<p>Still, you don&#8217;t have to bike into town. (Actually, they  only seem to show old movies in town. To see a real film, you have to take 3 busses to get to Mountain View&#8212;or so I hear, I&#8217;ve never actually bothered, despite my love of film. With theater quality so spotty, I  think I&#8217;ll stick with DVDs and my laptop.)</p>
+
+<hr />
+
+<p class="dateline">January 31</p>
+
+<p>From <em>Buffy</em>, I was led to believe that college psych 1 was something more akin to psychiatry training. (It&#8217;s not just <em>Buffy</em>, I&#8217;ve since noticed all sorts of other people make this assumption, and still others refer to &#8220;Psych 1&#8221; as the place where you learn to diagnose psuedopsychiatric problems like &#8220;projection&#8221;.) It&#8217;s not. Not at all.</p>
+
+<p>Instead, it&#8217;s an odd hodgepodge of bizarre experiments which don&#8217;t really add up to much of use. It also doesn&#8217;t help that it&#8217;s taught at a second grade level. (For the lecture on the brain, they divided the audience up into the various sections of the brain with paper streamers and had each section shout out their name.)</p>
+
+<p class="posted">posted March 26, 2005 04:28 PM (<a class="category" href="cat_education">Education</a>) (<a href="#comments">3 comments</a>) <a href="001633" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001632" title="Lessons in Capitalism #1: Division of Labor">&laquo; prev</a> | <a href="./">up</a> | <a href="001634" title="Stanford: Form Without Content">next &raquo;</a></p>
+
+<p><a href="001622">Summer Founders</a><br />
+<a href="001626">The Truth About the Drug Companies</a><br />
+<a href="001627">The Truth About Maryland</a><br />
+<a href="001629">Stanford: Mr. Unincredible</a><br />
+<a href="001632">Lessons in Capitalism #1: Division of Labor</a><br />
+<strong>Stanford: Out at the Movies</strong><br />
+<a href="001634">Stanford: Form Without Content</a><br />
+<a href="001635">Stanford: A Wired Rave</a><br />
+<a href="001639">David M. Clark on Cognitive Therapy</a><br />
+<a href="001636">Stanford: Meeting the President</a><br />
+<a href="001637">Stanford: Caught Red-Handed</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c4651">
+
+<p><i>(I repeatedly have to remember that this place is Stanford. I was just asking myself “How do they get studios to send them prints?” But duh, they just call and say they’re Stanford.)</i></p>
+
+<p>Actually, I&#8217;m sure they do it the way any theater does it. They call a distributor, a price is named, they pay that price, and the print is shipped to them. There are ongoing relationships with distributors. If you had the money and the projection equipment you could do the exact same thing. It&#8217;s not very hard to get prints of recent run movies on 16 MM as well, which cuts down on your equipment costs a good deal. Renting prints is expensive, but certainly not prohibitively so for a large institution. At Stanford, you are probably charged a small activities fee which is used to finance this sort of thing.</p>
+
+<p class="posted">posted by finn at March 26, 2005 05:05 PM <a href="#c4651">#</a></p>
+
+</div><div id="c4654">
+
+<p>At Harvard, one of the good sources for income for student organizations was showing recent movies &#8212; you had to come up with the rental fee, but it was well worth it.</p>
+
+<p>btw, the Aquarius in downtown Palo Alto is a pretty good art house theater. The Stanford is, on the other hand, superb. It&#8217;s one of a kind and as movie theaters go, it&#8217;s a real treasure. If you&#8217;re writing off the Marx Brothers movies they&#8217;ve been showing the last few weeks as &#8220;not real movies,&#8221; you&#8217;re missing out.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://popone.innocence.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=4654">Bryant</a> at March 26, 2005 07:36 PM <a href="#c4654">#</a></p>
+
+</div><div id="c4689">
+
+<p>Actually, if you don&#8217;t mind walking a bit, two busses should be enough to take you to the Mountain View &#8220;cineplex&#8221;: take the 22 bus at El Camino Real (or at the Palo Alto train depot) to the San Antonio Mall, and then the 40 will take you all the way to the theater.</p>
+
+<p>At least it worked like this back in 1999, the last time I was in the area. Things may have changed :-)</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.netwhatever.com/weblog/random/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=4689">Wilson</a> at March 29, 2005 09:33 PM <a href="#c4689">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001633.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1633" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

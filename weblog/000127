@@ -1,0 +1,43 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Validating Radio UserLand (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/000127.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000126" title="Ken Rawlings drops a line" />	<link rel="next" href="000128" title="Several years ago an aunt" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Validating Radio UserLand</h1>
+</div>
+
+<div class="content">
+<p>Karl <a href="http://www.google.com/search?hl=en&amp;q=%22Be+Strict+to+Be+Cool%21%22">&#8220;Be Strict To Be Cool!&#8221;</a>  Dubost decided to <a href="http://radio.weblogs.com/0101733/">try out</a> Radio. Naturally, he&#8217;s <a href="http://www.la-grange.net/2002/01/17.html#Radio">as upset as everyone else I know</a> at the awful HTML: &#8220;It doesn&#8217;t validate!!!&#8221; [via <a href="http://www.carnatic.com/kishore/ru/2002/01/20.html#a114">Kishore</a>]<p /><p />To <a href="http://design.weblogger.com/">Bryan</a>, whose designs I adore: getting your HTML to validate is not that hard! I wanted to use your Transmitter theme for <a href="http://web.archive.org/web/20020120135721/http://www.plexdev.org/faq">another site</a> so I ran it thru <a href="http://check.theinfo.org/html/tidy">HTML Tidy</a> a few times and it only needed a little more hand-tweaking before it validated. I&#8217;d be happy to help show you how. Just <a href="mailto:me@aaronsw.com">drop me a line</a>.<p /><p />Of course you&#8217;re still left with the tabel gunk. However, Zeldman <a href="http://www.zeldman.com/daily/0102d.html#ala134">points to</a> Eric Meyer&#8217;s great <a href="http://www.meyerweb.com/eric/css/edge/">CSS/Edge</a>, a great resource for cool uses of CSS. Bryan, I&#8217;d love to see some tableless designs.</p>
+
+<p class="posted">posted January 20, 2002 10:07 PM (<a class="category" href="cat_technology">Technology</a>)  <a href="000127" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000126" title="Ken Rawlings drops a line">&laquo; prev</a> | <a href="./">up</a> | <a href="000128" title="Several years ago an aunt">next &raquo;</a></p>
+
+<p><a href="000122">Python RSS Parsing Tools</a><br />
+<a href="000123">Fun in the Snow</a><br />
+<a href="000124">New Server Arrives Today</a><br />
+<a href="000125">Hmm&#8230; want to send me</a><br />
+<a href="000126">Ken Rawlings drops a line</a><br />
+<strong>Validating Radio UserLand</strong><br />
+<a href="000128">Several years ago an aunt</a><br />
+<a href="000129">Dave makes a commitment to</a><br />
+<a href="000130">Rael Dornfest: Nutsy. &#8220;That&#8217;s ever</a><br />
+<a href="000131">US Congress: Universal Military Training</a><br />
+<a href="000132">McCusker: Poe showed me a</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

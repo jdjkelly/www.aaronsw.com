@@ -1,0 +1,49 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>How Misleading Can You Get? (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000789" title="Classic PowerPoint Presentations" />	<link rel="next" href="000791" title="growth spurt" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>How Misleading Can You Get?</h1>
+</div>
+
+<div class="content">
+<p>The RIAA has a website, musicunited.org, which among other obviously misleading statements has <a href="http://www.musicunited.org/2_thelaw.html">a page on the law</a> that strongly implies visiting a copyrighted web page could get you a $250,000 fine and five years in jail.</p><blockquote><p><strong>What the Courts Have to Say About Illegal Uploading and Downloading</strong> </p>
+
+<p>[&#8230;] &#8220;When a person browses a website, and by so doing displays the [copyrighted] Handbook, a copy of the Handbook is made in the computer&#8217;s random access memory (RAM), to permit viewing of the material. And in making a copy, even a temporary one, the person who browsed infringes the copyright. [&#8230;]&#8221;</p>
+
+<p>[&#8230;] If you do not have legal permission, and you go ahead and copy or distribute copyrighted music anyway, you can be prosecuted in criminal court and/or sued for damages in civil court. Criminal penalties for first-time offenders can be as high as five years in prison and $250,000 in fines.</p></blockquote><p>Of course they omit the fact that these criminal penalties are only for those who have willfully copied more than $1000 (retail value) of material in a 180-day period. And I really hope the RAM argument is invalid; I much prefer the <a href="http://cr.yp.to/rights.html">server makes a copy</a> theory.</p>
+
+<p>(Thought: if loading something into RAM is making a copy, isn&#8217;t looking at it the same? &#8220;The copy in her memory isn&#8217;t fixed, she&#8217;ll forget it soon.&#8221; Neither is RAM, it can be overwritten and will go away if the power is pulled. &#8220;The copy isn&#8217;t tangible, you can&#8217;t pick it up like you can with the RAM.&#8221; If you pick up the RAM, you&#8217;ll lose the data. &#8220;With the RAM you can make a perfect copy.&#8221; You can also remember some text and write down a perfect copy.)</p>
+
+<p class="posted">posted January 05, 2003 11:58 PM (<a class="category" href="cat_politics">Politics</a>)  <a href="000790" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000789" title="Classic PowerPoint Presentations">&laquo; prev</a> | <a href="./">up</a> | <a href="000791" title="growth spurt">next &raquo;</a></p>
+
+<p><a href="000781">Wireless &#8220;Security&#8221;</a><br />
+<a href="000783">Ideal PDA</a><br />
+<a href="000784">install in cron.yearly</a><br />
+<a href="000788">Is the Treo ideal?</a><br />
+<a href="000789">Classic PowerPoint Presentations</a><br />
+<strong>How Misleading Can You Get?</strong><br />
+<a href="000791">growth spurt</a><br />
+<a href="000792">Get your $20 from the music companies!</a><br />
+<a href="000793">Apple Goodies</a><br />
+<a href="000794">TiVo and Macs and Networks, oh my!</a><br />
+<a href="000795">&#8220;I helped hijack an airplane&#8221;</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

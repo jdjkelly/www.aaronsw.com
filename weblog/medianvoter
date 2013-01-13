@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>The Median Voter and the Mixed Voter (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>The Median Voter and the Mixed Voter</h1>
+
+<p>Our minds work by making models of the world and using them to predict how things will happen. These models are powerful because they&#8217;re so deeply-ingrained we don&#8217;t even realize we&#8217;re using them. They just seem like &#8220;common sense.&#8221; In politics, there are two major models for how voters think, which I&#8217;ll call the median voter model and the mixed voter model.</p>
+
+<p>The median voter model says that politics lives on a line from left to right. Voters are scattered across this line and vote for the politician that&#8217;s closest to them on it. Politicians get elected by &#8220;positioning&#8221; themselves closest to the most voters, which usually means in the &#8220;center&#8221; of the line.</p>
+
+<p>There are some complications, though. Because primary voters tend to be &#8220;more extreme&#8221; (i.e. Democratic primary voters are all on the left, Republicans on the right), politicians take a more extreme tack during the primaries, before heading back to the center for the general. And because they don&#8217;t want to seem like flip-floppers, they&#8217;re somewhat constrained by the primary positions they take.</p>
+
+<p>But, in general, this model is pretty widely-accepted in politics. So widely that it&#8217;s not even thought of as a model &#8212; it&#8217;s implicitly assumed by all the things political commentators say. Comments like &#8220;He&#8217;s moving to the center to pick up votes,&#8221; &#8220;[X] couldn&#8217;t get elected in that district, so how is someone more extreme going to make it?&#8221; only make sense because we all have this model in our heads.</p>
+
+<p>But, while I haven&#8217;t studied the question in detail, there doesn&#8217;t seem to be much evidence for this model. Even intuitively, it doesn&#8217;t make sense: does the average person really develop a location on a one-dimensional issue spectrum and then figure out where various politicians stand on that same spectrum? The notion seems almost ridiculous.</p>
+
+<p><strong>UPDATE:</strong> Andrew Gelman has studied the question in detail, and <a href="http://www.themonkeycage.org/2009/11/politicians_have_a_lot_of_leew.html">concludes</a> that the median voter theorem doesn&#8217;t seem to be true: &#8220;My research with Jonathan Katz suggests that being a moderate is worth about 2% of the vote in a congressional election: it ain&#8217;t nuthin&#8217;, but it certainly is not a paramount concern for most representatives. &#8230; Incumbent congressmembers almost always win reelection. And, when they don&#8217;t, they&#8217;re often losing as part of a national swing (as in the 1994 Republican sweep or the 2006/2008 Democratic shift). And when an incumbent does lose unexpectedly, it can be for something unrelated to their votes (remember the &#8220;check kiting scandal&#8221; of 1992?).&#8221;</p>
+
+<p>The mixed voter model, promoted by George Lakoff and most prominently adopted by Howard Dean, says that voters aren&#8217;t rational, coherent evaluators but a bundle of feelings, prejudices, and contradictions. Politicians get elected by playing on the feelings voters already have that would encourage a voter&#8217;s&#8217; support. Thus, instead of moving to the center to get more votes, Lakoff argued politicians should actually become more extreme. Conservatives won votes by appealing to people&#8217;s sense of order; liberals would have to respond by appealing to their sense of empathy. Moving to the center by promoting a compromise position that prevented rhetorical appeals of either type, was doomed. This model was used to explain why radical conservative politicians kept winning elections against moderate and centrist Democrats, when there was no evidence of a conservative electorate.</p>
+
+<p>This model makes much more sense to me, although again I haven&#8217;t seen too much specific evidence for it. But it&#8217;s still pretty rare and seems deeply-counterintuitive to most practitioners of politics. But whether it&#8217;s right on the details or not, it&#8217;s clear that unless we evaluate and question these models and think about them critically instead of just assuming one is true, it&#8217;ll be hard to make much political progress.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">July 28, 2009</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>&#8220;But it’s still pretty rare and seems deeply-counterintuitive to most practitioners of politics.&#8221;</p>
+
+<p>Most pundits, maybe. Most working practitioners, well, that&#8217;s another matter.</p>
+
+<p>&#8220;Politicians get elected by playing on the feelings voters already have that would encourage a voter’s’ support. Thus, instead of moving to the center to get more votes, Lakoff argued politicians should actually become more extreme. Conservatives won votes by appealing to people’s sense of order; liberals would have to respond by appealing to their sense of empathy.&#8221;</p>
+
+<p>Shorter - The right-wing runs on fear-mongering (this is not news). Liberals have to respond by, not, I think, empathy, but justice.</p>
+
+<p>But it&#8217;s really hard to do that in practice, for many reasons.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://sethf.com/">Seth Finkelstein</a>
+ on July 28, 2009 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>I think it&#8217;s likely a combination of the two models: voters take positions not on one linear scale, but on a multitude of them, approximately one per issue.  There&#8217;s been some recognition of this with the idea of &#8216;fiscally conservative democrats&#8217;, but not much - I think because it&#8217;s too complicated for the media to get across, so they ignore it.</p>
+
+<p class="posted">posted by PJ
+ on July 28, 2009 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>Also, you might save some time by looking into how the deep trenches political modeling is done in, for example, redistricting. I have a feeling you&#8217;re on your way to reinventing something along those lines.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://sethf.com/">Seth Finkelstein</a>
+ on July 28, 2009 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>I googled &#8220;irrational attitude of submission to authority&#8221; (without quotes) and your &#8220;Stanford: Day 16&#8221; Deep Thought blog entry was the second hit listed.  Haven&#8217;t checked out your blog since a couple of months back when your name was mentioned on CSPAN in reference to a study you did on Wikipedia.  At that time you were still on hiatus.</p>
+
+<p>Speaking of Wikipedia, the entry: Stochastic volatility, even though it refers to a financial model would seem to explain the less than linear configuration into which voters arrange themselves respective to each other.  Just swap the variables of goods or services and consumers with politicians and voters.</p>
+
+<p>It would certainly suit the ends of those trying to establish an oligarchy of the more financially able to convince people that they exist on such a one dimensional plain (respective to each other.)</p>
+
+<p class="posted">posted by James Hardy
+ on July 29, 2009 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="medianvoter" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

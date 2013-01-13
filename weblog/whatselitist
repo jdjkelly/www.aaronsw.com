@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>What is Elitism? (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>What is Elitism?</h1>
+
+<p>This week&#8217;s Sunday Bonus Post <a href="http://lists.canonical.org/pipermail/kragen-tol/2006-October/000831.html">comes from local genius Kragen Sitaker</a>.</p>
+
+<p>Upon reading an article that claimed:</p>
+
+<blockquote>
+  <p>[S]cience is hard. It is therefore inherently &#8220;elitist,&#8221; merely in this obvious sense: as with skateboarding, some will be demonstrably better at it than others.</p>
+</blockquote>
+
+<p>Kragen saw fit to ponder the meaning of elitism. Kragen thinks of himself as an anti-elitist, but he&#8217;s also very pro-science. How to reconcile the two?</p>
+
+<p>Kragen begins by defining &#8220;elite&#8221;:</p>
+
+<blockquote>
+  <p>An &#8220;elite&#8221; is a small group of people who are distinguished from the majority in one of two ways: either they are better in some way, or they have more power.  These are distinct meanings, although apologists for established orders like to conflate them, and sometimes one leads to the other.  Sometimes an elite is distinguished by the mastery of a particular skill, such as skateboarding or mathematics, and sometimes by past accomplishments; but the much more common sense of the term today is to refer to a group of people who have power.</p>
+</blockquote>
+
+<p>Elitism, then (according to Kragen) is the ideology that insists that the elite and non-elite reached their positions through intrinsic merit. (This belief might also be called meritocracy, but that is perhaps a less pejorative term.)</p>
+
+<p>Ironically, the very article that begun this investigation appears to believe in this ideology. The article claims that textbooks, in trying to be &#8220;democratic&#8221;, lower their standards so that even the dullest students can comprehend them. Instead, the article insists, textbooks must be more &#8220;elitist&#8221; and teach real science, which is hard.</p>
+
+<p>Anti-elitists like Kragen and I would agree that textbooks should teach more real science, which is hard. But we do not consider this elitist, because we do not believe that only a small elite has the capability of comprehending physics.</p>
+
+<p>To anti-elitists, egalitarianism does not require lowering standards, since we believe more people can reach higher standards with more resources. But to elitists, this seems an impossibility. The only reason they are in the club is because they deserve it; to let others in requires bringing the requirements down.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">October 29, 2006</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p><i>Elitism, then (according to Kragen) is the ideology that insists that the elite and non-elite reached their positions through intrinsic merit.</i></p>
+
+<p>This is a straw horse, making elitism a mere tautology. I&#8217;m almost certainly an elitist, if not among the &#8220;elite,&#8221; but I recognize some set of people reach their influential positions through accident of birth or some other form of luck. (Less so under a meritocracy than an aristocracy.)</p>
+
+<p><i>Anti-elitists like Kragen and I would agree that textbooks should teach more real science, which is hard. But we do not consider this elitist, because we do not believe that only a small elite has the capability of comprehending physics.</i></p>
+
+<p>This begs the question. Lots of kids can &#8220;comprehend&#8221; physics to an extent, but there&#8217;s no evidence that all but a few have the wit or inclination to master it. So the result will still be stratified, no matter how many resources you throw at the problem. True, part of this is because we don&#8217;t have an unlimited need for physicists; lot of kids who may have the aptitude for it simply will never develop the skill.</p>
+
+<p>It would be useful to identify yourselves as idealists. (Not that there&#8217;s anything wrong with that.) E.g., you&#8217;d be a far more effective physics teacher if you believe every one of your students can master the work, regardless of whether they <i>will</i> master it.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://letmespellitoutforyou.blogspot.com/">Mike Sierra</a>
+ on October 31, 2006 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="whatselitist" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

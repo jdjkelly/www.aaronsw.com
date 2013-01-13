@@ -1,0 +1,47 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Blogging with the Big Boys (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000475" title="Where&#8217;s Shakespeare?" />	<link rel="next" href="000483" title="Font Editor in Jaguar?" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Blogging with the Big Boys</h1>
+</div>
+
+<div class="content">
+<p><a href="http://weblog.burningbird.net/archives/000396.php">BurningBird talks about weblog consortiums</a> (is it just me, or is that site white on white?): &#8220;On my own system, once the environment is in place for Movable Type, adding new weblogs isn&#8217;t that much of a strain on resources.&#8221;</p>
+
+<p>I&#8217;m in a similar position. If you&#8217;re someone cool and you need weblog space, I can set you up with Movable Type, an Apache server and even a spiffy yournamehere.blogspace.com domain. </p>
+
+<p>If you&#8217;re not cool, you can become cool by writing a Distributed Hash Table in Python for me. ;-)</p>
+
+<p class="posted">posted August 06, 2002 12:04 PM (<a class="category" href="cat_technology">Technology</a>)  <a href="000478" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000475" title="Where&#8217;s Shakespeare?">&laquo; prev</a> | <a href="./">up</a> | <a href="000483" title="Font Editor in Jaguar?">next &raquo;</a></p>
+
+<p><a href="000470">Standards and the Law</a><br />
+<a href="000472">Ethics By Analogy</a><br />
+<a href="000473">Reading in your Aggregator</a><br />
+<a href="000474">Government Responds in Eldred v. Ashcroft</a><br />
+<a href="000475">Where&#8217;s Shakespeare?</a><br />
+<strong>Blogging with the Big Boys</strong><br />
+<a href="000483">Font Editor in Jaguar?</a><br />
+<a href="000485">we put the &#8220;FUN&#8221; in phonetic!</a><br />
+<a href="000486">Geek Tees</a><br />
+<a href="000487">I&#8217;m Baaaaaack!</a><br />
+<a href="000488">MP3 Political Party</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

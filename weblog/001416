@@ -1,0 +1,226 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Published Author (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001416.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001412" title="Behind the Thick Black Line" />	<link rel="next" href="001418" title="Stanford: Day 1" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Published Author</h1>
+</div>
+
+<div class="content">
+<p>I am greatly honored to announce that my RFC has been published:</p>
+
+<blockquote>
+  <p>A new Request for Comments is now available in online RFC libraries.</p>
+
+<pre><code>    RFC 3870
+
+    Title:      application/rdf+xml Media Type Registration
+    Author(s):  A. Swartz
+    Status:     Informational
+    Date:       September 2004
+    Mailbox:    me@aaronsw.com
+    Pages:      8
+    Characters: 14195
+    Updates/Obsoletes/SeeAlso:    None
+
+    I-D Tag:    draft-swartz-rdfcore-rdfxml-mediatype-05.txt
+
+    URL:        &lt;ftp://ftp.rfc-editor.org/in-notes/rfc3870.txt&gt;
+</code></pre>
+</blockquote>
+
+<p><a href="http://www.rfc-editor.org/rfc/rfc3870.txt">Read it</a>.</p>
+
+<p class="posted">posted September 15, 2004 06:36 PM (<a class="category" href="cat_personal">Personal</a>) (<a href="#comments">6 comments</a>) <a href="001416" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001412" title="Behind the Thick Black Line">&laquo; prev</a> | <a href="./">up</a> | <a href="001418" title="Stanford: Day 1">next &raquo;</a></p>
+
+<p><a href="001405">Press Clipping</a><br />
+<a href="001406">How Control Works</a><br />
+<a href="001407">Right Wing Funnies</a><br />
+<a href="001410">Framing the Media</a><br />
+<a href="001412">Behind the Thick Black Line</a><br />
+<strong>Published Author</strong><br />
+<a href="001418">Stanford: Day 1</a><br />
+<a href="001419">Stanford: Day 2</a><br />
+<a href="001420">Stanford: Night 2</a><br />
+<a href="001421">Stanford: Day 3</a><br />
+<a href="001422">Stanford: Day 4</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c2810">
+
+<p>A few days ago Mozilla added support for this MIME type. I actually thought it was therefore already registered, but apparently everyone is actually waiting for this.</p>
+
+<p>Will somethine like &#8216;application/rdf+n3&#8217; be specified as well, eventually?</p>
+
+<p class="posted">posted by <a target="_blank" title="http://annevankesteren.nl/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2810">Anne van Kesteren</a> at September 16, 2004 01:17 AM <a href="#c2810">#</a></p>
+
+</div><div id="c2811">
+
+<p>Yeah it&#8217;s tacky, but I read one of your posts and wanted to share:</p>
+
+<p>http://www.pajiba.com/liberal-media.htm</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.nestofninnies.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2811">ryan</a> at September 16, 2004 02:01 AM <a href="#c2811">#</a></p>
+
+</div><div id="c2814">
+
+<p>Congratulations!</p>
+
+<p class="posted">posted by <a target="_blank" title="http://firasd.org" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2814">Firas</a> at September 16, 2004 04:51 PM <a href="#c2814">#</a></p>
+
+</div><div id="c2816">
+
+<blockquote>
+  <p>Will somethine like &#8216;application/rdf+n3&#8217; be specified as well, eventually?</p>
+</blockquote>
+
+<p>I wouldn&#8217;t count on it.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2816">Aaron Swartz</a> at September 17, 2004 11:23 AM <a href="#c2816">#</a></p>
+
+</div><div id="c2817">
+
+<p>I&#8217;m glad I didn&#8217;t comment on &#8220;Undergraduate Overachiever&#8221; by asking &#8220;Yeah, but what have you done lately?&#8221;</p>
+
+<p class="posted">posted by skeeter at September 17, 2004 11:42 AM <a href="#c2817">#</a></p>
+
+</div><div id="c2875">
+
+<p>hi-five, Aaron!</p>
+
+<p>About N3&#8230; the <a href="http://www.w3.org/DesignIssues/Notation3">design note</a> specifies a media type of text/rdf+n3 and the w3.org web server is using it:</p>
+
+<pre>
+$ curl -I http://www.w3.org/2000/10/swap/util/validate.n3
+HTTP/1.1 200 OK
+Content-Type: text/rdf+n3; qs=0.89
+</pre>
+
+<p>Anybody wanna do what Aaron did for RDF/XML and finish registering it?</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.w3.org/People/Connolly/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2875">Dan Connolly</a> at September 23, 2004 08:56 PM <a href="#c2875">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001416.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1416" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

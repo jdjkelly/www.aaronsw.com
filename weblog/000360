@@ -1,0 +1,53 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>License Haiku (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000358" title="cloudmark" />	<link rel="next" href="000362" title="My Cocoa App" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>License Haiku</h1>
+</div>
+
+<div class="content">
+<p><strong>Update:</strong> More licenses at <a href="http://www.quicktopic.com/boing/H/xk9pNnpwmwRdU">QuickTopic</a>, <a href="http://advogato.org/person/raph/diary.html?start=220">raph&#8217;s weblog</a>.</p>
+
+<p>I think that people really use software licenses to express intentions, and don&#8217;t really read the details of the licenses. So I think that licenses should be made as simple as possible, so that they don&#8217;t disagree with intentions&#8230; thus, haiku licensing:</p>
+
+<p>PD: do what you feel like / since the work is abandoned / the law doesn&#8217;t care<br />
+MIT: take my code with you / and do whatever you want / but please don&#8217;t blame me<br />
+LGPL: you can copy this / but make modified versions / free in source code form<br />
+MPL: like LGPL / except netscape is allowed / to change the license<br />
+GPL: if you use this code / you and your children&#8217;s children / must make your source free</p>
+
+<p>RIAA: if you touch this file / my lawyers will come kill you / so kindly refrain</p>
+
+<p class="posted">posted June 20, 2002 11:08 PM (<a class="category" href="cat_politics">Politics</a>)  <a href="000360" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000358" title="cloudmark">&laquo; prev</a> | <a href="./">up</a> | <a href="000362" title="My Cocoa App">next &raquo;</a></p>
+
+<p><a href="000352">do the Archive!</a><br />
+<a href="000355">Do you trust Microsoft&#8217;s Trusted Computing Platform?</a><br />
+<a href="000356">David Sifry is Online</a><br />
+<a href="000357">[more|less] annoying than an NPR Pledge Drives</a><br />
+<a href="000358">cloudmark</a><br />
+<strong>License Haiku</strong><br />
+<a href="000362">My Cocoa App</a><br />
+<a href="000363">EFF Rudeness</a><br />
+<a href="000364">Emergent Hypertext</a><br />
+<a href="000365">Microsoft Attempts to Cement Monopoly Under Guise of Continuing Copyright Terrorism</a><br />
+<a href="000366">An Anti-DRM Video Game</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

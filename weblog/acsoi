@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Understanding Groupon Means Understanding ACSOI (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Understanding Groupon Means Understanding ACSOI</h1>
+
+<p>Imagine you started a business that delivered people a box of cereal each week. Each week they pay you, you take their money and buy a box of cereal and some shipping, and keep what&#8217;s left over. You learn that the average new customer brings in $50 in profit over their lifetime, so you decide to spend some of that money to get new customers &#8212; say, by buying <a href="http://www.aaronsw.com/weblog/adlogic">web ads</a>.</p>
+
+<p>With web ads, you can say exactly how much you want to spend for each new customer. Now the future isn&#8217;t necessarily like the past &#8212; things could go wrong &#8212; but it seems safe to, say, spend $5 to get a new customer. If the future is like the past, you&#8217;ll make $45 each time you do this. And even if future customers are only half as good as current ones, you&#8217;ll still be making $20 each time you do this!</p>
+
+<p>How much money should you spend on marketing? Well, others have started to notice you making money hand-over-fist and have decided to start competing. Best to get people hooked on your service than on theirs, right? And each dollar you spend now is going to bring in ten times later, so it&#8217;d be crazy not to spend everything you could, right? You&#8217;re only making $10 million a year right now o you get your investors to put in another $100 million and quickly spend it all on marketing.</p>
+
+<p>Now by traditional accounting standards, you&#8217;re $90 million in the red. But that seems like a misleading way to count. After all, if you stopped marketing tomorrow you&#8217;d have a nice, profitable $10 million a year business. Instead it makes sense to look at the $10 million dollars a year you&#8217;re making on the one hand and your aggressive expansion plan (in particular, how much it costs to get a new customer and the lifetime value expected from a new customer) on the other.</p>
+
+<p>This, as best as I can tell, was the story of Groupon. They called that first number (the business you have now, aside from the expansion attempt) ACSOI.</p>
+
+<p>But the press didn&#8217;t seem to understand any of this. Groupon was pilloried for playing accounting games that turned a huge loss into a moderate profit. And when, in response, Groupon took the ACSOI numbers out of their prospectus, it was hailed as a victory over fraudulent accounting.</p>
+
+<p>Which all strikes me as ridiculous. Groupon didn&#8217;t hide the fact that they were losing money by traditional accounting standards. They said so up front, but then provided the additional data that they use internally. Just some additional information, no pressure: &#8220;While we track this management metric internally to gauge our performance, we encourage you to base your investment decision on whatever metrics make you comfortable,&#8221; they said. How does taking this information out of the prospectus help anyone?</p>
+
+<p>Now there are valid questions about this model. Perhaps the future won&#8217;t be like the past, perhaps Groupon&#8217;s cost-per-acquisition is way too high, perhaps trying to grow so fast is risky. Or maybe Groupon is presenting misleading ACSOI numbers and even if they stopped all marketing today they&#8217;d still be losing money. I&#8217;d genuinely like to know. But the discussion needs to start with understanding what they&#8217;re saying, not just pretending they&#8217;re making stuff up.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">August 18, 2011</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>I think the press and market have understood Groupon quite clearly.  They have a challenging business, and it&#8217;s common in those cases for managers to find metrics that cast the business in a more favorable light.</p>
+
+<p>The challenge with your view is that it&#8217;s very hard to distinguish between &#8220;marketing spend that drives current business&#8221; and &#8220;marketing spend that drives future business&#8221;.  If you spend $10 to get Mary as a customer, you hope she comes back again, but you won&#8217;t know until then how much of your $10 went to getting her business today, vs getting her future (lifetime) value.</p>
+
+<p>Hence, &#8220;ASCOI&#8221;, since it excluded important marketing spend to keep the existing business going, wasn&#8217;t that helpful, and was even a bit misleading.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.payne.org">Andy</a>
+ on August 18, 2011 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>I guess this is kind of the key point. Groupon doesn&#8217;t need to market to current customers. They can just email them. It&#8217;s much more effective.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on August 18, 2011 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>That assumes that Groupon&#8217;s customers continue to respond to email at the same conversion rate (e.g. they never fatigue after their first Groupon) and that email customers never unsubscribe.</p>
+
+<p>You can&#8217;t assume either of those.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.payne.org">Andy</a>
+ on August 18, 2011 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>Both of those are already included into the lifetime customer value which can be derived from real customers who fatigue and unsubscribe.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on August 18, 2011 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>The ACSOI criticism I&#8217;ve read has been based on the idea Groupon never sufficiently motivated its invention and use. They dropped it in like a cherry on top, so that some &#8216;profit&#8217; was shown, with only cursory explanation.</p>
+
+<p>A better explanation could have addressed ACSOI critics&#8217; concerns and your &#8216;valid questions&#8217;&#8230; if in fact the ACSOI approach was justifiable.</p>
+
+<p>However, the details that could justify an &#8216;if you stopped marketing tomorrow&#8217; analysis – like customer/business loyalty – are turning against Groupon, making &#8216;lifetime value&#8217; very murky.</p>
+
+<p>That said, I wouldn&#8217;t have forced Groupon to elide any information about how they internally value their business from their prospectus. (If nothing else, it&#8217;s evidence of how they&#8217;re lying to themselves.)</p>
+
+<p>Investors don&#8217;t need a paternalistic SEC protecting</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://memesteading.com">Gordon Mohr</a>
+ on August 18, 2011 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c6">
+<p>[er, hit &#8216;publish&#8217; too soon]</p>
+
+<p>Investors don’t need a paternalistic SEC protecting them from more information, only blatantly false information. The marketplace of ideas works better than ever, certainly better than a 1930s-erected regulatory structure.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://memesteading.com">Gordon Mohr</a>
+ on August 18, 2011 <a href="#c6" rel="bookmark">#</a></p>
+</div>
+<div id="c7">
+<p>It sounds like you came up with this on your own (kudos), but this is a well known concept called customer lifetime value.</p>
+
+<p>No one analyzing Groupon&#8217;s filing misunderstood the concept of lifetime value. The tricky part isn&#8217;t understanding the concept that securing a stream of payments in the future is worth paying for, the tricky part is modelling what those payments are going to be and how much they are worth today.</p>
+
+<p>ASCOI implies a level of profitability which is achievable with zero marketing. The model underlying this is incredibly simplistic and almost certainly the wrong way to look at their customer lifetime value.</p>
+
+<p class="posted">posted by Adam
+ on August 18, 2011 <a href="#c7" rel="bookmark">#</a></p>
+</div>
+<div id="c8">
+<p>I think the problem with your allegory is that your customers actually get a box of cereal every week.  Groupon actually doesn&#8217;t deliver anything of direct tangible value to the consumer.  I could sign up and NEVER get any benefit because I don&#8217;t like any of the stuff they&#8217;re hawking.</p>
+
+<p>A slightly different perspective can be found on my <a href="http://mikemainguy.blogspot.com/2011/08/groupon-makes-me-tired.html" rel="nofollow">blog</a></p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://mikemainguy.blogspot.com">Mike Mainguy</a>
+ on August 18, 2011 <a href="#c8" rel="bookmark">#</a></p>
+</div>
+<div id="c9">
+<p>I would challenge the assumption that if Groupon stopped spending marketing money, their revenue would continue.</p>
+
+<p>The vast majority of Groupon&#8217;s marketing budget was spent marketing TO BUSINESSES (ie: acquiring deals). They have thousands of employees calling every business in every country they operate, right? If they stop that, then the deals dry up and they have nothing to sell.</p>
+
+<p>There&#8217;s some evidence the Groupon phenomenon was a fad, and in 2 years people will stop buying these coupons.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://sabbatical.me">Scott</a>
+ on August 18, 2011 <a href="#c9" rel="bookmark">#</a></p>
+</div>
+<div id="c10">
+<p>Interesting analysis&#8230;has given me some ideas, thank you!</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://zezzyy.com">Zezzy</a>
+ on August 18, 2011 <a href="#c10" rel="bookmark">#</a></p>
+</div>
+<div id="c11">
+<p>&#8220;vast majority of Groupon’s marketing budget was spent marketing TO BUSINESSES&#8221;</p>
+
+<p>False. Its marketing costs are almost exclusively related to building its email list and account base. It&#8217;s sales efforts are included in SG&amp;A.</p>
+
+<p>So, yes, Groupon could bring marketing spend to $0 and still run an effective business.</p>
+
+<p class="posted">posted by pbreit
+ on August 18, 2011 <a href="#c11" rel="bookmark">#</a></p>
+</div>
+<div id="c13">
+<p>Is there more scrutiny and suspicion because the founders and early investors took out over $800M from the last round?</p>
+
+<p class="posted">posted by \Mike
+ on August 19, 2011 <a href="#c13" rel="bookmark">#</a></p>
+</div>
+<div id="c14">
+<p>@ Mike-  Great point!  And is this not the main reason so many start-ups fail- bosses over paying themselves?  No one does business for the love of it anymore, it seems a if everyone has gone greedy.</p>
+
+<p class="posted">posted by Zezzy
+ on August 19, 2011 <a href="#c14" rel="bookmark">#</a></p>
+</div>
+<div id="c15">
+<p>&#8220;Or maybe Groupon is presenting misleading ACSOI numbers and even if they stopped all marketing today they’d still be losing money.&#8221;</p>
+
+<p>They were profitable in the past, so if they stopped marketing, they probably would be profitable again.</p>
+
+<p>But I don&#8217;t think they correctly predict lifetime customer value.</p>
+
+<p class="posted">posted by Douglas Knight
+ on August 24, 2011 <a href="#c15" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="acsoi" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

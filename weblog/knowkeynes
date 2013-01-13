@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>You Don't Know John (Maynard Keynes) (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>You Don&#8217;t Know John (Maynard Keynes)</h1>
+
+<p>From the right, <a href="http://www.becker-posner-blog.com/2009/11/how-to-increase-employment--becker.html">Gary Becker writes</a>:</p>
+
+<blockquote>
+  <p>Keynes and many earlier economists emphasized that unemployment rises
+  during recessions because nominal wage rates tend to be inflexible in
+  the downward direction.</p>
+</blockquote>
+
+<p>From the left, <a href="http://yglesias.thinkprogress.org/2010/07/stimulus-and-the-welfare-state/">Matt Yglesias writes</a>:</p>
+
+<blockquote>
+  <p>&#8230;the Keynesian prescription is not only for the government to run deficits in response to recessions, but to run surpluses in expansions. Thus, the Clinton administration&#8217;s fiscal policies were arguably &#8220;Keynesian&#8221; but the Reagan and (especially) George W Bush administrations were implementing an agenda that flew in the face of Keynes&#8217; ideas much more clearly than anything Angela Merkel&#8217;s ever done.</p>
+</blockquote>
+
+<p>Neither of these are true at all. Pretty much the very first thing Keynes says in the general theory is that downwardly-inflexible nominal wage rates (sticky wages) are a <em>good</em> thing. And he spends a large part of chapter 8 denouncing the practice of saving surpluses (sinking funds).</p>
+
+<p>So where do they get this stuff? While these aren&#8217;t the views of Keynes, both these views are held by the so-called &#8220;New Keynesians&#8221; &#8212; people like Paul Krugman and Greg Mankiw, who have tried to shoehorn a moderate version of Keynes into classical economics. These proponents are rather more prominent than more traditional Keynesians like Jamie Galbraith, so political commentators hear their view and assume it&#8217;s a faithful representation of Keynes&#8217; own.</p>
+
+<p>Perhaps Keynes was wrong &#8212; after all, we shouldn&#8217;t slavishly follow the scribblings of some defunct economist. But if so, we should tell the truth and admit we&#8217;re disagreeing with Keynes, not expounding his ideas. (Both Yglesias and Becker have not run a correction, despite my emails.) Furthermore, we should actually engage with Keynes&#8217; argument.</p>
+
+<p>On sticky wages, Keynes says that if nominal wages could fall, then nominal costs would fall, which would mean that nominal prices would fall, which means that real wages would end up staying the same.<sup id="fnref:q1"><a href="#fn:q1" rel="footnote">1</a></sup> But, even worse, if there was no stickiness at all, nothing would stop nominal wages from falling further and further until eventually everyone was paid zero.<sup id="fnref:q2"><a href="#fn:q2" rel="footnote">2</a></sup> I have never heard the New Keynesians respond to this argument.</p>
+
+<p>On the question of surpluses, Keynes criticizes them as a pointless reduction of aggregate demand. They create unemployment because they take money out of circulation for no real purpose. It&#8217;s just supposed to sit around until a &#8220;rainy day&#8221; when the economy isn&#8217;t doing so well. But when that rainy day comes, the reason the economy isn&#8217;t doing well is because people are out of work. If that&#8217;s true, you can simply print more money to get them back to work without any ill effects. (Printing money only causes inflation at full employment.) You don&#8217;t get any benefit from having taken the money out of circulation earlier.<sup id="fnref:q3"><a href="#fn:q3" rel="footnote">3</a></sup></p>
+
+<p>Both these seem like strong arguments to me. Perhaps that&#8217;s why it&#8217;s easier to pretend they don&#8217;t exist.</p>
+
+<div class="footnotes">
+<hr />
+<ol>
+
+<li id="fn:q1">
+<p><a href="http://www.marxists.org/reference/subject/economics/keynes/general-theory/ch02.htm">Chapter 2</a>:</p>
+
+<blockquote>
+  <p>&#8230;if money-wages change, one would have expected the classical school to argue that prices would change in almost the same proportion, leaving the real wage and the level of unemployment practically the same as before, any small gain or loss to labour being at the expense or profit of other elements of marginal cost which have been left unaltered.</p>
+</blockquote>
+
+<p><a href="#fnref:q1" rev="footnote">&#8617;</a></p>
+</li>
+
+<li id="fn:q2">
+<p><a href="http://www.marxists.org/reference/subject/economics/keynes/general-theory/ch21.htm">Chapter 21</a>:</p>
+
+<blockquote>
+  <p>If, on the contrary, money-wages were to fall without limit whenever there was a tendency for less than full employment, the asymmetry would, indeed, disappear. But in that case there would be no resting-place below full employment until either the rate of interest was incapable of falling further or wages were zero. In fact we must have some factor, the value of which in terms of money is, if not fixed, at least sticky, to give us any stability of values in a monetary system.</p>
+</blockquote>
+
+<p><a href="#fnref:q2" rev="footnote">&#8617;</a></p>
+</li>
+
+<li id="fn:q3">
+<p><a href="http://www.marxists.org/reference/subject/economics/keynes/general-theory/ch08.htm">Chapter 8</a>:</p>
+
+<blockquote>
+  <p>We must also take account of the effect on the aggregate propensity to consume of Government sinking funds for the discharge of debt paid for out of ordinary taxation. For these represent a species of corporate saving, so that a policy of substantial sinking funds must be regarded in given circumstances as reducing the propensity to consume. It is for this reason that a change-over from a policy of Government borrowing to the opposite policy of providing sinking funds (or <em>vice versa</em>) is capable of causing a severe contraction (or marked expansion) of effective demand.</p>
+  
+  <p>[&#8230;]</p>
+  
+  <p>Or again, in Great Britain at the present time (1935) [thanks to] the principles of &#8220;sound&#8221; finance [sinking funds are so large] that even if private individuals were ready to spend the whole of their net incomes it would be a severe task to restore full employment&#8230;The sinking funds of local authorities now stand &#8230; at an annual figure of more than half the amount which these authorities are spending on the whole of their new developments. [footnote giving the amounts] Yet it is not certain that the Ministry of Health are aware, when they insist on stiff sinking funds by local authorities, how much they may be aggravating the problem of unemployment.</p>
+</blockquote>
+
+<p><a href="#fnref:q3" rev="footnote">&#8617;</a></p>
+</li>
+
+</ol>
+</div>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">July 27, 2010</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>On point number two, I think you are missing the role government surpluses would play in moderating inflation during periods of rapid growth, while repaying the debt incurred by deficit spending our way out of a previous recession, all the while getting us ready for the next cycle. Neo-Keynesians are about doing the right thing at the right time. Neither Keynes nor we ourselves have seen much of that, but we can hope.</p>
+
+<p class="posted">posted by Warren Yoder
+ on July 27, 2010 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="knowkeynes" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

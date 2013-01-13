@@ -1,0 +1,44 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+  <title>If I get hit by a truck...</title>
+  <link rel="stylesheet" type="text/css" href="/style.css" />
+</head>
+<body>
+<div id="head">
+  <h1>If I get hit by a truck...</h1>
+  <span class="description">...please read this web page</span>
+</div>
+<div class="content">
+
+<p><a href="http://www.aaronsw.com/2002/continuity.sig">digital signature for this page</a></p>
+
+<p>There's an old joke among programmers about who will maintain the code when its author gets hit by a truck. This page is here so that if for some reason I'm no longer able to keep my web services running, people will know what to do.</p>
+
+<p>I designate <a href="http://purl.org/net/sbp/">Sean B. Palmer</a> as my virtual executor to organize such things. (And if you delete <em>anything</em>, Sean, I will haunt you from the grave!)</p>
+
+<p>I ask that the contents of all my hard drives be made publicly available from aaronsw.com.</p>
+
+<dl>
+<dt>web.resource.org</dt>
+<dd>Sean (or someone he designates) should become the new curator/webmaster. Please continue updating the site and mirror list and ensuring the persistence of its URIs. (This means that nothing controvertial or illegal should be included. Save those for cryptome.)</dd>
+<dt>Source Code</dt>
+<dd>Copyright for my GPLed source code should revert to the Free Software Foundation. They seem to have a reasonable policy about letting people use the code.</dd>
+<dt>Websites</dt>
+<dd>Please keep the websites operational where possible, with content written by me kept untouched where appropriate. Appropriate pages (e.g. on aaronsw.com) may contain a notice about what happened with a link to more info. The front page of aaronsw.com should be redone as appropriate with a link to the old page.</dd>
+<dt>Grave</dt>
+<dd>I'd like to rest someplace that won't kill me. That means access to oxygen (although direct access would probably be bad) and not having to climb through six feet of dirt.</dd>
+</dl>
+
+<p>For other stuff, email Sean. I'm sure he'll do something reasonable.</p>
+
+<p>If something does happen to me, please update the footer of this page with a link. Also email the relevant lists and set up an autoresponder for my email address to email people who write to me. Feel free to publish things people say about me on the site. These are probably all obvious and I'm sure you'll figure it out.</p>
+
+<p>Oh, and BTW, I'll miss you all.</p>
+
+<p>[based on <a href="http://www.tuxedo.org/~esr/continuity.html">ESR's page</a>]</p>
+</div>
+<div class="footer">
+  <address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+<em>I'm not dead yet!</em>
+</div></body>
+</html>

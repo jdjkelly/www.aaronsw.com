@@ -1,0 +1,260 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Stanford: Reach Out and Hug Someone (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001592.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001591" title="David Horowitz on Academic Freedom" />	<link rel="next" href="001593" title="Stanford: Allergic Reactions" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Stanford: Reach Out and Hug Someone</h1>
+</div>
+
+<div class="content">
+<p class="dateline">February 3</p>
+
+<p>My roommate <a href="http://www.aaronsw.com/weblog/001426">still talks to his girlfriend via a webcam</a>, but it&#8217;s not easy. He has to stay quiet to give it some sense of privacy when all four of us are in the room, but then she can&#8217;t hear what he&#8217;s saying, leading to dialogue like this.</p>
+
+<p>B: <em>(sweetly)</em> I can&#8217;t wait to see you. <br />
+G: [&#8230;] <br />
+B: <em>(enunciating)</em> I said, I can&#8217;t wait to see you. <br />
+G: [&#8230;] <br />
+B: Never mind.</p>
+
+<hr />
+
+<p>Zimbardo, you may recall, is the man behind the famed Stanford Prison Experiment. The basic idea of the expeirment is this: take 24 normal, healthy college students. Tell half they will be guards and half they will be prisoners. Give them relatively little guidance and see what happens. Well, things quickly got out of hand: the guards started wailing on the prisoners, dividing them against each other, taking away their mattresses and bathroom rights, locking them in solitary confinement, spraying them down with hoses. And, it&#8217;s important to understand, the prisoners had done nothing wrong. They were just average college students in an experiment, exactly like the guards.</p>
+
+<p>In the modern context, it&#8217;s not hard to hear this story without thinking Abu Ghraib (indeed, Zimbardo says he&#8217;s writing a book on the prison experiment and Abu Ghraib). Ghraib was like the prison experiment times ten: the guards also thought the prisoners were evil sub-human monsters, they were under intense pressure to soften them up for military intelligence, etc. The results, while scary, are compelling evidence for Zimbardo&#8217;s belief that anyone will act evil when put in the right situation.</p>
+
+<p>But it goes the other way too: the prison experiment pretty clearly proves the problem isn&#8217;t with the guards. How can the guards possibly be guilty when <em>anyone</em> put in that situation would have done the same thing and in fact we have experimental evidence showing that they do. If the Abu Ghraib prison guards deserve jail time, why don&#8217;t we all, since we would all do the same thing if we were in their situation?</p>
+
+<p>It&#8217;s one thing to say these things. It&#8217;s another to say them to the Court, as Zimbardo did as an expert witness at one of the Ghriab guards&#8217; trial. But it&#8217;s yet another to truly believe them, as Zimbardo appears to: he invited the guard to his house for dinner and shows us a photo of the two hugging. How many of us would have the courage to hug an Abu Ghraib guard?</p>
+
+<p>(Afternote: The judge didn&#8217;t care what Zimbardo had to say and gave the guard the maximum sentence.)</p>
+
+<p class="posted">posted February 27, 2005 01:47 AM (<a class="category" href="cat_education">Education</a>) (<a href="#comments">9 comments</a>) <a href="001592" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001591" title="David Horowitz on Academic Freedom">&laquo; prev</a> | <a href="./">up</a> | <a href="001593" title="Stanford: Allergic Reactions">next &raquo;</a></p>
+
+<p><a href="001579">Stanford: Go, Team, Go!</a><br />
+<a href="001588">Intellectual Diversity at Stanford</a><br />
+<a href="001589">Stanford: Shocking</a><br />
+<a href="001590">Stanford: Sanity</a><br />
+<a href="001591">David Horowitz on Academic Freedom</a><br />
+<strong>Stanford: Reach Out and Hug Someone</strong><br />
+<a href="001593">Stanford: Allergic Reactions</a><br />
+<a href="001594">Stanford: Limerick</a><br />
+<a href="001595">Stanford: Psychology is a Fraud</a><br />
+<a href="001597">Jimbo Wales on Wikipedia</a><br />
+<a href="001596">Stanford: Roosevelt Institution Kickoff Party</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c4054">
+
+<p>So are you saying there should be no repercussions for the abusive prison guards, or are you saying the punishment should taking into account his Zimbardo effect?  </p>
+
+<p>Regarding the Zimbardo effect: I don&#8217;t know enough about this study, but it seems to me there&#8217;s a flaw in the logic that 24 Stanford students are average and just like everyone else.  This seems more accurate: take 24 of the nation&#8217;s most Type A people, and impose an artificial hierarchy on them.  The results are no less horrifying, but not as surprising.  </p>
+
+<p>I wonder what would have happened at Hampshire?  Or Reed?  Or Florida State?  Has this been repeated with different groups?</p>
+
+<p>Oh, and Fuck Stanford! :-p  </p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.allthingsalceste.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=4054">Dan Steingart</a> at February 27, 2005 02:26 PM <a href="#c4054">#</a></p>
+
+</div><div id="c4055">
+
+<p>Personally, I don&#8217;t think there should be any punishment for the prison guards, no. Maybe some therapy, though.</p>
+
+<p>They weren&#8217;t Stanford students; they were from colleges all over the Bay Area.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=4055">Aaron Swartz</a> at February 27, 2005 02:35 PM <a href="#c4055">#</a></p>
+
+</div><div id="c4059">
+
+<p>Interesting.  If this was in the US, I would agree.  There&#8217;s a foreign policy rub though.  If we&#8217;re going to seem like we actually care about Iraqi welfare, the world needs to see one of ours go down for this mess, and I think that in large part motivated the sentencing.  Logic be damned, unfortunately.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.allthingsalceste.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=4059">Dan Steingart</a> at February 27, 2005 02:53 PM <a href="#c4059">#</a></p>
+
+</div><div id="c4060">
+
+<p>Actually, I take that back.  I would disagree in the US as well.  Even if the &#8220;natural tendency&#8221; is towards abuse, such abuse must be stemmed.  If negative reinforcement and the fear of liability stops people from beating on each other, well, so be it.  </p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.allthingsalceste.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=4060">Dan Steingart</a> at February 27, 2005 02:57 PM <a href="#c4060">#</a></p>
+
+</div><div id="c4063">
+
+<blockquote>
+  <p>If we&#8217;re going to seem like we actually care about Iraqi welfare, the world needs to see one of ours go down for this mess, and I think that in large part motivated the sentencing.  </p>
+</blockquote>
+
+<p>Yeah, I would have no problem locking up Bush or Rumsfeld or someone like that, or perhaps even killing them (in accordance with the Republican-passed War Crimes Act of 1998), to show how sorry we are. It&#8217;s when you take it out in the scapegoats at the bottom that bugs me.</p>
+
+<blockquote>
+  <p>If negative reinforcement and the fear of liability stops people from beating on each other, well, so be it.</p>
+</blockquote>
+
+<p>There&#8217;s no evidence that this is the case, though. Quite the opposite.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=4063">Aaron Swartz</a> at February 27, 2005 03:37 PM <a href="#c4063">#</a></p>
+
+</div><div id="c4080">
+
+<p>Dan: &#8220;If negative reinforcement and the fear of liability stops people from beating on each other, well, so be it.&#8221;</p>
+
+<p>Aaron: &#8220;There’s no evidence that this is the case, though. Quite the opposite.&#8221;</p>
+
+<p>Depending on your view of human nature, this [negative reinforcement, fear of liability] is perhaps what keeps society as civil as it is.  What parts of the prison environment lend themselves to this behaviour?</p>
+
+<p class="posted">posted by Rich at February 27, 2005 11:14 PM <a href="#c4080">#</a></p>
+
+</div><div id="c4083">
+
+<p>&#8216;Leftists are by nature missionaries since, following Rousseau, they believe “man is born free, but he is everywhere in chains,” while conservatives understand that the corruption is in our nature and institutions just reflect it.&#8217;
+<a href="http://www.aaronsw.com/weblog/001591">David Horowitz on Academic Freedom</a></p>
+
+<p>&#8216;The results, while scary, are compelling evidence for Zimbardo’s belief that anyone will act evil when put in the right situation.&#8217; <a href="http://www.aaronsw.com/weblog/001592">
+Stanford: Reach Out and Hug Someone</a></p>
+
+<p>How do you correlate these two statements? Surely this means conservatives are correct?</p>
+
+<p class="posted">posted by James at February 27, 2005 11:29 PM <a href="#c4083">#</a></p>
+
+</div><div id="c4101">
+
+<blockquote>
+  <p>How do you correlate these two statements? Surely this means conservatives are correct?</p>
+</blockquote>
+
+<p>Quite the opposite. Progressives believe people are naturally good, but will do evil when put in a bad situation. This is exactly what Zimbardo&#8217;s experiment shows. Conservatives, on the other hand, believe that people are naturally bad, and that institutions are necessary to curb their worst impulses. I don&#8217;t see how Zimbardo&#8217;s experiment could possibly be construed as evidence for this view.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=4101">Aaron Swartz</a> at February 28, 2005 02:20 AM <a href="#c4101">#</a></p>
+
+</div><div id="c4162">
+
+<p>I don&#8217;t think <i>everybody</i> would act the same way in a prison situation. Most people would, especially soldiers who are trained to be violent, and are often uneducated in human rights, and come from poor, dog-eat-dog backgrounds.</p>
+
+<p>However, there were whistleblowers at Abu Ghraib, soldiers with more moral fibre, who spoke out, and brought the torture and corruption to public attention.</p>
+
+<p>It&#8217;s not easy to speak out, especially against armed thugs, but it is possible.</p>
+
+<p class="posted">posted by person at March  2, 2005 03:34 PM <a href="#c4162">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001592.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1592" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

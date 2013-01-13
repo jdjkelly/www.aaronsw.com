@@ -1,0 +1,48 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Others (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000258" title="The Secret alife of Webloggers" />	<link rel="next" href="000261" title="Crypto History" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Others</h1>
+</div>
+
+<div class="content">
+<p><a href="http://www.mxinternet.net/articles/WarDriving/051702.php">War Driving with OS X</a>: <a href="http://www.mxinternet.net/~markw/">ApScan</a>, <a href="http://homepage.mac.com/macstumbler/">MacStumbler</a> [via wmf]<br />
+<a href="http://www.abtdata.com/english/downloads.html">Speed Download</a> [via Lemke]<br />
+I don&#8217;t need my downloads to be any faster but it is interesting. It seems to use lots of simultaneous connections to the server and then combine them together later, sort of like <a href="http://open-content.net/">OCN</a>.<br />
+<a href="http://www.skeptic.com/02.2.shermer-unlikely-cult.html">The Unlikeliest Cult In History</a> [via Zooko]<br />
+<a href="http://www.conceptlabs.co.uk/alicebob.html">The Secret Life of Alice and Bob</a><br />
+<a href="http://www.infoworld.com/articles/pl/xml/02/05/20/020520pllinks.xml">Hyperlinks Matter</a> by Jon Udell [via wmf] It&#8217;s on why Web Services should have URIs. See also: <a href="http://www.byte.com/documents/s=1113/byt20010816s0002/0820_udell.html">The Power of the URL-Line</a>, <a href="http://www.w3.org/2001/tag/doc/get7">TAG findings on GET</a>.</p>
+
+<p class="posted">posted May 19, 2002 12:43 AM (<a class="category" href="cat_others">Others</a>)  <a href="000259" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000258" title="The Secret alife of Webloggers">&laquo; prev</a> | <a href="./">up</a> | <a href="000261" title="Crypto History">next &raquo;</a></p>
+
+<p><a href="000254">Emerging Technologies - Day 2</a><br />
+<a href="000255">Emerging Technologies - Day 3</a><br />
+<a href="000256">Emergent Hindsight</a><br />
+<a href="000257">MarkM and AaronSw</a><br />
+<a href="000258">The Secret alife of Webloggers</a><br />
+<strong>Others</strong><br />
+<a href="000261">Crypto History</a><br />
+<a href="000269">The Lawyers Strike Back</a><br />
+<a href="000270">Point-Headed Academics vs. Pointy-Haired Bosses</a><br />
+<a href="000272">Other</a><br />
+<a href="000273">Problems with MakeAShorterLink</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

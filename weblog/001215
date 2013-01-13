@@ -1,0 +1,186 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Presidential Candidate Bob Williams, part 4: Political Debate (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001215.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001207" title="Presidential Candidate Bob Williams, part 3: Newspaper Headlines" />	<link rel="next" href="001218" title="Presidential Candidate Bob Williams, part 5: The Verdict of History" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Presidential Candidate Bob Williams, part 4: Political Debate</h1>
+</div>
+
+<div class="content">
+<p>CNN&#8217;s Crossfire:</p>
+
+<p>CARVILLE: How come Bob Williams can&#8217;t talk about the issues? I think it proves that he&#8217;s out of touch with Americans.</p>
+
+<p>CARLSON: The issues? Being a serial killer isn&#8217;t an issue? Oh, I get it, you elitist liberals don&#8217;t care who the President is as long as he raises taxes to pay for your beloved social programs. </p>
+
+<p>CARVILLE: Well, I mean, he keeps going &#8220;serial killer, serial killer&#8221; without providing an facts!</p>
+
+<p>CARLSON: Oh right, it&#8217;s all about the facts for you. I mean, the guy could be Hitler&#8212;</p>
+
+<p>(CROSSTALK)</p>
+
+<p>CARLSON: The guy could be Hitler, and you&#8217;d say &#8220;let&#8217;s still vote for him, we don&#8217;t have all the facts&#8221;.</p>
+
+<p>CARVILLE: That comparison is outrageous. Bill Roberts has been a great President &#8212; he&#8217;s certainly no Hitler, and you&#8217;re being incredibly rude by suggesting he might be.</p>
+
+<p>CARLSON: See, everything&#8217;s moral relativism with you liberals &#8212; you don&#8217;t believe in good and evil. The guy&#8217;s a mass-murderer and you say &#8220;but it&#8217;s all OK because he&#8217;s been a good President&#8221;. If a mass-murderer isn&#8217;t over the line, what is? </p>
+
+<p>CARVILLE: I&#8217;m not trying to defend a mass-murderer&#8212;</p>
+
+<p>CARLSON: See, even you can&#8217;t defend this guy. I think that shows just how out-there this guy is. A new poll shows that 70% of Americans think that it&#8217;s possible or likely that Williams is a serial killer. I mean, that&#8217;s just an overwhelming amount of the country.</p>
+
+<p>CARVILLE: Well, poll numbers don&#8217;t decide what&#8217;s true.</p>
+
+<p>CARLSON: Oh, so now you&#8217;re saying Americans are stupid too? I mean, the people have spoken on this matter, and I, for one, think they&#8217;re smart enough to make up their minds for themselves. They&#8217;ve heard the cases from both sides&#8212;</p>
+
+<p>CARVILLE: No they haven&#8217;t! The media has been all serial killer all the time. Non-stop coverage of this issue has been everywhere. Nobody talks about anyone else. How can you expect people to make an informed decision when all they hear is endless discussion of this one issue.</p>
+
+<p>CARLSON: Well, if even the liberal media talks about the issue, it must be pretty important. From the right, I&#8217;m Tucker Carlson.</p>
+
+<p>CARVILLE: From the left, I&#8217;m James Carville. We&#8217;ll be back after this break.</p>
+
+<p class="posted">posted April 29, 2004 12:59 PM (<a class="category" href="cat_politics">Politics</a>) (<a href="#comments">1 comments</a>) <a href="001215" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001207" title="Presidential Candidate Bob Williams, part 3: Newspaper Headlines">&laquo; prev</a> | <a href="./">up</a> | <a href="001218" title="Presidential Candidate Bob Williams, part 5: The Verdict of History">next &raquo;</a></p>
+
+<p><a href="001194">Free Culture Wiki: Piracy Hits a New Low</a><br />
+<a href="001204">Press Clipping</a><br />
+<a href="001205">Presidential Candidate Bob Williams, part 1: Excerpts from Public Speeches</a><br />
+<a href="001206">Presidential Candidate Bob Williams, part 2: Television Commentary</a><br />
+<a href="001207">Presidential Candidate Bob Williams, part 3: Newspaper Headlines</a><br />
+<strong>Presidential Candidate Bob Williams, part 4: Political Debate</strong><br />
+<a href="001218">Presidential Candidate Bob Williams, part 5: The Verdict of History</a><br />
+<a href="001222">Physics&#8217;s Puzzle</a><br />
+<a href="001223">Where&#8217;s Okrent? The End of the Times</a><br />
+<a href="001224">Misreading Jefferson is Sinful and Tyrannical</a><br />
+<a href="001225">[REDACTED]</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c964">
+
+<p>C&#8217;mon, James Carville doesn&#8217;t get &#8220;shut up&#8221; like that in ANY debate &#8230; unless it is with Mary Matalin.  :-)</p>
+
+<p class="posted">posted by <a target="_blank" title="http://slashdot.org/~pudge/journal" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=964">pudge</a> at May  4, 2004 12:20 PM <a href="#c964">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001215.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1215" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

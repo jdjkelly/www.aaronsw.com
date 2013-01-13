@@ -1,0 +1,53 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Is the intuitive hypertext interface finally here? (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/000727.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000726" title="Trusted Clothing / Trusted Computing: A Parable" />	<link rel="next" href="000729" title="greenspan# make economy" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Is the intuitive hypertext interface finally here?</h1>
+</div>
+
+<div class="content">
+<p>The first web browser, Tim Berners-Lee&#8217;s <a href="http://www.w3.org/People/Berners-Lee/WorldWideWeb">WorldWideWeb</a> was also a Web editor. You visit a page of yours, notice a typo, click edit, fix it, save, and keep on surfing. If you noticed something cool, you&#8217;d hit command-M to copy the address to the clipboard, highlight the text you wanted to be a link, and hit command-L. Surfing and contributing were one.</p>
+
+<p>There are lots of improvements. For example, a nice feature would be to be able to fix things on other people&#8217;s pages and email them a patch. And we would have seen plenty of innovation along the lines of blogs and wikis, where everyone could create Web pages. But we never got to see any of this; the Web never went in that direction. The two-way architecture of the Web (ala Lessig) was lost, because Andreesen and the team at UIUC weren&#8217;t interested in implementing it, even though TimBL flew in and pleaded them to.</p>
+
+<p>[Caveat: My account of the history and WorldWideWeb are probably incorrect in places.]</p>
+
+<p>This has clearly always disturbed TimBL and it saddens me too. TimBL&#8217;s <a href="http://www.w3.org/DesignIssues/Editor">intuitive hypertext editor</a> never came, and instead we&#8217;ve gotten blogs, a poor surrogate. But surprises come from unlikely places. Today I found out about <a href="http://www.macromedia.com/software/contribute/">Macromedia Contribute</a>. </p>
+
+<p><a href="http://www.zeldman.com/daily/1102a.shtml#ala154">According to Zeldman</a> and Macromedia&#8217;s annoying Flash intro, Contribute is a client-side app that lets end-users surf to any page on a site, edit it in Macromedia&#8217;s WYSIWYG editor (tested on teachers, writers, and other non-geeks) and save it to the server using FTP. You can even drag and drop content in from apps like MS Office and it will convert it to sparking XHTML+CSS with the right acessibility attributes and elements. It all sounds like a dream come true.</p>
+
+<p>Here&#8217;s an excerpt from the <a href="http://www.macromedia.com/support/email/wishform/">feature request I sent to Macromedia</a>:</p><blockquote><p>I&#8217;d ask that you consider making a version without the client-designer stuff available at a lower price point. Having that could spark the same kind of two-way-web creativity that easy blogging tools (like Blogger) did, but for all sorts of sites, not just blogs. I find that very exciting, and I hope you do too.</p></blockquote><p>To the two-way Web!</p>
+
+<p class="posted">posted November 11, 2002 05:06 PM (<a class="category" href="cat_technology">Technology</a>)  <a href="000727" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000726" title="Trusted Clothing / Trusted Computing: A Parable">&laquo; prev</a> | <a href="./">up</a> | <a href="000729" title="greenspan# make economy">next &raquo;</a></p>
+
+<p><a href="000721">File Cabinet Lib</a><br />
+<a href="000722">today&#8217;s featured superhero: Dean Kamen</a><br />
+<a href="000723">today is my birthday</a><br />
+<a href="000725">book connections: death and life, future of ideas, elements of typography</a><br />
+<a href="000726">Trusted Clothing / Trusted Computing: A Parable</a><br />
+<strong>Is the intuitive hypertext interface finally here?</strong><br />
+<a href="000729">greenspan# make economy</a><br />
+<a href="000731">I&#8217;ll be at Comdex</a><br />
+<a href="000733">Stirling Engine introduced on 60 Minutes, Segway on Amazon.com</a><br />
+<a href="000735">cupcake controls a prior restraint?</a><br />
+<a href="000736">photographic beauty</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Felten for CTO? (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Felten for CTO?</h1>
+
+<p>[<a href="http://www.openleft.com/showDiary.do?diaryId=10784">crossposted to Open Left</a>]</p>
+
+<p>As inauguration approaches, speculation has been heating up about Obama&#8217;s pick for the newly-created position of CTO. Most of the names floated &#8212; Eric Schmidt, Steve Ballmer, Jeff Bezos &#8212; just seem ridiculous (would you really leave being CEO of Google, Microsoft, or Amazon for a White House job?), but I&#8217;ve recently heard one name that&#8217;s gotten me excited: Princeton&#8217;s <a href="http://www.cs.princeton.edu/~felten/">Ed Felten</a> (<a href="http://www.freedom-to-tinker.com/blog/felten">blog</a>).</p>
+
+<p>Felten came to national prominence in 2000, when the music industry held a contest to see if anyone could break their &#8220;digital watermarking&#8221; technology. Felten and his team broke it and was about to publish a paper explaining how, when the recording industry threatened to sue him if he did.</p>
+
+<p>Since then, he&#8217;s offered expert opinions on everything from Microsoft to voting machines and started the Center for Information Technology Policy at Princeton, which he directs, where he&#8217;s pushed for more government transparency. He has the incredibly rare combination of being an absolutely first-rate technologist while also being able to clearly explain all of the relevant policy implications. Like <a href="http://www.openleft.com/showDiary.do?diaryId=10525">Science Advisor John Holdren</a>, he&#8217;ll do a fantastic job representing the consensus of technical experts on <a href="http://www.freedom-to-tinker.com/blog/felten/predictions-2009">every policy issue</a> that comes his way.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">January  8, 2009</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="feltencto" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

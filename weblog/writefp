@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>False Outliers (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>False Outliers</h1>
+
+<p>So far <a href="whowriteswikipedia">my Wikipedia script</a> has churned through about 200 articles, calculating who wrote what in each. This morning I looked through them to see if there were any that didn&#8217;t match my theory. It printed out a couple and I decided to investigate.</p>
+
+<p>The first it found was <a href="http://en.wikipedia.org/wiki/Alkane">Alkane</a>, a long technical article about acyclic saturated hydrocarbons that it said was largely written by <a href="http://en.wikipedia.org/wiki/User:Physchim62">Physchim62</a>. Yesterday a good friend was telling me that he thought long technical articles were likely written by a single person, so I immediately thought that here was the proof that he was right. But, just to check, I decided to look in the edit history to make sure my script hadn&#8217;t made an error.</p>
+
+<p>It hadn&#8217;t, I found, but once again simply looking at the numbers missed the larger point. Physchim62 had indeed contributed most of the article, but according to the edit comments, it was by translating the German version! I don&#8217;t have the German data, but presumably it was written in the same incremental way as most of the articles in my study.</p>
+
+<p>The next serious case was <a href="http://en.wikipedia.org/wiki/Characters_in_Atlas_Shrugged">Characters in Atlas Shrugged</a>, which the script said was written by CatherineMunro. Again, it seemed plausible that one person could have written all those character bios. But again, an investigation into the actual edit history found that Munro hadn&#8217;t written them, instead she&#8217;d copied them from a bunch of subpages, merging them into one bigger page.</p>
+
+<p>The final serious example was <a href="http://en.wikipedia.org/wiki/Anchorage%2C_Alaska">Anchorage, Alaska</a>, which appeared to have been written by <a href="http://en.wikipedia.org/wiki/User:JeffreyAllen1975">JeffreyAllen1975</a>. Here the contributions seemed quite genuine; JeffreyAllen1975 made tons of edits each contributing a paragraph at a time. The work seemed to take quite a toll on him; at his user page he noted &#8220;I just got burned-out and tired of the online encyclopedia. My time is being taken away from me by being with Wikipedia.&#8221; He lasted about four months.</p>
+
+<p>Still, something seemed fishy about JeffreyAllen1975, so I decided to investigate further. Currently, the Anchorage page has a tag noting that &#8220;The current version of the article or section reads like an advertisement.&#8221; A bit of Googling revealed why: JeffreyAllen1975&#8217;s contributions had been copied-and-pasted from other websites, like <a href="http://www.anchoragechamber.org/info/relocation.htm">the Anchorage Chamber of Commerce</a> (&#8220;Anchorage&#8217;s public school system is ranked among the best in the nation. &#8230; The district&#8217;s average SAT and ACT College entrance exam scores are consistently above the national average and Advanced Placement courses are offered at each of the district&#8217;s larger high schools.&#8221;).</p>
+
+<p>I suspect JeffreyAllen1975 didn&#8217;t know what he was doing; his writing style suggests he&#8217;s just a kid: &#8220;In my free time, I am very proud of my-self by how much I&#8217;ve learned by making good edits on Wikipedia articles.&#8221; I&#8217;m pretty sure he just thought he was helping the project: &#8220;Wikipedia is like the real encyclopedia books (A thru Z) that you see in the library, but better.&#8221; But his plagiarism will still have to be removed.</p>
+
+<p>When I started, just looking at the numbers these seemed to be several cases that strongly contradicted my theory. And had I just stuck to looking at the numbers, I would have believed that to be the case as well. But, once again, investigation shows the picture to be far more interesting: translation, reorganization, and plagiarism. Exciting stuff!</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">September  5, 2006</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p><em>&#8220;The world&#8217;s always more interesting than the numbers suggest.&#8221;</em></p>
+
+<p>&#8220;The purpose of computing is insight, not numbers&#8221; - Richard W. Hamming</p>
+
+<p>The orginal basic insight is still standing - there&#8217;s a &#8220;staff&#8221;, which does copyediting, and subject-matter writers.</p>
+
+<p>What&#8217;s you&#8217;ve found, at a more refined level of investigation, is that some of the people who might have been thought to be the original writers are in fact simply relays (translators or plagiarists) from the true original writers.</p>
+
+<p>Which is indeed interesting. Especially since it&#8217;s more likely these primary writers were in fact paid.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://sethf.com/">Seth Finkelstein</a>
+ on September  5, 2006 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>Interesting.  I hope you keep a record of the metric used to identify &#8220;outliers&#8221;, what happened on further inspection of each outlier, and any interesting results from further inspection of an equal number of non-outliers&#8230;</p>
+
+<p>SJ</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://blogs.law.harvard.edu/sj/">Sj</a>
+ on September  5, 2006 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>That Anchorage article was a wacky case (I just deleted all revisions since late 2005); the poor guy must have put as much effort into finding all those different websites to copy from, and mixing and matching the content like that, as he would have into writing an original article.  Weird&#8230;</p>
+
+<p>Your observations in this whole series, by the way, tally with what&#8217;s been my anecdotal experience with the articles I&#8217;ve worked on; most raw content is added by IP editors or occasional contributors, most formatting is done by regulars.  I would be interested, however, in seeing you run this on articles with good references, since I think that&#8217;s what we need to be focusing on now.</p>
+
+<p>But, in any event, you got my vote with this&#8230;</p>
+
+<p>Robth</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://en.wikipedia.org/User:Robth">Robth</a>
+ on September 15, 2006 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c20">
+<p>You might be interested in <a href="http://www.viktoria.se/altchi/submissions/submission_edchi_1.pdf" rel="nofollow">this paper</a>, which is a more thorough examination of who contributes to wikipedia.</p>
+
+<p class="posted">posted by Ksero
+ on May 27, 2007 <a href="#c20" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="writefp" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

@@ -1,0 +1,47 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Introducing&#8230; Warchalking! The New Swhack! (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000516" title="Electronic Pulsing Spam-Killing Superbrain" />	<link rel="next" href="000519" title="IMS/ISC out of the ICANN Running" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Introducing&#8230; Warchalking! The New Swhack!</h1>
+</div>
+
+<div class="content">
+<p>Faithful readers have probably been wondering where I&#8217;ve been for the past few days. (You haven&#8217;t? You&#8217;re not very faithful!) </p>
+
+<p>Well, I&#8217;ve been setting up the new <a href="http://www.warchalking.org/">warchalking community site</a>, which I&#8217;m proud to take over from the incredible <a href="http://www.blackbeltjones.com/">Matt Jones</a>. It&#8217;s powered by <a href="http://scoop.kuro5hin.org/">Scoop</a>, the software behind <a href="http://www.kuro5hin.org/">K5</a> and <a href="http://www.infoanarchy.org/">InfoAnarchy</a>. Please stop by and check it out. (<code>www.warchalking.org</code>)</p>
+
+<p>Meanwhile, I&#8217;ve also been deploying <a href="http://notabug.com/swhack/">The New Swhack</a>. It&#8217;s got all the sillyness, tech news and cool  pointers of the old Swhack, with a fresh new design and a cleaner look. We&#8217;re still experimenting with the style but it&#8217;s turning into more of a web diary than a weblog. Instead of a bunch of entries posted, it&#8217;s a new HTML page built every day. And it also includes tons of details about my personal life! (Yes, I know you don&#8217;t care.) Here are the issues you&#8217;ve missed:</p><ul><li><a href="2002-08-16">2002-08-16</a></li><li><a href="2002-08-17">2002-08-17</a></li><li><a href="2002-08-18">2002-08-18</a></li><li><a href="2002-08-19">2002-08-19</a></li><li><a href="2002-08-20">2002-08-20</a></li></ul><p>Enjoy! (<code>notabug.com/swhack</code>)</p>
+
+<p class="posted">posted August 20, 2002 10:20 AM (<a class="category" href="cat_personal">Personal</a>)  <a href="000518" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000516" title="Electronic Pulsing Spam-Killing Superbrain">&laquo; prev</a> | <a href="./">up</a> | <a href="000519" title="IMS/ISC out of the ICANN Running">next &raquo;</a></p>
+
+<p><a href="000512">James Valenti, 81 103 103 197 224 0</a><br />
+<a href="000513">Dr. Suess is Fifth Highest Grossing Dead Celebrity</a><br />
+<a href="000514">FREE THE MOUSE</a><br />
+<a href="000515">Car Factories and Post Offices</a><br />
+<a href="000516">Electronic Pulsing Spam-Killing Superbrain</a><br />
+<strong>Introducing&#8230; Warchalking! The New Swhack!</strong><br />
+<a href="000519">IMS/ISC out of the ICANN Running</a><br />
+<a href="000520">Fireworks of Failure</a><br />
+<a href="000521">Software and Source Code</a><br />
+<a href="000522">Vote Hank Perritt</a><br />
+<a href="000524">Dear Bigshot</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

@@ -1,0 +1,28 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+  <title>Aaron's Censorware</title>
+  <link rel="stylesheet" type="text/css" href="/style.css" />
+</head>
+<body>
+<div id="banner">
+  <h1>Aaron's Censorware</h1>
+</div>
+<div class="content">
+<p>Ed Felten <a href="http://www.freedom-to-tinker.com/archives/000412.html">half-seriously suggests that we create censorware</a> that doesn't overblock and has an open list, so that US libraries who want to receive federal funding can do so without unduly harming free speech.</p>
+
+<p>Up for the challenge, I've written a simple censorware program (the censor code is only a couple of lines): <a href="censor.py">censor.py</a></p>
+
+<p>It's easy to run: <code>$ python censor.py</code></p>
+
+<p>Then set your web browser's HTTP proxy to http://127.0.0.1:8000 as it says.</p>
+
+<p>By default it blocks all URLs starting with <code>http://www.microsoft.com</code> but you can adjust this by editing <code>blockprefixes</code>.</p>
+
+<p>I don't plan to maintain this seriously unless there's interest, but I'm happy to hear your comments.</p>
+
+<p>
+</div>
+<div class="footer">
+  <address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</div></body>
+</html>

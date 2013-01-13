@@ -1,0 +1,45 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>OSCON Key Signing Party (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000411" title="Writing Useful Web Content" />	<link rel="next" href="000413" title="today&#8217;s featured superhero: Seth Schoen" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>OSCON Key Signing Party</h1>
+</div>
+
+<div class="content">
+<p>I think it&#8217;s awful that OSCON doesn&#8217;t have a scheduled key signing party. I thought about submitting it as a BOF but I wasn&#8217;t sure anyone would come and there are already interesting BOFs every night. Here&#8217;s the blurb:</p><blockquote><p>Come meet other hackers, geeks and paranoid crypto-anarchists for a night of &#8220;can I see your passport?&#8221; and &#8220;how do I know you&#8217;re not a double sent by the FBI to fake me out?&#8221; That&#8217;s right, it&#8217;s a key signing party! Asymetric keys may be able to give you privacy on the Internet and verify the validity of electronic documents, but it won&#8217;t be perfectly secure until you get you join in on the Web of Trust. You&#8217;ll get an opportunity to make new friends and increase your digital popularity without the awkwardness of going up to strangers asking &#8220;Hi, will you sign my key?&#8221;</p>
+
+<p>To join, just grab your PGP or GPGP key&#8230; What&#8217;s that you say? You don&#8217;t have one? Try downloading PGP or GPG from http://www.pgpi.org/ or http://www.gnupg.org/ and generate one today. Ok, now that you&#8217;ve got one, send a copy to the organizer (me@aaronsw.com) and he&#8217;ll add you to the list. Soon before the party, he&#8217;ll send you further instructions on what to do to prepare. Then, simply show up the night of the party with some paper or a laptop and follow the simple instructions. Couldn&#8217;t be easier! See you there.</p></blockquote>Anyone interested in coming? <a href="mailto:me@aaronsw.com">Let me know.</a> Maybe I can find a non-BOF time to hold this&#8230; (conference timing is so crazy, though)</p>
+
+<p class="posted">posted July 12, 2002 01:39 AM (<a class="category" href="cat_technology">Technology</a>)  <a href="000412" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000411" title="Writing Useful Web Content">&laquo; prev</a> | <a href="./">up</a> | <a href="000413" title="today&#8217;s featured superhero: Seth Schoen">next &raquo;</a></p>
+
+<p><a href="000406">Building Baked Sites</a><br />
+<a href="000408">locked up all alone</a><br />
+<a href="000409">after a busy day of overthrowing governments&#8230;</a><br />
+<a href="000410">Glorious Linkfulness</a><br />
+<a href="000411">Writing Useful Web Content</a><br />
+<strong>OSCON Key Signing Party</strong><br />
+<a href="000413">today&#8217;s featured superhero: Seth Schoen</a><br />
+<a href="000414">Public Speaking and Writing</a><br />
+<a href="000415">smiling dogs</a><br />
+<a href="000418">the circle of life continues</a><br />
+<a href="000420">temperature rising</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

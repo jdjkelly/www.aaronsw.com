@@ -1,0 +1,213 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Philip Zimbardo on the Psychology of Evil (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/001450.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001449" title="Stanford: Day 41" />	<link rel="next" href="001451" title="Stanford: Day 42" />
+<!--
+<rdf:RDF xmlns="http://web.resource.org/cc/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<Work rdf:about="http://www.aaronsw.com/weblog/001450.html">
+<dc:title>Philip Zimbardo on the Psychology of Evil</dc:title>
+<dc:description>Philip Zimbardo, the creator of the famed Stanford Prison Experiment (don&apos;t worry, I&apos;ll describe it later), is giving a lecture...</dc:description>
+<dc:creator>Aaron Swartz</dc:creator>
+<dc:date>2004-10-31T11:50:30-06:00</dc:date>
+<license rdf:resource="http://web.resource.org/cc/PublicDomain" />
+</Work>
+<License rdf:about="http://web.resource.org/cc/PublicDomain">
+<permits rdf:resource="http://web.resource.org/cc/Reproduction" />
+<permits rdf:resource="http://web.resource.org/cc/Distribution" />
+<permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+</License>
+</rdf:RDF>
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Philip Zimbardo on the Psychology of Evil</h1>
+</div>
+
+<div class="content">
+<p><a href="http://www.transom.org/sounds/2002/shows/20020116.walker.focusgroup.mp3">Philip Zimbardo</a>, the creator of the famed <a href="http://prisonexp.org/">Stanford Prison Experiment</a> (don&#8217;t worry, I&#8217;ll describe it later), is giving a lecture on terrorism and Abu Ghraib. </p>
+
+<p>Zimbardo notes that he was a high-school classmate of Stanley Milgram, perhaps the best-known social psychologist. Milgram was the one who conducted <a href="http://en.wikipedia.org/wiki/Milgram_experiment">the classic experiments on obedience to authority</a>. He would invite a subject in and explain to them that they were helping him research the effects of memory. A confederate would be hooked up to an electrical chair in another room. The subject would then be asked by the lab-coat-wearing experimenter to give increasingly large electric shocks to the confederate as punishment for getting the memory questions wrong. In response, the confederate would scream in agony, ask to be let out, shout that he had a heart condition, and finally just stop responding.</p>
+
+<p>At the time, conventional wisdom was that only a few people &#8212; the sadists &#8212; would would go all the way, following the orders to increase the voltage even after the confederate stopped responding.  Milgram quickly proved conventional wisdom wrong: 65% followed their orders and went all the way. As Zimbardo notes, the popular theory of the time was largely dispositional: people do things because that&#8217;s their nature. Milgram provided clear evidence of situationism.</p>
+
+<p>Milgram went on to do other pioneering research, including the small world experiment, where he would give people in Kansas a note for a friend in Cambridge, MA and ask them to get it there simply by passing it through friends. Milgram found that, again despite conventional wisdom of the time, it usually only six intermediaries to make it, which of course gave rise to the phrase &#8220;six degrees of separation&#8221;.</p>
+
+<p>Sadly, Milgram died of a heart attack at only 51. </p>
+
+<p>Milgram likely moved on from the obedience experiments because they were highly controvertial &#8212; many considered them seriously unethical, even though Milgram went to great lengths to inform the subjects the true purpose of the experiment afterwards and make sure they were alright. Zimbardo, however, follows that same path.</p>
+
+<p>Milgram did a number of variants on the Obedience experiments &#8212; moving subjects closer to their victims, trying the experiments in an office building away from the prestige of Yale, using women instead of men &#8212; but most had little or no success in lowering compliance rates. Two things, however, did change compliance rates. First, if the subject saw other subjects resisting, they became willing to resist as well. Second, if the subject did not throw the switches directly, but simply supervised someone who did, they became far more willing to continue.</p>
+
+<p>The two discoveries clearly have larger societal messages (just a few people resisting can help mobilize others, but increasing bureaucratization can increase compliance in the name of evil), which of course have been confirmed by larger societal studies.</p>
+
+<p>For this, Zimbardo draws the concept of the &#8220;good guard&#8221; &#8212; the man who doesn&#8217;t hurt anyone but simply does his job and doesn&#8217;t interfere with the hurting. The good guards, Zimbardo notes, are key to the whole thing because if they showed signs of resistance the bad guards would likely begin to resist too. (Again, it&#8217;s <a href="http://www.workingforchange.com/comic.cfm?itemid=17313">not hard to extrapolate</a> this to society.)</p>
+
+<p>Zimbardo continues surveying the research and lays out the ten lessons he&#8217;s drawn from it on how to get people to commit evil:</p>
+
+<ol>
+<li>Create an ideology where the ends justify the means</li>
+<li>Get a contract from the subjects where they agree to comply</li>
+<li>Give participants meaningful roles with clear social value</li>
+<li>Have the rules be vague and changing</li>
+<li>Relabel actors and actions (&#8220;order control&#8221;, not guards; &#8220;monsters&#8221;, not people)</li>
+<li>Diffuse responsibility so subjects don&#8217;t feel liable</li>
+<li>Start small but slowly increase the requirements, step by step</li>
+<li>Make the leader seem compassionate at first</li>
+<li>Permit verbal dissent (&#8220;I don&#8217;t want to do this; I feel bad&#8221;) as long as subjects continue complying</li>
+<li>Make it difficult to exit</li>
+</ol>
+
+<p>Further experiments find that people&#8217;s inhibitions will be lowered if they or the subjects are &#8220;deindividualized&#8221; (e.g., they wear uniforms and masks; the subjects wear bags over their heads). In numerous experiments, this doubled the harm participants would voluntarily commit. (Anthropological studies confirm this, finding that cultures with costumes and masks are more violent.)</p>
+
+<p>Similarly, changing how people think of their actions is key. In one experiment, where the experimenter called the victims &#8220;nice guys&#8221; the amount of punishment subjects inflicted went down. But when he called them &#8220;monsters&#8221; it went up.</p>
+
+<p>Zimbardo put together all that he had learned into one experiment, <a href="http://prisonexp.org/">the Stanford Prison Experiment</a>, to see how far things could go. Volunteer subjects were recruited and half assigned to be prisoners and half assigned to be guards so that there would be no differences between the two groups. The prisoners were arrested at their home and taken to recently-redecorated basement of the Stanford Psychology department, where they were imprisoned.</p>
+
+<p>There were no windows, so prisoners could not gauge time. Prisoners were strip-searched and forced to wear dress-like clothes. They were given leg shackles, a constant reminder of their status. Guards were given uniforms and mirror sunglasses (so no one could read their emotions) as well as minimal requirements or training.</p>
+
+<p>On only the second day of the experiment, the prisoners tried to resist. Guards responded by calling in reinforcements, attacking the prisoners with fire extinguishers, placing the leaders in solitary confinement, and harassing the rest. They also created a privileged cell for the prisoners who most resisted the rebellion, with special benefits. The next day, they reversed things, putting some of the leaders in the privileged cell (to imply the leader had sold out). </p>
+
+<p>Soon enough, prisoners began going crazy. Guards became so evil and violent that the study had to be prematurely ended.</p>
+
+<p>The relevance to Abu Ghraib should be obvious. And, sure enough, Zimbardo got a chance to testify before the court trying one of the Abu Ghraib guards, arguing that his sentence should be lowered because, as his research had shown, few could have resisted the powerful situational influences, which were surely even more powerful at a real prison with (presumably at least some) real criminals.</p>
+
+<p>He went on to talk a bit about how the administration had weaponized fear with things like the terror alert system. The reason Al-Qaeda hadn&#8217;t attacked again, he suggested, was because Bush was doing their job for them, scaring the population with vague threats without clear solutions.</p>
+
+<p class="posted">posted October 31, 2004 11:50 AM (<a class="category" href="cat_education">Education</a>) (<a href="#comments">0 comments</a>) <a href="001450" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001449" title="Stanford: Day 41">&laquo; prev</a> | <a href="./">up</a> | <a href="001451" title="Stanford: Day 42">next &raquo;</a></p>
+
+<p><a href="001444">The World Is Watching</a><br />
+<a href="001445">The Politics of Lying</a><br />
+<a href="001446">Stanford: Day 39</a><br />
+<a href="001448">Stanford: Day 40</a><br />
+<a href="001449">Stanford: Day 41</a><br />
+<strong>Philip Zimbardo on the Psychology of Evil</strong><br />
+<a href="001451">Stanford: Day 42</a><br />
+<a href="001452">Stanford: Day 43</a><br />
+
+</p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/001450.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1450" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /><br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)<br />
+All text above by me is in the public domain.</address>
+</body>
+</html>

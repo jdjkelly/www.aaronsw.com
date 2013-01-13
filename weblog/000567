@@ -1,0 +1,43 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>What&#8217;s the Berman Bill for? (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000566" title="the neighborhood just got a lot bigger" />	<link rel="next" href="000568" title="The First Ammendment Microwave" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>What&#8217;s the Berman Bill for?</h1>
+</div>
+
+<div class="content">
+<p>In Politech, <a href="http://www.politechbot.com/p-03949.html">Rep. Berman&#8217;s office notes that their bill is rather restrictive</a> and that it does not allow copyright holders to hack, stop file-trading, damage computers, bring down P2P networks, violate privacy, or alter files. But no one has ever explained what copyright holders can do. The bill requires copyright holders do not alter any computer file or data. Thus:</p><ul><li>They can&#8217;t crack into your computer, because this will alter the data in memory and possibly the virtual memory file.</li><li>They can&#8217;t spread a virus, because that will alter files on the disk.</li></ul><p>Nor can they cause &#8220;economic loss to any person other than affected file traders&#8221; or &#8220;economic loss of more than $50.00 [to] the affected file trader&#8221;. They can&#8217;t attempt a denial of service attack because:</p><ul><li>It would cause economic loss to other users of the network or machine.</li><li>I would lose over $50. (I was going to sell something on eBay.)</li></ul><p>I can&#8217;t think of anything the copyright holder can do with these tight restrictions. What do Berman and Coble have in mind?</p>
+
+<p class="posted">posted September 04, 2002 06:28 PM (<a class="category" href="cat_technology">Technology</a>)  <a href="000567" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000566" title="the neighborhood just got a lot bigger">&laquo; prev</a> | <a href="./">up</a> | <a href="000568" title="The First Ammendment Microwave">next &raquo;</a></p>
+
+<p><a href="000558">There&#8217;s Only One Way To Do It</a><br />
+<a href="000559">JavaScript Form Validation Done Right</a><br />
+<a href="000564">Don&#8217;t Napsterize the Discussion, Guys!</a><br />
+<a href="000565">jwz is angry</a><br />
+<a href="000566">the neighborhood just got a lot bigger</a><br />
+<strong>What&#8217;s the Berman Bill for?</strong><br />
+<a href="000568">The First Ammendment Microwave</a><br />
+<a href="000569">MAKE RSS FAST!!!</a><br />
+<a href="000570">A .Mac Solution</a><br />
+<a href="000571">Buy His Books, Sell Your Furniture</a><br />
+<a href="000573">Jaguar Ate My Life</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Fear and Loathing: A Correction (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Fear and Loathing: A Correction</h1>
+
+<p>The other week in a post titled <a href="http://www.aaronsw.com/weblog/fearandbio">Fear and Loathing in Biotechnology Firms</a>, I wrote:</p>
+
+<blockquote>
+  <p>&#8220;Hey there!&#8221; said the scientist. &#8220;Hi,&#8221; said the bored-looking African-American woman behind the desk.</p>
+</blockquote>
+
+<p>In response, I recently received the following comment from a poster who goes by the name &#8220;I WAS THERE THAT NIGHT&#8221;:</p>
+
+<blockquote>
+  <p>I&#8217;m not a large african american woman, and there was no desk. Your &#8220;facts&#8221; are incorrect, and you looked very very scared that night, my friend.</p>
+</blockquote>
+
+<p>I&#8217;d like to take this moment to correct the record. Upon reflection, security sat behind a barrier that was indeed tall enough to make it a &#8220;counter&#8221; and not a &#8220;desk&#8221;. We at <em>Raw Thought</em> deplore the casual use of language that causes many speakers to conflate counters with desks and we strive for precision in these matters. We deeply regret the error.</p>
+
+<p>I&#8217;d also like to take this moment to correct another error. The same article suggests the same so-called &#8220;desk&#8221; was reached after &#8220;ducking into a door&#8221;. After a further review of notes by the author, we have concluded that it was not actually a door, but more of a small hallway leading to several doors, really a kind of alcove actually.</p>
+
+<p>I hope this post underscores our commitment to &#8220;facts&#8221; at <em>Raw Thought</em>. We continue to stand by our claims that journalists noses look bigger while on drugs, that giant vats of transgenic corn cure cancer, that CostCo is authentically historic, and that Genentech is the Best Company to Work For in America. We can only hope that its employees continue to read our quality content.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">July 18, 2007</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>Ah, I take it she&#8217;s a <em>small</em> african-american woman?</p>
+
+<p class="posted">posted by David McCabe
+ on July 19, 2007 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>Facts&#8230;smacts. It was an entertaining read nonetheless. [Contrary to what one may think after my comment on the originaly post.]</p>
+
+<p class="posted">posted by ged
+ on July 19, 2007 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>fun</p>
+
+<p class="posted">posted by funny
+ on July 24, 2007 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="fearandbio-correction" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

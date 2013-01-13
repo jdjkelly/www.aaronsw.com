@@ -1,0 +1,174 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Stanford: Day 56 (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001478.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001477" title="Barry Scheck on the Dark Side of Justice" />	<link rel="next" href="001479" title="Stanford: Day 57" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Stanford: Day 56</h1>
+</div>
+
+<div class="content">
+<p>I hate change. Not in the abstract, I mean the actual coins you get from cashiers. If I were in charge of currency, I&#8217;d get rid of it. Everything would be denominated in dollars and there would only be one type of money: the dollar coin. Carrying around hundreds of dollar coins and counting them out would get annoying, so they&#8217;d be shaped so that they could snap together to form bill-shaped groups of various denominations (5, 10, 20, etc.) That way, if you needed to break a 5 you could literally just break it, shattering it back into dollar coins.</p>
+
+<hr />
+
+<p>In IHUM class they show us a <em>Frontline</em> documentary about porn films. They&#8217;re really scraping the bottom of the barrel it seems.</p>
+
+<hr />
+
+<p>I come back to my room to find a box on my bed. The box is huge; it takes up the entire bed. Getting it up there must have been a chore. I at first assume the delivery guy put it there, but I later learn this is apparently one of <a href="http://www.aaronsw.com/weblog/001433">the silly conspiracies</a> that <a href="http://www.aaronsw.com/weblog/001467">Tantek warned me about</a>.</p>
+
+<p>I manage to get the bike down and put it together mostly by myself.</p>
+
+<p class="posted">posted November 14, 2004 07:29 PM (<a class="category" href="cat_education">Education</a>) (<a href="#comments">2 comments</a>) <a href="001478" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001477" title="Barry Scheck on the Dark Side of Justice">&laquo; prev</a> | <a href="./">up</a> | <a href="001479" title="Stanford: Day 57">next &raquo;</a></p>
+
+<p><a href="001473">Stanford: Day 53</a><br />
+<a href="001474">Stanford: Day 54</a><br />
+<a href="001475">Stephen Pinker on Uniting Techies and Fuzzies</a><br />
+<a href="001476">Stanford: Day 55</a><br />
+<a href="001477">Barry Scheck on the Dark Side of Justice</a><br />
+<strong>Stanford: Day 56</strong><br />
+<a href="001479">Stanford: Day 57</a><br />
+<a href="001480">Stanford: Day 58</a><br />
+<a href="001485">Stanford: Day 59</a><br />
+<a href="001486">Network News Presidents on the Election</a><br />
+<a href="001487">Stanford: Day 60</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c3415">
+
+<p>Easy solution to the change issue: debit card.</p>
+
+<p>I was always scrounging around for laundry quarters once I started using my debit card for most of my purchases.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aetherial.net" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3415">Chris</a> at November 14, 2004 08:57 PM <a href="#c3415">#</a></p>
+
+</div><div id="c3437">
+
+<p>Your literally-breaking-a-five isn&#8217;t that far off the peso (&#8220;piece of eight&#8221;) that the US dollar bill was originally backed with. 25&cent; is still referred to as &#8220;two bits&#8221; isn&#8217;t it?</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.hackcraft.net/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3437">Jon Hanna</a> at November 15, 2004 05:19 PM <a href="#c3437">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001478.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1478" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

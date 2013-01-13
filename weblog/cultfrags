@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Reflections on Cultural Fragments (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Reflections on Cultural Fragments</h1>
+
+<p><strong>Six Feet Under&#8217;s final episode:</strong> After the second-to-last episode of <em>Six Feet Under</em> aired, I was having lunch with my partner Simon. &#8216;I wonder what they&#8217;ll do for the last episode,&#8217; I said. &#8216;Obviously they&#8217;ll have to kill everyone off, but how? Ooh! Maybe they&#8217;ll make the house collapse. Then they could have these cool shots of everyone being crushed as everything is shaking and falling down.&#8217; I thought about that for a second.</p>
+
+<p>&#8216;No, that&#8217;s not really their style,&#8217; I concluded. &#8216;Instead they&#8217;ll probably have flash-forwards showing how everybody died. And they&#8217;ll sneak them in as flashes cut with present-day stuff. They&#8217;ll probably shoot the episode from the point of view of some new character who will walk around and whenever he meets someone, they&#8217;ll have a flash-forward and show how that person will die. Oh, and get this: the new guy? He&#8217;s played by Alan Ball.&#8217;</p>
+
+<p>Well, I was pretty close.</p>
+
+<p>Everyone else seemed to like the final episode of <em>Six Feet Under</em>. I found it merely disappointing. It was just like the boring parts of any other episode, only longer. Where was the heightened drama? The pathos? The raw emotions? Whenever Alan Ball previously did an episode, it was something special, much better than usual. Has the rest of the team gotten so good that when Alan Ball takes over now, he ends up with something worse?</p>
+
+<p>I believe it was Jason Kottke who said that this was the first series finale that made him cry and left him missing the characters for days. Someone needs to buy him a copy of <em>My So-Called Life</em>.</p>
+
+<p><strong>Michael Penn&#8217;s latest album:</strong> Michael Penn is married to Aimee Mann. Their musical styles are practically the same, except for their genders. And this year, they are both releasing concept albums telling stories about characters in the past. <del>So it was disappointing to discover that Michael Penn&#8217;s music is so much worse. The work on his latest album, <em>Mr. Hollywood Jr., 1947</em>, sounds about as immature as the songs on Mann&#8217;s debut, <em>Whatever</em>.</del> Penn&#8217;s first track, <a href="http://toolshedmedia03.com/ts/michael-penn-walter-reed.mp3">Walter Reed</a>, is <del>the only song that approaches Mann&#8217;s modern skill</del> definitely the best.* Fans who want a male Aimee Mann are better off with her old boyfriend, Jon Brion.</p>
+
+<p>Mann&#8217;s latest album is <em>The Forgotten Arm</em> and I finally figured out today what in the story that title refers to. Reviewers have apparently criticized the album for not having any stand-out tracks, but that seems like a bizarre criticism because practically every track on the album is a stand-out. I recall the same bizarre crticism being leveled at the Jon Brion version of Fiona Apple&#8217;s <em>Extraordinary Machine</em>, which remains a work of genius even if Fiona doesn&#8217;t think so.</p>
+
+<p>&#42; I was far too harsh on Penn. After listening to the album a couple times more, it&#8217;s a very interesting work and deserves to be judged on its own merits.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">August 26, 2005</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>My wife and I were very disappointed with the final Six Feet Under. So sappy! Happy endings for everybody &#8212; so un-six-feet-under-ish. We laughed through the montage of future deaths at the end; it felt like a weak attempt to sling a little edge onto the previous 70 minutes of Mayberry. Everyone must agree, though, that seeing Brenda nod off was pretty funny; and Rico just falling over; and Keith getting his dramatic end.</p>
+
+<p>Oh well, not every ending can be St. Elsewhere.</p>
+
+<p class="posted">posted by Bob Erb
+ on August 28, 2005 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>Heh. I&#8217;d be the first to agree that Penn is definitely less accessible than Mann, even though they write from much the same sensibility. He&#8217;s never quite equalled &#8220;No Myth&#8221;, somehow. I do like a number of his other songs, like &#8220;Bunker Hill&#8221;, and &#8220;Walter Reed&#8221; is an obvious single, but his songs don&#8217;t differentiate themselves as much as hers do, and yet her albums are usually integrated wholes. Something of a same-yet-different problem, she&#8217;s mastered it, he&#8217;s still working at it.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://stilicho.blogspot.com/">Dan Hartung</a>
+ on September 13, 2005 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="cultfrags" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

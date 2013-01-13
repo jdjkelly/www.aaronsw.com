@@ -1,0 +1,65 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Ideal PDA (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000781" title="Wireless &#8220;Security&#8221;" />	<link rel="next" href="000784" title="install in cron.yearly" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Ideal PDA</h1>
+</div>
+
+<div class="content">
+<p>Everyone&#8217;s getting a Hiptop/Sidekick, but it doesn&#8217;t seem to have all the things I need. I will buy a WearableGizmo (i.e. something that fits in my pocket) if it has:</p>
+
+<ul>
+<li>a reasonably-large screen</li>
+<li>a usable interface</li>
+<li>a cell-phone Internet connection</li>
+<li>Web client</li>
+<li>IMAP mail client</li>
+<li>SSH client</li>
+</ul>
+
+<p>Ideally, it will also have:</p>
+
+<ul>
+<li>a cell phone</li>
+<li>IRC client</li>
+<li>high-quality camera</li>
+<li>802.11 support</li>
+<li>support for third-party apps</li>
+<li>support for third-party apps in Python</li>
+</ul>
+
+<p>Does such a thing exist? I doubt it&#8230; maybe I should just stay with my laptop.</p>
+
+<p class="posted">posted December 31, 2002 03:43 PM (<a class="category" href="cat_technology">Technology</a>)  <a href="000783" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000781" title="Wireless &#8220;Security&#8221;">&laquo; prev</a> | <a href="./">up</a> | <a href="000784" title="install in cron.yearly">next &raquo;</a></p>
+
+<p><a href="000777">final(?) segway update</a><br />
+<a href="000778">it&#8217;s all about the spam-readers</a><br />
+<a href="000779">what should I do with my life?</a><br />
+<a href="000780">secroll</a><br />
+<a href="000781">Wireless &#8220;Security&#8221;</a><br />
+<strong>Ideal PDA</strong><br />
+<a href="000784">install in cron.yearly</a><br />
+<a href="000788">Is the Treo ideal?</a><br />
+<a href="000789">Classic PowerPoint Presentations</a><br />
+<a href="000790">How Misleading Can You Get?</a><br />
+<a href="000791">growth spurt</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

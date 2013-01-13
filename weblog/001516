@@ -1,0 +1,205 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Stanford: Day 62 (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001516.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001515" title="Newspaper Writers on the Election" />	<link rel="next" href="001517" title="Jeff Hawkins on the Brain" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Stanford: Day 62</h1>
+</div>
+
+<div class="content">
+<p>&#8220;Big Game&#8221; fever is striking campus. Every year, we play the nearby school of Berkley (inexplicably abbreviated &#8220;Cal&#8221;) in, well, I guess it must be in football, and the school goes crazy. Huge signs reading &#8220;BEAT CAL&#8221; hang from all sides of our clocktower. And a huge clock sits in the center of campus, apparently counting down the hours until the game begins. </p>
+
+<p>Outside our dorm is a painted sheet reading &#8220;Calstration&#8221; and featuring an unclear but unmistakably violent picture of something happening to the Cal mascot. This sheet was apparently painted during an event entitled &#8220;Beat The Sheet&#8221; which sounds like an open-and-shut case of misplaced aggression.</p>
+
+<hr />
+
+<p>I walk to class listening to my new iPod, thinking I&#8217;ll finally get a chance to enjoy it. However, I feel completely dorky wearing it, even when I tuck the headphone cord into my shirt, and when I get to class I realize I&#8217;ve completely scuffed up the case. Sigh.</p>
+
+<hr />
+
+<p>My old friend and sometime-mentor Dan Connolly once IMed me to ask what IHUM (Introduction to the HUManities) was all about. He wondered if it was like a course he&#8217;d had to take where they asked him how to solve world hunger. Quite the opposite, I replied, it&#8217;s training in moral relativism. &#8220;Should we really solve world hunger? Would solving world hunger do more harm than good? What if people want to be hungry? Shouldn&#8217;t we protect the freedom of hunger?&#8221;</p>
+
+<p>The questions are absurd of course, but even with my firm political grounding, it&#8217;s tempting to swept away in them and it takes significant effort to sort them all out. I&#8217;m sure that others whose political senses are less developed eventually succumb to some extent.</p>
+
+<p>After all, the course is titled &#8220;Freedom, Equality, and Difference&#8221; and is thus the obvious choice for anyone concerned with fighting for those values. And so, once they have you, they try their best to talk you out of it, to confuse you sufficiently that you just give up trying to help people. </p>
+
+<p>Others confirm this account. A friend says that in a similar class, called SLE (Structured Liberal Education), they bombarded you with so much philosophy that you &#8216;couldn&#8217;t believe in anything when you were done.&#8217; Kat once told me that the only philosophy that ever made sense to her was nihilism. After seeing all this propaganda, that&#8217;s not entirely surprising.</p>
+
+<p>What benefit does an university funded by large government contractors like Bechtel get from talking people out of their moral values? As the saying goes, &#8220;The answer seems all too plain.&#8221;</p>
+
+<p class="posted">posted January 23, 2005 07:56 PM (<a class="category" href="cat_education">Education</a>) (<a href="#comments">4 comments</a>) <a href="001516" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001515" title="Newspaper Writers on the Election">&laquo; prev</a> | <a href="./">up</a> | <a href="001517" title="Jeff Hawkins on the Brain">next &raquo;</a></p>
+
+<p><a href="001497">Subject to the Penalty of Death</a><br />
+<a href="001502">D.J. Bernstein: The Good News Archive</a><br />
+<a href="001504">Pick A Side</a><br />
+<a href="001512">In His Own Words</a><br />
+<a href="001515">Newspaper Writers on the Election</a><br />
+<strong>Stanford: Day 62</strong><br />
+<a href="001517">Jeff Hawkins on the Brain</a><br />
+<a href="001518">Stanford: Day 63</a><br />
+<a href="001523">Stanford: Day 64</a><br />
+<a href="001524">Stanford: Day 65</a><br />
+<a href="001526">Quick Takes</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c3781">
+
+<p>I&#8217;d like to see how you reconcile &#8220;Western Cultural Imperialism&#8221; with large corporations wanting you to be a nihilistic moral relativist.</p>
+
+<p class="posted">posted by Andrew at January 23, 2005 08:27 PM <a href="#c3781">#</a></p>
+
+</div><div id="c3783">
+
+<p>&#8220;Every year, we play the nearby school of Berkley (inexplicably abbreviated “Cal”)&#8221;</p>
+
+<p>Aside from the fact that the full name, &#8220;University of California at Berkeley,&#8221; is quite a mouthful, there&#8217;s actually a very sensible reason why it is abbreviated as Cal.  The University of California (UC) System wasn&#8217;t always a large system comprised of multiple campuses.  It began as a university with a single campus, The University of California.  After a brief stint in Oakland, The University of California moved to Berkeley where it still makes it home to this day.  That&#8217;s where the Cal moniker originates.  Over the years new campuses opened (another, UC Merced is opening this fall), but Berkeley was the first, and so the nickname sticks to this day.</p>
+
+<p>The actual history is a little more complicated, but you can read more if you like at:
+http://www.berkeley.edu/about/history/</p>
+
+<p>(Dan)</p>
+
+<p class="posted">posted by Daniel C. Silverstein at January 23, 2005 09:14 PM <a href="#c3783">#</a></p>
+
+</div><div id="c3787">
+
+<p>I agree that it is reprehensible to teach a philosophy class that ultimately is just trying to prove that you can&#8217;t know anything for sure and that there are no justifications for moral values. Certainly they should at least present alternate viewpoints &#8212; perhaps something like <a href="http://ar.vegnews.org/morals.html">Objective Morality</a>, which argues that it is possible that there exists an inherent morality, regardless of human society, that can be refined over time with logic and science. I haven&#8217;t read all of it yet, but it seems like an interesting alternative perspective to relativism or religious morals.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.adamatlas.org" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3787">Adam</a> at January 24, 2005 07:47 AM <a href="#c3787">#</a></p>
+
+</div><div id="c3791">
+
+<p>Hmm, Dan Connolly on (presumably) the impossibility of solving &#8216;world hunger&#8217;&#8230; I talked to Dan about this last week while we were in Finland, mentioning that the Sachs Report had just come out suggesting an actually achievable set of rules and conditions that would if not solve &#8216;world hunger&#8217; at least halve it (as I recall) in 10 years.</p>
+
+<p>That&#8217;s exciting and of course practically impossible as long as the US, which is the one country that really matters most in this context, keeps electing people like Bush (and, well, people like Kerry, too).</p>
+
+<p>If you buy Noam Chomsky&#8217;s arguments about such things, and I think I probably do, that makes solving world hunger largely a function of what people like Aaron, Dan Connolly, and me do or, rather, <em>fail to do</em>.</p>
+
+<p>-Sigh-</p>
+
+<p class="posted">posted by Kendall Clark at January 26, 2005 08:15 AM <a href="#c3791">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001516.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1516" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

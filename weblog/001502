@@ -1,0 +1,213 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>D.J. Bernstein: The Good News Archive (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="oldstyle.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001502.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001497" title="Subject to the Penalty of Death" />	<link rel="next" href="001504" title="Pick A Side" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>D.J. Bernstein: The Good News Archive</h1>
+</div>
+
+<div class="content">
+<p>With so much to be sad about in the world today, it is with a hopeful eye that we turn to D. J. Bernstein, professor of mathematics and computer science. You may know about Bernstein because his First Amendment lawsuit forced the government to stop banning export of computer encryption software. Or you may know of him because of his mathematical breakthroughs. Or you may know of him because his software, including qmail and djbdns, does important things with grace and without bugs. </p>
+
+<p>In any event, Prof. Bernstein has recently posted <a href="http://cr.yp.to/cv/activities-20050107.pdf">a statement of selected research activities</a> [PDF] which provides more hope in these dark times.</p>
+
+<p>Bernstein is getting back on track:</p>
+
+<blockquote>
+  <p>I haven’t published much software in the last few years; my department colleagues have made clear to me that they don’t value anything other than papers. Fortunately, my promotion has now been approved by the department and the dean, so I can return to a healthy balance between papers and software. </p>
+</blockquote>
+
+<p>Protecting the Internet:</p>
+
+<blockquote>
+  <p>Cryptography on the Internet is in a sorry state. Every serious Internet protocol now has some sort of “security” extension, but only a tiny fraction of data on the Internet is actually cryptographically protected. Sometimes the security extensions are too hard to use. Sometimes the extensions are usable but too slow for busy servers. </p>
+  
+  <p>I’m adding link-level cryptographic protection to the Internet mail system. &#8230; Unlike existing mail “security” protocols, this will be fast enough to use for every message, and it will protect against attackers actively misdirecting messages. </p>
+  
+  <p>&#8230;</p>
+  
+  <p>The Domain Name System is a distributed database that maps domain names, such as <code>cr.yp.to</code>, to IP addresses (and other data), such as <code>131.193.178.160</code> [which explain where to find a specific computer]. </p>
+  
+  <p>Today’s DNS records are not cryptographically protected. By giving fake IP addresses to your computer, an attacker can easily steal your incoming and outgoing mail, substitute fake web pages, etc. </p>
+  
+  <p>DNSSEC, a project to cryptographically sign DNS records, has been under development for ten years by a large (and obviously rather incompetent) team of protocol developers. I’ve designed a new DNS security system, DNSSEC2, with several advantages over DNSSEC: it’s faster; it uses much stronger cryptographic tools; it protects against denial of service; it allows end-to-end security without help from the centralized root servers; and, most importantly, it works with existing DNS database software, so it’s much easier than DNSSEC to deploy. See <a href="http://cr.yp.to/talks.html#2004.04.28">http://cr.yp.to/talks.html#2004.04.28</a>. I plan to release the DNSSEC2 software this year. </p>
+</blockquote>
+
+<p>Writing software without bugs:</p>
+
+<blockquote>
+  <p>All the cryptographic protection in the world won’t stop an attacker who exploits a bug, such as a buffer overflow, to seize control of your computer. Some of the most widely deployed programs on the Internet—the BIND DNS server, for example, and the Sendmail SMTP server (post-office program)—have had <em>thousands</em> of bugs, including many bugs that allowed attackers to seize control.</p>
+  
+  <p>For more than a decade I have been systematically identifying error-prone programming habits—by reviewing the literature, by analyzing other people’s mistakes, and by analyzing my own mistakes—and redesigning my programming environment to eliminate those habits. &#8230;</p>
+  
+  <p>There were several non-security bugs in qmail, and a few in djbdns. My error rate has continued to drop since then. I’m no longer surprised to whip up a several-thousand-line program and have it pass all its tests the first time. </p>
+  
+  <p>Bug-elimination research, like other user-interface research, is highly nonmathematical. The goal is to have users, in this case programmers, make as few mistakes as possible in achieving their desired effects. We don’t have any way to model this—to model human psychology—except by experiment. We can’t even recognize mistakes without a human’s help. (If you can write a program to recognize a class of mistakes, great—we’ll incorporate your program into the user interface, eliminating those mistakes—but we still won’t be able to recognize the <em>remaining</em> mistakes.) I’ve seen many mathematicians bothered by this lack of formalization; they ask nonsensical questions like “How can you prove that you don’t have any bugs?” So I sneak out of the department, take off my mathematician’s hat, and continue making progress towards the goal. </p>
+</blockquote>
+
+<p>And protecting your computer from other people&#8217;s bugs:</p>
+
+<blockquote>
+  <p>The software installed on my newest home computer contains 78 million lines of C and C++ source code. Presumably there are hundreds of thousands of bugs in this code. Removing all of those bugs would be quite expensive. Fortunately, there’s a less expensive way to eliminate most security problems. </p>
+  
+  <p>Consider, for example, a compressed music track. The UNIX <code>ogg123</code> program and underlying libraries contain 50000 lines of code whose sole purpose is to read a compressed music track in Ogg Vorbis format and write an uncompressed music track in wave format. </p>
+  
+  <p>UNIX makes it possible (though unnecessarily difficult) to build a <code>safeogg</code> program that does the same conversion <em>and that has no other power over the system</em>. Bugs in the 50000 lines of code are then irrelevant to security: if the input is from an attacker who seizes control of <code>safeogg</code>, the most the attacker can do is write arbitrary output, which is what the input source was authorized to do anyway. &#8230;</p>
+  
+  <p>Do <em>all</em> transformations have this property? Of course not. There are some transformations that produce output trusted more highly than the input; these transformations have to be bug-free. &#8230; But these exceptions account for only a small fraction of the code in a system. &#8230;</p>
+  
+  <p>I expect this strategy to produce invulnerable computer systems: restructure programs to put almost all code into extreme sandboxes; eliminate bugs in the small volume of remaining code. I won’t be satisfied until I’ve put the entire security industry out of work. </p>
+</blockquote>
+
+<p class="posted">posted January 08, 2005 03:29 PM (<a class="category" href="cat_technology">Technology</a>) (<a href="#comments">1 comments</a>) <a href="001502" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001497" title="Subject to the Penalty of Death">&laquo; prev</a> | <a href="./">up</a> | <a href="001504" title="Pick A Side">next &raquo;</a></p>
+
+<p><a href="001486">Network News Presidents on the Election</a><br />
+<a href="001487">Stanford: Day 60</a><br />
+<a href="001488">Stanford: Day 61</a><br />
+<a href="001490">The People Themselves: A Debate</a><br />
+<a href="001497">Subject to the Penalty of Death</a><br />
+<strong>D.J. Bernstein: The Good News Archive</strong><br />
+<a href="001504">Pick A Side</a><br />
+<a href="001512">In His Own Words</a><br />
+<a href="001515">Newspaper Writers on the Election</a><br />
+<a href="001516">Stanford: Day 62</a><br />
+<a href="001517">Jeff Hawkins on the Brain</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c3704">
+
+<p>D. J. Bernstein writes (and Aaron quotes), <blockquote>&#8220;The goal is to have users, in this case programmers, make as few mistakes as possible in achieving their desired effects.&#8221;</blockquote></p>
+
+<p>Given my own horrific programming skills, it would be interesting to see some numbers on how well the &#8220;paired programming&#8221; concept works in some &#8220;agile&#8221; approaches.</p>
+
+<p>When I think about Quality, I&#8217;m surprised at how resistent people are to following a basic approach: When a bug occurs, record it and categorize it.  Try to figure out where in the system life cycle it was introduced, and its root cause. Once you have enough data points to make some intelligent guesses, design preventive measures and then observe to see if the bug counts go down (or if the &#8220;preventive&#8221; measure actually introduces more/different bugs.</p> 
+
+<p>The most interesting thing I&#8217;ve read on this topic is &#8220;<a href="http://www.chillarege.com/odc/articles/odcconcept/odc.html">Orthogonal Defect Classification</a> - A Concept for In-Process Measurements&#8221; in the IEEE Transactions on Software Engineering by Ram Chillarege, Inderpal S. Bhandari, Jarir K. Chaar, 
+Michael J. Halliday, Diane S. Moebus, Bonnie K. Ray, and Man-Yuen Wong. (They propose a technique that is a little more scientifc than my &#8220;intelligent guesses.&#8221;)</p>
+
+<p class="posted">posted by Russ Schwartz at January 10, 2005 06:42 AM <a href="#c3704">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001502.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1502" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

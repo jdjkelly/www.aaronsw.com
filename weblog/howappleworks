@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>How Apple Works (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>How Apple Works</h1>
+
+<p>Who takes over for Steve Jobs?<sup id="fnref:f1"><a href="#fn:f1" rel="footnote">1</a></sup> <a href="http://daringfireball.net/2011/07/succeeding_steve_jobs">John Gruber recently posted</a> his argument for thinking it will be COO Tim Cook. The biggest point in Cook&#8217;s favor is simple: &#8220;He&#8217;s already run the company while Jobs has been on leave.&#8221; That&#8217;s true, but it&#8217;s less meaningful than it sounds. But to understand why, you need to understand how Apple works.</p>
+
+<p>In the same way that Google is a company driven by engineering or Amazon is driven by operations, Apple is driven by taste. Here&#8217;s how Apple products are created: a team of designers decide exactly what a product should do and how it should look and feel, their work is ruthlessly edited by Steve until he approves, and then the entire rest of the company is given the task of moving mountains to make that dream real.</p>
+
+<p>Tim Cook is in charge of that third step. And he&#8217;s done a masterful job of it, accomplishing endless miracles never been seen by the public. Apple engineers have invented entirely new chips to fit the specified processing power into the tiny cases required by the spec; they build entirely new factories with entirely new production processes just to perfectly match the shade of pink in the original design; they&#8217;ve created a revolution in logistics to ensure these amazing products get into customers&#8217; hands on launch day. Cook runs this process, and there&#8217;s no doubt he&#8217;s brilliant at it.</p>
+
+<p>But it&#8217;s about fulfilling Jobs&#8217; dreams, not forging new ones. He can continue to run the company while Jobs is away because he&#8217;s continuing to ensure the execution of designs that Jobs has already approved. But Apple can&#8217;t run indefinitely on old plans. The only reason it works for Cook to be in charge while Steve is away is because Steve is still around, doing ruthless critiques of yet-to-be-invented products from his sickbed.</p>
+
+<p>The only person with the credibility to helm Apple in the long run is a person who can do those critiques. And for all Cook&#8217;s brilliance, I&#8217;ve seen no evidence  he&#8217;s a master of great taste. His creativity is at achieving a predetermined goal, not about deciding what goal to achieve.</p>
+
+<p>As Gruber says, whoever takes Steve&#8217;s place will be someone already at Apple. Not just because all the other options are absurd, but because Steve has spent the past decade or so carefully training his top lieutenants about how to do every aspect of his job. It makes no sense to hire from outside that elite group. But within that group, there&#8217;s only one person who makes any sense as tastemaker-in-chief: Jony Ive.</p>
+
+<p>This becomes obvious if you just watch the keynotes. Steve Jobs is well known for raising the product keynote to an art form. But the others who have taken over the speaking job in recent years &#8212; Scott Forstall, Phil Schiller, Tim Cook &#8212; seem like clumsy kids trying to fill the shoes of the master. There&#8217;s only one person at Apple who gives talks with the elegance and style of Steve: Jony Ive.</p>
+
+<p>Now the big criticism of Ive is that while he is clearly one of the most brilliant industrial designers in the world, he&#8217;s shown no aptitude for software design. It&#8217;s hard to know whether this is true. The <a href="http://arstechnica.com/apple/news/2008/07/jonathan-ive-takes-home-mda-award-for-iconic-iphone-design.ars">Mobile Design Awards credited Ive</a> with the iPhone&#8217;s user interface, but <a href="http://www.google.com/patents/about/7479949_Touch_screen_device_method_and_g.html?id=dCKzAAAAEBAJ">the patent</a> credits Jobs and Forstall and a dozen others, but not Ive.</p>
+
+<p>But even if Ive never designed a piece of software in his life, it&#8217;d be beside the point. I can&#8217;t imagine Jobs has either. What&#8217;s needed atop Apple is not creative brilliance &#8212; they have a design department full of that &#8212; but editorial taste. Like <a href="http://kottke.org/11/07/a-day-in-the-life-of-john-lasseter">the director of a film</a>, Apple&#8217;s CEO needs to go through the thousands of creative ideas developed within Apple and decide which ones should be approved for production and which ones need to sent back for more work.</p>
+
+<p>It&#8217;s impossible to imagine Apple functioning without this role. (Would Apple splinter and start developing all sorts of random unapproved products like Google under Eric Schmidt?) It&#8217;s impossible to imagine Tim Cook filling this role. (How can he be tastemaker for the whole company if he can&#8217;t even pull off a decent keynote?) And it&#8217;s impossible to imagine this role being anywhere but at the top of the org chart. (It&#8217;d be like crediting a film to the producer instead of the director.)</p>
+
+<p>No, if Apple is to continue, it will be with a tastemaker at the top. And there are no serious candidates besides Ive.</p>
+
+<div class="footnotes">
+<hr />
+<ol>
+
+<li id="fn:f1">
+<p>This piece was written before Steve stepped down as CEO, but I think it still stands. I mean when Steve really leaves: it seems obvious that even as &#8220;Chairman of the Board&#8221; rather than CEO, he&#8217;s still tastemaker-in-chief at Apple.&#160;<a href="#fnref:f1" rev="footnote">&#8617;</a></p>
+</li>
+
+</ol>
+</div>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">July 22, 2011</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>Swartz 1, Gruber 0 ;-)</p>
+
+<p>Funny quote (from Gruber):
+&#8220;ANYONE ELSE FROM GOOGLE. No credibility within Apple regarding design, no experience with hardware products.&#8221;</p>
+
+<p>It&#8217;s amazing just how blind Google is to design. Their web interfaces are generally both confusing and ugly. (Their initial search page design is the exception. As is the current redesign.) How do they do it? Can they not just hire interface designers?</p>
+
+<p>Ira Glass suggests if you want to do good creative work, you first need good taste. That&#8217;s not the sort of thing anyone is going to teach you at art school. But it&#8217;s very true. And under-rated. Jon Ive it is.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="bradbell.tv">bradbell.tv</a>
+ on July 23, 2011 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>Swartz 1, Gruber 1  :-)
+.<br />
+Gruber is explicitly talking about &#8220;Apple CEO succession&#8221; and you&#8217;re talking about the role of creative force and face of Apple. Call it CCO, if you want.</p>
+
+<p>Even if it&#8217;s truly &#8220;impossible to imagine this role being anywhere but at the top of the org chart&#8221;, that still doesn&#8217;t mean Ive will be CEO.  Maybe, but I&#8217;ve seen nothing to suggest he&#8217;d want the distractions of the CEO role. At Apple, why does CEO have to be the top of the organization chart?</p>
+
+<p>Anyway, the limits of your imagination are not evidence of anything about what Apple can do.</p>
+
+<p class="posted">posted by PaulP
+ on July 24, 2011 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>Jobs is a product communicator, Ive is a product designer. There&#8217;s some overlap but the roles aren&#8217;t interchangeable.</p>
+
+<p class="posted">posted by Gaurav Sharma
+ on July 24, 2011 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>The key is the point Gruber makes toward the end of his article: Apple after Steve Jobs will simply be Apple as it is now, without Steve Jobs. The question of who will become CEO is a distraction.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://plasmasturm.org/">Aristotle Pagaltzis</a>
+ on July 26, 2011 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>An unstated assumption here is that for Apple to keep being awesome it has to run similarly to how it runs under Steve.</p>
+
+<p>It has to keep doing a lot of the things Steve&#8217;s been crucial to &#8212; has to boldly, competently trek into scary new territory; someone has to know when a business unit has made a stinker (MobileMe) and call BS; a great team needs recruited.</p>
+
+<p>That&#8217;s not as simple as having a CEO and a design person and I think Cook needs to &#8220;get&#8221; Apple pretty deeply &#8212; &#8220;we need a better prototype, now&#8221; has more weight coming from the CEO; he at least needs to demonstrate that the forces of creativity in the company have his full backing.  Cook needs to meld taste with utility or strategy when they intersect (WebKit on the iPhone, maybe).  He needs to see where the puck is going.  He needs a communications strategy that&#8217;s a worthy successor to the Jobs keynote.</p>
+
+<p>Like Gruber, I don&#8217;t buy the rub that Cook is &#8220;just&#8221; an execution guy and couldn&#8217;t well and truly run the company.  He can&#8217;t be Steve, but the point isn&#8217;t to be Steve, it&#8217;s to know and keep up what makes Apple awesome.</p>
+
+<p>Cook might even bring some good changes to Apple, heretical as that notion is &#8212; could be a future with fewer antennagates and buttonless iPod Shuffles, maybe even something ridiculous like a Mac laptop under $1k.</p>
+
+<p>I&#8217;d give Cook about 2/3 odds of getting it (maybe there&#8217;s another great internal candidate at Apple, or maybe the board will really shoot itself in the foot) and I wouldn&#8217;t bet that Apple without Steve will either collapse or just look exactly like current Apple minus Steve.  Talk to me in a few years and we&#8217;ll see how it panned out.</p>
+
+<p class="posted">posted by R
+ on July 26, 2011 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c6">
+<p>I got a bit of phrasing tragically wrong there: &#8220;I don’t buy the rub that Cook is &#8216;just&#8217; an execution guy and couldn’t well and truly run the company.&#8221;</p>
+
+<p>You clearly said how important and amazing Cook&#8217;s COO work is and I doubt you&#8217;d ever say anything is &#8220;just implementation.&#8221;  Just want to clarify that if anyone&#8217;s out there writing off what Cook does as &#8220;mere&#8221; execution it ain&#8217;t you.</p>
+
+<p class="posted">posted by R
+ on July 26, 2011 <a href="#c6" rel="bookmark">#</a></p>
+</div>
+<div id="c9">
+<p>Steve Jobs has never designed a piece of software!?</p>
+
+<p class="posted">posted by 
+ on August 27, 2011 <a href="#c9" rel="bookmark">#</a></p>
+</div>
+<div id="c11">
+<p>Anon Coward: What software has Steve designed? The only thing I can think of that&#8217;s even remotely plausible is Keynote and it seems pretty clear that whatever he designed, it was a small part of what made it into 1.0. But I&#8217;d love to learn otherwise.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on August 27, 2011 <a href="#c11" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="howappleworks" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

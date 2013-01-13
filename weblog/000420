@@ -1,0 +1,93 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>temperature rising (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000418" title="the circle of life continues" />	<link rel="next" href="000421" title="confessions of a time-waster" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>temperature rising</h1>
+</div>
+
+<div class="content">
+<p>TidBits: <a href="http://www.tidbits.com/">Collatoral Spammage 2002 - How much spam do you get?</a></p>
+
+<p>I just rewatched <a href="http://the.ausmac.net/ftp/Quicktime-Movies/apple-1984-commercial.mov">the Apple 1984 commercial</a> and noticed that the first shot is of people tubes. Wow. Always thought they were rails to climb down into the sewers where the show takes place. Brings a whole new meaning to the ad.</p>
+
+<p><a href="http://www.geocities.com/franktau/interviewpart1.html">Steve Jobs on school</a>: &#8220;And they really almost got me. They came close to really beating any curiosity out of me. [&#8230;] I&#8217;ve helped with more computers in more schools than anybody else in the world and I absolutely convinced that is by no means the most important thing. The most important thing is a person.&#8221;</p>
+
+<p>&#8216;Twas the night of the Expo and Apple gave to me&#8230; <a href="http://www.apple.com/quicktime/download/">QuickTime 6</a>, <a href="http://www.apple.com/quicktime/download/broadcaster/">QuickTime Broadcaster</a> (Automatic Unicast still doesn&#8217;t seem to work). I notice that Apple&#8217;s <a href="http://www.apple.com/quicktime/download/images/upgrade_now_jaq.gif">already using Jaguar-style buttons</a>.</p>
+
+<p>Wow, a real live .museum domain: <a href="http://nyc.moma.museum/">nyc.moma.museum</a>. Of course, it serves up the same content as <a href="http://moma.org/">moma.org</a>. Do any living internationalized domain names exist?</p>
+
+<p>McCusker: <a href="http://www.treedragon.com/ged/map/ti/newOct02.htm">&#8220;You are now in the future: a maze of twisty days, all alike.&#8221;</a></p>
+
+<p>Went for a walk. Ravinia is beautiful this time of year. Full green trees are everywhere, surrounding small streets filled with old buildings, small stores and public parks.  Ravines snake through the houses and lead down to the beautiful lake side. I don&#8217;t know why I&#8217;ve not walked around more during the day, nor why nobody else seems to &#8212; the streets were practically empty except for the loud buzzing of the gasoline-burning gardeners and one kind businessman-with-suitcase who said &#8220;hi&#8221; as he passed.</p>
+
+<p>Sign up at the <a href="http://ga1.org/alliance/home.html">Drug Policy Alliance Action Center</a> to be notified when the government is considering actions on drug policy. They&#8217;ll send you email notifications making it very easy to send a letter or fax to your congressman about the issues. They currently need your support to <a href="http://ga1.org/campaign/rave">stop the RAVE bill</a> which could <a href="http://stallman.org/extra/billS2633.html">give you twenty years in prison if you support drug legalization.</p>
+
+<p><a href="http://www.smh.com.au/articles/2002/07/14/1026185141232.html">US Planning to Recruit Citizen Informants</a> Wow, this is really hard to believe. I&#8217;m tempted to move to another country. On the other hand, maybe I should <a href="https://www.citizencorps.gov/citizen/jsp/volunteerform.jsp">sign up</a> and file reports of our governments unamerican attempts to take away our civil liberties.</p>
+
+<p>What? <a href="http://www.macosXrumors.com/images/140702/wheel.jpg">Rainbow aqua beachballs</a>? What was wrong with <a href="http://static.userland.com/images/wmf/ball2.gif">the other ones</a>? [<a href="http://macosxrumors.com/">mosxr</a>]</p>
+
+<p>They&#8217;re looking for more <a href="http://python.org/workshops/oscon2002/">Python lightning talks at OSCON</a>. I wonder if I should give one, and if so, what on.</p>
+
+<p>The <a href="http://python.org/cgi-bin/moinmoin/">Python Wiki</a> has been updated and expanded. Wiki power!</p>
+
+<p>Raph <a href="http://advogato.org/person/raph/diary.html?start=240">writes</a> &#8220;A link can be a URL, but it can also be an immutable hash of the content. That way, if you have the file locally, you don&#8217;t need to go to the net to resolve it.&#8221; While hashes are useful, one thing you often here in W3C circles is that local file storage should keep track of the URIs from which it got the files and cache them so. So you&#8217;d just look for the cached file with that URL instead of the one with that hash.</p>
+
+<p>No Zooko dance videos until we get more Irby videos.</p>
+
+<p><a href="http://www.pseudodictionary.com/phenomic">phenomic</a> (<a href="http://www.aaronsw.com/2002/phenomena.wav">doo doo de do do</a>) Ugh, can&#8217;t believe the editor dissed the schkurdle.</p>
+
+<p>I think it&#8217;d be cool to be kidnapped and taken to Burning Man. From the boredom of school to the insanity of Black Rock City. It sounds like a book.</p>
+
+<p><a href="http://www.wired.com/wired/archive/4.11/burningman_pr.html">Bruce Sterling on Burning Man</a>: &#8220;It&#8217;s all exactly backward. If you want to have a naked pagan art fair, you ought to have it in the padded comfort of a sealed, air-conditioned casino. It would be perfect for this kind of activity. If you want to divorce somebody or feed the gambling bug or lick your chops over paid nudity, then you ought to have to creep off to do that in some remote boondocks where the rest of us don&#8217;t have to witness your gross behavior. I wonder how our culture got into this oxymoronic situation. It can&#8217;t be good for us.&#8221;</p>
+
+<p>I think there should be a conference for people with beards, long hair and small children. I know a lot of people like that and they&#8217;re all very smart and seem to be interested in similar things. I added list of them (along with links to my bestest friends)  at <a href="http://notabug.com/">notabug.com</a>.</p>
+
+<p>Tom Lyon thinks <a href="http://www.ipipu.org/npn.htm">we need to build a utility which delivers IPv6 over Ethernet</a> and standardize ISPs who agree as IP-OK. This utility would simply route packets. It wouldn&#8217;t tell users what they could or could not do over the network, nor provide better service for certain kinds of packets. This is the ultimate manifestation of the <a href="http://www.reed.com/Papers/EndtoEnd.html">end-to-end argument</a>. [<a href="http://slashdot.org/articles/02/07/15/1217214.shtml?tid=95">/.</a>]</p>
+
+<p>And thus began <a href="http://www.joyoftech.com/joyoftech/joyimages/328.gif">Free Software Foundation vs. Apple Computer</a>.</p>
+
+<p>The Register: <a href="http://www.theregister.co.uk/content/4/26188.html">Confirmed: MS to ship beefed up 802.11 security in XP SP1</a>. They&#8217;re deploying <a href="http://search.ietf.org/internet-drafts/draft-josefsson-pppext-eap-tls-eap-02.txt">PEAP</a>, which is an IETF Internet-<strong>Draft</strong>, but seems to provide pretty decent security, using TLS. [<a href="http://www.sifry.com/alerts/archives/000085.html">Sifry</a>]</p>
+
+<p><a href="http://www.boston.com/dailynews/193/economy/Myanmar_makes_unlicensed_compuP.shtml">Myanmar makes unlicensed computer networks illegal</a> &#8220;Offenders face seven to 15 years in jail [&#8230;] Individuals can subscribe to e-mail services, but must give their passwords to authorities. [&#8230;] Once licensed, the networks will be subject to checks by the ministry to allow for encrypted data to be decoded if necessary, says the order.&#8221; [<a href="http://www.sifry.com/alerts/archives/000084.html">Sifry</a>]</p>
+
+<p>I saw a great T-Shirt at the <a href="http://www.mcachicago.org/">Museum of Contemporary Art</a>. It said &#8220;I * Chicago&#8221; except the * was the <a href="http://trusted.resource.org/">big blue dot from the IMS/ISC logo</a>. Hm, since I have animation turned off I didn&#8217;t know that dot was animated.</p>
+
+<p>That&#8217;s right, it&#8217;s <a href="http://www.clicktoaddtitle.com/">round 3 of clicktoaddtitle</a>, where Harpold and Sippey battle for master of the PowerPoint deck. This round is called &#8220;Truth and Beauty&#8221; and unlike the others it makes you think, not cringe.</p>
+
+<p>And if that wasn&#8217;t enough, you can watch some past games of <a href="http://www.coudal.com/tennis.html">Photoshop tennis</a>. It&#8217;s sort of like those stories you make by going around in a circle, each person adding a bit, except done by graphic designers and far more powerful.</p>
+
+<p>I&#8217;ve been trying to play a game of tennis each day. I&#8217;ve been feeling much better, although hungrier. I&#8217;m also not getting much work done.</p>
+
+<p class="posted">posted July 15, 2002 09:40 AM (<a class="category" href="cat_"></a>)  <a href="000420" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000418" title="the circle of life continues">&laquo; prev</a> | <a href="./">up</a> | <a href="000421" title="confessions of a time-waster">next &raquo;</a></p>
+
+<p><a href="000412">OSCON Key Signing Party</a><br />
+<a href="000413">today&#8217;s featured superhero: Seth Schoen</a><br />
+<a href="000414">Public Speaking and Writing</a><br />
+<a href="000415">smiling dogs</a><br />
+<a href="000418">the circle of life continues</a><br />
+<strong>temperature rising</strong><br />
+<a href="000421">confessions of a time-waster</a><br />
+<a href="000422">MacWorld Keynote Coverage</a><br />
+<a href="000423">empty jaguar-skin wallet</a><br />
+<a href="000424">Reflections on the Keynote</a><br />
+<a href="000425">i&#8217;m not dead yet</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

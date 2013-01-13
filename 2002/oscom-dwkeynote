@@ -1,0 +1,276 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html>
+<head>
+<title>Dave Winer's OSCOM Keynote</title>
+<meta name="Generator" content="irc2html.pl 1.8, http://www.jwz.org/hacks/irc2html.pl" />
+<link rel="stylesheet" type="text/css" href="/style.css" />
+<style type="text/css">
+td:first-child { font-weight: bold; text-align: right; }
+tr td { background-color: #ddd }
+tr.me td { background-color: white }
+</style>
+</head>
+<body>
+
+<h1>Dave Winer's OSCOM Keynote</h1>
+
+<p>This is a log from irc://irc.freenode.net/oscom on 2003-05-29.</p>
+
+<p>More: <a href="http://blog.oscom.org/cgi-bin/mt-tb.cgi?__mode=view&amp;entry_id=67">Links to further coverage</a>.</p>
+
+<table>
+ <tr class="me"><td>&lt;AaronSw&gt;</td><td>Dave Winer - Keynote</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>let's not build walls. closed, proprietary -- terrible things to say about someone</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>no longer an active software developer</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>i did open source and commercial (use that term) software</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>i released most of the source code for commercial software</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>just had no redistribution right</td></tr>
+ <tr><td>&lt;sandro&gt;</td><td>(hi, Aaron, sorry I kept missing your yesterday.)</td></tr>
+ <tr class="me"><td>&lt;AaronSw&gt;</td><td>most people didn't care about having the source code</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>(hi)</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>it's not microsoft v. you, lots in between</td></tr>
+ <tr><td>* sandro</td><td>wishes he were there.  :-/</td></tr>
+ <tr><td>&lt;bitsko&gt;</td><td>somebody musta found a hotspot, or a landline ;)</td></tr>
+ <tr class="me"><td>&lt;AaronSw&gt;</td><td>our customers were being told that we were stealing from them. that's not nice!</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>we dont want ot be friends with folks who say that</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>open source's philosophy is based in the bubble</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>everyone's doing a mixture now</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>(we had both before but they were mac-address blocked)</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>interrupt, feel free. if you don't, i'll bore you</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>Joseph Reagle: proprietary was a good word; open source turned it evil</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>Dave: have you produced proprietary software?</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>reagle: no</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>Dave: people need the 40 people shrinkwrap company, and that's gone now. you can't get that from open source</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>[paul everitt keeps nodding]</td></tr>
+ <tr><td>* bitsko</td><td>keeps going "so what?"</td></tr>
+ <tr class="me"><td>&lt;AaronSw&gt;</td><td>it's relatively easy to write unix. it's ease of use that's hard</td></tr>
+ <tr><td>* bitsko</td><td>notes that he's not formulating any questions for the session and his mutterings shouldn't be taken as such ;)</td></tr>
+ <tr class="me"><td>&lt;AaronSw&gt;</td><td>Halley Suitt: What does Linux look like? Where's the marketing?</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>[someone shows her linux]</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>DW: plugs linux advocacy howto</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>my software sucks. i'm trying to make it better.</td></tr>
+ <tr><td>* bitsko</td><td>hates that meme, since he knows how easy it is to write quality software.  Quality *is* free.</td></tr>
+ <tr class="me"><td>&lt;AaronSw&gt;</td><td>(I don't think it's free. It's hard work, but not imposisble.)</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>xml-rpc. darling of the open source world. microsoft helped invent it. philosophy: i'll do whatever you ask</td></tr>
+ <tr><td>&lt;sandro&gt;</td><td>which meme?   that software is inherently buggy?</td></tr>
+ <tr class="me"><td>&lt;AaronSw&gt;</td><td>"can i have X?" yes, unless there's a reason</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>people didn't suggest complex things because they knew it would be accepted</td></tr>
+ <tr><td>&lt;bitsko&gt;</td><td>(writing quality software often improves individual and team performance.  it's a habit.  as a habit, it may be hard to "get into", but once you're into it, it most assuredly is free forever)</td></tr>
+ <tr class="me"><td>&lt;AaronSw&gt;</td><td>they argued against their own ideas because everyone else would accept them</td></tr>
+ <tr><td>&lt;bitsko&gt;</td><td>(sandro: yes, that software is inherently buggy)</td></tr>
+ <tr><td>* bitsko</td><td>notes xml-rpc was nothing of the sort, but oh well</td></tr>
+ <tr class="me"><td>&lt;AaronSw&gt;</td><td>Tony Berne, CMSWatch: there are successful 40-person shrinkwrap server software firms int he CMS market. they seal open source</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>(what sort? simple?)</td></tr>
+ <tr><td>&lt;sandro&gt;</td><td>I'm really curious about your data, bitsko.      Do you agree or disagree with books like "XP Explained" and "Agile Software Development" ?</td></tr>
+ <tr class="me"><td>&lt;AaronSw&gt;</td><td>DW: the key is to be a user. make stuff you want to use</td></tr>
+ <tr><td>&lt;bitsko&gt;</td><td>I agree with XP Explained and Agile Software Development, unless we're crossed here, I think they support what I'm saying</td></tr>
+ <tr><td>&lt;sandro&gt;</td><td>I'm just trying to understand what you're saying.   :-)      Agreeing with those help me narrow down the possible interpretations.</td></tr>
+ <tr class="me"><td>&lt;AaronSw&gt;</td><td>DW: people say they want open source. you don't actually want the source -- what do you really want?</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>i think it's something else you can't articulate</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>freedom? no-lockin? choice? creativity?</td></tr>
+ <tr><td>&lt;bitsko&gt;</td><td>control.</td></tr>
+ <tr><td>&nbsp;</td><td>which probably falls in the bucket of "freedom"</td></tr>
+ <tr><td>&lt;sandro&gt;</td><td>control  (freedom, no-lockin)</td></tr>
+ <tr><td>* bitsko</td><td>nods</td></tr>
+ <tr class="me"><td>&lt;AaronSw&gt;</td><td>Larry Rosen: create derivative works</td></tr>
+ <tr><td>&lt;sandro&gt;</td><td>creativity and a sense that the creators are "my kind of people" comes too, but some proprietary/commercial systems get that too.</td></tr>
+ <tr><td>&nbsp;</td><td>true ownership -- not feeling like I'll lose part of my computer when they go out of business.</td></tr>
+ <tr class="me"><td>&lt;AaronSw&gt;</td><td>someone else?: i want to be able to fix the software or hire someone too</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>DW: but you can just export the data and import it to a new app</td></tr>
+ <tr><td>&lt;besfred&gt;</td><td>(stupid argument)</td></tr>
+ <tr><td>&lt;sandro&gt;</td><td>In many cases you can't just export &amp; re-import.  XML &amp; RDF are hoping to change that.    Also, I get used to the user interface &amp; quirks.</td></tr>
+ <tr><td>&lt;bitsko&gt;</td><td>yes, an *open source* app, so we'll never have *that* problem again.</td></tr>
+ <tr class="me"><td>&lt;AaronSw&gt;</td><td>aaron: add features, fix bugs</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>someone: source code escrow would be good</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>sam ruby: don't want to be stranded</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>sam: my weblog doesn't look good in IE; want to fix that</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>DW: I agree. if MS had code in escrow, kick it out now</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>DW: they should give up IE as a penalty for antitrust</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>DW: it's like keeping the gun you used to commit a murder</td></tr>
+ <tr><td>&lt;bitsko&gt;</td><td>that's why I don't think source code escrow is practical, because no way would IE be out</td></tr>
+ <tr class="me"><td>&lt;AaronSw&gt;</td><td>Bruce Tchaikovsky: i can build a good API into open source software</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>DW: real software products aren't things of beauty. APIs go on the outside</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>Paul Everitt, Zope: +1 on usability. need a motivator, more than helps me and geek cred</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>DW: another reason is job security. don't want to lose consilting revenue</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>Paul: geeks don't think that far ahead</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>Paul: need to put users first, work together</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>Paul: everyone needs to create a TLA for memetic self-preservation</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>DW: we stand on the toes of giants</td></tr>
+ <tr><td>&lt;bitsko&gt;</td><td>not sure where the job security comment comes from.  I usually equate "job security" thinking with intentional complexity.  I've found myself continually employed just by saying that my software is as readable and understandable as possible.</td></tr>
+ <tr class="me"><td>&lt;AaronSw&gt;</td><td>?x: why should we use proprietary software?</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>DW: you shouldn't. (beat) use software based on features, not religion</td></tr>
+ <tr><td>&lt;bitsko&gt;</td><td>aha!  something I agree with</td></tr>
+ <tr class="me"><td>&lt;AaronSw&gt;</td><td>DW: tool, not religion. lots of churches, they do a much better job IMO</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>Bill Airn(ph): democracies need a right to vote. do we need a reason to vote? have a free market?</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>... free markets can't allow monopolies</td></tr>
+ <tr><td>&lt;bitsko&gt;</td><td>even monopolies of free software (Apache, Linux) are a bad thing in the long term</td></tr>
+ <tr class="me"><td>&lt;AaronSw&gt;</td><td>DW: open source seems like communism, not freem market</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>(i think he might have meant monopoly in the copyright sense)</td></tr>
+ <tr><td>&lt;bitsko&gt;</td><td>yes, of which there isn't any in the open source world, so one can only presume in the marketshare sense</td></tr>
+ <tr class="me"><td>&lt;AaronSw&gt;</td><td>DW: will anyone actually fix the bugs? no one's fixing the bugs on all those source forge bugs</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>Sam Ruby: that's why i use apache. someone in this audience will fix it</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>... it's going to be around for a while</td></tr>
+ <tr><td>&lt;bitsko&gt;</td><td>there's negative association with "communism", and "free market" implies money, even when we're not discussing money (or are we?)</td></tr>
+ <tr><td>&nbsp;</td><td>hello?  when do commercial companies empty out their bug trackers?</td></tr>
+ <tr class="me"><td>&lt;AaronSw&gt;</td><td>DW: yeah! software should last 30 years. let's not reinvent the wheel</td></tr>
+ <tr><td>&lt;sandro&gt;</td><td>Every quarter, they drop it on the floor.  :-)</td></tr>
+ <tr><td>* bitsko</td><td>would laugh, but he's seen it done.</td></tr>
+ <tr class="me"><td>&lt;AaronSw&gt;</td><td>Larry Rosen: non-tech people see open source as MS's only competitor</td></tr>
+ <tr><td>&lt;bitsko&gt;</td><td>does "post scarcity" have negative association?</td></tr>
+ <tr class="me"><td>&lt;AaronSw&gt;</td><td>DW: yep</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>DW: if i solve a problem, admit it. use it, clone it</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>DW: I honored Apache when building Manila, but the Apache people just ignore Manila cuz it's not open source. that makes me angry!</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>DW: take my ideas! i'm not patenting them</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>Mark Blonder(ph), IMB: I think Manila didn't make it because of Radio userland</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>DW: wha!??!? Manila made it!</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>Mark: You've got a support and documentation issue. b-logger has the same thing</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>DW: there's no money in software!!!</td></tr>
+ <tr><td>&lt;bitsko&gt;</td><td>hmmm...</td></tr>
+ <tr class="me"><td>&lt;AaronSw&gt;</td><td>DW: can't wish it into existence! $39.95 doesn't answer a lot of questions!!</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>DW: it's not whether you like stallman or gates. i don't like either, neither take baths</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>DW: (that's the soundbite)</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>?z: what about RSS?</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>DW: RSS stands for Really Simple Syndication. Agree or Disagree? Subset of RDF or straight XML?</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>DW: if 5-10 people read all the archives and read the history, we'd go back before the 1.0 fork</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>DW: let's get the world rational again</td></tr>
+ <tr><td>&lt;bitsko&gt;</td><td>yes...</td></tr>
+ <tr class="me"><td>&lt;AaronSw&gt;</td><td>... gradually upgrade</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>... had that happened, no RSS 2.0 today</td></tr>
+ <tr><td>&lt;bitsko&gt;</td><td>and no namespace either.</td></tr>
+ <tr class="me"><td>&lt;AaronSw&gt;</td><td>DW: Joi Ito wanted to know content:encoded or description or what</td></tr>
+ <tr><td>&lt;bitsko&gt;</td><td>s/namespace/namespaces/</td></tr>
+ <tr class="me"><td>&lt;AaronSw&gt;</td><td>... man, I don't know.</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>... that's a disastert</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>... we have one final shot at getting this right. MS and AOL are coming!</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>... W3C members that love to argue and fight and throw money at each other</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>... we need to be solid before we deal with them</td></tr>
+ <tr><td>&lt;bitsko&gt;</td><td>no, it's not.  it's a discussion that's close to winding up, but most believe it needs to be done in the open.</td></tr>
+ <tr class="me"><td>&lt;AaronSw&gt;</td><td>... follow the blazed trail</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>Sam: been with IBM 21 years. hear "one shot" constantly; it's never one shot. it's a rallying cry, life goes on</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>...  RSS is best-supported. let's do it incrementally</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>DW: our ethos is "if you do it first, i'll follow you" we shoulda done that with rss</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>... so do what UL did, we did it first</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>... you wouldn't like it, evan (if you were evan) if we changed the blogger api w/o taalking to you</td></tr>
+ <tr><td>&lt;bitsko&gt;</td><td>if anyone cares to look back before the 1.0 fork, they would clearly see the EXACT SAME THING people are asking for today: open standards, a level playing field</td></tr>
+ <tr class="me"><td>&lt;AaronSw&gt;</td><td>... i implemented trackback to. the. spec.</td></tr>
+ <tr><td>&lt;bitsko&gt;</td><td>aha, here we get to the "Userland did RSS, we own it"</td></tr>
+ <tr class="me"><td>&lt;AaronSw&gt;</td><td>DW: need to get back on track. blogger + MT + userland is pretty powwerful</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>Sam: aggregators need a vote</td></tr>
+ <tr><td>&lt;bitsko&gt;</td><td>I don't see "users" in that equation.</td></tr>
+ <tr class="me"><td>&lt;AaronSw&gt;</td><td>DW: no votes. no standard bodies</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>Sam: Joe(?) has a point too</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>DW: once we three get compat. then we can do Joe's thing from there</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>Bill Kearney, Syndic8.com: </td></tr>
+ <tr class="me"><td>&nbsp;</td><td>DW: oh, you're Bill Kearney. my god</td></tr>
+ <tr><td>&lt;bitsko&gt;</td><td>(w00t!)</td></tr>
+ <tr class="me"><td>&lt;AaronSw&gt;</td><td>Bill: saber-rattling. platitudes. democracy. benevolent dictatorship. guise.</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>DW: stop.</td></tr>
+ <tr><td>&lt;Mutiny&gt;</td><td>haha</td></tr>
+ <tr class="me"><td>&lt;AaronSw&gt;</td><td>DW: had i known you were in the audience i would have said this</td></tr>
+ <tr><td>&lt;Mutiny&gt;</td><td>damn i wish i was there.</td></tr>
+ <tr class="me"><td>&lt;AaronSw&gt;</td><td>DW: I want to say this face-to-face: i don't like where you're going, i don't want to hear those thoughts</td></tr>
+ <tr><td>&lt;sandro&gt;</td><td>damn i wish i was there.  :-)</td></tr>
+ <tr class="me"><td>&lt;AaronSw&gt;</td><td>DW: say them on your weblog. i don't want to go there</td></tr>
+ <tr><td>&lt;Mutiny&gt;</td><td>this is getting juicy ahaha</td></tr>
+ <tr class="me"><td>&lt;AaronSw&gt;</td><td>Charlie Nesson: that seems like total bs</td></tr>
+ <tr><td>&lt;sandro&gt;</td><td>now I want to know what Bill Kearny says.</td></tr>
+ <tr class="me"><td>&lt;AaronSw&gt;</td><td>Bill Kearney: thank you. now everyone's see this</td></tr>
+ <tr><td>&lt;Mutiny&gt;</td><td>if this comes to blows i'm getting on the T and comming down.</td></tr>
+ <tr class="me"><td>&lt;AaronSw&gt;</td><td>Bill kearney: we want to collaborate</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>DW: are you finished</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>Charlie Nesson: explain the obvious enmity. what is the dispute</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>[applause]</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>DW: i don't even know where to begin</td></tr>
+ <tr><td>&lt;bitsko&gt;</td><td>(what was the applause to?)</td></tr>
+ <tr class="me"><td>&lt;AaronSw&gt;</td><td>Kearney: it's not productive</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>DW: stop! i was just pausing to think</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>(to charlie)</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>DW: this is why mailing lists don't work</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>... the things he's said are the most appauling personal things</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>Kearney: name them</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>DW: get the microphoen away</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>... i didn't interrupt you</td></tr>
+ <tr><td>&lt;bitsko&gt;</td><td>it doesn't work in person either, apparently</td></tr>
+ <tr class="me"><td>&lt;AaronSw&gt;</td><td>audience: yes you did!</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>DW: but i let him speak</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>audience: it is your keynote</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>DW: Sam has once made a personal comment. it's ok! i forgive you. ok, maybe twice</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>... i love working with sam</td></tr>
+ <tr><td>* sandro</td><td>is so greatful to Aaron for channeling this.</td></tr>
+ <tr><td>&lt;Morbus&gt;</td><td>sandro: got a backlog?</td></tr>
+ <tr class="me"><td>&lt;AaronSw&gt;</td><td>... he takes the high road, he's intelligent. i care what other people think</td></tr>
+ <tr><td>&lt;Mutiny&gt;</td><td>me too.</td></tr>
+ <tr><td>* bitsko</td><td>thanks aaron too!</td></tr>
+ <tr><td>&lt;Mutiny&gt;</td><td>morbus stand by</td></tr>
+ <tr class="me"><td>&lt;AaronSw&gt;</td><td>... i told people to interrupt me, in my defense</td></tr>
+ <tr><td>&lt;Morbus&gt;</td><td>mutiny: thanks</td></tr>
+ <tr class="me"><td>&lt;AaronSw&gt;</td><td>... whatever you think about me, i've made a lot of contributions</td></tr>
+ <tr class="me"><td>&;</td><td>(it's being taped, apparently)</td></tr>
+ <tr><td>&lt;sandro&gt;</td><td>Want my to mail it to you Morbus?</td></tr>
+ <tr><td>&lt;AaronSw&gt;</td><td>... i didn't ask bill kearney to do this</td></tr>
+ <tr class="me"><td>* AaronSw</td><td>mails to morbus</td></tr>
+ <tr class="me"><td>&lt;AaronSw&gt;</td><td>DW: almost out of time</td></tr>
+ <tr><td>&lt;Morbus&gt;</td><td>someone, anyone, yes ;)</td></tr>
+ <tr><td>&lt;Mutiny&gt;</td><td>i KNEW this was going to turn into a fuckfest.  that's why i wanted to go.  ;)</td></tr>
+ <tr><td>&lt;Morbus&gt;</td><td>got it from aaron. thanks.</td></tr>
+ <tr class="me"><td>&lt;AaronSw&gt;</td><td>Gregor: need to build cultural interop</td></tr>
+ <tr><td>&lt;Morbus&gt;</td><td>if someone can get me an mp3 of that tape, it'd be great.</td></tr>
+ <tr class="me"><td>&lt;AaronSw&gt;</td><td>... we meet in pub and drink beer</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>DW: that ain't gonna happen</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>[laughs]</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>DW: this guy</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>[laughs]</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>DW: this guy went further. i have heart disease. i had bypass, long recovery, lot of pain</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>... trying to get back by posting</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>... and _this asshole_ wished me dead</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>Kearney: COMPLETELY UNTRUE</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>... THE MORE YOU REPEAT THE MORE THEY BELIEVE</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>DW: absolutely true. don't want to deal with it. he's got a problem and he projects it</td></tr>
+ <tr><td>* bitsko</td><td>sees a Burton Event occuring</td></tr>
+ <tr class="me"><td>&lt;AaronSw&gt;</td><td>Larry Rosen: one of the frustrations I have is people hate each other in open source</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>DW: thaat's what we're talkign about here</td></tr>
+ <tr><td>&lt;bitsko&gt;</td><td>(sigh.  no it's not.)</td></tr>
+ <tr class="me"><td>&lt;AaronSw&gt;</td><td>Larry: unfortunarte. can law professors give us clues on how to litigate against someone and represent the client to the utmost but shake the hand of your opponent afterwords</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>... good battle, more later</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>DW: we haven't gotten there in software yet</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>Nesson: needs a moderator who's not self-interested</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>Nesson: you can't moderate this</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>DW: moderate what?</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>Nesson: let's move sideways and structure something</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>DW: won't do it</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>Nesson: neither the moderator, both speak</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>... that's the law school approach</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>[much applause]</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>DW: do whatever you want charlie</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>?x: I finally understand why Jerry Sringer was invented in the US</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>[much laughs]</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>DW: i'm sorry, we were doing really well before</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>purploe shirt: look at academia. to get credit, you need to publish it and provide a wy to repeat it</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>... not only do the procedure, but give away the materials</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>... software equivalent: give away the source</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>... credit goes to the academic side</td></tr>
+ <tr class="me"><td>&nsbp;</td><td>DW: sorry, a few minutes ago i would have been all over that</td></tr>
+ <tr><td>* bitsko</td><td>notes to the online crowd that Bill Kearney did NOT, in fact, make any death threats to Dave Winer.</td></tr>
+ <tr class="me"><td>&lt;AaronSw&gt;</td><td>DW: time to end</td></tr>
+ <tr class="me"><td>&nbsp;</td><td>[applause]</td></tr>
+ <tr><td>&lt;Morbus&gt;</td><td>bitsko: did I?</td></tr>
+ <tr><td>&lt;bitsko&gt;</td><td>nor you, that I recall</td></tr>
+ <tr><td>&lt;sandro&gt;</td><td>"death threats" is not the same as "wished me dead".    (but I take no stand on the fact, knowing nothing of this before today.)</td></tr>
+ <tr class="me"><td>&lt;AaronSw&gt;</td><td>audience: that's a great argument for letting machines write code</td></tr>
+ <tr class="me"><td>* AaronSw</td><td>wondes what to do next</td></tr>
+ <tr><td>&lt;sandro&gt;</td><td>machines can't write code, not in an useful sense.</td></tr>
+ <tr><td>&lt;Mutiny&gt;</td><td>see the discussion where every time dwiner is criticized he brings up his heart problem</td></tr>
+ <tr><td>&lt;sandro&gt;</td><td>what they can write, we don't call ("source") code.</td></tr>
+ <tr><td>&lt;Mutiny&gt;</td><td>is it just me or does DW -hate- aggregrators?</td></tr>
+ <tr><td>&lt;Morbus&gt;</td><td>DW doesn't know what one is.</td></tr>
+ <tr><td>&nbsp;</td><td>if its not modeled after RU, its not an aggregator.</td></tr>
+ <tr><td>&nbsp;</td><td>see his "What is an Aggregator" piece a while back</td></tr>
+ <tr><td>&lt;bitsko&gt;</td><td>more specifically, Bill Kearney did not "wish him dead"</td></tr>
+ <tr><td>&lt;Mutiny&gt;</td><td>anybody here want to scan an OSCOM conference badge?</td></tr>
+ <tr><td>&lt;Morbus&gt;</td><td>technically, AmphetaDesk is not an aggregator.</td></tr>
+ <tr><td>&nbsp;</td><td>per his definitions.</td></tr>
+ <tr><td>&lt;Mutiny&gt;</td><td>yeah i mean between you, kearney and burtonator he seems to have some serious issues.</td></tr>
+ <tr><td>&lt;Morbus&gt;</td><td>yup.</td></tr>
+</table>
+</body>
+</html>

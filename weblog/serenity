@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Serenity (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Serenity</h1>
+
+<p><a href="http://www.serenitymovie.com/"><img src="http://www.aaronsw.com/weblog/static/serenity.jpg" alt="Movie poster" class="img" /></a></p>
+
+<p>So <em>Buffy</em> ran its course, <em>Angel</em> got canceled, and <em>Firefly</em> saw its untimely demise. But all is not over for Joss Whedon &#8212; <em>Firefly</em> is back, this time in the for of the feature film <em><a href="http://www.serenitymovie.com/">Serenity</a></em>. Along with the rest of the diehard Joss Whedon fans, I&#8217;m on the edge of my seat. By all accounts the film is going to be amazing.</p>
+
+<p>In this time of increasing polarization between left and right blogospheres, of <a href="http://alicublog.blogspot.com/">endless politically-tinged cultural crticism</a>, it&#8217;s more important to see some pop culture we can unite behind. That&#8217;s why it&#8217;s nice to see that <a href="http://instapundit.com/archives/025717.php">the leading blogs of the right</a> and <a href="http://www.talkingpointsmemo.com/archives/week_2005_09_18.php#006614">those of the left</a> can get behind this film, with impressive marketing finesse. Here&#8217;s how the film is described:</p>
+
+<blockquote>
+  <p>Joss Whedon, the Oscar &#8212; and Emmy &#8212; nominated writer/director responsible for the worldwide television phenomena of <em>Buffy the Vampire Slayer</em>, <em>Angel</em>, and <em>Firefly</em>, now applies his trademark compassion and wit to a small band of galactic outcasts 500 years in the future in his feature film directorial debut, Serenity. The film centers around Captain Malcolm Reynolds, a hardened veteran (on the losing side) of a galactic civil war, who now ekes out a living pulling off small crimes and transport-for-hire aboard his ship, Serenity. He leads a small, eclectic crew who are the closest thing he has left to family &#8212; squabbling, insubordinate and undyingly loyal.</p>
+</blockquote>
+
+<p>I can&#8217;t tell you how thrilled I am to have managed to nab two tickets to a preview screening here in Boston! The place is practically alive with buzz over this thing &#8212; family, friends, random folks at parties are all talking about it.  I&#8217;ll be sure to tell you all about how great it was after I see it.</p>
+
+<p>For more information, including the trailer, check out <a href="http://www.serenitymovie.com/">the <em>Serenity</em> website</a>.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">September 24, 2005</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>nice job pimping :) I too got tickets (the blogger giveaway) for Monday in Los Angeles. I shall be pimping too.</p>
+
+<p>I think the thing about Firefly is it aimed for hard-sci fi, with actual explanations for various matters of science, and enough &#8220;future&#8221; to explain for some things i never explained (gravity matching on the colonized outer planets for instance, or terraforming).</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.blackrimglasses.com">ethan</a>
+ on September 26, 2005 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="serenity" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

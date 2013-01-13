@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Google Voice Security Flaw (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Google Voice Security Flaw</h1>
+
+<p>Google Voice allows you to get a new telephone number (a &#8220;Google Voice number&#8221;) and when people dial that number, Google will patch the call through to your various other phones. That way you can give people one phone number and it will ring your home phone, your cell phone, your work phone. (Apparently this is a service for people who still have home and work phones.)</p>
+
+<p>It now requires new phones to go through a verification process to be added to that list, but I believe that phones that were added back when Google Voice was GrandCentral (Google bought it) are carried over and never required verification.</p>
+
+<p>You can also create rules for which phones ring. I set mine up so that if the callbox at our apartment calls the Google Voice number (i.e. someone is trying to get into the apartment), it rings both me and my roommate. Otherwise it just rings me.</p>
+
+<p>Now here&#8217;s the odd thing: when my roommate texts someone with a Google Voice number (or vice versa), their SMS chats show up in <em>my</em> Google Voice account. It took me a long time to figure out what was going on &#8212; at first it just looked like other people&#8217;s SMS chats were just appearing in my inbox. But it now seems clear that Google Voice looks at the phone number of incoming SMSes and, if it&#8217;s attached to an account, stores the SMSes in that account.</p>
+
+<p>I suppose one should trust their roommate, but I think people should be aware of this issue nonetheless.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">August 25, 2009</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>You might try checking your roommate&#8217;s phone number settings in your Google Voice account. If it is set as a Mobile number you could try clicking Edit, and turning off the &#8220;Receive SMS on this phone&#8221;. I don&#8217;t know if that would correct this problem, but it is worth a shot.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://onebigword.com">Jason McPheron</a>
+ on August 25, 2009 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>I&#8217;m not worried for my own sake; I&#8217;m worried for my roommates. That I could take measures to keep from looking at her texts doesn&#8217;t address the basic security issue: that I can look at her texts.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on August 25, 2009 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>ooooh that explains it.</p>
+
+<p class="posted">posted by quinn
+ on August 26, 2009 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>I wouldn&#8217;t truly call this a security flaw, as this is one of the core features of Google Voice.  As GV is designed to receive SMS messages without the need for a mobile device to receive the messages, they must be stored on the account.</p>
+
+<p>If you are both worried about it, the only course of action is to correct those sending SMS messages to the GV number by having them send directly to the mobile device.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://twitter.com/bamullen">Brent Mullen</a>
+ on August 26, 2009 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>They should be stored in the account of the person they&#8217;re sent to, not some-account-that-might-be-plausibly-related-to the sender.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on August 26, 2009 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c6">
+<p>Ah, after a careful re-read I think I see what you are saying.  I might have to play around with that a bit.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://twitter.com/bamullen">Brent Mullen</a>
+ on August 26, 2009 <a href="#c6" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="gvoiceflaw" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

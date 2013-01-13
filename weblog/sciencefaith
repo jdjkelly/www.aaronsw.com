@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Do I have too much faith in science? (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Do I have too much faith in science?</h1>
+
+<p>We live in a society where it&#8217;s almost impossible to give science too much credit. Ever since the atom bomb and the space race, it&#8217;s just been taken for granted that civilization advances through the progress of science. Science&#8212;we are told&#8212;grows our food, cures our diseases, creates our new technologies, and just generally propels the human race forward.</p>
+
+<p>If science is the engine of progress, then those who have not been captured under its spell must be dusty relics of prejudice and caprice. Fields under the sway of hidebound tradition must be bulldozed and renovated in the image of science. Thus doctors, instead of making decisions by random whim, must be forced to practice &#8220;evidence-based medicine&#8221; where all their prescriptions are backed by randomized controlled trials. Policymakers, instead of just being bleeding-heart do-gooders, must temper their enthusiasm for regulation by doing cost-benefit analyses to see if their proposals make sense. Managers, instead of following their intuition, must subject their strategies to rigorous experiment&#8212;through A/B tests in the market.</p>
+
+<p>But what&#8217;s weird about this mania for science is how unscientific it all is. As far as I know, no studies have shown that evidence-based medicine leads to better patient outcomes or that companies which practice comprehensive A/B testing are more profitable than those which follow their intuition. And the evidence that science is responsible for stuff like increased life expectancy is <a href="http://books.theinfo.org/go/0060975199">surprisingly weak</a>.</p>
+
+<p>But there&#8217;s such a mania for science that even asking these questions seems absurd. How could there possibly be evidence against evidence-based medicine? The whole idea seems like a contradiction in terms. But it is not.</p>
+
+<p>Recent decades have seen science encroach on the kitchen, with scientific approaches to cooking and cuisine. Where other chefs might simply follow instructions they found on a yellowing scrap of paper, the new modernists seek to understand the physics behind their actions. This approach has led to some interesting new techniques, but it&#8217;s also led us to understand that some of those silly traditions aren&#8217;t so silly after all.</p>
+
+<p>Eggs, for example, were often beaten in copper bowls. Why copper bowls? Chefs might have been able to give you some kind of reason, but it would have sounded silly to scientific ears. But the modernists discovered that the ions in the copper ended up forming complex bonds with the conalbumin in the eggs.</p>
+
+<p>This was not something that chefs had ever established as scientific knowledge&#8212;no aproned Isaac Newton ever discovered this was the right way to cook the eggs&#8212;but it was knowledge chefs had nonetheless. It was, in Polyani&#8217;s phrase, tacit knowledge, part of the things society genuinely knew but was never able to write down or clearly prove.</p>
+
+<p>Scientism systematically destroys tacit knowledge. If chefs were forced to follow &#8220;evidence-based cooking&#8221;, not using anything special like a copper bowl until their was a peer-reviewed double-blind randomized controlled trial proving its effectiveness, the result surely would be worse food. So why is it crazy to believe the same attitude leads to worse medicine?</p>
+
+<p>In business, too, scientism could be quite destructive. Can Steve Jobs provide a proof for the rightness of every iPhone feature? Can Doug Bowman do a scientific experiment to <a href="http://stopdesign.com/archive/2009/03/20/goodbye-google.html">justify his every shade of blue</a>? Forcing them to could well make their work far worse instead of better.</p>
+
+<p>Scientism even fails just within our own heads. If you&#8217;re struggling with a decision, we&#8217;re taught to approach it more &#8220;scientifically&#8221;, by systematically enumerating pros and cons and trying to weight and balance them. That&#8217;s what Richard Feynman would do, right? Well, studies have shown that this sort of explicit approach repeatable leads to <em>worse</em> decisions than just going with your gut. Why? Presumably for the same reason: your gut is full of tacit knowledge that it&#8217;s tough to articulate and write down. Just focusing on the stuff you can make explicit means throwing away everything else you know&#8212;destroying your tacit knowledge.</p>
+
+<p>Of course, there&#8217;s no guarantee that just trusting your gut will work either. Intuition and tradition are often just as wrong as scientific cluelessness. And in the cases where they genuinely have little to contribute, throwing them away (or quarantining it until it&#8217;s proven by scientific test) might not be such a bad idea. But I&#8217;ve always just assumed that this was <em>always</em> true&#8212;that tradition and intuition had nothing to contribute, unless carefully coached by scientific practice. That science was the only way to get knowledge, rather than just another way of codifying it. Now, instead of throwing it all away, I&#8217;m now thinking I ought to spend more time finding ways to harness all that tacit knowledge.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">August 10, 2012</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<blockquote>
+  <p>Scientism systematically destroys tacit knowledge. If chefs were forced to follow “evidence-based cooking”, not using anything special like a copper bowl until their was a peer-reviewed double-blind randomized controlled trial proving its effectiveness, the result surely would be worse food.</p>
+</blockquote>
+
+<p>Really? Why? I think you&#8217;re hiding some sort of massive background assumption here, and it ought to be dragged out into the light and examined. (Much like how experiments drag out all sorts of unfounded beliefs, or evidence-based medicine examines expensive or deadly quackery.)</p>
+
+<blockquote>
+  <p>&#8216;One day when I was a junior medical student, a very important Boston surgeon visited the school and delivered a great treatise on a large number of patients who had undergone successful operations for vascular reconstruction. At the end of the lecture, a young student at the back of the room timidly asked, &#8220;Do you have any controls?&#8221; Well, the great surgeon drew himself up to his full height, hit the desk, and said, &#8220;Do you mean did I not operate on half the patients?&#8221; The hall grew very quiet then. The voice at the back of the room very hesitantly replied, &#8220;Yes, that&#8217;s what I had in mind.&#8221; Then the visitor&#8217;s fist really came down as he thundered, &#8220;Of course not. That would have doomed half of them to their death.&#8221; God, it was quiet then, and one could scarcely hear the small voice ask, &#8220;Which half?&#8221;&#8217;</p>
+</blockquote>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.gwern.net">gwern</a>
+ on August 10, 2012 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>I want to say a lot but the loudest thoughts are asking a series of questions that play Battleship around the central theme I&#8217;m trying to tease out: where did this confusion come from? How could someone believe that reliance on the scientific method (or rationality in general) means embracing a belief that the scientific method (or rationality) is the only path to knowledge?</p>
+
+<p>You seem to take a narrow view of what science is and how it&#8217;s done. Is this rhetorical?  Are you representing an extreme reductivist worldview to try to make a point?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.jrbl.org/~jrbl">Jrbl</a>
+ on August 10, 2012 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<blockquote>
+  <p>I meant in the short-term (because AFAIK there are no peer-reviewed double-blind RCTs of food science), not in the long-term. Do you disagree with that or was I just unclear?</p>
+</blockquote>
+
+<p>Yes, you <em>were</em> unclear and still are. See, this is exactly what I mean by unstated assumptions: why does this matter in the short-term at all? If one does a quality RCT and can then reject use of copper bowls, what&#8217;s the problem? Aren&#8217;t we unambiguously better off? Yes, of course we are since we need no longer worry about using a non-copper bowl and can save money by not buying niche copper bowls.</p>
+
+<p>Why wouldn&#8217;t we be better off in the short term and long-term both? The only explanation I can come up with is that you are appealing to some sort of hidden background premise like &#8216;I believe that anything without RCT backing ought to be immediately banned and not allowed at all&#8217;, which would indeed crush the space of possible bowls or foods down to a tiny one and make us much worse off.</p>
+
+<p>Stated baldly like this, this background premise is obviously a <em>terrible</em> idea and doesn&#8217;t map onto the thinking of any of decent proponents for any &#8216;scientism&#8217;.</p>
+
+<p>It <em>might</em> make sense if a field is so very contaminated by bad ideas that adding up all the practices, we find that the field makes things worse on net. Then by essentially banning the field, we change our net loss to neither loss nor gain, which at least is an improvement. But such fields are very rare!</p>
+
+<p>Even medicine manages to improve health on net. Consider Hanson&#8217;s notorious views on health: he thinks we waste a lot of money and are often made sicker by health care&#8230; but only around a third of it is wasted, and spending no money on health care would be much worse than the current situation. So a blanket ban on non-RCT-proven stuff would make us worse off if there were no RCT-proven stuff, but of course there is a lot of such stuff, so to conclude that such a ban would be a good or bad idea would require a lot of investigation to see what % of current spending is RCT-approved and what % is not approved and what the final bang per buck estimate might look like&#8230; Spending much more on EBM would be a good idea, and better heuristics like &#8216;new treatments need a higher burden of evidence&#8217; may also be a good idea - but when we stop looking at an apparent strawman, the issue is much subtler.</p>
+
+<p>In the case of food, we generally have a pretty high confidence that many foodstuffs are tasty and you don&#8217;t want to burn them, and things like that. Examples like copper bowls are by far the minority in cooking, so even if every such example were really false, your standard cookbook would still be better than nothing.</p>
+
+<p>(Exercise: grab a cookbook like <em>Joy of Food</em>; open to a random page, and see what % of wordcount is discussing apparently unjustified tips like copper bowls. I remember spotting one recently, in the yogurt recipe, cautioning me to not add in too much starter because this would be bad for some unknown reason. I remember it, you see, precisely because it seemed so arbitrary and out of line with the rest of the straightforward instructions. But even this is pretty easily RCTed, if anyone care! And I&#8217;d bet that there&#8217;s already results on this either in the biology literature or the yogurt makers&#8217; internal studies, if one knew where to look, since improving quality by not messing up starter culture volumes is an obvious optimization.)</p>
+
+<blockquote>
+  <p>I don&#8217;t know if you got that from me, but I frequently quote it.</p>
+</blockquote>
+
+<p>I actually got it from Tufte&#8217;s <em>Data Analysis for Politics and Policy</em>, sorry.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.gwern.net">gwern</a>
+ on August 10, 2012 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>These people very much exist, and they tend to troll threads to elicit responses. A recent HN thread had users debating the value of philosophy since it wasn&#8217;t scientifically testable. When others tried to make an appeal for intellectual honesty, it was ignored.</p>
+
+<p class="posted">posted by MG
+ on August 10, 2012 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c6">
+<p>The problem is, we have a bunch of bogus tacit knowledge as well.</p>
+
+<p>Take, for example, the Monty Hall problem. For anyone not familiar with it, it&#8217;s a game show. You have three doors, behind two are goats and behind the third is a prize. You select one of the doors, and the host opens an unselected door with a goat behind it. The host then offers to let you change your choice.</p>
+
+<p>It is, strangely, significantly more favorable to switch. Your selected door has a 33% chance of containing a prize, and the other door has a 66% chance of having the prize. You can find this out with some math, or you can just set up a computer simulation and watch what happens, but it runs completely counter to most people&#8217;s intuition about the world.</p>
+
+<p class="posted">posted by emcmanis
+ on August 10, 2012 <a href="#c6" rel="bookmark">#</a></p>
+</div>
+<div id="c7">
+<p>As per your argument, the evidence-based approach introduced by science is leading people to inhibit their tacit knowledge attempts. Even thought it happens to be true, it doesn&#8217;t look like science or scientists fault. What&#8217;s beautiful about science though, is the fact that whenever a theory fails, that&#8217;s taken as progress. That&#8217;s knowledge being crafted. And the interesting point here is that (as far as the human history can tell us) virtually all progress in science has started from tacit knowledge based insights. (Therefore, there is still there is a clear difference between intuition that leads to empirical learning and random emotional based non-sense. )</p>
+
+<p class="posted">posted by <a rel="nofollow" href="vvgomes.wordpress.com">Vini</a>
+ on August 11, 2012 <a href="#c7" rel="bookmark">#</a></p>
+</div>
+<div id="c8">
+<p>science helps to cut the downside, sloppy mistakes and prejustice. but it is not so good at making things from good to great.</p>
+
+<p>how to use gut feeling when sending some rover  to mars?</p>
+
+<p class="posted">posted by toivo
+ on August 11, 2012 <a href="#c8" rel="bookmark">#</a></p>
+</div>
+<div id="c10">
+<p>I very much agree with you. In a sense our culture over-emphasises rational knowledge and the scientific method. However, there is a whole history of &#8216;tacit knowledge&#8217; and &#8216;unconscious empiricism&#8217; or what could be described as &#8216;knowing without understanding&#8217;, similar to your example with the copper bowl. The ancient Romans used cement without understanding how it worked, the same is true for breeding livestock and plants or brewing beer. Just think of the highly complicated process of indigenous drug preparation involving enzyme inhibitors. I would say that its a good time (As described in Sennett&#8217;s &#8216;the craftsman&#8217;) to remember that the scientific method is not the only way of approaching problems.</p>
+
+<p class="posted">posted by Michael Hohl
+ on August 13, 2012 <a href="#c10" rel="bookmark">#</a></p>
+</div>
+<div id="c11">
+<p>you&#8217;re right to doubt your faith in science. as someone raised in a &#8220;scientism&#8221; family, and who studied math/science, i&#8217;ve been thinking about this for a long time. i haven&#8217;t written anything on it for fear of the knee-jerk-ish responses like the ones you&#8217;ve gotten.</p>
+
+<p>i am a skeptic above all else. and while i think the scientific method has value and its place, there&#8217;s a huge amount of knowledge embedded in cultural practices, knowledge that has been built up over time - generations, millenia - that sometimes, even science cannot explain. it&#8217;s not just tacit knowledge that a person has, but tacit knowledge that a community or culture has.</p>
+
+<p>some thoughts i&#8217;ve had on this that are not fully-formed:</p>
+
+<p>1) the scientific method can only tell us about things where situations can actually be controlled. but real life, involving humans in particular, is much more complex than that. just as an example - it&#8217;s pretty much impossible to do a RCT study of a food substance, because human beings do not live in labs and do not eat the same exact meals and do the same exact things day in, day out. (if you get into the literature, lots has been written on this).</p>
+
+<p>2) the law of unintended consequences. the idea that clinical trials will tell us everything that might possibly go right or wrong with a medication continues to be disproven. one of the most egregious examples, in my opinion, are the osteoporosis drugs which have been shown to actually increase certain bone fractures. (i&#8217;m paraphrasing - google for the details.)</p>
+
+<p>3) however much we think we can know through science, we will never know what we DON&#8217;T know. for example: we have some notion about what-all nutrients our bodies need. we have RDAs for vitamins and minerals. but what other substances exist in foods that we need, but we haven&#8217;t yet discovered? the notion of antioxidants being something our bodies need is a very recent thing. or what if it&#8217;s about certain relationships between substances in foods, or certain balances between substances? i could go on, but as i said, these are fuzzy, half-formed ideas&#8230; can&#8217;t really get it all out of my head yet.</p>
+
+<p>4) from my personal exploration of the relationship between food and health, i&#8217;ve come to the conclusion that we as humans have co-evolved with the foods that we eat. but this is such a complex relationship, and the &#8220;effect&#8221; that any one food might have on our body is so difficult to tease out from the effect any other might have&#8230; i just don&#8217;t see how &#8220;science&#8221; or the scientific method could ever really get to explaining this. especially since (my theory, based in some evidence, is) that this relationship is constantly shifting anyway.</p>
+
+<p>commenting on some of the comments:</p>
+
+<p>&#8220;Examples like copper bowls are by far the minority in cooking,&#8221;</p>
+
+<p>how do you know this? there are actually plenty more examples of this than you may realize. there many even be examples that you don&#8217;t know about.</p>
+
+<p>&#8220;I’d bet that there’s already results on this either in the biology literature or the yogurt makers’ internal studies, if one knew where to look, since improving quality by not messing up starter culture volumes is an obvious optimization.&#8221;</p>
+
+<p>having spent a lot of time making yogurt and trying to learn more about/optimize the process (and understand the reasoning behind &#8220;standard practice&#8221;), i can tell you that precious little about the process has been studied in a way that would be useful to non-corporations, or in general, in an unbiased way. and if anything has been done internal to companies, good luck finding that data. &#8220;science&#8221; in this country is incredibly shaped by society.</p>
+
+<p>the monty hall problem is a math/probability problem.  it doesn&#8217;t really involve the scientific method, which is what&#8217;s really being discussed here.</p>
+
+<p class="posted">posted by a.
+ on August 15, 2012 <a href="#c11" rel="bookmark">#</a></p>
+</div>
+<div id="c12">
+<p>I think you are confusing science with something else.</p>
+
+<p>Why would science tell cooks to stop using copper bowls to whisk eggs? A good scientist would do tests first, and those tests would have established that whisking eggs in copper bowls DOES make sense. It would not make sense to tell a cook to stop using copper just because no formal scientist had done a test that it was better.</p>
+
+<p>Being pro-science doesn&#8217;t mean not to ever do anything which hasn&#8217;t been double blind tested first. That&#8217;s an absurd argument.</p>
+
+<p>&#8220;that tradition and intuition had nothing to contribute, unless carefully coached by scientific practice. &#8220;</p>
+
+<p>What do you think tradition is? While much is hocus pocus, some of it is just things done over and over again and refined over time because they worked. Look at the development of agricultural crops over the last 10,000 years - that&#8217;s science in action, before the development of the formal scientific method.</p>
+
+<p>Where reality intrudes heavily, tradition is bound to be shaped by it, and follow something akin to the scientific principles.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://ko.offroadpakistan.com">KO</a>
+ on August 16, 2012 <a href="#c12" rel="bookmark">#</a></p>
+</div>
+<div id="c13">
+<p>&#8220;I’ve always just assumed that this was always true—that tradition and intuition had nothing to contribute, unless carefully coached by scientific practice.&#8221;</p>
+
+<p>That assumption is what you&#8217;re wrestling with, and &#8216;scientism&#8217; I hear as being a name for that assumption.  I guess I think of intuition and tradition as deep wells that we can draw on as we choose, and when the bucket comes up we depend on our empirical faculties to judge its content.</p>
+
+<p>Scientism, though, would pave over the well.</p>
+
+<p class="posted">posted by Brian
+ on August 17, 2012 <a href="#c13" rel="bookmark">#</a></p>
+</div>
+<div id="c15">
+<p>KO says Swartz is &#8220;confusing science with something else&#8221; &#8212; I believe that &#8220;something else&#8221; is Frequentism [1], specifically hypothesis testing where the null hypotheses are completely skeptical of &#8220;tacit knowledge.&#8221;</p>
+
+<p>Certainly some fields of science follow this approach more than others (though I&#8217;d be hard pressed to produce an ordered list). On the other hand, as a practicing Bayesian [2], I stand with others&#8217; objection that what Swartz describes is not scientism.</p>
+
+<p>[1] http://en.wikipedia.org/wiki/Frequentist_inference
+[2] http://en.wikipedia.org/wiki/Bayesian_inference</p>
+
+<p class="posted">posted by A Strauss
+ on August 19, 2012 <a href="#c15" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="sciencefaith" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

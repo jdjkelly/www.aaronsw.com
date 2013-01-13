@@ -1,0 +1,45 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Zooko and Seth in RSS (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000531" title="&#8220;Vote for my Mom&#8221;" />	<link rel="next" href="000533" title="Nuevo - Kronos Quartet" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Zooko and Seth in RSS</h1>
+</div>
+
+<div class="content">
+<p>Since I&#8217;m spending more and more time in NetNewsWire, I decided to RSSify the few remaining sites I read. First off I did <a href="http://zooko.com/log">Zooko&#8217;s website</a>: <a href="http://www.aaronsw.com/2002/zooko">RSS feed</a>. If you don&#8217;t read Zooko&#8217;s blog, the <a href="http://www.aaronsw.com/2002/zooko.py">source code</a>, while very messy, might still be useful for scraping a site you like.</p>
+
+<p>I modified it to create <a href="http://www.aaronsw.com/2002/vitanuova">another scraper</a> (<a href="http://www.aaronsw.com/2002/vitanuova.py">source</a>) for <a href="http://vitanuova.loyalty.org/">Vitanuova</a>, which has become my absolute favorite living web site. It doesn&#8217;t do much, but it does let my aggregator notify me when there&#8217;s an update, which is nice.</p>
+
+<p class="posted">posted August 27, 2002 11:27 PM (<a class="category" href="cat_technology">Technology</a>)  <a href="000532" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000531" title="&#8220;Vote for my Mom&#8221;">&laquo; prev</a> | <a href="./">up</a> | <a href="000533" title="Nuevo - Kronos Quartet">next &raquo;</a></p>
+
+<p><a href="000527">Scientology threatened by &#8220;unadulterated cyber-terrorism&#8221;</a><br />
+<a href="000528">Screen Savers on the Desktop</a><br />
+<a href="000529">David P. Reed on Piracy</a><br />
+<a href="000530">The Third Qatsi</a><br />
+<a href="000531">&#8220;Vote for my Mom&#8221;</a><br />
+<strong>Zooko and Seth in RSS</strong><br />
+<a href="000533">Nuevo - Kronos Quartet</a><br />
+<a href="000534">0wnz0red</a><br />
+<a href="000535">Wil Wheaton vs. Barney Videos</a><br />
+<a href="000536">Copyright law exists to enlarge the public domain.</a><br />
+<a href="000537">Incredible Commentary on .Org Process</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

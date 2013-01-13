@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>The Logic of Loss (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>The Logic of Loss</h1>
+
+<p>Imagine someone offered you a 1% chance of winning a million dollars. How much would you pay for it? The natural inclination would be to say you break even at 1% of a million, which is $10,000. Even if you could scrape together the cash, this doesn&#8217;t seem like a very good deal. After all, there&#8217;s a 99% chance that you&#8217;ll have just thrown away ten grand.</p>
+
+<p>Where did we go wrong? The problem is that calculating the average value this way only makes sense if you get to take the deal enough times to expect an average result. If you bought a couple thousand of these chances at $9000 each, then you might start to come out ahead. But buying just one doesn&#8217;t seem very bright.</p>
+
+<p>Of course, the same logic applies to more pedestrian examples of risk. It probably doesn&#8217;t make sense to invest in just one startup, even if the returns on startups are huge. That&#8217;s why VCs invest in large numbers of startups; the returns from the wins balance out the flops.</p>
+
+<p>This should seem pretty obvious, but some people seem to forget it a lot. Take the St. Petersburg paradox. Imagine this game: A dollar is placed on the table and a coin is flipped. If the coin comes up heads, the money is doubled and the coin is flipped again. Tails, the game ends and you take the money. How much would you pay to play?</p>
+
+<p>The paradox comes about because the naive answer here is infinite. There&#8217;s a 50% chance you get a dollar (=fifty cents), a 25% chance you get 2 (another fifty cents), a 12.5% chance you get 4 (again), and so on infinitely. But, naturally, it seems insane to pay a fortune to play this game. Thus the paradox.</p>
+
+<p>Folks seem to be genuinely stumped about this, but it&#8217;s just the first offer taken to the limit: instead of a 1% chance of making a million, you have an infinitesimal chance of making an infinity. If you got to play the game an infinite number of times, shelling out cash might begin to make sense, but if you only play it once it&#8217;s not worth much.</p>
+
+<p>Keep that in mind next time someone offers you a game.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">April 13, 2009</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>Likewise, playing the lottery can actually make sense from this perspective.  When the loss is incremental and more or less inconsequential but winning would change your life in ways that can&#8217;t be simply extrapolated from what would happen if you were given a small windfall, it&#8217;s not necessarily illogical.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://ragesossscholar.blogspot.com">Sage Ross</a>
+ on April 13, 2009 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>I have always wondered why economists always use the &#8220;repeated tries&#8221; case to determine what the rational price is. Are they just always assuming a liquid market for many similar risks and an infinite lifespan? It doesn&#8217;t seem to work in real life.</p>
+
+<p>Usually, for those high-risk high-reward payoffs you get only one or two such chances in a lifetime. You have to be AIG or something to collect so much risk in one place (hmmm).</p>
+
+<p class="posted">posted by Neil Kandalgaonkar
+ on April 13, 2009 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>There is an excellent book that expans on this concept, Fortune&#8217;s Formula, which was written by William Poundstone.  <a href="http://www.amazon.com/Fortunes-Formula-Scientific-Betting-Casinos/dp/0809045990/ref=sr_1_1?ie=UTF8&amp;s=books&amp;qid=1239644229&amp;sr=1-1" rel="nofollow">Amazon</a>.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.jacoballenwalker.com/">Jake Walker</a>
+ on April 13, 2009 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>As you might be aware, <a href="http://en.wikipedia.org/wiki/Semyon_Dukach" rel="nofollow">Semyon Dukach</a>, of MIT blackjack fame, attributes the cause of the economic crisis to something <a href="http://en.wikipedia.org/wiki/Martingale_(betting_system)" rel="nofollow">related to the St. Petersburg paradox</a>. He has a full explanation <a href="http://semyondukach.blogspot.com/2009/01/real-cause-of-financial-crisis.html" rel="nofollow">on his blog</a>.</p>
+
+<p class="posted">posted by Andrey Fedorov
+ on April 13, 2009 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>The main issue at play here is the non-constant value of a dollar. Your millionth dollar is far less valuable than your first.
+Your first $1000 buys you the food you need to live. Your thousandth $1000 buys you another ivory back-scratcher.
+So yes, it doesn&#8217;t make much sense for a middle-class person to buy the $9000 lottery ticket. But it&#8217;s a great deal for someone with $20 million in the bank.</p>
+
+<p class="posted">posted by Steve Downing
+ on April 14, 2009 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c6">
+<p>Yeah, you&#8217;ve unknowingly perhaps hit upon one of the unresolved philosophical issues from an earlier era (back when probability and statistics were still being worked out in earnest).</p>
+
+<p>It&#8217;s obvious that for a game you can play many times that you should choose to play if the expected value is positive and should choose not to play if the expected value is negative.</p>
+
+<p>It was never, ever obvious that in the case where you can only play once that the expected value criterion was justifiable.</p>
+
+<p>There were actually lengthy debates back and forth over this, but eventually it was &#8216;settled&#8217; in favor of the expected value criterion, where I put &#8216;settled&#8217; in quotes b/c the argument just pooped out&#8230;no sensible alternative criterion for single-round games was ever devised, and in the absence of a sensible alternative everyone just uses the expected value criterion along with some personal heuristics for when not to use it.</p>
+
+<p>You&#8217;ll notice today that even many people who &#8216;get&#8217; the underlying issue &#8212; that for a one-off decision there&#8217;s no great decision strategy, although expected value criterion is best-of-the-worst &#8212; tend to not appreciate the actual problem.</p>
+
+<p>I&#8217;ll pick on Steve Downing, b/c he&#8217;s making the usual mistake.</p>
+
+<p>The decision algorithm is like:</p>
+
+<ul>
+<li><p>step 1: calculate the expected utility of the action A, E[U]</p></li>
+<li><p>step 2: equate &#8216;utility of taking action A&#8217; with E[U]</p></li>
+<li><p>step 3: apply the criterion that E[U] > 0 => YES otherwise NO</p></li>
+</ul>
+
+<p>Step 2 is actually the problematic one &#8212; it&#8217;s the step that is arguably unjustified, but for which there&#8217;s no better idea.</p>
+
+<p>What Downing is proposing looks at first glance like it &#8216;solves&#8217; the problem: it provides an explanation for why we have an intuitive reaction contra taking the +EV but 99.99% chance of 0 bet.</p>
+
+<p>However, it&#8217;s not actually addressing step 2 &#8212; the step wherein you equate utility of taking the bet with the expected value of the bet; it&#8217;s assuming step 2 is unproblematic and is just tweaking U so that step 3 yields more-intuitive results.</p>
+
+<p class="posted">posted by as
+ on April 15, 2009 <a href="#c6" rel="bookmark">#</a></p>
+</div>
+<div id="c7">
+<p>Or you could just do an &#8216;engineering&#8217; solution as you do in reinforcement learning, just increasingly discount each successive term. There&#8217;s no mathematical justification, just that it makes the numbers come out. It&#8217;s sort of hand-waved as a time preference, &#8216;well you want the reinforcement earlier&#8217;, similar to Steve Downing&#8217;s idea.</p>
+
+<p class="posted">posted by Snapping Turtle
+ on April 15, 2009 <a href="#c7" rel="bookmark">#</a></p>
+</div>
+<div id="c8">
+<p>Steve D makes a critical point that I think you&#8217;re missing here: For any given individual, the value of money is not constant.</p>
+
+<ul>
+<li><p>If I find $0.10, I&#8217;m unlikely to bother picking it up (i.e., because I&#8217;m lucky enough to be a US citizen and a computer programmer, an unrepeatable dime is noise to me).</p></li>
+<li><p>If it&#8217;s $1, I toss it in my glove box to make life simpler when fumbling for change at the next drive-through.</p></li>
+<li><p>$10&#8212;stick it in my wallet.</p></li>
+<li><p>$100&#8212;maybe take the family out to dinner, or just stick it in my wallet.</p></li>
+<li><p>$1,000.  Almost enough to be interesting.  Stick it in the checking account.</p></li>
+<li><p>$10,000.  This might mean going on vacation this year when we otherwise wouldn&#8217;t.  Otherwise, stick it in the retirement account or maybe give it to UNICEF.</p></li>
+<li><p>$100,000.  Not enough to quit my day job.  Probably pay off the mortgage and keep pedaling.  Oddly, though, though it&#8217;s a lot of money, it probably doesn&#8217;t have a noticeable effect on my life.  (I actually sort of had this happen once.  I got one of Linux &#8220;thank you&#8221; allotments from RedHat when they IPO&#8217;ed, and if I&#8217;d been smart enough to sell at the top, it would have netted me something like this.  I was &#8220;loyal&#8221; (i.e., stupid :-) though, and rode the stock most of the way down.)</p></li>
+<li><p>$1,000,000.  This is huge.  Fuck yeah.  At this level, I quit my day job and work all day long on software I believe will actually benefit society.  (Actually, this is so much that probably more than half goes to UNICEF when I die.)</p></li>
+<li><p>$10,000,000.  Same as above, only UNICEF gets $9,000,000 immediately.</p></li>
+<li><p>$100,000,000.  Sambe as above, only I probably spend a considerable amount of time doing the diligence to make sure that $99,000,000 is really doing good in the world.</p></li>
+<li><p>Etc.</p></li>
+</ul>
+
+<p>The point here is that this is tremendously non-linear, and also non-monotonic.</p>
+
+<p>Sums in the neighborhood of $400,000 or so would be very valuable to me (or so it appears) in the sense of changing my life.  Much less and it&#8217;s not a noticeable amount.  Much more and it&#8217;s also not really noticeable, other than adding the nice feeling one can get from giving away a lot of money.</p>
+
+<p>So, what should you do with a billion dollars, if we (unaccountably) stipulate that it has to be given to Americans?  You could give every American $4, and they all get a candy bar or two.  Yay.  Or you could make 10 people nearly as rich.  Yay.</p>
+
+<p>Or you can change several thousand people&#8217;s lives.</p>
+
+<p class="posted">posted by Mike C
+ on April 16, 2009 <a href="#c8" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="logicofloss" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

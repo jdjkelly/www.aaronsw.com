@@ -1,0 +1,49 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>The First Ammendment Microwave (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000567" title="What&#8217;s the Berman Bill for?" />	<link rel="next" href="000569" title="MAKE RSS FAST!!!" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>The First Ammendment Microwave</h1>
+</div>
+
+<div class="content">
+<p>In <a href="http://cr.yp.to/export/2002/09.03-bernstein-brief.pdf">djb&#8217;s latest brief</a> in his <a href="http://export.cr.yp.to/">export-crypto case</a>, he has an interesting first ammendment argument:</p><blockquote><p>Consider, as a hypothetical example, a book that explains how to use a microwave oven. The book says, in part, &#8220;Press button B; then press button 2; then press button 5; then press Start.&#8221; A cook follows these instructions: he presses B, 2, 5, Start.</p>
+
+<p>Following the instructions is not speech; but writing and publishing the instructions is speech. The First Amendment poses no obstacle to a government regulation of <em>pressing</em> buttons on microwave ovens; but a government regulation of <em>telling people</em> to press buttons on microwave ovens would be content-based and therefore subject to strict scrutiny. Asking &#8220;Is a button sequence fully protected speech?&#8221; would needlessly confuse the <em>publication</em> of a button sequence with the <em>use</em> of a button sequence.</p>
+
+<p>A closer inspection reveals that, when the cook presses buttons, he is actually talking to a small computer inside his microwave oven. He is passing instructions (&#8220;B, 2, 5, Start&#8221;) from the book author to the computer. But this technological detail has no relevance to the First Amendment analysis. The author&#8217;s disclosure of information to the cook is fully protected speech; the cook’s disclosure of information to his oven is a red herring.</p>
+
+<p>The government could argue, exactly as it is arguing in this case, that <em>giving</em> &#8220;instructions to a computer&#8221; are not protected by the First Amendment. It is true that giving instructions to a computer inside a microwave oven is not protected by the First Amendment. But <em>publishing</em> the same instructions, or disclosing the instructions to another person, is fully protected.</p></blockquote><p>I wonder if such an argument would be useful in the DeCSS case.</p>
+
+<p class="posted">posted September 04, 2002 08:26 PM (<a class="category" href="cat_politics">Politics</a>)  <a href="000568" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000567" title="What&#8217;s the Berman Bill for?">&laquo; prev</a> | <a href="./">up</a> | <a href="000569" title="MAKE RSS FAST!!!">next &raquo;</a></p>
+
+<p><a href="000559">JavaScript Form Validation Done Right</a><br />
+<a href="000564">Don&#8217;t Napsterize the Discussion, Guys!</a><br />
+<a href="000565">jwz is angry</a><br />
+<a href="000566">the neighborhood just got a lot bigger</a><br />
+<a href="000567">What&#8217;s the Berman Bill for?</a><br />
+<strong>The First Ammendment Microwave</strong><br />
+<a href="000569">MAKE RSS FAST!!!</a><br />
+<a href="000570">A .Mac Solution</a><br />
+<a href="000571">Buy His Books, Sell Your Furniture</a><br />
+<a href="000573">Jaguar Ate My Life</a><br />
+<a href="000574">The Road to RSS 3.0</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

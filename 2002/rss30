@@ -1,0 +1,124 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+  <title>RSS 3.0</title>
+</head>
+<body>
+<a href="http://www.aaronsw.com/">Aaron Swartz</a>
+<h1>RSS 3.0</h1>
+
+
+
+<p><a href="http://www.aaronsw.com/weblog/000574">Introduction</a> (you should probably read <a href="http://www.aaronsw.com/weblog/000574">it</a> first). <em>This spec is not yet finalized. Feedback appreciated.</em></p>
+
+<h2>Format</h2>
+
+<p>An <strong>item</strong> consists of a series of <strong>lines</strong> separated by "\n".</p>
+
+<p>Each <strong>line</strong> is a series of letters, numbers, "-", "." or "_" (called the <strong>name</strong>) followed by ": " followed by a series of characters (called the <strong>value</strong>). No two lines should start with the same name. If a line starts with a space or tab character, then it is a continuation of the value on the previous line. The newline in between is preserved. UTF-8 encoding is always used.</p>
+
+<p>An item ends at the first blank line (that is, a line with no characters).</p>
+
+<h2>Document</h2>
+
+<p>An RSS 3.0 document consists of one head item followed by zero or more body items.</p>
+
+<h3>Head</h3>
+
+<p>The head is an <strong>item</strong>. Names for the lines are globally assigned. Names are case-insensitive. The assigned names are:</p>
+
+<p>
+<a href="#title">title</a><br />
+<a href="#description">description</a><br />
+<a href="#link">link</a><br />
+<a href="#generator">generator</a><br />
+<a href="#errorsto">errorsto</a><br />
+<a href="#creator">creator</a><br />
+<a href="#created">created</a><br />
+<a href="#last-modified">last-modified</a><br />
+<a href="#language">language</a><br />
+<a href="#rights">rights</a><br />
+<a href="#license">license</a><br />
+<a href="#guid">guid</a><br />
+<a href="#uri">uri</a><br />
+<a href="#subject">subject</a>
+</p>
+
+<p>Most properties refer to the whole feed in adddition to the item. i.e. last-modified is the last-modified date of the feed.</p>
+
+<h2>Body</h2>
+
+<p>The body is a series of zero or more items. Names for the lines are globally-assigned and case-insensitive. The assigned names are:</p>
+
+<a href="#title">title</a><br />
+<a href="#description">description</a><br />
+<a href="#link">link</a><br />
+<a href="#generator">generator</a><br />
+<a href="#creator">creator</a><br />
+<a href="#created">created</a><br />
+<a href="#last-modified">last-modified</a><br />
+<a href="#language">language</a><br />
+<a href="#rights">rights</a><br />
+<a href="#license">license</a><br />
+<a href="#guid">guid</a><br />
+<a href="#uri">uri</a><br />
+<a href="#subject">subject</a>
+</p>
+
+<h2>Tokens</h2>
+
+<dl>
+<dt id="title">title</dt>
+<dd>The title of the item.</dd>
+<dt id="description">description</dt>
+<dd>A short description of the item.</dd>
+<dt id="link">link</dt>
+<dd>A link to the item.</dd>
+<dt id="generator">generator</dt>
+<dd>The person or program that generated the item.</dd>
+<dt id="errorsto">errorsto</dt>
+<dd>An email address, optionally followed by a space and a name, of the person to send error reports about the feed to.</dd>
+<dt id="creator">creator</dt>
+<dd>An email address, optionally followed by a space and a name, of the person who created the item.</dd>
+<dd id="created">created</dt>
+<dd>The date (in <a href="http://www.w3.org/TR/NOTE-datetime">W3CDTF format</a>) the item was created.</dd>
+<dt id="last-modified">last-modified</dt>
+<dd>The date (in <a href="http://www.w3.org/TR/NOTE-datetime">W3CDTF format</a>) the item was modified.</dd>
+<dt id="language">language</dt>
+<dd>The language of the item, using the language tag format specified in <a href="http://www.ietf.org/rfc/rfc3066.txt">RFC 3066</a>.</dd>
+<dt id="rights">rights</dt>
+<dd>The copyright statement for the item.</dd>
+<dt id="license">license</dt>
+<dd>A URI for the copyright license of the item.</dd>
+<dt id="guid">guid</dt>
+<dd>A globally unique identifier for the item.</dd>
+<dt id="uri">uri</dt>
+<dd>A globally unique identifier in the form of a URI for the item.</dd>
+<dt id="subject">subject</dt>
+<dd>The topic of the item.</dd>
+</dl>
+
+<h2>Example</h2>
+
+<pre>
+title: RSS 3.0 News
+description: Latest updates on RSS 3.0.
+link: http://www.aaronsw.com/2002/rss30
+creator: me@aaronsw.com Aaron Swartz
+errorsTo: me@aaronsw.com Aaron Swartz
+language: en-US
+
+title: Spec Introduced
+created: 2002-09-06
+guid: 00795648-C1E0-11D6-9AA6-003065F376B6
+description: 
+ The spec was introduced to the world.
+ 
+ A few people noticed.
+
+Title: Zooko Likes It
+Created: 2002-09-06
+GUID: 0894CB2F-C1E0-11D6-9649-003065F376B6
+Description: Zooko says he likes the spec.
+</pre>
+
+</body></html>

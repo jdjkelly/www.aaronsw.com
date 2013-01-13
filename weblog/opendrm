@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>The Logic of Open DRM (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>The Logic of Open DRM</h1>
+
+<p>In his recent essay, <a href="http://www.apple.com/hotnews/thoughtsonmusic/">Thoughts on Music</a>, Apple CEO Steve Jobs has called for the labels to stop requiring him to sell their music with DRM. Most of his argument is that the labels already sell the vast majority of their music perfect digital copies without DRM &#8212; namely, CDs &#8212; but he also argues that the alternative of having an &#8220;open&#8221; DRM system is impossible.</p>
+
+<p>Jobs is less than clear here. He writes: &#8220;There is no theory of protecting content other than keeping secrets. In other words, even if one uses the most sophisticated cryptographic locks to protect the actual music, one must still &#8216;hide&#8217; the keys which unlock the music on the user’s computer or portable music player. No one has ever implemented a DRM system that does not depend on such secrets for its operation.&#8221;</p>
+
+<p>Since this is a fairly important point and no one else is explaining what he means, I thought I&#8217;d give it a try.</p>
+
+<p>DRM works by encrypting songs. Encryption works by performing a mathematical scrambling operation that can only be reversed with the right &#8220;key&#8221;. As a very simple example, imagine you have the message &#8220;hello&#8221; and the key &#8220;5&#8221;. One simple encryption system is to simply move each letter five letters forward (so &#8220;a&#8221; becomes &#8220;f&#8221;) and you get &#8220;mjqqt&#8221;. To decode it, you just need to know the number 5 and move each letter back that far. (This is a very bad encryption system, for a lot of reasons, but it works the same basic way as the good ones.)</p>
+
+<p>The way DRM works, essentially, is that when you buy a song from the iTunes store it&#8217;s encrypted with a certain secret key (presumably one a lot bigger than the number 5). To play the music, you need the key to decrypt it. But the only software that has the key is iTunes and iTunes will only decrypt it if you&#8217;re following their rules &#8212; only playing it on 5 separate machines, for example.</p>
+
+<p>For &#8220;Open DRM&#8221; to work, Apple would need to give the key to other people who made music players. But as soon as Apple gives the key to someone, they can do whatever they want with the music. If the key gets out on the Internet, anyone can decrypt the songs. DRM only works because the key is secret. Open DRM is an oxymoron.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">February  7, 2007</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>I thought this was such a smart move on Apple&#8217;s part, not only as a negotiating tactic with the labels (his note got top left attention on the cover of today&#8217;s Wall St. Journal&#8212;but will it work?), but as a good-will winner for the public, especially after that NY Times article a few weeks back. I think the labels already know the DRM game is up, I think they have long known it&#8217;s up, and it&#8217;s time to move on.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.tashian.com/carl">Carl Tashian</a>
+ on February  7, 2007 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>On this subject there is Cory Doctorow&#8217;s DRM talk at microsoft, http://www.dashes.com/anil/stuff/doctorow-drm-ms.html</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://typo.cdlm.fasmz.org">Damien Pollet</a>
+ on February  7, 2007 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>Aaron, the typical DRM system is a bit more complex.</p>
+
+<p>Besides secret (aka symmetric) keys there are public and private keys (aka asymmetric) of which only the private one has to be kept secret and hidden and the public one can be known and shared.</p>
+
+<p>Content is typically encrypted by a secret key. This is an individual key per content and not known to the device prior to receiving the content. It&#8217;s not a shared key as you assumed.</p>
+
+<p>Now that key is wrapped by a public key and can only be extracted again by using the matching private key. Which public key? Each device must have a unique key pair. The private key might be stored on a smart card which is generally considered tamper proof. Most mobile devices work this way nowadays.</p>
+
+<p>The associated public key is know sent to the service that will issue the wrapped key to the device. That service will be able to check whether that device is allowed to receive the wrapped key. It then wraps the encryption key so that only the identified device can unwrap it.</p>
+
+<p>A device must never disclose the content key. Its manufacturer can be forced to assure this by contract. Using the smard card (or a trusted computing module) is one good way. The manufacturer will be sued if he creates a device that leaks the secret key. It is his responsibility to fix the leak or pay.</p>
+
+<p>All affected devices - identified by the public key - can be excluded from further service. Because all keys are individually protected, one leaked private key cannot harm the system in general.</p>
+
+<p>This is the way for example Microsoft&#8217;s DRM works. It IS practical to license it to third parties. It&#8217;s more a thing of control and user lock-in than a technical problem.</p>
+
+<p class="posted">posted by DRM
+ on February  8, 2007 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>Quite ironic coming from Jobs, considering no one is forcing him to put DRM on iTMS albums like Sleater-Kinney&#8217;s &#8220;Dig Me Out.&#8221; (eMusic sells the same album DRM-free.) Jobs chooses to use DRM, presumably because it&#8217;s in Apple&#8217;s best interests (for the time being).</p>
+
+<p>On a related note, Mike Hearn has an interesting post about the difficulty (impossibility?) of breaking hardware-based DRM systems:</p>
+
+<p>http://plan99.net/~mike/blog/2007/01/25/on-drm/</p>
+
+<p class="posted">posted by Alan
+ on February 10, 2007 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c13">
+<p>Agreeing with Alan, I was confused about why Apple did not offer ANY songs without DRM.  It seems likely there are a number of artists who would not mind boosting their sales by selling their songs without DRM, and it can&#8217;t be too impossibly technical to do this iTunes, since all they&#8217;d be doing is NOT encrypting songs that were flagged to be not encrypted.</p>
+
+<p>I couldn&#8217;t figure out a good explanation of why they would be doing this.  The thing from Jobs seems to indicate that they want music fans to direct their displeasure at the music industry giants.  It seems that if Jobs was at all anti-DRM he would have this option for publishers to not have DRM on their songs.  Any ideas?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://cshesse.com">Christopher Hesse</a>
+ on March  8, 2007 <a href="#c13" rel="bookmark">#</a></p>
+</div>
+<div id="c56">
+<p><a href="http://www.aaronsw.com/weblog/opendrm#c4" rel="nofollow">DRM</a>: I was only addressing software systems (like iTunes) in this piece, in which tamperproof cards are impractical and the public/private key bit is kind of irrelevant.</p>
+
+<p><a href="http://www.aaronsw.com/weblog/opendrm#c5" rel="nofollow">Alan</a>: It looks like time has proved you entirely wrong about that.</p>
+
+<p><a href="http://www.aaronsw.com/weblog/opendrm#c13" rel="nofollow">Chris</a>: My assumption was that the interface complexity for having both DRM and non-DRM wasn&#8217;t worth it to Jobs for just a handful of indie artists.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on April 12, 2007 <a href="#c56" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="opendrm" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

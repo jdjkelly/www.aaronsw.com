@@ -1,0 +1,268 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>The Semantic Web (for Web Developers)</title>
+<link rel="stylesheet" href="http://notabug.com/style.css" />
+</head>
+<body>
+<h1>The Semantic Web (for Web Developers)</h1>
+
+<p><strong>This document is left here for historical purposes. You probably want <a href="http://logicerror.com/semanticWeb-webdev">the latest version</a>.</strong></p>
+
+<p><em>Based on a talk given at MIT on 2002-04-25.</em>.</p>
+
+<h2>Introduction</h2>
+<p>Our story starts with a dream: Tim Berners-Lee, a software engineer at CERN knew that there had to be a better way to keep track of information about what people were working on. He wrote:</p>
+
+<blockquote>The aim would be to allow a place to be found for any information or reference which one felt was important, and a way of finding it afterwards.</blockquote>
+<p> - <a href="http://www.w3.org/History/1989/proposal.html">Information Management: A Proposal</a>, 1989</p>
+
+<p>What he wanted, in short, was the Web. And so he built it. He wrote the first Web browser and Web server and the protocols that they used to communicate. Years passed. More pages were linked into his Web, more users grabbed software to use it. People made and lost millions on it, papers lauded and decried it. But Tim Berners-Lee wasn't finished yet. "Now, miraculously, we have the Web", he wrote.</p>
+
+<blockquote>For the documents in our lives, everything is simple and smooth. But for data, we are still pre-Web.</blockquote>
+<p> - <a href="http://www.w3.org/DesignIssues/Business">Business Plan for the Semantic Web</a>, 2001</p>
+ 
+<p>What he wanted, in short, was the Semantic Web. And so he began to build it. The Semantic Web is an extension of the current Web, in which we add support for databases in machine-readable form. The current Web supports documents, pages of text and figures designed for humans. The Semantic adds support for databases, vast collections of information neatly organized to be processed by machines.</p>
+
+<p>Just as the current Web has services like search engines, which combine the many pages of the Web into one collection, the Semantic Web will have search engines too. The difference is that current search engines can only answer one question: "Which pages contain the term '_____'?" or "What are the best pages about the term '_____'?" The Semantic Web broadens this so that we can ask it more structured, specific questions (as long as they're also written in a machine readable form). Something like "Boston temperature ?x", meaning "What's the temperatire in Boston?"</p>
+
+<p>Despite what you may have heard, the Semantic Web is not about teaching machines to <em>understand</em> human words or process natural language. Everything is written out in structured languages for machine. The goal is not to build a thinking, feeling Artificial Intelligence, but merely to collect data in a useful way, like a large database. Once you put aside these initial reactions, it becomes easier to see that the Semantic Web is a simple, but potentially poweful idea.</p>
+
+<h2>Details</h2>
+
+<p>Let's begin to discuss the details of the Semantic Web. Just as the Web was implemented using URIs, HTTP and HTML, the Semantic Web is built with URIs, HTTP and RDF. We will discuss each of these in turn.</p>
+
+<h3>URIs</h3>
+
+<p>URIs are <strong>U</strong>niform <strong>R</strong>esource <strong>I</strong>dentifiers, they are text strings that identify resources, or concepts. Commonly referred to as URLs, they come in many forms (and are extensible, so that new forms can be created) and identify many things. Here are some examples:</p>
+
+<p><a href="http://me.aaronsw.com/">http://me.aaronsw.com/</a> identifies a person, Aaron Swartz.</p>
+
+<p><a href="http://purl.org/dc/terms/modified">http://purl.org/dc/terms/modified</a> identifies a concept, that of the last-modified date.</p>
+
+<p><a href="uuid:04b749bf-3bb2-4dba-934c-c92c56b709df">uuid:04b749bf-3bb2-4dba-934c-c92c56b709df</a> is a decentralized identifier, called a UUID. It is created by combining the time and the address of your Ethernet card (or a random number if you don't have one) to create an identifier that is unique. This allows one to create identifiers without having a centralized system like domain names, that must be given out by some authority. On many machines UUIDs can be created using the program <code>uuidgen</code>.</p>
+
+<p><a href="tag:sandro@world.std.org,2001-06-05:Taiko">tag:sandro@world.std.org,2001-06-05:Taiko</a> is a persistent identifier, called a <a href="http://taguri.org/">TAG</a>, it combines an email address or domain name along with a date to allow the person who "owned" that address on that date to create persistent identifiers</p>
+
+<p><a href="esl:SHA1:iQAAwUBO51bkD6DK6KYhyiEEQJLqwCfSviAHvC1REXEkOGEWf9pAByCRwAni92xgCJqNL4fvrLRlGFK5szDXfckCE:someName">esl:SHA1:iQAAwUBO51bkD6DK6KYhyiEEQJLqwCfSviAHvC1REXEkOGEWf9pAByCRwAni92xgCJqNL4fvrLRlGFK5szDXfckCE:someName</a> is an <em>esl</em>, a URI that uses cryptographic hashes and digital signatures to ensure that no one else can create URIs in your name. It also allows for verification of "official" information, by making sure that it is signed with the same key that signed the URI.</p>
+
+<p>This is just a small example of the many types of URIs that exist. New "URI schemes" can be registered with <a href="http://www.iana.org/">IANA</a> for different purposes. However, all names are bound by <a href="http://zooko.com/distnames.html">Zooko's Law</a>, which says that names are like the old joke "good, fast, cheap: choose two": names can be decentralized, secure, human-memorizable: choose two. There are URI schemes that embody each possible choice in Zooko's Law: ESLs are decentralized and secure, simple keywords are decentralized and human-memorizable and domain names are secure and human-memorizable.</p>
+
+<h3>HTTP</h3>
+
+<p>HTTP is a system for performing operations on resources (identified by URIs). it's widely-implemented, and is the protocol all Web browsers and servers speak. It has three major "methods", or types of actions it can perform.</p>
+
+<p><strong>GET</strong> asks for information about a resource. It's what we do when we browse sites and follow links -- we ask the server for more information.</p>
+
+<p><strong>POST</strong> sends a request to a resource. It's what turned the Web from a way to get documents, to a platform for applications and services. When you do something like buy a book or send an email over the Web, you're doing a POST -- making a request of the server.</p> 
+
+<p><strong>PUT</strong> sends updated information about a resource. The original Web browser made editing just as easy as browsing: you'd visit your page, and click the edit button. Then you could make changes, like fix a typo, just like in a word processor. When you hit save, the browser would send a PUT back to the server, with the updated copy. Unfortunately this functionality was not included in most browsers. This meant that making a Web page was just too hard for most users, and that's why the Web became something of a one-way medium.</p>
+
+<p>Aside from the method and the resource to act on, HTTP includes a number of headers to provide a lot of useful functionality. It has a method of authentication that uses cryptographic hashes to avoid sending passwords "in the clear" -- this prevents crackers from being able to steal them. It has something called the <code>Accept:</code> header, to allow browsers to tell the server what formats they support. That way the server can send HTML to HTML web browsers, and RDF to Semantic Web agents. It has built-in support for compression to cut down on bandwidth, and something called <code>ETag</code>s to let clients find out if a page has changed.</p>
+
+<p>By using HTTP, Semantic Web services get all of this functionality for free. It's already built-in to the many HTTP servers and clients that are available for lots of platforms in almost every programming language.</p>
+
+<h3>RDF</h3>
+
+<p>RDF, the <strong>R</strong>esource <strong>D</strong>escription <strong>F</strong>ramework, is the major new piece of the Semantic Web. It's a format for providing information in machine-readable form, using URIs and text strings as terms.</p>
+
+<p>It combines these terms into triples, sets of three which express basic concepts or statements. Web links, such as a link from <code>Microsoft</code> to <code>BillGates</code> create pairs, like: (<code>Microsoft</code>, <code>BillGates</code>). The Semantic Web adds a type to this link, making it (<code>Microsoft</code>, <code>employee</code>, <code>BillGates</code>). This expresses that <code>Microsoft</code> has an <code>employee</code>: <code>BillGates</code>. Here are some example triples:</p>
+
+<pre>
+&lt;Aaron> &lt;name> "Aaron Swartz" .
+&lt;Aaron> &lt;knows> &lt;Philip> .
+&lt;Philip> &lt;employer> &lt;MIT> .
+&lt;MIT> &lt;website> &lt;http://web.mit.edu/> .
+</pre>
+<p><em>[here and elsewhere terms like &lt;Aaron> are abbreviated, they should really be full URIs like &lt;http://me.aaronsw.com/>]</em></p>
+
+<p>As you can see, these triples express facts about the world. They are also very simple, but many complex concepts can be written as triples. For those familiar with relational databases, they can be written in triples very simply:</p>
+
+<pre>
+&lt;primaryKey> &lt;column_name&gt; "field value" .
+</pre>
+
+<h4>Comparisons with XML</h4>
+
+<p>XML was designed for documents, not data. Because of this, it has many features (like attributes and entities) that make sense for document-oriented systems, but only cause problems when expressing data. Also, there are many ways to say the same thing in XML. For example all these XML documents:</p>
+
+<pre>&lt;author>           
+ &lt;uri>page&lt;/uri>
+ &lt;name>Ora&lt;/name>
+&lt;/author></pre>
+<pre>&lt;person name="Ora">
+   &lt;work>page&lt;/work>
+&lt;/person></pre>
+<pre>&lt;document href="http://www.w3.org/test/page" author="Ora" /></pre>
+
+<p>represent the same basic RDF triple:</p>
+
+<pre>&lt;page> &lt;author> &lt;Ora> .</pre>
+
+<p>Even if one were to say things slightly differently, the number of changes you can make to a triple are fairly small. You can use different URIs, but then all one needs to do is assert a new triple, saying that the two URIs are equal. Then your RDF system can do the equivalent of a find-and-replace, so that you can continue to use the information. Similarly, you can write the triple in the other direction, saying:</p>
+
+<pre>&lt;Ora> &lt;creation> &lt;page></pre>
+
+<p>but this is similarly easy to describe in RDF, and to convert. In XML, the system to convert documents is called XSLT, and it's a Turing-complete language, meaning it has the same expressive power as a programming language. It quickly becomes very complicated to convert XML documents and deal with all the different formats. But in RDF, it stays fairly easy.</p>
+
+<p>In addition, triples are simple things. You can simply keep a table with three columns and know that any triple you'll ever encounter will fit. XML's hybrid tree structure is so confusing and nonstandard that there are actually special XML databases -- databases specifically designed to support all the odd features of XML.</p>
+
+<p>XML makes basic operations more complex too. If you want to merge two documents with triples, you simply combine the two documents into one. But with XML, if you combine two XML documents, the resulting document is no longer well-formed XML, you have to do something more complicated to make it work.</p>
+
+<h3>Semantic Web Services</h3>
+
+<p>Semantic Web Services combine URIs, HTTP and RDF to build a system of machine-to-machine communications for sharing information. Take the example of purchasing a book. First you can GET some information about the book:</p>
+
+<pre>
+&lt;isbn:1588750019> &lt;...title> "Travels with Samantha" .
+&lt;isbn:1588750019> &lt;...author> &lt;...PhilipGreenspun> .
+&lt;isbn:1588750019> &lt;...pages> "368" .
+...
+</pre>
+
+<p>You can POST a request to purchase:</p>
+
+<pre>
+&lt;http://me.aaronsw.com/> &lt;...wantsCopyOf> &lt;isbn:1588750019> .
+&lt;http://me.aaronsw.com/> &lt;...address> "349 Marshman" .
+...
+</pre>
+
+<p>And finally, PUT your review of the book:</p>
+
+<pre>
+&lt;http://bookstore.example.org/reviews/9383> &lt;...title> "I love this book!" .
+&lt;http://bookstore.example.org/reviews/9383> &lt;...author> &lt;...alexGreenspun> .
+&lt;isbn:1654653245> &lt;...rating> "5" .
+&lt;> &lt;...content> "This book was great. I loved all the pictures of me. ..." .
+</pre>
+
+<h4>Comparison: Why is this better than SOAP or XML-RPC?</h4>
+
+<p>For one thing, it's a lot less ugly. Here's a SOAP response:</p>
+
+<pre>
+&lt;?xml version="1.0"?>
+&lt;SOAP-ENV:Envelope
+    xmlns:xsi="http://www.w3.org/1999/XMLSchema-instance"
+    xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/"
+    xmlns:xsd="http://www.w3.org/1999/XMLSchema"
+    SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"
+    xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+ &lt;SOAP-ENV:Body>
+  &lt;ns:WhosOnlineResponse xmlns:ns="http://www.aduni.org/">
+   &lt;user>
+    &lt;first_names xsi:type="xsd:string">Eve&lt;/first_names>
+    &lt;last_name xsi:type="xsd:string">Andersson&lt;/last_name>
+    &lt;email xsi:type="xsd:string">eveander@arsdigita.com&lt;/email>
+   &lt;/user>
+  &lt;/ns:WhosOnlineResponse>
+ &lt;/SOAP-ENV:Body>
+&lt;/SOAP-ENV:Envelope>
+</pre>
+
+<p>and here's the RDF triples for the exact same information:</p>
+
+<pre>
+&lt;http://www.aduni.org/users/1000> &lt;http://www.aduni.org/rdf/type>      &lt;http://www.aduni.org/rdf/User> .
+&lt;http://www.aduni.org/users/1000> &lt;http://www.aduni.org/rdf/firstName> "Eve" .
+&lt;http://www.aduni.org/users/1000> &lt;http://www.aduni.org/rdf/lastName>  "Andersson" .
+&lt;http://www.aduni.org/users/1000> &lt;http://www.aduni.org/rdf/email>     "eveander@arsdigita.com" .
+</pre>
+
+<p>and with RDF namespaces, it's even simpler:</p>
+
+<pre>
+@prefix : &lt;http://www.aduni.org/rdf/> .
+@prefix u: &lt;http://www.aduni.org/users/> .
+
+u:1000 :type      :User .
+u:1000 :firstName "Eve" .
+u:1000 :lastName  "Andersson" .
+u:1000 :email     "eveander@arsdigita.com" .
+</pre>
+
+<p>Why not just cut the SOAP down? It's containing all sorts of useless info that the RDF isnt burdened with. Unfortunately, the SOAP spec requires all this extra information, even if it is useless for most purposes. In RDF, the approach is that if you need the extra information, you can add it, but it's rarely required. RDF shows that you can balance flexibility with brevity.</p>
+
+<p>Still not convinced? You should probably go look at those examples again, but there are other reasons. The key is that GET, POST and PUT are generic methods, allowing one to build tools that work on the entire Web. SOAP, however, has each application invent its own methods, making portable tools a nightmare. Imagine, for example, Google for SOAP. Google would never be sure whether to invoke a SOAP method or not -- there's no automated way to tell whether it would return the latest stock price or buy 500 shares of stock. But with HTTP, you can simply restrict your search engine to the GET method. The same thing is true for many other applications, like Web caches.</p>
+
+<p>SOAP, on the other hand, is brittle and depends heavily on things not changing. A SOAP server that expects three parameters will likely break if you send two or four. A SOAP client that expects back a list of five elements as a response won't know what to do if you send back a list of 6. But with RDF, you can simply add more triples to either request or response. Software that understands the additional triples will use it but those that don't can simply ignore it.</p>
+
+<p><em>So if your method is so much better then how come SOAP is so much more popular?</em> Well, it's questionable whether SOAP is really popular or not. Taking a look at <a href="http://xmethods.net/">XMethods</a>, a list of SOAP services shows about 100 available SOAP RPC services. However, <a href="http://www.syndic8.com/stats.php#RSSVersion">Syndic8</a>, a listing syndicated content shows over 800 feeds using the RDF-based RSS 1.0 format, all of which are served up using plain old HTTP GET. While there's certainly a lot of SOAP hype, I think the reality is less than some would leave you to believe. I expect to see many more Semantic Web Services sprout up as more tools and documentation becomes available.</p>
+
+<p><em>Well, surely Semantic Web Services need to have some flaws, right?</em> Sure, there's no question that Semantic Web Services are harder to build than SOAP services (assuming you have a high-quality SOAP toolkit). Using something like Microsoft .NET, you just claim your program is a Web service and it will generate SOAP code for you. However, as explained above, SOAP may be easier but it has its share of problems. By tying it directly to your function, you risk substantial breakage if anything changes. Semantic Web Services, while requiring some more work at the outset, make it more likely that your program will last a while and play well with others.</p>
+
+<h2>Applications</h2>
+
+<p>The next issue is that of who is actually providing and using these Semantic Web Services. While the Semantic Web is still in its infancy, there are a number of useful Semantic Web Services available already. <a href="http://www.musicbrainz.org/">MusicBrainz</a>, for example, allows users to POST music metadata to their database so that other users can GET it. They use RDF for both procedures, and this functionality is built into the <a href="http://www.freeamp.org/">the FreeAmp MP3 player</a>. When you open an audio CD with FreeAmp, it queries the MusicBrainz server for track name and artist metadata about the CD, so that you can select tracks by their name, in addition to just their position on the CD.</p>
+
+<p><a href="http://www.dmoz.org/">The Open Directory Project</a> provides the contents of their massive web site categorization in RDF. A number of other providers, such as Google have integrated this data into their site, combining it with their own databases. The <a href="http://directory.google.com/">Google Directory</a>, for example, <a href="http://www.google.com/dirhelp.html#greenbars">annotates the category listings</a> with the PageRank information that makes Google searches so accurate. It's things like these, where two independent sources of data are combined to make something more useful than either is on its own, that is likely to become more prevalent as Semantic Web development continues.</p>
+
+<p>If you're providing a Semantic Web Service, and would like to be discussed here, please <a href="mailto:me@aaronsw.com">send me a note</a>.</p>
+
+<h2>Semantic Web Futures</h2>
+
+<p>Semantic Web Services are far from the end of the Semantic Web vision. There's quite a bit of interesting research and development still going on. We'll cover three major issues: Aggregation, Security and Logic. However, each of these systems requires a grouping mechanism, so that we can turn a group of statements into something we can talk about. The curly brackets ({}) are used to do this. A set of statements are placed inside the brackets, and then become a new term that we can place in any part of a triple. Here's an example:</p>
+
+<pre>{
+	&lt;foo> &lt;name> "1" .
+	&lt;bar> &lt;name> "2" .
+} &lt;name> "Group" .</pre>
+
+<h3>Aggregation</h3>
+
+<p>Systems like Google aggregate the many pages of the Web into a cohesive database you can search. Developers are working on similar systems for RDF data, to create a sort of Semantic Google. There are two main approaches: the centralized one, where all the data is collected onto one system; and the decentralized one, where the data is organized across many computers, each taking responsibility for a different portion.</p>.
+
+<p>One of the important parts of the aggregation process is keeping track of who said what, and we use grouping For example:</p>
+
+<pre>
+{
+	&lt;...Dogs> &lt;...fightWith> &lt;...Cats&gt; .
+	&lt;...Man> &lt;...bestFriend> &lt;...Dogs&gt; .
+} &lt;...author> &lt;http://me.aaronsw.com/> .
+</pre>
+
+<p>Once this is taken care of, RDF databases can use this information to better answer queries. For an ever-changing fact, like the temperature, you'll want the latest information. An RDF database can search to find the latest statements and pick the most recent statement of temperature.</p>
+
+<h3>Security</h3>
+
+<p>Of course, if we are combining all of these RDF statements together, there comes the issue of whether we can trust them. RDF trust is based on the way human trust works. We build rough "trust networks" by picking a bunch of friends (who we mostly trust), and then their friends (who we trust a little less), and then <em>their</em> friends (who we trust even less) and so on.</p>
+
+<p>RDF does a similar thing by building a "Web of Trust", taking into account who you trust and how much you trust them. By connecting these statements with everyone else's, it builds a Web that interconnects almost everyone. Then it tries to pick statements from people you trust -- those closest to you in the Web of Trust. RDF also uses digital signatures to ensure that the triples were actually said by who they're claimed to be said by.</p>
+
+<h3>Logic</h3>
+
+<p>Logic provides a way for you to express <em>rules</em> that take in triples and output new ones in RDF. It's based on the old field of symbolic logic, and has strong mathematic backings. Here's an example RDF rule for when items get free shipping:</p>
+
+<pre>{ 
+	?y :price ?z. 
+	?z math:greaterThan "100".
+} log:implies { 
+	?y :shippingCost "0". 
+}</pre>
+
+<p>The terms starting with a '?' are "free variables", they will match any term in the triple. To process this rule, the computer would search for anything that fit this criteria. That is, anything that has a price z, where z is greater than 100. The computer would likely have a built-in math component to check if a number it was greater than 100. Once if finds that something, it will then output a new triple saying that it has a shippingCost of "0".</p>
+
+<p><em>Inference Engines</em> are the tools that take in rules and data and process them, writing out the resulting RDF triples. Programming using rules is what's called declarative programming, and is often simpler than writing out code to do the work. It also makes it easy for others to use your rules, and since rules are just RDF, you can have rules that operate on rules. In the future, it's possible that there will be inference engines searching thru the Web, looking for interesting inferences to make.</p>
+
+<p>As an example, you might want to send a message to your great grandchild. There's only one problem: he isn't born yet. So you describe him to an inference engine:</p>
+
+<pre>{
+	p:Aaron :child ?x .
+	?x :child ?y .
+	?y :child ?z .
+} log:implies {
+	&lt;Message> :to ?z .
+}</pre>
+
+<p>You send this rule out into the Web, and one day it stumbles across a bunch of RDF genealogical data. It finds a match, and addresses the message directly to your great grandson. He finds it soon after when he looks for all messages addressed to him.</p>
+
+<h2>Conclusion</h2>
+
+<p>The Semantic Web has often been called ambitious, and while it may not achieve all of its goals it seems likely that it will achieve at least some. In the near future, more RDF content and Semantic Web Services are likely to become available, along with interesting and novel ways to use them. We will likely see some good progress on the more advanced Semantic Web Futures and some of them may even come to fruition.</p>
+
+<p>After that, who knows? We might even have another Web boom, only this time it'll be about the Semantic Web. &lt;tag:pets.com,2000:SockPuppet>, anyone?</p>
+
+<p> - <a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</p>
+</body></html>

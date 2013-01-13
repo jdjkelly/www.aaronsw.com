@@ -1,0 +1,61 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Other (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/000183.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000182" title="The Science of Rejection" />	<link rel="next" href="000185" title="Other" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Other</h1>
+</div>
+
+<div class="content">
+<p><em>Small pieces loosely joined, which don&#8217;t deserve their own weblog entries.</em></p>
+
+<p>Hack of the Day: <a href="http://www.aaronsw.com/2002/dtrt">Aaron&#8217;s Do The Right Thing</a>.</p>
+
+<p>Garrison Keillor: <a class="quotelink" href="http://phc.mpr.org/content/how_i_write.shtml">&#8220;It is crucial to put the work in typescript, read it word for word and patch it with a pencil: computer writing tends to be flabby and tone-deaf otherwise.&#8221;</a></p>
+
+<p>John McCarthy: <a href="http://www.edge.org/discourse/gelernter_manifesto.html#mccarthy" class="quotelink">&#8220;Paper will be needed until screens are better. [&#8230;] Print the document for reading and then throw it away. I&#8217;ll do that even at the cost of losing the pretty red ink I&#8217;ve put on my printout of the Manifesto.&#8221;</a></p>
+
+<p><a href="http://ratpoison.sourceforge.net/">Rat Poison</a>: <a href="http://ratpoison.sourceforge.net/inspiration.html" class="quotelink">&#8220;Pot and lame type systems like in C/C++ do not mix.&#8221;</a> [via <a href="http://www.advogato.org/person/mbp/diary.html?start=190">mbp</a>, <a href="http://wmf.editthispage.com/2002/03/16">wmf</a>]</p>
+
+<p>Dave Winer: <a href="http://www.xmlrpc.com/metaWeblogApi" class="quotelink">&#8220;This API views a post as a package of metadata with some well-known names and room to grow on an organized or an ad hoc basis. In my experience those are the kinds of APIs that have legs.&#8221;</a></p>
+
+<p>RSS 1.0 Spec: <a href="http://purl.org/rss/1.0/" class="quotelink">&#8220;RSS continues to be re-purposed, aggregated, and categorized, the need for an enhanced metadata framework grows. [&#8230;] Namespace-based modules allow compartmentalized extensibility.&#8221;</a></p>
+
+<p>The <a href="http://www.apple.com/keyboard/">Apple Pro Keyboard</a> has a particularly useless feature: If you hold the &#8220;num lock&#8221; key down, instead of just pressing it, it will blink and turn off when you let go of it.</p>
+
+<p>Fresh Googlewhacks: <a href="http://www.google.com/search?q=agoraphobic+tarsier">agoraphobic tarsier</a>, <a href="http://www.google.com/search?q=subaltern+tarsier">subaltern tarsier</a>, <a href="agoraphobic meerkat">agoraphobic meerkat</a>.</p>
+
+<p>Sponsored by: lethonomia. [via <a href="http://web.archive.org/web/20010825155306/www.serve.com/hecht/words/rare.htm">Hecht&#8217;s Rare Words</a>, <a href="http://infomesh.net/geirlyfr/">Sean&#8217;s Geirlyfr</a>, <a href="http://blogspace.com/swhack/weblog/2002/03/17/#i1016326549.428674">Swhack&#8217;s Weblog</a>]</p>
+
+<p class="posted">posted March 16, 2002 09:51 PM (<a class="category" href="cat_others">Others</a>)  <a href="000183" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000182" title="The Science of Rejection">&laquo; prev</a> | <a href="./">up</a> | <a href="000185" title="Other">next &raquo;</a></p>
+
+<p><a href="000174">Aaron joins Creative Commons as RDF Advisor</a><br />
+<a href="000175">Learning on the Road</a><br />
+<a href="000180">Happy Pi Day</a><br />
+<a href="000181">Interesting Conferences (and the interesting people attending them)</a><br />
+<a href="000182">The Science of Rejection</a><br />
+<strong>Other</strong><br />
+<a href="000185">Other</a><br />
+<a href="000193">More Vanity: All About Aaron</a><br />
+<a href="000194">A New Kind of Society</a><br />
+<a href="000196">Instant Outliners</a><br />
+<a href="000197">Evidence</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

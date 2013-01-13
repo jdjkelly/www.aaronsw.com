@@ -1,0 +1,519 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>President Bush: Why Can&#8217;t He Stop Lying? (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/001188.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001187" title="Wonderfalls" />	<link rel="next" href="001189" title="Markdown" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>President Bush: Why Can&#8217;t He Stop Lying?</h1>
+</div>
+
+<div class="content">
+<p>President Bush, apparently unable to run on his <a href="http://www.aaronsw.com/weblog/001103">nonexistant record</a>, has resorted to running misleading attack ads against his opponent, John Kerry.</p>
+
+<p>Bush has <a href="http://www.georgewbush.com/News/Newscasts.aspx">created six ads</a> so far. The first three all came out at once on March 3rd:</p>
+
+<ol>
+<li><p><em>Lead</em> consists of Bush assuring America that he knows exactly what he needs to do to create jobs, improve education, etc. (apparently he won&#8217;t tell us or do it until we reelect him). </p></li>
+<li><p><em>Tested</em> tells us that although we&#8217;ve hit hard times, all we need to do is have &#8220;freedom, faith, families, and sacrifice&#8221;. It closes with the slogan &#8220;President Bush: Steady Leadership in Times of Change&#8221;, which has been cleverly parodied as &#8220;President Bush: Don&#8217;t Change Horsemen Mid-Apocalypse&#8221;.</p></li>
+<li><p><em>Safer, Stronger</em> consists of a littany of all the poor things that have happened to Bush (a recession, a terrorist attack, a war). The message here, apparently, is: &#8220;President Bush: It&#8217;s Not My Fault&#8221;. The ad also contianed footage of firefighters intending to evoke 9/11. This offended firefighters, who pointed out that the ones used in the ad were actors and that <a href="http://www.iaff.org/across/news/archive2004/030404press.html">Bush had repeatedly opposed measures to help firefighters</a>.</p></li>
+</ol>
+
+<p>But this triple-threat of sappy everything&#8217;s-not-alright ads didn&#8217;t seem to be really doing it for Bush, so he fell back to lying about his opponent.</p>
+
+<p>His first ad, <em>100 Days</em>, consists of seven sentences. Of these, only one of them can really be considered accurate: &#8220;I&#8217;m George W. Bush and I approve this message.&#8221; Every other sentence is misleading or false. Bush claims Kerry would raise taxes by $900 billion, when Kerry has proposed no such tax increase. (Bush argues that he&#8217;d need the money to pay for his health care plan, but the money could be raised through increased economic growth.) Bush claims Kerry wanted UN approval before going to war, when Kerry only asked Bush to try to build a coalition.</p>
+
+<p>Coming out the same day, <em>Forward</em> bizarrely claims that Bush would lead the country forward while Kerry would take us back to the days when terrorism was no threat. &#8220;President Bush: I&#8217;ll keep fighting terrorism&#8230;forever!&#8221; But Bush would also lead us forward by trying to create jobs, reform education, and ensure affordable health care. This is in direct opposition to Kerry who would&#8230;, well, I guess Kerry would do all those things too. (Hey, wait a second, didn&#8217;t Bush just attack Kerry for wanting to spend money on health care?)</p>
+
+<p>Perhaps eager to get back onto home turf, Bush released <em>Troops</em>, an ad implying that Kerry repeatedly (the ad implies at least four times) voted against funding our troops. And while Kerry did vote against one funding bill, he voted <em>for</em> numerous others. But Bush&#8217;s ad repeats a sound clip and says Kerry voted no, again and again, against very specific expenditures.</p>
+
+<p>Which leaves us with this question: </p>
+
+<p>&#8220;President Bush: Why Can&#8217;t He Stop Lying?&#8221;</p>
+
+<p class="posted">posted March 18, 2004 03:10 PM (<a class="category" href="cat_politics">Politics</a>) (<a href="#comments">22 comments</a>) <a href="001188" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001187" title="Wonderfalls">&laquo; prev</a> | <a href="./">up</a> | <a href="001189" title="Markdown">next &raquo;</a></p>
+
+<p><a href="001175">Up With Facts: Finding the Truth in WikiCourt</a><br />
+<a href="001177">San Francisco Protects the Freedom to Marry</a><br />
+<a href="001179">Sue for Freedom: Saving Steamboat Roy</a><br />
+<a href="001185">Shorter Tom DeLay</a><br />
+<a href="001187">Wonderfalls</a><br />
+<strong>President Bush: Why Can&#8217;t He Stop Lying?</strong><br />
+<a href="001189">Markdown</a><br />
+<a href="001190">Shorter Richard Clarke</a><br />
+<a href="001191">Against All Enemies: The Movie</a><br />
+<a href="001193">How iTMS Works</a><br />
+<a href="001194">Free Culture Wiki: Piracy Hits a New Low</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c703">
+
+<p>Josh Marshall <a href="http://www.talkingpointsmemo.com/archives/week_2004_03_14.html#002714">made much the same point</a> yesterday.</p>
+
+<p>You can also check out BushOut.TV&#8217;s (the campaign ad blog I edit) <a href="http://www.bushout.tv/bush/">Bush archives</a> for more commentary.</p>
+
+<p class="posted">posted by <a href="http://www.bushout.tv">Luke Francl</a> at March 18, 2004 07:28 PM <a href="#c703">#</a></p>
+
+</div><div id="c714">
+
+<p>He isn&#8217;t lying your just to narrow minded to see the truth. The real liar is Kerry you democrats are so bitter that your hatred stops you from realizing what is really happening in this world</p>
+
+<p class="posted">posted by <a href="mailto:todd@todd.com">Todd</a> at March 19, 2004 12:37 AM <a href="#c714">#</a></p>
+
+</div><div id="c721">
+
+<p>Todd have you ever heard of a comma? Does to and too confuse you? What you are exhibiting is common amongst Republicans: Instead of facing the issues, you&#8217;d rather attack the opponent. You would rather rage against those who disagree with you instead of defending your point.</p>
+
+<p class="posted">posted by Jason at March 19, 2004 10:17 AM <a href="#c721">#</a></p>
+
+</div><div id="c722">
+
+<p>Jason and Luke are correct.  Hardcore republicans can see no wrong in what the party leaders are doing.  While all other normal people can see both side of the issue.  If you are to blind to see that Bush is a liar and an evil person could you please stop breathing my air.!</p>
+
+<p class="posted">posted by <a href="mailto:kloretta@findkip.com">Kip</a> at March 19, 2004 10:33 AM <a href="#c722">#</a></p>
+
+</div><div id="c725">
+
+<p>I&#8217;m personally pissed off that <b>Treason</b> charges haven&#8217;t been brough up against Bush, Cheney, Rumsfeld, and more of the administration. The President lies on national TV, the Congress abandons its duty to act as a check and balance, and the press just eats it up. This is some fucked up shit!<p>
+&#8212;Mike&#8212;<p>
+PS: Where&#8217;s the office betting pool on the date the revolution starts?</p></p></p>
+
+<p class="posted">posted by <a href="http://mike.warot.com">Mike Warot</a> at March 19, 2004 12:47 PM <a href="#c725">#</a></p>
+
+</div><div id="c750">
+
+<p>&#8220;Bush claims Kerry would raise taxes by $900 billion, when Kerry has proposed no such tax increase.&#8221; - Aaron Swartz</p>
+
+<p>&#8220;Kerry has proposed a health care plan that has been estimated to cost about $900 billion over 10 years. His campaign has not laid out how that plan would be paid for.&#8221; - CNN</p>
+
+<p>Why can&#8217;t CNN stop lying? ;-)</p>
+
+<p>http://cnn.netscape.cnn.com/news/story.jsp?floc=FF-APO-1131&amp;idq=/ff/story/0001%2F20040321%2F0417811074.htm&amp;sc=1131</p>
+
+<p class="posted">posted by <a href="http://www.technologist.net">Ron Bischof</a> at March 21, 2004 08:17 PM <a href="#c750">#</a></p>
+
+</div><div id="c751">
+
+<p>&#8220;Todd have you ever heard of a comma? Does to and too confuse you?&#8221; - Jason</p>
+
+<p>Did you note your comment began with an ad hominem attack? Wouldn&#8217;t it be wiser to heed your own counsel prior to advising others?</p>
+
+<p class="posted">posted by <a href="http://www.technologist.net">Ron Bischof</a> at March 21, 2004 08:27 PM <a href="#c751">#</a></p>
+
+</div><div id="c766">
+
+<p>I readily concede the Bush $900b number is misleading, but it is a very good tactic, as it forces Kerry into being either being saddled with it, or explaining how he is going to pay for his bill.  Until Kerry explains where the money will come from &#8212; and he has not, that I&#8217;ve seen &#8212; it is reasonable to assume it will come through taxes, since that&#8217;s where most government money comes from.  Yes, it is misleading, but I don&#8217;t think it rises to the level of a lie.  YMMV.</p>
+
+<p><em>Bush argues that he’d need the money to pay for his health care plan, but the money could be raised through increased economic growth.</em></p>
+
+<p>Wow.  That&#8217;s quite an argument for a Democrat to make, since you guys are slamming Bush for making the same case for how the deficit will be reduced.</p>
+
+<p><em>Bush claims Kerry wanted UN approval before going to war, when Kerry only asked Bush to try to build a coalition.</em></p>
+
+<p>Nope.  Kerry has said many times he wanted UN approval.  Kerry did not say he would <em>insist</em> on UN approval, as Dean did, but to say Kerry <em>wanted</em> UN approval before going in is absolutely true.  I don&#8217;t know how interesting this is, but it is true.</p>
+
+<p><em>Forward bizarrely claims that Bush would lead the country forward while Kerry would take us back to the days when terrorism was no threat.</em></p>
+
+<p>That&#8217;s based on Kerry&#8217;s repeated claim that he would treat terrorism as a law enforcement and intelligence operation, instead of a military operation.  It&#8217;s not a lie, it&#8217;s an opinion about the different views of the two sides.  It is, of course, certainly open to criticism.</p>
+
+<p><em>(Hey, wait a second, didn’t Bush just attack Kerry for wanting to spend money on health care?)</em></p>
+
+<p>Yeah, but OTOH, Kerry and the Democrats have attacked Bush for not spending enough on health care and education, despite spending more on both than any administration in history.</p>
+
+<p><em>Perhaps eager to get back onto home turf, Bush released Troops, an ad implying that Kerry repeatedly (the ad implies at least four times) voted against funding our troops. And while Kerry did vote against one funding bill, he voted for numerous others. But Bush’s ad repeats a sound clip and says Kerry voted no, again and again, against very specific expenditures.</em></p>
+
+<p>This is the only clear lie I see that you mentioned (well, there&#8217;s the $900b thing, but I see that a bdifferently).  And in fact, it is actually true, but it implies something which is entirely false: that Kerry would have allowed our troops to go unfunded.</p>
+
+<p>And you miss the point, I think, when you say he voted for &#8220;numerous other [funding bills].&#8221;  The real point is that Kerry didn&#8217;t like how it was funded, and tried to change the method of funding, and that if he had his way, we would have paid the $87b <em>and</em> not increased the deficit (or at least, not nearly as much).</p>
+
+<p>But I&#8217;ve been defending Kerry on this since before Iowa, when he was beat up about it on Face the Nation.  He was asked something like, &#8220;so you would have allowed our troops to go unfunded?&#8221;  No, the whole point is that if his revolt were successful, he&#8217;d have had the power to change the bill.  That&#8217;s how legislation works.</p>
+
+<p class="posted">posted by <a href="http://slashdot.org/~pudge/journal">pudge</a> at March 22, 2004 03:11 PM <a href="#c766">#</a></p>
+
+</div><div id="c771">
+
+<p>Presumably the Kerry plan is: repeal the Bush tax cuts for the rich upper class, be careful about spending, pay down the deficit, use the resulting increased economic growth to receive a surplus, use the surplus to pay for the health care plan.</p>
+
+<p>Claiming that increased economic growth will cut the deficit is irresponsible, since a deficit retards economic growth, and the so-called stimulus tax cuts increase the deficit. It&#8217;s like claiming the rain will wash away the floods.</p>
+
+<p>The &#8220;wanted approval&#8221; thing is just word games. The ads says &#8220;And he wanted to delay defending America until the United Nations approved&#8221; while showing people in danger. The obvious implication is that if Kerry was in charge, we wouldn&#8217;t have gone in without UN approval, which is just wrong. Both the <em>New York Times</em> and the <em>Washington Post</em> <a href="http://mobile.azstarnet.com/sn/pdaopinion/14684.html">read the ad this way</a> and said the statement was incorrect.</p>
+
+<p>When has Kerry said terrorism doesn&#8217;t require military action? The top bullet point of <a href="http://www.johnkerry.com/pressroom/releases/pr&#95;2004&#95;0227a.html">his top page on terrorism</a> says &#8220;Use Direct Military Action&#8221;. </p>
+
+<p class="posted">posted by <a href="http://www.aaronsw.com/">Aaron Swartz</a> at March 22, 2004 04:04 PM <a href="#c771">#</a></p>
+
+</div><div id="c774">
+
+<p><em>Claiming that increased economic growth will cut the deficit is irresponsible, since a deficit retards economic growth</em></p>
+
+<p>In your opinion.  It did not retard growth in the mid-80s, and it did not retard growth in the last six months or whatever it&#8217;s been now.  That&#8217;s the whole point: these people believe we can help the economy with deficit spending, in the short term.</p>
+
+<p>I disagree with this policy, but it is certainly true that we can see economic growth with deficits (because we have done it and are doing it), and that that growth can be used to cut the deficit.  My problem with the policy is simply that I would rather simply cut spending.</p>
+
+<p>An even better attack against the policy is that Bush has significantly <em>increased</em> discretionary spending, while running a deficit (it might be acceptable if he were merely holding it steady).  The Democrats have a tough time with this argument though, because most of the discretionary increases are for things the Democrats want.  :-)  So they cannot attack the increases themselves, but instead attack the overall policy, which is far harder for most citizens to wrap their heads around.</p>
+
+<p>Anyway, the point is that Bush was blasted for saying increased revenues through growth will help reduce the deficit, even though we are seeing increased growth (well, it&#8217;s hiccupping now, but it wasn&#8217;t at the time this was brought out, in February or late January).</p>
+
+<p>So I won&#8217;t accept now, from Democrats, the claim that Kerry&#8217;s plan relies in increased revenue, especially since I don&#8217;t believe Kerry will be any better at increasing growth than Bush has been.  I think his plan for increased taxes on corporations and rich investors, and increased labor costs for businesses, will hurt the economy.</p>
+
+<p><em>The obvious implication is that if Kerry was in charge, we wouldn’t have gone in without UN approval, which is just wrong.</em></p>
+
+<p>Unacceptable.  The Bush ad says &#8220;delay.&#8221;  That word implies not inaction, but action at a later date, which is precisely what Kerry says he favored.  The statement is accurate, and I couldn&#8217;t care less if the NYT and Washington Post disagree.  :-)</p>
+
+<p>I want to provide a quote of him saying he wanted to wait longer, to go in with the UN, but I think there are many of them, and I need to go to post-op appt. (I had wrist surgery and I should stop typing now anyway &#8230;).</p>
+
+<p><em>When has Kerry said terrorism doesn’t require military action?</em></p>
+
+<p>That&#8217;s not what I said.  I didn&#8217;t say he would not use military action, but that the focus would not be military.  I am referring to his words here: <a HREF="http://www.nationalreview.com/comment/leibsohn_small200402100852.asp">&#8220;But [terrorism is] primarily an intelligence and law enforcement operation &#8230;&#8221;</a>.</p>
+
+<p>I am not criticizing Kerry&#8217;s position here (not now :-).  I am just saying that this is what the ad was likely referring to: a stated difference in approaches.  That Bush&#8217;s ad expresses it as an opinion with no real context is politics for you, but not a lie.</p>
+
+<p class="posted">posted by <a href="http://slashdot.org/~pudge/journal">pudge</a> at March 22, 2004 04:35 PM <a href="#c774">#</a></p>
+
+</div><div id="c801">
+
+<p>I turned on the TV on 9/11 for a current news item for an antiterrorism trilogy I&#8217;m working on. I sat like a lump for 2 weeks watching, listening, hurting, feeling impotent, having crying jags,like everyone else. At the end of the 2 weeks a few items were clear: CNN is not without an axe to grind, there would be a war in Iraq and Bush and the Bush White House were lying&#8212;took a few weeks for some of them to do it smoothly, but I wondered that everyone wasn&#8217;t commenting on it. But, I have to remind myself, Bush was allowed to enter the W.H. in a way that has no precedent. I watched R.Clarke testify. No wonder he&#8217;s had problems with &#8220;bosses&#8221;, the committee wasn&#8217;t listening on the level Clarke was speaking on. Hats off to the man. If you can, please tell him there is an American in Spain who wishes him well.</p>
+
+<p class="posted">posted by <a href="mailto:diandh@supercable.es">Diane Haun</a> at March 26, 2004 01:09 PM <a href="#c801">#</a></p>
+
+</div><div id="c808">
+
+<p><em>Bush was allowed to enter the W.H. in a way that has no precedent.</em></p>
+
+<p>How do you mean?  We&#8217;ve had courts render verdicts on electoral votes before.  Heck, we&#8217;ve had Presidents selected by Congress after they <em>lost</em> the electoral college, because no one had a majority.  Maybe no one has won the Presidency exactly as Bush has, but that&#8217;s not very interesting.  Don&#8217;t be fooled.</p>
+
+<p><em> watched R.Clarke testify. No wonder he’s had problems with “bosses”, the committee wasn’t listening on the level Clarke was speaking on.</em></p>
+
+<p>So when Clarke said in August 2002 that Bush had been working to eliminate al Qaeda in early 2001, Clarke was lying?  When he said that Bush had devoted a fivefold increase of funds to stopping al Qaeda, he was lying?  Or is he lying now when he says the Bush administration ignored his recommendations and didn&#8217;t take the problem seriously?</p>
+
+<p>Clarke: &#8220;President Bush told us in March (2001) to stop swatting at flies and just solve this problem.&#8221; That, Clarke said, changed U.S. national security policy &#8220;from one of rollback to one of elimination.&#8221;</p>
+
+<p>And now Clarke says he was ignored?  Huh?</p>
+
+<p>Clarke has said he didn&#8217;t get a chance to talk to Bush directly about terrorism until Sept. 11, but he met with Bush in July, and instead of talking about al Qaeda, he talked about cyberterrorism.  Why didn&#8217;t he talk about al Qaeda?</p>
+
+<p>Clarke chacracterizes the Bush administration as not treating the threat as seriously as Clinton did, and yet he previously said that Bush was changing the Clinton policy from rollback to elimination; that he increased funds to the threat; and that he kept all the Clinton-era projects against al Qaeda in place.</p>
+
+<p>Clarke has some serious credibility issues, as he has been, lately, directly contradicting his past statements.  He tries to brush it off as putting a positive spin on things, but that doesn&#8217;t wash: his statements are <em>directly contradictory.</em></p>
+
+<p class="posted">posted by <a href="http://slashdot.org/~pudge/journal">pudge</a> at March 27, 2004 08:47 AM <a href="#c808">#</a></p>
+
+</div><div id="c828">
+
+<p>pudge, Presidents being selected by Congress is how it was supposed to be done. It&#8217;s how its done in most other civilized countries, and it solves the problem of having a Congress and President divided (for two years, at least).</p>
+
+<p>Re Clarke&#8217;s &#8220;lies&#8221;, he&#8217;s been very clear on this if you haven&#8217;t been paying attention. He is a special advisor to the President, he wasn&#8217;t asked to lie, but he did mislead. When he said Bush had been working, he was referring to his own work. When he said that funds had been approved, he omitted that they hadn&#8217;t actually been authorized. Bush once said he wanted to stop swatting flies, but Condi buried things and Bush never asked again. The policy continued to be buried in low-level nonsense.</p>
+
+<p>Clarke talked about cyberterrorism because they wouldn&#8217;t give him permission to talk about terrorism. He asked repeatedly and they refused. I don&#8217;t think we should expect him to try to obtain time in the oval office under false pretenses.</p>
+
+<p>Clarke never contradicted himself, and you really need to be not paying attention to think that. His story is clear and credible: Bush ignored terrorism before 9/11 and he made things worse after 9/11. </p>
+
+<p class="posted">posted by <a href="http://www.aaronsw.com/">Aaron Swartz</a> at April  1, 2004 12:46 PM <a href="#c828">#</a></p>
+
+</div><div id="c829">
+
+<p>Re Kerry&#8217;s alleged quote. He later said: &#8220;Primarily means first. Secondarily means once you know who they are, and where they are, and what they&#8217;re planning, you can go get them.&#8221;</p>
+
+<p class="posted">posted by <a href="http://www.aaronsw.com/">Aaron Swartz</a> at April  1, 2004 12:50 PM <a href="#c829">#</a></p>
+
+</div><div id="c830">
+
+<p><em>pudge, Presidents being selected by Congress is how it was supposed to be done.</em></p>
+
+<p>No, it wasn&#8217;t.  Read your Constitution.  :-)  I am not sure what you mean by &#8220;supposed to be,&#8221; but not in this country, it wasn&#8217;t.</p>
+
+<p><em>Re Clarke’s “lies”, he’s been very clear on this if you haven’t been paying attention.</em></p>
+
+<p>Honestly, your defense of Clarke&#8217;s lies as not lies is absoultely incredible since you accuse Bush of lying when he engages in similar dissembling.  This partisanship you demonstrate is boring, and I can&#8217;t bother to play these silly games.</p>
+
+<p class="posted">posted by <a href="http://slashdot.org/~pudge/journal">pudge</a> at April  1, 2004 02:23 PM <a href="#c830">#</a></p>
+
+</div><div id="c832">
+
+<p>The Constitution says clearly that when there is no clear winner the House decides. This was modified by Amendment XII but the principle remains the same. I have heard that the Framers intended for the House to decide most of the time, since there would be numerous candidates winning and most of the time no single one would command a majority, but the Constitution takes no position either way. (This is certainly consistent with the Constitution, though: if the voters express a clear preference, then that person is President. If not, the legislators may confer amongst themselves and pick the best candidate from the top three.</p>
+
+<p>I am not saying that what Clarke did was right, or that what he said was truthful. It was obviously misleading. But it wasn&#8217;t like he did it out of his own initiative: he was forced to by the President. Whether you think Clarke made the right choice or not, this has no bearing on his credibility: he has no job, and it&#8217;s absurd to think the President asked him to lie and say what he&#8217;s saying now.</p>
+
+<p>Furthermore, the administration has not seriously contradicted any of his claims. When they have done so, they&#8217;ve lied in the same way you accuse Clarke of (there was no plan because we called it a series of options; we were at &#8220;battle stations&#8221; because we redefined the term), and they have not made any serious refutations under oath or with explanation, where as Clarke has sworn his allegations and explained them thoroughly.</p>
+
+<p>The only &#8220;credibility issues&#8221; here are the ones that people have struggled to invent. Do you seriously not believe what Clarke has said?</p>
+
+<p>(Bonus rhetorical question: if President Bush came forward denounced his administration, would you: a) reconsider your support of him; b) present evidence to contradict his claims; or c) claim that he couldn&#8217;t be trusted because he had a history of lying and spinning?) </p>
+
+<p class="posted">posted by <a href="http://www.aaronsw.com/">Aaron Swartz</a> at April  1, 2004 07:13 PM <a href="#c832">#</a></p>
+
+</div><div id="c834">
+
+<p><em>The Constitution says clearly that when there is no clear winner the House decides.</em></p>
+
+<p>Yes.</p>
+
+<p><em>I have heard that the Framers intended for the House to decide most of the time, since there would be numerous candidates winning and most of the time no single one would command a majority.</em></p>
+
+<p>I don&#8217;t buy it, and I&#8217;ve never seen one of the Framers say it.  Why make what you prefer to be the case, the backup position?  And further, it was recognized as a bit troublesome by the people of the United States, including Framers, when the Congress selected the sixth President (JQ Adams).</p>
+
+<p><em>But it wasn’t like he did it out of his own initiative: he was forced to by the President.</em></p>
+
+<p>First: you assume he is telling the truth now, and not then.  I won&#8217;t; he had motive before to lie (his job), and he has motive now (he is mad at the President for Iraq).  That is, I have no reason to presume he was lying before just because he had motive to, as he has motive now, too.</p>
+
+<p>Second: maybe you don&#8217;t do this (and maybe you do?), but Rice, Powell, Rumsfeld, and Cheney are all targetted &#8212; without mercy &#8212; as liars by the Democrats, whether Bush &#8220;forces&#8221; them or not.</p>
+
+<p><em>Furthermore, the administration has not seriously contradicted any of his claims.</em></p>
+
+<p>Most of his damaging &#8220;claims&#8221; are not factual in nature, but characterizations.  How can you refute &#8220;they thought it was important, but not urgent&#8221;?  The words themselves are not factual, and there is therefore no way to factually refute it.</p>
+
+<p>And then there&#8217;s the several statements where Clarke attempts to read other people&#8217;s minds, like saying he thought Rice didn&#8217;t know who al Qaeda was, or that Rumsfeld was disinterested, or that Bush wanted him to manufacture a link to Iraq.  What is anyone supposed to do with that?  &#8220;What you think I was thinking is incorrect.&#8221;</p>
+
+<p><em>Do you seriously not believe what Clarke has said?</em></p>
+
+<p>I do not believe his mind-readings or his unfactual characterizations, no.  I believe the actual facts.  I believe there was a meeting on such-and-such a date, that sort of thing, and it doesn&#8217;t really amount to much of significance.</p>
+
+<p>Even the 9/11 Commissioners &#8212; and not just the Republicans &#8212; expressed that they were taking the tone and characterizations of what he was saying with a bit of a grain of salt, looking primarily at the facts (facts which we mostly already knew about, two years ago).</p>
+
+<p class="posted">posted by <a href="http://slashdot.org/~pudge/journal">pudge</a> at April  1, 2004 11:07 PM <a href="#c834">#</a></p>
+
+</div><div id="c835">
+
+<p>BTW &#8230; it is not just me, and not just right-wingers who are saying Clarke lacks substance in his primary attacks.  Read what <a HREF="http://www.mclaughlin.com/library/transcript.asp?id=405">Lawrence O&#8217;Donnell had to say about Clarke in last week&#8217;s McLaughlin Group</a>.</p>
+
+<p>He says there is no evidence behind Clarke&#8217;s primary claim that we are worse off in the war on terror because of Iraq, and he says that his major pre-9/11 claim is more rhetoric than substance.</p>
+
+<p>In case you don&#8217;t know, O&#8217;Donnell is a (self-proclaimed) liberal socialist, political pundit, and writer/producer for The West Wing.  He&#8217;s no right-winger, let alone a Bush-lover, and he has been a big critic of the Bush administration regarding the war in Iraq.</p>
+
+<p class="posted">posted by <a href="http://slashdot.org/~pudge/journal">pudge</a> at April  2, 2004 11:27 AM <a href="#c835">#</a></p>
+
+</div><div id="c836">
+
+<p>I don&#8217;t think people think of Powell as a liar. They think of him as a stooge, as Clarke was. I mean, it&#8217;s clear from the copious first-person evidence that has poured out (O&#8217;Neill&#8217;s book and documents, Clarke&#8217;s book and testimony, Gen. Kerrick, Gen. Shelton, Rand Beers), news reports, and common sense what, for the most part, is going on:</p>
+
+<p>Rice, Rove, and Cheney form a wall around the President protecting him from contrary viewpoints. Rumsfeld is a hawk. Powell is a dove, but is a good soldier and goes along with it. O&#8217;Neill was a good person, but was forced out by the wall. Clarke couldn&#8217;t take it and quickly asked to be transferred to a job where he could do important work. While he was doing this work, they asked him to mislead the press, and he did. As soon as the work was done, he quit, wrote a book, and told people everything.</p>
+
+<p>It just seems incredibly unlikely that Clarke would make up a detailed story, write a book about it, find several people to lie and say it was true, swear to it under oath before an important commission, all because he didn&#8217;t like going to war with Iraq. And even that doesn&#8217;t explain why he received essentially no factual refutation from the White House, but only a grueling personal attack.</p>
+
+<p>But all that has nothing to do with the most damning charge: that the administration is not focused on the war on terror, and attacked Iraq at the expense of our safety. If he&#8217;s mad about that (as surely we all have a right to be), why would that make it any less true?</p>
+
+<p><em>How can you refute &#8220;they thought it was important, but not urgent&#8221;?</em></p>
+
+<p>Bush said that himself to Bob Woodward! Condoleeza Rice&#8217;s speeches and writings about the administrations plan on national security ignored terrorism. She was going to give  a speech on September 11 about national threats and terrorism was not mentioned. They delayed and delayed Clarke&#8217;s terrorism plan. All of these lead to one conclusion, which Clarke aptly summarizes.</p>
+
+<p>Now perhaps there was some separate, secret operation in the government that treated terrorism as an urgent concern, and went outside these normal channels (which is why we don&#8217;t see it in the evidence I list above). I guess that would refute Clarke&#8217;s claim. Oh wait, there was that operation! It was Clarke.</p>
+
+<p><em>he thought Rice didn&#8217;t know who al Qaeda</em></p>
+
+<p>Not only is this refutable, but you can also <a href="http://www.americanprogress.org/site/pp.asp?c=biJRJ8OVF&amp;b=39854#1">receive an autographed copy of Deliver Us From Evil</a> for refuting it. Simply find an example of Rice saying &#8220;al Qaeda&#8221; or &#8220;bin Laden&#8221; in public between Bush&#8217;s Inauguration and 9/11.</p>
+
+<p><em>Rumsfeld was disinterested</em></p>
+
+<p>Produce some memo or email where Rumsfeld showed some interest in Al-Qaeda. I mean, they have all the data over at the White House &#8212; it shouldn&#8217;t be hard.</p>
+
+<p><em>Bush wanted him to manufacture a link to Iraq</em></p>
+
+<p>They could at least come out and say that wasn&#8217;t true. Instead they said Clarke&#8217;s meeting probably happened. </p>
+
+<p>This isn&#8217;t even he-said she-said, it&#8217;s he-said she-ignores. Even giving them lots of benefit of the doubt, it&#8217;s not hard to figure out who&#8217;s telling the truth.</p>
+
+<p class="posted">posted by <a href="http://www.aaronsw.com/">Aaron Swartz</a> at April  2, 2004 11:44 AM <a href="#c836">#</a></p>
+
+</div><div id="c837">
+
+<p><em>Bush said that himself to Bob Woodward!</em></p>
+
+<p>That misses the point.  He thought it was not urgent in the same way that Clinton did.  What does it mean?  These words are subjective.</p>
+
+<p>And further, Clarke says that the urgency question is only important, substantively, in this way: that Clinton would have treated the problem with mmore urgency, and the way this might have made a difference is that they might have beaten the bushes more, looking for and finding evidence.  How can anyone prove or disprove either that Clinton&#8217;s administration would have done more, or that it would have made a difference?  Neither is provable; neither is factual.</p>
+
+<p><em>Condoleeza Rice’s speeches and writings about the administrations plan on national security ignored terrorism.</em></p>
+
+<p>So?  She clearly recognized it was a major threat, and so did Tenet.  That she didn&#8217;t mention it in public means what?</p>
+
+<p><em>She was going to give a speech on September 11 about national threats and terrorism was not mentioned.</em></p>
+
+<p>I have to think that when you say this as though it is meaningful that you are being intentionally deceptive.  We know that on September 10, she had just put the final touches on a plan to <em>eliminate</em> al Qaeda, and that it was waiting the President&#8217;s signature.  That it was not going to be mentioned in the speech means what?  Certainly, it cannot mean she didn&#8217;t think it was important, since we know for a fact she did.</p>
+
+<p><em>They delayed and delayed Clarke’s terrorism plan.</em></p>
+
+<p>You &#8212; again, I have to think intentionally, sorry &#8212; are trying to make it sound like they weren&#8217;t actively preparing to take substantial action.  We know that is false.  We know they were doing precisely that.</p>
+
+<p>And so what about this anyway?  This plan is largely irrelevant, because it is &#8212; according to Clarke &#8212; the same as what he proposed on Jan 25, and it would not have &#8212; according to Clarke &#8212; prevented 9/11.  So talking about delaying a plan they were working on that wouldn&#8217;t have prevented 9/11 anyway is just silly.</p>
+
+<p><em>Simply find an example of Rice saying “al Qaeda” or “bin Laden” in public between Bush’s Inauguration and 9/11.</em></p>
+
+<p>She talked about Bin Laden <em>before</em> Bush&#8217;s inauguration.  That she didn&#8217;t mention it before 9/11, when it is perfectly clear she was actively involved in discussions about Bin Laden and al Qaeda for months, is not interesting.</p>
+
+<p><em>Produce some memo or email where Rumsfeld showed some interest &#8230;</em></p>
+
+<p>This is the sound of you missing the point.  Rumsfeld was <em>not at that meeting</em>.</p>
+
+<p><em>They could at least come out and say that wasn’t true.</em></p>
+
+<p>They did, many times, categorically.  They denied without any equivocation that Bush never told or hinted that such a link should be manufactured.</p>
+
+<p class="posted">posted by <a href="http://slashdot.org/~pudge/journal">pudge</a> at April  2, 2004 12:37 PM <a href="#c837">#</a></p>
+
+</div><div id="c838">
+
+<p>Clinton thought it was urgent under similar circumstances (around the millenium). That&#8217;s why he took action and thwarted all the threats. But when Bush faced the unprecedented level of chatter and daily briefings from hair-on-fire George Tenet, he did nothing, except ask for a plan once, which Condi quickly scuttled.</p>
+
+<p>On January 9 Avie Tevanian finally signs off on a plan to create a weblogging product. On January 10 he gives a keynote about Apple&#8217;s software priorities, and doesn&#8217;t mention weblogging. (Ignore any motive to keep things from the competition, since that wasn&#8217;t a concern for Condi.) From this, I can conclude that Avie does not think weblogging is a serious priority. Then, when I later learn that despite a request from both Steve Jobs and a the man in charge of the weblogging team, he&#8217;s delayed the weblogging plan for months, I am further convinced that he is not particularly interested in weblogging. (Signing the plan a day before only underscores this!)</p>
+
+<p>The plan could possibly have stopped 9/11 if it had been executed in January, when it was completed. Many of the terrorists were still overseas, and we may have been able to track down the ones in the US based on information we recovered.</p>
+
+<p class="posted">posted by <a href="http://www.aaronsw.com/">Aaron Swartz</a> at April  2, 2004 01:44 PM <a href="#c838">#</a></p>
+
+</div><div id="c839">
+
+<p><em>Clinton thought it was urgent under similar circumstances (around the millenium).</em></p>
+
+<p>Yes, and other times he didn&#8217;t.</p>
+
+<p><em>That&#8217;s why he took action and thwarted all the threats.</em></p>
+
+<p>&#8220;Thwarted all threats&#8221;?  You sure you wanna go with that, since we know that it isn&#8217;t true?  Hello, USS Cole?</p>
+
+<p><em>But when Bush faced the unprecedented level of chatter and daily briefings from hair-on-fire George Tenet, he did nothing, except ask for a plan once, which Condi quickly scuttled.</em></p>
+
+<p>This is false.  Bush&#8217;s people attempted to find out as much as they could, which is what Clarke said Clinton would have done.  The plan was not scuttled &#8212; why do you keep spreading this lie? &#8212; it was pulled together within a few months and ready to go, and Clarke said that plan would not have prevented 9/11 anyway, even if it had gone into effect when he proposed it to them on Jan. 25.</p>
+
+<p><em>From this, I can conclude that Avie does not think weblogging is a serious priority.</em></p>
+
+<p>You can, yes.  But as the evidence you provide shows, you would be incorrect.  (Hint: there are other reasons for not mentioning things in public, apart from what you are talking about.  Any follower of Apple should know this better than most.)</p>
+
+<p>And again you talk about delaying and scuttling: <em>it is a lie</em>.  Saying she delayed it doesn&#8217;t make it true.  You need something called evidence.  And the 7+ months timeframe is no such evidence, because that&#8217;s actually a relatively short period of time for a new adminstration to go over everything.</p>
+
+<p>This plan had been essentially sitting on a shelf for a long while under Clinton.  Portions of it were over two years old.  Bush had no reason to think it should be executed immediately.  Yes, they lacked some sense of urgency, in the same way the prior administration did.</p>
+
+<p><em>The plan could possibly have stopped 9/11 if it had been executed in January, when it was completed.</em></p>
+
+<p>No one in the government believes this, on either side of the debate.  Clarke categorically denied it, without equivocation (emphasis mine):</p>
+
+<p>GORTON: Assuming that the recommendations that you made on January 25th of 2001, based on Delenda, based on Blue Sky, including aid to the Northern Alliance, which had been an agenda item at this point for two and a half years without any action, assuming that there had been more Predator reconnaissance missions, assuming that that had all been adopted say on January 26th, year 2001, <em>is there the remotest chance that it would have prevented 9/11</em>?</p>
+
+<p>CLARKE: No.</p>
+
+<p class="posted">posted by <a href="http://slashdot.org/~pudge/journal">pudge</a> at April  2, 2004 02:43 PM <a href="#c839">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/001188.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/mt-comments.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1188" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /><br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

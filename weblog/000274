@@ -1,0 +1,43 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>New Hacks (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000273" title="Problems with MakeAShorterLink" />	<link rel="next" href="000277" title="Copyright Terrorism" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>New Hacks</h1>
+</div>
+
+<div class="content">
+<p>Two new hacks: <a  href="http://www.aaronsw.com/2002/diff">HTML Diff</a> (<a href="http://www.aaronsw.com/2002/diff.py">source</a>) highlights the differences between two HTML pages (currently semi-broken, patches appreciated) and <a href="http://www.aaronsw.com/2002/atx">Aaron&#8217;s Text Converter</a> (<a href="http://www.aaronsw.com/2002/atx.py">source</a>) converts a form of structured ASCII into HTML.</p>
+
+<p class="posted">posted May 21, 2002 07:07 PM (<a class="category" href="cat_technology">Technology</a>)  <a href="000274" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000273" title="Problems with MakeAShorterLink">&laquo; prev</a> | <a href="./">up</a> | <a href="000277" title="Copyright Terrorism">next &raquo;</a></p>
+
+<p><a href="000261">Crypto History</a><br />
+<a href="000269">The Lawyers Strike Back</a><br />
+<a href="000270">Point-Headed Academics vs. Pointy-Haired Bosses</a><br />
+<a href="000272">Other</a><br />
+<a href="000273">Problems with MakeAShorterLink</a><br />
+<strong>New Hacks</strong><br />
+<a href="000277">Copyright Terrorism</a><br />
+<a href="000279">Emerging Technology 2002 Photos</a><br />
+<a href="000283">&#8220;Essential Blogging&#8221; for Review</a><br />
+<a href="000284">Other</a><br />
+<a href="000285">Microsoft Software So Insecure It Could Cost Lives</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

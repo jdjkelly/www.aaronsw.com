@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Who Writes Wikipedia? -- Responses (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Who Writes Wikipedia? &#8212; Responses</h1>
+
+<p>(<a href="whowriteswikipedia">back to Who writes Wikipedia?</a>)</p>
+
+<p>First, on a personal note, let me simply say thanks. I probably put more work yesterday&#8217;s post than anything else I&#8217;ve ever written. In addition to the research I describe, I&#8217;ve spent my free time the past few weeks going over the text of the article again and again, agonizing about the proper phrasing, getting everything just right. It was definitely worth it. My sincere thanks to everyone who made it possible.</p>
+
+<h2>Further research is needed</h2>
+
+<p>Getting down to business, many are interested in pursuing this line of quantitative research. The work I did was intended for an article, not a formal paper, and while I&#8217;m fairly confident the basic principles are correct there&#8217;s plenty more work to be done.</p>
+
+<p>I was heartened to discover research by Seth Anthony which, independently and more formally, came to largely the same conclusions. <a href="http://reddit.com/info/g9si/comments/cgc62">As he explained on Reddit</a>: &#8220;Only about 10% of all edits on Wikipedia actually add substantive content. Roughly a third of those edits are made by someone without an account, half of someone without a userpage (a minimal threshhold for considering whether someone is part of the &#8220;community&#8221;). The average content-adder has less than 200 edits: much less, in many cases.&#8221;</p>
+
+<p>One of the more interesting things Anthony did was look at the work of admins in detail. In his sample, he noticed that none of the genuinely substantive edits were done by official site admins. He found that when admins originally joined the site, they contributed a lot less frequently and consistently but created a lot more substantive content. After they became admins, however, they turned into what Anthony calls &#8220;janitors&#8221;.</p>
+
+<p>One of the wonderful things about Wikipedia is that literally all of the data &#8212; every single edit and practically every discussion made on or about the site &#8212; is easily available. So there&#8217;s an enormous amount more to learn about how it gets written. (In addition to nailing down what we know so far a little better.) If you&#8217;re interested to contributing to further research on this and related topics, <a href="mailto:me@aaronsw.com">send me an email</a> and I&#8217;ll try to coordinate something.</p>
+
+<h2>Who gets to vote?</h2>
+
+<p>Another response was to think about the implications on who gets to vote in Wikipedia elections. &#8216;I tried to vote,&#8217; <a href="http://www.aaronsw.com/weblog/whowriteswikipedia#c3">commented Eric</a>, &#8216;but since I am one of your &#8220;occasional contributors&#8221; (I&#8217;ve edited only one article to make content changes), I am not eligible[]. It appears that the opinions of &#8220;occasional contributors&#8221; will not be heard.&#8217; Others, including William Loughborough and Jason Clark, expressed similar sentiments. &#8216;HURRAH, I am DISENFRANCHISED&#8217;, <a href="http://www.aaronsw.com/weblog/whowriteswikipedia#c29">complained Bill Coderre</a>.</p>
+
+<h2>Alienating the world</h2>
+
+<p>But by far the most common response was people sharing their experience trying to contribute to Wikipedia, only to see their contributions be quickly reverted or rewritten.</p>
+
+<p>&#8216;You can definately tell the &#8220;regulars&#8221; on Wikipedia&#8217;, <a href="http://reddit.com/info/g9si/comments/cga0i">joshd noted</a>. &#8216;They&#8217;re the ones who &#8230; delete your newly reate[d] article without hesitation, or revert your changes and accuse you of vandalis[m] without even checking the changes you made.&#8217; &#8216;Every modification I made was deleted without any comment&#8217;, <a href="http://www.aaronsw.com/weblog/whowriteswikipedia#c17">complained CafeCafe</a>. &#8216;I know there are a lot of people like me willing to help, but unless there is a real discussion behind, I won&#8217;t waste my time to help anymore which is a sad thing.&#8217;</p>
+
+<p><a href="http://www.aaronsw.com/weblog/whowriteswikipedia#c17">bowerbird complained</a> that &#8216;my contributions &#8230; have been warped by people who merely want to &#8220;make it sound like an encyclopedia&#8221; without having any knowledge of the topic&#8217; <a href="http://www.aaronsw.com/weblog/whowriteswikipedia#c19">while Ian</a> &#8216;got fed up of the self-appointed officious jobsworths who [rewrite your] things [to] fit &#8220;their vision&#8221; &#8230; . My time is too valuable to argue with these people&#8230;&#8217;</p>
+
+<p><a href="http://www.aaronsw.com/weblog/whowriteswikipedia#c29">Bill Coderre told</a> of how he wrote entire articles from scratch, only to see them ruined &#8216;by some super-editors, who removed content, and turned what I thought was gosh-darn good writing into crap. &#8230; These people, by and large, &#8220;edited&#8221; thousands of articles. In most cases, these edits were to remove material that they found unsuitable. Indeed, some of the people-history pages contained little &#8220;awards&#8221; that people gave each other &#8212; for removing content from Wikipedia.&#8217;</p>
+
+<p>And it seems like half of all the people I meet have a story about being listed for deletion and the nasty insults that ensued. Seriously, there have been numerous times I&#8217;ve said something about Wikipedia to a relatively well-known person and they responded back with a story about how someone insulted and deleted them. &#8216;[T]here are culture vultures overlooking Wkidpedia waiting to kill anything that doesn&#8217;t fit the norm&#8217;, <a href="http://www.mediangler.com/2006/09/04/who-writes-wikipedia-but-where-do-you-go-for-this-data-european-web-20-again-chuquet/">wrote Mediangler</a>.</p>
+
+<p>Why does this matter? Why should we listen to the angry complaints of random people on the Internet? If occasional contributors are the lifeblood of Wikipedia, as the evidence suggests, then alienating such people just can&#8217;t be healthy for the project. As Ian wrote, &#8216;if we are to invest our valuable time contributing some expert knowledge on some subject, we want to know that our work will remain there for others, and not just keep getting reverted out in seconds by some control freak that knows nothing about the actual subject. &#8230; your article proves the exist[e]nce of this &#8220;inner gang&#8221; that I feel are actually holding Wikipedia back. To allow Wikipedia to grow and really pick the brains of the experts around the world, you need to do something to break up this inner gang and the mini empires they are building for themselves.&#8217;</p>
+
+<p>Perhaps we can improve things with new rules (not only should you <a href="http://en.wikipedia.org/wiki/WP:BITE">not bite the newcomers</a>, you shouldn&#8217;t even bark at them) and new software (making it easier to discuss changes and defend contributions), but most importantly, it&#8217;s going to require a cultural shift. Larry Sanger famously suggested that <a href="http://www.kuro5hin.org/story/2004/12/30/142458/25">Wikipedia must jettison its anti-elitism</a> so that experts could feel more comfortable contributing. I think the real solution is the opposite: Wikipedians must jettison their <em>elitism</em> and welcome the newbie masses as genuine contributors to the project, as people to respect, not filter out.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">September  5, 2006</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<blockquote>
+  <p>Why does this matter? Why should we listen to the 
+  angry complaints of random people on the Internet?</p>
+</blockquote>
+
+<p>That is actually a lot more imortant than just being a rhetorical question. You have linked to a lot of claims, but before taking any of them at face value, you should investigate them. And I am not saying this to  insult the people that commented, but because of my own experience administrating/moderating a medium sized community (small by wikipedia standards).
+As you would know from politics, there is radically different ways of looking at and describing certain actions and deletions. And it is especially the casual users that (obviously) lack detailed knowledge on rules and conventions (again, this is not put anybody down, it&#8217;s quite normal for people who do not invest time into a project/community). I mean, everybody agrees that those people shouldn&#8217;t feel that way; disagreements are on how to achieve that end (in balance with the other goals).</p>
+
+<p>One more thing: You seem to have learned your lesson from following politics.;) You bring up a common issue that is suffcicently generally phrased so that many people can identify with it. (&#8220;Yeah, I wrote something once, and somebody else edited it out&#8221;). Yet, even if you had actually proposed measures against the problem (which you didn&#8217;t), those measures couly only affect a minority of edits - because by and large (I am guessing here) the big majority of edits seem actually necessary to most people familiar with Wikipedia, including probably you. Would you actually improve the situation such, that all those people that you quote from the comments, would have a better experience next time? Hard to say, because you neither you nor I actually which rules those people ran up against.</p>
+
+<p>Being newbie friendly (which I feel is where this going at) all the time is a super-hard job, and finding people that want to (or even are able to) spend a lot of their time being newbie-friendly is exceptionally hard. The problem here is not process or rules, it&#8217;s the sheer amount of newbies and their (on average) stupidity. Are you familiar with the usenet expression &#8220;the eternal september&#8221;&#8230;?</p>
+
+<p>I am sure I don&#8217;t have to link to Shirky&#8217;s piece on the worst enemy of a group. I&#8217;ll just quote No. 2 of his conclusions - though I&#8217;ll leave it open on how to interpret and apply that to Wikipedia:</p>
+
+<blockquote>
+  <p>2.) The second thing you have to accept: Members
+   are different than users. A pattern will arise 
+  in which there is some group of users that cares
+   more than average about the integrity and 
+  success of the group as a whole. And that 
+  becomes your core group, Art Kleiner&#8217;s phrase 
+  for &#8220;the group within the group that matters 
+  most.&#8221;</p>
+</blockquote>
+
+<p>I would be interested in how you bring this together with how you would want to see Wikipedia organized in terms of rules, process or people (if you agree with Shirky on that, that is).</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.sencer.de">Sencer</a>
+ on September  5, 2006 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>I think Sencer&#8217;s comment brings a bit of balance to the discussion but as somebody who has had material immediately reversed out on wikipedia - it was around a piece of corporate information - I would like to assure you it happened and it was shocking how quicly it happened. My concern with that is it felt liek censorship. What can be done differently - I think there has to be scope to allow competing or divergent views on a subject or issue such that the keeper of the main post cannot be the keeper of a divergent post.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.mediangler.com">haydn</a>
+ on September  5, 2006 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>I wondered about the following,</p>
+
+<ul>
+<li><p>Still Gang of 500 or 1000 might remain strong or good enough even you get a position. What are the substantial analysis about those people? Who are they, and why they came to behave and act such ways? Is that how &#8216;experts&#8217; grow and come to hold certain mindsets? (Lewontin, I think, talk about this problem[not solutions or answers though].) Or what they went through? how it looks from their positions and their side of stories? No effective communication possible with those who labeled as &#8216;gangs&#8217;?</p></li>
+<li><p>And by getting you elected, how that could/would really, substantially change? You need to persuade 500 gangs - or you don&#8217;t have to do that, you just can keep low entry setting open, and software design tweaks, and then - that kind of 500 gangs would just - change? (or melt away?)</p></li>
+<li><p>Before saying like &#8216;Alienating the world&#8217;, can we know about how Jimbo Wales and his 400 or 500 close Wiki tops are talking, discussing? Are those discussions&#8217; contents are accessible to everyone? or not? (No Monthly letter from Wiki HQ? But we only have Jimbo&#8217;s rubber stamp talks at several hundreds locations?)</p></li>
+<li><p>Aren&#8217;t these related to the issue of handling of POVs - neutrality, impartiality and so on?</p></li>
+</ul>
+
+<p>Maybe more fine point, but maybe also crucial, is, like old? - Ward Cunningham&#8217;s Wiki had &#8216;no deletion&#8217; encouraged policy, even advanced users, or &#8216;gangs&#8217; weren&#8217;t encouraged to do that. It said it&#8217;s against Wiki&#8217;s spirit. Rather, if you are advanced,</p>
+
+<p>1: you need to be able to handle newbies, and get them to learn how to do difficult stuff. (say POVs handling, moderation over disagreement&#8230;)</p>
+
+<p>2: don&#8217;t delete - keep it somewhere recorded and work from there, with &#8216;newbies/someone with (radically?) different perspective, information, opinion and so on.</p>
+
+<p>And they talked about this as important thing, so that Wiki won&#8217;t become something like UseNet, which sank itself into regular flamers roaming pool. (How that happened? - among people. UseNet had some ideals and spirits too&#8230;)</p>
+
+<p>I wonder how not to repeat, what could give us, assist us to bring change in all this.</p>
+
+<p class="posted">posted by a.kusaka
+ on September  5, 2006 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>Great set of posts, thanks.</p>
+
+<p>I don&#8217;t know what kind of mining efforts there have been on the wiki corpus so far, but I can offer a couple of suggestions that spring to mind.</p>
+
+<p>I&#8217;m often driven to distraction by wikipedia&#8217;s clumsy prose.  A random example: &#8220;Since 1992, the current leader and Secretary-General of Hezbollah is Sheikh Sayyed Hassan Nasrallah.&#8221;  It would be interesting to focus on those edits that don&#8217;t alter the substance of a sentence.  E.g., I ran that one through Lingua::LinkParser, and it failed.  But then I fixed it up a bit, and it parsed just fine: &#8220;Sheikh Sayyed Hassan Nasrallah has been the leader and Secretary-General of Hezbollah since 1992.&#8221;  In a perfect world, you&#8217;d have a routine to preemptively suggest better grammar. But in our imperfect world, authors should get fine-grained feedback about these problems.</p>
+
+<p>On a related note, I notice an awful lot of passive voice on wikipedia.  &#8220;It is claimed that [Anderson] Cooper &#8216;doesn&#8217;t drink hot beverages&#8217;&#8221; or &#8220;His height is reported to be no more than 5&#8217; 10&#8221;.  A lot of that may simply indicate unsourced claims, but I suspect overall there&#8217;s more to it: that it&#8217;s a form of defensive prose, perhaps to ward off summary deletions.  It would be fun to compare a sample of authors&#8217; wiki posts to their blog posts, if that information were available, to spot any interesting grammatical differences.</p>
+
+<p>I also wonder if there&#8217;s been any fine-grained analysis of the more volatile pages, the ones whose content changes the most.  Can this lead to any predictive routines about a text&#8217;s level of controversy?  Perhaps even more useful information than a section-level notice of a dispute.  I nooded around with a routine to stratify argument threads within blog comment sections, but didn&#8217;t get this far.  I assume others have worked on this problem, though.</p>
+
+<p class="posted">posted by Mike Sierra
+ on September  5, 2006 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>Bravo for this series of Wikipedia articles and the research behind them, Aaron. I for one was terribly dissapointed to find that I was ineligible to vote for you. I wonder how many Wikipedia super-editors would have the knowledge required to knit together the genetics, pathology, biochemistry, and related articles that I have. It is also apparently to bad for me that I do many of my edits from the medical library computers and don&#8217;t bother to sign into Wikipedia before making the edits as well. (This is also from a library computer, so maybe you can find how many Wikipedia edits are from the block of IP addresses that this letter is sent from.)</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://nielsolson.us/">Niels Olson</a>
+ on September  5, 2006 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c6">
+<p>Aaron, this isn&#8217;t a wikipedia election. It&#8217;s a Wikimedia Foundation election. There&#8217;s a difference: one is the name its authors give to the content it&#8217;s known for, the other is the web host for the content. With some people involved in both.</p>
+
+<p class="posted">posted by James
+ on September  7, 2006 <a href="#c6" rel="bookmark">#</a></p>
+</div>
+<div id="c7">
+<p>The vast majority of these complaints against wikipedia are complaints for which there are no possible solutions.</p>
+
+<p>&#8220;My article got deleted, therefore wikipedia sucks&#8221;.  &#8220;I added content to an article, which was promptly removed, therefore wikipedia sucks&#8221;.  &#8220;I took some content out of an article which I thought was false, and it was put right back in, therefore wikipedia sucks&#8221;.</p>
+
+<p>How can any of the above possibly go any differently?  Articles are going to be deleted, as wikipedia cannot simply have articles on everything, from &#8220;my dog Bonkers&#8221; to &#8220;George Bush is a tard!&#8221;.  Editors are going to disagree with one another and revert each other&#8217;s edits, that is the nature of wikis.</p>
+
+<p>As for all the &#8220;I couldn&#8217;t vote, I don&#8217;t have enough edits, this is unfair&#8221;, how else is vote stacking going to be prevented?  If people with few or no edits can vote, they can make 1000 accounts and stuff the ballot for their candidate.</p>
+
+<p>These complaints are like someone new to the process of driving saying, &#8220;This road system sucks, I want to be able to drive on both sides of the road, and these stop signs and stop lights are wasting everyone&#8217;s time, and other drivers are driving badly and I hate that and something should be done, and also I don&#8217;t want to ever get a traffic ticket, and the roads should be 10 times wider, except my taxes shouldn&#8217;t be raised to pay for those wide roads&#8221;.</p>
+
+<p class="posted">posted by xyzzyplugh
+ on September  9, 2006 <a href="#c7" rel="bookmark">#</a></p>
+</div>
+<div id="c45">
+<p>xyzzyplugh&#8217;s analogy to driving unintentionally illustrates one of the big flaws common in community developed knowledge bases&#8212;the tendency for &#8220;groupthink&#8221; to oppose ideas that run contrary to that which &#8220;everyone knows&#8221;.  There is evidence to suggest that removing traffic lights, stop signs, lane markers, etc. actually improves safety and reduces accidents.  See the story on one such experiment, in The Netherlands, here:</p>
+
+<p>http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2006/11/04/ntraffic04.xml</p>
+
+<p>As has been famously said, &#8220;If everyone knows a thing, 100 to 1 it isn&#8217;t true&#8221;.</p>
+
+<p class="posted">posted by Andrew Birner
+ on January 31, 2007 <a href="#c45" rel="bookmark">#</a></p>
+</div>
+<div id="c47">
+<p>I hate wiki, and know at least a couple dozen professionals like myself who work in our respective fields who also groan or wince a little whenever wiki is merely mentioned.</p>
+
+<p>And I think that the wiki people know what the problem is, I mean, come on guys, all you need to do is look at who it is that&#8217;s deleting and abusing new contributors.  But nobody is ever actually held accountable, and wiki quickly takes on the feel to newcomers of a really crappy and elitist early 90&#8217;s BBS.</p>
+
+<p>Now that wiki is removing so many useful links, many of them which clearly show that the little wiki nazi&#8217;s have edited the article to be decidedly on-NPOV, wiki has become a really sad joke.</p>
+
+<p>Good luck with removing links and telling specialists in their fields that they can&#8217;t make corrections, and with the little awards for what, for making entries not just mediocre, but inaccurate and in many cases absurd.</p>
+
+<p class="posted">posted by Todd
+ on March  9, 2007 <a href="#c47" rel="bookmark">#</a></p>
+</div>
+<div id="c48">
+<p>I am an expert in a particular field.  I found the quality of wikipedia information highly variable.  Some articles were good.  Others had inaccurate and sometimes completely wrong information.</p>
+
+<p>Still other articles are zealously guarded by a group who are able to effectively censor information through a variety of techniques.  This discourages experts.  As a result, I only contribute occasionally.  When I do, it&#8217;s for unimportant stuff, like cartoon characters and TV shows.</p>
+
+<p class="posted">posted by John R.
+ on May 21, 2007 <a href="#c48" rel="bookmark">#</a></p>
+</div>
+<div id="c53">
+<p>I hate wikipedia too that&#8217;s why I made my own wiki, no articles are rejected (although there is a theme, basically computers,PSP, etc..)</p>
+
+<p>http://bestwikiever.wikidot.com is the site that&#8217;s gonna replace wikipedia!</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://bestwikiever.wikidot.com">Mike</a>
+ on September 13, 2007 <a href="#c53" rel="bookmark">#</a></p>
+</div>
+<div id="c62">
+<p>Wikipedia run by 12 year old schoolboys for 12 year old schoolboys.</p>
+
+<p>I am not joking I had a lot of work deleted by a 13 year old, with numerous wiki medals.</p>
+
+<p>I promptly left the site.</p>
+
+<p>Do yourself a favour use proper resources such as libraries, actual websites or proper encylopedias
+such as Britannica.</p>
+
+<p>Also don&#8217;t donate money to wiki until they become a geniune resource aimed at there customers rather than an unaccountable inner elite.</p>
+
+<p class="posted">posted by Jack
+ on February 14, 2008 <a href="#c62" rel="bookmark">#</a></p>
+</div>
+<div id="c64">
+<p>To be honest, Wikipedia is a place where, if more users agree with you on anything, they become correct. It doesn&#8217;t matter if it&#8217;s a picture of a penis ejaculating ont he front page of a ejaculation page, if dogs are used as meat in the US, or if Christian bands play Christian music. Wikipedia&#8217;s editors have no creditials. I&#8217;m saying this because I used to edit Wikipedia for years until I realized that what I did had little effect on anything.</p>
+
+<p class="posted">posted by JimRoland
+ on July  5, 2008 <a href="#c64" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="whowritescomments" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

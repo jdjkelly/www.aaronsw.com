@@ -1,0 +1,51 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Is the Treo ideal? (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000784" title="install in cron.yearly" />	<link rel="next" href="000789" title="Classic PowerPoint Presentations" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Is the Treo ideal?</h1>
+</div>
+
+<div class="content">
+<p>I wrote up my requirements for <a href="http://www.aaronsw.com/weblog/000783">the ideal PDA</a> and got a bunch of suggestions.</p>
+
+<p>The best so far seems to be <a href="http://www.handspring.com/products/treo/">the Treo 180</a>. It&#8217;s got a reasonably sized screen, a keyboard, runs PalmOS, works with T-Mobile&#8217;s GPRS, and functions as a cell phone.</p>
+
+<p>It comes with a web browser, has at least one IMAP client (MultiMail Pro), and has <a href="http://online.offshore.com.ai/~iang/TGssh/">an SSH client written by Ian Goldberg</a>. You can write third-party apps and you can run <a href="http://pippy.sourceforge.net/">Pippy, a Python interpreter</a> on it.</p>
+
+<p>Best of all, if you order before January 31, <a href="http://www.handspring.com/promos/99_rebate.jhtml">it&#8217;s only $99 with a one-year cell-phone contract and 121 days of Internet service</a>.</p>
+
+<p>Other suggestions: <a href="http://www.peerfear.org/rss/permalink/2003/01/03/1041582080-Ideal_PDA.shtml">Sharp Zaurus</a>, <a href="http://www.samsungusa.com/cgi-bin/nabc/prod/hhcommerce/telecommunications/sph_i330_features.jsp">Samsung i330</a>, <a href="http://www.sonyericsson.com/P800/">P800</a>, <a href="http://www.kyocera-wireless.com/7100_phone/7100_phone_series.htm">Kyocera 7100</a>.</p>
+
+<p class="posted">posted January 03, 2003 04:16 PM (<a class="category" href="cat_technology">Technology</a>)  <a href="000788" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000784" title="install in cron.yearly">&laquo; prev</a> | <a href="./">up</a> | <a href="000789" title="Classic PowerPoint Presentations">next &raquo;</a></p>
+
+<p><a href="000779">what should I do with my life?</a><br />
+<a href="000780">secroll</a><br />
+<a href="000781">Wireless &#8220;Security&#8221;</a><br />
+<a href="000783">Ideal PDA</a><br />
+<a href="000784">install in cron.yearly</a><br />
+<strong>Is the Treo ideal?</strong><br />
+<a href="000789">Classic PowerPoint Presentations</a><br />
+<a href="000790">How Misleading Can You Get?</a><br />
+<a href="000791">growth spurt</a><br />
+<a href="000792">Get your $20 from the music companies!</a><br />
+<a href="000793">Apple Goodies</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

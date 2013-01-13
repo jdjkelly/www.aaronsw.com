@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>A Better Travel Guide for Geeks (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>A Better Travel Guide for Geeks</h1>
+
+<p>Pretty much anywhere you go, you can find some pretty scenery, a charming hotel, some decent restaurants, a couple of interesting museums. And the goal of most travel guides seems to be to tell you about these things. The result is a rather boring sort of tourism in which everywhere feels pretty much like everywhere else.</p>
+
+<p>What I want is a travel guide that highlights the things that are absolutely different about this place than anywhere else you might go &#8212; the things you can&#8217;t see anywhere else. For my hometown of Cambridge, it might be the window displays on Main St. that explain how to sequence DNA, or the architectural marvels of <a href="http://web.mit.edu/facilities/construction/completed/stata.html">Stata</a>, <a href="http://web.mit.edu/facilities/construction/completed/bcs.html">BCS</a>, and <a href="http://web.mit.edu/facilities/construction/completed/simmons.html">Simmons</a>. In Boston, maybe it&#8217;s the <a href="https://secure.wikimedia.org/wikipedia/en/wiki/Boston_Athen%C3%A6um">Athenæum</a> or the <a href="https://twitpic.com/3djvad"><em>Globe</em> factory tour</a>. In West Virginia, maybe it&#8217;s going to see mountaintop removal or some back-to-the-land communes.</p>
+
+<p>And maybe the right thing to do is to head somewhere else. Normal guidebooks are separated out by city and state, so if the coolest thing in Boston is actually to commute up to Providence, you&#8217;d never hear about it. But you&#8217;d put this guidebook on the Internet, so you&#8217;d give it your location and it&#8217;d tell you what was awesome nearby no matter what political jurisdiction it happened to be in.</p>
+
+<p>Anyone know anything like that?</p>
+
+<p><strong>Related things:</strong> Ben Goldacre&#8217;s list of <a href="https://bengoldacre.posterous.com/nerdy-day-trips-tell-us-about-yours-well-buil">Nerdy Day Trips</a> in the UK. jgc&#8217;s <a href="http://www.geekatlas.com/">Geek Atlas</a> lists cool science and technology places. <a href="http://atlasobscura.com/">Atlas Obscura</a> lists curiosities. <a href="http://wikitravel.org/en/Main_Page">WikiTravel</a> lets you add places of your own. I&#8217;m told Lonely Planet has some stuff like this. <em><a href="http://books.theinfo.org/go/0805082093">Smile When You&#8217;re Lying</a></em> is an amusing account of the distortionary forces on the average travel guide.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">September  4, 2011</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>A website I built (years ago, using web.py) - http://traveldk.com/ - gives users the tools to build custom travel guides. Maybe that would be a good place to start? I can contribute some info for the UK and Palestine.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://intellectronica.net/">Tom Berger</a>
+ on September  4, 2011 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>Hi, maybe you like Mediamatic Travel (http://travel.mediamatic.net/). They have their focus on the things that you don&#8217;t read in the tourist books.</p>
+
+<blockquote>
+  <p>The Mediamatic Travel website acts as a network of cultural professionals from all over the world. It provides an open platform where they can exchange information about the unseen or underground culture in their city. Things you normally won&#8217;t find in your average travel agency.</p>
+</blockquote>
+
+<p class="posted">posted by Lode Claassen
+ on September  4, 2011 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>GeoCashing for travel activities.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="about.me/markwhiting">Mark Whiting</a>
+ on September  5, 2011 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>I would ask on http://travel.stackexchange.com (kinda StackOverflow for travelers).</p>
+
+<p>http://travel.stackexchange.com/questions/1411/what-are-more-authentic-places-in-london-as-opposed-to-the-ones-overcrowded-with</p>
+
+<p>Not the guides, but again, you can ask people there about the guides.</p>
+
+<p class="posted">posted by Dan Abramov
+ on September 10, 2011 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="bettertravel" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

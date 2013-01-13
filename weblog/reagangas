@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>High Gas Prices Are Reagan's Fault (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>High Gas Prices Are Reagan&#8217;s Fault</h1>
+
+<p>A decade from now, when the seas begin to rise and the earth begins to boil, who will get blamed? Surely not George W. Bush, who spent 8 crucial years denying the problem, slowing the movement of other countries, and giving India and China an excuse for delay.</p>
+
+<p>As evidence, look at what happen to Jimmy Carter. He called for a national investment in alternative energy so that gas-guzzling cars would be a thing of the past. Reagan scuttled all that and today as oil prices rise we have very little in the way of alternatives ready. But the sainted Reagan is never blamed.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">September 18, 2008</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>I dunno what blogs you&#8217;ve been reading, but I&#8217;ve seen Reagan being blamed for months now.</p>
+
+<p class="posted">posted by James
+ on September 19, 2008 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>&#8220;scuttled&#8221; not &#8220;scuffled&#8221;</p>
+
+<p class="posted">posted by Susan
+ on September 21, 2008 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>Sainted Reagan did not believe that meddling in markets was the solution.  You apparently do.*  From the standpoint of correlation, we have only <em>theories</em> that say we will be boiling in 10 years.  I am old enough (not very much older than you, ironically) to remember Time Magazine and many other popular periodicals warning of a coming Ice Age (along with the typical news rags). I remain skeptical.  Those were convincing theories then as [the new ones] are now.
+<em>Markets always find ways around meddling.  The fact remains that petrol offers the most easily exploited amount of energy per unit compared to other energies.  Wishing it weren&#8217;t so doesn&#8217;t change it.  Artificial scarcity does not solve this when there are *not</em> alternatives yet.  Carter cannot be applauded nor Reagan blamed.  Technology and innovation guided by real and actual need and real and actual solutions will lead to alternatives - not some pandering politician nor alarmists who make bold claims about the future that are not backed up by solid evidence that we expect when confirming or debunking widely held theories.
+My 2c.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://stevenfettig.com/mythoughts/">steven n fettig</a>
+ on September 25, 2008 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="reagangas" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

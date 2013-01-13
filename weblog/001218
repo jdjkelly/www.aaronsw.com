@@ -1,0 +1,208 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Presidential Candidate Bob Williams, part 5: The Verdict of History (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001218.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001215" title="Presidential Candidate Bob Williams, part 4: Political Debate" />	<link rel="next" href="001222" title="Physics&#8217;s Puzzle" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Presidential Candidate Bob Williams, part 5: The Verdict of History</h1>
+</div>
+
+<div class="content">
+<p>Following a campaign which focused intensely on the serial-killing-nature of then-President Roberts, the Republicans, led by Bob Williams, won a landslide victory. After becoming President, one of Williams&#8217;s first acts was pardon and release a man he said had been wrongfully imprisoned for the murders of Bob Williams.</p>
+
+<p>But the Williams administration was also quickly rocked by a scandal when it was discovered that a top cabinet official was receiving bribes in exchange for easing regulations on a major energy company. President Roberts&#8217;s murderous tendencies, apparently under control during his time in public service, came back with a vengeance as he brutally murdered the cabinet official in question. He was quickly apprehended and convicted, but continued to claim he was innoncent while serving his life sentence.</p>
+
+<p>However, Roberts must have had associates, for even after he was imprisoned the murders continued, although somewhat less accurately than before. Instead of murdering the most conservative Supreme Court Justice, the Roberts gang murdered the most liberal one, allowing Williams to nominate a extermely conservative one in his stead. The Roberts gang, apparently using their access as associates of a former President, even followed Williams on trips out-of-state, where they murdered high-level foreign officials who disagreed with US policy. Unfortunately the gang was never caught, for FBI and other investigatory officials were found murdered whenever they got too close to the case.</p>
+
+<p>Following a wave of sympathy over the deaths, as well as non-stop news coverage, Williams received some of the highest poll numbers in history, allowing him to pass an impressive legislative agenda. While some tried to call attention to the bills being passed, they were quickly investigated as being part of the Roberts gang &#8212; trying to draw attention away from the murders so they would not get caught.</p>
+
+<p>Williams easily won reelection, and cemented a Republican majority in the House and Senate. But he is most remebered for the tragic deaths he brought to light and tried so very hard to stop.</p>
+
+<p class="posted">posted April 30, 2004 11:19 AM (<a class="category" href="cat_politics">Politics</a>) (<a href="#comments">6 comments</a>) <a href="001218" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001215" title="Presidential Candidate Bob Williams, part 4: Political Debate">&laquo; prev</a> | <a href="./">up</a> | <a href="001222" title="Physics&amp;#8217;s Puzzle">next &raquo;</a></p>
+
+<p><a href="001204">Press Clipping</a><br />
+<a href="001205">Presidential Candidate Bob Williams, part 1: Excerpts from Public Speeches</a><br />
+<a href="001206">Presidential Candidate Bob Williams, part 2: Television Commentary</a><br />
+<a href="001207">Presidential Candidate Bob Williams, part 3: Newspaper Headlines</a><br />
+<a href="001215">Presidential Candidate Bob Williams, part 4: Political Debate</a><br />
+<strong>Presidential Candidate Bob Williams, part 5: The Verdict of History</strong><br />
+<a href="001222">Physics&#8217;s Puzzle</a><br />
+<a href="001223">Where&#8217;s Okrent? The End of the Times</a><br />
+<a href="001224">Misreading Jefferson is Sinful and Tyrannical</a><br />
+<a href="001225">[REDACTED]</a><br />
+<a href="001226">All News is Bad News</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c942">
+
+<p>These have been totally twisted&#8230; I love &#8216;em </p>
+
+<p>thanks for the laughs</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.davtri.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=942">Dave</a> at April 30, 2004 03:57 PM <a href="#c942">#</a></p>
+
+</div><div id="c965">
+
+<p>I was reading the first few and feared they might end poorly, and my fears have been realized.  I was hoping this would turn out to be a fair attack on the process, not a partisan attack on one particular side of the aisle.  So sad.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://slashdot.org/~pudge/journal" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=965">pudge</a> at May  4, 2004 12:23 PM <a href="#c965">#</a></p>
+
+</div><div id="c966">
+
+<p>I didn&#8217;t mean for it to be a partisan attack; what made you think it was?</p>
+
+<p>On reflection, I probably should have reversed who was the Democrat and who was the Republican, but that would&#8217;ve ruined my Fox joke. However, the attack was aimed at the language of politics, not the players. Obviously neither side has abused their platform to this extent, but I don&#8217;t think it&#8217;s too far-fetched to suggest they could.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=966">Aaron Swartz</a> at May  4, 2004 02:22 PM <a href="#c966">#</a></p>
+
+</div><div id="c969">
+
+<p><em>I didn’t mean for it to be a partisan attack; what made you think it was?</em></p>
+
+<p>The thing about the energy company, which is a charge levelled by some Democrats against Cheney.  Eh, maybe I am reading too much into it.  The party thing didn&#8217;t bother me, and yeah, Fox is open to get slammed there.  :-)</p>
+
+<p class="posted">posted by <a target="_blank" title="http://slashdot.org/~pudge/journal" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=969">pudge</a> at May  4, 2004 03:43 PM <a href="#c969">#</a></p>
+
+</div><div id="c970">
+
+<p><em>Obviously neither side has abused their platform to this extent, but I don’t think it’s too far-fetched to suggest they could.</em></p>
+
+<p>I think it is a bit far-fetched.  :-)  Regardless, yes, both sides are quite annoyingly ridiculous.  I would have felt sorry for Kerry and the attacks on him over his medals, but he attacked Bush in almost the exact same way (that is, saying &#8220;we won&#8217;t question his service&#8221; followed by &#8220;but he has questions to answer&#8221;).  And then when the RNC said the same thing about Kerry that Kerry had said about Bush, Kerry used it as an excuse to step up his attacks on Bush, saying he had been wronged.</p>
+
+<p>It&#8217;s times like this that remind me why we can&#8217;t get the really good men to run for high office, sometimes.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://slashdot.org/~pudge/journal" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=970">pudge</a> at May  4, 2004 03:47 PM <a href="#c970">#</a></p>
+
+</div><div id="c972">
+
+<p>Energy: Oh, I didn&#8217;t mean for that to be Cheney. I was just trying to think of some generic Republican scandal and I guess I picked that since it&#8217;s been in the news lately.</p>
+
+<p><em>It’s times like this that remind me why we can’t get the really good men to run for high office, sometimes.</em></p>
+
+<p>Yeah, I feel exactly the same way. And the worst part is, I can&#8217;t even imagine any way to really fix it.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=972">Aaron Swartz</a> at May  4, 2004 04:05 PM <a href="#c972">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001218.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1218" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

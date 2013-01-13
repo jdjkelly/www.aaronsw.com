@@ -1,0 +1,43 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>today&#8217;s featured superhero: D. J. Bernstein (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000459" title="rabbit, rabbit" />	<link rel="next" href="000463" title="you can&#8217;t handle the x-height!" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>today&#8217;s featured superhero: D. J. Bernstein</h1>
+</div>
+
+<div class="content">
+<p><a href="http://cr.yp.to/djb.html">D. J. Bernstein</a> quickly won my heart with his sparse writing style (&#8220;You can send me email at [&#8230;]; I might respond within a few months.&#8221;), clean <a href="http://cr.yp.to/">web pages</a> and beautifully elegant code. I use his software, including <a href="http://cr.yp.to/djbdns.html">djbdns</a> and <a href="http://cr.yp.to/qmail.html">qmail</a>. Its utter simplicity, transparency and operational elegance is deeply moving. His work is some of the best examples of the Unix &#8220;small is beautiful&#8221; philosophy I&#8217;ve ever seen. His <a href="http://cr.yp.to/papers.html">mathematical work</a> is impressive and I admire his <a href="http://cr.yp.to/bib/online.html">support of putting papers online</a>. He <a href="http://cr.yp.to/courses.html">teaches several courses</a> downtown &#8212; I&#8217;m very tempted to go there to see him. Ooh, <a href="http://cr.yp.to/talks.html">there&#8217;s are videos of some of his courses</a> (grep for &#8220;video&#8221;)&#8230; Wow, <a href="http://www.msri.org/publications/ln/msri/2000/introant/bernstein/1/index.html">in this one</a> he doesn&#8217;t sound like I imagined from his writing nor look like I imagined from his voice.</p>
+
+<p class="posted">posted August 01, 2002 01:12 PM (<a class="category" href="cat_superheroes">Superheroes</a>)  <a href="000461" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000459" title="rabbit, rabbit">&laquo; prev</a> | <a href="./">up</a> | <a href="000463" title="you can&#8217;t handle the x-height!">next &raquo;</a></p>
+
+<p><a href="000452">irby nation</a><br />
+<a href="000453">pay up for free software</a><br />
+<a href="000456">i love it when a plan comes together</a><br />
+<a href="000457">is it rabbittime already?</a><br />
+<a href="000459">rabbit, rabbit</a><br />
+<strong>today&#8217;s featured superhero: D. J. Bernstein</strong><br />
+<a href="000463">you can&#8217;t handle the x-height!</a><br />
+<a href="000465">miller reminds you to think when you link</a><br />
+<a href="000466">A Contrarian View of Open Source</a><br />
+<a href="000467">Janis Ian on Free Downloads</a><br />
+<a href="000468">MonkeyFist Week in Review</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

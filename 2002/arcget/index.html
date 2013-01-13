@@ -1,0 +1,75 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+  <title>arcget: Retrieve a site from the Internet Archive</title>
+  <link rel="stylesheet" type="text/css" href="/style.css" />
+  <style type="text/css">.result { color: #700 }</style>
+</head>
+<body>
+<div id="head">
+  <h1>arcget: Retrieve a site from the Internet Archive</h1>
+</div>
+<div class="content">
+<p>Servers die. Companies collapse. URLs change. The Web is a very messy place. Thankfully, the <a href="http://web.archive.org/">Internet Archive</a> is there to record it all.</p>
+
+<p>But once it's in there, how do you get it back? Sure, <a href="http://web.archive.org/">the Wayback Machine</a> is nice for getting a couple pages, but anything more than that and it's a royal pain. Wouldn't it be nice if there were some easy way to get back that data? arcget is that easy way.</p>
+
+<pre>
+<span class="result">$ python arcget.py linguafranca.com/images/covers</span>
+Grabbing linguafranca.com/images/covers ...
+FAILED: linguafranca.com/images/covers/0010cover-sm.gif
+linguafranca.com/images/covers/0011cover.gif
+linguafranca.com/images/covers/0103cover.gif
+linguafranca.com/images/covers/0104cover.gif
+linguafranca.com/images/covers/0105cover_small.gif
+FAILED: linguafranca.com/images/covers/-
+<em>and so on...</em>
+</pre>
+
+<p><code>arcget</code> asks the Internet Archive for all the files it has of that site, then goes through and tries to find a working copy of each one. It gets it, strips out the modifications made by the Wayback Machine, and places it in a properly named file.</p>
+
+<!--
+<h2>Options</h2>
+
+<dl>
+<dt><code>--wwwdifferent</code></dt>
+<dd>Don't treat www.foo.com and foo.com as the same site.</dd>
+<dt><code>--overwrite</code></dt>
+<dd>Overwrite files if they already exist.</dd>
+<dt><code>--quiet</code></dt>
+<dd>Normally <code>arcget</code> will tell you how it's doing. If this annoys you, just use <code>--quiet</code>.</dd>
+<dt><code>--latest</code></dt>
+<dd>The Internet Archive often keeps multiple versions of a page. Do you want the earliest version or the latest version? Earliest is the default, since most pages you're trying to grab from the archive have been replaced by some spam site or something else uninteresting. But if you want the latest, use <code>--latest</code></dd>
+</dl>
+-->
+
+<h2>Caveats and Warnings</h2>
+
+<p><code>arcget</code> gets the oldest version of each file. This is because generally the newest version is whatever lame site has replaced the site you want to archive and it's hard to tell programatically whether it's the old or the new site.</p>
+
+<p>The Internet Archive's error messages are less than clear and 404 pages aren't always clearly marked, so <code>arcget</code> may mistakenly download some error pages as the actual files.</p>
+
+<p>The Internet Archive rewrites all <code>&lt;link></code> and <code>&lt;script></code> tag URLs to go through the Archive. <code>arcget</code> doesn't fix these links.</p>
+
+<p>The Internet Archive is not 100% reliable. Sometimes files will work, sometimes they won't.</p>
+
+<p><strong>BE NICE:</strong> The Internet Archive is a valuable public service. Don't abuse it by hammering the servers with lots of requests.</p>
+
+<p><strong>Download:</strong> <a href="arcget.py">arcget.py</a>.</p>
+
+<h2>Users</h2>
+
+<p><code>arcget</code> helped restore:</p>
+
+<ul>
+<li><a href="http://linguafranca.mirror.theinfo.org/">The <cite>Lingua Franca</cite> Archive</a></li>
+</ul>
+
+<h2>History</h2>
+<p>
+2005-12-28: <a href="arcget-0.8.py">0.8</a>. First release. Used to restore one major site.
+</p>
+</div>
+<div class="footer">
+  <address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</div></body>
+</html>

@@ -1,0 +1,123 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Shades of Gray (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/001053.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001052" title="The Evening News" />	<link rel="next" href="001055" title="Followup to &#8220;Shades of Gray&#8221;" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Shades of Gray</h1>
+</div>
+
+<div class="content">
+<p><strong>What do you do when someone says something obviously false? Do you correct them? Do you ignore them?</strong></p>
+
+<p>On three spearate occasions Bill O’Reilly noted that he previously worked for Inside Edition and said “we won a Peabody award” or “they won a Peabody award”, sometimes noting it was the highest journalism award in the country.</p>
+
+<p>Al Franken called the Peabody Award people to investigate; they laughed and said <em>Inside Edition</em> had never won a Peabody award.</p>
+
+<p>Franken called O’Reilly. O’Reilly looked into it, called him back, and said it was a Polk award. “Okay, Al, go after me if you want” he concluded. Franken, suprised that O’Reilly invited Al to go after him instead of thanking him for helping O’Reilly avoid another embarassing mistake, decided to do just that.</p>
+
+<p>Franken told the <em>Washington Post</em>, which published the fact. <em>Newsday</em> picked up the story.</p>
+
+<p>O’Reilly was outraged, and called it “Attack Journalism” on his show. “Guy said about me [&#8230;] O’Reilly said he won a Peabody Award. Never said it. You can’t find a transcript where I said it. [&#8230;] it’s totally fabricated.”</p>
+
+<p>The <em>New York Times</em>’s Janet Maslin <a href="http://query.nytimes.com/gst/fullpage.html?res=9E0CE1DC1438F932A3575AC0A9659C8B63">reviewed Franken’s book</a>, writing “Mr. Franken makes a bull’s-eye out of Mr. O’Reilly. First the prize: he shows how Mr. O’Reilly’s erroneous claim that he won a Peabody Award evolved into even bigger fibs once it was challenged.”</p>
+
+<p>On his show, <a href="http://www.foxnews.com/story/0,2933,96302,00.html">O’Reilly responded</a> “Maslin’s gleeful libel demonstrates the viciousness that has enveloped <em>The Times</em>. [&#8230;] I knew that once I took on <em>The New York Times</em> the paper’s character assassins would take dead aim on me. That is why few journalists will ever criticize <em>The Times</em>. [&#8230;] I never said I won a Peabody Award. Transcripts prove that and the defamatory charge has been refuted time and time again.”</p>
+
+<p>NPR’s interview show <em>Fresh Air</em> invited O’Reilly on to respond to claims by Franken. The host, Terry Gross, presented O’Reilly with the above evidence. O’Reilly repeated his assertion that he never said he won a Peabody award (“that is an <em>absolute</em> lie”) and noted that he said <em>they</em> (<em>Inside Edition</em>) won a Peabody award, not himself. “All I was doing was sticking up for my former program,” he noted. “I had no dog in the fight.” (<a href="http://www.npr.org/display_pages/features/feature_1459090.html">audio, around 12:30 in</a>)</p>
+
+<p>The hypocrisy makes my mind spin. Franken points out O’Reilly made a mistake about a <em>journalism</em> award, giving him the chance to correct it. O’Reilly complains that journalists who make a mistake are practicing “attack journalism”, without giving the journalist a chance to correct things. Maslin makes an error in summarizing Franken’s book. O’Reilly attacks her, calling her a “character assassin”, again without giving her the chance to respond. </p>
+
+<p>Who’s doing attack journalism? Who’s being a character assassin? It would certainly seem to be O’Reilly, but he does have some good points. The journalist did make a mistake that made O’Reilly look a little worse than he is. The <em>Times</em> and <em>Fresh Air</em> did give Franken pretty much a free ride while putting O’Reilly under severe scrutiny.</p>
+
+<p>O’Reilly uses all the right phrases. He says he’s trying to be an independent, taking good ideas from both parties, trying to solve real problems, and trying to present real facts. And his lies have just enough truth to them to make you want to believe them. The liberals and the real journalists really do want to be accurate, and so his words have an extra sting. Who do you believe? Who do you attack?</p>
+
+<p><strong>What if they continue to repeat it? Are they malicious? Misguided? Simply taking another, but still reasonable, point of view?</strong></p>
+
+<p><a href="http://scriptingnews.userland.com/2003/06/08#standards">Dave Winer, 2003-06-08</a>: “I read a piece yesterday about SixApart and their standards compliance. Interesting, but they do RSS in a funky way. I guess they are picky about which standards they support and how. They respect the W3C, but they don’t respect RSS.”</p>
+
+<p><a href="http://backend.userland.com/2003/06/14#a227">06-14</a>: “To people who want to know why I called Movable Type’s support for RSS funky, here’s why. I want all blogging tools to produce the same RSS, modulo differences that are rooted in real differences between the products.”</p>
+
+<p>But every blogging tool produces different RSS, in different ways. Folks wanted to know what made Movable Type funky and others not. Dave went on for weeks playing 20 questions, saying this feed is funky, this feed is not. Folks in the RSS world were tearing their hair out, trying understand why Dave was attacking them, and what they were doing wrong.</p>
+
+<p>Finally on <a href="http://backend.userland.com/davesRss2PoliticalFaq#questionWhatDoesFunkyMeanInTheContextOfRss20">06-30</a> he explained: “A feed is funky if it uses extensions to provide information that can be expressed by core elements.”</p>
+
+<p>Now Dave could have said this from the beginning. We could have had a discussion about whether this is a good thing or a bad one and why. But instead Dave simply defined it as bad and attacked those who didn’t play along.</p>
+
+<p>After that, Dave seemed to drop things for a while.</p>
+
+<p>Then, on 10-07, George W. Bush starts a weblog. <a href="http://scriptingnews.userland.com/2003/10/07#When:5:56:47AM">Dave Winer complains</a> “The Bush RSS feeds are a total mess. [&#8230;] I wish someone would explain to me why a user like the President of the United States has to have such a jumble of formats. Does anyone else care how hard it’s going to be to move this mess forward? (Impossible, actually.) I’ve really tried to get people to play together. Didn’t happen. At least we can be truthful about our failures, as it gets too late to fix them. [&#8230;] Maybe we can have a grown up conversation about this some time, and try to make the best of a very bad situation.”</p>
+
+<p>It sounds to me like a) Bush had to go through a lot of work and confusion to get his RSS feeds to work, b) his RSS feeds are very confusing for users, c) his RSS feeds are going to be very confusing for aggregator developers, d) it’s going to be impossible to update RSS, e) RSS has failed, all because people aren’t playing together. (Which, Dave apparently takes to mean, doing what I say.) None of this is true.</p>
+
+<p>Bush’s feeds were most likely generated automatically, or cleaned up with a simple copy-and-paste, his feeds are very easy to use, they validate and work in probably every reasonably-complete aggregator, his feeds are no harder to update (or “move [their] mess forward”) than if they had done things Dave’s way, and RSS has been an amazing success, and, as evidenced by the Atom project, everybody’s willing to admit RSS’s failures, play together, and move forward with the possible exception of Dave.</p>
+
+<p>I’m sure the next time something like this comes up, Dave will make another attack.</p>
+
+<p>Why is this? Does Dave believe in what he’s saying? Is he saying it, even though he doesn’t believe it, to get other people on his side? Is he upset that people aren’t doing what he says and he’s using this as an excuse to attack them? I don’t really think there’s anyway to know. Even if he claims to believe it, he could just be lying about that strategically. </p>
+
+<p>So I don’t know whether to try and convince Dave (which he rarely allows anyone to do) or attack him for knowingly manipulating people for personal gain (which is a pretty serious allegation if you don’t know for sure that it’s true).</p>
+
+<p>As far as I can tell, the only way out is to have him slip up and admit the latter. (The Republicans have done this. After continuously complaing about “liberal bias” in the press, party chair Rich Bond admitted in the Washington Post, 8/20/92, that this was part of “a strategy”, saying “If you watch any great coach, what they try to do is ‘work the refs.’ Maybe the ref will cut you a little slack next time.”) Until then, I’m stuck: unable to try and convince him good faith and unable to expose his bad faith.</p>
+
+<p><strong>What if they get people to agree with them? Are they a conspiracy? Biased? Driven by other motivations? Amoral? Immoral?</strong></p>
+
+<p>The White House continues to make nonsensical claims. <em>Iraq could kill us quickly.</em> <em>We need to stop forest fires by cutting down the trees.</em> <em>Giving your money to rich people will help the economy.</em> And the press continues to report them unquestioningly.</p>
+
+<p>The best illusration of this I’ve seen is <a href="http://www.salon.com/comics/boll/2002/06/20/boll/story.gif">Ruben Bolling’s comic, “Up: Down. And Down Is Up, Says Administration”</a>.</p>
+
+<p>Why does the media go after democrats for the most minor things, but give Bush a free ride on even the most outrageous claims? They refrain from discussing problems scandals until the Bush administration comes out and admits them. (The Valerie Plame affair was discussed on the Internet for months; only when the Justice Department announced an investigation did the major media report.)</p>
+
+<p>The obvious answer is that the journalists have a right-wing bias. But studies seem to indicate that most journalists are Democrats. Franken claims that journalists have other biases, like a tendency to go for the easy or salacious story, but even these tendencies aren’t applied evenly.</p>
+
+<p>Upon reflection, only one explanation makes sense: there are powerful right-wingers who will hurt journalists after even a minorly liberal political story.</p>
+
+<p>I don’t know if these folks are third-parties, like readers and demagogues who threaten to cancel advertising and subscriptions, or bosses, like Rupert Murdoch, whose ideology and self-interest are strongly to the right, and who force the media they own to stay that way. I’d be interested in any evidence one way or the other. Either way, the result is disgusting.</p>
+
+<p><strong>What if everyone starts to say it? Do you question your belief? Your sanity? Your life?</strong></p>
+
+<p>The RIAA has been incredibly effective at convincing people that downloading a Madonna MP3 is, if not the moral equivalent murdering innocent babies, at least intrinsically morally wrong. How did they convince everyone of something so absurd?</p>
+
+<p><em>1. Take an absurdly extremist position.</em> Cary Sherman, RIAA President: “Every time you download a song, you’re hurting an artist [&#8230;] you’re basically going up to someone who worked on that song to feed their 2 yr. old baby, and you’re killing that baby.” (Okay, he didn’t actually say that, but it sounds like something he might say.)</p>
+
+<p><em>2. Repeat this position in public often.</em> “Stealing is stealing.” “Downloading a song is no different that walking out a store with a CD.” “What’s the difference between downloading a song, and stealing someone’s car?” “If you’re someone who downloads a song, why wouldn’t you murder innocent babies?”</p>
+
+<p><em>3. Get the media to agree with you.</em> <a href="http://www.nytimes.com/2003/09/12/opinion/12FRI2.html?ex=1063944000&en=903a06dc67975841&ei=5062&partner=GOOGLE">The New York Times</a>, <a href="http://www.washingtonpost.com/wp-dyn/articles/A12605-2003Sep15.html">The Washington Post</a>, and <a href="http://www.google.com/search?q=%22stealing+is+stealing%221">thousands of others all agree</a>: “stealing is stealing.”</p>
+
+<p><em>4. Watch the public fall into line.</em> I explain to smart, friendly, liberal people why downloading isn’t intrinsically harmful, and they always go, as they’ve been taught, “yeah, but you have to agree, it is <em>wrong</em>”. The worst part is, half the time I’m tempted to agree with them.</p>
+
+<p><strong>What’s wrong with me?</strong></p>
+
+<p>I want to believe. I want things to be simple. This side is right, this side is wrong. This side is fair, this side is evil. This is the truth, this is the lies. I like it when Franken, Pilgrim, Stallman, and Chomsky present it all so simply. Folks always say “The truth, as always, lies somewhere in between.” But why doesn’t anyone go visit it? Things keep getting mixed up. And I keep getting mixed up. And I don’t know how to fix it.</p>
+
+<p class="posted">posted October 09, 2003 09:20 PM (<a class="category" href="cat_politics">Politics</a>)  <a href="001053" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001052" title="The Evening News">&laquo; prev</a> | <a href="./">up</a> | <a href="001055" title="Followup to &#8220;Shades of Gray&#8221;">next &raquo;</a></p>
+
+<p><a href="001036">Fixing Compulsory Licensing</a><br />
+<a href="001037">Comprehensive Reponse to All Arguments Against Gay Marriage</a><br />
+<a href="001047">Meeting Justice Kennedy</a><br />
+<a href="001048">Poison Dart Guns or Solving Politics with Technology</a><br />
+<a href="001052">The Evening News</a><br />
+<strong>Shades of Gray</strong><br />
+<a href="001055">Followup to &#8220;Shades of Gray&#8221;</a><br />
+<a href="001056">Notes to Self</a><br />
+<a href="001057">The Left Sucks</a><br />
+<a href="001058">Question for Free-Market Libertarians</a><br />
+<a href="001059">Frag the Flag</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

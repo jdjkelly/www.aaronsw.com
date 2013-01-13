@@ -1,0 +1,51 @@
+#!/usr/bin/python2.2
+"""MID Seeker: Takes an message id and returns an HTTP address.
+
+cf. "I want to get a mid: script running so that I can put an mid into my browser, and have it return the message, if it can find it."
+ - http://infomesh.net/misc/
+"""
+__author__ = "Aaron Swartz"
+__copyright__ = "(C) 2002 Aaron Swartz. GNU GPL 2"
+
+import urllib
+import cgitb; cgitb.enable()
+
+class AppURLopener(urllib.FancyURLopener):
+	def __init__(self, *args):
+		self.version = "midfinder/0.1"
+		urllib.FancyURLopener.__init__(self, *args)
+	
+	def http_error_default(self, url, fp, errcode, errmsg, headers):
+		return urllib.addinfourl(fp, [headers, errcode], "http:" + url)
+		
+urllib._urlopener = AppURLopener()
+		
+sources = ['http://www.w3.org/2002/02/mid/', 'http://groups.google.com/groups?selm=']
+
+def mid2url(x):
+	for s in sources:
+		r = urllib.urlopen(s+x)
+		i = r.info()
+		if type(i) is not list or i[1] != 404:
+			# argh, no 404s from google!
+			if s.find("google") != -1 and r.read().find("Unable to retrieve") != -1:
+				continue
+			return s+x
+	return 0
+
+if __name__ == "__main__":
+	import cgi
+	q = cgi.FieldStorage()['q'].value
+	r = mid2url(q)
+	if not r:
+		print 'Status: 404 Not Found'
+		print 'Content-Type: text/html'
+		print
+		print "<html><body><p>I tried my best but it was for naught."
+		print "That mid was not located.</p></body></html>"
+	else:
+		print 'Status: 302 Helpful Redirect'
+		print 'Content-Type: text/html'
+		print 'Location: ' + r
+		print
+		print 'Wherever you go <a href="'+ r +'">there you are</a>.'

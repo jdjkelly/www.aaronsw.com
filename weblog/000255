@@ -1,0 +1,87 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Emerging Technologies - Day 3 (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/000255.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000254" title="Emerging Technologies - Day 2" />	<link rel="next" href="000256" title="Emergent Hindsight" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Emerging Technologies - Day 3</h1>
+</div>
+
+<div class="content">
+<p>I&#8217;m running <a href="http://www.etherpeg.org/">EtherPEG</a> &#8212; it&#8217;s awesome. (Requires Mac OS 9 or X.)</p>
+
+<p>We did the Creative Commons intro in the morning. Lisa forgot the VGA dongle for her iBook so I donated mine instead. Whole thing seemed to go over pretty well, I answered a couple of questions at the end.</p>
+
+<p>Had lunch with Mark Miller, he helped me set up E and with MarcS he got me signed up to work on writing Pet Names and integrating it into echat. Then I chatted with Rob Kaye and he&#8217;s asked me to work on the MusicBrainz spec. (All the things I have to do after these conferences will keep me busy for years&#8230;) Now it&#8217;s time for the star of the show&#8230;</p>
+
+<p><a href="http://www.aaronsw.com/weblog/000255#larryL">Larry Lessig!</a></p>
+
+<p>Went to the Creative Commons press conference afterwards. Larry said that it&#8217;s an accident of technology that everything on a computer requires a &#8220;copy&#8221;. Creative Commmons is an attempt to bring back a common sense notion of copyright in the digital realm. If you have a &#8220;Larry Lessig Fan Wall&#8221; and put up Larry photos and copies of his book, he&#8217;d be insane to sue you. But if you have a Warner Bros. fan page their robots will find that you&#8217;ve &#8220;stolen&#8221; their images and make you cease-and-desist. Also, when cable companies started they immediately &#8220;stole&#8221; content from the broadcasters and sent it over cable lines. Twice the Supreme Court refused to hear the case of the broadcasters and gave a decade for cable companies to innovate before regulation. The Internet deserves the same, if not more.</p>
+
+<p>Explained the Semantic Web to MarcS and MarkM. When I told them it was simply typed links they smacked their heads and groaned. They&#8217;d done it in the 1960s with <a href="http://xanadu.com/">Xanadu</a>, of course.</p>
+
+<p>Went to the Creative Commons poolside party. Lots of good talk, <a href="http://www.benhammersley.com/">Ben Hammersly</a> is a great guy and is sure to do a good job with <a href="http://rss.benhammersley.com/">the RSS book</a> (<a href="http://www.simonstl.com/">Simon St.L</a> is his editor, of course.) Larry was kind enough to pull me aside to chat about CC. He&#8217;s really great.</p>
+
+<p>Went to the Creative Commons celebratory dinner. Larry drove me in his cool car. When he&#8217;s not speaking he&#8217;s very quiet and brooding. He hangs his head down and thinks. Sample conversation: &#8220;Who paid for your flight out here?&#8221; &#8220;You did.&#8221; &#8220;Oh, good. [pause] Who paid for your hotel?&#8221; &#8220;You did.&#8221; &#8220;Oh, good.&#8221;</p>
+
+<p>At dinner I told Cory a bit about Blogspace. &#8220;You Semantic Web people are so cute.&#8221; Larry showered us with praise. He&#8217;s confident he&#8217;ll win the Copyright case. I joked that he should take on software patents next. He seemed to take me seriously, saying that it would be a bit more difficult. Cory drove me back to the hotel. He has the Disneyland Official Soundtrack CD in his car. I can see why it drove <a href="http://www.lisarein.com/">Lisa</a> to insanity.</p>
+<p><h3 class="title" id="larryL">Larry Lessig: The Future of Ideas <a href="http://www.aaronsw.com/weblog/000255#larryL">#</a></h3></p>
+
+<p>[Larry&#8217;s got a bit of a mustache now.]</p>
+
+<p>On writing the book: Sat down not understanding where he would end up. Both books were sad stories because people don&#8217;t understand why computer architecture restricts the world and lawyers can screw it up. Reagle told him to figure out more about the values in code, so he read the End-to-End paper. Reagle was right: we had to protect this core of the Internet. It guarantees creativity, etc. And at the end of Future of Ideas (maybe it&#8217;s because I work in dark rooms) there was a sad story. A threat to the Internet.</p>
+
+<p>Content providers launched a war to protect last century&#8217;s way of business. So far they&#8217;re succeeded in stopping innovation. They&#8217;ve convinced the world that it&#8217;s a choice between property and the American way or anarchy and evil communism. They&#8217;re winning because that choice is simple. But there&#8217;s something more.</p>
+
+<p>In the last few weeks, been working on brief for the Supreme Court. Just finished a little while ago. Pounding out why Copyright Act extensions is unconstitutional. 11 times in last 40 years. Should be limited to fuel the public domain. Just as the public domain turned the Brothers Grimm into Disney, we need to let someone turn Disney into something bigger. Supreme Court will say that the extremism goes too far. Copyright extended because copyright is bought by monopolists. This is only the first step.</p>
+
+<p>The second step was announced today by Molly and Lisa who announced the Creative Commons. Make it easy to say that this content is available for easy non-commercial use. Not divided between perfect control and no control. Instead it&#8217;s a balance. Set up a Morpheous server in his office to make his lectures available. Got a frantic call from the network police. They broke into his office and unplugged his computer for running Morpheous. Larry said he comitted no crime, simply making his work into his server. Network police thought it was outrageous that content could be made available for free to others. (Crazy leftist law professors, they thought.) Need to fuel a discourse that it&#8217;s easy to make things available.</p>
+
+<p>Technologists need to tell politicians the importance of the values held by the technology. Need to defend freedom and creativity so that any creator has the space on which to spread their creativity. Last century&#8217;s way of business is not a mandate for how to do business in the future. No one gets this point. Going to Washington is even more depressing than the books &#8212; the people there are clueless. They don&#8217;t understand the design or architecture. It was <em>architected</em> that way and it needs to be protected. They have a Valenti-like view of the world &#8212; &#8220;their terrorist war against the most important industry in America.&#8221; Rhetoric is right but the target is wrong. Technology is the most important industry. Need to let the folks back east understand this.</p>
+
+<p>Tim O&#8217;Reilly wants to put all their books under the O&#8217;Reilly copyright (14 years and then into the public domain). The crowd goes wild and the O&#8217;Reilly employees don giant smiles.</p>
+
+<p>Reed says that we need to worry about <a href="http://reed.com/openspectrum/">open spectrum</a>. The FCC has moved from protecting the public to protecting the companies. Radio interference is different than physical interference. FCC regulates as if capacity == bandwidth and we must allocate who can speak in the spectrum. But speech is not about spectrum, it&#8217;s about bits per second. We should have built a bits-per-second architecture and a competitive regime. But when Shannon discovered this, we&#8217;d given away all the useful spectrum. Since then we&#8217;ve given away all the rest of the spectrum. We must rethink this and learn about methods for collaboration and software-defined radio. If we don&#8217;t do this now there are no incentives because there&#8217;s no spectrum for it. We need to do this innovation. We need spectrum for anything you want &#8212; common spectrum. We may need some regulation to stop people from blowing it out, but we need to stop doing a priori stuff.</p>
+
+<p>Carl Malamud has spent a life showing the government that things can be done. Putting radio on the Web, government data, etc.</p>
+
+<p>Henkel-Wallace thinks that copyight is dead. People just aren&#8217;t going to put up with it. And you&#8217;ll build a culture of lawlessness. History like stakeholding in the midwest which made squatters legit. Patrons coming back. Bud to make a tune, BMW to make movies and you&#8217;ll be encouraged to distribute the data. Media controlled by a cartel. More money may be spent, but there will be a more uniform distribution and hopefully more interesting spectrum of creators. Instead of head shops we&#8217;ll have watermarking shops. Everyone under 30 will have visited them.</p>
+
+<p>Lessig talks about how the use of the term Intellectual Property has destroyed the rights to fair use. There&#8217;s no fair use right to his car, so why should there be for movies. But if they are property then why aren&#8217;t they paying taxes? But IP isn&#8217;t control. Today we&#8217;re all consumers and we&#8217;re all producers. &#8220;The former audience&#8221;. Controlling production does not imply that they can control use.</p>
+
+<p>If you throw standards in the public domain, other companies can embrace and extend it that can ruin the standards. If you keep it to yourself other people will assume that you&#8217;ll eventually impose as standard tax. Either not controlled at all or perfectly controlled. Creative Commons will have a conservancy that will accept standards and fight off embrace-and-extend and will never exploit it.</p>
+
+<p>Larry: Write something. Write a letter telling your congressman how pissed off you are or write a check to someone like the EFF.<br />
+Tim: We need to put our content where our mouth is. Donate it under a Creative Commons-style license. And tell your congresspeople: &#8220;you may be getting checks but you&#8217;re not getting votes.&#8221;</p>
+
+<p class="posted">posted May 16, 2002 01:06 PM (<a class="category" href="cat_technology">Technology</a>)  <a href="000255" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000254" title="Emerging Technologies - Day 2">&laquo; prev</a> | <a href="./">up</a> | <a href="000256" title="Emergent Hindsight">next &raquo;</a></p>
+
+<p><a href="000268">WWW2002 - Day 4</a><br />
+<a href="000295">WWW2002 - Day 5</a><br />
+<a href="000251">Emerging Technologies - Day 0</a><br />
+<a href="000253">Emerging Technologies - Day 1</a><br />
+<a href="000254">Emerging Technologies - Day 2</a><br />
+<strong>Emerging Technologies - Day 3</strong><br />
+<a href="000256">Emergent Hindsight</a><br />
+<a href="000257">MarkM and AaronSw</a><br />
+<a href="000258">The Secret alife of Webloggers</a><br />
+<a href="000259">Others</a><br />
+<a href="000261">Crypto History</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Introducing feeds.reddit (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Introducing feeds.reddit</h1>
+
+<p>Over the past few weeks, I&#8217;ve been working on another new project. I think it&#8217;s finally time to tell people about it and what better place to start then here? So here&#8217;s the site:</p>
+
+<p><a href="http://feeds.reddit.com/">feeds.reddit.com</a></p>
+
+<p>The idea is that it&#8217;s a more social web feed (RSS) reader. First, it&#8217;s got a great interface for reading feeds over the Internet &#8212; it has key commands (<a href="http://feeds.reddit.com/faq">see the faq</a>) that let you easily breeze through stories while keeping track of what you&#8217;ve read and haven&#8217;t read. Then there&#8217;s a simple URL you can go to any time, anywhere (I visit it from my phone) to see stories you haven&#8217;t read yet.</p>
+
+<p>Second, just like on reddit, you can vote on items you like a lot. This will go towards creating a list of the most popular items but it will also train a recommendations system to try to find other items and other feeds that you&#8217;ll probably like as well.</p>
+
+<p>The problem is that building this stuff up requires users. So I hope you&#8217;ll <a href="http://feeds.reddit.com/">try it out</a>. It&#8217;s got one-click import from Bloglines and imports OPML files from any other feed reader, so there&#8217;s no harm in trying it out.</p>
+
+<p><a href="http://feeds.reddit.com/feedback">Let me know what you think.</a></p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">May 24, 2006</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>Trying it out now.</p>
+
+<p>The Bloglines importer didn&#8217;t like me. (I&#8217;m subscribed to 854 feeds in Bloglines.)</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://edward.oconnor.cx/">Edward O'Connor</a>
+ on May 24, 2006 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>It got a good ways through my Bloglines import (maybe 50 or so imported) and then choked with a 500 error. The URL when it died was:</p>
+
+<p>feeds.reddit.com/my/import?_t=-1301780436</p>
+
+<p>Don&#8217;t know if that is helpful at all&#8230;.</p>
+
+<p class="posted">posted by Mike
+ on May 24, 2006 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>It doesn&#8217;t like RSS feeds from delicious: http://del.icio.us/rss/corvina</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.mikegray.org">Mike Gray</a>
+ on May 24, 2006 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>A second try is yeilding much better results, though, as Mike noted, del.icio.us feeds seem to be problematic.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://edward.oconnor.cx/">Edward O'Connor</a>
+ on May 24, 2006 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>The problem with delicious feeds is that their robots.txt file actually bans us from visiting them. I&#8217;ve emailed them to suggest they fix it.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on May 24, 2006 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c6">
+<p>I managed to get my google reader opml subscriptions imported, but got a bunch &#8216;not found&#8217; which are perfectly valid feeds and don&#8217;t seem to have a robots.txt problem. Also, do you log the one&#8217;s that can&#8217;t be parsed to see if any of those can be handled?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://blog.thelsdj.org/">Adam Wendt</a>
+ on May 24, 2006 <a href="#c6" rel="bookmark">#</a></p>
+</div>
+<div id="c7">
+<ul>
+<li>It doesn&#8217;t work with a very random sample of my feeds.</li>
+<li>It doesn&#8217;t handle authentication for feeds at all, it seems.</li>
+<li>The interface on &#8216;mine&#8217; seems confusing, I really don&#8217;t get it.</li>
+<li>I like the subtle, clean design/layout, though.</li>
+</ul>
+
+<p class="posted">posted by <a rel="nofollow" href="http://manuzhai.nl/weblog/">Manuzhai</a>
+ on May 25, 2006 <a href="#c7" rel="bookmark">#</a></p>
+</div>
+<div id="c8">
+<p>A few observations &#8230; Importing XML is painfully slow. The grouping of feeds (from a bloglines XML) is ignored. It would be nice if you could bulk edit the feeds, so you could, for example, delete all of them at once. Deleting individually is prohibitively slow.</p>
+
+<p>More generally, I would be interested in using a feed reader that allows me to structure feeds so that I can read them in the order I wish, like bloglines. The Google reader style interface that tries to predict what I&#8217;d like to read next is IMHO  wrong headed. I&#8217;m surprised and disappointed that Google got it so wrong, maybe it&#8217;s something that reddit can do right &#8230;</p>
+
+<p>The order I read feeds is <em>not</em> something that a program could predict unless it gets a direct line to my gray matter. I need a way to get a quick overview of all my feeds, and all the unread articles that are in them, then I choose how to start browsing. I might, for example see an article header that is very interesting to me, and then purposefully ignore it for a week because I know that when I read it I want to give it the attention it deserves, not just scan it and blow it away. This sort of thing is going to wreak havoc with readers that feed things up to me in algorithmically sorted orders. However, I can imagine marking articles up and down when I read them so that they can feed back into reddit proper.</p>
+
+<p class="posted">posted by Drew Whitehouse
+ on May 25, 2006 <a href="#c8" rel="bookmark">#</a></p>
+</div>
+<div id="c9">
+<p>I would like to have multiple fields to import feeds. Right now I have to import one, then see that load, click on import and so on. I&#8217;m on a dialup, so it&#8217;s extra annoying. When attaching files in gmail you can click attach another file and a new field appers without reloading the page.</p>
+
+<p>Anyway, it seems sweet!</p>
+
+<p class="posted">posted by RN
+ on May 28, 2006 <a href="#c9" rel="bookmark">#</a></p>
+</div>
+<div id="c20">
+<p>Ahh!! feeds.reddit isn&#8217;t working. :-( This makes me sad. When will it be back up?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.kylemulka.com">Kyle Mulka</a>
+ on June 18, 2007 <a href="#c20" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="feedit" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

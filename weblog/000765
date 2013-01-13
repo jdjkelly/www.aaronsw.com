@@ -1,0 +1,79 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Solution Child (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000764" title="Problem Child" />	<link rel="next" href="000766" title="Trip Report" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Solution Child</h1>
+</div>
+
+<div class="content">
+<p>I&#8217;m in the house of Lisa Rein. I never got a chance to ride the Segway. My aches are mostly gone. My computer finished backing up, but then I deleted the backup as part of my crazy travel scheme (<a href="#crazyTravel">see below</a>).</p>
+
+<p>I am in California!</p>
+
+<p><strong id="crazyTravel">Crazy travel schemes:</strong> My main machine, a PowerBook, doesn&#8217;t have a working screen which makes it hard to use on trips. </p>
+
+<p>First I just borrowed an iBook and used it, but it didn&#8217;t have my files. </p>
+
+<p>Then I brought the PowerBook and the iBook and set them up as a VNC server and client (respectively) over a local-area wireless network, but that was heavy and a real pain. </p>
+
+<p>Then I backed up onto a FireWire drive and brought the drive along to boot off of, but the drive was clunky and required I plug it into the wall, which was inconvenient.</p>
+
+<p>So this time I got clever and copied the hard drive of the iBook onto the FireWire drive I use to back up, and copied he PowerBook&#8217;s hard drive onto the iBook&#8217;s. Then I had the PowerBook boot off the FireWire drive. Amazingly, it all works. And I don&#8217;t see any downsides yet.</p>
+
+<p>It feels like something out of Cory&#8217;s novel <cite>Down and Out in the Magic Kingdom</cite>, where they make backups of brains and grow clones to stick them into.</p>
+
+<p><strong id="party">Party results:</strong> The partt was today. Lots of people came and said nice things about Creative Commons. Even Jack Valenti sent in a videotaped testimonial! (This was especially funny because I told people there would be a secret but Very Special Guest, and they would always guess Jack Valenti (presumably joking) and I had to keep a straight face.) </p>
+
+<p>I spent a long time doing nothing early in the day (altho I did press my laptop into service as a software base station), but closer to the start of the party I got so busy that I didn&#8217;t get a chance to attend the party! I feel really bad because there were probably a lot of people I would like to meet there, that I couldn&#8217;t. </p>
+
+<p>I presented a talk on our metadata (<a href="http://www.aaronsw.com/2002/cctalk">you can get the text I read</a>), but my projector projected a weirdly distorted version of what it was supposed to show without me noticing for a while. I don&#8217;t recall, but I bet I was really nervous and did a bad job of reading what I was supposed to. Also, the podium was just the right height that the laptop&#8217;s screen totally blocked my face from the audience. But I survived and now there are lots of people who will probably recognize me and think I am doing worthwhile things.</p>
+
+<p>This was certainly my experience at the party. People who deserve far more thanks than me (John Gilmore, Wendy Seltzer, etc.) came up to me and thanked me. I suspect this will be helpful in the future.</p>
+
+<p>Luckily, I got to meet with lots of people after the talking part, but many also left then. I had many conversations with great people (Kragen, Ka-Ping, Seth Schoen, etc.) which I found incredibly enjoyable (Aaron craves the conversation of the intelligent). They also gave me lots of good ideas for Creative Commons. I wish I could have talked forever.</p>
+
+<p>[Anecdote: When Kragen first introduced himself, I thought he was saying CraigN (Craig Newmark, who was also there) since that&#8217;s how he pronounced it (I thought it was cray-gen not creg-enn). I was soon able to disambiguate though, because he talked about things that Kragen was more likely to talk about than CraigN was. Also, CraigN spoke on stage which Kragen did not, which helped.]</p>
+
+<p>They also had a band with a Theremin player! I discovered that the Theremin was a real geeky thing, with everyone coming over to watch the amazingly good Theremin player. After the band was done, Larry asked if he could try playing, and a reasonably long line formed. I felt sort of bad because I have a Theremin which I don&#8217;t use; it seems like it would be much better in San Francisco. Perhaps we could start a Theremin club.</p>
+
+<p>I also talked to Seth about having the EFF take over the DNS root. He brought me over to John Gilmore who reminded me that he had already taken over the root once. (There are lots of things I want to say to John Gilmore, but I was too timid to say anything. I was also going to offer to host his downed website, but <a href="http://www.toad.com/gnu/">it&#8217;s back up!</a> Yay! He gave me a great freedomofthought.org light though (he offered it by asking &#8220;Do you seek enlightenment?&#8221; &#8220;I do,&#8221; I responded) . He was also giving out buttons that said &#8220;Suspected Terrorist&#8221;.)</p>
+
+<p>I&#8217;m going with the EFF to a movie on Wednesday. I pointed out to Seth that when I go to a movie, I donate money in the amount I spent to the EFF. What should the EFF do when they go to the movie? Seth found this very funny. We asked Lessig and he suggested that the EFF donate 10 times the amount they spent to themselves.</p>
+
+<p>I think that&#8217;s all the stuff I should say on my weblog. Oh, I should also note that there were two people who told me they had come just because of my weblog. I was very touched by that, especially since I have trouble wrapping my head around the fact that there are people I don&#8217;t know who read my weblog. If the two of you are reading, <em>hi!</em> If there are others who never introduced themselves, please email me!</p>
+
+<p>OK, I think that&#8217;s really it now. I&#8217;m off to read Gilmore&#8217;s web page.</p>
+
+<p class="posted">posted December 17, 2002 02:31 AM (<a class="category" href="cat_personal">Personal</a>)  <a href="000765" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000764" title="Problem Child">&laquo; prev</a> | <a href="./">up</a> | <a href="000766" title="Trip Report">next &raquo;</a></p>
+
+<p><a href="000754">How Total Information Awareness Works: A Simple Guide</a><br />
+<a href="000758">piracy, bits, and meatspace</a><br />
+<a href="000761">Explaining Spectrum, RDF</a><br />
+<a href="000762">OS X Hack: Printing 4-up to Save Paper</a><br />
+<a href="000764">Problem Child</a><br />
+<strong>Solution Child</strong><br />
+<a href="000766">Trip Report</a><br />
+<a href="000767">More opinions on the party</a><br />
+<a href="000768">movie maker mentality</a><br />
+<a href="000769">sidebar, segway update</a><br />
+<a href="000771">segway report</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

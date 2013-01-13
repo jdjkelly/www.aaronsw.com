@@ -1,0 +1,67 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>the circle of life continues (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000415" title="smiling dogs" />	<link rel="next" href="000420" title="temperature rising" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>the circle of life continues</h1>
+</div>
+
+<div class="content">
+<p>I wonder if it&#8217;s just me, but I&#8217;m seeing a lot of project-oriented wikis popping up. Maybe wikis are hitting their prime, just like weblogs have. Wikis in the New York Times, anyone? Ooh, <a href="http://www.nytimes.com/2001/12/09/magazine/09POPULIST.html?pagewanted=print">they&#8217;re already there</a>, thanks to Steven Johnson. Hm, warwikis&#8230; and wiki wars.</p>
+
+<p>Neat. Raph and Bram <a href="http://www.advogato.org/person/raph/diary.html?start=238">came up with the same idea I did about a proof repository</a>. It&#8217;d be interesting to see if they actually made it happen. I wish I could help, but I think I need to study math quite a bit more.</p>
+
+<p>Poor Matt is having <a href="http://happy.3rd.birthday.for.metafilter.com/">even worse server luck than me</a>. Best wishes and a happy third birthday.</p>
+
+<p>Reading back thru my weblog I realized that my writing is really awful. Bleech.</p>
+
+<p><a href="http://www.userfriendly.org/cartoons/archives/02jul/uf004432.gif">Hillary Rosen speaks the truth!</a> UserFriendly connects the dots between file sharing and the economy.</p>
+
+<p>Wow, <a href="http://kode-fu.com/geek/2002_07_14_archive.shtml#85247721">the famed John C. Dvorak writes to Joey</a> complaining about some <a href="http://kode-fu.com/geek/2002_06_23_archive.shtml#78323860">rude things Joey recently wrote about Dvorak</a>. Hm, if I link to <a href="http://www.joyoftech.com/joyoftech/joyimages/357.gif">this comic that calls Dvorak a monkey</a> will I get an email too? Dvorak&#8217;s rants are so non-sensical that I never bother mentioning them.</p>
+
+<p>Teresa Nielsen Hayden has an awesome list of <a href="http://nielsenhayden.com/makinglight/archives/2002_07.html#000345">weird videos</a>. Of course, she left out the <a href="http://www.disobey.com/detergent/sheep.htm">famous sheep video</a>.</p>
+
+<p>As <a href="http://ln.hixie.ch/?start=1026612461&count=1">Hixie</a> and <a href="http://www.blakeross.com/">Blake Ross</a> have hinted, <a href="http://www.mozillazine.org/weblogs/hyatt/">David Hyatt</a> is moving to Apple. This should get the <a href="http://www.theregus.com/">rumor mill</a> churning again about that iBrowser, since Hyatt is one of the leads on Mozilla.</p>
+
+<p>We got our tangerine iMac fixed and set it up as a software base station with the hopes that it will support AppleTalk and allow us to print. Unfortunately the software base station doesn&#8217;t support AppleTalk. Doh!</p>
+
+<p>Bwahaha: &#8220;Glenn fears for his job, as Aaron is bound to take over the whole CC enterprise - ha ha.&#8221; - <a href="http://bgbg.blogspot.com/2002_07_07_bgbg_archive.html#85236879">Bag and Baggage</a>. So that&#8217;s why they&#8217;re being so nice. ;-) Wes cracked that I&#8217;d rename it to the Semantic Commons.</p>
+
+<p><strong>Don&#8217;t you hate it when&#8230;</strong> you try and update the operating system on your server but you accidentally hit the reset switch in the middle causing the machine to reboot and fsck to seriously fail forcing a manual fsck causing several hours of downtime?</p>
+
+<p><a href="http://zooko.com/log">Zooko is back! Zooko is back!</a> (AaronSw does the Zooko dance.)</p>
+
+<p>While one TiBook is (re)born, <a href="http://not.invisible.net/signals/bin/000178.shtml">another dies</a>. We send our condolences.</p>
+
+<p class="posted">posted July 14, 2002 12:04 PM (<a class="category" href="cat_"></a>)  <a href="000418" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000415" title="smiling dogs">&laquo; prev</a> | <a href="./">up</a> | <a href="000420" title="temperature rising">next &raquo;</a></p>
+
+<p><a href="000411">Writing Useful Web Content</a><br />
+<a href="000412">OSCON Key Signing Party</a><br />
+<a href="000413">today&#8217;s featured superhero: Seth Schoen</a><br />
+<a href="000414">Public Speaking and Writing</a><br />
+<a href="000415">smiling dogs</a><br />
+<strong>the circle of life continues</strong><br />
+<a href="000420">temperature rising</a><br />
+<a href="000421">confessions of a time-waster</a><br />
+<a href="000422">MacWorld Keynote Coverage</a><br />
+<a href="000423">empty jaguar-skin wallet</a><br />
+<a href="000424">Reflections on the Keynote</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

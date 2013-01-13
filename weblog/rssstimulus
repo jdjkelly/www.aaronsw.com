@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>RSS Hits the Big Time (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>RSS Hits the Big Time</h1>
+
+<p>As <a href="http://groups.google.com/group/sunlightlabs/browse_thread/thread/dfd9fd76be9b6f1b">chaunceyt pointed out</a>, the new stimulus bill&#8217;s <a href="http://www.recovery.gov/files/Initial%20Recovery%20Act%20Implementing%20Guidance.pdf">implementation instructions</a> require that each government agency report the money it gives out in RSS:</p>
+
+<blockquote>
+  <p>For each of the near term reporting requirements (major communications, formula block grant allocations, weekly reports) agencies are required to provide a feed (preferred: Atom 1.0, acceptable: RSS) of the information so that content can be delivered via subscription.</p>
+</blockquote>
+
+<p>The document is very clear that the items in the feed can&#8217;t simply be unstructured text, but have to be reusable data, e.g.:</p>
+
+<blockquote>
+<p><strong>Formula Block Grant Allocation Reports:</strong> Agencies are asked to provide Formula Block Grant Allocation information as soon as it becomes available. Data elements for the formula block grant allocation feed should include:</p>
+<table><tr style="background-color: #ccc"><th style="text-align: center">Data Elements</th><th style="text-align: left">Description</th><th style="text-align: center">Field Type</th></tr> <tr><td>Recipient Name</td><td>The name of the recipient of the award.</td><td>varchar(45)</td></tr> <tr style="background-color: #eee"><td>Federal Funding Amount</td><td>Amount of federal government&#8217;s obligation or contingent liability, in dollars. A negative number represents a decrease in funding.</td><td>int(11)</td></tr> <tr><td>Recipient DUNS</td><td>Unique nine-digit number issued by Dun & Bradstreet to the agency. Followed by an optional DUNS Plus 4 which allows an agency to submit different bank account data for a single DUNS (Assigned by Dun & Bradstreet)</td><td>char(13)</td></tr> 
+<tr><td colspan="3"><em>[&#8230;]</em></td></table>
+</blockquote>
+
+<p>And it goes on like this for several pages.</p>
+
+<p>Pretty amazing to see a government so tech-savvy.</p>
+
+<p><strong>Obligatory plug:</strong> Want to see more like this? <a href="http://boldprogressives.org/">Sign up to keep in touch with the PCCC</a>. We&#8217;re trying to get better congresspeople elected thru Internet organizing and better tools.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">February 21, 2009</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>Excellent news. This should hopefully make citizen monitoring of government spending much easier: see http://yorksamerica.blogspot.com/2009/01/opening-up-compliance-checking.html</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://yorksamerica.blogspot.com">Steve Holden</a>
+ on February 21, 2009 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>I&#8217;m interested to know why Atom 1.0 is preferred to RSS - what reasons did you have for that choice?</p>
+
+<p class="posted">posted by Stephen
+ on February 21, 2009 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>Sounds like a good idea, but RSS is open form unstructured text.  The financial data disclosed won&#8217;t be easily recorded into structured databases, analyzed, and shared.</p>
+
+<p>Actually, XML-based standards like XBRL would have been better than RSS because data disclosed in XBRL could be much more easily assimilated into analytical reports.</p>
+
+<p class="posted">posted by Steven Adler
+ on February 21, 2009 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>I updated the post to make it clearer that the data is structured.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on February 22, 2009 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>Why did you choose to make the story about RSS when Atom is the preferred format?</p>
+
+<p class="posted">posted by 
+ on February 22, 2009 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c7">
+<p>Aaron, a few minutes ago, I tried to subscribe to the PCCC list via submission of the form on the <a href="http://boldprogressives.org/" rel="nofollow">page</a> to which you linked, but I received an error message that showed something about an incomplete form (I think I saw something about &#8220;do you want to volunteer?&#8221; flash) before being redirected to a <a href="http://boldprogressives.org/" rel="nofollow">Google Spreadsheets page</a> which informed me that &#8220;Something bad happened. Don&#8217;t worry, though. The Spreadsheets Team has been notified and we&#8217;ll get right on it.&#8221;</p>
+
+<p class="posted">posted by Phil Mocek
+ on February 23, 2009 <a href="#c7" rel="bookmark">#</a></p>
+</div>
+<div id="c8">
+<p>Update: The PCCC homepage has a slightly-abbreviated version of the <a href="https://spreadsheets.google.com/viewform?key=pBWfhn_n-PC-TQkFtmXTPdA" rel="nofollow">form</a> that can be reached by following the &#8220;Stay in the loop with the PCCC&#8221; link on the homepage.  The abbreviated version is missing the &#8220;do you want to volunteer&#8221; question, and answering that question is mandatory for form submission.</p>
+
+<p class="posted">posted by Phil Mocek
+ on February 23, 2009 <a href="#c8" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="rssstimulus" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

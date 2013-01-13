@@ -1,0 +1,50 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>the rss rebellion (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/000738.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000737" title="bandwidth and open spectrum" />	<link rel="next" href="000742" title="Total Information Awareness Demo" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>the rss rebellion</h1>
+</div>
+
+<div class="content">
+<p><a href="http://www.robotwisdom.com/web/parsing.html">Browsers that Parse</a>, Jorn Barger: &#8220;generalise the repeated formatting-patterns and build regexps that can dissect them&#8221;<br />
+<a href="http://mnot.net/xpath2rss/">xpath2rss</a>, Mark Nottingham: &#8220;XPath is because it&#8217;s aware of HTML&#8217;s syntax&#8221;<br />
+<a href="http://www.w3.org/2000/08/w3c-synd/#">Site Summaries in XHTML</a>, Dan Connolly: &#8220;If you refer to this profile in your document, you claim that your page is intended to serve as a channel in the RSS sense&#8221;<br />
+<a href="http://www.dashes.com/anil/index.php?archives/004158.php">syndication formats?</a>, Anil Dash: &#8220;aggregators should be able to read an HTML file [&#8230;] All that would be needed is standardization of names and classes for page elements like DIVs and headers.&#8221;<br />
+<a href="http://www.dashes.com/anil/index.php?archives/004158.php">&#8212;</a>, Brent Simmons: &#8220;I like the idea.&#8221;<br />
+<a href="http://www.dashes.com/anil/index.php?archives/004158.php">&#8212;</a>, Matt Haughey: &#8220;I&#8217;d prefer to do this over RSS.&#8221;</p>
+
+<p>Sounds good to me: <a href="http://www.aaronsw.com/2002/rssXP">RSS: XHTML Profile</a> (RSS XP), spec and XSLT implementation.</p>
+
+<p class="posted">posted November 25, 2002 10:18 PM (<a class="category" href="cat_technology">Technology</a>)  <a href="000738" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000737" title="bandwidth and open spectrum">&laquo; prev</a> | <a href="./">up</a> | <a href="000742" title="Total Information Awareness Demo">next &raquo;</a></p>
+
+<p><a href="000731">I&#8217;ll be at Comdex</a><br />
+<a href="000733">Stirling Engine introduced on 60 Minutes, Segway on Amazon.com</a><br />
+<a href="000735">cupcake controls a prior restraint?</a><br />
+<a href="000736">photographic beauty</a><br />
+<a href="000737">bandwidth and open spectrum</a><br />
+<strong>the rss rebellion</strong><br />
+<a href="000742">Total Information Awareness Demo</a><br />
+<a href="000743">Creative Commons Launch!</a><br />
+<a href="000745">the next eldred</a><br />
+<a href="000746">web publishing is also typography (The Elements of Typographic Style)</a><br />
+<a href="000748">Santa Switch</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

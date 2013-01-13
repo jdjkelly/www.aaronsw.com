@@ -1,0 +1,51 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Flight Report (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000870" title="We&#8217;re Going to Japan" />	<link rel="next" href="000873" title="Live From Japan" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Flight Report</h1>
+</div>
+
+<div class="content">
+<p>Hi, I’m here at the AirPort, using the T-Mobile wireless. I’m sharing it by Ethernet to <a href="http://bensw.com/">my brother Ben</a>, who’s sharing it back via wireless so the rest of the family (and the airport) can use it without paying T-Mobile again.</p>
+
+<p>On the way over I was marvelling at what a great idea autosensing Ethernet cards are. Before the intelligence was in the cable: you had to be sure to use the right one depending on whether you were plugging into a hub or an uplink port or whatnot. Autosensing puts the intelligence at the ends. I suspect this is a novel use of the end-to-end principle.</p>
+
+<p>While I’m talking about neat technical things, I had occasion to use my bootable membership card. (If it’s <a href="http://nanocrew.net/img/fsf-card.jpeg">good enough for Jon Johansen</a>, it’s <a href="http://member.fsf.org/">good enough for you</a>!) There were a bunch of files we wanted to take on the plane with us, but they were on my brother’s Windows computer which required a password we didn’t know to log in. So I pulled the card out of my pocket and stuck it in. It found and mounted the hard drive automatically. I typed <code>trivial-net-setup</code> and hit return a couple times and it found the network and got an IP. (I’ve never gotten Linux to get an Internet connection that easily before!) I typed <code>/etc/init.d/sshd start</code> and it set up an SSH server. I copied the files off. It was great!</p>
+
+<p>Back to the flight. Since we’re flying internationally (<a href="http://www.aaronsw.com/weblog/000870">to Japan</a>) I didn’t get to see if O’Hare has a &#8220;Children With An Adult <a href="http://cryptome.org/freetotravel.htm">Fly Constitutionally</a>!&#8221; thing. </p>
+
+<p>We’re AA 153, and we’ll be boarding soon. <a href="http://tracker.flightview.com/fvUSAToday/FlightViewCGI.exe?Qtype=htm&amp;AL=AA&amp;ACId=153&amp;DEPAP=ORD&amp;ARRAP=NRT">Watch us!</a></p>
+
+<p class="posted">posted March 25, 2003 10:19 AM (<a class="category" href="cat_personal">Personal</a>)  <a href="000872" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000870" title="We&#8217;re Going to Japan">&laquo; prev</a> | <a href="./">up</a> | <a href="000873" title="Live From Japan">next &raquo;</a></p>
+
+<p><a href="000865">Spectrum Reflections</a><br />
+<a href="000866">How to Do Stuff</a><br />
+<a href="000868">letters from a rogue state</a><br />
+<a href="000869">where are the warmongers?</a><br />
+<a href="000870">We&#8217;re Going to Japan</a><br />
+<strong>Flight Report</strong><br />
+<a href="000873">Live From Japan</a><br />
+<a href="000875">Japanese Oddities</a><br />
+<a href="000887">Real News</a><br />
+<a href="000901">Illinois&#8217;s state &#8220;super-DMCA&#8221;</a><br />
+<a href="000904">Locked in the Trunk</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

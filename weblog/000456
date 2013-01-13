@@ -1,0 +1,70 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>i love it when a plan comes together (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000453" title="pay up for free software" />	<link rel="next" href="000457" title="is it rabbittime already?" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>i love it when a plan comes together</h1>
+</div>
+
+<div class="content">
+<p>Ever wondered what was in the blank space in <a href="http://web.archive.org/web/20020730151436/http://btr0xw.rz.uni-bayreuth.de/cjackson/escher/escher13.jpg">Escher&#8217;s Print Gallery</a>? The <a href="http://escherdroste.math.leidenuniv.nl/index.php?menu=animation&sub=bmpeg&a=0&b=1">answer, as this awesome movie shows</a> is (not suprisingly) the picture itself.</p>
+
+<p>Jef Raskin has <a href="http://sourceforge.net/projects/humane/">a SourceForge project for implementing his ideas in Python</a>.</p>
+
+<p>I was thinking it would be interesting to have a network flow sort of payment system. That is, I give &#8220;Aaron Points&#8221; to people who do things I like or believe in. Other people do the same with their currency system. Then, when someone puts money in, it flows through the network, each person taking a bit and passing the rest on. I guess this is like the PageRank algorithm except with money. I should talk to Raph about this. (See Raph&#8217;s <a href="http://www.levien.com/free/tmetric-HOWTO.html">Attack Resistant Trust Metric Metadata HOWTO</a> for background.)</p>
+
+<p>This puzzle has three parts. 1) Distributing the works. (Lots of people are already working on this and there are lots of systems to do it.) 2) Figuring out who should get paid for them. (This is much harder, and I don&#8217;t know of any working systems here. I guess you could watermark the songs with a payment address.) 3) Making it easy to send money to people. (PayPal does a pretty good job of this, but as Stallman points out, the minimum amounts are too high.)</p>
+
+<p>Kevin Marks: <a href="http://www.mediagora.com/">mediAgora</a>. &#8220;Getting heard and getting credit are great, but wouldn&#8217;t you like to get paid too? mediAgora defines a fair, workable market model that works with the new realities of digital media, instead of fighting them.&#8221;</p>
+
+<p><strong>Tech Translator:</strong><br />
+Intellectual Property -> Information (Intellectual) Monopoly<br />
+Digital Rights Management -> Digital Restrictions Mandate<br />
+Trusted Computing -> Treacherous Computers (Computing)<br />
+Piracy, Theft -> Sharing<br />
+Palladium -> Policeware<br />
+C# -> D flat</p>
+
+<p>Salon: <a href="http://www.salon.com/tech/feature/2002/07/30/file_trading/print.html">Sour notes</a>. &#8220;During the last three years, the battle against file sharing has become the entertainment industry&#8217;s version of the War on Drugs, an expensive, protracted, apparently ineffective and seemingly misguided battle against a contraband that many suggest does little harm.&#8221; </p>
+
+<p>Stallman: <a href="http://216.239.39.100/search?q=cache:x2ZI-2NLvJwC:www.cai.ie/2001%2520Lecture%2520papers/rs060201.pdf">Copyright vs. Community</a>. &#8220;[Information on how to make a copy of a DVD] is being is being treated as even more dangerous than how to make an atomic bomb, and that is perfectly understandable, because an atomic bomb could only be used to kill people, whereas this might endanger the profits of the corporations which the US Government exists to serve.&#8221;</p>
+
+<p>AP: <a href="http://asia.search.yahoo.com/search/news_asia_pf?p=ukey%3A748166&amp;img=http://sg.yimg.com/xp/afp/20020730/4027277343.jpg">Bush to crush &#8220;world&#8217;s worst leaders&#8221;</a><br />
+Bijan:</p><blockquote>I wonder if he intends to start with himself? Argh! he uses the Bush Patented Stupid Repetitive Rhetoric ploy:<blockquote>&#8220;We are going to respond in a determined, focused, effective way by defending freedom no matter what the cost, and that includes understanding we cannot let the world&#8217;s worst leaders blackmail the United States&#8230;with the world&#8217;s worst weapons,&#8221;</blockquote>Oh geez! Aside from the hypocracy and brute evil of this line, the repetition of &#8220;world worst&#8221; is straight out of &#8220;10 ways to ineffective use repeition, again&#8221;</blockquote><p></p>
+
+<p>Robb might like <a href="http://www.1do3.com/">1do3</a>.</p>
+
+<p>Exciting news on the metadata front.</p>
+
+<p class="posted">posted July 30, 2002 09:24 AM (<a class="category" href="cat_others">Others</a>)  <a href="000456" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000453" title="pay up for free software">&laquo; prev</a> | <a href="./">up</a> | <a href="000457" title="is it rabbittime already?">next &raquo;</a></p>
+
+<p><a href="000447">get out of my hair</a><br />
+<a href="000450">Eyesight Feedback</a><br />
+<a href="000451">movable code</a><br />
+<a href="000452">irby nation</a><br />
+<a href="000453">pay up for free software</a><br />
+<strong>i love it when a plan comes together</strong><br />
+<a href="000457">is it rabbittime already?</a><br />
+<a href="000459">rabbit, rabbit</a><br />
+<a href="000461">today&#8217;s featured superhero: D. J. Bernstein</a><br />
+<a href="000463">you can&#8217;t handle the x-height!</a><br />
+<a href="000465">miller reminds you to think when you link</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

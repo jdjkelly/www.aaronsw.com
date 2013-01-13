@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Take a step back (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Take a step back</h1>
+
+<p><em>This post introduces a new series, <a href="rawnerve">Raw Nerve</a>.</em></p>
+
+<p>For most of my life, I saw my job as just making good choices. I was the decider, tasked with making the best selection from the options life presented. I could play with this friend or that one, go to this college or that one, take this job offer or the other one.</p>
+
+<p>Even my problems I dealt with this way. If someone was annoying me, I&#8217;d choose to avoid them. If something was bugging me, I&#8217;d choose to stop thinking about it. I mostly kept my eyes on what was in front of me.</p>
+
+<p>But recently I&#8217;ve started appreciating the virtues of stepping back and trying to see the bigger picture. Instead of just picking the best option, I try to invent new ones. Instead of just avoiding the stuff that bugs me, should I start making plans to fix them.</p>
+
+<p>It&#8217;s given me a weird feeling. I feel more in control of my life, more able to cope with my problems. I feel like I&#8217;m charting my own destiny, instead of following some track. It&#8217;s hard to explain, but it&#8217;s a feeling like I&#8217;m getting stronger &#8212; not physically, but psychologically. It&#8217;s a good feeling. I feel like I&#8217;m growing as a person.</p>
+
+<p>So I started wondering: <em>Is there more where that came from?</em> I realized I&#8217;ve never stopped to ask whether I could get better at life. After all, in my day job, I&#8217;m constantly looking for ways to learn and grow &#8212; reading the latest books and articles about the field, talking to other people with similar jobs and hearing what&#8217;s worked for them. Why aren&#8217;t I doing the same thing for life?</p>
+
+<p>It turns out to be surprisingly hard. Life comes with no instruction manual and the advice parents give is all over the place. TV and the newspapers don&#8217;t offer much more than narrow Quick Tips and I never saw a course in this stuff at school. There are self-help books and self-improvement courses, of course, but they seem overly practical: they&#8217;re usually less about working through tough problems and more about energizing you to Get Up And Go! And there&#8217;s philosophy about The Good Life, but it seems to go too far in the other direction: there&#8217;s very little in there for someone to practically apply.</p>
+
+<p>The blogs are a weird mix. There are the blogs on &#8220;life hacks,&#8221; which are full of gadgets and gizmos that seem to cause more problems than they solve. There are the anti-procrastination blogs, where the author has a constant stream of epiphanies that all seem to amount to &#8220;just put away the distractions and get stuff done.&#8221; And there are the charlatans, who tell you that all your wildest dreams can come true if you just follow their patented advice.</p>
+
+<p>So instead of an obvious place to go, I&#8217;ve just been finding little bits and pieces in all sorts of strange places: psychology experiments, business books, philosophy, self-help, math, and my friends. But since there&#8217;s no community around it, it&#8217;s hard to discuss it with anyone (trying to persuade other people to be interested in what you&#8217;re interested in is a fool&#8217;s game).</p>
+
+<p>So I figure I&#8217;ll just start writing about it here and see if anyone cares. Maybe it&#8217;ll grow into something, but even if it doesn&#8217;t at least I&#8217;ll clarify my thoughts and hopefully get a few good suggestions for further reading.</p>
+
+<p>I don&#8217;t have a name for what I&#8217;m talking about or even a good sense of what it is. I&#8217;m hopeful that will become clearer with practice. But in the meantime, what&#8217;s helped you get better at life?–at thinking, deciding, working, thinking. Whether it&#8217;s a gadget or technique or book or person, I&#8217;d love it if you <a href="http://talk.aaronsw.com/take-a-step-back">posted what you&#8217;ve found most helpful in the comments</a>.</p>
+
+<p><strong>Next in this series:</strong> <a href="dweck">Believe you can change</a></p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">August 18, 2012</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_shortname = 'aaronswtalk';
+    var disqus_url = 'http://talk.aaronsw.com/take-a-step-back';
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the comments.</noscript>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

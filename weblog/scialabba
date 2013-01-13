@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>What Are Intellectuals Good For? (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>What Are Intellectuals Good For?</h1>
+
+<p>There was once an era where great men strode among us. The Intellectuals, as they were known, had an opinion on everything and would share it, at length, with elegance and verve. Unfortunately, the explosion of information beginning in the sixties rendered them all-but-extinct and the electronic transformation of the past few decades threatens to finish the job. Still, we can&#8217;t but admire them and their milieu.</p>
+
+<p>This certainly seems to be George Scialabba&#8217;s position. The greatest working book reviewer &#8212; when the National Book Critics Circle inaugurated their Excellence in Criticism award, he was their first recipient &#8212; collects his reviews of these grand men&#8217;s work and a sampling of his own in his new collection, <em>What Are Intellectuals Good For?</em> The result is a delightful introduction to this world of ideas.</p>
+
+<p>Scialabba&#8217;s own position is best summarized by his dedication: &#8220;For Chomsky, Rorty, Lasch.&#8221; In other words, he is a man of impeccable left-wing politics, a refusal to believe in any philosophical verities, and a deep skepticism about the benefits of Enlightenment progress. This is not exactly a popular combination &#8212; surely Chomsky and Ehrenreich have more fans than Rorty and Lasch &#8212; but it is a provocative one. And Scialabba&#8217;s genius is that he can make such counterintuitive ideas, expressed by such Olympian intellectuals, seem not just clear but common sense. A dedicated follower of the left-rationalist-progressive tradition, I had to continually catch myself from nodding along in agreement.</p>
+
+<p>Recommended for anyone who&#8217;s a fan of the Intellectual Scene and the men and women who inhabit it.</p>
+
+<p><em>Disclosure:</em> Scialabba sent me an inscribed copy of the book.</p>
+
+<ul>
+<li><a href="http://books.theinfo.org/go/0978515668">Buy the book</a></li>
+<li><strong>Wednesday:</strong> <a href="http://www.harvard.com/events/press_release.php?id=2253">Reading at the Harvard Book Store</a></li>
+<li><a href="http://www.georgescialabba.net/">Scialabba&#8217;s web site</a></li>
+</ul>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">April 14, 2009</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>Intellectuals aren&#8217;t necessarily worth more than the average person.  But some intellectuals have another characteristic, and when intellectualism and this characteristic are combined they ultimately lead to great things, not just for that person, but for humanity.  That characteristic is compassion.</p>
+
+<p>I find that intellectuals with compassion tend to think in a way that involves the bettering of humanity, not just how they can make a million dollars.  So while the average intellectual is just as worthless as most corporate businessmen, the compassionate intellectual is the one that will change the world.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.zencollegelife.com">Ibrahim | ZenCollegeLife.com</a>
+ on April 17, 2009 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="scialabba" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

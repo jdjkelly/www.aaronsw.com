@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Bubble City: Chapter 5 (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Bubble City: Chapter 5</h1>
+
+<p>Stare. Stare. Tick. Tick. Ancient art hung on the walls. Ancient books
+lined the shelves. The light fixtures looked like they hadn&#8217;t been
+dusted since Carter urged Americans to save electricity. &#8220;So, how are
+things at the new offices?&#8221; a wisened-looking old man sitting at the
+other end of the table asked. &#8220;Oh, fine, Grandpa,&#8221; Jason replied.
+&#8220;What is it you guys do again? Videos of models doing backflips?&#8221;
+&#8220;No,&#8221; Jason said with a sigh. &#8220;We&#8217;re a news site.&#8221; &#8220;You mean like the
+New York Times?&#8221; &#8220;Kind of, except we don&#8217;t write the news, we just try
+to find bits of it for you.&#8221; &#8220;How do you do that?&#8221; &#8220;Well, we look at
+everything people on the Internet are reading and talking about and
+then we try to pick out which of those people are most like you and
+tell you about the stories they like at the moment.&#8221; &#8220;I see,&#8221; the old
+man said. &#8220;I see.&#8221;</p>
+
+<p>&#8220;So how well does it work?&#8221; &#8220;Well, uh, not so great, actually. That&#8217;s
+what I&#8217;ve been investigating lately.&#8221; &#8220;What do you mean?&#8221; &#8220;Well, it
+seems like the site is recommending everyone the same inane stuff,
+like stupid videos and that sort of thing.&#8221; &#8220;Ah, yes. Well, hate to
+say I told you so, but this is just like that article i was reading
+in&#8212;what was it? <em>Foreign Affairs</em>?&#8212;predicted.&#8221; &#8220;What do you mean?&#8221;
+&#8220;It said that in the future we&#8217;d have this personal newspaper all you
+tech wizards have been promising us, only it&#8217;d recommend us the same
+stupid crap (pardon my language) that average people have been
+enjoying for centuries.&#8221;</p>
+
+<p>&#8220;Really?&#8221; Jason asked, suspicious. &#8220;Do you happen to have the
+article?&#8221; &#8220;Oh yes, it&#8217;s right over&#8212;&#8221; the old man stood up to get it
+but then remembered he had broken his knee, the ostensible reason for
+Jason&#8217;s visit, and thought better of it. &#8220;It&#8217;s right over there&#8212;could
+you fetch it for me?&#8221; &#8220;Oh, of course,&#8221; Jason said. He pulled it down
+and flipped through it.</p>
+
+<p>It was by the former editor of the New York Times and made the usual
+viritolic case for trusting human editors over some algorithm based on
+the whims of random people. And somehow it found a way to compare news
+recommenders to street vomit, which Jason had to admit was a
+depressingly common sight in San Francisco. Jason briefly wondered if
+the old media was using the backdoor to prop up their dying business
+models, but quickly decided nobody at those companies was clued-in
+enough to know what a backdoor was.</p>
+
+<p>&#8220;Yes, yes, I&#8217;ve heard all this, Grandfather, but I just don&#8217;t buy it.&#8221;
+&#8220;Oh, what&#8217;s your explanation? Just need to improve the technology, eh?
+Because I&#8217;ve heard that one more than a few times.&#8221; &#8220;No, I think
+someone is trying to manipulate the results.&#8221; &#8220;What? Oh, god, you
+young people are always jumping to conspiracy theories. Why can&#8217;t you
+just admit your precious little system doesn&#8217;t work? Why do you have
+to create some shadowy cabal of people trying to control the news.&#8221;
+Jason just sighed. &#8220;Let&#8217;s talk about something else.&#8221;</p>
+
+<p>&#8220;What&#8217;s your shirt say? Daring Fireball? What&#8217;s that?&#8221;</p>
+
+<hr />
+
+<p>Wayne quickly found that, although Google didn&#8217;t want their name on
+the check or the web site, they were most accommodating in other
+matters. They gave him a nice little office inside the Googleplex, let
+him play with all the fancy equipment and company perks (free laundry,
+free swimming pool, free video games), and had a stream of people
+coming by to chat him up and suggest new ideas for promoting NNA.</p>
+
+<p>He was a bit wary of getting so close to someone he had so often
+railed against, but he thought that perhaps this was his reward for
+his ceaseless railing. Anyway, there were a lot of other evils out
+there to fight, and if working with Google made him more effective at
+fighting those, wasn&#8217;t it, on balance, a good thing? And the free food
+was nice too.</p>
+
+<hr />
+
+<p>On the plane back, Jason tried to figure out the meaning of the
+S-boxes. He spent the first couple hours tracing the code, trying to
+understand how it worked and how the S-boxes were used, before finally
+giving up in frustration. It was just too complicated.</p>
+
+<p>So, being a programmer, he decided to try a more automated approach.
+First, he took NNA and replaced its random number generating system
+with a function that always returned the number 17 (17 was a pretty
+random number, right?). Then he made a copy in which the only thing he
+changed was the S-boxes. He then wrote a program to generate random
+input files for the recommender. It fed the same file to both
+recommenders &#8212; the normal one and the one with the modified S-boxes
+&#8212; and it looked at the output to see if there were any differences.
+Since he&#8217;d taken all the randomness out of the algorithm, any
+difference in output had to be due to the one thing that had changed:
+the S-boxes. In other words, the program would search for inputs that
+triggered the S-boxes.</p>
+
+<p>There was just one problem: there were a lot of possible inputs. For
+the rest of the plane ride, his program tried thousands and thousands
+of inputs, but none of them showed any difference. When the plane
+landed, he slipped his laptop in his bag and let it keep crunching,
+but he knew he&#8217;d have to try a different tack.</p>
+
+<hr />
+
+<p>Wayne Darnus told everyone who would listen that he had invented NNA,
+but as far as Jason could tell, he was using invented in the most
+loosest of senses. Digging back through the changelog on the NNA
+source code, which was provided for free to all from a project on
+SourceForge, he found the code was originally written by some
+programmer at Yahoo, back when Yahoo had real programmers. Getting a
+name was near impossible &#8212; Yahoo had apparently insisted that all its
+programmers contribute under the name &#8220;A Yahoo!&#8221; Some boneheaded
+corporate consistency policy, no doubt.</p>
+
+<p>But the author must have given up his identity <em>somewhere</em>. Then it
+hit him: mailing lists. No programmer worth their salt could give up a
+good mailing list flamewar. Whoever wrote NNA must have shown up on a
+mailing list once or twice to defend it. Finding him would be easy:
+all Jason had to do was read through ten or twenty thousand messages
+arguing about the minutiae of NNA&#8217;s design principles.</p>
+
+<p>After trawling through interminable debates in mailing list archives,
+for what felt like days, Jason finally found a post from a man who&#8217;s
+patronizingly knowledgeable tone unmistakably indicated that he was the
+one who wrote it all. And the message was posted from home, so his
+computer had no qualms about signing his name. There it was in black
+and white, the man who had started it all: Dan Miller.</p>
+
+<p>Dan Miller was a rather elusive party. He had no website or home page
+and despite NNA&#8217;s incredible popularity, he&#8217;d apparently never been
+interviewed by the press. (Wayne had been interviewed endlessly, of
+course. Whenever someone neglected to include him in their
+history books, he complained about their lack of commitment to
+historical accuracy on his vlogcast.) Jason wasn&#8217;t too surprised,
+though. Finding MIller hadn&#8217;t been easy, and he hadn&#8217;t known many
+journalists who were willing to do much work to get a technology
+story.</p>
+
+<p>Miller&#8217;s entry in the Yahoo corporate directory had long since gone
+stale &#8212; he&#8217;d left years ago &#8212; and emails to his personal account
+bounced with the message &#8220;Mailbox full.&#8221; &#8212; overflowing with spam,
+presumably.</p>
+
+<p>He just couldn&#8217;t get a handle on this guy. So he called Eric. &#8220;Oh,
+yeah, Miller. Wow, there&#8217;s a name I hadn&#8217;t heard in a long time. So
+you think he might be your source into cracking this NNA thing?&#8221;
+&#8220;Seems like it&#8217;s worth a shot,&#8221; Jason replied. &#8220;Yeah, I suppose it
+does. Alright, then, well, I guess I&#8217;ll look this up for you. What are
+we searching for? OK, here we go: Daniel Miller, last known employer
+Yahoo. Uhhh, OK, he lives in Mill Valley, I&#8217;ll email you his address.&#8221;
+&#8220;Wow, Eric, that&#8217;s incredible. Thanks so much.&#8221; &#8220;No trouble; it&#8217;s
+always nice to have an excuse to use these skills.&#8221;</p>
+
+<p>Marin County wasn&#8217;t exactly known for its comprehensive public
+transport system, so Jason hopped a cab, which deposited him someplace
+random in the middle of a hillside. He climbed around for a while
+looking for the house he knew must be nestled in it somewhere, before
+finally locating the place. He navigated his way to the entrance, then
+knocked politely on the door.</p>
+
+<p>He wondered how a software developer could live in a place like this
+&#8212; isolated from the rest of the Valley, away from the buzz and
+excitement of the industry. But then again, he wondered how a software
+developer could live without having a website. Maybe Miller wasn&#8217;t
+much of a software developer.</p>
+
+<p>A man in a beard who looked to be about in his late fifties answered the
+door. &#8220;Hello?&#8221; he said, apparently unaccustomed to receiving visitors.
+&#8220;Dan Miller?&#8221; &#8220;Yup. &#8220;Hey there, I was looking into NNA&#8217;s source code
+and I have a few questions. I know you probably hate to be bugged
+about software you wrote over a decade ago, but I came all the way out
+here and I&#8217;d really appreciate just a bit of your time to answer just
+a question or two about NNA.&#8221;</p>
+
+<p>Miller smiled knowingly and gave Jason a long, piercing gaze. &#8220;ah,
+yes,&#8221; he said at last. &#8220;I&#8217;ve been expecting you.&#8221;</p>
+
+<p><em>Tomorrow:</em> <a href="bubblecity6">Chapter Six</a></p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">November  6, 2007</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>Loving the story.  Keep up the good work.</p>
+
+<p class="posted">posted by nzljim
+ on November  6, 2007 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>Starting to get exciting!</p>
+
+<p>I know you&#8217;re expecting errors, but just in case you want to edit it at some point: Wayne&#8217;s last name switched from Darnus to Durdis around chapter 4.</p>
+
+<p class="posted">posted by Erik
+ on November  6, 2007 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>This is good stuff :)</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://aarjav.org">Aarjav</a>
+ on November  7, 2007 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>Great story so far, but you seem to be lacking restraint in teasing your readers. The pace of the story has really picked up as compared to the beginning. Not that I mind ;~)</p>
+
+<p class="posted">posted by Andrew
+ on January 16, 2009 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="bubblecity5" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

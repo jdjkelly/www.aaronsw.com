@@ -1,0 +1,53 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Apple Goodies (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000792" title="Get your $20 from the music companies!" />	<link rel="next" href="000794" title="TiVo and Macs and Networks, oh my!" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Apple Goodies</h1>
+</div>
+
+<div class="content">
+<p>Source code to Safari&#8217;s HTML renderer: <a href="http://developer.apple.com/darwin/projects/webcore/">WebCore</a> (<a href="http://lists.kde.org/?l=kfm-devel&amp;m=104196912316326&amp;w=2">announcement and list of changes</a>). Hopefully 3rd-party apps (<a href="http://ranchero.com/software/netnewswire/">NNWL</a>, <a href="http://www.panic.com/~stevenf/mt/archives/000136.php#000136">WebDesktop</a>) will use this.</p>
+
+<p>The Apple X Server: <a href="http://www.apple.com/macosx/x11/">X11 for Mac OS X</a>. <em>Awesome!</em></p>
+
+<p>Funny AlBook commercial: <a href="http://www.apple.com/hardware/video/powerbookg4bigandsmall.html">Big and Small</a>.</p>
+
+<p><a href="http://www.apple.com/safari/">Safari</a> made me realize that I really don&#8217;t like tabbed browsing; I was just using it because everyone else liked it so much. (<strong>Update:</strong> Or maybe it was <a href="http://improbable.org/chris/?ID=95">because Chimera is so slow otherwise</a>. Either way, <a href="http://mpt.phrasewise.com/2002/07/03#a292">another point to mpt</a>.)</p>
+
+<p>On the other hand, I do like spell checking in text-edit forms like this one! :-)</p>
+
+<p>Do you have a copy of <a href="http://www.apple.com/keynote/">Keynote</a>? <a href="mailto:keynote@aaronsw.com">Email me</a>, I have a few questions. Also, if you&#8217;re at Macworld, be sure to <a href="http://www.panic.com/goodies/macworld/">pick up a Panic CD</a>.</p>
+
+<p class="posted">posted January 07, 2003 02:55 PM (<a class="category" href="cat_technology">Technology</a>)  <a href="000793" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000792" title="Get your $20 from the music companies!">&laquo; prev</a> | <a href="./">up</a> | <a href="000794" title="TiVo and Macs and Networks, oh my!">next &raquo;</a></p>
+
+<p><a href="000788">Is the Treo ideal?</a><br />
+<a href="000789">Classic PowerPoint Presentations</a><br />
+<a href="000790">How Misleading Can You Get?</a><br />
+<a href="000791">growth spurt</a><br />
+<a href="000792">Get your $20 from the music companies!</a><br />
+<strong>Apple Goodies</strong><br />
+<a href="000794">TiVo and Macs and Networks, oh my!</a><br />
+<a href="000795">&#8220;I helped hijack an airplane&#8221;</a><br />
+<a href="000796">DO THIS NOW</a><br />
+<a href="000797">Last Chance to Comment</a><br />
+<a href="000798">good thing they&#8217;re finite</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

@@ -1,0 +1,313 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Stanford: Tuesday, December 7 (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001548.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001547" title="George Ryan on the Penalty of Death" />	<link rel="next" href="001551" title="Stanford: Wednesday, December 8" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Stanford: Tuesday, December 7</h1>
+</div>
+
+<div class="content">
+<p>The critics are ranting about Aaron Swartz&#8217;s writing!</p>
+
+<p><strong><a href="http://www.aaronsw.com/weblog/static/emergent-schools">Emergent Effects of School Desegregation</a></strong></p>
+
+<p>&#8220;Demeaning!&#8221; proclaims his IHUM TF. A &#8220;very biased and one-sided&#8221; work that is &#8220;insulting to blacks, to me, to people in general, and unnecessarily so.&#8221; &#8220;You make very broad and controversial claims [that] are completely unsupported &#8230; very biased and one-sided. &#8230; consider the opposing view&#8221;</p>
+
+<p><strong><a href="http://www.aaronsw.com/weblog/static/japans-warning">Japanese Schools: Critical Fodder for the the &#8216;I&#8217; or a Warning for the &#8216;Me&#8217;?</a></strong></p>
+
+<p>Too &#8220;fun to read&#8221;, complains his Sociology TA. It needs to &#8220;look much more academic&#8221;.</p>
+
+<p>Now you too can torture yourself by reading the atrocious writing that all the teachers are vomiting over! (Honestly, it&#8217;s not very good writing &#8212; especially the first one &#8212; but I don&#8217;t think that&#8217;s why I got a bad grade. The teachers here will give As to writing that&#8217;s even worse, as long as it&#8217;s written in the appropriate style. As usual, grades are about following orders, not doing something worthwhile.)</p>
+
+<hr />
+
+<p>Tonight was a nice performance of four short films by students. They were all biopics, recorded on an old black-and-white camera that had to be hand-wound while you were filming and all sound had to be recorded separately. They were then edited by splicing the film together by hand. Despite these amazing obstructions, they came out pretty well.</p>
+
+<p>I sat next to this guy, Chris, who I see asking questions at practically every event I go to; he seemed enthusiastic and friendly. On the way back, I see people smoking for what I think is the first time on campus. (I later learn that Kat smokes, although she keeps it well-hidden, when she asks me to carry her cigarettes.) There are also bicycle-riders who manage to ride and steer without using any hands; it&#8217;s quite impressive.</p>
+
+<p class="posted">posted February 06, 2005 09:51 PM (<a class="category" href="cat_education">Education</a>) (<a href="#comments">13 comments</a>) <a href="001548" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001547" title="George Ryan on the Penalty of Death">&laquo; prev</a> | <a href="./">up</a> | <a href="001551" title="Stanford: Wednesday, December 8">next &raquo;</a></p>
+
+<p><a href="001541">Stanford: Friday, December 3</a><br />
+<a href="001542">Stanford: Saturday, December 4</a><br />
+<a href="001545">Your Congress is a Bunch of Idiots</a><br />
+<a href="001546">Stanford: Sunday, December 5</a><br />
+<a href="001547">George Ryan on the Penalty of Death</a><br />
+<strong>Stanford: Tuesday, December 7</strong><br />
+<a href="001551">Stanford: Wednesday, December 8</a><br />
+<a href="001552">Edward Tufte on Beautiful Evidence (and more Stanford: December 8)</a><br />
+<a href="001557">Stanford: Thursday, December 9</a><br />
+<a href="001558">Home Again</a><br />
+<a href="001559">Home: Life and Love</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c3899">
+
+<p>Very interesting.  I think you and the IHUM professor are headed towards some Ryan/Hanksian love story. <br />
+May I suggest:</p>
+
+<p>&#8220;Ant Farm&#8221;</p>
+
+<p>or</p>
+
+<p>&#8220;Demeaning of Love&#8221;</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.allthingsalceste.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3899">Dan Steingart</a> at February  6, 2005 10:45 PM <a href="#c3899">#</a></p>
+
+</div><div id="c3901">
+
+<p>Dropping your score for the 2nd paper substantially for not conforming to the approved form for college essays is the most brilliant case of Ironic Grading I believe I&#8217;ve ever witnessed!  Well done, that TA.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.hughes-family.org/craig/b2" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3901">Craig Hughes</a> at February  6, 2005 11:54 PM <a href="#c3901">#</a></p>
+
+</div><div id="c3903">
+
+<p>Someone being judgemental about ants, and taking things as a personal attack is not really qualified to grade. One could say&#8230; :p</p>
+
+<p>Quote :While I&#8217;m not sure that you will take any of my suggestions and criticisms serious, for I am just part of the ants who are meant to maintain the corrupt dominant institutional system, but I really recommend that you learn to go about making your arguments in more academic and supported fashions &#8212; making strong, accusatory, and unsupported claims just turns people off from listening to you and taking you seriously, which is unfortunate, because you have some interesting ideas.</p>
+
+<p>This § is beating the sh*t out of itself. I suggest your TA to do some proofreading and to weed out stupid and inappropriate comments from grading. Isn&#8217;t the purpose to learn ? It&#8217;s dubious one would be compelled to learn to express &#8220;the opposite view&#8221; by reading that. Stupid ants, you say it&#8230;</p>
+
+<p class="posted">posted by Cn at February  7, 2005 08:05 AM <a href="#c3903">#</a></p>
+
+</div><div id="c3904">
+
+<p><i>&#8220;High school life perhaps most clearly parallels life as a middle manager: Sitting at desks under florescent lights completing assignments on paper to curry favor from the person in charge and to receive manufactured awards.&#8221;</i></p>
+
+<p>Although, as my friend Bertram notes, at least in high school there is light at the end of the tunnel.</p>
+
+<p class="posted">posted by Sean Neakums at February  7, 2005 08:42 AM <a href="#c3904">#</a></p>
+
+</div><div id="c3906">
+
+<p>Is there a difference between artificial situations like segregation and natural situations like Caucasian migration to the suburbs?  I would argue so.  I would also argue that it is important to stamp out the former, from the top down if necessary, while the latter can and must be left alone to be solved[1] from the bottom up by the progression of time.</p>
+
+<ol>
+<li>This assumes, of course, that you consider the current situation to be a problem to be solved.  I&#8217;m still not sure whether or not I believe it is.</li>
+</ol>
+
+<p class="posted">posted by <a target="_blank" title="http://whereswaldo.mit.edu/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3906">Jeff Walden</a> at February  7, 2005 10:00 AM <a href="#c3906">#</a></p>
+
+</div><div id="c3918">
+
+<p>Aaron,</p>
+
+<p>I read the essay and I have to agree with the TAs grade if not his or her comments. You touch on a few interesting ideas but do little to explore them. I&#8217;d recommend you read Massey and Denton&#8217;s &#8216;American Apartheid.&#8217; They&#8217;re brilliant scholars who discuss the state of segregation in America and discuss a number of explanations for why the current level of segregation exists. Massey and Denton discuss at least one agent-based model of segregation that you&#8217;d probably be very interested in (like your ants). There&#8217;s some great scholarship on this topic and I recommend you check out Larry Bobo&#8217;s seminars when he moves to Stanford next fall. He&#8217;s a wonderful teacher and will challenge you.</p>
+
+<p>Noah</p>
+
+<p class="posted">posted by Noah at February  7, 2005 07:40 PM <a href="#c3918">#</a></p>
+
+</div><div id="c3924">
+
+<p>Hmm, the comments of your sociology TA look very favourable to me. So, you didn&#8217;t follow form because you think its stupid?  Or because you thought it would make the result unreadable? Her comments seem very sensible to me, nothing that would make a paper hard to read.  What exactly don&#8217;t you like about them?  Your summarizing words don&#8217;t do her justice.</p>
+
+<p>
+Its easy to disregard criticism when it comes from a person you dislike.  However, you&#8217;re not changing her, you&#8217;re just hurting yourself.</p>
+
+<p class="posted">posted by ingo at February  8, 2005 03:27 AM <a href="#c3924">#</a></p>
+
+</div><div id="c3934">
+
+<p>Aaron, non-geeks like your teacher probably aren&#8217;t up on the works of Eric Bonabeau and other research on using the behavior of ants (and termites, flocks of birds, schools of fish) as models for self-organization. So she&#8217;s missing your allusions. 
+Footnotes would help.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.alevin.com/weblog" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3934">Adina Levin</a> at February  9, 2005 12:09 AM <a href="#c3934">#</a></p>
+
+</div><div id="c3937">
+
+<p>Interesting point about &#8216;amazing obstructions&#8217;.</p>
+
+<p>A fiend recently watched me put together a clip of audio in Garageband. &#8220;Look,&#8221; I said, &#8220;how easy it is!&#8221;. &#8220;But I would do that much quicker with my 8-track recorder. And I don&#8217;t know how to use Garageband.&#8221;</p>
+
+<p>All &#8216;technology&#8217; has to be learned. Perhaps better technologies are easier to learn?</p>
+
+<p>Also, some techniques allow (experts?) a wider range of expression: http://www.alternativephotography.com looks like pretty hard work to me&#8230;</p>
+
+<p class="posted">posted by <a target="_blank" title="http://robertbrook.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3937">Robert Brook</a> at February  9, 2005 05:42 AM <a href="#c3937">#</a></p>
+
+</div><div id="c3942">
+
+<p>Oh come on, Aaron. Your ego shines through this defensiveness. Your TA is giving you valuable advice. As far as I can tell, your pieces lack intellectual rigor. You rarely question your own assumptions.</p>
+
+<p>You don&#8217;t even define &#8220;Emergence&#8221; and what makes the social changes an emergent. Furthermore, text like the following has no place in an academic essay, unless strongly supported and analyzed:</p>
+
+<p><i>Still, it must be stressed that the NAACP&#8217;s attack was hardly as democratic as this treatment may make it seem. Such actions were largely done for pragmatic, not ideological, reasons. </i></p>
+
+<p>&#8230; School is the first step in a sorting process that chooses the most obedient and malleable of children to internalize the rules of the system so they can safely become the leaders of tomorrow. Those who are not sufficiently obedient, as well as those who are left over after all the leadership spots are filled, are given more heavily-supervised physical jobs where their mental compliance is not necessary.</p>
+
+<p>I have no idea who you are Aaron, or why you are a &#8220;famous&#8221; person on the web. I came across your blog because it is a default bookmark in NetNewsWire. All I know is that you are a university student.</p>
+
+<p>However, reading your blog has been kind of thrilling, almost like watching a train wreck. It&#8217;s hard to look away, because the arrogance you exhibit, and anti-social tendencies are so strong. Maybe if I read more of your writing, I can get a better understanding of where such a sense of entitlement comes from.</p>
+
+<p>You are obviously intelligent in many ways, and have been praised for that widely by the community. But all the intelligence in the world is useless unless you try to understand people and society, emotions, etc.</p>
+
+<p>Don&#8217;t cruise by on your natural ability. Listen, and challenge yourself. Don&#8217;t dismiss others so quickly.</p>
+
+<p class="posted">posted by person at February 10, 2005 04:28 PM <a href="#c3942">#</a></p>
+
+</div><div id="c3943">
+
+<p>I have to say that your TA hit the nail on the head with this one:</p>
+
+<p><i>You also need to work more on tying this section into the rest of your discussion &#8212; in one light it looks like you just wanted to make a random point about your views of the nature of society. While I know you think that this point is very relevant, you need to work hard to show its relevance. What you end up arguing is that integration is worse for blacks, b/c integration just puts them in the corrupt system. But notice that if you had said this explicitly, you&#8217;d be forced to discuss which is worse: being segregated into second-class citizenship of a bad society or being integrated into equal citizenship of a bad society. So even if you are right about the nature of society, it still seems like integration is better than segregation.</i></p>
+
+<p>Your comments along these lines really do sound racist. Not only are you suggesting that whites should protect blacks from the whites&#8217; own system, you are suggesting they be protected from their own desire to succeed in that system.</p>
+
+<p>It also appeals to a &#8220;noble savage&#8221; essentialism that ascribes qualities of &#8220;non-corrupt&#8221; and &#8220;anti-authority&#8221; to blacks, ignoring that there were certainly many black slaveowners and capitalists exploiting blacks in Africa before they came to America.  ignoring the fact that there are many black authoritarians and fascists, and many white anti-authoritarians and anarchists.</p>
+
+<p>Maybe some blacks WANT to be part of the corrupt system on the higher levels? You know, the American dream that many immigrants live for. </p>
+
+<p>You also ignore the fact, that even if they aren&#8217;t brainwashed into the &#8220;corrupt elite&#8221; - their lives are still ruled by that corrupt system. Is being a poor burger-flipper for McDonalds less corrupt than being a black academic or businessperson? How exactly can a black person hope to escape the system?</p>
+
+<p>You have to pay the bills somehow. It&#8217;s easy to say &#8220;do as I say, not as i do&#8221; from the luxury of your position. What would you do if the situation were reversed?</p>
+
+<p class="posted">posted by person at February 10, 2005 04:48 PM <a href="#c3943">#</a></p>
+
+</div><div id="c3950">
+
+<p>It&#8217;s not as hard as it might look to steer a bike with no hands.  It&#8217;s easier on some bikes than on others, but mostly it&#8217;s just being really familiar with the balance of your particular bike.   </p>
+
+<p>Practice just riding straight without hands, then making small steering adjustments will come easy&#8230;</p>
+
+<ul>
+<li>ask</li>
+</ul>
+
+<p class="posted">posted by <a target="_blank" title="http://askask.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3950">Ask Bjørn Hansen</a> at February 12, 2005 04:44 PM <a href="#c3950">#</a></p>
+
+</div><div id="c4017">
+
+<p>Your critics often have useful information, even if they don&#8217;t exactly get it right.</p>
+
+<p>Don&#8217;t overworry about stylistic stuff. Some courses will insist on a dry tone.  Guess what?  Some &#8220;real-world&#8221; stuff does, too!  Think journal publications, for excample&#8212;and even there there&#8217;s I&#8217;m sure a wide variation.  You always should write to your audience, though.</p>
+
+<p>There are undoubtedly plenty of places (courses) to have a freer pen; in college there are generally lots of writing opportunities, many with less restrictions on style.</p>
+
+<p>Not everything you will do will be fun or interesting, but it may be necessary to get to the stuff that is fun and interesting.</p>
+
+<p class="posted">posted by Rich at February 25, 2005 12:03 PM <a href="#c4017">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001548.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1548" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

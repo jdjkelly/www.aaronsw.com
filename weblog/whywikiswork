@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Eight Reasons (Some) Wikis Work (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Eight Reasons (Some) Wikis Work</h1>
+
+<p><em>published at <a href="http://www.personaldemocracy.com/node/1121">Personal Democracy Forum</a></em></p>
+
+<p>The stunning success of Wikipedia in creating an encyclopedia from scratch has led many to believe that they can achieve similar results. (Want to get rich? Easy! Just install the MediaWiki software, title it &#8220;how to get rich&#8221;, and wait for the answers to start flowing in.)</p>
+
+<p>Clearly the wiki approach does not solve every problem. So what made Wikipedia work so well? We can&#8217;t say for certain, but by looking at similar sites that haven&#8217;t taken off &#8212; as well as those that have (like <a href="http://www.tviv.org/">TV IV</a>) &#8212; we can spot some patterns.</p>
+
+<ol>
+<li><p><strong>Clear goal.</strong> Wikipedia is an encyclopedia. It&#8217;s an understandable task with a clear end result. When you want to know something, you know whether it&#8217;s the kind of thing that might be in Wikipedia or not. And when you want to contribute, you know what kinds of things to add. By contrast simply adding a wiki to your existing website has no clear purpose.</p></li>
+<li><p><strong>Worth doing.</strong> Collecting the sum of human knowledge in one place is just the kind of grand goal that inspires their people to sink their time into a big, collective effort. There are people on Wikipedia who spend their time going down long lists of computer-generated format and style errors, fixing each one by hand. It&#8217;s hard to imagine people putting the same amount of effort into cleaning up a wiki about the greatness of Tide laundry detergent. But people are willing to do it for something only a few people care a lot about (like a very specialized technical topic) or something a lot of people care a little about (like a piece of popular culture).</p></li>
+<li><p><strong>Objective standards.</strong> It&#8217;s pretty clear what an encyclopedia article should be. It needs to contain an explanation of what it is and why it&#8217;s important, the history, the uses (or actions), criticism, and pointers to more information. And the whole thing needs to be written in a plain, dry style. The result is that it&#8217;s pretty clear what needs to be done, which means everyone can work together to do it. Contrast this with a novel, where the book&#8217;s success depends on the author&#8217;s creativity and, well, novelty.</p></li>
+<li><p><strong>Made from small pieces.</strong> Encyclopedias are huge projects, but they&#8217;re made up of manageably-sized articles. If an article ever grows too long, it can be split into parts (<em>see</em> <a href="http://en.wikipedia.org/wiki/Al_Gore_controversies">Al Gore Controversies</a>). When a page is small enough that the whole thing can fit comfortably in your head, it&#8217;s much easier to work with: you can write it in one sitting, you can read it relatively quickly, and you can remember the whole thing. Contrast this with books, which are so big that working seriously on them requires special dedication.</p></li>
+<li><p><strong>Each piece is useful.</strong> Each article in an encyclopedia is useful in its own right. Even if Wikipedia had just started and all it had was an article about the Striped Burrowing Tree Frog, that page would still be useful, just like every other page on the Internet about an obscure topic. The page, if it was good enough, would show up on the right Google searches and more Tree Frog fans would begin contributing to it. And if that page worked well, it could easily lead to others. Contrast this with a dictionary, which you&#8217;re probably only going to use if it has a high percentage of the words you want to look up.</p></li>
+<li><p><strong>Segmented subjects.</strong> Few people are passionate about learning all human knowledge. But many more people are passionate about some subset of that. Encyclopedias allow the people who really care about French social theorists to spend all their time on that, without ever caring about the rest of the site. And the same is true of readers. The result is that lots of different people can work on lots of different parts, with the whole project getting done as a result, even though nobody worked on that explicitly. Contrast this with coming up with a theory, where the work requires understanding all the data and thinking about it as a whole.</p></li>
+<li><p><strong>Personally useful.</strong> The best way to understand something is to write about it and the best thing to write is a layman&#8217;s explanation. An encyclopedia provides a opportunity to do just that. At the same time, it captures what you&#8217;ve learned in case you forget it later and gives the concept more form so that you&#8217;re more likely to remember. By contrast, writing guides for children doesn&#8217;t teach you much.</p></li>
+<li><p><strong>Enjoyable work.</strong> An encyclopedia mostly consists of people trying to explain things and explaining things can be quite fun. At parties, if you as someone about the problem they&#8217;ve dedicated their life to, they&#8217;ll gladly talk your ear off about it for hours. Wikipedia capitalizes on this tendency while also magnifying it &#8212; now it&#8217;s not just one partygoer, it&#8217;s the whole world listening. Contrast this with a project like categorizing all the pages on the Internet, which most people would find quite boring.</p></li>
+</ol>
+
+<p>I came up with these principles just by thinking about why I use Wikipedia and not about specific examples of people who have violated them. So it&#8217;s a little surprising that it turns out to mostly be a list of wiki sites that haven&#8217;t exactly taken off: SourceWatch fails 1, vanity projects fail 2, Wikitorial failed 3, Wikibooks fails 4, Wiktionary fails 5, the over-specialized sites fail 6, Wikijunior fails 7, and Wikispecies fails 8 (at least as far as I&#8217;m concerned).</p>
+
+<p>Of course, even if you get all these things right, that says nothing about whether your site will succeed. Success requires more than just a good idea, it requires doing the hard work of actually making things happen. But that&#8217;s a topic for another article.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">December 12, 2006</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="whywikiswork" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

@@ -1,0 +1,235 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Weblogs: More Driving by the Rear-View Mirror (or, Static Documents by One Person) (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001336.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001335" title="Did You Know? Ronald Reagan Edition" />	<link rel="next" href="001337" title="The End of Professionalism: Why do talk radio hosts and Times reporters have no talent?" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Weblogs: More Driving by the Rear-View Mirror (or, Static Documents by One Person)</h1>
+</div>
+
+<div class="content">
+<p>Things written in stone were permanent &#8212; proverbially so. Things written in ink could be scratched out, but not erased. Even pencil erasing leaves smudges. And typewriter backspacing is cumbersome. It wasn&#8217;t until the computer that real editing was possible. But even then, real collaboration was cumbersome. It wasn&#8217;t until the Internet that large group projects were practical.</p>
+
+<p>So is it any wonder that the dominant mode of advancing knowledge was through static documents written by one person? only the most popular books have new editions. Newspapers come out new each day; they don&#8217;t go back to correct old copies. Magazines rarely bother to provide updates to old stories. And journal papers are occasionally collected into surveys, but even these are static documents written by one person.</p>
+
+<p>The Web gave us a chance to break away from all of this. A topical website could be constantly &#8220;under construction&#8221;, updated and revised as new facts came in. A wiki could allow the whole world to take part in its authorship. Finally, we had things that actually summarized our knowledge on a subject instead of just fixing down one person&#8217;s view. </p>
+
+<p>So what is the coolest, newest use of the Internet? Why it&#8217;s weblogs, of course, where people can clog up the Web with daily emissions of static documents written by one person. We&#8217;ve come a long, long way together, indeed.</p>
+
+<p>Ever since I first heard of blogs, this bugged me. One of my first software projects, Blogspace, attempted to remedy it. The ideas was that the thing that looked like a blog would really just be the list of recent changes to the underlying wiki. (I never really finished it, and only Evan Williams seemed to notice it.)</p>
+
+<p>The idea seemed so obvious I was sure someone would copy it. But instead the problem&#8217;s only gotten worse. Now, in addition to the information superhighway equivalent of roadside litter known as blogs, we&#8217;ve added the vast wastelands of roadside vomit known as comments. That&#8217;s right, having thousands of uninformed people post trivia daily was not enough. The job wasn&#8217;t complete until even-less-informed people could post hundreds of even more trivial comments on their trivia. It&#8217;s a revolution!</p>
+
+<p>I&#8217;m an odd one to make this complaint. I&#8217;ve always been for more voices. &#8220;The best solution to having too much information is to have more information,&#8221; was my motto. And I still believe that. I&#8217;d rather have all these blogs than have to choose the best. But I can&#8217;t help but think that with better tools the work that goes into individual blogs could go into something bigger and better. Like, oh, say, <a href="http://en.wikipedia.org/">an encyclopedia</a>.</p>
+
+<p>But I guess doing the right thing is not always the human thing. A large collaborative work leaves little opportunity to show the world pictures of you and your cat. And maybe people have a natural desire to get the news <em>now</em>, even if it is useless and inaccurate. (How else to explain the bizarre and unhealty obsession with scoops, exit polls, and voting projections?)</p>
+
+<p>But I&#8217;d like to think there are some, perhaps many, who can get past their desire for attention and instant updates, and contribute to something more lasting and worthwhile. After all, Wikipedia gets over 100 hits each second, and over 200,000 visitors each day (over 5M each month!). How many weblogs can say that?</p>
+
+<p class="posted">posted June 16, 2004 10:10 AM (<a class="category" href="cat_technology">Technology</a>) (<a href="#comments">6 comments</a>) <a href="001336" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001335" title="Did You Know? Ronald Reagan Edition">&laquo; prev</a> | <a href="./">up</a> | <a href="001337" title="The End of Professionalism: Why do talk radio hosts and Times reporters have no talent?">next &raquo;</a></p>
+
+<p><a href="001269">Miller and Brock</a><br />
+<a href="001313">Film Recommendation: Brazil</a><br />
+<a href="001314">Brazil: The Sucky Story of Sid Sheinberg</a><br />
+<a href="001315">James Surowiecki&#8217;s The Wisdom of Crowds: A Review</a><br />
+<a href="001335">Did You Know? Ronald Reagan Edition</a><br />
+<strong>Weblogs: More Driving by the Rear-View Mirror (or, Static Documents by One Person)</strong><br />
+<a href="001337">The End of Professionalism: Why do talk radio hosts and Times reporters have no talent?</a><br />
+<a href="001343">Who makes a movie?</a><br />
+<a href="001347">Watch the Comedians: The Daily Show</a><br />
+<a href="001348">Watch the Comedians: The Daily Howler</a><br />
+<a href="001349">Priorities</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c2337">
+
+<p>I&#8217;ve been doing my writing for the web on a wiki since for exactly these reasons.  And I&#8217;m hardly alone.</p>
+
+<ul>
+<li>http://www.spack.org/wiki/AdamShand</li>
+<li>http://www.ourpla.net/cgi-bin/pikie</li>
+<li>https://moin.conectiva.com.br/GustavoNiemeyer</li>
+</ul>
+
+<p>Join the revolution, ditch your blog and start writing for the world on your wiki. :-)</p>
+
+<p>One of my frustrations is that many of the tools which make writing for the web fun with blogs (trackbacks, referrer tracking, blogrolls, theming etc) aren&#8217;t incorporated into most wiki engines.  This is starting to change but it&#8217;s been a long time coming.</p>
+
+<p>Wiki&#8217;s as a publishing tool have so many exciting possibilities.  Not only for egoless writing which builds projects like WikiPedia and WikiTravel but for personal writing.  Why aren&#8217;t there better ways to cross link between wiki&#8217;s?  Why aren&#8217;t there ways to cache local copies of remote wiki content while respecting that the remote site is authoritative?</p>
+
+<p>Adam.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://adam.shand.net/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2337">Adam Shand</a> at June 17, 2004 03:18 AM <a href="#c2337">#</a></p>
+
+</div><div id="c2338">
+
+<p>And to think you were talking about <a href="http://www.aaronsw.com/weblog/001228">defending the blogs honor.</a>.  Tsk, tsk.</p>
+
+<p class="posted">posted by Jay Woods at June 17, 2004 05:04 AM <a href="#c2338">#</a></p>
+
+</div><div id="c2341">
+
+<p>You&#8217;re wrong to lump all blogs together.</p>
+
+<p>teenyBoprGrrrlsBlog has a completely different purpose in life from InstaPundit &#8212; hers is probably more to communicate with friends and/or for venting.</p>
+
+<p>Likewise InstaPundit is different from something like FTrain.com. Reading old InstaPundit is lame &#8212; the value there is in the timeliness. He also provides value by <em>not</em> allowing commenting, but by updating posts with <em>relevant</em> email he receives from readers &#8212; this editing is key. (Similar to your comment editing policy although his up front instead of after the fact.)</p>
+
+<p>FTrain.com, on the other hand, is all about writing. The whole point of reading it is for Static Documents by One Person. (I wouldn&#8217;t want to read multiple revisions of a story; just show me your final product, thanks.) A few weeks back he was actually working on a collaborative serial story that was spread across the blogs/websites of a few different authors, but these were still just a [Series of] Static Document[s] by One Person [Each].</p>
+
+<p>However, you&#8217;re right on the mark for informational/topical blogs. My problem with a wiki-like solution is that it would succumb rapidly to USENET syndrome (all noise, no signal). When a particular blog becomes all noise, I can just unsubscribe. I&#8217;m not sure how you bridge the gap.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://bstpierre.org/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2341">Brian St. Pierre</a> at June 17, 2004 12:24 PM <a href="#c2341">#</a></p>
+
+</div><div id="c2343">
+
+<p>This is a trivial comment about a trivial blog entry about the triviality of the blogosphere.</p>
+
+<p>Had this comment contained content, you would have been notified by email.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.journalscape.com/keithsnyder" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2343">Keith</a> at June 17, 2004 02:00 PM <a href="#c2343">#</a></p>
+
+</div><div id="c2352">
+
+<p>Its easy: There are blogs for people who like building systems, there are blogs for people who love their cats, and there are blogs for geeks who love to show off about technology but there is no traffic cop for blogs and no structure except inside the blog itself. So, you get anrachy, cats and wikis and all under the sunof the worldwibeconfusedweb. Perhaps  ther are answers but I am just building up a philosophy for the future.
+danke</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.livejournal.com/sblake" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2352">sblake</a> at June 19, 2004 08:47 PM <a href="#c2352">#</a></p>
+
+</div><div id="c2783">
+
+<blockquote>
+  <p>&#8220;Ever since I first heard of blogs, this bugged me. One of my first software projects, Blogspace, attempted to remedy it. The ideas was that the thing that looked like a blog would really just be the list of recent changes to the underlying wiki.&#8221;</p>
+</blockquote>
+
+<p>Yup, exactly. I&#8217;ve tried several times to do this. However my problem is I&#8217;m not a coder and I haven&#8217;t been able to find any tools which are ready to use. All of the wikis I&#8217;ve trialed are either too complicated to install and maintain (twiki) or too simple (relative to a highly usable blog program, e.g. Movable Type, WordPress).</p>
+
+<p>One of the main stumbling blocks, for me, has been the lack of offline editing/composing and intelligent merge tools (a problem for both blog and wiki). I&#8217;m on dialup and get charged by the hour if I go over my quota, which is often. Almost all the software these days seems to assume everybody uses cable or adsl. :(</p>
+
+<p>That said, I&#8217;ve been in the wiki game long enough that I now realise that even if the perfect wiki-blog software were available, getting people to actually use it is a deeper problem. It&#8217;s <em>easy</em> to append comments to an existing idea. It&#8217;s <em>hard</em> to integrate your thoughts into the existing flow. Thankfully it does get easier with practice, but most people don&#8217;t get that far because they don&#8217;t even take the first step.</p>
+
+<p class="posted">posted by Matt Wilkie at September  9, 2004 01:00 AM <a href="#c2783">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001336.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1336" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

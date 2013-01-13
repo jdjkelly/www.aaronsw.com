@@ -1,0 +1,310 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>SFP: Come see us (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001679.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001677" title="What Journalists Don&#8217;t: Lessons from the Times" />	<link rel="next" href="001680" title="Stanford: The Cynic Returns" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>SFP: Come see us</h1>
+</div>
+
+<div class="content">
+
+
+<p><em>Editorial note: This entry has more dialogue and so on than usual and I&#8217;m pretty uncertain about ordering and attribution, so don&#8217;t start changing your opinions of people on the basis of things I say they said.</em></p>
+
+<p><strong>Update:</strong> Earlier versions of this post contained some glaring errors which I have corrected. (Thanks to Paul Graham for pointing them out.)</p>
+
+<p>After <a href="http://www.aaronsw.com/weblog/001677">yesterday&#8217;s talk</a>, I head back with my friend Seth to my dorm room and he helps me pack. We walk to the train together and head back to his house, where he lends me his airplane neck pillow and some Boston subway tokens. I take the BART to Oakland airport where I catch my flight to Cambridge, Mass.</p>
+
+<p>As I leave, my roommates ask where I am going. &#8220;Well, the least impressive answer is that I&#8217;m interviewing for a summer job. The most impressive answer is that I&#8217;m getting funding for a startup company.&#8221; &#8216;Actually, you could make it more impressive,&#8217; Seth says. &#8216;You could tell them that the guy you&#8217;re getting startup money from is a famous programmer and author of a popular book and already thinks that your idea is worthwhile.&#8217; &#8216;Yeah,&#8217; I say, &#8216;but they won&#8217;t know who that is.&#8217;</p>
+
+<p>Seth couldn&#8217;t find any earplugs but despite the fact that a crying baby sits exactly one row in front of me, I sleep fine through the redeye. When I wake up, I am in Boston and it&#8217;s morning, which I have a little trouble wrapping my head around.</p>
+
+<p>I take the shuttle to the nearby subway terminal and deposit one of Seth&#8217;s coins, transfer twice, and find myself outside the hotel. I check in, take a shower, iron some clothes, put them on, and lie down. Then I jump up and start reviewing all sorts of things in preparation: imagining answers, trying out competitors, etc.</p>
+
+<p>Around 11 Dad arrives (he frequently works around here, so he flew in today) and he takes me out to lunch. We walk to restaurant after restaurant he knows about; all of them are closed. Eventually we end up at a pizza place and try to eat quickly. </p>
+
+<p>We leave to find the offices of Y Combinator, the funding company. It turns out that they&#8217;re a lot further down the street than we imagined, so as we watch the clock strike later we begin walking quickly and then jogging. We arrive at a sort of modern-looking &#8220;light green concrete box&#8221; with a skylight in the center. </p>
+
+<p>We open the door and a woman (who I will call 4 of 4) answers it. We enter, me sweaty and my Dad out of breath. Paul Graham appears from behind the corner, looking just like his picture brought to life. We shake hands. Paul notes my Daring Fireball shirt. &#8216;I just found out about that site the other day,&#8217; he says. Paul beckons me in further as my Dad leaves.</p>
+
+<p>The building is decorated as a modernist home, with an expensive kitchen and some nice furniture. The other two are out getting lunch, so Paul tries to chat a bit about the big table they&#8217;ll need to fit everyone in here (they plan on serving us dinners in, so we&#8217;ll at least get some real food &#8212; &#8220;vegetables&#8221; &#8212; and some friends we aren&#8217;t spending all our days with). But he can&#8217;t resist getting down to business. &#8216;We&#8217;ve got another idea that we think might be better for you,&#8217; he says.</p>
+
+<p>Paul begins to pace the floor, as if composing an essay right there and then; I try to spin around to keep facing him. Current technology in the area is all other things which just happened to be used this way, &#8220;like people eating out of jam jars&#8221; because they haven&#8217;t discovered plates. I mistakenly try to respond, but he&#8217;s still spinning the story.</p>
+
+<p>We flesh out the idea some and eventually Trevor Blackwell and Robert Morris, who Paul consistently calls rtm, turn up. Trevor also looks just like his photo, down to the form-fitting burgundy shirt. rtm looks just like his photo except for more pimples. Paul leads the conversation. Trevor fiddles with a PowerBook, occasionally chiming in with comments. rtm sits quietly eating or flipping through some pieces of paper. 4 of 4 plays the overseeing mother, careful to keep the boys on track. &#8216;Maybe we should give Aaron a chance to pitch his idea?&#8217; she suggests.</p>
+
+<p>I tell them my idea and we discuss it for a bit and they later try to merge it with their idea. At one point we&#8217;re discussing trying to match people&#8217;s writing. &#8216;You can just look for similar words,&#8217; Paul says. &#8216;I don&#8217;t think that will work,&#8217; Trevor responds. &#8216;It works pretty well for spam filtering!&#8217; Paul reports. &#8216;Yeah, but people writing about different things use the same words &#8212; people might talk about both capitalism and communism but they might be on completely different sides&#8217; &#8216;True, but they generally use different words. If you find capitalism and sexism in the same paragraph it&#8217;s a pretty good guess the author&#8217;s liberal. They all believe it&#8217;s some grand conspiracy.&#8217;</p>
+
+<p>4 of 4 pushes Paul to explain the idea behind Y Combinator and he reiterates the things from his VCs article. He looks over our application, which he appears not to have read very carefully. He points to our company name, a long word meaning something like &#8220;insubstantial dot com&#8221;. &#8216;As the proud owner of hardtoremember.com, I can get that,&#8217; he says. &#8216;I used to have easytoforget.com but I let the renewal lapse,&#8217; Trevor retorts. &#8216;Actually, the only reason you have hardtoremember.com is because I let that lapse too and you snatched it up!&#8217; I laugh rather loudly.</p>
+
+<p>He looks at the personnel. &#8220;A sophomore at 22? What&#8217;s his story?&#8221; After high school he went to join a startup. &#8216;Went to join a startup? Sounds like our kind of guy! Did you know him before?&#8217; Yeah, we met through the ArsDigita Prize. &#8216;Oh, because he was emailing me too. You know that undergraduation essay I wrote? He&#8217;s the guy. Well, he was the straw that broke the camel&#8217;s back.&#8217; (I think of the same phrase a moment before Graham says it.) &#8216;And Sean B. Palmer? Know him, like him?&#8217; &#8216;Yeah,&#8217; I say, &#8216;h&#8212;&#8217;. Paul cuts me off, moving on.</p>
+
+<p>&#8216;When would you have the first prototype done?&#8217; &#8216;Well, we&#8217;d hope to work on it over the next term so we&#8217;d have it ready over the summer.&#8217; &#8216;Oh, wonderful, wonderful.&#8217; he says. &#8216;What about this name? Infogami? You&#8217;re going to always have to spell it out.&#8217; Paul says. &#8216;Isn&#8217;t it just origami with info at the beginning?&#8217; 4 of 4 asks. &#8216;Well, it&#8217;s confusing,&#8217; Paul says. &#8216;In-FAH-gomee,&#8217; Trevor chimes in. &#8216;All the names with blog in it are probably taken,&#8217; 4 of 4 says. &#8216;No, you don&#8217;t want blog in it,&#8217; Paul says. &#8216;You want something bigger, something that can face the world. You&#8217;re not wedded to the name, are you?&#8217; &#8216;No, we just picked it so we could stop discussing the name and move on,&#8217; I said. &#8216;Oh, good,&#8217; Paul says, and moves on.</p>
+
+<p>&#8216;How much time do we have?&#8217; he asks 4 of 4. &#8216;Well, you&#8217;re, uh, right on schedule &#8212; should be finishing up now.&#8217; &#8216;Oh,&#8217; he says, and gets up. &#8216;So you&#8217;ll start working on this right away?&#8217; he asks. &#8216;Yeah, i&#8212;&#8217;. I try to say &#8216;if we&#8217;re accepted&#8217; but he talks right over me. &#8216;Alright! Sounds great.&#8217; He shakes my hand. &#8216;We&#8217;ll probably call you around 7.&#8217; </p>
+
+<p>We say goodbye. &#8216;Feel free to take anything you like on your way out,&#8217; 4 of 4 says; &#8216;sounds good,&#8217; I reply. Paul and Trevor squeal. &#8216;Food! Any food you like!&#8217; she exclaims. &#8216;See, I corrected myself,&#8217; she adds to Paul and Trevor as I head out the door.</p>
+
+<p>I walk down the sunny Cambridge street, smiling. I feel pretty confident of being accepted. I head back to the apartment and email my cofounders. </p>
+
+<hr />
+
+<p>We spend the afternoon, sightseeing around MIT &#8212; visiting the MIT museum with its Arthur Ganson sculptures and walking around the deserted Media Lab (we try to smile at Kismet but while it locks onto our faces it doesn&#8217;t respond).</p>
+
+<p>Eventually we head back to the hotel and I take a nap. I begin to wake up around 7:15 when the phone rings. I hear my Dad answer it and start talking so I jump out of bed to grab it for myself. But he&#8217;s using his phone not mine. I sit at the computer, hungry and tired, trying to wake up.</p>
+
+<p>At 7:23pm the phone rings. &#8216;Hi Aaron, it&#8217;s Paul Graham. We&#8217;re willing to invest [such-and-such an amount]. Call me back in five minutes. You got a pen?&#8217; He gave me the phone number and hung up.</p>
+
+<p>So I think about it for a minute or two, cal back and say yes. &#8216;OK. (off-phone) When&#8217;s Aaron tomorrow? (pause) Can you come by at 10am?&#8217; Sure.</p>
+
+<p>We go to the Cheesecake Factory to celebrate.</p>
+
+<hr />
+
+<p>The next morning I wake up and take the T to Cambridge Square and take the long walk down Garden Street to the Y Combinator offices. (Bizarrely, the street always seems longer walking there than walking back.) I get there early and, my stomach burbling (not sure why I&#8217;m nervous now that I&#8217;ve already won), I sit down for a few minutes and fiddle with the zipper on my backpack. </p>
+
+<p>I eventually summon the courage to knock on the door &#8212; no response. I begin to wonder how I ever got inside last time. After some hemming and hawing I open the door, only to reveal: another door. I knock on this one. No luck. I slowly open it, only to hear voices chatting about Microsoft and something. I spy a backpack lying in the corner so I assume the previous appointment is still going on and retreat. I wander around the outside of the fancy little building, looking for anything interesting (wow, trash bags!). Finally, I manage to just walk in.</p>
+
+<p>Paul is talking to the previous appointment, who turns out to also be from Stanford, and welcomes me in. Paul points to a whiteboard and lists off all the winners.</p>
+
+<p>&#8216;We ended up flying everybody out to Cambridge. On the site we said we&#8217;d respond either yes, no, or come see us, but we ended up just using the last two. We figured it&#8217;s worth the $300 to see them face-to-face. Real life is so much more high-bandwidth. There were a lot of people whose ideas looked good on paper but weren&#8217;t so great when we talked about them in person. But we probably ended up making tons of mistakes.&#8217;</p>
+
+<p>Stanford kid offers me a ride from the airport, but I get in too late. Trevor mentions he&#8217;s flying back tonight too. &#8216;Oh? I thought you lived here,&#8217; StanfordBoy says. &#8216;No, he has a robotics startup in Mountain View,&#8217; Paul explains. &#8216;Haven&#8217;t you seen the Segway he built?&#8217; We walk into the other room. &#8216;See, this is typical Trevor-logic. He wants to lose weight so he starts biking to work, but biking is too easy so he teaches himself to unicycle. Then when he builds his own Segway, he decides that two wheels are redundant, so he builds a self-balancing unicycle.&#8217; </p>
+
+<p>Trevor happens to have the Eunicycle right here and demos it for us. He manages to maneuver it right past me, sneaking into the little place between me and the counter. I almost jump out of the way, afraid to knock him over, but he&#8217;s quite good at it. &#8216;The problem is you still have to balance it laterally, so you really have to be a trained unicyclist. Even I haven&#8217;t ridden it,&#8217; Paul says. &#8216;Do you ever go anywhere with it?&#8217; StafordBoy asks. &#8216;Oh yeah, I ride it into Mountain View for coffee all the time.&#8217; (That must really stop traffic, I think, remembering how much attention my little bicycle gets.) StanfordBoy and Trevor chat about (StanfordBoy plays with Segways, apparently) and Paul takes me into the other room to give me my checks.</p>
+
+<p>&#8216;How much did your flight cost?&#8217; &#8216;Two hundred and eighty-six dollars and ninety cents,&#8217; I say. He begins writing that out before realizing his error. &#8216;I just wrote &#8220;Pay to the order of two hundred and eighty-six dollars&#8221;. I wish I could just type these; I can&#8217;t write anything anymore.&#8217; I sympathize. &#8216;How much do you think plane tickets and rent will cost?&#8217; &#8216;I have no idea.&#8217; &#8216;Well, two thousand dollars ought to cover it.&#8217; He writes out another check and slides it over.</p>
+
+<p>&#8216;Now you want to go about finding an apartment. You want to get a place on the red line [the local subway] because then you can go see people and people can go see you. The best place to go is Davis Square, because it&#8217;s cheap, fun, and on the red line. Harvard is fun and on the red line but not cheap, Porter is cheap and on the red line but not fun, so I recommend Davis, Inman, and Central, in that order.&#8217; Underneath the table I sneak my notebook and pencil out of my pocket and begin secretly taking notes.</p>
+
+<p>&#8216;Now the thing you want to get is one of these triple-decker houses converted into apartments, where the top floor is slightly smaller than the other two. And then you&#8217;ll be in exactly the same place as VisiCalc when they started it &#8212; in the top floor of a triple-decker in Davis Square.&#8217; (Actually, Paul later told me VisiCalc was started in the neighboring town of Arlington.) &#8216;Yeah, but you don&#8217;t want to code like VisiCalc,&#8217; Trevor says, &#8216;that stuff was rotten.&#8217; &#8216;Well, it made money, didn&#8217;t it?&#8217; Paul replies.</p>
+
+<p>&#8216;Oh, there&#8217;s one other charge we forgot to tell you about. It will cost $1000 to incorporate in the State of Delaware,&#8217; Paul says. &#8216;How much will it cost to renew it?&#8217; &#8216;It costs $400 to renew it after a year, but the $1000 takes care of the first year. I think that in a year you&#8217;ll be able to realize whether it&#8217;s worth the $400 or not.&#8217;</p>
+
+<p>&#8216;Do you have any other questions?&#8217; I know I have tons, but I can&#8217;t really think of any and two other kids are waiting in the other room. i see myself out. I smile at the two kids, since I figure we&#8217;re all friends now or something, but they just seem to glare at me.</p>
+
+<hr />
+
+<p>I head back to see my dad at his office in MIT&#8217;s Media Lab (which I dislike, only in part to annoy my dad) and begin looking for apartments. Some Media Lab big shot comes in to say hi and my dad introduces me and says I&#8217;m looking for apartments. &#8216;Well, you could stay here,&#8217; he says. &#8216;You could set up in the conference room. There&#8217;s a shower just down the hall and coffee every morning. It&#8217;d probably be a month before [the boss] finds out.&#8217; We all laugh extremely loudly, although my dad later insists this offer was serious. &#8216;You could put up flyers asking for volunteers for an undergraduate research program. You&#8217;d just say &#8220;Come to our office in the Media Lab&#8221; &#8212; you&#8217;d get tons of people, people love this place. And if they tried to ask you for paychecks, you could just say &#8220;oh, don&#8217;t worry, it&#8217;s for credit&#8221;.&#8217;</p>
+
+<p>We decide to go have a look around Davis Square for lunch. (The T is fast; I notice it takes me the same amount of time to travel the three miles on the T between the two as it takes me to walk to class.) The area seems nice enough, although nothing special. A few places where bands play and so on, I guess, but I&#8217;m not really enamored of concerts. We eat lunch and head back to MIT.</p>
+
+<p>Arguing about the merits of MIT, my dad plays the Noam Chomsky card. I call him on it and we decide to go find Noam Chomsky&#8217;s office, which turns out to be in the <a href="http://www.aaronsw.com/weblog/static/statacenter">fancy new Frank Gehry-designed Stata Center</a>. I think we do, but it&#8217;s sort of surrounded by desks with people at them, so we&#8217;re too afraid to get close. Peeking in though, it looks like it&#8217;s being used for something else, since we see a couple sets of desks, although there is a jacket hanging outside the door. Maybe I&#8217;ll try a little harder over the summer sometime.</p>
+
+<p>We then set off to find my old friend Ben, who&#8217;s now a graduate student here and also works in the Stata Center. Since the building is rather complicated (I mean, <a href="http://www.aaronsw.com/weblog/static/statacenter">just look at it</a>!), I look him up on the directory computers and we head off in search of his listed office. We find the floor and proceed to walk down the hallway checking every office for his, but failing to find it. The number just isn&#8217;t listed. We walk back and check again. We check the number on a computer terminal and find we got it wrong, it&#8217;s on the other side, so we check that hallway. Still no luck. The number doesn&#8217;t seem to exist. We ask some people; they have no idea. Finally one confirms there&#8217;s no such number here. They suggest we try the same number in the opposite tower, so we do, and he&#8217;s there. (Lying directory!)</p>
+
+<p>Ben&#8217;s as bright and animated as ever and he sits down to talk with us. He asks what I&#8217;m doing out here and I tell him and he congratulates me. &#8216;Wow, that thing was everywhere,&#8217; he says. (With some irony, this is partially my fault &#8212; according to Paul at least, I am partially responsible for getting the thing posted to Slashdot. I didn&#8217;t really think about how this might hurt my chances if I decided to apply.) &#8216;You must have been really impressive to get accepted.&#8217; Ben tells us what he&#8217;s up to and we chat until we have to get going.</p>
+
+<p>Back at the Media Lab, I realize that it&#8217;s really not practical for me to get home from the airport. I thought I would just take public transportation, like I did to get there in the first place, but my flight gets in at exactly the same time the last bus to the train leaves. And even if I did manage to catch a taxi to the train station or something, I wouldn&#8217;t get home until 3AM. A taxi, on the other hand, apparently costs $100. My dad eventually finds some obscure site for a Chinese shuttle company with poor English that will do it for half that, so we pick that. </p>
+
+<p>It&#8217;s getting late so I head back to the hotel and quickly pack my stuff and catch a taxi to the airport. I again sleep most of the way back but we manage to get in like half-an-hour early, so I resign myself to sitting outside waiting for the bus to arrive. About ten minutes after it&#8217;s supposed to arrive I check my phone and see they&#8217;ve been calling me repeatedly to see if I&#8217;ve gotten in yet. I call them to say yes and they soon arrive.</p>
+
+<p>The shuttle is driven by a kid with his friend in front, neither of them are Chinese. &#8216;How is everything?&#8217; the driver asks. &#8216;We&#8217;re a little new at this,&#8217; says his buddy. &#8216;What&#8217;s wrong with you?&#8217; shouts the driver. &#8216;You never tell the customer you&#8217;re new! That just scares them!&#8217; I take out my book, trying not to get scared, but there&#8217;s hardly enough light to read by.</p>
+
+<p>We manage to get back around 1AM and I&#8217;m stunned to see that kids are sitting and talking and playing ping-pong. What&#8217;s wrong with them?, I wonder. I just came back from an arduous journey and they&#8217;re playing like it&#8217;s nothing! I head up to my room, but nobody seems to notice a thing. My roommates are also just sitting at their computers, as if everything is normal.</p>
+
+<p>I put my computer away and go to sleep, sleeping the sleep of a man who, whatever his surroundings, knows that at heart he is a capitalist.</p>
+
+<p class="posted">posted April 16, 2005 01:17 AM (<a class="category" href="cat_education">Education</a>) (<a href="#comments">9 comments</a>) <a href="001679" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001677" title="What Journalists Don&amp;#8217;t: Lessons from the Times">&laquo; prev</a> | <a href="./">up</a> | <a href="001680" title="Stanford: The Cynic Returns">next &raquo;</a></p>
+
+<p><a href="001671">Stanford: Radiant Garden City Beautiful</a><br />
+<a href="001672">SFP: The Story So Far</a><br />
+<a href="001673">Stanford: Frown</a><br />
+<a href="001675">Get Arrested</a><br />
+<a href="001677">What Journalists Don&#8217;t: Lessons from the Times</a><br />
+<strong>SFP: Come see us</strong><br />
+<a href="001680">Stanford: The Cynic Returns</a><br />
+<a href="001686">Social Class in America</a><br />
+<a href="001687">Stanford: Eat the Whales</a><br />
+<a href="001688">Freakonomics</a><br />
+</p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c4833">
+
+<p>Congratulations. I would say Davis, Central, Inman in that order. Inman isn&#8217;t really all that close to the T. Personally, I would lean towards Central&#8212;-you could live in the big converted factory where I think (but you&#8217;d have to check&#8212;there&#8217;s a plaque) the Triscuit was invented, but its a bit seedier (okay, a lot) than Davis. If money was no object I&#8217;d try to find a place near Boston Common.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.people.fas.harvard.edu/~bcellis" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=4833">Byron</a> at April 16, 2005 02:32 AM <a href="#c4833">#</a></p>
+
+</div><div id="c4834">
+
+<p>If money is an object: a ton of students live in Allston off of the 66 bus route.  I find that the busses are often quicker than the T (especially the Red line).  A bicycle is even better.   Once I got a bike, Boston seemed to shrink over night.</p>
+
+<p>Me&#8230;I live in the back bay.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.slowchildren.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=4834">scott</a> at April 16, 2005 03:21 AM <a href="#c4834">#</a></p>
+
+</div><div id="c4835">
+
+<p>Congratulations, Aaron.  Hope to see you around sound time.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.grumet.net/weblog/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=4835">Andrew Grumet</a> at April 16, 2005 09:05 AM <a href="#c4835">#</a></p>
+
+</div><div id="c4837">
+
+<p><i>a woman (who I will call 4 of 4)</i></p>
+
+<p>Why? All the men in your post are given real names; why objectify the only woman?</p>
+
+<p><em>Aaron&#8217;s response:</em> Because all the men in my post have published their real names. 4 of 4 apparently wants to stay anonymous; I think it&#8217;d be extremely rude not to honor that.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://jameskew.blogspot.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=4837">James Kew</a> at April 16, 2005 01:51 PM <a href="#c4837">#</a></p>
+
+</div><div id="c4839">
+
+<p>Congrats Aaron! I knew you&#8217;d get the gig, and I can&#8217;t wait to see what comes out of it.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://a.wholelottanothing.org" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=4839">Matt Haughey</a> at April 17, 2005 01:06 AM <a href="#c4839">#</a></p>
+
+</div><div id="c4840">
+
+<p>Congrats!</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.briandonovan.info" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=4840">brian donovan</a> at April 17, 2005 02:18 PM <a href="#c4840">#</a></p>
+
+</div><div id="c4845">
+
+<p>Congratulations, and I would recommend Davis Square.  I live pretty close to Davis (in East Arlington, in a place just like VisiCalc HQ) and it&#8217;s got a lot of nice restaurants and coffee shops where you can hang out and ogle other young interesting people.  If you&#8217;re visiting again to look for apartments and want a tour or guest bed, let me know.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://rura.org/shimon" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=4845">Shimon Rura</a> at April 18, 2005 11:52 AM <a href="#c4845">#</a></p>
+
+</div><div id="c4853">
+
+<p>Davis Square is pretty vibrant (it has its own <a href="http://www.livejournal.com/community/davis_square/">LiveJournal Community</a>) and very convenient to the red line.  That said, I&#8217;ve been living and working in an apartment in Inman for the last 2-1/2 years, and I&#8217;m very happy with the area.  It&#8217;s a cozy neighborhood with several good restaurants and straightforward bus service to Porter, Harvard, Davis, Central (all on the red line), Sullivan (orange line), and Lechmere (decent mall with Apple store).  And Central Square is only a 15 minute walk away.</p>
+
+<p>Central has more stores and night life, but it&#8217;s also a lot sketchier than Davis and Inman.</p>
+
+<p>Anyway, congratulations, and good luck with the apartment hunt!</p>
+
+<p class="posted">posted by <a target="_blank" title="http://retrovirus.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=4853">Joe Hughes</a> at April 20, 2005 09:49 PM <a href="#c4853">#</a></p>
+
+</div><div id="c4863">
+
+<p>Heh. &#8216;Life moves pretty fast. If you don&#8217;t stop and look around once and awhile you could miss it.&#8217; Good luck!</p>
+
+<p class="posted">posted by <a target="_blank" title="http://robertbrook.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=4863">Robert Brook</a> at April 22, 2005 08:43 AM <a href="#c4863">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001679.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1679" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

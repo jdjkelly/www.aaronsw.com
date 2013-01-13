@@ -1,0 +1,39 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+  <title>The Semantic Web Hourglass: Triples</title>
+  <link rel="stylesheet" type="text/css" href="http://notabug.com/style.css" />
+</head>
+<body>
+<div id="head">
+  <h1>The Semantic Web Hourglass: Triples</h1>
+</div>
+<div class="content">
+<p>The Web, and the Internet, have been built on an hourglass structure. At the "waist" is a piece that binds what would otherwise be a disconnected set of systems and communities (the bottom of the hourglass) which in turn makes it possible to create new applications and tools using this unified scheme (the top half of the hourglass). For the Internet, this was IP, which hooked together the various smaller networks into one big Internet. This in turn made all sorts of Internet applications possible, like FTP, Gopher and others. The Web pulled the same unification trick, unifying these disparate protocols with the URI, a generalized identification scheme for all of them. This made tools like the Web browser possible, which combined these all into a unified view of interconnecting links.</p>
+
+<p>Now the Semantic Web is doing it again.</p>
+
+<h2>The Waist</h2>
+
+<p>At the waist of the Semantic Web hourglass is the triple. Almost simplicity itself, the triple is just three URIs in a row. That's it. Simple, eh? Sometimes to make things easier for ourself we represent data-URIs as strings (surrounded by quotes). Here's an example triple:</p>
+
+<p>&lt;http://a.org/Overview.html> &lt;http://purl.org/dc/terms/modified> "2002-05-21" .</p>
+
+<p>The first part of the triple is often called the subject, and is the thing being discussed. The middle part is the predicate or link type and defines what exactly we're saying. (In this case we're saying when the subject was last modified.) The final part is the object or value and is the thing we're acctually saying. So together these mean that the thing identified by &lt;http://a.org/Overview.html> was last modified on "2002-05-21".</p>
+
+<h2>The Bottom Half</h2>
+
+<p>You can see this as many things. Traditional hypertext people see these as typed links: the referring page, the type of the link and the referred-to page. Database people see these as relational database entries: the primary key, the column name and the field value. Graph people see these as directed labeled graphs. Math people see them as binary relations. Tuplespace people see them as 3-tuples. XML people might see them as an element, an attribute name and an attribute value. Logic people see them as dyadic predicates (or one three-place predicate). (Do you see them some other way?)</p>
+
+<p>The point, however, is that the triple can unify these communities and practices. Once we've done that we can begin to share tools and systems.</p>
+
+<h2>The Top Half</h2>
+
+<p>If data is in triples then it's easy to merge (just combine the triples). Once we've got the triples combined, we can share protocols, interchange formats, query languages, and so on. The database tools can also be used to store and search graphs, links, etc. Graphing tools can be used to visualize databases, link structures and XML. And so on -- each community has its own tool to share and many other tools to use.</p>
+
+<p>And we can create new systems that take advantage of the overlap between these communities and create things that weren't possible before.</p>
+</div>
+<div class="footer">
+  <address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+<a href="http://validator.w3.org/check/referer">Valid HTML</a>
+</div></body>
+</html>

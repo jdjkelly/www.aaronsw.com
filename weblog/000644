@@ -1,0 +1,57 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Apple: Heinous DVD Pirates (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/000644.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000643" title="Iran Pushes UN Intervention Against US" />	<link rel="next" href="000647" title="Trip Notes" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Apple: Heinous DVD Pirates</h1>
+</div>
+
+<div class="content">
+<p>DeCSS detractors have repeatedly claimed that DeCSS needs to be stopped because it makes perfect digital copies of DVDs possible. Recently, in private email, Ernest Miller claimed that doing so would be a violation of the DMCA. In this in-depth special report, I show that using perfectly legal, (I assume) licensed, off-the-shelf consumer software, copying DVDs is easy and in many ways encouraged.</p>
+
+<p><strong>Tools:</strong><br />
+1 PowerBook G4 with slot-loading DVD drive (any model should work)<br />
+1 Monsters, Inc. Collector&#8217;s Edition DVD (any DVD should work)<br />
+1 copy of Mac OS X 10.2 &#8220;Jaguar&#8221;</p>
+
+<p><strong>Process:</strong><br />
+1. Insert DVD into drive. Notice how Jaguar helpfully loads the DVD Player for you.<br />
+2. Open the DVD (it appears on the desktop) and drag the VIDEO_TS folder to your hard drive. Ejct the DVD.<br />
+3. In DVD Player, select &#8220;Open VIDEO_TS Folder&#8230;&#8221; from the File menu. Use the dialog that appears to select the VIDEO_TS folder on your hard drive.</p>
+
+<p>Now the DVD plays just like it would were the DVD in the drive. By extension, I could also put the DVD up on my site for you to download and watch. I could share it via a P2P network. And I haven&#8217;t done anything to decrypt the DVD or violate the DMCA: I&#8217;ve used only basic tools available to all normal computer users on my (I assume) fully-licensed consumer laptop.</p>
+
+<p><strong>Disclaimer:</strong> Seth Schoen, whose opinion I highly respect on these matters, finds it unlikely that the DVD was CSS-encrypted if this was possible. I am not sure how to verify if the DVD is CSS-encrypted. If someone has a suggestion, please let me know. However, if it is true, then it&#8217;s very interesting that Disney has released such a major movie without encryption.</p>
+
+<p class="posted">posted October 08, 2002 01:21 AM (<a class="category" href="cat_politics">Politics</a>)  <a href="000644" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000643" title="Iran Pushes UN Intervention Against US">&laquo; prev</a> | <a href="./">up</a> | <a href="000647" title="Trip Notes">next &raquo;</a></p>
+
+<p><a href="000637">to the courthouse</a><br />
+<a href="000638">The Numbers Don&#8217;t Lie</a><br />
+<a href="000640">Our Dumb Pipeline</a><br />
+<a href="000641">Eldred Press Watch</a><br />
+<a href="000643">Iran Pushes UN Intervention Against US</a><br />
+<strong>Apple: Heinous DVD Pirates</strong><br />
+<a href="000647">Trip Notes</a><br />
+<a href="000650">Mr. Swartz Goes to Washington</a><br />
+<a href="000652">Elsewhere, Elsewhen</a><br />
+<a href="000653">A Sad Day for America</a><br />
+<a href="000655">Heaven on Earth</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

@@ -1,0 +1,182 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>PowerPoint Remix (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="http://www.aaronsw.com/history/2003/style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000930" title="RFC: Annals of Planet Hacking" />	<link rel="next" href="000932" title="Your Mission, Should You Choose to Accept It" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>PowerPoint Remix</h1>
+</div>
+
+<div style="background-color: #ffff9d; border: 1px solid #dd0; padding: 1em; "><strong>Now a major motion picture!</strong> This essay has been included in <cite><a href="http://www.amazon.com/exec/obidos/ASIN/1590595009/coolbooks02/">The Best Software Writing I</a></cite> (Joel Spolsky, ed.) with an introduction and footnotes by Joel along with magnificent typesetting. You can <a href="http://www.amazon.com/exec/obidos/ASIN/1590595009/coolbooks02/">buy a copy from Amazon</a> or <a href="static/powerpointremix.pdf">get a PDF of a draft</a>.</div>
+
+<div class="content">
+<p><a href="http://www.edwardtufte.com/">Edward R. Tufte</a>&#8217;s &#8220;<a href="http://www.edwardtufte.com/1472288704/tufte/books_pp">The Cognitive Style of PowerPoint</a>&#8221; Presented in the Form of a PowerPoint Presentation</p>
+
+
+
+<p>Overview</p>
+<ul>
+  <li>PowerPoint is standard&#8230;</li>
+  <li>&#8230;but bad.</li>
+  <li>Why?</li>
+</ul>
+
+<p>Cognitive Style</p>
+<ul>
+  <li>Is presenter-oriented</li>
+  <li>Audience and content suffer<ul>
+    <li>low resolution</li>
+    <li>deeply hierarchical</li>
+    <li>preoccupied with form</li>
+  </ul></li>
+</ul>
+
+<p>Low Resolution</p>
+<ul>
+  <li>nearly content-free</li>
+  <li>only slightly better than 1982 Pravda propaganda</li>
+</ul>
+
+<p>Dilutes Thought</p>
+<ul>
+  <li>bullets make us stupid<ul>
+    <li>too generic</li>
+    <li>omit relationships</li>
+    <li>omit assumptions</li>
+    <li>omit subjects, verbs</li>
+  </ul></li>
+</ul>
+
+<p>[Interlude: <a href="http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0001yB&amp;topic_id=1">analysis of Columbia disaster PowerPoint</a>]</p>
+
+<p>Deeply Hierarchical</p>
+<ul>
+  <li>often six levels deep</li>
+  <li>Feynman only needed 2</li>
+</ul>
+
+<p>Why?</p>
+<ul>
+  <li>based on software corp itself<ul>
+    <li>big bureacracy</li>
+    <li>programming computers<ul>
+      <li>deeply hierarchical</li>
+    </ul></li>
+    <li>marketing<ul>
+      <li>misdirecting</li>
+      <li>sloganeering</li>
+      <li>exagerating</li>
+    </ul></li>
+  </ul></li>
+</ul>
+
+<p>Why? (cont&#8217;d)</p>
+<ul>
+  <li>what could be worse?<ul>
+    <li>Stalin?</li>
+  </ul></li>
+  <li>pushy<ul>
+    <li>bullets are to be followed</li>
+  </ul></li>
+  <li>based on great leader on pedestal</li>
+</ul>
+
+<p>What else?</p>
+<ul>
+  <li>Better: good teaching<ul>
+    <li>explanation, reasoning, etc.</li>
+    <li>credible authority</li>
+  </ul></li>
+</ul>
+
+<p>PowerPoint in schools</p>
+<ul>
+  <li>disturbing!</li>
+  <li>must find replacement<ul>
+    <li>Good: teaching kids to smoke</li>
+    <li>Better: close school, go to Exploratorium</li>
+    <li>Best: write illustrated essay</li>
+  </ul></li>
+</ul>
+
+<p>[Interlude: performance of <a href="http://www.norvig.com/Gettysburg/">the Gettysburg PowerPoint</a>]</p>
+
+<p>[Interlude: what if we presented cancer survival rates in PowerPoint?]</p>
+
+<p>Stylesheets</p>
+<ul>
+  <li>corporate logowear<ul>
+    <li>gives name of corp dept.</li>
+    <li>not actual people (too embarassed? - Ed.)</li>
+  </ul></li>
+  <li>emulates reading primers for 6 year-olds</li>
+  <li>poor typography is key</li>
+  <li>break things up to prevent comparisons</li>
+  <li>useless tables</li>
+</ul>
+
+<p>World Domination</p>
+<ul>
+  <li>printed PowerPoints: 50 slides == 1 page of <cite>Physician&#8217;s Desk Reference</cite></li>
+  <li>online PowerPoints: 20% of density of popular websides</li>
+  <li>worse signal-to-noise ratio known</li>
+</ul>
+
+<p>Sequentiality</p>
+<ul>
+  <li>bullet-point strip-tease</li>
+  <li>disolves like random jump-cuts</li>
+  <li>handouts would let audience control order and pace</li>
+</ul>
+
+<p>What to do?</p>
+<ul>
+  <li>immediate worldwide product recall</li>
+  <li>it&#8217;s like an out-of-control prescription drug</li>
+</ul>
+
+<p>Improving Presentations</p>
+<ul>
+  <li>get better content</li>
+  <li>provide handouts</li>
+  <li>don&#8217;t have pointless ones</li>
+</ul>
+
+<p>Final Thoughts - Ed.</p>
+<ul>
+  <li>good essay</li>
+  <li>buy lots of copies</li>
+  <li>hand out to annoying PowerPoint presentors</li>
+</ul>
+
+<p class="posted">posted May 23, 2003 04:34 PM (<a class="category" href="cat_books">Books</a>)  <a href="000931" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000930" title="RFC: Annals of Planet Hacking">&laquo; prev</a> | <a href="./">up</a> | <a href="000932" title="Your Mission, Should You Choose to Accept It">next &raquo;</a></p>
+
+<p><a href="000921">Matrix Unloaded</a><br />
+<a href="000923">MediaCon: Lobbying</a><br />
+<a href="000924">1201 Hearings</a><br />
+<a href="000929">Joss Quest</a><br />
+<a href="000930">RFC: Annals of Planet Hacking</a><br />
+<strong>PowerPoint Remix</strong><br />
+<a href="000932">Your Mission, Should You Choose to Accept It</a><br />
+<a href="000933">Charging Society</a><br />
+<a href="000934">Dave Winer Keynote</a><br />
+<a href="000935">Like Father Like Son</a><br />
+<a href="000936">Something&#8217;s Coming</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

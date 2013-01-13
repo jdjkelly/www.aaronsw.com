@@ -1,0 +1,398 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>The Politics of Lying (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001445.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001444" title="The World Is Watching" />	<link rel="next" href="001446" title="Stanford: Day 39" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>The Politics of Lying</h1>
+</div>
+
+<div class="content">
+<p>It is a truism that politicians and political groups lie. Lies uncovered on one political side are frequently written off by saying &#8220;all politicians lie&#8221; or &#8220;the other side lies too&#8221;. Indeed, uncovered lies on one side are sometimes used an an argument to be skeptical of the other (as in, &#8220;since you&#8217;ve show the Whigs lie a lot why aren&#8217;t you equally skeptical of the Tories?&#8221;).</p>
+
+<p>Does this really make sense? It helps to ask the all-important question: &#8220;Cui bono?&#8221; or &#8220;Who benefits?&#8221; </p>
+
+<p>Take the issue of gun control. There are heated partisans on both sides of the issue who claim to have facts to back up their positions about how much harm is caused by guns. Let&#8217;s say the gun-control advocates (the left) investigated and found that they were wrong and guns weren&#8217;t really a problem after all. For them, this is <em>good news</em> &#8212; they no longer have to spend time and energy protecting people from guns, since they aren&#8217;t a problem in the first place. Thus the left has little reason to lie.</p>
+
+<p>The story is different for the right. If gun rights advocates discovered that guns really did kill lots of people, their position would not change. They would still be in support of giving people guns. The only problem is that much of the public might not be. Thus, there is a strong incentive for them to lie.</p>
+
+<p>The facts bear this theory out. Conservative &#8220;scholar&#8221; <a href="http://www.disinfopedia.org/wiki.phtml?title=John_Lott">John Lott</a> has made up studies, falsified data, and done other things to prove that guns are actually a good thing. Despite all this, he continues to receive large grants from conservative patrons, prominent play in <cite>The New York Times</cite>, large sales for his erroneous book, and draws large crowds and acclaim from conservatives.</p>
+
+<p>By contrast, <a href="http://en.wikipedia.org/wiki/Michael_Bellesiles">Michael Besailles</a> was found to have made some errors in citation in his pro-gun-conrol historical work. Besailles was promptly investigated, fired, exposed in the <cite>Boston Globe</cite>, had his book pulled from publication, and was torn to shreds in various public forums.</p>
+
+<p>Not surprisingly, considering the rewards and punishments involved, new liars on the right pop up frequently while liars on the left are relatively rare.</p>
+
+<p>Even more evidence supporting this theory can be found by looking at when the left does lie. Take, for example, the case of Ralph Nader. The left has raked Nader over the coals for his 2004 presidential campaign, suggesting he&#8217;s getting funds and signatures from Republicans, attacked Michael Moore for being fat, and done other horrible things.</p>
+
+<p>Yet, <a href="http://www.thenation.com/doc.mhtml?i=20041101&amp;s=letter">as the Nader campaign explains</a>, they have worked hard to refuse signatures from Republicans, fighting lengthy court battles to get them ruled unnecessary. Only 51 Republicans, many of whom Ralph says he knows personally, have donated to the campaign and collectively they&#8217;ve donated even more to the Democrats. And Ralph merely expressed some concern about Moore&#8217;s health towards the end of a letter.</p>
+
+<p>The simplistic analysis would be to tout this as proof that the left does lie, but again it is interesting to look at the circumstances. When does the left lie? When it is attacking people even further to the left and is thus, in a very real sense, acting as the right.</p>
+
+<p>The next time you hear a claim from a politician, don&#8217;t just be skeptical. Ask who benefits &#8212; the left or the right?</p>
+
+<p class="posted">posted October 25, 2004 05:01 PM (<a class="category" href="cat_politics">Politics</a>) (<a href="#comments">18 comments</a>) <a href="001445" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001444" title="The World Is Watching">&laquo; prev</a> | <a href="./">up</a> | <a href="001446" title="Stanford: Day 39">next &raquo;</a></p>
+
+<p><a href="001437">Misstated Union: An Interview with David Brock</a><br />
+<a href="001438">Stewart on Crossfire</a><br />
+<a href="001439">Stanford: Day 27</a><br />
+<a href="001440">P2P Politics</a><br />
+<a href="001444">The World Is Watching</a><br />
+<strong>The Politics of Lying</strong><br />
+<a href="001446">Stanford: Day 39</a><br />
+<a href="001448">Stanford: Day 40</a><br />
+<a href="001449">Stanford: Day 41</a><br />
+<a href="001450">Philip Zimbardo on the Psychology of Evil</a><br />
+<a href="001451">Stanford: Day 42</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c3201">
+
+You wrote:
+
+For them, this is good news — they no longer have to spend time and energy protecting people from guns, since they aren’t a problem in the first place. 
+
+<p>I disagree. If the left turns out to be wrong on the issue of guns, it DOES hurt them. It damages their credibility on other issues because one could then say, &#8220;Well, you were wrong on guns, you could be wrong on abortion (say), too.&#8221;</p>
+
+<p>Plus, people are, in general, very unwilling to admit that a deeply held belief is, in fact, wrong. I do truly believe that this is part of the reason that something like gun control is such a heated issue; people aren&#8217;t willing to change their belief, so they attack the other guy&#8217;s fact and, if necessary, make up their own.  Especially for people who base their identities on something (&#8220;I&#8217;m a hunter&#8221; or &#8220;I&#8217;m a gun-control activist&#8221;), admitting you&#8217;re wrong means redefining who you are and that is usually painful.</p>
+
+<p>To return to gun contro, suppose, for example, that all Americans agreed to give up any and all of their legally owned guns for a year. At the end of the year, also suppose that gun-related crime (murder, armed robbery, etc.) hadn&#8217;t changed in a &#8220;statistically meaningful way.&#8221; How many gun control advocates do you really think would say, &#8220;Oh, wow, guess we were wrong after all. Sorry about that Assault Weapon Ban&#8221;?</p>
+
+<p>And no, I&#8217;m not going to say if I&#8217;m for or against gun control. :-)</p>
+
+<p>As far as Ralph Nader is concerned, he has no more credibility with me than George Bush. If he said the sky was blue, I&#8217;d get out a spectrometer, expecting it to be green. :-)</p>
+
+<p class="posted">posted by DDA at October 25, 2004 07:01 PM <a href="#c3201">#</a></p>
+
+</div><div id="c3203">
+
+<blockquote>
+  <p>Plus, people are, in general, very unwilling to admit that a deeply held belief is, in fact, wrong.</p>
+</blockquote>
+
+<p>DDA: In general; only if the belief is an article of faith, and to say Nader is about as credible as Bush debases achievement &#8212; oh. my. lord.</p>
+
+<p>For an extension on your ideas, Aaron, here&#8217;s an <a href="http://www.democracynow.org/article.pl?sid=04/10/04/1348230">interview with Nader</a> that&#8217;s quite illuminating. And an <a href="http://www.democracynow.org/article.pl?sid=04/10/21/1441204">interview with Chomsky</a> addressing Nader&#8217;s criticisms.</p>
+
+<p class="posted">posted by Gummi at October 26, 2004 12:51 AM <a href="#c3203">#</a></p>
+
+</div><div id="c3204">
+
+<p>Since political parties use issues for <em>fundraising</em>,
+being or seeming to be wrong about an issue could tend to cut
+off their proverbial air supply.</p>
+
+<p>You might recall Thomas Frank&#8217;s What&#8217;s the Matter With
+Kansas? as a recent story of how money raised by talking
+about one thing is later spent on something different.  He focuses
+on how socially conservative Republicans do this, but I see no
+reason to think that other political parties don&#8217;t do it too.</p>
+
+<p>In fact, most entities that solicit donations from the public
+(like universities, nonprofit advocacy organizations, other
+kinds of nonprofits, and political parties) don&#8217;t allocate the
+money they raise in a way proportional to the amount of time
+they spend talking in public about things.  For example, a
+university will talk about professors or social service projects
+and then spend money on infrastructure.  The college where my
+mother works in fundraising is always trying to get people to
+give &#8220;unrestricted&#8221; gifts simply because donors&#8217; priorities
+don&#8217;t actually align perfectly with the college&#8217;s priorities.</p>
+
+<p>Suppose a Democrat cares first and foremost about some
+complicated wonky thing like the accounting for government
+pensions.  Perhaps that Democrat kind of likes gun control,
+but doesn&#8217;t find it very interesting and doesn&#8217;t expect to
+spend a lot of time in office working on it.  Still, donors
+are much more likely to want to give money because that
+Democrat is &#8220;the gun control candidate&#8221; than because of the
+candidate&#8217;s interest in accounting principles.  And it will
+be in the candidate&#8217;s interest to play up the gun control
+issue and to promote the Democratic party&#8217;s view of it.</p>
+
+<p>Recently I&#8217;ve been thinking that the pattern Thomas Frank
+saw may generalize enough for this to be the way most political
+fundraising works.  If you ask &#8220;cui bono?&#8221; about individual
+candidates in fundraising races, it might be a more complicated
+story than the one you told.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://vitanuova.loyalty.org/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3204">Seth Schoen</a> at October 26, 2004 12:54 AM <a href="#c3204">#</a></p>
+
+</div><div id="c3205">
+
+<ol>
+<li>Even when the &#8220;truth is on your side&#8221; in the sense that true statements imply that your position is correct, it is often to your advantage to lie.  For instance: Suppose the truth is that X is true and given X, the best policy is A.  But suppose you are arguing with someone who thinks that even if X is true, A is still not the best policy.  This person thinks that if X is true, B is the best policy; and she thinks that if Y is true, A is the best policy.  What do you do?  Sometimes it&#8217;s just easier to lie and say that B is true.  Then you get the correct policy endorsement from the person you&#8217;re arguing with.</li>
+</ol>
+
+<p>Here&#8217;s an example.  (You don&#8217;t need to agree to all of the following in order to understand the example.)  Suppose it&#8217;s the case that if a fetus is capable of feeling pleasure and pain, abortion is wrong (and is not wrong otherwise).  Suppose further that it is the case that a fetus is, in fact, incapable of feeling pleasure and pain.  All right: quite clearly, the truth is on the side of the pro-choicer.  </p>
+
+<p>But suppose you are arguing with someone who has the view that if a fetus has human DNA, abortion is wrong, and that if a fetus does not have human DNA, abortion is right.  Further, this person has the (correct) belief that a fetus has human DNA.  What should you do?  Suppose it would take you a week or a year to try to show the person that there is no connection between human DNA and the rightness or wrongness of abortion.  But suppose the person is not very science-oriented, so that it would be very easy to mislead the person and make her think a fetus does not possess human DNA.  If your only goal is to get the person to take the right policy stance in the quickest amount of time, you should just lie to her and get her to believe that a fetus does not have human DNA.</p>
+
+<p>I believe this is actually a quite widespread pattern in political debate.  Suppose Kerry would make the better president because he is not incompetent.  If so, the truth is on your side if you support Kerry, but that doesn&#8217;t mean Kerry or Kerry supporters haven&#8217;t had incentive to actively mislead people.  Kerry has been forced to misrepresent his views about the Iraq war, and to appear far more hawkish than he actually is, because many people think that Kerry would make the best president only if he is somehow more of a manly warrior than Bush.  </p>
+
+<p>I was gonna do a second one, but this is enough for now&#8230;.</p>
+
+<p class="posted">posted by david at October 26, 2004 03:25 AM <a href="#c3205">#</a></p>
+
+</div><div id="c3206">
+
+<p>&#8220;Sometimes it’s just easier to lie and say that B is true.&#8221;</p>
+
+<p>That should read:</p>
+
+<p>&#8220;Sometimes it’s just easier to lie and say that Y is true.&#8221;</p>
+
+<p class="posted">posted by david at October 26, 2004 03:28 AM <a href="#c3206">#</a></p>
+
+</div><div id="c3207">
+
+<p>This election has me totally burned out, both at the federal and the state level.  I&#8217;m one of those highly-desirable &#8220;still undecided&#8217;s&#8221; because (a) In the federal election, I don&#8217;t believe a word from either side, and (b) In the state election, both sides have spoken much without saying anything.</p>
+
+<p>Increasingly, I spend my time and money on those who can be personally accountable to me.  I think there&#8217;s a lot of wisdom in the maxim, &#8220;Think globally, act locally.&#8221;</p>
+
+<p class="posted">posted by Russ Schwartz at October 26, 2004 07:13 AM <a href="#c3207">#</a></p>
+
+</div><div id="c3208">
+
+<p>Many things have been tried outside USA, so you can simply check, how things are in other countries instead of just speculating. As for gun controll, you can probably expect, that the results would be similar USA as they are in the UK these days. In UK one can&#8217;t carry any weapon (e.g. knife) and one can&#8217;t own firearm at all. 
+Check the statistics for the results: the violent crime rates increased <em>very</em> significantly. The criminals have no problems with obtaining weapons and they know their victims are unarmed (they respect the law). It hes been several years, since the results are obvious. The laws were not withdrawn, their promoters didn&#8217;t start promoting self defence.</p>
+
+<p>I believe it is because the &#8220;anti-guns&#8221; people are basicly pacifists in the meaning: all violence is bad. They don&#8217;t distinguish rigthfull and wrongfull violence, attacker and defender. They basicaly don&#8217;t want anyone to defend himself, because it is violence. This approach is obviously not intelectual but emotional. Ergo rational arguments have no influence on these people. </p>
+
+<p>I am eager for your reaction, if you check those statistics. If you are a man of intelect and reason, you shoul draw some consequences from them.</p>
+
+<p>PS:</p>
+
+<p>Read for instance this to see how anti-gun people react, when they see they are not right: they try to fake the statistics and lie.
+http://www.newsmax.com/archives/articles/2001/3/21/205139.shtml</p>
+
+<p>Or look here:
+http://www.nraila.org/Issues/FactSheets/Read.aspx?ID=78
+(I know, it is the NRA web, but read the information. You can check the validity in the statistics.)</p>
+
+<p class="posted">posted by Pavel at October 26, 2004 07:31 AM <a href="#c3208">#</a></p>
+
+</div><div id="c3209">
+
+<p>Don&#8217;t land too heavily on the right and too lightly on the left.  I would wager that if you examined other issues and broadened you scope of what is &#8220;true&#8221; you would find that both sides exaggerate and have members who lie to support their beliefs.  This isn&#8217;t confined to politics, it just seems to get more attention there.</p>
+
+<p class="posted">posted by  at October 26, 2004 08:04 AM <a href="#c3209">#</a></p>
+
+</div><div id="c3211">
+
+<p>&#8220;Not surprisingly, considering the rewards and punishments involved, new liars on the right pop up frequently while liars on the left are relatively rare.&#8221;</p>
+
+<p>I agree with the previous commenter &#8212; that&#8217;s an outrageous comment to make, with zero evidence to support it.</p>
+
+<p>I normally wouldn&#8217;t cite your youth as relevant, and he was much better than Bush, but perhaps you&#8217;re too young to remember the chronic dishonesty of the Clinton administration. </p>
+
+<p>Or is Clinton not &#8220;left&#8221; in the eyes of a Kucinich supporter (a man to whom you bizarrely attributed <a href="http://www.aaronsw.com/weblog/001070">&#8220;the most electable platform&#8221;</a>, something that leads me to believe you may have an odd understanding of the political spectrum)?</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.joegrossberg.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3211">Joe Grossberg</a> at October 26, 2004 09:58 AM <a href="#c3211">#</a></p>
+
+</div><div id="c3212">
+
+<p>&#8220;When does the left lie? When it is attacking people even further to the left and is thus, in a very real sense, acting as the right.&#8221;</p>
+
+<p>I think that in a general sense, you are right. The right usually consider themselves realistic but are viewed as cynical. The left consider themselves idealistic and are viewed as unrealistic. But this does not always fit. For instance, in abortion the opposite is usually true: pro-life people usually argue idealistically, while pro-choice people argue pragmatically. And there are organizations on the left, like IS, which would have no qualms whatsoever lying for you or concealing their true ambitions.</p>
+
+<p>Oh, and hi Pavel. I live in Norway. Really low gun crime, although there are plenty of weapons. The main difference is that here saying you needed a gun for self-defence would be a little like saying you needed some tons of TNT to remove the gravel in front of your house. </p>
+
+<p>So you don&#8217;t get to have a gun for that.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://vintermann.paranoidkoala.org" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3212">Harald Korneliussen</a> at October 26, 2004 10:03 AM <a href="#c3212">#</a></p>
+
+</div><div id="c3213">
+
+<p>I wish it were so simple &#8212; that any person invested in a position, if they see data that rebuts their position, would abandon their position.  Unfortunately, people&#8217;s brains just don&#8217;t seem to work that way.  In fact, when people are deeply invested in a position the disproving evidence can <em>strengthen</em> their investment.  Read &#8220;Influence, the Psychology of Persuasion&#8221; by Cialdini for a discussion of this effect which he calls &#8220;commitment consistency&#8221;.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://nih.blogspot.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3213">Lisa Dusseault</a> at October 26, 2004 12:34 PM <a href="#c3213">#</a></p>
+
+</div><div id="c3214">
+
+<p>Pavel &#8212; I think you&#8217;re half right about the UK experience.  As far as I can tell, many other places that do have strict gun control laws have low crime rates, not just places with lots of guns like Switzerland &amp; Israel (if you don&#8217;t count in terrorism, that is).  I&#8217;m more inclined to believe that there is weak correlation and that difficult cultural variables are more relevant to the issue.</p>
+
+<p class="posted">posted by Mike Sierra at October 26, 2004 01:04 PM <a href="#c3214">#</a></p>
+
+</div><div id="c3215">
+
+<p>Lisa &#8212; well put and couldn&#8217;t agree more.  One&#8217;s stance on questions like gun control is often closely intertwined with a sense of personal identity. I can only add that conscious &#8220;lying&#8221; is a minor problem compared to the broader tendency to ignore contrary evidence or to fall for misleading evidence.</p>
+
+<p>Joe was looking for an example of a leftist liar, and a good prototype is Walter Duranty, who knowingly ignored the Stalinist terror-famine in his reporting for the New York Times.  Following that precedent there were many cases of seemingly intelligent people ignoring violence perpetuated by Mao, Pol Pot, even Hitler.  Were their views any less damaging for merely being blinkered?</p>
+
+<p class="posted">posted by Mike Sierra at October 26, 2004 01:25 PM <a href="#c3215">#</a></p>
+
+</div><div id="c3217">
+
+<p>&#8220;Not surprisingly, considering the rewards and punishments involved, new liars on the right pop up frequently while liars on the left are relatively rare.&#8221;</p>
+
+<p>Well thats a sweeping generalization. Say that somebody definitevly proves that being gay is not a choice(and I&#8217;m not saying that it is but lets suppose that it is completely proven in such a way that no one can argue with the assertation). Then the right has no reason to lie because attempting to enact all those constitutional amendments is hard. The left however has reason to lie because if the right was forced to accept gay people(and we&#8217;re assuming here that the right is logical which yea a pretty big assumption I know but work with me) then conservative gays would have no reason to support the left, causing the left to lose many of it supporters. It all depends on the issue you choose.</p>
+
+<p class="posted">posted by dinah at October 27, 2004 02:24 AM <a href="#c3217">#</a></p>
+
+</div><div id="c3225">
+
+<p>Mike &#8212; You are right, but to disregard the social diferences we should look at the countries with the significant <em>change</em> in the firearms owning rights. I believe we will find the correlation then.</p>
+
+<p>The whole thing is very simple: Someone find the country that banned the firearms and the crime rate decreased significantly. Or at least didn&#8217;t increase. If they don&#8217;t it is <em>chucpe</em> (more than outragious) to propose such a thing.</p>
+
+<p>Being Czech I can cite Czech situation: Since the 1989 (after the fall of the comunist dictature) the gun owners&#8217; number has been increasing steadilly (people aquired the right to own the firearms). The number of murders has been going down for several years now. I don&#8217;t have exact numbers, but the tendencies of these two things are exactly opposite.</p>
+
+<p>Yet our police and many socialist in the parliment (and the current government) still try to decieve public: for instance they purposefully don&#8217;t discriminate crimes commited with illegally owned firearms from the legally owned, they show number of murders with weapon (incl. knife, car or any other object) when talking about the danger of firearms etc. </p>
+
+<p class="posted">posted by Pavel at October 27, 2004 02:43 PM <a href="#c3225">#</a></p>
+
+</div><div id="c3248">
+
+<p>Pavel, your point is well taken.  I&#8217;m happy and frankly a bit surprised to hear your murder rate has been declining.  From the well publicized experience of mob violence in post-Soviet Russia, I had the impression that the disruptive onset of freedom tended to be accompanied by higher violent crime rates, at least temporarily.</p>
+
+<p>Still I&#8217;m a little skeptical.  I don&#8217;t know, but I assume there are instances of low-crime societies that successfully went from high to low gun saturation.  Japan, perhaps?</p>
+
+<p class="posted">posted by Mike Sierra at October 28, 2004 10:02 PM <a href="#c3248">#</a></p>
+
+</div><div id="c3251">
+
+<p>Re-reading the original post after having wandered off topic a bit, a few points jump out at me.</p>
+
+<p>First, the problem with Bellesiles&#8217; work went far beyond &#8220;some errors in citation.&#8221; That characterization makes it seem like an honest, inadvertant mistake, kind of like saying the authenticity of CBS&#8217;s National Guard memos cannot be verified at the present time.  In fact, Bellesiles made <em>a lot</em> of stuff up, indeed to the point where his argument relied mainly on fabricated data. The publisher took the book &#8212; a huge bestseller, btw &#8212; out of circulation after recognizing it could not be salvaged.  Bellesiles certainly preceded Lott in using the my-hard-drive-ate-it excuse for missing evidence, and he also seemed to have a problem with a flood that destroyed some crucial handwritten notes, and not a very good explanation for how he examined probate records that had been destroyed in the fire that followed the great SF earthquake.  A relatively minor point, and I recognize that the link you provide summarizes much of the Bellesiles scandal, but if your argument is that one side of the political spectrum is in fact worse than the other, then it becomes especially important to represent both sides of your example fairly and accurately.</p>
+
+<p>Second, you seem to assume that gun-rights advocates have a much greater incentive to lie about guns because&#8230; why?  Because they consist mainly of dealers overly willing to foist guns on the population regardless of the risks, big-tobacco style?  That is at least what you appear to suggest.  Fine.  I can quibble: you can easily favor gun rights without actually owning a gun, just as you can favor abortion without ever having one.  But recognize that there&#8217;s nothing about your argument that is limited to the right.  Beneficiaries of affirmative action have an incentive to lie about the benefits of that policy, while opponents derive little if any tangible benefit to themselves.  Abortionists have an incentive to lie about the brutality and necessity of late-term procedures, while pro-lifers are not affected directly.  The benefits may be more ideological than material.  During the &#8217;80s, homeless advocate Mitch Snyder famously made up the bogus statistic that 3 million Americans lacked shelter. Perhaps he was partly motivated by monetary gain, but I suspect most of the reason he lied was to be seen as the foremost authority and leader on that issue, and to inflate its importance. The fact that college campuses have so often been the scene of hoaxed racial &amp; sexual attacks is because the perception those incidents raise feeds into various leftist political agendas.  And if you are a Walter Duranty type who believes in the inevitable global socialist triumph, you don&#8217;t actually have to getting a Pulitzer by parroting the Soviet party line to the New York Times to be motivated to ignore Stalinist violence. So the question &#8220;who benefits?&#8221; applies to all of us, not just those on the right.</p>
+
+<p>Third, what is this crazy idea that leftists habitually lie about those who are further to the left, and that lying pretty much by definition emanates from the right?  If a leftist lied about Ralph Nader, it was because they believed he was acting in the service of Satan.  When Bush&#8217;s judicial nominee Charles Pickering was branded a racist for reducing the sentence of a KKK cross-burner on a point of law despite his long history working for civil rights, was he being attacked from the right or something? Come <em>on</em>!</p>
+
+<p class="posted">posted by Mike Sierra at October 29, 2004 01:21 AM <a href="#c3251">#</a></p>
+
+</div><div id="c3354">
+
+<p>I worked as a petitioner for Ralph Nader to try and get him on the ballot in Texas. Guess what I found out- alot of registered Republicans were actually thinking about voting for him over Bush. Gasp! How is this possible?</p>
+
+<p>The world of politics is full of more gray areas than you average Liberal or Right-winger would have you believe. Ralph Nader getting donations from individual Republicans- maybe they support him.</p>
+
+<p>The interesting thing was no Republicans where whining about Badanick who was polling much higher than Nader for the Libertarian party.</p>
+
+<p>You&#8217;re right on- Democratic criticism of Ralph Nader was plagued by lies and slandered a very good man.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.rundeep.net" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3354">Randeep</a> at November  4, 2004 05:27 PM <a href="#c3354">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001445.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1445" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

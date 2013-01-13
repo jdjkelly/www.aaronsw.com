@@ -1,0 +1,848 @@
+A chat from opn:p2p-hackers on the attack-resistance of Google PageRank, anonymous remailer networks, and lots of stuff in between. [2002-03-02]
+
+<raph> in any case, i spent quite a bit of time today analyzing google's attack resistance
+<raph> motivated in large part by this scieno thing
+<AaronSw> ooh, do share
+<tav> gpl + commercial ?
+<AaronSw> like sleepycat
+<AaronSw> GPLing your software allows you to sell it to companies
+<raph> also like ghostscript :)
+<raph> well, has anyone here read the pagerank paper?
+<AaronSw> Yeah, but I assume that things have been greatly changed since then.
+<raph> i don't think so
+<raph> it's hard to say for sure, but the original PR is very smart stuff
+<raph> and my analysis indicates that it has a good attack-resistance property
+<raph> the other thing about PR is that it's quite tunable
+<raph> through the E(u) mechanism
+<tav> E(u) mechanism ?
+<raph> the paper talks about this a little, but obviously they had only started thinking about it
+<raph> if i had to guess, it would be more or less vanilla PR with a well-tuned E(u)
+<tav> .google pagerank e(u)
+<xena> pagerank e(u): http://directory.google.com/Top/Arts/Music/Magazines_and_E-zines/U
+<raph> heh, no
+<raph> you need the 1998 paper by page
+<raph> copy at http://www.levien.com/thesis/refs/pageranksub.ps.gz
+<raph> (url typed from memory, lemme know if it 404s)
+<tav> works, thanks
+<AaronSw> aka http://www-db.stanford.edu/~backrub/pageranksub.ps
+<raph> oh good
+<raph> so i can explain the central concept in a few minutes, if you'd like
+<tav> please
+<raph> ok
+<raph> so the PR algorithm can be modelled as a random walk
+<raph> essentially, what's in the page paper is the following:
+<raph> pick a random web page from your list of 3 billion or whatever urls
+<raph> pick a link at random, and follow it
+<raph> now, roll a 6-sided die
+<raph> if it's 6, stop, otherwise go to "pick a link"
+<raph> so you have a nice exponential tail distribution of walk lengths
+<raph> ok, so now when you stop, mark the url you stop on
+<raph> after a huge number of runs, the number of marks on a url corresponds to its rank
+<raph> it's a beautiful and simple idea
+<raph> E(u) corresponds to the initial step of picking a page at random
+<raph> this _doesn't_ have to be a uniform distribution
+<raph> and therein lies the interesting part :)
+<raph> so, here's my analysis
+<raph> (assuming i haven't put you guys to sleep yet)
+<tav> listening
+<raph> you do the same thing as the analysis of the advogato trust metric
+* AaronSw fires up MacGhostViewX and skims the paper
+<raph> all web pages are either "good" or "bad"
+<raph> the algorithm doesn't know, only santa claus
+<raph> the idea is to see if you can prove something about bad pages having low rank and good pages a high rank
+<raph> that's the goal of a good attack-resistant algorithm
+<tav> please define 'good' / 'bad'
+<raph> ah, ok
+<raph> that's an interesting question
+<raph> the mathematical part of the analysis doesn't care _how_ you define it
+<raph> so there are a couple of interesting ways of doing it
+<raph> one is by how interesting/relevant the page is
+<raph> this is very subjective, but is still the goal of the thing
+<raph> another is by assuming an attack
+<tav> so, the trick is to define E(u) in such a way so that page rank correlates with your concept of "good" ?
+<raph> so the "bad" pages are the ones under the attacker's control
+<raph> in this case, the question is: how well can the algo resist assigning a high rank to pages under an attacker's control
+<tav> *nod*
+<raph> straight keyword searching, for example, has no attack-resistance
+<raph> all an attacker needs to do is put the juicy terms in the searchable part of the page, and bingo
+<raph> so, the no-attack case is also interesting
+<raph> ie, assuming non-adversarial producers of web pages, how can you get the most relevant results?
+<raph> this is a question that a lot of people have thought about
+<raph> but i'm only really considering the attack case
+<raph> an interesting hypothesis is that an attack resistant ranking algo will give good subjective results
+<raph> in the non-attack case as well,
+<raph> but that would be hard to substantiate :)
+<AaronSw> Interesting. Conventional wisdom would seem to indicate that E is based on how often a page changes and the pagerank of the pages that it links to...
+<raph> ok, forget e for now
+<raph> one of the interesting things is that PR is not hugely sensitive to E
+<tav> AaronSw: yea, i thought pagerank was more complex than this
+<raph> they ran it with a uniform distribution and also a single start page
+<raph> and got results that were surprisingly not all that different
+<raph> i am simplifying a bit
+<raph> but not _that_ much
+<tav> assumed that
+<tav> anyways, back to the attack resistance
+<raph> yes
+<raph> so, as an intermediate step in the analysis, assume that E is only good pages
+<raph> or, more precisely, is 0 for all bad pages
+<tav> k
+<raph> obviously, if you have this assumption, there is a trivially attack resistant ranking algo
+<raph> just pick a page from E :)
+<tav> heh, how resistant is E though ;p
+<raph> but we'll assume that we're doing PR, and it's doing the random walk thing
+<raph> tav: the assumption is 100%
+<raph> ok, so now we further subdivide the good pages into "good" and "confused"
+<raph> a confused page is one that is itself good, but contains a link to a bad page
+<tav> right
+<raph> actually, it might make more sense to talk about the links
+* tav sees now
+<raph> good links, evil links, and confused links
+<raph> which are g->g, b->whatever, and g->b, resp.
+<raph> so in this framework, the analysis is actually easy
+<raph> any given walk that crosses a confused or evil link can result in a bad page
+<raph> but a walk that crosses only good links results in a good page
+<tav> devilishly simple and elegant
+<raph> so, for a walk of length k, and the probability of a page containing a confused link p, you get a chance of a good link at least p^k
+<raph> (1-p)^k sorry
+<raph> what's more interesting is that it's not just the probability of a random good page containing a confused link, it's biased toward high-ranked pages
+<tav> ?
+<tav> i didn't get that last line
+<raph> ok, lemme spell that out, 'coz it's interesting
+<raph> assume that we have 'god's web'
+<raph> consisting of only the good pages
+<raph> now, we run PR on this dataset, resulting in a rank for each page
+<raph> (actually, as a minor technicality, you want a rank for each walk length)
+<raph> but close enough :)
+<tav> heh, k
+<raph> i mean, there are going to be some "good" pages that are boring and nobody links to
+<raph> and others, such as advogato, that get a huge rank
+<raph> (advogato gets a _lot_ of google-juice)
+<raph> so now, phase back into the real world
+<raph> which contains G's W as a subset
+<tav> (only 7 ;p)
+<raph> so now we can talk about the real-world rank in terms of god's rank
+<raph> g's r being the output of the PR algorithm when run over g's w
+<tav> sure
+<raph> an attack-resistant ranking algo would have bounds
+<raph> ok, so here's the relationship:
+<tav> but, google doesn't have a stale control set afaict?
+<raph> at each step in the walk, you look at the probabiity of a confused set, weighted by the rank at that step
+<raph> confused link, sorry
+<raph> weighted by the g's rank at that step
+<raph> and, for a walk of length k, the final probability of a good link is the product, over step index [0..k) of 1-(confused prob at that step)
+<raph> so, under the assumption that high-ranked pages are less likely to have confused links, you'll actually do better than (1-p)^k
+<tav> hmz
+<raph> shall we look at E now?
+<tav> k...
+<raph> ok, so the effect on the ranking results is clear
+<raph> you just multiply in 1-(the probability that a page in E is bad)
+<raph> ...to the probability that you end up with a good rank
+<tav> huh?
+<raph> so the implications are quit clear
+<raph> ok, a little slower...
+<tav> surely that's (probability of a good rank)^2 ?
+<raph> E now contains both good and bad pages
+<raph> so, choosing a page from E, if it's bad, you get a bad page at the end of the walk
+<raph> if it's good, you get a good page with exactly the same probability as if you had started from god's E
+<raph> so the real-world good prob = E's good prob * the good prob of running PR over god's E
+<tav> right
+<raph> the latter meaning running PR over the real web, starting with god's e
+<raph> so: "how to optimize google" is really clear now
+<raph> E is your whitelist
+<raph> ie, you try to keep bad pages out of it
+<raph> and it can be much smaller
+<raph> than the whole web
+<raph> so, the _other_ tunable parameter is that 1/6 chance of stopping the random walk
+<raph> (the paper gives 15%, but close enough)
+<raph> and now the meaning of that is clear as well
+<tav> any reason for the value?
+<raph> yes
+<raph> the larger it is, the better the attack resistance
+<raph> but the smaller it is, the more of the web it covers
+<raph> ie, with a value of 1, you have exactly e
+<raph> but if e is a whitelist of a few thousand pages, then you're not doing a good job
+<raph> so you assume that most interesting pages are within a few hops of a page in e
+<raph> and the 15% value corresponds to "a few hops"
+*** dev0 has quit IRC (Read error: 110 (Connection timed out))
+<raph> ie, at 15%, half of your walks are <= (>) 4 hops
+<raph> i'm sorry, but this is fucking brilliant
+<raph> (google's original idea)
+<tav> heh. i saw the brilliance earlier, but you lost me towards the latter half
+<raph> it's _really_ attack resistant,
+<raph> and it has a nice way of getting a lot of leverage from human input
+<tav> you going to write up your analysis?
+<raph> yes indeedy
+<raph> chapter 6 of ye olde thessys
+<tav> i'd love to read it after reading the original paper
+<raph> and, in around 2019 or so, we'll all be able to implement it
+<raph> (assuming they get a valid patent)
+<raph> i'm fishing for people to tell me that :)
+* raph finds it difficult to find time for the thesis with all the other interesting bits of work & play
+<raph> so the more motivation, the better :)
+<tav> hehe
+<tav> well, i've always like reading your work
+*** xena has quit IRC ("you son of a bitch")
+*** xena (xena@mewtwo.espnow.com) has joined the channel
+<raph> ok, so now i'm thinking about something else
+<raph> which is the relationship between PR and advogato
+<raph> there are a lot of similarities:
+<raph> they both work from the same graph structure
+<raph> (the fact that nodes in advo are people, and nodes in PR are web pages, is irrelevant to the math)
+<tav> *nod*
+<raph> and they both have an attack resistant property
+<raph> ...which is probably quite similar
+<raph> ("resistance", pardon my syntax)
+<raph> ie, the class of attacks resisted by advo and pr are probably about the same
+<raph> but there is a fundamental difference
+<raph> network flow vs random walks
+<raph> (the evaluation of pr is not done with walks, it's done with some fun linear algebra)
+<raph> so advo gives you a yes/no, but it's possible to enrich that by doing several runs
+<raph> which is what master/journeyman/apprentice is all about
+<raph> that gives you a [0..4) range
+<raph> pr, by contrast gives you a real-valued rank
+<raph> perhaps the deepest difference is that pr is deterministic
+<raph> and, even more so, not sensitive to small perturbations
+<raph> two runs of pr on very similar graphs will give you very similar ranks
+<raph> as i'm sure you guys have noticed with actual google searches at different times
+<raph> it's a feature; advo's nondeterminism is a misfeature
+<tav> oh?
+<tav> hmz
+<raph> but it does raise some interesting questions; most notably, how would the algos perform on each other's turf?
+<raph> running pr on the advo graph is very, very very doable
+<raph> the graph is only a few thousand nodes, it would be no sweat to just compute the principal eigenvalue, probably with an off-the-shelf linear algebra package
+<tav> not being overly familiar with either, i feel i'm presently ill equipped to answer that
+<tav> what's your email address?
+<raph> raph@acm.org among others
+<raph> that's my "academic" address
+<raph> running the advo algorithm on google's graph presents a bigger challenge
+<tav> i should join the acm sometime. now, if only i had some money
+<raph> i mean, they have a really impressive supercomputer to implement pr, and no doubt a super-nicely tuned impl
+<raph> the pubs are not that interesting :(
+* tav mentions the google contest to raph
+<tav> .google programming contest google
+<xena> programming contest google: http://www.google.com/programming-contest
+<raph> yeah, i would win, wouldn't i?
+<tav> ;p
+<tav> most blatantly
+<raph> but the program actually has to run to completion, yes?
+* raph wonders if he's the only person who sees that as a blatant recruitment scheme
+<tav> recruitment / r&d
+<raph> oh, only 900k pages, that's interesting
+<raph> 'coz advo evaluates 7k pages in about 60s on a modest computer
+<tav> google aren't the first to do a contest
+<raph> (modest by today's standards)
+<raph> the advo impl is in c and pretty well tuned
+<tav> anyways, i'll be sure to email you my thoughts as soon as i clear the pagerank paper
+<raph> i think a 900k dataset might be doable in an overnight run
+<raph> s/7k pages/7k nodes/
+<raph> nonetheless, you have tempted me
+* raph has no interest in being recruited by google
+<raph> but this looks easy and fun
+<raph> yah, you'll find it worth reading
+<raph> google gets the ip of the submissions
+<raph> wow, 10k is cheap
+<raph> that's like the cost of filing one patent
+<raph> not an issue for me tho - the advo trust metric is public domain
+<raph> really great chatting w/ you guys
+<raph> about time for bed for me
+<tav> .time pst
+<xena> Mar. 2, 2002 11:13 pm US/Pacific
+<tav> .time gmt
+<xena> Mar. 3, 2002 7:13 am GMT
+<raph> tav: where are you?
+<tav> london
+<arma> (yes, raph, you should write all of this. we want to read it :)
+<raph> arma!
+<raph> start a petition campaign
+<tav> eta on your write up?
+<raph> hey, if it gets ms to open kerberos, it might work on me getting the thesis done
+<tav> anti google patent?
+<tav> heh
+<raph> tav: i'm planning on spending massive time this week
+<raph> my job lets me do that :)
+<arma> yeah, don't do the google programming contest. they're really smart to do it,
+<arma> because it *will *work.
+<raph> so expect it soon
+<arma> excellent.
+<raph> arma: why not?
+<arma> i've been being lame about paying attention to your stuff lately. :(
+* raph doesn't see the downside
+<raph> ditto :(
+<arma> er, they get the IP, right?
+* raph doesn't care
+<arma> hum. ok.
+<raph> or, to put it more precisely
+<arma> i'd say do it outside of their parameters.
+<raph> there is no ip involved other than what's already been released in mod_virgule
+<raph> no, wait
+<raph> they would be getting, as far as i can see it, the rights to use the m/ code commercially
+<raph> that i don't care _much_ about, but it's worth _something_
+<raph> i have a better idea
+<arma> hey, they'll fly you to san francisco if you win! :)
+<raph> i'll post the idea on advo
+<raph> arma: yeah, that's a major draw
+* raph is only 2 degrees of separation from google top brass anyway
+<raph> erm, 3
+<raph> advisor's wife's students = founders of the company
+<raph> arma, so what you been up to?
+<raph> is reputation still alive?
+<raph> one never knows in this post.com env
+<arma> reputation is still alive. we will be until june.
+<arma> we've got a bunch of almost-customers, but we've had them for 2 years now.
+*** coderman has quit IRC (Read error: 110 (Connection timed out))
+<arma> if any of them turn into actual customers in the next month or two,
+<arma> then we continue until december
+<raph> right
+* raph wishes you luck with that
+<raph> i know it's tough
+<arma> if several of them convert, then we continue for at least several years, which is Good.
+<raph> i assume that's been taking more attention, and chord/etc less?
+<raph> freehaven
+<arma> we wrote a cute little blurb on reputation and privacy enhancing technologies, for the CFP proceedings
+<arma> http://freehaven.net/~arma/cfp02.html
+<arma> it's got my latest thoughts on free haven, in a broad sense.
+<arma> and has brief summaries of the two recent mix-net reputation papers, too
+<arma> i still haven't read the oceanstore paper. the p2p workshop starts thursday.
+<arma> presenting at financial crypto next monday. need to plan a talk.
+<arma> i've mostly been doing damage control to make sure nothing gets too little attention,
+<raph> fair enough
+<arma> and putting the rest of it into making sure pet2002.org works.
+<raph> hm, the fc one looks interesting
+<raph> not that i've carefully read your earlier ones :)
+<raph> so arma:
+<arma> how carefully did you read this one? (casc-rep)
+<raph> not at all :(
+<arma> o. so it looks interesting from the title then ;)
+<raph> one of the reasons why I'm so excited about this google thing is that it might be the analysis tool i need for gznork exchange rates
+<raph> from the summary, dingbat!
+<arma> gznork is the name for that thing?
+<raph> gznork is my p2p network based on stamp-trading
+<arma> right. that thing we were arguing about a year ago
+<raph> yup
+<raph> the code's been moving forward slowly
+<arma> it was really cool, but had so many holes in it, i couldn't wrap my brain around it
+<raph> i'm thinking of redoing it in python
+<raph> (you can tell i've been spending time with zooko)
+<raph> arma: yes, i would be the only one in the world who can wrap his brain around it,
+<raph> ...if only i could
+<raph> :)
+<arma> hm. so while you're adding things to your list of hard problems,
+<arma> i'll reiterate my problem from earlier
+<raph> ok
+<raph> (the secret to research success is to do the problems you think are easy, but everybody else thinks are hard)
+<arma> in casc-rep, i suggest that we use an advogato-like metric to limit the number of Bad mix participants
+<raph> cha-ching
+<raph> (another cite! :)
+<arma> basically, if the proportion of bad nodes is too high, the adversary can just take over the system
+<raph> right
+<arma> so in my analysis, i'd like to limit the fraction of bad nodes
+<raph> that model is intuitively familiar to me
+<arma> but advogato doesn't let me do that. it just lets me limit the *number*.
+<arma> i need to start talking about distance from seeds, etc, if i want to start thinking about a fraction.
+<raph> you should be able to get to fraction
+<raph> yes
+<raph> distance from seeds is, i believe, essential
+<raph> unfortunately
+<arma> i can say sigma over various distances provides a bound
+<arma> yeah. i haven't thought about this one in a while. hrm.
+<raph> it's interesting to note that the "seed" in advo corresponds almost exactly to E(u) in PageRank
+<arma> my earlier attempt was to come up with a "proof of bandwidth" operation,
+<arma> similar to proof of work,
+<raph> and, in Google's case, that's actually useful
+<arma> with the assumption that the adversary won't be able to pass "too many" proofs of bandwidth at once
+<raph> hmm, interesting
+<arma> but that turned out to be really nasty too,
+<arma> because either you have a central site that 'gets' the packets to verify they all showed up
+<arma> (obviously not a good plan),
+<arma> or you pair people up (or put them in groups of n, etc),
+<raph> yeah, proof of work is much easier
+<raph> and assuming that both work and bandwidth have a fixed cost per unit,
+<arma> and any time most/all of the group is bad,
+<arma> then they can lie.
+<raph> you really get the same result in terms of costs
+<arma> they're different assumptions tho
+<raph> yeah
+<arma> i eventually decided that if my adversary was the nsa,
+<arma> and my 'good' nodes are volunteers,
+<arma> then i really better stop looking down that path.
+<raph> yes
+<raph> because cost is not a big problem for them
+* raph tries to come up with a pun on "cost plus"
+<raph> but n/m
+* arma doesn't get out much :)
+<raph> ok, so in the remailer network it's all source-routed, right?
+<arma> in the current one, yes
+<raph> (this is certainly the case for the classic mix)
+<arma> in casc-rep, we build cascades out of participating nodes
+<raph> oh
+<arma> that is, we define fixed routes,
+<arma> and traffic goes through those routes
+<arma> it helps the intersection attack tremendously
+<raph> ok, i need to read the paper then
+<raph> yes
+<arma> in some sense it's still source-routed, though,
+* raph added random path choosing to premail at the request of cpunks
+<arma> because if we're trying to get odds of a bad path down to one in a million,
+<raph> and i always had the feeling that it _decreased_ security
+<arma> then people will need to chain cascades
+<arma> it sort of got fuzzy at that point
+<arma> but obviously if your path is only 4 or 5 hops,
+<arma> you're not going to get that level of security with any non-trivial adversary
+* raph thinks
+<arma> ?
+<raph> i mean, any mix-like thing is still going to have the problem that if the adv can monitor bandwidth on entry and exit to the net, the intersection attack is going to work
+<raph> assuming detectable traffic patterns, which i think is a _very_ good assumption in r/l
+<raph> so, to me, this places an upper bound on how good you need the mix itself to be
+<arma> i handwave some about approaches for having the cascades themselves send dummy messages.
+<raph> ok
+<arma> i think it could actually work
+<raph> so... let's consider a simpler network
+<raph> plain old mixes
+<arma> basically the cascades need to be sending test messages anyway,
+<raph> plain old source routing
+<arma> and they simply address them to/from people who've previously used the cascade
+<arma> ok. plain mix net.
+* raph is not convinced by dummy messages
+<raph> _at all_
+<arma> at all? i think they raise the bar..
+<raph> not very much
+<raph> i get the feeling they raise it from the equivalent of 32 crypto to the equivalent of 40 bit crypto
+<arma> fair enough
+<arma> so. plain mix net.
+<raph> yes
+<raph> so the application of an advo-like tm is _really_ easy to see
+<raph> the remops themselves do peer certs
+<raph> ... and in this case, the cert basically means "cert subject is not nsa"
+<arma> right
+<arma> right. it is *not* based on observed performance
+<raph> yeah, so observed performance is interesting
+<raph> you can also do that the same way
+<raph> if the net is going to remain fairly small, then you just do all-to-all pinging
+<raph> with each note publishing its own list
+<arma> well, the premise of casc-rep is a bit different:
+<raph> the client just retrieves all n^2 values, and evaluates those according to trust
+<arma> my goal is to allow more dynamic participants,
+<raph> right
+<arma> so random people can volunteer for a day, not volunteer the next, etc
+<arma> i want all sorts of people to be able to join,
+<arma> and the trust metric needs to handle this
+<raph> so you're really building a full p2p network :)
+<raph> so the trust graph should be reasonably stable even if you have join/leave
+<arma> (right. it's possible i'm just nuts and the real reason the network is small is because nobody wants to be an exit relay....but i'll solve that down the road.)
+<raph> well, if we're talking about the real remailer net, the deeper problem is that port 25 sucks
+<raph> if you had a spam-resistant messaging system, a pseudonymity service would be quite valuable
+<raph> but that's a different story...
+<raph> let's keep focussed on trust
+<raph> so if you do source routing, you're very dependent on your choice of seed
+<raph> in fact, that becomes your killer critical problem
+<arma> right
+<raph> it's likely that the "trustworthy seed" problem has no technological solution
+<raph> only (perhaps) social ones
+<arma> speaking of,
+<arma> i worry that needing to play the trust network game will seriously slow down the dynamic part of the network
+<arma> you can't just grab the rpm and go
+* raph notes that the recent morpheus problem can be seen as a seed failure
+<arma> you need to go out for a beer with somebody, etc.
+<raph> yes, you really don't have throwaway participation in a trust network
+<arma> and i think that will keep the list of partipants small.
+<raph> to me, the answer to that problem is clear:
+<raph> you offer long-term valuable services to those who do participate
+<arma> oo. another question. you know how seti@home gets people to do it because of the rankings? is there a comparable thing here?
+<raph> rankings meaning amount of cycles people are burning?
+<arma> right. "my team is #3"
+<raph> aha
+<raph> that's an interesting q
+<raph> primarily social
+<arma> nobody would do seti@home if there were no stats page.
+<arma> that's a social thing. but it's critical.
+<raph> right
+<raph> it's like the peacock's tail
+<raph> it has a very high cost, but _showing_ that you can afford that cost is valuable
+<raph> for getting peafucked
+<arma> interesting.
+<raph> (it's a standard model in evo psych, if you've been following that)
+<arma> i'd followed them separately, but hadn't tried connecting them.
+* raph spends too much of his time thinking about this stuff :)
+<arma> hey, i'm going to be in SF apr 13 through 20ish
+<arma> you going to be around?
+<raph> think so
+<arma> great
+<raph> i mean, almost certainly, for at least a subset of that time
+* raph frequently has 1 or 2 day obligations like staff meetings etc)
+<arma> i'm doing two workshops and a conference while i'm there
+<raph> so let's get together fer sherr
+<arma> but i'll have an evening free sometime.
+*** coderman (~fibrill@12-224-237-178.client.attbi.com) has joined the channel
+<raph> yes, i'd go out of my way to insure that
+<raph> too bad it's before the google contest
+<raph> 'coz otherwise we could get them to fly me to sf :)
+<coderman> lol, you in the google contest raph?
+<arma> so i can't talk you into going to pet2002? it'll be fun :)
+<raph> maybe one day
+<arma> it's a sunday and monday
+<arma> i dunno, look at the list of accepted papers and you'll decide either way
+<arma> so back to casc-rep
+<raph> yes
+<arma> there was another really interesting thing we noticed when working on it
+<arma> the idea is to group mixes into cascades,
+<raph> ok,
+<raph> so tell me what a cascade is
+<arma> and if anybody in the cascade screws up, they all suffer
+<raph> in 5 words or less
+<arma> a fixed-order set of mixes.
+<arma> it's a path. lots of people use it.
+<raph> so it's a data structure?
+<raph> an ordered list of nodes?
+<arma> it's the statement "use A first, then B, then C, then D."
+<raph> ok
+<arma> all the traffic goes into A, from there to B, ...
+<raph> so, basically, you're still source-routing, but you expect many sources to choose the same route
+<arma> and each of them reorders it
+<raph> reordering in the classic mix sense, yes?
+<arma> right. there are a limited number of routes people can pick
+<arma> right. batching/permuting/etc.
+<raph> ok, i think i get it
+<raph> so the advantage is clear
+<arma> so the deal there is that the nodes in a cascade watch each other,
+<arma> and if one of them says the cascade failed, it did.
+<raph> aha
+<arma> all nodes in a failed cascade lose a reputation point
+<raph> that's cool
+<arma> all nodes in a non-failed cascade (they last a day) gain a reputation point
+<arma> now the *problem* here,
+<raph> it makes it v. difficult for a node to lie about being reliable
+<arma> (right)
+<arma> is that the adversary's strategy is to make a bunch of nodes, get them put around into various cascades,
+<arma> and fail when it's advantageous.
+<arma> for instance, if cascades are size 4,
+<raph> right
+<raph> i get it
+<arma> then he will fail cascades where he has only one node, and not fail others.
+* raph is fast at this kind of analysis :)
+<arma> so with only a small percentage of nodes,
+<arma> he can move his nodes anywhere reputation-wise.
+<raph> right
+<arma> suck. :)
+<arma> we kludge it in casc-rep with two things:
+<arma> a) a web of trust to limit the number of bad nodes
+<raph> that won't work
+<raph> because a small number of bad nodes is a problem
+<arma> b) we pick cascades such that even if the adversary put *all* of his nodes into the range from which you're picking the 4 nodes, it's still within acceptable safety bounds.
+<raph> you only need |cascade|
+<arma> well, if you have only |cascade|,
+<raph> ok, b is more plausible
+<arma> then you haven't broken any anonymity.
+<raph> really?
+<arma> that was a very fuzzy statement. it needs refining. read the paper. ;)
+<raph> presumably, the goal of the attacker is to create a cascade of all-bad nodes
+<raph> i will
+<raph> i promise
+<raph> if you have an all-bad cascade, the attacker wins, yes?
+<arma> yes.
+<raph> ok
+<raph> so the non-independence is interesting
+<arma> (it can be complicated into an all-bad path rather than just all-bad cascade, if users can chain cascades. but we can ignore that for now.)
+<raph> and you're assuming that cascade/path length never gets _very_ long
+<raph> right?
+<arma> well, we posit paths of around 12 hops, in the paper.
+<raph> i was gonna say, above 10, assuring reliability is a serious problem
+<arma> well, isn't that based on current mix-nets?
+<raph> yes, true
+<arma> in theory, cascades that aren't reliable will die early
+<arma> so if you use 3 of the functional cascades,
+<arma> and they stay functional, you're fine
+<arma> if they don't, future people are more likely to be ok. etc.
+<raph> ok, but we're talking about a relatively small constant, i think
+<arma> right.
+<raph> 12 is still small enough that it's realistic for an attacker to get that # accepted
+<arma> yes.
+<raph> so the interesting thing, to me,
+<arma> but the chance we'll build a path out of only his nodes is, well, a parameter we can work with.
+<raph> is that you win by making the path more heterogenous
+<arma> http://freehaven.net/doc/casc-rep/casc-rep.ps btw. hm. i should commit the newest version, shouldn't it.
+<raph> ie, one node with an aclu affiliation, another with cia, another with swiss govt, etc
+<arma> true.
+<raph> but we'll ignore that
+<arma> yeah. that's hard to quantify.
+<raph> so, i think you might want to kiss
+<raph> in terms of trust
+* raph thinks
+<raph> ok, this is just off the top of my head
+<raph> but having the client evaluate a simple advo trust metric on the graph (which is published) seems like the right thing
+<raph> so you use the reputations for reliability only
+<arma> correct
+<raph> and the trust metric for trust only
+<arma> yes
+<raph> aha, here's a thought
+<raph> if you don't trust a node, you ignore all reputation ++'s and --'s that that node participated in
+<raph> hmm, no, that's problematic
+<arma> how so?
+<raph> the probabilities go the wrong way as lengths scale
+<arma> true
+<arma> well,
+<arma> the *path* length goes up to 12,
+<arma> but the cascade length remains fixed at 4 or 5
+<raph> ah
+<arma> so it could still work
+<raph> that's better
+<arma> we left the cascade length low for that reason
+<raph> obviously, i need to read the paper
+<arma> so a single bad node would have limited influence on how many others it could take down with it.
+<raph> you've convinced me it's worth reading :)
+<arma> in the extreme case,
+<arma> it's simply free-route mixing with a buddy system
+<arma> (mixes come in pairs which watch each other)
+<raph> mm-hmm
+<arma> http://freehaven.net/doc/casc-rep/casc-rep.ps. the current one should be fine to read. we just finished the preproceedings copy, but it's not much different.
+<raph> wgotten
+<arma> skip section 4 on your first reading, if you like.
+<raph> fyi, gznork is completely non-anonymous
+<arma> that was one of my first reaalizations
+<arma> i couldn't solve double-spending without full traceability
+<raph> even though it basically grew out of my thinking about how to create an anonymous system
+<raph> it won't even be a good system for pirating _music_, much less terrorist planning
+<arma> what'll it be for?
+<raph> because if the riaa wants to be super-nasty and issue subpoenas, the (publicly readable) trust graph will tell them exactly who to go after
+<raph> even if there is a provision for pseudonymous nyms
+<raph> well, people will use it for that anyway, even though it's not a good idea :)
+<raph> i'm kinda thinking one of the biggest legit uses is free software isos and the like
+<arma> ah. so software redundancy and availability
+<arma> that was cfs's stated goal too
+<arma> and i think tangler's?
+<raph> right
+* raph is not familiar with tangler
+<arma> really? o, you should look at it sometime
+<arma> (in your copious free time)
+<raph> is this one of your things
+* raph recalls you talking about it
+<arma> no, david mazieres and marc waldman, nyu
+<raph> ah
+<arma> .google tangler nyu
+<xena> tangler nyu: http://www.cs.nyu.edu/~waldman
+<arma> anyway, it's not as important as other things
+<arma> but it's along the lines of free haven, but slightly more feasible.
+<raph> aha
+<raph> so, basically gznork is this:
+<raph> an underlying stamp-trading network
+<raph> the goal of that is to be able to discover trading partners
+<arma> ok
+<raph> and to enable trading with those, and shut out everyone else
+<raph> the pattern of trading partners is chord-like
+<raph> on top of that, i see implementing about 5 services
+<raph> the first is vanilla bulk file transfer
+<raph> and the reason why it's the first is that it's relatively easy
+<raph> ie, you're not critically dependent on trust
+<raph> or, to be more precise,
+<arma> you don't lose much. yea
+<raph> trust is still needed to keep the underlying network healthy
+<raph> but it's not needed at all to provide the service itself
+<raph> (we can assume that it maps some kind of hash to the file itself, avoiding file naming issues)
+<raph> so it's relatively easy, and also something there's a high demand for
+<arma> o right, you've got this nasty issue of actually deploying it and making people want to run it.
+<arma> that's a hard enough problem in its own right. :)
+<raph> well, that's not my main concern, actually :)
+<raph> but yeah
+<raph> so the other services are harder
+<raph> #2 is probably email
+<raph> and there we have a number of interesting goals
+<raph> primarily spam-resistance
+<arma> right
+<raph> but i'll throw a couple of other things in for good measure, like transparent pk encryption and reliability
+* arma chants 'pki'
+<raph> that's #3
+<raph> a name server, pretty much exactly the same as my thesis design
+<raph> but an important point is that #2 will run without a name service
+* raph chants 'ssh'
+<arma> uh.. huh?
+<raph> ssh works without a pki
+<arma> what's a pki? what's a name service?
+<raph> ok, i have no idea what a pki is
+<raph> the name service is much easier
+<arma> or rather, how the (*# can you do email without naming?
+<raph> it's a namespace global to gznork, first-come, first-serve policy
+<arma> ok.
+<raph> hashes of public keys :)
+<arma> hm.
+<raph> which you need to instantiate the trust graph
+<arma> ok. so like pgp then.
+<arma> there will be several keys which claim to be arma@mit.edu,
+<raph> so a <big>big</big> part of gznork is making those hashes pretty and accessible
+<arma> and you'll pick the one whose trust characteristics lead you to believe it's me.
+<raph> actually, no
+<arma> good. then how?
+<raph> ok
+<raph> in the non-pki case, i'll just pick 4ab3 776a 1253
+<raph> based on you having given me a beautifully printed card with that information, last time we had a beer together
+<arma> business card pki. ok.
+<raph> or, perhaps, the other way around, and me responding to an email you sent me
+<raph> with the name service, it's a bit better
+<raph> gznork enforces the 1st-come, 1st-serve policy
+<raph> so you tell me that your gznork name is "arma", and i'll believe you
+<raph> if somebody else took "arma" first, then you'll tell me it's "arma2" or whatever
+<raph> then, i just type in "arma", and it resolves the key
+<arma> right. and lying gets me nowhere,
+<raph> and, when you send me mail, it says "arma"
+<arma> because either i have the private key or not.
+<raph> yeah, the issue is not lying, it's being fooled
+<raph> but my feeling is that people can _understand_ this
+<raph> as opposed to just about everything else that's said in pki-land
+<arma> ah. the usability ogre.
+<raph> yes, gznork is as much about usability as science
+<arma> they'll understand that when mail arrives from arma2, with roger's name at the bottom,
+<arma> it'll be clear that it might not be from roger?
+<arma> hrm.
+<raph> so, unfortunately, the one area where this falls down is trademarks
+<raph> arma: some people will be able to understand that
+<raph> the remainder will never, ever, ever, have the opportunity to experience secure email
+<arma> others will get burned. i guess we can't win all the battles at once. right.
+<raph> i imagine that the first thing that will happen when gznork catches on is for somebody to register keys for all the trademarks
+<arma> cause hey, registration is free, just like the old internic
+<raph> this may cause a problem if you get an email from "wells fargo bank"
+<raph> actually, it would be better if registration cost $10 or so, payable to me,
+<raph> but i can't figure out how to do that and make the network decentralized, attack-resistant, and so on
+<arma> you could make registration free but you can send a $10 and trump an address.
+<arma> if you don't want your address trumped, you better pay first.
+<raph> right
+<arma> evil. but anyway. :)
+<arma> hey, you could even have multi-tier trumping
+<raph> so, yeah, probably the right thing to do is have hierarchical name spaces, and brands
+<arma> so if you really don't want it trumped, you pay $1000. etc.
+<arma> "how much is it worth to you to become wells fargo bank?"
+<raph> interesting concept, but i find it a bit distasteful
+<raph> probably just too reminiscent of the current dns policy :)
+<arma> heh
+<raph> so, i create a new brand, say "faligent"
+<raph> because it has to not be an existing trademark :)
+<raph> and i promote the brand as being tm-friendly
+<raph> so "faligent.coke" is coke, not a cocaine dealer
+<raph> "faligent.ford" is not a hitchhiker's fansite
+<raph> etc
+<arma> and you need to know faligent's key to generate a faligent.* name?
+<raph> faligent sells them
+<arma> and other people can't forge them, i mean
+<raph> ah, how do you enforce the policy?
+<raph> there are a few ways to do that
+<raph> the most dnssec-like is to have clients do the verification
+<raph> so you look up "faligent" in your global namespace, then verify the chain from there
+<raph> ie, faligent signs the coke cert, etc
+<arma> so faligent.coke is effectively 'signed' by faligent
+<arma> ok
+<raph> but there are other interesting ways of doing it
+<raph> this will be chapter 5 of ye olde thessys
+<arma> there's a crypto way on the tip of my mind
+<raph> ?
+<arma> basically hashes and stuff
+<arma> can't generate a faligent.foo without faligent's key as part of the process
+<raph> hmm
+<arma> erm. would have to get some sleep for it first.
+<arma> but i'm confident it can be done.
+<arma> (and has been done)
+<raph> intriguing
+<raph> that's faligent's private key, yes?
+<arma> right.
+<arma> i'd probably start looking at sfs first, to try to remind myself.
+<raph> anyway, i'm not that concerned about that
+<arma> are you familiar with sfs?
+<raph> only vaguely
+<raph> the more challenging problem is the root namespace
+<arma> ok. if you're not concerned, i'll just dump that topic and move on. :)
+<raph> i think if you can solve that, you can get hierarch delegation for nearly-free
+<raph> ok, so services #4 and #5
+<raph> #4 is firefly
+<raph> but not sucky like firefly
+<raph> this was going to be chapter 6 of my thesis
+<raph> but ch6 is turning into an analysis of google
+<raph> and #5 is perhaps the most fun
+<raph> it's a mud
+<raph> more specifically, you have objects for "things", "rooms", and "avatars"
+<raph> and you implement semantics for them, like a thing can be inside a room
+<raph> have you done any inform/zcode hacking?
+<arma> no, but i wrote a mud a while back
+<raph> righto
+<arma> it's how i learned c. that must have been... 10 years ago?
+<raph> so doing it distributed is really challenging
+<arma> right
+<raph> in fact, basically what you want is transactions
+<arma> yep
+<raph> ie, if you move a thing from room a to room b, then you want that to be atomic
+<raph> so doing it as a mud is a way to keep it fun
+<arma> hey, that reminds me. hm.
+<raph> i'm sure that financial transactions would be equally valid
+<raph> but that'll be for somebody else
+<raph> btw, have you looked at miguel castro's work under liskov on byzantine transactions?
+<arma> yes
+<raph> ah, good
+<raph> i _think_ that can be generalized to the trust-metric world
+<arma> that would be neat.
+<arma> it's hard stuff, from my perspective
+<raph> the problem is that not all nodes have the same view of what the other nodes are
+<arma> i haven't looked at it enough to be able to extend it
+<arma> castro's a smart guy.
+<raph> but there's an intuition why i believe it should be possible
+<raph> consider the set of all nodes trusted by the good set
+<raph> (ie that includes some bad ones)
+<arma> the good set ?
+<raph> ok
+<raph> nodes are good or bad
+<raph> each node trusts a set of other nodes
+<arma> ok. sounds good.
+<raph> in the classic byz model, the trust set is the complete set
+<arma> now we have defined good, bad, confused
+<raph> and is the same for all nodes
+<raph> and you win as long as 2/3 of the nodes in the set are good
+<raph> so my intuition is to consider any node which is trusted by only some of the good nodes as bad
+<raph> and if you still have a 2/3 majority, i think you still win
+<raph> but i'm not sure
+<raph> as you say, byzatine transaction foo is hard
+<raph> (it's interesting how many ppl i know who got into hardcore programming through implementing a mud)
+<raph> (at least one programming languages guy at berkeley, and several others i know through free software)
+<arma> hey, bbs, play mud, run mud, move on
+<arma> it's how we all did it, right?
+<raph> not me
+<raph> but i'm wierd
+<raph> ok, i really need to get to bed now
+<arma>  http://mit.edu/arma/Public/6.313f.tex is a paper i wrote for tom knight ~4 years ago,
+<arma> on implementing a distributed mud
+<arma> anyway. :) yes, sleep.
+<arma> and read casc-rep and tell me if you buy it.
+<raph> yes
+<arma> (wow. i hadn't thought of that as being p2p. but it needs to be.)
+<raph> i probably won't
+<raph> buy casc-rep, that is
+<arma> (the mud thing, i mean)
+<arma> ok. good. :)
+<raph> but this is high praise
+<raph> there is no other work i've seen on anonymity that rates that high
+<raph> oh cool, you really have thought about this stuff
+<arma> hm?
+<raph> no wonder you're at least familiar with castro
+<arma> i used castro's byzantine toolkit in the submission to info hiding 4
+<arma> then we found a better way to solve our problem
+<arma> (that submission is [7] in casc-rep)
+<raph> aha
+<arma> (er, turned into [7], that is. it changed a *lot* between acceptance and preproceedings.)
+<raph> ok, will probably read casc-rep tomorrow
+<arma> those were the days. we wrote that paper in 10 days,
+<raph> unless i get completely caught up in writing
+<arma> from deciding to write a paper, to finding a topic, to solving it, to submitting the paper.
+<arma> what did you mean 'rates this high'?
+<arma> in your eyes, or is there some global chart i should know about?
+<raph> in my eyes :)
+<arma> (damn these decentralized approaches ;)
+<raph> there's quite a bit of work on anonymity that's utter crap
+<raph> but i don't have to tell you this
+<raph> s/work/"work"/ :)
+<arma> yeah. we're on the right track. we're still partially crap,
+<arma> but i'm coming to understand this,
+<arma> so hopefully i can do better next time.
+<raph> yup
+<raph> this is why i do graphics
+<raph> the problems are soooo much easier
+<arma> ...and then realize that *that* is crap, and do better the next, ...
+<raph> and it's much easier to convince people that you've solved them :)
+<raph> ok now bed
+<raph> hope to talk to you again soon!
+<arma> good night.
+*** raph has quit IRC ("sleep")
+<arma> yep. you too
+<arma> raph always distracts me so well. i've gotten nothing done the past hour. foo.

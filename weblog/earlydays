@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>The Early Days of A Better Website (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>The Early Days of A Better Website</h1>
+
+<p><em>A reporter asked me to describe what the early days of our startup were like. Here&#8217;s my response.</em></p>
+
+<p>In the early days of Reddit, there were four of us crammed into a dingy little three-bedroom apartment (I slept in a kitchen cabinet). Every morning we&#8217;d wake up and stumble into the small space that I think was supposed to be a living room, where we&#8217;d placed desks along all four walls (Steve&#8217;s wall had a small window, with a beautiful view of the wall of the next building over, just a couple feet away). The sky would be gray, the floor would be filthy, and we&#8217;d be three feet floors away from the rest of the world. Looking back, it&#8217;s hard to see how we got any work done. Actually, looking back, I&#8217;m not sure we did.</p>
+
+<p>Aside from the filth, my memories of those days mostly consist of an unending series of petty annoyances and frustrations. It&#8217;s hard spending your working days in such close quarters with other people. It&#8217;s even harder when you spend your nights there too. And it&#8217;s almost impossible when you&#8217;re all high-strung socially-awkward geeks.  Tensions frequently flared.</p>
+
+<p>Not that there wasn&#8217;t a lot to get flared about. There were always bugs or complaints or new features you just couldn&#8217;t get to work. And when you finally got the site working fine, a new storm of traffic would overwhelm things and you&#8217;d be back to picking up the pieces, making it run faster and more reliably.</p>
+
+<p>There were lots of problems, but somehow we got over them. Take a nap, walk the fifteen minutes into town to get some food, go across the street to the abandoned playground,  or, when things got really bad, just look at that ever-growing traffic graph. We must be doing something right, we figured, or at least not doing much that&#8217;s particularly wrong.</p>
+
+<p>While behind the scenes work was a disaster, in public things were going great. Every time we went out, more people seemed to know what Reddit was. We started selling Reddit t-shirts and people wearing them and recognizing started to pop up over town. One fan, on a short trip to Boston, even made a pilgrimage to our apartment and stole the Reddit sticker off our door. (We only found out where the missing sticker had gone when he bragged about it on his blog.) Reddit heads started appearing on more and more weblogs and sites I read started talking about Reddit as if they assumed everyone already knew what it was.</p>
+
+<p>At parties, the awkwardness of trying to tell people what we did for a living (&#8220;We, uh, build a website. You know, it&#8217;s kind of a news-type website.&#8221;) gave way to recognition (&#8220;Oh yeah, I&#8217;ve heard of that site.&#8221;), and then to profuse thanks for a great time-waster. Towards the end, actual introductions became unnecessary &#8212; people started recognizing us and coming up to say hi.</p>
+
+<p>When I went home to visit my family, my dad insisted on setting up a meeting for me with a magazine publisher he knew. I was sure the visit would be a disaster &#8212; why would a magazine publisher take a punk kid like me seriously? &#8212; but once she heard our monthly visitor numbers, she was eager to start a partnership. The same scene repeated itself over and over.</p>
+
+<p>Even when people had no idea what we did, the traffic gave us confidence. Once we won a free meal at a restaurant (actually, we won at least three different times) in exchange for suffering through a short lecture about financial planning opportunities. As the man talked about being sure to put money away for a safe day, we looked at each other knowingly. Either we&#8217;d sell big or blow up entirely. Staying safe just wasn&#8217;t in our vocabulary.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">November  7, 2006</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>Wait, I thought Aaron didn&#8217;t join till after Reddit was well underway. I thought he was working on Infogami&#8230;</p>
+
+<p class="posted">posted by johnnyboy
+ on November  7, 2006 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>Well, to be honest it seems he really didn&#8217;t have much ideas behind for Infogami, but probably for some reasons, it had to show up once at least, set up and run ,but bound to be abandoned. It is clear now that Infogami didn&#8217;t have much or even few plans or visions behind. It was a wiki but he didn&#8217;t declare it is wiki, and it really didn&#8217;t even come near to be a blog platform. His relation with users seem managed just ad hoc, no policy or anything.</p>
+
+<p>Otherwise it is hard to imagine why it was run that way, and abandoned in such way, and why no other option was pondered and chosen.</p>
+
+<p>Writing can be an effective tool for sculpting and concealing. Many becomes dependent on it for its effectiveness at doing such.</p>
+
+<p>Or there might be something more nuanced among Reddit team and it might show up. Two original founders seem almost wordless, not much explaining, silently just doing people. So.</p>
+
+<p class="posted">posted by a.kusaka
+ on November  7, 2006 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>For the sake of fairness and accuracy, Aaron only slept in said kitchen cabinet for a few nights.  We had proposed converting our pantry into a bedroom for him, but when I returned from a weekend away, he had arranged some cushions inside of the cabinet.  The vast majority of his nights were spent in a shared room with Steve &#8212; on a bed, a nice one, in fact.</p>
+
+<p>I did take a photo for posterity, though, and I must admit that it makes for a good soundbite :-)</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://reddit.com">Alexis Ohanian</a>
+ on November  7, 2006 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="earlydays" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

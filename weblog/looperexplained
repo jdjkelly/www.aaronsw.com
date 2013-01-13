@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>How Looper Works (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>How Looper Works</h1>
+
+<p>First off, go see <em>Looper</em>. One of the best movies I&#8217;ve seen. Spoilers follow.</p>
+
+<p>OK, let&#8217;s start by explaining how a looper&#8217;s career is supposed to look. You get hired as a looper, spend your time sitting in a corn field shooting people, eventually shoot yourself and get a big payday, live off of it for thirty more years, then get kidnapped and sent back in time and shot by yourself. Notice that this is a stable timeloop: young you grows old, goes back in time, gets shot by young you, who grows old, goes back in time, gets shot by young you, who grows old &#8230; etc.</p>
+
+<p>But time travel doesn&#8217;t eliminate free will. We see this with the case of Seth (Paul Dano / Frank Brennan). Instead of shooting Old Seth, Young Seth decides to let him escape. This too is a stable timeloop: young Seth grows old, goes back in time, escapes, lives in hiding while young Seth grows old, goes back in time, escapes, lives in hiding while &#8230; .</p>
+
+<p>But other characters have free will too: young Joe (Joseph Gordon-Levitt) decides to give young Seth up. The gang cuts off one of young Seth&#8217;s fingers, pushing him into a new timeloop: young Seth gets caught, loses one of his fingers, goes back in time, escapes, while young Seth gets caught, loses one of his fingers, goes back in time, escapes, etc. With each new choice by the gang to let old Seth change young Seth&#8217;s future (and thus old Seth&#8217;s past), we head into a new timeloop, where old Seth has a different past (and thus different memories and different missing limbs).</p>
+
+<p>In the first main timeloop (shown second in the movie, via a flashback), young Joe shoots old Joe, goes to China, becomes an unusually-talented agent of violence, finds true love, is kidnapped and sent back in time, and gets killed by young Joe, who goes on to do the same thing. This too is a nice stable timeloop.</p>
+
+<p>But on one of these runs through the loop, old Joe manages to overpower the guards and, while he does go back in time, he manages to keep young Joe from killing him. He escapes into the field, finds the location of young Cid, then comes back to shoot Cid&#8217;s mother while Cid escapes into field and stows away on a train. Cid grows up to be the Rainmaker and Joe grows old. Cid&#8217;s henchmen murder old Joe&#8217;s wife but are overpowered by old Joe, who goes back in time to try again to kill Cid, who again escapes to become the Rainmaker and kill Joe&#8217;s wife. This too is a stable timeloop, although we see some of it only in speculative flash-forwards (I&#8217;ll explain why in a moment).</p>
+
+<p>Which timeloop are we watching? Well, we&#8217;re watching the story of a particular instance of Joe, who we&#8217;ll call Movie Joe. Movie Joe only exists, however, because of a choice made by Flashback Joe (the Joe we see in the flashback that begins when Movie Joe is falling from his apartment). Flashback Joe is born, grows up, decides to give up Seth, closes his own loop, grows old, overpowers the henchmen, goes back in time, knocks out Movie Joe, hunts down Cid, and is about to kill Cid&#8217;s mother.</p>
+
+<p>But Flashback Joe is not the protagonist of the film. The protagonist is Movie Joe. Movie Joe is born, grows up, decides to give up Seth, fails to close his loop, goes to protect Cid. Normally, young Joe fails and heads into a timeloop where Cid stows away on the train and becomes the Rainmaker. But Movie Joe somehow is able to foresee this future and concludes the only way to prevent it is to kill himself. Since he dies there, he never grows old and never goes back in time, leading to a timeline where Flashback Joe doesn&#8217;t ever exist. Note, this is not a stable timeloop (because Movie Joe only kills himself to stop Flashback Joe, who can&#8217;t exist if Movie Joe kills himself) but instead just a garden-variety timeline. In this timeline, presumably, Sarah keeps Cid from growing evil and everything ends happily ever after.</p>
+
+<p>Next week we&#8217;ll explain <em>Primer</em>.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">October  8, 2012</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>I quite enjoyed Looper. It&#8217;s &#8216;Terminator&#8217; meets &#8216;Donnie Darko&#8217; with a dash of &#8216;Modern Problems&#8217;! Despite plenty of tropes, it kept me guessing.</p>
+
+<p>The instant(?)/synchronized(?) propagation of physical-disabilities to a future moment (without having affected, for example, intervening mobility) was the largest head-scratcher, but added enough gore/humor I&#8217;ll forgive it.</p>
+
+<p>I think we can surmise that Loopers specifically killing themselves (as opposed to any other Looper) is somehow meant to be helpful stabilizing things in the crime syndicate&#8217;s favor&#8230; a sort of electrical circuit debouncing.</p>
+
+<p>If we posit a &#8216;first cycle&#8217; where old Joe receives his fate when it come due, there is still the open question of what perturbs that seemingly-stable cycle. Why does he get away one particular time? Or why does he <em>want</em> to get away one time &#8212; is the Shanghai love only introduced on a subsequent cycle?</p>
+
+<p>Maybe there&#8217;s a particular moment hinted as being the divergence trigger? I may have to see this in the theater again&#8230; something I haven&#8217;t done since &#8216;Memento&#8217;.</p>
+
+<p>(BTW, on the off chance you haven&#8217;t seen &#8216;Happy Accidents&#8217; or &#8216;Safety Not Guaranteed&#8217;, I suspect they&#8217;d be right up your alley.)</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://memesteading.com">Gordon Mohr</a>
+ on October  8, 2012 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>Best explanation of the movie i&#8217;ve read. Thanks!</p>
+
+<p class="posted">posted by Elise
+ on October 11, 2012 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>&#8220;But on one of these runs through the loop, old Joe manages to overpower the guards&#8221;</p>
+
+<p>But why? What destabilizes the loop?</p>
+
+<p>Three more questions:
+1) Why are the bad guys so afraid to kill young Seth after he fails to close the loop? It doesn&#8217;t seem to be so bad when young Joe does it. (The film tries to inoculate itself against this argument by Jeff Daniels&#8217;s self-mockery of time travel logic, but the problem still holds.)</p>
+
+<p>2) Wouldn&#8217;t cutting off Seth&#8217;s fingers and disabling his legs do more than just change him memories? Wouldn&#8217;t change his life sufficiently enough that he ultimately wouldn&#8217;t be able to escape from Seth? Or not live 30 additional years at all? Couldn&#8217;t cutting off a finger possibly make old Seth disappear as well?</p>
+
+<p>3) What about the Rainmaker&#8217;s reign was so terrible? Old Joe mentions him closing a bunch of loops, which explained all the young loopers closing their loops all in a concentrated period, but the Rainmaker was only on the scene for the 6 months prior to Old Joe&#8217;s kidnapping. That means the Rainmaker was closing the loops 30 years hence, at the appropriate time. Wasn&#8217;t that the deal? I&#8217;d understand if he was closing loops early, but that wasn&#8217;t the case. Was it just that he was closing loops meanly? (Killing spouses, etc.)</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://crazymonk.org">crazymonk</a>
+ on October 21, 2012 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="looperexplained" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

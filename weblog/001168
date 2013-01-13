@@ -1,0 +1,329 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Third Parties: Why They Spoil and How to Stop It (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/001168.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001166" title="Campaign Finance Reform: The Problem and Solution" />	<link rel="next" href="001171" title="Gerrymandering: How Politicians Steal Votes and You Can Return Them" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Third Parties: Why They Spoil and How to Stop It</h1>
+</div>
+
+<div class="content">
+<p>In America (and many other countries) elections work in a simplistic manner: Each person picks one candidate. The candidate picked the most wins.</p>
+
+<p>This makes the fatal assumption that you can only like one candidate. This seems like a bizarre assumption, but there is one common case where it makes sense: when you have two candidates.</p>
+
+<p>Unfortunately, we&#8217;re sort of stuck with this voting system, so this mathematical fact (the voting system works only when there are two candidates) has turned into a political rule (we can only allow two candidates to run). But often, more than two candidates want to run, and voters don&#8217;t mind having more choices. So the voting system gets in the way.</p>
+
+<p>One popular alternative is called Instant-runoff voting (IRV) which is used in Australia. It works like this: instead of voting for one candidate, you rank all the candidates (or your top N candidates) in order of preference. To count the votes, you look at each ballot and mark a vote for the top listed candidate. If no candidate wins a majority, you find the candidate who got the least votes. You cross off his name from every ballot and count again. (This time his name will be crossed off, so the top listed candidate on some ballots will actually be the voter&#8217;s second choice.) You repeat this until some candidate gets a majority. That candidate is the winner.</p>
+
+<p>It sounds reasonable, but unfortunately, it turns out to be about the worst reasonable-sounding voting system, with all sorts of bizarre side-effects (<a href="http://electionmethods.org/IRVproblems.htm">more info</a>). Fortunately, the problem is only in how you count the votes. The mathematicians have come up with a better way to count the votes, called Condorcet, which is essentially perfect. Here&#8217;s how it works: You have a computer use all the ballots to simulate every possible head-to-head election between two candidates. Whichever candidate wins the most elections against the strongest candidates wins.</p>
+
+<p>Unfortunately, some people think this is too complicated. Fortunately, there is a simple voting system which is really very good, called Approval Voting. Here&#8217;s how it works: You pick all the candidates you like. Whichever candidate is picked the most wins. Put another way, instead of punching the hole next to one candidate, you punch the hole next to each candidate you approve of. Each hole punch is counted, and the most popular guy wins.</p>
+
+<p>To give a contentious example, in the 2000 election, you could have checked the box next to both Nader and Gore. Some people (perhaps Nader himself) would check only Nader. Some people would check only Gore. But nobody&#8217;s vote is spoiled &#8212; a vote for Nader and Gore does not hurt Gore in his contest against Bush. And you end up with the candidate the most people approve of.</p>
+
+<p>It turns out that in addition to being simpler, Approval Voting is also far more effective than IRV. And it doesn&#8217;t require any new equipment, just a simple change to the rules. And that&#8217;s why we cry:</p>
+
+<p>Approval Voting Should Be Approved Now!</p>
+
+<p><em>For more about various election methods, visit <a href="http://electionmethods.org/">ElectionMethods.org</a>. To support approval voting, join the <a href="http://approvalvoting.com/">Americans for Approval Voting</a> or the <a href="http://approvalvoting.org/">Citizens for Approval Voting</a>.</em></p>
+
+<p class="posted">posted February 12, 2004 04:53 PM (<a class="category" href="cat_politics">Politics</a>) (<a href="#comments">10 comments</a>) <a href="001168" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001166" title="Campaign Finance Reform: The Problem and Solution">&laquo; prev</a> | <a href="./">up</a> | <a href="001171" title="Gerrymandering: How Politicians Steal Votes and You Can Return Them">next &raquo;</a></p>
+
+<p><a href="001148">rss2email</a><br />
+<a href="001149">The Trippi Story</a><br />
+<a href="001158">The Furious Rise of the Anonymous Writer</a><br />
+<a href="001160">Nader&#8217;s Negligence</a><br />
+<a href="001166">Campaign Finance Reform: The Problem and Solution</a><br />
+<strong>Third Parties: Why They Spoil and How to Stop It</strong><br />
+<a href="001171">Gerrymandering: How Politicians Steal Votes and You Can Return Them</a><br />
+<a href="001173">Up is Down: How Stating the False Hides the True</a><br />
+<a href="001174">Down is Up: What This Stuff Is</a><br />
+<a href="001175">Up With Facts: Finding the Truth in WikiCourt</a><br />
+<a href="001177">San Francisco Protects the Freedom to Marry</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c514">
+
+<p>Except for that pesky Constitution and its Electoral College.</p>
+
+<p class="posted">posted by <a href="http://gfmorris.com/">Geof</a> at February 12, 2004 05:31 PM <a href="#c514">#</a></p>
+
+</div><div id="c520">
+
+<p>The Wikipedia articles on <a href="http://en.wikipedia.org/wiki/Instant_Runoff_Voting">instant-runoff voting</a> and <a href="http://en.wikipedia.org/wiki/Approval_voting">approval voting</a> discuss how each system may be manipulated by &#8220;tactical voting&#8221;.  The <a href="http://en.wikipedia.org/wiki/Condorcet_method">Condorcet method</a> is immune to tactical voting, but it also doesn&#8217;t always produce a winner.  (Imagine a case where 40% of the population preferred Kerry>Dean>Edwards, 40% preferred Dean>Edwards>Kerry, and 20% preferred Edwards>Kerry>Dean.)</p>
+
+<p>
+According to the <a href="http://en.wikipedia.org/wiki/Gibbard-Satterthwaite_theorem">Gibbard-Satterthwaite theorem</a>, any election method that chooses among three or more candidates must either have a dictator or be manipulable through tactical voting.
+<p>
+I am running <a href="http://dynamic.ropine.com/cgi-bin/ballots">three simultaneous elections using three different vote-counting methods</a>, including the approval method, on my own Web site: please participate!  (The <a href="http://dynamic.ropine.com/cgi-bin/results">current results are here</a>.)</p></p>
+
+<p class="posted">posted by <a href="http://dynamic.ropine.com/yo/">Seth Gordon</a> at February 13, 2004 08:46 AM <a href="#c520">#</a></p>
+
+</div><div id="c523">
+
+<p>Aaron and I had a discussion about this over email earlier this week (I am an IRV and approval voting advocate, with a leaning towards IRV).</p>
+
+<p>My final message to him (which I didn&#8217;t actually end up sending) was that if Concordet got on my ballot somehow, I&#8217;d vote for it. The same goes for approval voting.</p>
+
+<p>But my question for him is, would you vote for IRV if it came up on your ballot? IIRC, Aaron is moving to California, where IRV has a great deal of momentum, so it is conceivable that in the next few years, Aaron will have to choose between IRV and plurality voting on a ballot initiative.</p>
+
+<p>What&#8217;s the lessor of two evils there? What way would you vote, Aaron?</p>
+
+<p>To Geof: states are allowed to choose their electors to the Electoral College in the manner they see fit. Approval voting (or IRV, or fusion voting, or Concordet&#8230;) could be implemented on a state-by-state basis without the Constitutional changes required to reform the Electoral College.</p>
+
+<p>P.S.: Christopher Lydon&#8217;s show today was on instant runoff voting. The Legislature is debating a bill to allow cities to implement IRV for city elections if they want. You can listen to the show at <a href="http://news.mpr.org/programs/midmorning/">MPR&#8217;s Midmoring page</a> when it gets archived. I tried to ask about approval and Concordet voting but they didn&#8217;t get to my question.</p>
+
+<p class="posted">posted by <a href="http://www.bushout.tv">Luke Francl</a> at February 13, 2004 10:27 AM <a href="#c523">#</a></p>
+
+</div><div id="c524">
+
+<p>There were a lot of posts here before asking why IRV was so bad. I&#8217;ve updated the page with a link and more careful wording. (Obviously IRV isn&#8217;t the worst voting system ever, I meant it was the worst of all the reasonable voting systems.) </p>
+
+<p>Luke, I&#8217;d almost certainly vote for IRV.</p>
+
+<p class="posted">posted by <a href="http://www.aaronsw.com/">Aaron Swartz</a> at February 13, 2004 11:03 AM <a href="#c524">#</a></p>
+
+</div><div id="c527">
+
+<p>I am Brazilian and I can bring a different perspective here. In Brazil, there is a plethora of parties, each one with their own agenda.</p>
+
+<p>In elections for the senate or the house, this does not present a problem, since you choose the representative from your state whose agenda is closest to what you want, whether it is the green party, liberal, conservative or even communist.</p>
+
+<p>The issue is then the major elections for one executive position, such as mayor, governor or president. Enter the concept of elections with more than one turn.</p>
+
+<p>In the first turn, every one picks the candidate that best represent their views. If that candidate has more than 50% of votes, the election is over and he is elected. If not, than there will be a second turn, three months later, between the first and second place. Whoever has more direct votes wins.</p>
+
+<p>Of course, this is not a perfect system and it does not allow you to choose more than one candidate, but I am fairly sure that if you ask the typical Brazilian, he or she would tell you that it is already hard enough to choose one that is worth something between the 10 or 12 candidates to every position, let alone find two!</p>
+
+<p>It is certainly more likely to yield a result that represents the will of the people than the last american election, for instance, did.</p>
+
+<p class="posted">posted by <a href="http://honestamente.blogspot.com">Mauricio Sadicoff</a> at February 13, 2004 01:22 PM <a href="#c527">#</a></p>
+
+</div><div id="c528">
+
+<p>I think there needs to be a much bigger picture persepctive to these issues. This can be accomplished by looking outside the U.S. and see how other democratic systems work.</p>
+
+<p>To begin with the U.S. is the only major democracy without a unifom national election system that ensures every voter gets to vote exectly the same way. </p>
+
+<p>Also in other modern democracies - Canada/U.K. - it is the responsibility of the national electoral system - funded by the government - to register all voters. And voters are not required or allowed to identify the party they support. This is part of the reason why voter turnout numbers are much higher in these two countries than in the U.S.</p>
+
+<p>In addition in these two countries there is a much higher level of public funding for election campaigns and much tighter restrictions on amounts that can be spent by candidates and parties.</p>
+
+<p>Part of the reason that the U.S. has not modernized its democractic system is that its two party system - again most other democracies have at least three or more parties - is completely dependent on corporate financing. That is one of the key reasons why democracy is in steep decline in the U.S. and could eventually be eliminated.</p>
+
+<p>I am in the process of researching the fundamentals of electoral systems in Canada/the U.K and Mexico to then compare them to the practices in the U.S. </p>
+
+<p>Be very keen for any insights/sources that could assist me.</p>
+
+<p>Thanks,</p>
+
+<p>Jock Ferguson</p>
+
+<p class="posted">posted by <a href="mailto:jferguson@cybermatsa.com.mx">Jock Ferguson</a> at February 13, 2004 04:49 PM <a href="#c528">#</a></p>
+
+</div><div id="c530">
+
+<p>Mauricio, what you describe - of the top two having a runoff - is what we have in Lousiana, and what they do in France.  It&#8217;s basically better than plurality and one step worse that Instant Runoff.  It&#8217;s very susceptible to vote-splitting.</p>
+
+<p>The problem with Approval is that it is not popular to the layman.  They don&#8217;t like that giving a &#8220;Yes&#8221; vote to their second choice can increase the chances of it being their first choice.  There have already been cases where communities have voted to use it, then hated it, and voted again to ban it.</p>
+
+<p>The Condorcet ties are actually very rare - much rarer than the number of close plurality elections we have now that trigger recounts.  What&#8217;s cool about Condorcet is that even in the case of ties, you can narrow down the candidates to a small subset of candidates that are in the tying group; the &#8220;Schwartz Set&#8221;.  Then you can either choose to resolve the tie through any number of means - complicated mathematics, a runoff round, or allowing a government body to select from within that group.</p>
+
+<p>Also, the Gibbard theory follows from the Arrow theorem, which is flawed.  Arrow places too much emphasis on the Independence of Irrelevant Alternatives criteria, by saying that if one fails that criteria, it is a suspect method.  This is simply not always true.  In order for that to be true, every voter must equally feel like they have a candidate that represents them to an equal degree.  In public elections, that never happens - what really happens is that some voters fall in love with a candidate, and others feel like they are compromising by having to pick among a bunch of candidates they don&#8217;t like all that much.  If a new candidate appears to satisfy these compromised voters, then it would be <em>right</em> for these compromised voters to move to their new candidate, and even though this activity can statistically appear to be in violation of the IIAC, it&#8217;s valid behavior.  (This is my own opinion after examining what the criteria really meant and inventing some vote scenarios; I am not a game theorist though so I may be wrong.)</p>
+
+<p>Luke is right, these can be decided on a statewide level.  However, Geof is also right.  The problem with using these better voting methods in a <em>presidential</em> vote is that it makes it more likely that a state&#8217;s EVs will not go to one of the top two finishers.  States are winner take all.  And, a presidential candidate requires more than half of the available EVs to win outright - in other words, more votes than all other presidential candidates combined.  This means that the introduction of a third party presidential candidate only makes it more likely that the election will be decided in the House Of Reps, unless the third-party candidate has the proven ability to win several states outright (and get more EVs than all other candidates combined).  It&#8217;s for this matter that I am (after lots of thought) strongly, strongly opposed to third party presidential candidates unless 1) they are ideologically skew to both other parties 2) they have nationwide support rivaling the other major parties or 3) they have significant support in the House Of Reps.  Otherwise, the only thing that would happen is that a third-party candidate would reduce the chances of the party they are ideologically closest to.  I actually like the intent of the Electoral College and its aim to offer regional as well as populational-based representation, but it&#8217;s a bad system.  Better would be to keep the state weighting but get rid of the &#8220;one more than half&#8221; requirement so that plurality EVs rather than majority EVs wins, and award proportional/fractional EVs for each state by each candidate&#8217;s placement in that state.  (By the way, such an approach would have led to Bush narrowly defeating Gore - people don&#8217;t realize that Gore won many more close states than Bush in 2000.  But it&#8217;s still a fairer approach.)</p>
+
+<p>I believe that Condorcet is &#8220;perfect&#8221; in Arrow terms right up to the identification of the Schwartz set, or that &#8220;tie grouping&#8221;.  And in the vast majority of cases, that Schwartz set is going to be one clear winner.</p>
+
+<p class="posted">posted by <a href="http://museworld.com/">Curt Siffert</a> at February 13, 2004 05:46 PM <a href="#c530">#</a></p>
+
+</div><div id="c532">
+
+<p>Luke: Expecting a group of largely binary state Legislatures to do anything exotic [that&#8217;s how they&#8217;d see it] would be pretty useless.  Most state-level politicians aren&#8217;t visionaries; they&#8217;re pragmatists.</p>
+
+<p class="posted">posted by <a href="http://gfmorris.com/">Geof</a> at February 13, 2004 10:17 PM <a href="#c532">#</a></p>
+
+</div><div id="c537">
+
+<p>Here in Ireland we use, and have always used since the foundation of the state in 1921, a form of voting called Proportional Representation (PR). <a href="http://en.wikipedia.org/wiki/Proportional_representation">The Wikipedia describes it quite well</a> but this site also has a <a href="http://www.oasis.gov.ie/government_in_ireland/elections/proportional_representation.html">good description</a></p>
+
+<p>Proportional Representation ensures that our country never has a single party government rather that coalitions are in power. So much so that on two occasion the largest party tried to change to the British/American system. If that&#8217;s not an endictment of how unfair that voting system is, I don&#8217;t know what is!</p>
+
+<p class="posted">posted by <a href="http://davesrants.com">Dave</a> at February 15, 2004 06:38 AM <a href="#c537">#</a></p>
+
+</div><div id="c604">
+
+<p>Interesting topics and comments.</p>
+
+<p>I&#8217;ve studied election methods for 3 years now.</p>
+
+<p>The key issues for me for political elections are:
+1) Rewarding &#8220;core-support&#8221; for candidates.
+2) Requiring the winner to be supported by a majority.</p>
+
+<p>Plurality already succeeds on issue #1. Voters are encouraged to unite and compromise before the election to one favorite. That helps keep the number of candidates down to a reasonable number that informed voters can handle.</p>
+
+<p>The failure of Plurality is that it can&#8217;t guarantee a majority winner. That&#8217;s were runoffs come in. Everyone gets one vote each round, and candidates are eliminated to force voters to offer their compromise votes.</p>
+
+<p>I support top-two runoffs as the minimum step to guarantee majority winners.</p>
+
+<p>The French 2002 Presidential Primary with 16 candidates and none over 20% was a great example where a top-two runoff is insufficient, however a top-three runoff would have worked quite well.</p>
+
+<p>In general, I&#8217;d support a runoff process that retains the top set of candidates each round who control a majority of the vote. Then eliminate all the lower candidates and force supporters to compromise up.</p>
+
+<p>I suggest this as superior to IRVing&#8217;s &#8220;bottom up&#8221; elimination rule which is insanely unstable for elections like in France. With 10 candidates between 2-4%, bottom elimination is a game of gambling, and small changes in the recounts could change the results of the election, at least in theory. It all depends on how votes move, and so if you eliminate an &#8220;extreme&#8221; candidate, the surviors have a chance to win, and if you eliminate the compromise candidates, the extreme-positioned candidates will lose in the end.</p>
+
+<p>A faster Majority-rule elimination is more fair because it rewards candidates with the most votes, and it discourages similar candidates from running against each other for fear of splitting their votes.</p>
+
+<p>A majority-rule elimination will never eliminate all candidates in a divided majority, but it can eliminate a set of mutually admiring identical candidates with minority combined support if they divide their support too equally. That&#8217;s a good thing.</p>
+
+<p>Condorcet with pairwise competions is a very cute method, although seriously wierd elections can have no Condorcet winner if there&#8217;s a cycle of preferences like the rock-paper-scissors game. </p>
+
+<p>Worse than unlikely cycles is that Condorcet doesn&#8217;t care at all about the intensity of support from voters. If there are two strong parties that can&#8217;t gain a majority, and a weak centrist who is everyone second best, that centrist can win without any core support at all.
+Example: AC=49.99%, BC=49.98%, CB=0.03%. Candidate C can win entirely on compromise appeal. That&#8217;s a bad thing because candidates without core support are candidate that will tend to &#8220;sneak&#8221; into an election and win merely on being least offensive, and least known.</p>
+
+<p>Approval is also a cute method, and I consider it mostly harmless. The reality is 90% of voters in most elections will continue voting for one favorite. There&#8217;s three main groups that would act differently.
+1) Voters who in plurality would have abandoned a no-chance favorite, can offer their token loser vote AND their compromise.
+2) Voters who in plurality would &#8220;waste&#8221; their vote on a weak favorite can consider compromising to a stronger choice, but only if their favorite has no chance.
+3) Voters who like a strong candidate may on a whim offer a few &#8220;pity&#8221; votes onto the weak candidates below.
+These changes from approval might help more parties gain major party statusm, but it won&#8217;t affect any election winner, assuming the voters are wise over their second votes.
+What most scares me about approval is that uneducated voters will offer extra votes foolishly and then find out they miscalculated and helped a candidate win they didn&#8217;t really want.</p>
+
+<p>PR methods are a whole new story, and so I can&#8217;t discuss that. I certainly agree that expanding multiseat districts of all sorts is good, and then majority rule doesn&#8217;t have the same sting, as long we we go past plurality-at-large (N votes for N seats).</p>
+
+<p>Something not mentioned that is fun is allowing voters a &#8220;protest&#8221; vote when ALL the candidates suck (or equally bad, when there&#8217;s only one candidate running)</p>
+
+<p>I like the idea of a &#8220;nonbinding None-of-the-Above&#8221; vote. It can apply for plurality, runoffs, cCondorcet and Approval. In a IRV method, NOTA acts like a normal candidate that can be eliminated. If NOTA rises to second place, that&#8217;s a sign that the candidates are weak and next election more people should run. If NOTA rises to first place in the final IRV round, I&#8217;d still give victory to a real candidate. That&#8217;s what makes it nonbinding. A binding NOTA would force a new election. I don&#8217;t think that is necessary. A strong NOTA is just a measure of voter discontent, and it will encourage the winner to try to connect more to voters, and encourage more candidates to run next time.</p>
+
+<p>Sincerely
+Tom Ruen</p>
+
+<p class="posted">posted by <a href="http://profiles.yahoo.com/tomruen">Tom Ruen</a> at February 21, 2004 01:42 AM <a href="#c604">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/001168.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/mt-comments.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1168" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /><br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

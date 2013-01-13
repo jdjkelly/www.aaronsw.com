@@ -1,0 +1,360 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Web Development Restarts (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001379.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001377" title="Fact Check" />	<link rel="next" href="001391" title="Press Clipping" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Web Development Restarts</h1>
+</div>
+
+<div class="content">
+<p><em>Previously on the Browser Wars:</em> Tim Berners-Lee invented the Web. Mosaic copied the browser, but never got around to implementing the key second half which allows people to edit web pages. Mosaic became Netscape, and kept adding new features to the Web. Microsoft spun around and wrote a Web browser to catch up. The competition worked for a while, but the two browsers ended up implementing similar things in different ways.</p>
+
+<p>Tim Berners-Lee came back onto the scene, in the form of the W3C, bringing both parties to the table to agree on future changes. But the W3C was also filled with idealists who wanted to force everyone to use their ideal web format, instead of documenting what worked. While they had some qualified good ideas (CSS) they introduced a whole new world of complexity. Now browsers had to straddle two worlds: the de facto Web standards and the de jure ones. Both were insanely complex.</p>
+
+<p>Eventually things got &#8220;good enough&#8221;. Microsoft wised up and killed IE development. Netscape went open source and rewrote their browser several times before going bankrupt. The W3C ground to a halt.</p>
+
+<p>But things have been starting up again. Mozilla finally released a decent product. Apple shook things up with the introduction of Safari/WebKit/KHTML, a new and excellent contender. Could things be looking up?</p>
+
+<p><em>And now, your featured article:</em> <span title="Graham appears to have planned to relive his Viaweb glory days with a great web email client written in Arc. Actually, he'll probably still build it but Gmail is likely to beat him in the marketplace." class="footnote">Beating Paul Graham to the punch,</span> Google reminded people about the value of Web apps with their well-designed and cleverly-implemented Gmail. Wow, you could make Web applications that were almost as good as real ones, but even easier to use!</p>
+
+<p>Then Apple moved Web apps to the desktop with their elegant and featureful <a href="http://www.apple.com/macosx/tiger/dashboard.html">Dashboard</a>. Wow, you could make Web applications that were, essentially, real ones! <a href="http://weblogs.mozillazine.org/hyatt/archives/2004_07.html#005928">David Hyatt (of the Safari team) told us</a> about all the nifty things they were adding to the WebKit to make Dashboard better. Nifty! Now the browser would get some quality time, making it better for real apps.</p>
+
+<p>But here&#8217;s the real kicker. Representatives of Safari, Firefox/Mozilla, and Opera have <a href="http://whatwg.org/">teamed up to form the WHAT WG</a>. Clearly understanding the screw-ups of the W3C, WHAT is will simply agree upon, write up, and implement changes to HTML. And they plan to do whatever it takes to make HTML a great application language.</p>
+
+<p>Considering HTML&#8217;s stagnation and pain, this may be hard to believe fully, but I&#8217;m serious. They talk about things like Digital Signatures, tabbed/wizard interfaces, rich text editing, spreadsheets, and drag and drop, not to mention simpler stuff like date inputs, sliders, and repeatable rows.</p>
+
+<p>All of this means we&#8217;re likely to see a web application renaissance, and thus a software application renaissance. The train to the future is starting up again!</p>
+
+<p class="posted">posted July 12, 2004 10:33 PM (<a class="category" href="cat_technology">Technology</a>) (<a href="#comments">15 comments</a>) <a href="001379" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001377" title="Fact Check">&laquo; prev</a> | <a href="./">up</a> | <a href="001391" title="Press Clipping">next &raquo;</a></p>
+
+<p><a href="001373">What is going on at the Supreme Court?</a><br />
+<a href="001374">Four Myths About Politics</a><br />
+<a href="001375">Fahrenheit 9/11 Transcript: The Saudi Flights</a><br />
+<a href="001376">Stupid Criticisms of Fahrenheit 9/11</a><br />
+<a href="001377">Fact Check</a><br />
+<strong>Web Development Restarts</strong><br />
+<a href="001391">Press Clipping</a><br />
+<a href="001392">Hackers and Painters: How to Think Like a Computer Millionaire</a><br />
+<a href="001393">Who would bin Laden vote for?</a><br />
+<a href="001394">Wolf Blitzer Distorts</a><br />
+<a href="001395">Press Clipping</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c2534">
+
+<p>Note to HTML people: A footnote tag would be good. I&#8217;ve imitated one here with a span[@title], but it&#8217;s a hack (and the dotted underline idiom probably isn&#8217;t clear to people).</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2534">Aaron Swartz</a> at July 12, 2004 10:36 PM <a href="#c2534">#</a></p>
+
+</div><div id="c2536">
+
+<p>Aaron, do you remember the HTML standards wars? Their ghost can be seen in the RSS/Atom wars. When I read a sentence like:</p>
+
+<p>&#8220;&#8230; will simply agree upon, write up, and implement changes to HTML.&#8221;</p>
+
+<p>I think &#8220;Oh Noooooooooo&#8230;.&#8221;</p>
+
+<p>Because I remember what happened the last time around.</p>
+
+<p>The words &#8220;agreed upon&#8221; are fraught with peril.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://sethf.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2536">Seth Finkelstein</a> at July 12, 2004 11:34 PM <a href="#c2536">#</a></p>
+
+</div><div id="c2538">
+
+<p>I will admit I don&#8217;t remember the wars. I originally wrote the article with the slant that they were a good thing, wrongly stopped by the W3C, but was persuaded otherwise. </p>
+
+<p>But I think the concern <em>here</em> is unfounded; the participants seem to be pretty good friends. (Indeed, all three worked on Mozilla together.)</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2538">Aaron Swartz</a> at July 13, 2004 12:07 AM <a href="#c2538">#</a></p>
+
+</div><div id="c2539">
+
+<p>Existing specifications (e.g. XML, namespaces) were designed with extendability in mind, but the recent proposals seem to want to throw these specifications away and go back to the non-extendable HTML.</p>
+
+<p>The only reason I have heard for this approach is from Hyatt, saying something along the lines of &#8220;browsers don&#8217;t handle XML well&#8221;.  Well they don&#8217;t handle the new stuff <em>at all</em>.  Surely it&#8217;s better to fix the XML handling if it is that bad?</p>
+
+<p>BTW, Microsoft didn&#8217;t write Internet Explorer from scratch, they licensed Mosaic.</p>
+
+<p class="posted">posted by Jim at July 13, 2004 06:41 AM <a href="#c2539">#</a></p>
+
+</div><div id="c2540">
+
+<p><i>&#8230; whatever it takes to make HTML a great application language.</i></p>
+
+<p>ROFLMAO. Seriously. That&#8217;s f-ing funny.</p>
+
+<p>There are some folks out there already trying to make the next great web-based application language and that would be Macromedia with Flash MX. Same focus, basically the same backend (ECMAScript derivatives), and the same goals. The problem is that as a serious application development platform, Flash really blows. Why does this matter? Given the descriptions of Dashboard and these new controls, it sounds like Apple et al is trying to reinvent Flash all over again. It&#8217;ll be an okay way to write database frontends and toy applications, but for serious things like robust GUI applications (think wordprocessors and spreadsheets), it&#8217;ll be a complete failure. (IMHO)</p>
+
+<p>That&#8217;s not to mention things that plague current web-developers at the moment - IE compatibility, Netscape 4 compatibility, locked-down machines, and so forth. How will these web applications behave when they encounter a machine where JavaScript has been disabled? When the cookie settings are wonky, etc. There&#8217;s a reason that Macromedia went with a separate runtime for Flash - it&#8217;s much too difficult to guarantee consistency across these different platforms. It wouldn&#8217;t be a problem if everyone implemented the standards, but it doesn&#8217;t seem that this has even happened with respect to something relatively simpler - CSS. (I&#8217;m looking at you, MSFT.)</p>
+
+<p>In any case, this is getting too ranty. I guess it&#8217;s because I&#8217;ve been developing non-trivial applications in this environment (using Flash) and the notion that these groups will turn HTML into an application platform for non-trivial purposes is hilarious. Of course, I may be wrong and it night not follow the exact same path as Flash while avoiding the problems of Java applets, but color me pessimistic. I guess I wish people would work harder on making the current web work as advertised instead of going off and creating a new hodge-podge standards that won&#8217;t be universally and uniformly implemented.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aetherial.net" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2540">Chris</a> at July 13, 2004 08:13 AM <a href="#c2540">#</a></p>
+
+</div><div id="c2541">
+
+<p>&#8220;Given the descriptions of Dashboard and these new controls, it sounds like Apple et al is trying to reinvent Flash all over again.&#8221;</p>
+
+<p>flash is proprietary and compiled, so there are fewer developers and less standardization. WHAT WG&#8217;s HTML extensions are open and uncompiled, so anyone can develop, and developers can establish de-facto standards. the two have little in common.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://weblog.randomchaos.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2541">scott reynen</a> at July 13, 2004 09:28 AM <a href="#c2541">#</a></p>
+
+</div><div id="c2542">
+
+<p>The XML idea is silly. Hardly any pages now would work as valid XML. People shouldn&#8217;t have to rewrite their pages or learn a new way of writing pages just to use these new tags. The only workable solution is to add them to HTML.</p>
+
+<p>The Flash comparison is silly. Flash is much nicer than Java, I&#8217;ll grant you that, but the only reason it&#8217;s gained so much traction is because the browser isn&#8217;t doing anything. Flash requires a whole new development environment and method of building pages. And it&#8217;s crummy. Like WebObjects, it doesn&#8217;t respect the Web (back button, Google, etc.), so it&#8217;s hard to make good sites in Flash. </p>
+
+<p>(Has anyone built robust GUI applications like word processors and spreadsheets in Flash? I don&#8217;t think so.)</p>
+
+<p>As for the settings thing, I can&#8217;t imagine the population of machines with JavaScript off but Flash on or an old version of Netscape but the latest version of Flash is really that large.</p>
+
+<p>I&#8217;m not sure why you don&#8217;t think adding these basic features to the browser isn&#8217;t &#8220;making the current web work as advertised&#8221;. AFAIK, all outstanding standards problems in the three browsers are fixed, if that&#8217;s what you mean.</p>
+
+<p>People are writing Web apps in the Web (Gmail, Dashboard, etc.) &#8212; I can&#8217;t recall seeing any major apps in Flash. Improving the Web for these kinds of apps is exactly what people should be doing.</p>
+
+<p>What scott says is true too.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2542">Aaron Swartz</a> at July 13, 2004 10:25 AM <a href="#c2542">#</a></p>
+
+</div><div id="c2543">
+
+<p><i>flash is proprietary and compiled, so there are fewer developers and less standardization. WHAT WG’s HTML extensions are open and uncompiled, so anyone can develop, and developers can establish de-facto standards. the two have little in common.</i></p>
+
+<p>If I&#8217;m not mistaken, the SWF bytecode format that Flash compiles to is open and <a href="http://www.half-serious.com/swf/format/">documented</a>, and there&#8217;s already a number of open and closed source applications targeting it. </p>
+
+<p>Also given MSFT&#8217;s non-inclusion in this group and it pushing Avalon/XAML as it&#8217;s web application technology, there&#8217;s still the fundamental problem of IE support. I&#8217;ll venture the prediction that there&#8217;ll be more serious developers targeting Flash instead of WG HTML simply because there&#8217;s a larger base of people with the Flash plugin installed than there will be with WG HTML-compatible browsers.</p>
+
+<p>Finally, if we&#8217;re pushing for an interpreted language to write applications for the web, why use HTML as the base when technologies such as Python are much more mature and it would make more sense to include a custom Python runtime instead of reinventing the wheel?</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aetherial.net" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2543">Chris</a> at July 13, 2004 10:27 AM <a href="#c2543">#</a></p>
+
+</div><div id="c2544">
+
+<p>Chris, did you read the WHAT page?</p>
+
+<p>Your argument is: macromedia flash MX really blows for serious application development and because it has the same focus, backend and goals as WHAT, then WHAT will also really blow for serious application development.</p>
+
+<p>(I&#8217;m not sure what constitutes as serious application development, but you mentioned &#8220;robust GUI applications (think wordprocessors and spreadsheets)&#8221; as being serious things, whereas &#8220;database frontends and toy applications&#8221; are not serious.)</p>
+
+<p>Since I don&#8217;t know macromedia flash mx I can&#8217;t say whether it has the same focus, backend as goals as WHAT. But as far as serious application development goes WHAT specifically excludes applications such as wordprocessors and spreadsheets. </p>
+
+<p>http://whatwg.org/, below &#8220;What are Web Applications?&#8221; says:
+&#8220;The term &#8220;Web Application&#8221; in this context refers to applications accessed over the World Wide Web by using a Web browser. This group is not attempting to describe APIs for writing high-end sophisticated programs such as office productivity suites, graphics manipulation packages, or 3D games.                                                                                                                              Some of the most famous examples of Web applications currently deployed are eBay and Amazon&#8221;</p>
+
+<p>http://whatwg.org/specs/web-apps/current-work/ says:
+&#8220;The scope of this specification is not to describe an entire operating system. In particular, office productivity applications, image manipulation, and other applications that users would be expected to use on a daily basis are out of scope. This specification is targetted specifically at applications that would be expected to be used by users on an occasional basis. For instance online purchasing systems, searching systems, games (especially multiplayer online games), public telephone books or address books, etc.&#8221;</p>
+
+<p>Remark: Although I don&#8217;t see the relevance of how often an application is used (&#8220;daily basis&#8221; / &#8220;occasional basis&#8221;): the distinction should be based on what the application is and not how often it is used.</p>
+
+<p class="posted">posted by hhg at July 13, 2004 10:31 AM <a href="#c2544">#</a></p>
+
+</div><div id="c2545">
+
+<blockquote>
+  <p>The XML idea is silly. Hardly any pages now would work as valid XML.</p>
+</blockquote>
+
+<p>And absolutely zero pages now use the new element types, so there&#8217;s no problem is there?</p>
+
+<blockquote>
+  <p>People shouldn’t have to rewrite their pages or learn a new way of writing pages just to use these new tags.</p>
+</blockquote>
+
+<p>XML has been around for over six years.  It&#8217;s not a &#8220;new way of writing pages&#8221; at all.  There&#8217;s hardly any difference whatsoever between HTML and XHTML as far as authoring is concerned.</p>
+
+<blockquote>
+  <p>The Flash comparison is silly.</p>
+</blockquote>
+
+<p>Agreed.</p>
+
+<blockquote>
+  <p>People are writing Web apps in the Web (Gmail, Dashboard, etc.) — I can’t recall seeing any major apps in Flash.</p>
+</blockquote>
+
+<p>A few years back, I ran across a recruitment website that was constructed entirely in Flash.  The website itself wasn&#8217;t so much an app, but the admin interface backend was.  It was terrible.</p>
+
+<p class="posted">posted by Jim at July 13, 2004 10:31 AM <a href="#c2545">#</a></p>
+
+</div><div id="c2546">
+
+<p><i>Has anyone built robust GUI applications like word processors and spreadsheets in Flash? I don’t think so.</i></p>
+
+<p>This is precisely my point. Please don&#8217;t mistake my comments as an endorsement of Flash by any means. However, looking at Flash and why it&#8217;s built the way that it was is educational in this context. Given the technological limitations (security, download speeds, run speeds), there&#8217;s a lot that Flash cannot do. I don&#8217;t see WG HTML being able to get past these problems either.</p>
+
+<p>I guess my point is that I disagree with your assessment that these new HTML controls are going to lead to a &#8220;web application renaissance&#8221; and that WG HTML will be an &#8220;great application language&#8221;. Sure, having sliders on web pages will be nice, but nothing fundamentally will change. WG HTML will be nice for a certain class of applications (as stated before, toy applications and database frontends), but it&#8217;s not the great step that you&#8217;re making it out to be. I&#8217;d like to see a great application language for the web, but it&#8217;s not here yet. (Sun dropped the ball WRT Java applets, Flash is too wonky and limited for my tastes, Java WebStart is awesome but noone uses it, and native apps + web services has potential but has not yet realized it.)</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aetherial.net" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2546">Chris</a> at July 13, 2004 10:38 AM <a href="#c2546">#</a></p>
+
+</div><div id="c2548">
+
+<p>I should clarify that I&#8217;m not against WG HTML - I think some of the ideas are nice and well overdue - but I question its ultimate impact on web application development. In my defense, I&#8217;ve been developing non-trivial web-based applications in Flash MX as part of an educational environment for online learning. We&#8217;ve built sophisticated search interfaces, image and audio annotators, and other tools for allowing students to access and manipulate digital content. That&#8217;s my basis for starting when thinking about this topic.</p>
+
+<p>The fundamental problem that I see with the WHAT stuff is that it&#8217;s basically an upgrade to HTML forms. This is nice and all, and I like this portion of the vision. However, once I start reading about about things such as firing off RPC calls from within web pages, I start thinking that WHAT is starting to pile kludges upon kludges in order to try and make HTML function like a real application platform. I would rather (and this is a personal preference) would rather see the effort and thought be put into something that is a bit more robust and more widely supported. Maybe it&#8217;s just me, but while I like the web as a delivery mechanism for text and other content, I shudder to think of more developers targeting JavaScript as a primary development language with HTML as the interface. The WHAT enhancements to forms will ease the pain some, but I think that the web community can do better. </p>
+
+<p>Perhaps I&#8217;m just being elitist, but I&#8217;d rather have the next generation of web application developers using more robust technology building more capable and more creative applications and pushing the envelope in terms of functionality and user interface instead of producing smarter HTML forms. That&#8217;s the bar would personally set when speaking about a &#8220;great application language&#8221;, but perhaps that&#8217;s too high. <em>shrug</em> </p>
+
+<p>As it stands now, I appreciate the WHAT WG&#8217;s vision, but the only practical outcome I see are more entry pages with &#8220;Enter if you&#8217;re using IE&#8221; and &#8220;Enter if you&#8217;re using a WHAT WG browser&#8221;, and the WHAT version being nice because of the enhancements and the IE version being either a regular version with Flash (or other) controls to do things like sliders and RTF editting. (Of course this argument applies to enhancing HTML in any way as long as IE has the dominant installed base.) Perhaps some IE plugin that recognizes WHAT WG enhancements may be the answer.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aetherial.net" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2548">Chris</a> at July 13, 2004 11:18 AM <a href="#c2548">#</a></p>
+
+</div><div id="c2549">
+
+<p>FWIW, something more along the lines of what I have in mind is <a href="http://www.laszlosystems.com/demos/">Laszlo</a>. It&#8217;s an object-oriented XML-aware platform that compiles to the SWF format and will run on the vast majority of browsers. (Although it&#8217;s independent of Flash and Macromedia.) This is a somewhat slow and completely propriety solution for building web-based applications, but the demos show some of its potential. If the W3C and WHAT WG were to collaborate to create a standard platform like this for these types of applications, then we&#8217;d start seeing that revolution that you&#8217;re talking about.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aetherial.net" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2549">Chris</a> at July 13, 2004 11:35 AM <a href="#c2549">#</a></p>
+
+</div><div id="c2553">
+
+<p>I don&#8217;t think anyone would be worse off if the browsers implemented tags such as </p>
+
+<p>&lt;input type=&#8221;date&#8221; /&gt;</p>
+
+<p>or</p>
+
+<p>&lt;input type=&#8221;text&#8221; regex=&#8221;[a-z]*&#8221; /&gt;</p>
+
+<p>It will save us a whole heap of buggy javascript.</p>
+
+<p>Or better Undo support, and standard ways to do</p>
+
+<p>[Apply] [OK] [Cancel]</p>
+
+<p>without resorting to javascript or script of any kind.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://teyc.editthispage.com/stories/storyReader$31" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2553">Chui</a> at July 14, 2004 06:57 AM <a href="#c2553">#</a></p>
+
+</div><div id="c2796">
+
+<p>I can&#8217;t wait for WG HTML. Perhaps by the time it is released, it&#8217;ll have the functionality of 1987-era HyperCard! </p>
+
+<p>:)</p>
+
+<p class="posted">posted by Andrew S at September 12, 2004 11:57 AM <a href="#c2796">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001379.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1379" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

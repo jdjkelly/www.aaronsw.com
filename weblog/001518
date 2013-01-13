@@ -1,0 +1,254 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Stanford: Day 63 (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001518.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001517" title="Jeff Hawkins on the Brain" />	<link rel="next" href="001523" title="Stanford: Day 64" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Stanford: Day 63</h1>
+</div>
+
+<div class="content">
+<p>Today in IHUM section, <a href="http://www.aaronsw.com/weblog/001516">in semi-confirmation of my fears</a> the teacher organized an attack on my ideas. We were discussing Vietnam and I explained that the idea we were there to fight Communism was a fabrication (as the government itself admits in the Pentagon Papers). &#8220;Why is Aaron wrong?&#8221; the teacher replied &#8212; something she&#8217;d never done before, to anyone &#8212; and then proceeded by yelling, talking over me, and making it seem like I&#8217;m crazy. She insisted I couldn&#8217;t use facts and continued talking over me even when I make a nonradical point.</p>
+
+<p>I corner her afterwards to ask what&#8217;s up. She says that she talks over me because I&#8217;m the only one who talks over her, which is only somewhat convincing. She says that I purposely exaggerate things, which I deny (although I admit that language is imprecise). She explains that the goal of the course is to look at ideas, not at facts. I wonder how one can possibly have useful ideas if you ignore the facts. I could hypothesize all sort of absurd things and come to all sorts of absurd conclusions, but the clear implication of philosophy is that the hypotheticals and the conclusions are applicable to our world.</p>
+
+<hr />
+
+<p>In <a href="http://daily.stanford.edu/tempo?page=content&amp;id=15381&amp;repository=0001_article">an article on the history of the Big Game</a> the <em>Stanford Daily</em> reports that in 1983, the San Francisco Police Department threatened &#8220;to arrest the entire band&#8221; if things got out of hand. Instead of backing down, Stanford took out a $1M insurance policy. Compare: The government passes a law explicitly protecting Stanford from copyright lawsuits, Stanford responds by backing down and unplugging users who violate copyright.</p>
+
+<p class="posted">posted January 23, 2005 08:25 PM (<a class="category" href="cat_education">Education</a>) (<a href="#comments">11 comments</a>) <a href="001518" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001517" title="Jeff Hawkins on the Brain">&laquo; prev</a> | <a href="./">up</a> | <a href="001523" title="Stanford: Day 64">next &raquo;</a></p>
+
+<p><a href="001504">Pick A Side</a><br />
+<a href="001512">In His Own Words</a><br />
+<a href="001515">Newspaper Writers on the Election</a><br />
+<a href="001516">Stanford: Day 62</a><br />
+<a href="001517">Jeff Hawkins on the Brain</a><br />
+<strong>Stanford: Day 63</strong><br />
+<a href="001523">Stanford: Day 64</a><br />
+<a href="001524">Stanford: Day 65</a><br />
+<a href="001526">Quick Takes</a><br />
+<a href="001527">Stanford: Day 66</a><br />
+<a href="001528">Stanford: Day 67</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c3782">
+
+<p>So basically this teacher is looking for a brainstorming session of ideas that could be given to politicians or newspapers to cover up the government&#8217;s mistakes&#8230;</p>
+
+<p>&#8220;She explains that the goal of the course is to look at ideas, not at facts&#8221; This reminds me of a quote from somewhere: &#8220;Who&#8217;s more the fool? The fool, or the fool who argues with the fool.&#8221; Or another one: &#8220;Never argue with a fool, they just bring you down to their level and beat you with experience&#8221;.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.philandlyndel.com/phil/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3782">Phil Boardman</a> at January 23, 2005 08:44 PM <a href="#c3782">#</a></p>
+
+</div><div id="c3784">
+
+<p>Hmm.  I had similar experiences, but believe it or not in my intro sociology class.  </p>
+
+<p>Anyhow, can you elaborate on where the pentagon papers point that out?  I know of them but I haven&#8217;t read them through, so if you could point me to the particular sections that would be great.  Thanks.  </p>
+
+<p>With respect to &#8220;not over communism,&#8221; do you mean ideologically or economically.  It&#8217;s been a while since I&#8217;ve thought about such things without being at a bar and having an old man say to me &#8220;I killed more men in Vietnam than your mother took to bed&#8221;, but last I remember  they&#8217;re awfully hard to separate.  That is: nationalization of private concerns is bad for Capitalism and part of Communism.  So, when Chomsky says that the US went to Vietnam for economic purposes, I see it as still against Communism, not in the good vs. evil way, just the dollars and cents way.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.allthingsalceste.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3784">Dan Steingart</a> at January 23, 2005 11:57 PM <a href="#c3784">#</a></p>
+
+</div><div id="c3785">
+
+<p>Dan, if you do a search for &#8220;Pentagon Papers&#8221; you should find lots of stuff including the websites of some of the people involved (Ellsberg, et al).</p>
+
+<p>The Wikipedia is a good place to start: <a href="http://en.wikipedia.org/wiki/Pentagon_Papers">http://en.wikipedia.org/wiki/Pentagon_Papers</a></p>
+
+<p>Most of the papers are available online here: <a href="http://www.mtholyoke.edu/acad/intrel/pentagon/pent1.html">http://www.mtholyoke.edu/acad/intrel/pentagon/pent1.html</a></p>
+
+<p>Aaron, I haven&#8217;t read all of the papers, but I think that it <em>is</em> unfair (or, perhaps as you would term it, unprecise) to say that the idea of fighting Communism was a fabrication.  Granted it&#8217;s within a more complex geopolitical context, but it seems most of our motivations, at least later in the game (subverting the elections, etc) were directly Cold War related.  Sure it&#8217;s not black and white (and it&#8217;s certainly not about Communism/Democracy in the idealistic sense (if I&#8217;m misreading the thrust of your argument entirely)), but it seems that you&#8217;re arguing against one blanket statement with another.</p>
+
+<p>In either case, it sounds like you&#8217;re not going to be having much fruitful dialogue with your Professor.  At least, not without changing tactics &#8212; which might be an interesting and fruitful learning experience in itself.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://randomfoo.net/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3785">Leonard</a> at January 24, 2005 01:24 AM <a href="#c3785">#</a></p>
+
+</div><div id="c3786">
+
+<p>Dan - misread (after posting, oops) you were looking for a citation, not background information about the Papers themselves. It&#8217;s late, sorry. :)</p>
+
+<p class="posted">posted by <a target="_blank" title="http://randomfoo.net/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3786">Leonard</a> at January 24, 2005 01:34 AM <a href="#c3786">#</a></p>
+
+</div><div id="c3790">
+
+<p>I would take five minutes to make a photocopy of the pages which you were referencing and hand it to her after your next class because this topic is far too important for a professor&#8217;s opinion to get in the way of teaching what probably 99% of your class didn&#8217;t know was true (by the standards that it is governmentally acknowledged). </p>
+
+<p class="posted">posted by <a target="_blank" title="http://haiku.blogs.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3790">Cole</a> at January 24, 2005 02:44 PM <a href="#c3790">#</a></p>
+
+</div><div id="c3792">
+
+<p>Aaron writes,</p>
+
+<blockquote>
+  <p>I wonder how one can possibly have useful ideas if you ignore the facts. I could hypothesize all sort of absurd things and come to all sorts of absurd conclusions, but the clear implication of philosophy is that the hypotheticals and the conclusions are applicable to our world.</p>
+</blockquote>
+
+<p>As a person who took all the courses needed for a BA in Philosophy (but I didn&#8217;t write the needed thesis), I hold this opinion:</p>
+
+<p>The things that one discusses in Philosophy are kind of like the story problems in Math.  Consider the proposition that &#8220;Johnny had three apples and then he ate one.&#8221;  Whether Johnny ever existed, whether it is true that he had any apples, or whether he ate any, is irrelevant.  The important thing is to learn the Math &#8212; that 3-1 = 2.  I think that&#8217;s what your professor meant when she &#8220;explains that the goal of the course is to look at ideas, not at facts.&#8221;</p>
+
+<p>Perhaps you haven&#8217;t had this kind of material yet, but some philosophers such as St. Thomas Aquinas reason about all kinds of (what seem to me to be) silly things, such as, &#8220;How many angels can fit on the head of a pin?&#8221;</p>
+
+<p>Thus, the secret to success in philosophy is to <i>suspend your disbelief</i>.  First consider the other person&#8217;s ideas as if they were your own.  Then, once you understand them, you&#8217;ve earned the right to either agree with them or to refute them.</p>
+
+<p class="posted">posted by Russ Schwartz at January 26, 2005 11:45 AM <a href="#c3792">#</a></p>
+
+</div><div id="c3793">
+
+<p>If you think the Vietnam War&#8217;s anticommunist justification was made up out of whole cloth, you&#8217;re considering only a subset of facts. Since our ability to gather and consider facts is so flawed, I suspect that&#8217;s what your teacher meant.  So relax &#8212; you might learn something.</p>
+
+<p class="posted">posted by Mike Sierra at January 26, 2005 12:03 PM <a href="#c3793">#</a></p>
+
+</div><div id="c3873">
+
+<p>Here&#8217;s <a href="http://www.understandingpower.com/Chapter1.htm#f71">a quick overview of this reading of the Pentagon Papers</a>. I think what happened in Vietnam is plain:</p>
+
+<p>The country declared its independence and instituted some agrarian reforms to improve life for the majority of its population as part of a mass-based political party. The US found this unacceptable since it might give other countries the idea they could do the same thing (the sensible rendition of the domino theory). So the US invaded, dropping more bombs on the tiny country than had been used on both sides of WWII. The Vietnamese population, however, was amazingly resilient and, for the first time, some people in America began to notice what was going on, so the business community eventually pulled out saying the costs had become too high. However, Vietnam was left devastated and eventually opened up to capitalism and its resulting inequality.</p>
+
+<p>So, yes, if communism means nationalism (i.e. doing something for your population), then we went to war to fight communism, especially to stop it from spreading. (The typical rendition of the domino theory has it that communism would spread through conquest or some other evil, but it&#8217;s pretty clear that in reality it would be voluntary.) Hopefully, however, it&#8217;s obvious how fundamentally wrong and immoral such a war is, though.</p>
+
+<p>You can gain similar insight from the speeches of political leaders today by substituting &#8220;democracy&#8221; with &#8220;US control&#8221; and other such newspeak games. </p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3873">Aaron Swartz</a> at January 31, 2005 06:46 PM <a href="#c3873">#</a></p>
+
+</div><div id="c4620">
+
+<p>It&#8217;s impossible to take in the observation that the Vietnamese were &#8220;amazingly resilient&#8221; after being bombarded by the Americans for years on end, without noting that after the Americans left tens of thousands of them all of a sudden became non-resilient and tried to flee the country, often in dangerously overcrowded boats.</p>
+
+<p class="posted">posted by Mike Sierra at March 20, 2005 08:50 PM <a href="#c4620">#</a></p>
+
+</div><div id="c4623">
+
+<p>I don&#8217;t follow. The US murdered 1-2 million, yet they kept fighting until the US left. That&#8217;s amazing resilience. I don&#8217;t see how tens of thousands of them leaving their now-destroyed country afterwards changes that or is even relevant..</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=4623">Aaron Swartz</a> at March 21, 2005 04:58 AM <a href="#c4623">#</a></p>
+
+</div><div id="c4624">
+
+<p>I suppose my quip only makes sense if you realize they were leaving not because their country had been leveled (it had not), but because they feared getting killed or put into concentration camps by communists.  You would expect war to generate more refugees than the relative stability that follows.  Yes, I&#8217;m being sarcastic.</p>
+
+<p class="posted">posted by Mike Sierra at March 21, 2005 07:00 AM <a href="#c4624">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001518.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1518" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

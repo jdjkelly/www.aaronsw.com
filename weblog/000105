@@ -1,0 +1,43 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Does someone have an OPML (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/000105.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000104" title="Sean wants a Radio mug&#8230;a" />	<link rel="next" href="000106" title="Hmmph, I&#8217;m running into the" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Does someone have an OPML</h1>
+</div>
+
+<div class="content">
+<p>Does someone have an OPML renderer online? I want to show people <a href="http://radio.weblogs.com/0100663/gems/mySubscriptions.opml">what I&#8217;m reading</a>.</p>
+
+<p class="posted">posted January 14, 2002 04:52 AM (<a class="category" href="cat_"></a>)  <a href="000105" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000104" title="Sean wants a Radio mug&#8230;a">&laquo; prev</a> | <a href="./">up</a> | <a href="000106" title="Hmmph, I&#8217;m running into the">next &raquo;</a></p>
+
+<p><a href="000100">Jeremiah is listening. Cool stuff!The</a><br />
+<a href="000101">It&#8217;s always cool to run</a><br />
+<a href="000102">I just completed a major</a><br />
+<a href="000103">Dave Winer: &#8220;Life is good.</a><br />
+<a href="000104">Sean wants a Radio mug&#8230;a</a><br />
+<strong>Does someone have an OPML</strong><br />
+<a href="000106">Hmmph, I&#8217;m running into the</a><br />
+<a href="000107">Tony Collen: &#8220;Personally, I think</a><br />
+<a href="000108">Tony Collen found our secret</a><br />
+<a href="000109">Salon: e.e. cummings reads four</a><br />
+<a href="000110">Wow! I&#8217;m number three in</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

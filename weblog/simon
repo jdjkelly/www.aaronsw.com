@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Simon Arrives (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Simon Arrives</h1>
+
+<p class="dateline">Wednesday, June 22</p>
+
+<p>I originally made a short-term reservation at Simmons Hall, both because I had to get authorization for a longer-term stay and because I wasn&#8217;t sure if I&#8217;d like it. I&#8217;ve already extended it once, but it expires tomorrow, when my partner arrives (he also needs a room). I email the house manager about staying. He says I should stop by. I go to his office. He&#8217;s not there. I try back later, he&#8217;s talking to someone. And so it goes throughout the day until he leaves. Uh oh.</p>
+
+<p>I email him. He gives me a firm appointment in the morning. He can extend my room through the end of the summer. &#8216;Thanks,&#8217; I say. &#8216;Alright then?&#8217; &#8216;Actually, I have a friend and I was sort of wondering if he could stay here too&#8230;&#8217; &#8216;Oh, hmm, well, I need to keep a certain number of rooms reserved just in case anything goes wrong, you know. I think we&#8217;re pretty much out.&#8217; &#8216;But what about that room next door to me? Nobody seems to be living there.&#8217; &#8216;That&#8217;s a double, not a single.&#8217; &#8216;Oh.&#8217;</p>
+
+<p>&#8216;Actually, how about this?&#8217; he says. &#8216;I&#8217;ll let you move into that room and you can split it with your friend. How does that sound?&#8217; This Solomonic compromise is better than sleeping on the street or something, so I agree. He marks me down in his book and gets me the key from the desk. I move all my stuff over to the new room, which is like three times as big as my old room, and nicely laid out too. I return the key to the old room (stupidly, I guess) but I keep the door propped open so we can use it if we need some alone-time. (Which indeed I do until my partner gets us all locked out from it forever the first time he uses it. Afterwards, I switch to using the time machine.)</p>
+
+<p>At around 7:30pm there comes a knock at the door &#8212; my first here. I open it and there&#8217;s a strange man I don&#8217;t recognize with a suitcase. &#8216;You must be Aaron,&#8217; he says. &#8216;Hi,&#8217; I say. &#8216;I&#8217;ve got some good news and some bad news. The good news is I cut our housing costs in half.&#8217; &#8216;Wow, how&#8217;d you do that?&#8217; he asks. &#8216;Well, the bad news is it&#8217;s because we&#8217;re sharing one room,&#8217; I say and open the door onto our double. &#8216;Oh,&#8217; he says, a little scared.</p>
+
+<p>Despite this humor routine, I&#8217;m a little scared too. Watching this strange person move into my room is more than a little odd. I&#8217;ve always been afraid of sharing space with other people. I almost thought of dropping out of college if I had to share a room. At least this is only for the summer. But it still seems odd. What was I thinking when I chose to spend the summer with a random person based on little more than an email and a flicker of name recognition. I didn&#8217;t even check references, despite knowing one of the references. Why was I so stupid? I make a note to check with that reference (which I never do).</p>
+
+<p>Despite all this, it works amazingly well. Simon likes asking questions and I like explaining things. We both enjoy our privacy and end up on roughly similar schedules. Simon is a good, if not great programmer and very open to being convinced he&#8217;s doing things wrong. In fact, Simon is very open to anything. So open, in fact, that his openness is practically the only frustrating bit about him. I can say the meanest things to his face and he&#8217;ll just laugh and agree.</p>
+
+<p>Our first big debate is about planning. Simon wonders why we aren&#8217;t doing more planning. Shouldn&#8217;t we do use cases and draw up screenshots and make a list of features and pick milestones and build a mockup first? &#8216;Nah,&#8217; I say. &#8216;Let&#8217;s just build it.&#8217; This goes against what Simon has been taught. &#8216;Planning,&#8217; I say, &#8216;makes sense when you&#8217;re solving a predefined problem or working for somebody who is defining the problem for you. But it doesn&#8217;t make sense when you&#8217;re hacking. When you&#8217;re hacking, as Paul Graham likes to note, you&#8217;re actually figuring out what the problem is, exploring the problem space. It&#8217;s through writing the code that you figure out what the code should do. You can&#8217;t plan that.&#8217; Simon eventually comes to agree, although it takes him a while to get rid of his instincts.</p>
+
+<p>Even afterwards, he is still tempted to overbuild things. We needed a permissions system, for example, and Simon build a super-advanced, completely generalized database model for one so complicated that it took up several pages of code. I spent a week trying to fix it up and implement it before finally giving up, saying it was just too complicated for me to wrap my head around. But he&#8217;s working on it.</p>
+
+<p>I, meanwhile, have been struggling with my own demons &#8212; mainly procrastination. Programming is an odd task in that it requires so much mental discipline that your mind is often afraid of doing it. Worse still is the fact that it happens at a computer, usually one with an Internet connection, so there&#8217;s hardly any visible difference between actually doing your work and running off to check your email or read the news. It&#8217;s incredibly frustrating to snap out of a bit of newsreading and realize you just wasted a couple of hours.</p>
+
+<p>To combat this problem, I brought back an old application I wrote: minuteminder. minuteminder unobtrusively pops up in the corner of your screen every five minutes. When you get a second you can click on it and tell it what you&#8217;re doing and it&#8217;ll log that with the current time and go back and hide. The idea is that the combination of telling the computer you&#8217;re really surfing the Web and seeing that you&#8217;ve been doing so for the past 20 minutes will jolt you into waking up and heading back to something more productive. It&#8217;s not a perfect solution, but I think it definitely helps a lot. (A todo outline has been another productivity lifesaver.)</p>
+
+<p>Just having another person around is really nice, though.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">July 26, 2005</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>minuteminder sounds great. Can we download it anywhere?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://nickgray.net/">Nick Gray</a>
+ on August  4, 2005 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>&#8220;minuteminder&#8221; sounds better than &#8220;timecard&#8221;. The question that gets me stressed isn&#8217;t &#8220;what should I be doing? but &#8220;what am I doing?&#8221; I think it&#8217;s an issue because something happens to one&#8217;s sense of time while working on a computer.</p>
+
+<p class="posted">posted by Diane Bryden
+ on August  7, 2005 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="simon" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

@@ -1,0 +1,47 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>today&#8217;s featured superhero: Brad Templeton (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000393" title="Freedom, Independence" />	<link rel="next" href="000397" title="Sloganeering" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>today&#8217;s featured superhero: Brad Templeton</h1>
+</div>
+
+<div class="content">
+<p>It seems fitting that for the day we celebrate our freedom, the superhero is <a href="http://www.templetons.com/brad/">Brad Templeton</a>, Chairman of the <a href="http://www.eff.org/">EFF</a> (donate now!) and all-around net.hero and a very smart guy.</p>
+
+<p>He&#8217;s got some <em>really great</em> and clearly presented ideas on how to solve difficult problems (<strong>all must reads</strong>): <a href="http://www.templetons.com/brad/dns/fix.html">How to Fix DNS (and get rid of ICANN)</a> (<a href="http://www.templetons.com/brad/dns/summ.html">summary</a>) (basically, give out registry domains like .wipo, .yahoo and .w3c, each of which with its own policy for how to assign names but none of them are generic terms like .museum or washington.apples. then create new root servers with this policy but which also support the legacy domains and get people to switch), <a href="http://www.templetons.com/brad/crypt.html">Returning privacy to email</a> (give it zero user-interface), <a href="http://www.templetons.com/brad/dontpay.html">Anti-micropayments: the don&#8217;t buy button</a> (instead of having to click buy for every doc, simply click don&#8217;t buy when its too expensive or low quality).</p>
+
+<p>He also has some thought-provoking writing on privacy: <a href="http://www.templetons.com/brad/watched.html">A Watched Populace Never Boils</a>, <a href="http://www.templetons.com/brad/oracard.html">Larry Ellison&#8217;s new national ID card</a>.</p>
+
+<p class="posted">posted July 05, 2002 12:41 AM (<a class="category" href="cat_superheroes">Superheroes</a>)  <a href="000394" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000393" title="Freedom, Independence">&laquo; prev</a> | <a href="./">up</a> | <a href="000397" title="Sloganeering">next &raquo;</a></p>
+
+<p><a href="000385">Putting an End to ICANN</a><br />
+<a href="000387">Today&#8217;s Hack: html2text Converter</a><br />
+<a href="000389">Debunking the Debunkers</a><br />
+<a href="000390">Reevaluating Copyright</a><br />
+<a href="000393">Freedom, Independence</a><br />
+<strong>today&#8217;s featured superhero: Brad Templeton</strong><br />
+<a href="000397">Sloganeering</a><br />
+<a href="000398">Another thing cooking</a><br />
+<a href="000399">Herodotus: A Peer-to-Peer Web Archival System</a><br />
+<a href="000400">Special Gifts</a><br />
+<a href="000401">No!</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

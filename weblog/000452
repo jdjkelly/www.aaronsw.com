@@ -1,0 +1,85 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>irby nation (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000451" title="movable code" />	<link rel="next" href="000453" title="pay up for free software" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>irby nation</h1>
+</div>
+
+<div class="content">
+<p>Lots of new O&#8217;Reilly books. I bought <a href="http://www.oreilly.com/catalog/iprouting/">IP Routing</a> today. There&#8217;s also <a href="http://www.oreilly.com/catalog/ipv6ess/">IPv6 Essentials</a> (the <em>snail</em> book!), <a href="http://www.oreilly.com/catalog/openssl/">OpenSSL</a>, <a href="http://www.oreilly.com/catalog/mozilla/">Creating Applications with Mozilla</a>, HTTP: The Definitive Guide, <a href="http://www.oreilly.com/catalog/voip">VoIP</a>, <a href="http://www.oreilly.com/catalog/macosxunixdev/">Mac OS X for Unix Developers</a>, <a href="http://www.oreilly.com/catalog/lunixmacosx">Learning Unix for Mac OS X</a>. 10 OS X books.</p>
+
+<p>seen on a .sig: &#8220;A day without sunshine is like a day in Seattle.&#8221; When I was at OSCON, a nice fellow from <a href="http://www.affero.com/">Aferro</a> gave me a t-shirt that says &#8216;.sigs for the commons&#8217; on the back.</p>
+
+<p>Every day makes me want to move to California more. It seems like everyone is there. Kragen sure seems to be the center of attention. He appears on several diaries I read, including that of <a href="http://vitanuova.loyalty.org/latest.html">Seth Schoen</a>. I wonder what it would like to live near cool and smart people like them. (Kragen <a href="http://lists.canonical.org/pipermail/kragen-journal/">has a dirary of his own</a>, BTW.) Ping emailed saying he&#8217;s also a friend of Kragen&#8217;s. <em>See!</em> I have little intelligent face-to-face discussion outside my family these days.</p>
+
+<p>Heh, the PSF <a href="http://python.org/psf/records/board/minutes-2002-06-11.html">holds meetings on IRC</a>.</p>
+
+<p>In the same spirit of my HTML hack (below) I put together <a href="http://www.aaronsw.com/2002/tramp.py">a module that makes RDF more palatable to Python programmers</a>. It uses <a href="http://rdflib.net/">RDFLib</a> for the parsing and such. Here&#8217;s a simple example that prints out an RSS 1.0 item:</p>
+
+<pre>for item in channel[rss.items]:
+    print item[rss.title], "(" + str(item[rss.link]) + ")"
+    print item[rss.description]
+    print</pre>
+
+<p>Mark Bernstein, who soaks up more media than anyone I know has <a href="http://markBernstein.org/Jul0201.html#note_18777">a list of hypertext movies</a>.</p>
+
+<p>Neat, David McGuire of the Washington Post for <a href="http://www.washingtonpost.com/wp-dyn/articles/A12982-2002Jul28.html">has some key points on each of the dot-org proposals</a>. This is the first kind of summary of the proposals I&#8217;ve seen. I hope people do more, and more in-depth ones.</p>
+
+<p>Based on some code of Ka-Ping&#8217;s I wrote <a href="http://www.aaronsw.com/2002/html.py">a little Python HTML module</a> that lets you create HTML files like this:</p>
+
+<pre>html(head(
+    title("This is a page.")), 
+    body(
+        h1("This is a page.", c="fool"), 
+        p("This ", em('is'), " a paragraph.")
+    )
+)</pre>
+
+<p>It needs some work still, but feel free to let me know what you think. <a href="http://diveintomark.org/">Mark Pilgrim</a> pointed me to <a href="http://starship.python.net/crew/friedrich/HTMLgen/html/main.html">HTMLgen</a>. He also sent me pointers to <a href="http://users.binary.net/thehaas/htmlex.py">a table example</a> and <a href="http://www.w3j.com/6/s3.vanrossum.html#MARKER-9-23">a funny example from an article by Guido</a>. It&#8217;s interesting but I think this is a little cleaner/simpler. Since the functions just return text you can add them together and create new functions for templates. Like:</p>
+
+<pre>def default(t, c): return html(
+    head(
+        title(t), 
+        link(rel="stylesheet", type="text/css", href="style.css")
+    ),
+    body(
+        div(h1(t), id="banner"), 
+        div(c, c="content"), 
+        div(address(a("Aaron Swartz", href="http://www.aaronsw.com/")
+    ))))</pre>
+
+<p>I didn&#8217;t know there was a <a href="http://groups.google.com/groups?group=gnu">gnu.* series of newsgroups</a>.</p>
+
+<p class="posted">posted July 28, 2002 11:23 AM (<a class="category" href="cat_others">Others</a>)  <a href="000452" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000451" title="movable code">&laquo; prev</a> | <a href="./">up</a> | <a href="000453" title="pay up for free software">next &raquo;</a></p>
+
+<p><a href="000445">Carl Malamud: NetTopBox</a><br />
+<a href="000446">OSCON: Final Night</a><br />
+<a href="000447">get out of my hair</a><br />
+<a href="000450">Eyesight Feedback</a><br />
+<a href="000451">movable code</a><br />
+<strong>irby nation</strong><br />
+<a href="000453">pay up for free software</a><br />
+<a href="000456">i love it when a plan comes together</a><br />
+<a href="000457">is it rabbittime already?</a><br />
+<a href="000459">rabbit, rabbit</a><br />
+<a href="000461">today&#8217;s featured superhero: D. J. Bernstein</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

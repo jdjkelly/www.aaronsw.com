@@ -1,0 +1,346 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Why Raise Children? (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/001141.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001138" title="Aaron Swartz: The Interview" />	<link rel="next" href="001142" title="Freedom of Speech, or The DeCSS Haiku" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Why Raise Children?</h1>
+</div>
+
+<div class="content">
+<p><em>We return again to <a href="http://www.aaronsw.com/weblog/001133">Libertopia, land of rational economic libertarian actors</a>.</em></p>
+
+<p>Raising children is a painful, messy, and unrewarding activity. Sure, Libertopians have sex, but with easy access to contraceptives and abortions, it rarely results in childbirth. And sure, some people feel an urge to have children, but they&#8217;re merely self-deluded &#8212; libertopians know they&#8217;re not going to raise children unless they get paid.</p>
+
+<p>And who&#8217;s going to pay them? The children won&#8217;t &#8212; they&#8217;re free people too. They&#8217;re not going to sign a contract when they haven&#8217;t even been born yet, and they&#8217;re too young to do so when they need a parent&#8217;s care the most. </p>
+
+<p>You can&#8217;t regulate it, because libertopians just won&#8217;t have kids and they certainly won&#8217;t let government bureacrats tell them how to raise them!</p>
+
+<p>You can&#8217;t tax for a childraising organization, because libertopians would never support such wealth redistribution.</p>
+
+<p>The end result? Libertopia has hardly any kids (a miniscule birth rate) and any babies that are born are left to fend for themselves and quickly die (a near 100% infant death rate). As libertopians grow older and die off, the nation shrinks and shrinks until everyone dies off and Libertopia is no more.</p>
+
+<p>But, considering what Libertopia was like, maybe that isn&#8217;t such a bad thing&#8230;</p>
+
+<p><em>Do you know how Libertopia could escape this certain doom? <a href="http://www.aaronsw.com/weblog/001141#postcomments">Post a comment</a>!</em></p>
+
+<p class="posted">posted January 26, 2004 04:14 PM (<a class="category" href="cat_politics">Politics</a>) (<a href="#comments">16 comments</a>) <a href="001141" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001138" title="Aaron Swartz: The Interview">&laquo; prev</a> | <a href="./">up</a> | <a href="001142" title="Freedom of Speech, or The DeCSS Haiku">next &raquo;</a></p>
+
+<p><a href="001131">Unintelligent Design</a><br />
+<a href="001132">Shorter State of the Union</a><br />
+<a href="001133">Liberate Libertarianism</a><br />
+<a href="001136">Visiting Libertopia: The Magical Power of Property</a><br />
+<a href="001138">Aaron Swartz: The Interview</a><br />
+<strong>Why Raise Children?</strong><br />
+<a href="001142">Freedom of Speech, or The DeCSS Haiku</a><br />
+<a href="001143">The Media vs. The Facts</a><br />
+<a href="001144">Trippi Dumps Dean</a><br />
+<a href="001148">rss2email</a><br />
+<a href="001149">The Trippi Story</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c367">
+
+<p>One reason to have children is the desire to perpetuate yourself in some form.  You get to pass your values and views on to your children, who will carry them in some form after you are dead.  I don&#8217;t understand the libertopians well enough to see if they&#8217;d be receptive to this kind of argument, but I&#8217;d be interested in hearing why not.</p>
+
+<p class="posted">posted by <a href="mailto:aaronsw@nikita.ca">Nikita Borisov</a> at January 26, 2004 05:13 PM <a href="#c367">#</a></p>
+
+</div><div id="c368">
+
+<p>&#8220;[L]ibertopians know they’re not going to raise children unless they get paid.&#8221;</p>
+
+<p>I think you misunderstand an important point: money isn&#8217;t the only way libertarians explain behavior. It&#8217;s one of many possible incentives.</p>
+
+<p>(Otherwise, why would people spend their hard-earned cash on entertainment?)</p>
+
+<p>If the anticipated benefits resulting from an action (e.g. the happiness derived from parenting) are worth more than its cost (e.g. time, money, effort, pain), it&#8217;s a perfectly rational decision.</p>
+
+<p>Note: I do think that the notion of children as people &#8212; &#8220;They’re not going to sign a contract when they haven’t even been born yet, and they’re too young to do so when they need a parent’s care the most.&#8221; &#8212; is one of my major gripes with libertarianism.</p>
+
+<p>Surely a libertarian wouldn&#8217;t trust a child to just do whatever (s)he wants, but isn&#8217;t parenting an abrogation of that child&#8217;s inherent rights?</p>
+
+<p class="posted">posted by <a href="http://www.joegrossberg.com">Joe Grossberg</a> at January 26, 2004 05:44 PM <a href="#c368">#</a></p>
+
+</div><div id="c369">
+
+<p>Once again it&#8217;s easy to make a &#8220;correct&#8221; argument when you make the rules.</p>
+
+<p>The only thing a Libertarian needs to do something is if it&#8217;s in their own best interest to do it.</p>
+
+<p>Not money or getting paid or getting their name on a list or some such thing, just that it benefits them more than it harms them.</p>
+
+<p class="posted">posted by <a href="http://them.ws/">James</a> at January 26, 2004 06:59 PM <a href="#c369">#</a></p>
+
+</div><div id="c371">
+
+<p>Yeah, I liked the Libertopia example at first, but it starts to break down with this &#8220;episode.&#8221; I&#8217;m far from Libertarian, but I think I should point out that Libertarianism isn&#8217;t purely profit-driven &#8212; it&#8217;s driven by people&#8217;s own best interest. And raising children, while it isn&#8217;t easy or cheap, is clearly in the country&#8217;s best interest.</p>
+
+<p>Hey&#8230; I said &#8220;the country&#8217;s best interest.&#8221; That&#8217;s not libertarianism, that&#8217;s collectivism! That&#8217;s COMMUNISM! Maybe you do have a point after all.</p>
+
+<p class="posted">posted by <a href="http://www.atommic.com/mt/">Adam Atlas</a> at January 26, 2004 09:13 PM <a href="#c371">#</a></p>
+
+</div><div id="c372">
+
+<p>Pay people to have the children you don&#8217;t have the balls to create?</p>
+
+<p class="posted">posted by Mike at January 27, 2004 01:43 AM <a href="#c372">#</a></p>
+
+</div><div id="c373">
+
+<p>There can be a self-interested and money-related reason for having children: they are an investment and will look after you in your old age. In return for the money you spend bringing them up and educating them. Countless guilt-driven parent-child relationships have relied on this for generations.</p>
+
+<p class="posted">posted by <a href="http://blog.meriwilliams.com">Meri</a> at January 27, 2004 03:51 AM <a href="#c373">#</a></p>
+
+</div><div id="c377">
+
+<p>Worse and worse, Aaron. You should talk to some Libertarians, or just do a little reading before posting things like this. Libertarians are driven solely by economic considerations? You must be thinking of the Objectivists, and even they would probably protest your statement.</p>
+
+<p>In Libertopia, &#8220;everyone should be free to do as they choose, so long as they don&#8217;t infringe upon the equal freedom of others.&#8221; It really is that simple. Libertarians don&#8217;t have three arms, or deliberately run over old people in wheelchairs for sport, or anything like that. Me having kids won&#8217;t stop you from having kids, so it&#8217;s really none of your business whether I have kids or not. </p>
+
+<p>And I have three. :-)</p>
+
+<p class="posted">posted by <a href="http://w6daily.winn.com/">Phillip Winn</a> at January 27, 2004 08:56 AM <a href="#c377">#</a></p>
+
+</div><div id="c381">
+
+<p>Libertopians are more than just libertarians, they also believe that overall good comes from maximizing self-interest.</p>
+
+<p class="posted">posted by <a href="http://www.aaronsw.com/">Aaron Swartz</a> at January 27, 2004 10:43 AM <a href="#c381">#</a></p>
+
+</div><div id="c382">
+
+<p>&#8220;Raising children is a painful, messy, and unrewarding activity. Sure,
+Libertopians have sex, but with easy access to contraceptives and
+abortions, it rarely results in childbirth.&#8221;</p>
+
+<p>Replace &#8220;Libertopians&#8221; with &#8220;Americans&#8221; or &#8220;Europeans&#8221; and you have a
+nearly true statement in the real world. Some places in Europe have
+birthrates falling below replacement levels.</p>
+
+<p>Children are problem #1 for libertarian ethics, because it&#8217;s morally
+impossible to say that children are owned by their parents (could they be
+sold?) or that children are free agents (obviously impossible).</p>
+
+<p>But I don&#8217;t think you&#8217;ve addressed the real problems with childrearing in
+Libertopia. There is a biological urge to reproduce that is present in all
+species, including humans (and libertarians ;). Furthermore, humans have
+an innate urge to protect their own offspring, so those who are born will
+be cared for to the best of their parents&#8217; abilities in most cases.</p>
+
+<p>You&#8217;ve touched on the economic dis-incentives to childbirth, but I you&#8217;re
+taking it too far. Look for more practical problems.</p>
+
+<p>For instance, in Libertopia, there will be no public schools; no Family
+Leave Act; no paid time off for childbirth recovery in many fields. Women who want to raise children will therefore be at an economic disadvantage. Indeed, only the very rich will be able to afford to educate their children. They will have to pay for private school or be able to afford to have at least one parent home school the child. (To those who say the free market would provide affordable opportunities for the education of all children, I ask, why didn&#8217;t this happen in Dickens&#8217;s England?)</p>
+
+<p>Therefore, there are huge economic disincentives to having children. Because of modern birth control, I agree the birth rate will be low, but those who are born will likely be born into privilege and be quite happy.</p>
+
+<p>As I mentioned above, the more serious problem for libertarian ethics is &#8220;What is the role of children?&#8221; You touch on this with your assertion that children will be left to die. Are children masters of their own destiny? If so, at what age? If not, are children their parent&#8217;s property? Can children be left to die or sold into slavery? Furthermore, what are the responsibilities of the parents to their child? If a father decides he no longer wants any part of his child&#8217;s life, can he stop supporting the child (and its mother?).</p>
+
+<p>These are the serious problems for children in Libertopia.</p>
+
+<p class="posted">posted by <a href="http://luke.francl.org/">Luke Francl</a> at January 27, 2004 11:05 AM <a href="#c382">#</a></p>
+
+</div><div id="c383">
+
+<p>Actually, forced to live in this non-libertopian society, I raise children for the tax credit benefits to force the government to return some of my money wrongly taken from me.</p>
+
+<p>Were I fortunate enough to live in libertopia, I would still have children, as they would assist me in some of my personal goals and freedoms.</p>
+
+<p>They could handle the dishes once old enough. I get to do something else. This is in trade for the education I give them. I enjoy teaching philosophy and their brains are spunges just waiting for more information, so I get to enjoy another personal freedom. Yes, it lowers my capital through some unfortunate expenses - food, shelter, clothing, etc. - but like all investments, if well-managed, there is a healthy return.</p>
+
+<p>(Pun intended, even if I do claim to be a non-extremist libertarian.)</p>
+
+<p class="posted">posted by <a href="http://aym.engel5.net">David</a> at January 27, 2004 11:46 AM <a href="#c383">#</a></p>
+
+</div><div id="c384">
+
+<blockquote>they are an investment and will look after you in your old age.</blockquote>
+
+<p>What&#8217;s the incentive? Just guilt? Surely there&#8217;d be no rational incentive to look after non-productive members of society. Libertopia starts to sound like Logan&#8217;s Run.</p>
+
+<blockquote>You must be thinking of the Objectivists</blockquote>
+
+<p>[Slaps forehead] How could anyone confuse the two?</p>
+
+<p class="posted">posted by <a href="http://crossroads.net/a">Adam Rice </a> at January 27, 2004 04:18 PM <a href="#c384">#</a></p>
+
+</div><div id="c388">
+
+<p>There are lots of separable issues here: whether people are &#8220;rational economic actors&#8221;, whether governments should abrogate some individual rights in order to increase the social welfare, and whether the government doing so for the purposes of child-raising would actually increase the social welfare.</p>
+
+<p>It&#8217;s obvious (to me) that rational economic actors do not engage in child-raising.  On the other hand, libertarians frequently do, and I would generally expect them to be good at it, as I generally think of libertarians as intelligent and responsible people.</p>
+
+<p>The real crux of the matter is issue number two: should the government abrogate some individual rights in order to increase the social welfare.  Non-libertarians generally say &#8220;Yes, in some circumstances.&#8221;.  Libertarians generally say &#8220;No, never.&#8221;, but there are two different possible reasons why they might say &#8220;No.&#8221; and unfortunately they are rarely clear about which reason motivates them.   Reason one: &#8220;Even if one could increase the social welfare by abrogating some individual rights, one shouldn&#8217;t &#8212; that would be inherently immoral.&#8221;.  Reason two: &#8220;One can&#8217;t actually increase the social welfare by abrogating individual rights.&#8221;.</p>
+
+<p>These two arguments seem compatible at first glance, but they lead to different kinds of thinking and ultimately different conclusions.  The first is a moral argument, which inspires strong emotion and fervor of belief.  As a moral absolute, it can sweep aside any amount of empirical data or empirical argument.</p>
+
+<p>The second argument is an empirical argument.  It does not inspire emotions quite so strong and fervent as the moral argument does.  People who hold to an empirical argument are generally more willing to consider counter-arguments which are based on evidence.</p>
+
+<p>The great intellectual failing of most libertarians is that they switch back and forth between these two arguments without realizing what they are doing.  This makes their belief system internally inconsistent.  The typical result is &#8220;back-filling&#8221;, where a libertarian has come to some conclusion because of his moral beliefs (argument one), and then attempts to justify his conclusion based on evidence (argument two).  This is inherently irrational, equivalient to a creationist who believes for moral reasons that the Earth is 4000 years old, but who justifies his belief with empirical or logical arguments.</p>
+
+<p class="posted">posted by <a href="http://zooko.com/log.html">Zooko</a> at January 28, 2004 09:27 AM <a href="#c388">#</a></p>
+
+</div><div id="c405">
+
+<p>Libertopians can handle children just fine, using economic motives. All they need is to legislate slavery. In libertopia, everyone can belong to their parents (or their parents&#8217; owners) until sold, or until they buy their freedom.</p>
+
+<p>Parents can sell their children to schools, or train them and sell them when fully trained.</p>
+
+<p>If your company needs, say, a relatively inexperienced software developer, chances are you would buy the developer from the school that completed his or her education. The school would have bought the child and expected to make a profit on its initial cost plus training and maintenance costs.</p>
+
+<p>Now we know perfectly well that people will have children just because they want them (dare we mention instinct?). In my view of libertopia, every possible effort would be made to suppress this instinct because it would tend to lower the value of fully trained slaves.</p>
+
+<p>- Precision Blogger 
+http://precision-blogging.blogspot.com</p>
+
+<p class="posted">posted by <a href="http://precision-blogging.blogspot.com">Precision Blogger </a> at January 29, 2004 12:30 PM <a href="#c405">#</a></p>
+
+</div><div id="c438">
+
+<p>It seems to me that you are confusing Libertarianism with some sort of radical Objectivist anarcho-capitalism. This is like saying all Republicans are abortion clinic bombing Christian fundamentalists or all Democrats are Communists.</p>
+
+<p class="posted">posted by <a href="http://www.dekorte.com">Steve Dekorte</a> at February  1, 2004 11:06 PM <a href="#c438">#</a></p>
+
+</div><div id="c442">
+
+<p>Bzzt, try again, Aaron. Each of your examples of &#8220;libertopia&#8221; have been based on egregious misunderstandings of Libertarianism. When I&#8217;ve pointed this out, you&#8217;ve changed the definition, adding you own qualifications that are not found anywhere in the real world. </p>
+
+<p>Either you&#8217;re answering a political theory that doesn&#8217;t actually exist, as you seem to be doing in reply to my comment above, or you&#8217;re completely misunderstanding Libertarianism. </p>
+
+<p>Libertarians have plenty of problems; that&#8217;s why I&#8217;m no longer one. But you&#8217;re not picking on their weak points, you&#8217;re making up weird stuff. </p>
+
+<p class="posted">posted by <a href="http://w6daily.winn.com/">Phillip Winn</a> at February  2, 2004 04:33 PM <a href="#c442">#</a></p>
+
+</div><div id="c474">
+
+<p>Call me a skeptic, but as Aaron has alluded to <a href="http://www.aaronsw.com/weblog/000915">here</a>, he believes there is a market for biased and inaccurate reporting on behalf of &#8220;the left&#8221;. It wouldn&#8217;t shock me in the least to find that this propping up of straw men in order to tear them down is simply a part of an attempt to do exactly that. To what specific purpose, I can&#8217;t surely say. I can, however, imagine a number of reasons for doing something similar (albeit with a slightly different slant) ranging from simply increased traffic/recognition to intellectual sport to a misguided attempt to make some sort of twisted &#8220;how does it feel?&#8221; point. I&#8217;m not suggesting that Aaron is doing this for any of those reasons, but it sure wouldn&#8217;t surprise me. And it might explain why many of the situations/arguments presented are so transparently absurd.</p>
+
+<p class="posted">posted by <a href="http://www.h2os.org">Cameron Watters</a> at February  5, 2004 01:11 PM <a href="#c474">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/2002/001141.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/mt-comments.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1141" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /><br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

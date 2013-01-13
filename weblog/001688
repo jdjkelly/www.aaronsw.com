@@ -1,0 +1,268 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Freakonomics (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001688.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001687" title="Stanford: Eat the Whales" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Freakonomics</h1>
+</div>
+
+<div class="content">
+<p><a href="http://images.amazon.com/images/P/006073132X.01._SCLZZZZZZZ_.jpg"><img src="http://images.amazon.com/images/P/006073132X.01._SCMZZZZZZZ_.jpg" alt="Book cover" class="img" /></a></p>
+
+<p>I happen to be taking a class on sociological methods. The other day we had a section where the TA showed us how to use SPSS, a GUI statistical analysis program. Usually such computer demos are pretty boring &#8212; pull down this menu here, click this button here, and so on &#8212; but this demo was magical: it used real data.</p>
+
+<p>The TA downloaded a listing of venture capitalists from the State of California. Then he downloaded the records of political campaign contributions from the Federal Election Commission. He merged the two files and calculated an index of party loyalty &#8212; how likely each person was to donate to the Democrats or Republicans. Then he graphed it. He found an anomaly in the data and went back and investigated it. </p>
+
+<p>The whole performance was oddly enthralling and I went up to ask him questions afterwards. &#8216;So you&#8217;re interested in statistics?&#8217; he asked me and I said yes and began to think about why. I&#8217;ve decided it&#8217;s because I like truth. If you like finding out the truth &#8212; which is often surprising &#8212; the best technique to use is science. And if you want to do serious science, sooner or later you&#8217;ll probably need statistics.</p>
+
+<p>In the field of surprising statistics, one name comes up frequently: Steven D. Levitt. And &#8212; surprise, surprise &#8212; Levitt has a new book out, <em>Freakonomics</em>. (As an aside, Levitt must have a great publicist because the book has been receiving tons of hype. It&#8217;s a good book, but not as good as the hype would make it seem. [^fn1] Nonetheless, I will put this aside in reviewing it.) The book consists of a popularization of the papers of Levitt and other interesting economists.</p>
+
+<p>As a result, the book doesn&#8217;t have much of a theme but covers a bunch of bizarre topics: how school teachers and sumo wrestlers cheat, how bagel eater don&#8217;t, how real estate agents and surgeons don&#8217;t have your best interests at heart, how to defeat the Ku Klux Klan, how <em>The Weakest Link</em> contestants demonstrates racism, how online daters lie, how drug dealing works like McDonalds, how abortion overthrows governments and fights crime, how to be a good parent, and what you can learn from children&#8217;s names.</p>
+
+<p>Despite his unusual interests and open mind, Levitt remains an economist and has the economist&#8217;s typical right-wing assumptions: most notably, a strong commitment to incentives and an unquestioning faith in societal order. For the former, it makes fun of criminologists by insisting the evidence that punishment deters criminals is &#8220;very strong&#8221;, but fails to provide a single citation (almost everything else in the book, even well-known facts, is scrupulously cited). For the latter, they simply assume that IQ is an accurate and inherited measure of intelligence, despite a rather glaring lack of evidence for this.</p>
+
+<p>Furthermore, in a section that uses parental interviews to pick out which parenting techniques are most effective, the authors almost entirely ignore the possibility that parents are lying &#8212; an omission they don&#8217;t make elsewhere. For example, they find no correlation between saying that you read to your children and your children doing well in school. From this they conclude that reading doesn&#8217;t matter; a far more likely explanation seems to be that nearly all parents <em>claim</em> they read to their children. (Thanks to Brad Delong <a href="http://delong.typepad.com/sdj/2005/03/freakonomics.html">for this criticism</a>.)</p>
+
+<p>But it&#8217;s still a fun and interesting book. However, I believe its most important point is one that&#8217;s not stated explicitly: that through the proper investigation of the numbers we can better understand our world.</p>
+
+<ul>
+<li><a href="http://freakonomics.com/">Official website</a></li>
+<li><a href="http://www.amazon.com/exec/obidos/ASIN/006073132X/coolbooks02/">Buy from Amazon</a></li>
+</ul>
+
+<p>[^fn1]: The stuff that Levitt is interested in &#8212; the reason why his book is interesting &#8212; is society, the field studied by sociology. In this sense, Freakonomics is really a sociology book. Yet its attitude toward sociologists could be parodied as &#8220;And thank goodness a sociologist risked his life by spending four years embedded with a drug gang because he managed to find a couple notebooks of business transactions that he could give to an economist!&#8221; One might expect that the picture of a drug gang resulting from four years of embedded research might be more interesting than a couple of notebooks, but apparently no.</p>
+
+<p>Sociologists write many amazingly well-written and fascinating books, even without the help of a professional co-author, yet none of them have seen anything like the publicity this book has. I don&#8217;t think it&#8217;s a coincidence that it took an economist to write a sociology book before it could be given publicity. Sociology raises too many problematic questions about society but an economist can do somewhat interesting things while continuing to endorse the status quo. (Even Levitt&#8217;s most radical finding &#8212; that legalizing abortion cut crime rates in half &#8212; leads him to insist that the finding has no direct relevance for public policy.)</p>
+
+<p class="posted">posted April 23, 2005 03:16 PM (<a class="category" href="cat_education">Education</a>) (<a href="#comments">11 comments</a>) <a href="001688" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001687" title="Stanford: Eat the Whales">&laquo; prev</a> | <a href="./">up</a> </p>
+
+<p><a href="001677">What Journalists Don&#8217;t: Lessons from the Times</a><br />
+<a href="001679">SFP: Come see us</a><br />
+<a href="001680">Stanford: The Cynic Returns</a><br />
+<a href="001686">Social Class in America</a><br />
+<a href="001687">Stanford: Eat the Whales</a><br />
+<strong>Freakonomics</strong><br />
+
+</p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c4877">
+
+<p>Thanks for pointing this book out.  Your favorite publication, the NY times, had a very good article on him in their sunday magazine a little over a year ago.  Interesting analyses of real estate and drug dealers.  </p>
+
+<p>At least that&#8217;s what I remember after reading an article about how there&#8217;s no class system in the US and before the piece about how god created Ninjas on the 9th day.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.allthingsalceste.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=4877">Dan Steingart</a> at April 23, 2005 04:28 PM <a href="#c4877">#</a></p>
+
+</div><div id="c4878">
+
+<p>My favourite quote on statistics:</p>
+
+<p>Statistical Thinking will one day be as necessary for efficient citizenship as the ability to read and write. &#8212; H.G. Wells</p>
+
+<p>And the day I understood the implications of truly (not) understanding the Bayes Theorem and how it plays a role in the forming of opinions, I knew how very true it is.</p>
+
+<p>Being from Germany I am lucky to say that there have been a few books on sociology, written by Sociologists, that became relatively popular. If you could read german I would recommend &#8220;Die Erlebnisgesellschaft&#8221; by Gerhard Schulze. The amount of empirical data he gathered and how well and carefully he interprets it and draws a larger theoretical theory is just amazing - given that the field is sociology. Combined with a very precise way of writing and communicating his ideas it is a real joy to read, despite the size of over 700 pages. Too bad there&#8217;s no translation of it&#8230;</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.sencer.de" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=4878">Sencer</a> at April 23, 2005 05:41 PM <a href="#c4878">#</a></p>
+
+</div><div id="c4879">
+
+<p>I have read several of your blogs, and I am surprised that you are so skeptical of economists. Have you read many economics texts? What do you find so troubling about incentives?</p>
+
+<p class="posted">posted by Michael at April 23, 2005 06:24 PM <a href="#c4879">#</a></p>
+
+</div><div id="c4881">
+
+<p>I have to admit I have not studied economics in much depth; I hope to do so soon. However, for a good primer on the massive problems with incentives, see Alfie Kohn&#8217;s work, especially <em>Punished By Rewards</em> and <em>No Contest: The Case Against Competition</em>, which amass and incredible body of psychological research to find that incentives like rewards, punishments, and competition are stunningly harmful and ineffective. (A post on Kohn will be published in a day or two.)</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=4881">Aaron Swartz</a> at April 23, 2005 07:04 PM <a href="#c4881">#</a></p>
+
+</div><div id="c4882">
+
+<p>2 favorite stat quotes:</p>
+
+<p>69% of all statistics are made up on the spot.</p>
+
+<p>Statistics are like a bikini - What they reveal is exciting but what they conceal is vital.</p>
+
+<p class="posted">posted by Phil at April 23, 2005 07:55 PM <a href="#c4882">#</a></p>
+
+</div><div id="c4884">
+
+<p>The NY Times also had a captivating article on Roland Fryer, one of Levitt&#8217;s collaborators [1], and his amazing path from dealing drugs to a professorship at Harvard.</p>
+
+<p>I enjoyed your review. I also share Michael&#8217;s interest in what your formal understanding of Economics is, and whether you would feel the same after having read more.</p>
+
+<p>Here I wish I could recommend books, unfortunately it&#8217;s difficult to find economics books that strike a proper balance between glossing over details and providing too much information to make for a comfortable (no pencil and paper required) read. Economists switch from positive to normative statements quickly, and their distinction often isn&#8217;t clear. So much has to be taken as given for advanced arguments, even though all the premises, all the way down to the bottom, may be uncertain. A consequence of this is that Economics as a field appears focused on using very rough models to answer certain questions, and there is a lot of confusion when the models are applied outside their domain. You can get a good feel for this from Paul Krugman [2].</p>
+
+<p>[1] http://query.nytimes.com/gst/abstract.html?res=FB0617F73E580C738EDDAA0894DD404482&amp;incamp=archive:search</p>
+
+<p>[2] http://web.mit.edu/krugman/www/islm.html</p>
+
+<p class="posted">posted by <a target="_blank" title="http://kingprimate.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=4884">Jeremiah Rogers</a> at April 23, 2005 10:52 PM <a href="#c4884">#</a></p>
+
+</div><div id="c4886">
+
+<p>&#8220;Levitt remains an economist and has the economist’s typical right-wing assumptions: most notably, a strong commitment to incentives and an unquestioning faith in societal order.&#8221;</p>
+
+<p>You seem to have a problem with incentives (as I gather from the above quote and your previous comment).  However, as you have admittedly not studied economics, how do you see society operating without incentives?  Why would I get up and go to work each day if not for the incentive that I get a paycheck at the end of the month?  Why would someone take the time to invent a new product if not for the incentive of wealth creation?  People are self-serving &#8212; we don&#8217;t do things out of the goodness of our hearts.  Also, the economics of incentive structures is not only a &#8220;right-winged&#8221; idea.  Don&#8217;t be so quick to label.</p>
+
+<p>As for the book about the case against competiton, I may have to read it just to see how he thinks any society without competition could operate efficiently, productively, and without hurting the citizens (consumers) of that society.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://nicoleswan.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=4886">Nicole</a> at April 24, 2005 01:13 AM <a href="#c4886">#</a></p>
+
+</div><div id="c4887">
+
+<p>i agree with previous posters here—i really don&#8217;t understand the animus against economics. no amount of theory can overcome what has been proven in practice in the soviet union, egypt, the eurozone, and elsewhere.</p>
+
+<p>how is a strong commitment to incentives a right-wing assumption? it&#8217;s a politically neutral belief that is quite easily demonstrable. i don&#8217;t understand why everything has to be partisan. harpers is typically a great magazine, and very forthcoming ideologically, but i recoiled at this month&#8217;s cover story—&#8221;the evangelical roots of economics.&#8221; it&#8217;s a misdirected attack on economic tomfoolery, but it reads like an indictment of the field. i fail to see how this is constructive.</p>
+
+<p>i consider myself a liberal at the end of the day, but i&#8217;m not hostile enough to label everything i disagree with as &#8220;right-wing,&#8221; especially if there&#8217;s little reason to do so. </p>
+
+<p>i enjoy reading your blog, post often!</p>
+
+<p class="posted">posted by Ben Moskowitz at April 24, 2005 02:39 AM <a href="#c4887">#</a></p>
+
+</div><div id="c4888">
+
+<p>As one of the senior faculty in my department, Carl Morris, once told me: Statistics is the only field where you don&#8217;t have to decide what you want to be when you grow up. Levitt is an economist though. ;-)</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.people.fas.harvard.edu/~bcellis" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=4888">Byron</a> at April 24, 2005 03:03 AM <a href="#c4888">#</a></p>
+
+</div><div id="c4889">
+
+<p>&#8230;how to defeat the Ku Klux Klan&#8230;&#8230;&#8230;?!?!?!?!?</p>
+
+<p class="posted">posted by <a target="_blank" title="http://mncw.tk/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=4889">bi</a> at April 24, 2005 04:28 AM <a href="#c4889">#</a></p>
+
+</div><div id="c4890">
+
+<p>@Ben Moskowitz: Was it by any change sth. relating to <a href="http://en.wikipedia.org/wiki/The_Protestant_Ethic_and_the_Spirit_of_Capitalism">(Wikipedia) The<em>Protestant</em>Ethic<em>and</em>the<em>Spirit</em>of_Capitalism</a> which was published one hundred years ago? It&#8217;s not like the look at the connection between economics and religion is a new thing. And you won&#8217;t have any trouble finding enough criticism of Weber&#8217;s work either.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.sencer.de" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=4890">Sencer</a> at April 24, 2005 05:04 AM <a href="#c4890">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001688.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1688" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

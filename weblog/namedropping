@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Namedropping (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Namedropping</h1>
+
+<p>I was having tea the other day with Nancy Pelosi, when she got a call from her good friend Tom Hanks. Tom wanted to tell her about how he&#8217;d been out with his favorite shopping partner, Paris Hilton, when Paris accidentally swung a bag of clothes into the face of her aide, Ken Burns. Ken, of course, was already feeling bad after losing his therapist, Warren Buffett. He had to fire him after Warren kept spending their sessions raving about his new chef, Frank Gehry. Frank, you know, always left work in a towering rage, going home to scream obscenities at his housekeeper, Thomas Friedman. Last time Thomas took it out on a cab driver, Woody Allen. Woody spent the rest of the day feeling dejected until, on his way home, he was approached by Richard Posner, covered in rags and begging for spare change.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">July 20, 2009</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>Welcome back.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://waffle.wootest.net/">Jesper</a>
+ on July 20, 2009 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>How was your month off?</p>
+
+<p class="posted">posted by PLJ
+ on July 20, 2009 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>What??? No mention of Kevin Bacon???</p>
+
+<p class="posted">posted by KiltBear
+ on July 20, 2009 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>Good to have you back.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://insidemississippi.org">Warren Yoder</a>
+ on July 20, 2009 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>I think you need another month off&#8230;</p>
+
+<p class="posted">posted by 
+ on July 20, 2009 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c6">
+<p>I don&#8217;t get it.</p>
+
+<p class="posted">posted by Larry Roberts
+ on July 21, 2009 <a href="#c6" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="namedropping" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

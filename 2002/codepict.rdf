@@ -1,0 +1,113 @@
+<rdf:RDF 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:wn="http://xmlns.com/wordnet/1.6/" 
+ xmlns:an="http://rdf.desire.org/vocab/recommend.rdf#" 
+ xmlns:s2="http://sophia.inria.fr/~enerbonn/rdfpiclang#" > 
+
+<rdf:Description rdf:about=""> 
+	<s2:xmllang>en</s2:xmllang>   
+	<dc:creator>
+		<foaf:Person>
+			<foaf:name>Aaron Swartz</foaf:name>
+		</foaf:Person>
+	</dc:creator>
+	<dc:date>1015177166279</dc:date>
+	<an:annotates rdf:resource="http://rdfweb.org/people/danbri/2001/06/mmw/images/p5290091.jpg" />  
+	<an:annotates rdf:resource="http://swordfish.rdfweb.org/photos/2001/07/30/000573.JPG" />  
+	<an:annotates rdf:resource="http://rdfweb.org/people/danbri/media/2001/09/27/photos/1/images/p1010011.jpg" />
+	<an:annotates rdf:resource="http://www.w3.org/2001/08/rdfweb/img/tbl-bc-ag.jpg" />  
+	<an:annotates rdf:resource="http://clinton1.nara.gov/White_House/EOP/OP/images/b_jfk.gif" />  
+	<an:annotates rdf:resource="http://www.coolstamps.com/trk98ss-sinatra-jfk.jpg" />
+</rdf:Description> 
+
+<rdf:Description rdf:about="http://clinton1.nara.gov/White_House/EOP/OP/images/b_jfk.gif"> 
+	<foaf:thumbnail rdf:resource="http://rdfweb.org/2002/01/photo/eg1/sm-p5-bill-jfk.jpg" />
+	<dc:description>Bill Clinton shakes hands with JFK.</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.w3.org/2001/08/rdfweb/img/tbl-bc-ag.jpg"> 
+	<foaf:thumbnail rdf:resource="http://rdfweb.org/2002/01/photo/eg1/sm-p4-tim-bill.jpg" />
+	<dc:description>Tim Berners-Lee goes to Washington (and sees President Clinton and Vice-President Gore).</dc:description>
+	<dc:coverage>Washington, D.C., USA</dc:coverage>
+	<foaf:location>
+		<foaf:Geo rdf:value="Washington, D.C., USA" />
+	</foaf:location>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://rdfweb.org/people/danbri/media/2001/09/27/photos/1/images/p1010011.jpg"> 
+	<foaf:thumbnail rdf:resource="http://rdfweb.org/2002/01/photo/eg1/sm-p3-lib-tim.jpg" />
+	<dc:description>Libby and TimBL walking somewhere.</dc:description>
+	<dc:date>2001-09-27</dc:date>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://rdfweb.org/people/danbri/2001/06/mmw/images/p5290091.jpg"> 
+	<foaf:thumbnail rdf:resource="http://rdfweb.org/2002/01/photo/eg1/sm-p1-dan-jan.jpg" />
+	<dc:description>Danbri and Jan have a pint at a picnic table.</dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://swordfish.rdfweb.org/photos/2001/07/30/000573.JPG"> 
+	<foaf:thumbnail rdf:resource="http://rdfweb.org/2002/01/photo/eg1/sm-p2-jan-lib.jpg" />
+	<dc:description>When Libby and Jan attack...</dc:description>
+	<dc:date>2001-07-30</dc:date>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.coolstamps.com/trk98ss-sinatra-jfk.jpg"> 
+	<foaf:thumbnail rdf:resource="http://rdfweb.org/2002/01/photo/eg1/sm-p6-jfk-frk.jpg" />
+	<dc:description>JFK dines with Frank Sinatra.</dc:description>
+</rdf:Description>
+
+<foaf:Person>
+	<foaf:name>Dan Brickley</foaf:name>
+	<foaf:mbox rdf:resource="mailto:danbri@w3.org" />
+	<foaf:depiction rdf:resource="http://rdfweb.org/people/danbri/2001/06/mmw/images/p5290091.jpg" />
+</foaf:Person>
+
+<foaf:Person>
+	<foaf:name>Jan Grant</foaf:name>
+	<foaf:mbox rdf:resource="mailto:jan.grant@bristol.ac.uk" />
+	<foaf:depiction rdf:resource="http://rdfweb.org/people/danbri/2001/06/mmw/images/p5290091.jpg" />
+	<foaf:depiction rdf:resource="http://swordfish.rdfweb.org/photos/2001/07/30/000573.JPG" />
+</foaf:Person>
+
+<foaf:Person>
+	<foaf:name>Libby Miller</foaf:name>
+	<foaf:mbox rdf:resource="mailto:libby.miller@bristol.ac.uk" />
+	<foaf:depiction rdf:resource="http://swordfish.rdfweb.org/photos/2001/07/30/000573.JPG" />
+	<foaf:depiction rdf:resource="http://rdfweb.org/people/danbri/media/2001/09/27/photos/1/images/p1010011.jpg" />
+</foaf:Person>
+
+<foaf:Person>
+	<foaf:name>Tim Berners-Lee</foaf:name>
+	<foaf:mbox rdf:resource="mailto:timbl@w3.org" />
+	<foaf:depiction rdf:resource="http://rdfweb.org/people/danbri/media/2001/09/27/photos/1/images/p1010011.jpg" />
+	<foaf:depiction rdf:resource="http://www.w3.org/2001/08/rdfweb/img/tbl-bc-ag.jpg" />
+</foaf:Person>
+
+<foaf:Person>
+	<foaf:name>Al Gore</foaf:name>
+	<foaf:mbox rdf:resource="mailto:vice.president-45@w3.org" />
+	<foaf:depiction rdf:resource="http://www.w3.org/2001/08/rdfweb/img/tbl-bc-ag.jpg" />
+</foaf:Person>
+
+<foaf:Person>
+	<foaf:name>William Jefferson Clinton</foaf:name>
+	<foaf:mbox rdf:resource="mailto:president-42@whitehouse.gov" />
+	<foaf:depiction rdf:resource="http://www.w3.org/2001/08/rdfweb/img/tbl-bc-ag.jpg" />
+	<foaf:depiction rdf:resource="http://clinton1.nara.gov/White_House/EOP/OP/images/b_jfk.gif" />
+</foaf:Person>
+
+<foaf:Person>
+	<foaf:name>John F. Kennedy</foaf:name>
+	<foaf:mbox rdf:resource="mailto:president-35@whitehouse.gov" />
+	<foaf:depiction rdf:resource="http://clinton1.nara.gov/White_House/EOP/OP/images/b_jfk.gif" />
+	<foaf:depiction rdf:resource="http://www.coolstamps.com/trk98ss-sinatra-jfk.jpg" /> 
+</foaf:Person>
+
+<foaf:Person>
+	<foaf:name>Frank Sinatra</foaf:name>
+	<foaf:mbox rdf:resource="mailto:me@franksinatra.com" />
+	<foaf:depiction rdf:resource="http://www.coolstamps.com/trk98ss-sinatra-jfk.jpg" />
+</foaf:Person>
+</rdf:RDF>

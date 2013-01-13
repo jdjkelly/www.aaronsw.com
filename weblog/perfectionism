@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Perfectionism (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Perfectionism</h1>
+
+<p>This may be hard for you to believe, but I&#8217;m something of a perfectionist. I get a special kind of joy out of tweaking every last detail until it&#8217;s just right, making sure each pixel is in its place. Unfortunately, I&#8217;ve never really been able to indulge this desire on any of my previous projects, either because my skills are too weak (no matter how much time I spend on it, I&#8217;ll never be able to craft a page like <a href="http://daringfireball.net/">John Gruber</a> can) or because time is too short.</p>
+
+<p>At Reddit, for example, we were always rushing-rushing-rushing to get more done. In <a href="http://paulgraham.com/die.html">a recent post</a>, Paul Graham suggests startups can make you rich if you simply make sure to email him once a week. At Reddit we had no such worries: Paul was sure to email us weekly, sometimes even daily, usually asking why we hadn&#8217;t added any new features to the site lately. (In fairness, it worked, I suppose.)</p>
+
+<p>When you get that question once a week, you get to try out many different answers, including questioning the premise. At first I give the usual low-level excuses: we weren&#8217;t feeling well this week, we had to go to a meeting, Alexis was out of town. Then we started in on more general principles: afraid of change, distracted by day-to-day fires, dissatisfaction with the codebase. And once I sent him <a href="http://www.slate.com/id/2141797"><em>Slate</em>&#8217;s suggestion that</a> &#8220;the Eccentrics&#8217; own egotistical indolence has resulted in self-imposed limits to their skills&#8212;at the very least it deprives the world of more of their unique cultural prognostications.&#8221; (He was not amused.)</p>
+
+<p>Paul eventually became convinced that we had written lots of good code but wouldn&#8217;t release it because we were perfectionists. <em>Knock it off</em>, he would tell us. <em>It&#8217;s more important to get it up than to get it right.</em> Paul had become convinced that users love seeing new features, it gave them the impression of an exciting vibrant site.</p>
+
+<p>There is something to this, of course. But I have a contrary proposal: users love perfectionism. Creating something brilliant is a process of continual refinement: adding bits where they&#8217;re needed, chipping off others that aren&#8217;t, and sanding everything smooth once it&#8217;s in place, then polishing it until it gleams. Do one thing, release it, and don&#8217;t stop releasing improvements until you do it really, really, well.</p>
+
+<p>Adding features is part of this, of course, but not at all the whole thing. You can&#8217;t create a great sculpture just by tossing on more and more clay.</p>
+
+<p>Meanwhile, even if users can&#8217;t immediately see all the subtle details you&#8217;ve added, they begin to add up to a feeling of &#8212; if you&#8217;re talented &#8212; delight. The software knows where you want to go and has already laid out the trail. The path is worn smooth and shiny. Everything looks beautiful along the way.  And every day it gets a little bit better.</p>
+
+<p>For my next startup, <a href="http://jottit.com/">Jottit</a>, that&#8217;s the plan.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">August 31, 2007</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>The problem with perfectionism is that users can never love what they never see&#8230; if a product never reaches perfection, the danger is that the the perfectionist either ends up never releasing it, or dumps out something they know is crap when they get sick of it (regardless of how great everyone else thinks it is) and loses interest in it forthwith.</p>
+
+<p class="posted">posted by Gwenhwyfaer
+ on August 31, 2007 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>I think Paul&#8217;s point doesn&#8217;t contradict yours&#8212;it sounds like he was just proposing that you live out loud. I think your first round of users are sort of expecting to be guinea pigs, and you need to carefully take advantage of them for their feedback. Simultaneously, you are stepping through continual refinement. Hopefully you reach a place of relative perfection by the time your next round of users come through the door, because they may not be as forgiving.</p>
+
+<p>I think refinement tends to follow a series of arcs where you add features and things until you realize there&#8217;s too much, then you remove and refine more until they&#8217;re back in balance. You could say this about any creative work. The top of the arc is the point where things are at their worst and most cluttered (eg. the four-button-plus-scroll-wheel iPod).</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.tashian.com/carl/">Carl Tashian</a>
+ on August 31, 2007 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>I think the difference between excellence and something that has a lot of investment (time and money) is that special quality called &#8220;talent&#8221;.</p>
+
+<p>Like your analogy to sculpture and the amount of clay applied: talent is knowing how much clay to apply and where to apply it.</p>
+
+<p>Timeless art (Michelangelo&#8217;s sculptures and ceiling work come to mind) have both: earth-shaking talent and a limitless capacity for personal investment in the effort to make that art.</p>
+
+<p>Make something that delites you and we&#8217;ll see the difference. You may not make any oney but neither did Michelangelo.</p>
+
+<p>In the tech world the difference is exemplified by Bill Gates and Gary Kildall. No one remembers CPM any more so we have to use Steve Jobs to illustrate excellence in technology. I can live with that&#8230; despite the fact that Jobs drives the talent absolutely crazy at times. In the Michelangelo paradigm he&#8217;s the Pope and not the artist: the patron of great works. Gary Kildall on the other hand&#8230; genius.</p>
+
+<p class="posted">posted by mcd
+ on August 31, 2007 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>Are you really that much of a perfectionist if you can&#8217;t properly spell &#8220;perfectionist&#8221;  (ie. your title)</p>
+
+<p class="posted">posted by Brash
+ on August 31, 2007 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>You&#8217;re totally wrong. Users could care less about perfection. Things have to sorta work most of the time, sure&#8230; anything beyond that is engineer OCD.</p>
+
+<p class="posted">posted by stark fist of reality
+ on August 31, 2007 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c6">
+<p>maybe we need both?</p>
+
+<p>Coda was high on the perfection scale, but they&#8217;re losing my excitement because they haven&#8217;t been releasing regularly.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://dydimustk.com/blog">tk</a>
+ on August 31, 2007 <a href="#c6" rel="bookmark">#</a></p>
+</div>
+<div id="c7">
+<p>You can so create a great sculpture just by tossing on more and more clay. If you do it right. OKCupid uses that method, and imho it&#8217;s pretty awesome.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.littleblur.com">Ben Donley</a>
+ on August 31, 2007 <a href="#c7" rel="bookmark">#</a></p>
+</div>
+<div id="c9">
+<p><a href="http://www.folklore.org/StoryView.py?story=Real_Artists_Ship.txt" rel="nofollow">Real Artists Ship</a>.</p>
+
+<p class="posted">posted by Jacob Rus
+ on August 31, 2007 <a href="#c9" rel="bookmark">#</a></p>
+</div>
+<div id="c10">
+<p>tk: Have you tried TextMate? ;)</p>
+
+<p class="posted">posted by Jacob Rus
+ on August 31, 2007 <a href="#c10" rel="bookmark">#</a></p>
+</div>
+<div id="c11">
+<p><a href="http://www.aaronsw.com/weblog/perfectionism#c1" rel="nofollow">Gwen&#8230;</a>: I&#8217;m not suggesting that you only release when you&#8217;re perfect. Just that it&#8217;s what you aim for.</p>
+
+<p><a href="http://www.aaronsw.com/weblog/perfectionism#c10" rel="nofollow">Rus</a>: TextMate is the last piece of software that delighted me, but I can&#8217;t remember the last time it shipped a genuine change.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on August 31, 2007 <a href="#c11" rel="bookmark">#</a></p>
+</div>
+<div id="c12">
+<p>There are 2 things to keep in mind:</p>
+
+<ol>
+<li><p>The quality of a delivered product or feature increases logarithmically with delivery time.</p></li>
+<li><p>The use value of a delivered product or feature decreases exponentially with delivery time.</p></li>
+</ol>
+
+<p>Let&#8217;s call the point on the time graph where the two plot lines intersect &#8220;perfect ship date&#8221; (PSD). Before PSD you&#8217;re creating value by not shipping and after PSD you&#8217;re destroying value by not shipping. Since the point is unknowable you have to choose which side of the point you&#8217;d rather err on.</p>
+
+<p>I think history shows that erring on the early side is a better survival strategy than erring on the late side. Worse is better: http://www.jwz.org/doc/worse-is-better.html</p>
+
+<p class="posted">posted by David Mathers
+ on August 31, 2007 <a href="#c12" rel="bookmark">#</a></p>
+</div>
+<div id="c13">
+<p>Another example of worse-is-better: I&#8217;m reading this on the World Wide Web, not on Xanadu.</p>
+
+<p class="posted">posted by David Mathers
+ on August 31, 2007 <a href="#c13" rel="bookmark">#</a></p>
+</div>
+<div id="c14">
+<p>I just read your thought again and I think I missed your point in my response.</p>
+
+<p>If your point is that a product that provokes an emotional response is delivering significantly more user value than one that is merely functional, then I agree completely.</p>
+
+<p class="posted">posted by David Mathers
+ on August 31, 2007 <a href="#c14" rel="bookmark">#</a></p>
+</div>
+<div id="c15">
+<p>Hey Aaron,</p>
+
+<p>I think you might appreciate the irony of publishing a post on your perfectionism that has a grammatical error in it.</p>
+
+<p>&#8220;&#8230;Paul Graham suggests startups can make you rich if you simple be sure to email him once a week.&#8221;</p>
+
+<p>Ian</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://iantriesagain.com/blog">Ian</a>
+ on August 31, 2007 <a href="#c15" rel="bookmark">#</a></p>
+</div>
+<div id="c16">
+<p>Aaron:</p>
+
+<blockquote>
+  <p>TextMate is the last piece of software that delighted me, but I can&#8217;t remember the last time it shipped a genuine change.</p>
+</blockquote>
+
+<p>Yeah, was just responding to tk&#8217;s comment about Coda.  And yeah, Allan had better get to work on that. :)</p>
+
+<p class="posted">posted by Jacob Rus
+ on September  1, 2007 <a href="#c16" rel="bookmark">#</a></p>
+</div>
+<div id="c17">
+<p>David Mathers:</p>
+
+<p>I think you&#8217;re on the right track, but not quite there.  In my view, a product can never be “merely functional.”  If it doesn&#8217;t provoke an emotional response, that&#8217;s critical missing functionality.</p>
+
+<p>Well-designed products minimize mental overhead through elegant simplicity.</p>
+
+<p class="posted">posted by Jacob Rus
+ on September  1, 2007 <a href="#c17" rel="bookmark">#</a></p>
+</div>
+<div id="c18">
+<p>Perfection isn&#8217;t as important as is a well-adapted system.  Determining which functionality best satisfies a majority of the uses for the largest sub-set(s) of your user base will prove more valuable than providing an exceedingly polished set of functions that don&#8217;t map as well to solving the problems your users are trying to solve.</p>
+
+<p class="posted">posted by John Siegrist
+ on September  3, 2007 <a href="#c18" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="perfectionism" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

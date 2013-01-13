@@ -1,0 +1,33 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+  <title>Aaron's JS Test</title>
+</head>
+<body>
+<div id="head">
+  <h1>Aaron's JS Test</h1>
+</div>
+<div class="content">
+<script language="JavaScript">
+<!--
+function rewrite() {
+  document.getElementById("thing").innerHTML = 
+     'Yay! This works in your browser.';
+}
+// -->
+ </script>
+
+<p><span id="thing">Click the link below. If nothing happens, then this doesn't work.</span></p>
+
+<p><a href="#" onClick="rewrite()">click here to test</a></p>
+
+<p>Gecko/20020826-20021104 passes.<br />
+IE5.1/Mac passes.<br />
+IE6 (SP1) on WinXP Pro passes.<br />
+OmniWeb 4.1.1 fails.<br />
+Safari passes.</p>
+
+<p>If you have a browser not listed here, please <a href="mailto:testjs@aaronsw.com">send in the results</a>.</p>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,47 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Books Consume Life (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000551" title="The Emergent Internet" />	<link rel="next" href="000554" title="got spam?" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Books Consume Life</h1>
+</div>
+
+<div class="content">
+<p>I&#8217;m the kind of crazy web-head who finds replacing paper book marks by storing current page numbers on a remote web-accessible-server I don&#8217;t control but can get my data out of via XML appealing. That&#8217;s probably why I like <a href="http://allconsuming.net/">All Consuming</a> so much.</p>
+
+<p>All Consuming is the weblogger&#8217;s book portal. It keeps track of the most mentioned books, let&#8217;s you post commentary on books via TrackBack and has a web/db set-up which lets you keep track of which books you&#8217;ve purchased, read and are reading, with export feeds in XML and RSS.</p>
+
+<p>For now I&#8217;ll point you to the page for <a href="http://allconsuming.net/item.cgi?id=068486875X">Emergence</a>, the book I read this weekend.</p>
+
+<p class="posted">posted September 01, 2002 02:48 PM (<a class="category" href="cat_technology">Technology</a>)  <a href="000553" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000551" title="The Emergent Internet">&laquo; prev</a> | <a href="./">up</a> | <a href="000554" title="got spam?">next &raquo;</a></p>
+
+<p><a href="000547">This is TrackBack. Blosxom, do you copy?</a><br />
+<a href="000548">Spring has Sprung!</a><br />
+<a href="000549">Am I Insane or Not?</a><br />
+<a href="000550">IMS/ISC Takes their Case to the BOGSAAT</a><br />
+<a href="000551">The Emergent Internet</a><br />
+<strong>Books Consume Life</strong><br />
+<a href="000554">got spam?</a><br />
+<a href="000557">MJD&#8217;s File of Good Advice</a><br />
+<a href="000558">There&#8217;s Only One Way To Do It</a><br />
+<a href="000559">JavaScript Form Validation Done Right</a><br />
+<a href="000564">Don&#8217;t Napsterize the Discussion, Guys!</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

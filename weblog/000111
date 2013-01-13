@@ -1,0 +1,43 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>&#8220;I think there is a (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/000111.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000110" title="Wow! I&#8217;m number three in" />	<link rel="next" href="000112" title="Retrospect for OS X" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>&#8220;I think there is a</h1>
+</div>
+
+<div class="content">
+<p>&#8220;I think there is a world market for maybe five computers.&#8221; - Thomas Watson Senior, Chairman of IBM, 1943.<p /><p />Now that we have global networks, perhaps Dr. Watson <a href="http://philip.greenspun.com/internet-application-workbook/distributed-computing">was off by four</a>&#8230;or four million.<p /><p />The future will be made of thousands of small pieces&mdash;computers, protocols, programming languages and people&mdash;all working together. We need to stop worrying about how to make everyone <a href="http://www.passport.com/">do the same thing</a>, and instead work on how to <a href="http://www.plexnow.com/">connect</a> the (<a href="http://www.w3.org/DesignIssues/UI">not so</a>) different things that people do <a href="http://www.w3.org/Addressing/schemes">together</a>.</p>
+
+<p class="posted">posted January 14, 2002 04:31 PM (<a class="category" href="cat_"></a>)  <a href="000111" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000110" title="Wow! I&#8217;m number three in">&laquo; prev</a> | <a href="./">up</a> | <a href="000112" title="Retrospect for OS X">next &raquo;</a></p>
+
+<p><a href="000106">Hmmph, I&#8217;m running into the</a><br />
+<a href="000107">Tony Collen: &#8220;Personally, I think</a><br />
+<a href="000108">Tony Collen found our secret</a><br />
+<a href="000109">Salon: e.e. cummings reads four</a><br />
+<a href="000110">Wow! I&#8217;m number three in</a><br />
+<strong>&#8220;I think there is a</strong><br />
+<a href="000112">Retrospect for OS X</a><br />
+<a href="000113">My new server vorpal shipped</a><br />
+<a href="000114">Apple: A special message to</a><br />
+<a href="000115">BBC: Wallace and Grommit return</a><br />
+<a href="000116">It&#8217;s great when code falls</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

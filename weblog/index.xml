@@ -1,0 +1,816 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:foaf="http://xmlns.com/foaf/0.1/"
+xmlns:cc="http://web.resource.org/cc/"
+xmlns="http://purl.org/rss/1.0/">
+  <channel rdf:about="http://www.aaronsw.com/weblog/index.xml">
+    <title>Raw Thought (from Aaron Swartz)</title>
+    <link>http://www.aaronsw.com/weblog/</link>
+    <description>"capture what you experience and sort it out; only in this way can you hope to use it to guide and test your reflection, and in the process shape yourself as an intellectual craftsman" -- C. Wright Mills</description>
+    <dc:language>en-us</dc:language>    
+    <dc:creator>Aaron Swartz</dc:creator> 
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="http://www.aaronsw.com/weblog/tdk" />
+        <rdf:li rdf:resource="http://www.aaronsw.com/weblog/looperexplained" />
+        <rdf:li rdf:resource="http://www.aaronsw.com/weblog/nummi" />
+        <rdf:li rdf:resource="http://www.aaronsw.com/weblog/geremiah" />
+        <rdf:li rdf:resource="http://www.aaronsw.com/weblog/anders" />
+        <rdf:li rdf:resource="http://www.aaronsw.com/weblog/dalio" />
+        <rdf:li rdf:resource="http://www.aaronsw.com/weblog/optimalbias" />
+        <rdf:li rdf:resource="http://www.aaronsw.com/weblog/semmelweis" />
+        <rdf:li rdf:resource="http://www.aaronsw.com/weblog/batmanbegins" />
+        <rdf:li rdf:resource="http://www.aaronsw.com/weblog/dweck" />
+        <rdf:li rdf:resource="http://www.aaronsw.com/weblog/burketdkr" />
+        <rdf:li rdf:resource="http://www.aaronsw.com/weblog/stepback" />
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="http://www.aaronsw.com/weblog/tdk">
+    <title>What Happens in <em>The Dark Knight</em></title>
+    <link>http://www.aaronsw.com/weblog/tdk</link>
+    <content:encoded><![CDATA[
+<p><em>Spoilers, obviously.</em></p>
+
+<p>As we&#8217;ve discussed, in <a href="http://www.aaronsw.com/weblog/batmanbegins"><em>Batman Begins</em></a> 1960s-style full employment and antipoverty programs lead to skyrocketing crime while in <a href="http://www.aaronsw.com/weblog/tdkr"><em>The Dark Knight Rises</em></a> 1980s-style tough-on-crime policies and neoliberal economics lead to a revolt of the economic underclass. The films are mirror images, one about the failure of liberal policies; the other about the failure of conservative policies. In this sense, <em>The Dark Knight</em> is truly the final film in this nihilistic trilogy, documenting the hopelessness of anything outside that usual left-right struggle.</p>
+
+<p>From the start, the city is torn about how to handle the Batman, who has inspired a wave of second-rate imitators. Some believe it&#8217;s wrong to be idolizing a masked vigilante, but most (including the new DA, Harvey Dent) approve of his results.</p>
+
+<p>Dent is doing his own part to lock up the criminals, working inside the system. He&#8217;s arrested all the mob bankers (except Lau) and is now going after the gangsters themselves, starting with mob boss Maroni (who took over for mob boss Falcone). But while the prosecutions bring him a great deal of political attention, they don&#8217;t seem to achieve much in the way of concrete results &#8212; new gangsters spring up to take the place of whoever Dent arrests.</p>
+
+<p>Dent decides the only way to win is to go big &#8212; really big. He arrests everyone at once, on charges that are unlikely to stick. Dent doesn&#8217;t care that he&#8217;s breaking the rules, as long as it solves the problem. He cites the Romans who suspended democracy to protect their city. (Although, as Rachel points out, they ended up losing democracy.) &#8220;You either die a hero or you live long enough to see yourself become the villain,&#8221; Dent explains. He hopes to take up Batman&#8217;s mantle, but do it from inside the system.</p>
+
+<p>But, as the mayor explains, Dent isn&#8217;t just taking on his own sense of ethics, he&#8217;s taking on the entire system: &#8220;the mob, politicians, journalists, cops &#8212; anyone whose wallet&#8217;s about to get lighter&#8221;. If he fails, both of their careers are over.</p>
+
+<p>Just as Dent is frustrated with the justice system, the Joker is frustrated with the criminals. He tells them they need to go big: they need to kill the Batman. He offers to do it for a sizable sum of money, which the gangsters eventually agree to. The Joker is obsessed with the <em>homo economicus</em> of game theory (from whence his name?): when the gangsters ask why he needs the money to kill the Batman, he explains &#8220;Like my mother used to tell me: if you&#8217;re good at something, never do it for free.&#8221;</p>
+
+<p>The film opens with the Joker hiring five men to rob a mob bank: Dopey silences the alarm, Happy shoots him and drills through the vault, Grumpy shoots him and empties the cash into duffel bags, a bus runs him over, Bozo shoots the bus driver. Finally, Bozo pulls off his mask to reveal he&#8217;s the Joker. This is a classic <a href="http://en.wikipedia.org/wiki/Pirate_game">pirate game</a> and, just as in the theory, the Joker gets to keep almost all the cash.</p>
+
+<p>Batman eventually tries to track down the Joker by threatening the gangster Maroni. But it&#8217;s no use, as Maroni explains: &#8220;No one&#8217;s gonna tell you anything&#8212;they&#8217;re wise to your act&#8212;you got rules. The Joker, he&#8217;s got no rules. No one&#8217;s gonna cross him for you.&#8221; This is a straightforward application of game theory&#8217;s <a href="http://crookedtimber.org/2006/11/29/reputations-are-made-of/">Davies-Folk theorem</a>: the rational thing is to seem irrational so your opponents can&#8217;t count on you doing the rational thing.</p>
+
+<p>Alfred sees this quickly, because it reminds him of a story from his own past:</p>
+
+<blockquote>
+  <p>I was in Burma. A long time ago. My friends and I were working for the local government. They were trying to buy the loyalty of tribal leaders, bribing them with precious stones. But their caravans were being raided in a forest north of Rangoon by a bandit. We were asked to take care of the problem, so we started looking for the stones. But after six months, we couldn&#8217;t find <em>anyone</em> who had traded with him. &#8230; One day I found a child playing with a ruby as big as a tangerine. &#8230; The bandit had been throwing the stones away. &#8230; Some men just want to watch the world burn.</p>
+</blockquote>
+
+<p>Note the parallels. In Alfred&#8217;s story the entire status quo (including the local government and tribal leaders) is totally corrupt: <em>the official plan</em> is to bribe people. But the plan is defeated by someone even crazier, someone willing to steal the money but not interested in keeping it for himself.</p>
+
+<p>Sure enough, when the Joker finally does get his hands on the money, he merely lights it on fire.</p>
+
+<p>Meanwhile, Dent&#8217;s ethical compromises begin to grow and grow. When he kidnaps one of the Joker&#8217;s thugs, he tries to threaten information out of him. This is something Batman does routinely, but Batman reminds Dent that Dent can&#8217;t get away with that sort of thing &#8212; it&#8217;d destroy his credibility as an insider.</p>
+
+<p>In a climactic scene, the Batman finally confronts the Joker in the middle of the street. The Joker knows Batman lives by just one rule (&#8220;I will not be an executioner&#8221;) and encourages him to break it and kill him. But Batman can&#8217;t bring himself to do it, he swerves at a key moment and ends up smashed while the Joker survives. (Yep: the Joker has just won the game of <a href="http://en.wikipedia.org/wiki/Chicken_(game)">chicken</a>.)</p>
+
+<p>When he comes to, the Joker tells Batman that despite nominally working outside the system, he&#8217;s actually just the system&#8217;s pawn:</p>
+
+<blockquote>
+  <p>To them you&#8217;re a freak like me. They just need you right now. &#8230; But as soon as they don&#8217;t, they&#8217;ll cast you out like a leper. &#8230; Their morals, their code&#8230; it&#8217;s a bad joke. Dropped at the first sign of trouble. They&#8217;re only as good as the world <em>allows</em> them to be. You&#8217;ll see&#8212;I&#8217;ll show you&#8230;</p>
+  
+  <p>You have these rules. And you think they&#8217;ll save you. &#8230; [But t]he only sensible way to live in this world is <em>without</em> rules.</p>
+</blockquote>
+
+<p>Gordon arrests the Joker and takes him to the major crimes unit, only to find the Joker claiming Gordon does not actually control the unit &#8212; his people actually working for mob boss Maroni. &#8220;Does it depress you, Lieutenant, to know how alone you are?&#8221; he asks (a classic <a href="http://en.wikipedia.org/wiki/Principal-agent_problem">principal-agent problem</a>).</p>
+
+<p>The Joker has kidnapped both Dent and Rachel and set them both to blow so that Batman can only rescue one (<a href="http://en.wikipedia.org/wiki/Opportunity_cost">opportunity cost</a>). Batman goes to rescue Rachel but the Joker has switched their addresses and he actually ends up rescuing Dent<sup id="fnref:pb"><a href="#fn:pb" rel="footnote">1</a></sup>. Rachel dies and Dent loses half his face, becoming Two-Face.</p>
+
+<p>Reese, one of Bruce Wayne&#8217;s employees goes on TV and threatens to reveal the identity of the Batman, but the Joker calls in and asks him to stop. &#8220;I had a vision,&#8221; he says. &#8220;Of a world without Batman. The mob ground out a little profit and the police tried to shut them down, one block at a time&#8230; and it was so&#8230; boring. I&#8217;ve had a change of heart.&#8221; He threatens to blow up a hospital unless someone kills Reese. (He has thus constructed a <a href="http://en.wikipedia.org/wiki/Trolley_problem">trolley problem</a>: people must decide whether it&#8217;s better to let the 100 die or kill the 1.)</p>
+
+<p>At the hospital, the Joker explains things to Dent:</p>
+
+<blockquote>
+  <p>Do I really look like a guy with a plan, Harvey? I don&#8217;t have a plan&#8230; The mob has plans, the cops have plans. &#8230; Maroni has plans. Gordon has plans. Schemers trying to control their worlds. I&#8217;m not a schemer, I show the schemers how pathetic their attempts to control things really are.</p>
+  
+  <p>It&#8217;s the schemers who put you where you are. You were a schemer. You had plans. Look where it got you. &#8230; Nobody panics when the <em>expected</em> people get killed. Nobody panics when things go according to plan, even if the plan is horrifying. If I tell the press that tomorrow a gangbanger will get shot, or a truckload of soldiers will be blown up, nobody panics. Because it&#8217;s all part of the plan. But when I say that one little old mayor will die, everybody loses their minds! Introduce a little anarchy, you upset the established order and everything becomes chaos. I&#8217;m an agent of chaos. And you know the thing about chaos, Harvey? &#8230; It&#8217;s <em>fair</em>.</p>
+</blockquote>
+
+<p>This pushes Dent over the edge. He starts going after everyone responsible for killing Rachel: He starts with Weurtz, who kidnapped him. Weurtz gives up Maroni, who points to Ramirez, who helps him get Gordon&#8217;s family, who naturally gets Gordon.</p>
+
+<p>Batman, meanwhile, is also crossing lines. In his attempt to find the Joker, he has turned every cell phone into a spy device. Even he admits this might be too much power for one man to have.</p>
+
+<p>The Joker scares the city onto its two ferries. Once the ferries are in the middle of the water, he cuts their power and gives them both a button to blow up the other ferry, thereby constructing a <a href="http://en.wikipedia.org/wiki/Prisoner's_dilemma">prisoner&#8217;s dilemma</a> (one boat is filled with real prisoners). The passengers discuss and vote. One of the prisoners makes a <a href="http://en.wikipedia.org/wiki/Ulysses_pact">Ulysses pact</a> and <a href="http://en.wikipedia.org/wiki/Dynamic_inconsistency">credibly commits</a> by tossing the detonator overboard.</p>
+
+<p>The Joker also took a busload of people from the hospital to the Prewitt Building where, through the window, you can see Joker&#8217;s thugs with guns holding hospital people hostage. Gordon rushes in to get the thugs, but Batman discovers the thugs are hostages and the hostages are the thugs. (The Joker is illustrating <a href="http://en.wikipedia.org/wiki/The_Market_for_Lemons">&#8220;The Market for Lemons&#8221;</a>: if the Joker is making it easy for you to kill his henchmen, why should you believe they&#8217;re actually his henchmen?)</p>
+
+<p>(Batman saves the hostages (dressed as thugs) and stops the SWAT team and takes out the thugs (dressed as hostages). Neither of the boats decides to blow up the other and Batman prevents the Joker from triggering the failsafe.)</p>
+
+<p>He then goes to rescue Gordon, who is trying to stop Dent from killing his family. Dent explains his new philosophy:</p>
+
+<blockquote>
+  <p>You thought we could be decent men in an indecent time. You thought we could lead by example. You thought the rules could be bent but not break&#8230;<sup id="fnref:fn1"><a href="#fn:fn1" rel="footnote">2</a></sup> you were wrong. The world is cruel. And the only morality in a cruel world is chance. Unbiased. Unprejudiced. <em>Fair.</em></p>
+</blockquote>
+
+<p>Throughout the film, we&#8217;ve seen various desperate attempts to change the system by ignoring the usual rules: Batman originally thought he could inspire change by being a cultural exemplar, but only ended up causing a bunch of kids to get themselves hurt by dressing up as him. Dent thought he could clean up the system by pushing righteously from the inside, but ended up cutting more and more ethical corners until his own personal obsessions ended up making him a monster. The Joker had by far the most interesting plan: he hoped to out-corrupt the corrupters, to take their place and give the city &#8220;a better class of criminal&#8221;.</p>
+
+<p>And the crazy thing is that it works! At the end of the movie, the Joker is alive, the gangsters and their money launderers are mostly dead, and their money has been redistributed (albeit though the deflationary method of setting it on fire). And, as we see from the beginning of the third movie, this is a fairly stable equilibrium: with politicians no longer living in fear of the gangsters, they&#8217;re free to adopt tough anti-crime policies that keep them from rising again.<sup id="fnref:f"><a href="#fn:f" rel="footnote">3</a></sup></p>
+
+<p>The movie concludes by emphasizing that Batman must become the villain, but as usual it never stops to notice that the Joker is actually the hero. But even though his various games only have one innocent casualty, he&#8217;s much too crazy to be a viable role model for Batman. His inspired chaos destroys the criminals, but it also terrorizes the population. Thanks to Batman, society doesn&#8217;t devolve into a self-interested war of all-against-all, as he apparently expects it to, but that doesn&#8217;t mean anyone enjoys the trials.</p>
+
+<p>Thus Master Wayne is left without solutions. Out of options, it&#8217;s no wonder the series ends with his staged suicide.</p>
+
+<div class="footnotes">
+<hr />
+<ol>
+
+<li id="fn:pb">
+<p>I&#8217;m actually not sure which game this is supposed to be. It&#8217;s a bit like the poisoned goblets game in <em>The Princess Bride</em>, but I can&#8217;t find a name for it in the literature.&#160;<a href="#fnref:pb" rev="footnote">&#8617;</a></p>
+</li>
+
+<li id="fn:fn1">
+<p>These two sentences are in the shooting script but got cut from the film version: &#8220;You thought we could lead by example. You thought the rules could be bent but not break&#8230;&#8221;&#160;<a href="#fnref:fn1" rev="footnote">&#8617;</a></p>
+</li>
+
+<li id="fn:f">
+<p>This also explains why the law-and-order crowd seems so miffed about succeeding &#8212; it wasn&#8217;t actually their policies that succeeded.&#160;<a href="#fnref:f" rev="footnote">&#8617;</a></p>
+</li>
+
+</ol>
+</div>
+
+]]></content:encoded>
+	<dc:date>2012-11-01T13:15:49-00:00</dc:date>
+  </item>
+  <item rdf:about="http://www.aaronsw.com/weblog/looperexplained">
+    <title>How Looper Works</title>
+    <link>http://www.aaronsw.com/weblog/looperexplained</link>
+    <content:encoded><![CDATA[
+<p>First off, go see <em>Looper</em>. One of the best movies I&#8217;ve seen. Spoilers follow.</p>
+
+<p>OK, let&#8217;s start by explaining how a looper&#8217;s career is supposed to look. You get hired as a looper, spend your time sitting in a corn field shooting people, eventually shoot yourself and get a big payday, live off of it for thirty more years, then get kidnapped and sent back in time and shot by yourself. Notice that this is a stable timeloop: young you grows old, goes back in time, gets shot by young you, who grows old, goes back in time, gets shot by young you, who grows old &#8230; etc.</p>
+
+<p>But time travel doesn&#8217;t eliminate free will. We see this with the case of Seth (Paul Dano / Frank Brennan). Instead of shooting Old Seth, Young Seth decides to let him escape. This too is a stable timeloop: young Seth grows old, goes back in time, escapes, lives in hiding while young Seth grows old, goes back in time, escapes, lives in hiding while &#8230; .</p>
+
+<p>But other characters have free will too: young Joe (Joseph Gordon-Levitt) decides to give young Seth up. The gang cuts off one of young Seth&#8217;s fingers, pushing him into a new timeloop: young Seth gets caught, loses one of his fingers, goes back in time, escapes, while young Seth gets caught, loses one of his fingers, goes back in time, escapes, etc. With each new choice by the gang to let old Seth change young Seth&#8217;s future (and thus old Seth&#8217;s past), we head into a new timeloop, where old Seth has a different past (and thus different memories and different missing limbs).</p>
+
+<p>In the first main timeloop (shown second in the movie, via a flashback), young Joe shoots old Joe, goes to China, becomes an unusually-talented agent of violence, finds true love, is kidnapped and sent back in time, and gets killed by young Joe, who goes on to do the same thing. This too is a nice stable timeloop.</p>
+
+<p>But on one of these runs through the loop, old Joe manages to overpower the guards and, while he does go back in time, he manages to keep young Joe from killing him. He escapes into the field, finds the location of young Cid, then comes back to shoot Cid&#8217;s mother while Cid escapes into field and stows away on a train. Cid grows up to be the Rainmaker and Joe grows old. Cid&#8217;s henchmen murder old Joe&#8217;s wife but are overpowered by old Joe, who goes back in time to try again to kill Cid, who again escapes to become the Rainmaker and kill Joe&#8217;s wife. This too is a stable timeloop, although we see some of it only in speculative flash-forwards (I&#8217;ll explain why in a moment).</p>
+
+<p>Which timeloop are we watching? Well, we&#8217;re watching the story of a particular instance of Joe, who we&#8217;ll call Movie Joe. Movie Joe only exists, however, because of a choice made by Flashback Joe (the Joe we see in the flashback that begins when Movie Joe is falling from his apartment). Flashback Joe is born, grows up, decides to give up Seth, closes his own loop, grows old, overpowers the henchmen, goes back in time, knocks out Movie Joe, hunts down Cid, and is about to kill Cid&#8217;s mother.</p>
+
+<p>But Flashback Joe is not the protagonist of the film. The protagonist is Movie Joe. Movie Joe is born, grows up, decides to give up Seth, fails to close his loop, goes to protect Cid. Normally, young Joe fails and heads into a timeloop where Cid stows away on the train and becomes the Rainmaker. But Movie Joe somehow is able to foresee this future and concludes the only way to prevent it is to kill himself. Since he dies there, he never grows old and never goes back in time, leading to a timeline where Flashback Joe doesn&#8217;t ever exist. Note, this is not a stable timeloop (because Movie Joe only kills himself to stop Flashback Joe, who can&#8217;t exist if Movie Joe kills himself) but instead just a garden-variety timeline. In this timeline, presumably, Sarah keeps Cid from growing evil and everything ends happily ever after.</p>
+
+<p>Next week we&#8217;ll explain <em>Primer</em>.</p>
+
+]]></content:encoded>
+	<dc:date>2012-10-08T22:35:14-00:00</dc:date>
+  </item>
+  <item rdf:about="http://www.aaronsw.com/weblog/nummi">
+    <title>Fix the machine, not the person</title>
+    <link>http://www.aaronsw.com/weblog/nummi</link>
+    <content:encoded><![CDATA[
+<p><em>This post is part seven of the series <a href="rawnerve">Raw Nerve</a>.</em></p>
+
+<p>The General Motors plant in Fremont was a disaster. &#8220;Everything was a fight,&#8221; the head of the union admits. &#8220;They spent more time on grievances and on things like that than they did on producing cars. They had strikes all the time. It was just chaos constantly. &#8230; It was considered the worst workforce in the automobile industry in the United States.&#8221;</p>
+
+<p>&#8220;One of the expressions was, you can buy anything you want in the GM plant in Fremont,&#8221; adds Jeffrey Liker, a professor who studied the plant. &#8220;If you want sex, if you want drugs, if you want alcohol, it&#8217;s there. During breaks, during lunch time, if you want to gamble illegally&#8212;any illegal activity was available for the asking within that plant.&#8221; Absenteeism was so bad that some mornings they didn&#8217;t have enough employees to start the assembly line; they had to go across the street and drag people out of the bar.</p>
+
+<p>When management tried to punish workers, workers tried to punish them right back: scratching cars, loosening parts in hard-to-reach places, filing union grievances, sometimes even building cars unsafely. It was war.</p>
+
+<p>In 1982, GM finally closed the plant. But the very next year, when Toyota was planning to start its first plant in the US, it decided to partner with GM to reopen it, hiring back the same old disastrous workers into the very same jobs. And so began the most fascinating experiment in management history.</p>
+
+<p>Toyota flew this rowdy crew to Japan, to see an entirely different way of working: The Toyota Way. At Toyota, labor and management considered themselves on the same team; when workers got stuck, managers didn&#8217;t yell at them, but asked how they could help and solicited suggestions. It was a revelation. &#8220;You had union workers&#8212;grizzled old folks that had worked on the plant floor for 30 years, and they were hugging their Japanese counterparts, just absolutely in tears,&#8221; recalls their Toyota trainer. &#8220;And it might sound flowery to say 25 years later, but they had had such a powerful emotional experience of learning a new way of working, a way that people could actually work together collaboratively&#8212;as a team.&#8221;</p>
+
+<p>Three months after they got back to the US and reopened the plant, everything had changed. Grievances and absenteeism fell away and workers started saying they actually enjoyed coming to work. The Fremont factory, once one of the worst in the US, had skyrocketed to become the best. The cars they made got near-perfect quality ratings. And the cost to make them had plummeted. It wasn&#8217;t the workers who were the problem; it was the system.<sup id="fnref:tal"><a href="#fn:tal" rel="footnote">1</a></sup></p>
+
+<hr />
+
+<p>An organization is not just a pile of people, it&#8217;s also a set of structures. It&#8217;s almost like a machine made of men and women. Think of an assembly line. If you just took a bunch of people and threw them in a warehouse with a bunch of car parts and a manual, it&#8217;d probably be a disaster. Instead, a careful structure has been built: car parts roll down on a conveyor belt, each worker does one step of the process, everything is carefully designed and routinized. Order out of chaos.</p>
+
+<p>And when the system isn&#8217;t working, it doesn&#8217;t make sense to just yell at the people in it &#8212; any more than you&#8217;d try to fix a machine by yelling at the gears. True, sometimes you have the wrong gears and need to replace them, but more often you&#8217;re just using them in the wrong way. When there&#8217;s a problem, you shouldn&#8217;t get angry with the gears &#8212; you should fix the machine.</p>
+
+<p>If you have goals in life, you&#8217;re probably going to need some sort of organization. Even if it&#8217;s an organization of just you, it&#8217;s still helpful to think of it as a kind of machine. You don&#8217;t need to do every part of the process yourself &#8212; you just need to set up the machine so that the right outcomes happen.</p>
+
+<p>For example, let&#8217;s say you want to build a treehouse in the backyard. You&#8217;re great at sawing and hammering, but architecture is not your forte. You build and build, but the treehouses keep falling down. Sure, you can try to get better at architecture, develop a better design, but you can also step back, look at the machine as a whole, and decide to fire yourself as the architect. Instead, you find a friend who loves that sort of thing to design the treehouse for you and you stick to actually building it. After all, your goal was to build a treehouse whose design you like &#8212; does it really matter whether you&#8217;re the one who actually designed it?<sup id="fnref:dalio"><a href="#fn:dalio" rel="footnote">2</a></sup></p>
+
+<p>Or let&#8217;s say you really want to get in shape, but never remember to exercise. You can keep beating yourself up for your forgetfulness, or you can put a system in place. Maybe you have your roommate check to see that you exercise before you leave your house in the morning or you set a regular time to consistently go to the gym together. Life isn&#8217;t a high school exam; you don&#8217;t have to solve your problems on your own.</p>
+
+<hr />
+
+<p>In 1967, Edward Jones and Victor Harris gathered a group of college students and asked them to judge another student&#8217;s exam (the student was a fictional character, but let&#8217;s call him Jim). The exam always had one question, asking Jim to write an essay on Fidel Castro &#8220;as if [he] were giving the opening statement in a debate.&#8221; But what sort of essay Jim was supposed to write varied: some of them required Jim to write a <em>defense</em> of Castro, others required Jim to write a <em>critique</em> of Castro, the rest left the choice up to Jim. The kids in the experiment were asked to read Jim&#8217;s essay and then were asked whether they thought Jim himself was pro- or anti-Castro.</p>
+
+<p>Jones and Harris weren&#8217;t expecting any shocking results here; their goal was just to show the obvious: that people would conclude Jim was pro-Castro when he voluntarily chose write to a pro-Castro essay, but not when he was forced to by the teacher. But what they found surprised them: even when the students could easily see the question <em>required</em> Jim to write a pro-Castro essay, they still rated Jim as significantly more pro-Castro. It seemed hard to believe. &#8220;Perhaps some of the subjects were inattentive and did not clearly understand the context,&#8221; they suspected.</p>
+
+<p>So they tried again. This time they explained the essay was written for a debate tournament, where the student had been randomly assigned to either the for or against side of the debate. They wrote it in big letters on the blackboard, just to make this perfectly clear. But again they got the same results &#8212; even more clearly this time. They still couldn&#8217;t believe it. Maybe, they figured, students thought Jim&#8217;s arguments were so compelling he must really believe them to be able to come up with them.</p>
+
+<p>So they tried a third time &#8212; this time recording Jim on tape along with the experimenter <em>giving him the arguments</em> to use. Surely no one would think Jim came up with them on his own now. Again, the same striking results: students were persuaded Jim believed the arguments he said, even when they knew he had no choice in making them.<sup id="fnref:jh"><a href="#fn:jh" rel="footnote">3</a></sup></p>
+
+<p>This was an extreme case, but we make the same mistake all the time. We see a sloppily-parked car and we think &#8220;what a terrible driver,&#8221; not &#8220;he must have been in a real hurry.&#8221; Someone keeps bumping into you at a concert and you think &#8220;what a jerk,&#8221; not &#8220;poor guy, people must keep bumping into him.&#8221; A policeman beats up a protestor and we think &#8220;what an awful person,&#8221; not &#8220;what terrible training.&#8221; The mistake is so common that in 1977 Lee Ross decided to name it the &#8220;fundamental attribution error&#8221;: we attribute people&#8217;s behavior to their personality, not their situation.<sup id="fnref:lr"><a href="#fn:lr" rel="footnote">4</a></sup></p>
+
+<hr />
+
+<p>Our natural reaction when someone screws up is to get mad at them. This is what happened at the old GM plant: workers would make a mistake and management would yell and scream. If asked to explain the yelling, they&#8217;d probably say that since people don&#8217;t like getting yelled at, it&#8217;d teach them be more careful next time.</p>
+
+<p>But this explanation doesn&#8217;t really add up. Do you think the workers liked screwing up? Do you think they enjoyed making crappy cars? Well, we don&#8217;t have to speculate: we know the very same workers, when given the chance to do good work, took pride in it and started actually enjoying their jobs.</p>
+
+<p>They&#8217;re just like you, when you&#8217;re trying to exercise but failing. Would it have helped to have your friend just yell and scream at you for being such a lazy loser? Probably not &#8212; it probably would have just made you feel worse. What worked wasn&#8217;t yelling, but changing the system around you so that it was easier to do what you already wanted to do.</p>
+
+<p>The same is true for other people. Chances are, they don&#8217;t <em>want</em> to annoy you, they don&#8217;t like screwing up. So what&#8217;s going to work isn&#8217;t yelling at them, but figuring out how to change the situation. Sometimes that means changing how you behave. Sometimes that means bringing another person into the mix. And sometimes it just means simple stuff, like changing the way things are laid out or putting up reminders.</p>
+
+<p>At the old GM plant, in Fremont, workers were constantly screwing things up: &#8220;cars with engines put in backwards, cars without steering wheels or brakes. Some were so messed up they wouldn&#8217;t start, and had to be towed off the line.&#8221; Management would yell at the workers, but what could you do? Things were moving so fast. &#8220;A car a minute don&#8217;t seem like it&#8217;s moving that fast,&#8221; noted one worker, &#8220;but when you don&#8217;t get it, you&#8217;re in the hole. There&#8217;s nobody to pull you out at General Motors, so you&#8217;re going to let something go.&#8221;</p>
+
+<p>At the Toyota plant, they didn&#8217;t just let things go. There was a red cord running above the assembly line, known as an andon cord, and if you ever found yourself in the hole, all you had to do was pull it, and the whole line would stop. Management would come over and ask you how they could help, if there was a way they could fix the problem. And they&#8217;d actually listen &#8212; and do it!</p>
+
+<p>You saw the results all over the factory: mats and cushions for the workers to kneel on; hanging shelves traveling along with the cars, carrying parts; special tools invented specifically to solve problems the workers had identified. Those little things added up to make a big difference.</p>
+
+<p>When you&#8217;re upset with someone, all you want to do is change the way they&#8217;re acting. But you can&#8217;t control what&#8217;s inside a person&#8217;s head. Yelling at them isn&#8217;t going to make them come around, it&#8217;s just going to make them more defiant, like the GM workers who keyed the cars they made.</p>
+
+<p>No, you can&#8217;t force other people to change. You can, however, change just about everything else. And usually, that&#8217;s enough.</p>
+
+<form method="post" action="http://mailer.aaronsw.com/subscribe"><p>Email me about new posts: <input type="text" name="email" /> <button type="submit">Go</button><input type="hidden" name="return_url" value="http://www.aaronsw.com/weblog/nummi" /><br /><span style="color: #666">(I won&#8217;t use your email for anything else, promise.)</span></p></form>
+
+<p>Or just <a href="https://twitter.com/intent/follow?screen_name=aaronsw">follow me on Twitter here</a>.</p>
+
+<div class="footnotes">
+<hr />
+<ol>
+
+<li id="fn:tal">
+<p>This story has been told several places, but the quotes here are from Frank Langfitt with Brian Reed, &#8220;<a href="http://www.thisamericanlife.org/radio-archives/episode/403/nummi">NUMMI</a>,&#8221; <em>This American Life</em> 403 (26 March 2010; <a href="http://www.webcitation.org/6AtWqEsXM">visited 2012-09-23</a>). Quotes are taken from <a href="http://www.thisamericanlife.org/radio-archives/episode/403/transcript">the show&#8217;s transcript</a> which sometimes differ slightly from the aired version.&#160;<a href="#fnref:tal" rev="footnote">&#8617;</a></p>
+</li>
+
+<li id="fn:dalio">
+<p>Some of the concepts and terms here were inspired by Ray Dalio, <em><a href="http://www.bwater.com/Uploads/FileManager/Principles/Bridgewater-Associates-Ray-Dalio-Principles.pdf">Principles</a></em> (2001), part 2 (<a href="http://www.webcitation.org/6ALtkRMHB">visited 2012-09-01</a>).&#160;<a href="#fnref:dalio" rev="footnote">&#8617;</a></p>
+</li>
+
+<li id="fn:jh">
+<p>Edward E. Jones and Victor A. Harris, &#8220;<a href="http://dx.doi.org/10.1016/0022-1031(67)90034-0">The Attribution of Attitudes</a>,&#8221; <em>Journal of Experimental Social Psychology</em> <strong>3</strong>:1 (January 1967), 1–24.&#160;<a href="#fnref:jh" rev="footnote">&#8617;</a></p>
+</li>
+
+<li id="fn:lr">
+<p>Lee Ross, &#8220;The Intuitive Psychologist and His Shortcomings: Distortions in the Attribution Process,&#8221; <em>Advances in Experimental Social Psychology</em> <strong>10</strong> (1977), 173–220.&#160;<a href="#fnref:lr" rev="footnote">&#8617;</a></p>
+</li>
+
+</ol>
+</div>
+
+]]></content:encoded>
+	<dc:date>2012-09-25T14:21:42-00:00</dc:date>
+  </item>
+  <item rdf:about="http://www.aaronsw.com/weblog/geremiah">
+    <title>Cherish mistakes</title>
+    <link>http://www.aaronsw.com/weblog/geremiah</link>
+    <content:encoded><![CDATA[
+<p><em>This post is part six of the series <a href="rawnerve">Raw Nerve</a>.</em></p>
+
+<p>This is a tale of two nonprofits.</p>
+
+<p>At one, they hate making mistakes. How else could it be? &#8220;We&#8217;re not ever going to enjoy screwing up,&#8221; they told me. But this attitude has a lot of consequences. Everything they do has to go through several layers of approval to make sure it&#8217;s not a mistake. And when someone does screw up, they try to hide it.</p>
+
+<p>It&#8217;s only natural &#8212; you know you&#8217;re going to get in trouble for screwing up, so you try to fix it before anyone notices. And if you can&#8217;t do, then your boss or your boss&#8217;s boss tries. And if no one in the organization can fix it, and it goes all the way to the executive director, then he tries to figure out a way to keep it from the press or spin it appropriately, so the world never finds out they made a mistake.</p>
+
+<p>At the other nonprofit, they have a very different attitude. You notice it the first time you visit their website. Right in their navigation bar, at the top of every page, is a link labeled &#8220;Mistakes.&#8221; Click it and you&#8217;ll find a list of all the things they screwed up, starting with the most horribly embarrassing one (they once promoted their group under false names).</p>
+
+<p>And it goes on to discuss mistakes big and small, core and peripheral. They previously used flaky phones that would cut out during a call, annoying people. They were insufficiently skeptical in some of the most important claims they made. At times, their admissions have the tone of a chastised teenager forced to write an apology, but together they provide a remarkable record of all the mistakes, both crucial and mundane, you might reasonably make when starting something new.</p>
+
+<p>It&#8217;s not that this group likes making mistakes &#8212; you can feel the annoyance and embarrassment seeping through the page &#8212; but they don&#8217;t shirk from them either. They identify their mistake, admit them publicly, and devise steps to avoid them next time. They use it as an opportunity to get better.</p>
+
+<hr />
+
+<p>I <a href="http://www.aaronsw.com/weblog/dweck">wrote before</a> about Carol Dweck&#8217;s studies of successful and unsuccessful kids, but there&#8217;s one bit that really jumped out at me. Given a really tough puzzle to solve, one growth mindset kid just smiles and says &#8220;Mistakes are our friend.&#8221;<sup id="fnref:d2"><a href="#fn:d2" rel="footnote">1</a></sup></p>
+
+<p><em>Mistakes are our friend.</em> They can be an exasperating friend sometimes, the kind whose antics embarrass and annoy, but their heart is in the right place: they want to help. It&#8217;s a bad idea to ignore our friends.</p>
+
+<p>That&#8217;s a hard attitude to take toward mistakes &#8212; they&#8217;re so embarrassing, our natural instinct is to want to hide them and cover them up. But that&#8217;s the wrong way to think about them. They&#8217;re actually giving us a gift, because they&#8217;re pointing the way toward getting better.</p>
+
+<p>If we try to ignore them, they&#8217;ll keep nagging at us. We&#8217;ll run into them again and again in different guises. You&#8217;ll say &#8220;Don&#8217;t be silly, that wasn&#8217;t a mistake &#8212; I meant to do that.&#8221; And then you&#8217;ll eagerly do the same thing next time (<a href="http://www.aaronsw.com/weblog/semmelweis">cognitive dissonance again</a>). Or else you&#8217;ll say &#8220;Yes, yes, of course that was a mistake &#8212; it won&#8217;t happen again.&#8221; But as you hurry to move on, you don&#8217;t change anything, and so it does happen again.</p>
+
+<p>The trick is to confront the mistake, fess up to what went wrong, and think about what you can change to keep it from happening again. Usually just promising not to do it again is not enough: you need to dig into the root causes and address those.</p>
+
+<p>Sakichi Toyoda, the founder of the Toyota car company, developed a technique called &#8220;Five Why&#8217;s&#8221; for handling this. For example, sometimes a car would come off the Toyota production line and not start. Why? Well, imagine it was because the alternator belt had come loose. Most car companies would stop here and just fix the alternator belt. But Toyoda understood that was dodging the mistake &#8212; it would just lead it to come back again and again. So he insisted they keep asking &#8220;Why?&#8221;.</p>
+
+<p>Why was the alternator belt loose? Because it hadn&#8217;t been put on correctly. Why? Because the person putting it on didn&#8217;t double-check to see if it had fit in correctly. Why? Because he was in too much of a hurry. Why? Because he had to walk all the way to the other side of the line to get the belts and by the time he got back he didn&#8217;t have enough time to double-check.</p>
+
+<p>Aha! There, on the fifth why, we find the real cause of the mistake. And the solution is easy: move the box of alternator belts closer. But if we&#8217;d stopped at any earlier point (say, by just yelling at the alternator belt guy to always remember to double-check), we wouldn&#8217;t have actually fixed the problem. The same mistake would have happened again and again. Only by digging all the way to the root cause did we realize we needed to move the box of belts. The mistake pointed the way to the solution.</p>
+
+<hr />
+
+<p>The last time I wrote about two nonprofits, someone commented to say they were &#8220;outright nauseated&#8221; by my post. &#8220;[T]he website is not the place to signal humility and argue against your own conclusions. All that would demonstrate is naivety and incompetence,&#8221; they insisted. And maybe they&#8217;re right: maybe having a mistakes page at the top of your website goes much too far.</p>
+
+<p>I&#8217;ve <a href="http://www.aaronsw.com/weblog/semmelweis">written before</a> why I disagree, but even if they&#8217;re right that you shouldn&#8217;t tell the world about your mistakes, you need to at least tell yourself. It&#8217;s much too easy to conveniently forget about all the stuff you screwed up. And so even though it happens again and again, you never notice the pattern.</p>
+
+<p>By forcing yourself to write it down, to keep a log of the problems you&#8217;ve run into, you begin to see patterns. You start seeing the things you get better at and the things you keep flubbing. And then you know what to work on for next time.</p>
+
+<p><strong>Next in this series:</strong> <a href="nummi">Fix the machine, not the person</a></p>
+
+<div class="footnotes">
+<hr />
+<ol>
+
+<li id="fn:d2">
+<p>Carol Dweck, <em>Self-Theories: Their Role in Motivation, Personality, and Development</em> (2000), 10.&#160;<a href="#fnref:d2" rev="footnote">&#8617;</a></p>
+</li>
+
+</ol>
+</div>
+
+]]></content:encoded>
+	<dc:date>2012-09-17T15:55:03-00:00</dc:date>
+  </item>
+  <item rdf:about="http://www.aaronsw.com/weblog/anders">
+    <title>Confront reality</title>
+    <link>http://www.aaronsw.com/weblog/anders</link>
+    <content:encoded><![CDATA[
+<p><em>This post is part five of the series <a href="rawnerve">Raw Nerve</a>.</em></p>
+
+<div class="epigraph"><p>We are all capable of believing things which we know to be untrue, and then, when we are finally proved wrong, impudently twisting the facts so as to show that we were right. Intellectually, it is possible to carry on this process for an indefinite time: the only check on it is that sooner or later a false belief bumps up against solid reality, usually on a battlefield.</p><p class="attribution">—George Orwell, &#8220;<a href="http://orwell.ru/library/articles/nose/english/e_nose">In Front of Your Nose</a>&#8221;</p></div>
+
+<p>If you want to understand experts, you need to start by finding them. So the psychologists who wanted to understand &#8220;expert performance&#8221; began by testing alleged experts, to see how good they really were.</p>
+
+<p>In some fields it was easy: in chess, for example, great players can reliably beat amateurs. But in other fields, it was much, much harder.</p>
+
+<p>Take punditry. In his giant 20-year study of expert forecasting, Philip Tetlock found that someone who merely predicted &#8220;everything will stay the same&#8221; would be right more often than most professional pundits.<sup id="fnref:tet"><a href="#fn:tet" rel="footnote">1</a></sup> Or take therapy. Numerous studies have found an hour with a random stranger is just as good as an hour with a professional therapist.<sup id="fnref:dawes"><a href="#fn:dawes" rel="footnote">2</a></sup> In one study, for example, sessions with untrained university professors helped neurotic college students just as much as sessions with professional therapists.<sup id="fnref:strupp"><a href="#fn:strupp" rel="footnote">3</a></sup> (This isn&#8217;t to say that therapy isn&#8217;t helpful &#8212; the same studies suggest it is &#8212; it&#8217;s just that what&#8217;s helpful is talking over your problems for an hour, not anything about the therapist.)</p>
+
+<p>As you might expect, pundits and therapists aren&#8217;t fans of these studies. The pundits try to weasel out of them. As Tetlock writes; &#8220;The trick is to attach so many qualifiers to your vague predictions that you will be well positioned to explain pretty much whatever happens. China will fissure into regional fiefdoms, but only if the Chinese leadership fails to manage certain trade-offs deftly, and only if global economic growth stalls for a protracted period, and only if&#8230;&#8221;<sup id="fnref:t2"><a href="#fn:t2" rel="footnote">4</a></sup> The therapists like to point to all the troubled people they&#8217;ve helped with their sophisticated techniques (avoiding the question of whether someone unsophisticated could have helped even more). What neither group can do is point to clear evidence that what they do works.</p>
+
+<p>Compare them to the chess grandmaster. If you try to tell the chess grandmaster that he&#8217;s no better than a random college professor, he can easily play a professor and prove you wrong. Every time he plays, he&#8217;s confronted with inarguable evidence of success or failure. But therapists can often feel like they&#8217;re helping &#8212; they just led their client to a breakthrough about their childhood &#8212; when they&#8217;re actually not making any difference.</p>
+
+<p>Synthesizing hundreds of these studies, K. Anders Ericsson concluded that what distinguishes experts from non-experts is engaging in what he calls <em>deliberate practice</em>.<sup id="fnref:anders"><a href="#fn:anders" rel="footnote">5</a></sup> Mere practice isn&#8217;t enough &#8212; you can sit and make predictions all day without getting any better at it &#8212; it needs to be a kind of practice where you receive &#8220;immediate informative feedback and knowledge of results.&#8221;<sup id="fnref:a2"><a href="#fn:a2" rel="footnote">6</a></sup></p>
+
+<p>In chess, for example, you pretty quickly discover whether you made a smart move or a disastrous error, and it&#8217;s even more obvious in other sports (when practicing free-throws, it&#8217;s pretty obvious if the ball misses the net). As a result, chess players can try different tactics and learn which ones work and which don&#8217;t. Our pundit is not so lucky. Predicting a wave of revolutions in the next twenty years can feel very exciting at the time, but it will be twenty years before you learn whether it was a good idea or not. It&#8217;s hard to get much deliberate practice on that kind of time frame.</p>
+
+<hr />
+
+<p>I&#8217;ve noticed very ambitious people often fall into this sort of trap. Any old slob can predict what will happen tomorrow, they think, but I want to be truly great, so I will pick a much harder challenge: I will predict what will happen <em>in a hundred years</em>. It comes in lots of forms: instead of building another silly site like Instagram, I will build an <em>artificial intelligence</em>; instead of just doing another boring experiment, I will write <em>a grand work of social theory</em>.</p>
+
+<p>But being great isn&#8217;t as easy as just picking a hard goal &#8212; in fact, picking a really hard goal avoids reality almost as much as picking a really easy one. If you pick an easy goal, you know you&#8217;ll always succeed (because it&#8217;s so easy); if you pick a really hard one, you know you&#8217;ll never fail (because it will always be too early to tell). Artificial intelligence is a truly big problem &#8212; how can you possibly expect us to succeed in just a decade? But we&#8217;re making great progress, we swear.</p>
+
+<p>The trick is to set yourself lots of small challenges along the way. If your startup is eventually going to make a million dollars, can it start by making ten? If your book is going to eventually persuade the world, can you start by persuading your friends? Instead of pushing all your tests for success way off to the indefinite future, see if you can pass a very small one right now.</p>
+
+<p>And it&#8217;s important that you test for the right thing. If you&#8217;re writing a program that&#8217;s supposed to make people&#8217;s lives easier, what&#8217;s important is not whether they like your mockups in focus groups; it&#8217;s whether you can make a prototype that actually improves their lives.</p>
+
+<hr />
+
+<p>One of the biggest problems in writing self-help books is getting people to actually take your advice. It&#8217;s not easy to tell a compelling story that changes the way people view their problems, but it turns out to be a lot easier than writing something that will actually persuade someone to get up off the couch and change the way they live their life. There are some things writing is really good at, but forcing people to get up and do something isn&#8217;t one of them.</p>
+
+<p>The irony, of course, is that the books are totally useless unless you take their advice. If you just keep reading them, thinking &#8220;that&#8217;s so insightful! that changes everything,&#8221; but never actually doing anything different, then pretty quickly the feeling will wear off and you&#8217;ll start searching for another book to fill the void. Chris Macleod calls this &#8220;epiphany addiction&#8221;: &#8220;Each time they feel like they&#8217;ve stumbled on some life changing discovery, feel energized for a bit without going on to achieve any real world changes, and then return to their default of feeling lonely and unsatisfied with their life. They always end up back at the drawing board of trying to think their way out of their problem, and it&#8217;s not long before they come up with the latest pseudo earth shattering insight.&#8221;<sup id="fnref:ss"><a href="#fn:ss" rel="footnote">7</a></sup></p>
+
+<p>Don&#8217;t let that happen to you. Go out and test yourself today: pick a task just hard enough that you <em>might</em> fail, and try to succeed at it. Reality is painful &#8212; it&#8217;s so much easier to keep doing stuff you know you&#8217;re good at or else to pick something so hard there&#8217;s no point at which it&#8217;s obvious you&#8217;re failing &#8212; but it&#8217;s impossible to get better without confronting it.</p>
+
+<p><strong>Next in this series:</strong> <a href="geremiah">Cherish mistakes</a></p>
+
+<div class="footnotes">
+<hr />
+<ol>
+
+<li id="fn:tet">
+<p>Philip Tetlock, <em>Expert Political Judgment: How Good Is It? How Can We Know?</em> (2006). I don&#8217;t have my copy handy, so I checked this description against Philip Tetlock, &#8220;<a href="http://nationalinterest.org/bookreview/reading-tarot-on-k-street-3220">Reading Tarot on K Street</a>,&#8221; <em>The National Interest</em> (September/October 2009), 57–67.&#160;<a href="#fnref:tet" rev="footnote">&#8617;</a></p>
+</li>
+
+<li id="fn:dawes">
+<p>Robyn M. Dawes, <em>House of Cards: Psychology and Psychotherapy Built on Myth</em> (1996).&#160;<a href="#fnref:dawes" rev="footnote">&#8617;</a></p>
+</li>
+
+<li id="fn:strupp">
+<p>Hans H. Strupp and Suzanne W. Hadley, &#8220;<a href="http://dx.doi.org/10.1001/archpsyc.1979.01780100095009">Specific vs Nonspecific Factors in Psychotherapy: A Controlled Study of Outcome</a>,&#8221; <em>Archives of General Psychology</em> <strong>36</strong>:10 (1979), 1125–1136.&#160;<a href="#fnref:strupp" rev="footnote">&#8617;</a></p>
+</li>
+
+<li id="fn:t2">
+<p>Tetlock, &#8220;Reading Tarot,&#8221; 67.&#160;<a href="#fnref:t2" rev="footnote">&#8617;</a></p>
+</li>
+
+<li id="fn:anders">
+<p>K. Anders Ericsson, Ralf Th. Krampe, and Clemens Tesch-Römer, &#8220;<a href="http://dx.doi.org/10.1037/0033-295X.100.3.363">The Role of Deliberate Practice in the Acquisition of Expert Performance</a>,&#8221; <em>Psychological Review</em>, <strong>100</strong>:3 (July 1993), 363–406.&#160;<a href="#fnref:anders" rev="footnote">&#8617;</a></p>
+</li>
+
+<li id="fn:a2">
+<p>Ericsson, &#8220;Role,&#8221; 367.&#160;<a href="#fnref:a2" rev="footnote">&#8617;</a></p>
+</li>
+
+<li id="fn:ss">
+<p>Chris Macleod, &#8220;<a href="http://www.succeedsocially.com/epiphany">&#8216;Epiphany Addiction&#8217;</a>,&#8221; <em>Succeed Socially</em> (<a href="http://www.webcitation.org/6AYB8AIbz">visited 2012-09-09</a>).&#160;<a href="#fnref:ss" rev="footnote">&#8617;</a></p>
+</li>
+
+</ol>
+</div>
+
+]]></content:encoded>
+	<dc:date>2012-09-09T14:16:23-00:00</dc:date>
+  </item>
+  <item rdf:about="http://www.aaronsw.com/weblog/dalio">
+    <title>Lean into the pain</title>
+    <link>http://www.aaronsw.com/weblog/dalio</link>
+    <content:encoded><![CDATA[
+<p><em>This post is part four of the series <a href="rawnerve">Raw Nerve</a>.</em></p>
+
+<p>When you first begin to exercise, it&#8217;s somewhat painful. Not wildly painful, like touching a hot stove, but enough that if your only goal was to avoid pain, you certainly would stop doing it. But if you keep exercising&#8230; well, it just keeps getting more painful. When you&#8217;re done, if you&#8217;ve really pushed yourself, you often feel exhausted and sore. And the next morning it&#8217;s even worse.</p>
+
+<p>If that was all that happened, you&#8217;d probably never do it. It&#8217;s not that much fun being sore. Yet we do it anyway &#8212; because we know that, in the long run, the pain will make us stronger. Next time we&#8217;ll be able to run harder and lift more before the pain starts.</p>
+
+<p>And knowing this makes all the difference. Indeed, we come to see the pain as a sort of pleasure &#8212; it feels good to really push yourself, to fight through the pain and make yourself stronger. Feel the burn! It&#8217;s fun to wake up sore the next morning, because you know that&#8217;s just a sign that you&#8217;re getting stronger.</p>
+
+<p>Few people realize it, but psychological pain works the same way. Most people treat psychological pain like the hot stove &#8212; if starting to think about something scares them or stresses them out, they quickly stop thinking about it and change the subject.</p>
+
+<p>The problem is that the topics that are most painful also tend to be the topics that are most important for us: they&#8217;re the projects we most want to do, the relationships we care most about, the decisions that have the biggest consequences for our future, the most dangerous risks that we run. We&#8217;re scared of them because we know the stakes are so high. But if we never think about them, then we can never do anything about them.</p>
+
+<p>Ray Dalio writes:</p>
+
+<blockquote>
+  <p>It is a fundamental law of nature that to evolve one has to push one&#8217;s limits, which is painful, in order to gain strength&#8212;whether it&#8217;s in the form of lifting weights, facing problems head-on, or in any other way. Nature gave us pain as a messaging device to tell us that we are approaching, or that we have exceeded, our limits in some way. At the same time, nature made the process of getting stronger require us to push our limits. Gaining strength is the adaptation process of the body and the mind to encountering one&#8217;s limits, which is painful. In other words, both pain and strength typically result from encountering one&#8217;s barriers. When we encounter pain, we are at an important juncture in our decision-making process.<sup id="fnref:d"><a href="#fn:d" rel="footnote">1</a></sup></p>
+</blockquote>
+
+<p>Yes it&#8217;s painful, but the trick is to make that mental shift. To realize that the pain isn&#8217;t something awful to be postponed and avoided, but a signal that you&#8217;re getting stronger &#8212; something to savor and enjoy. It&#8217;s what makes you better.</p>
+
+<p>Pretty soon, when you start noticing something that causes you psychic pain, you&#8217;ll get excited about it, not afraid. <em>Ooh, another chance to get stronger.</em> You&#8217;ll seek out things you&#8217;re scared of and intentionally confront them, because it&#8217;s an easy way to get the great rewards of self-improvement. Dalio suggests thinking of each one as a puzzle, inside of which is embedded a beautiful gem. If you fight through the pain to solve the puzzle, you unlock it and get to keep the gem.</p>
+
+<p>The trick is: when you start feeling that psychological pain coming on, don&#8217;t draw back from it and cower &#8212; lean into it. Lean into the pain.</p>
+
+<hr />
+
+<p>In agile software development, there&#8217;s a phrase: If it hurts, do it more often.<sup id="fnref:f"><a href="#fn:f" rel="footnote">2</a></sup></p>
+
+<p>For example, imagine Jane and Joan are working on a software project together. They both have a copy of the code; Jane is making the error messages friendlier while Joan is adding a new feature. They both work on their task for days and days until it&#8217;s finally done. Now they face a problem: they need to <em>merge</em> their different changes back together.</p>
+
+<p>Maybe you&#8217;ve had this problem, either with code or with text documents: you send a draft of a report to two friends, both suggest different changes, and you have to merge all their changes back into the original document. It&#8217;s incredibly annoying &#8212; and doing it with software is way worse. So people put it off. Jane thinks &#8220;you know, let me just make the thank you messages a little nicer before we merge&#8221; and Joan thinks &#8220;you know, let me add just one more feature before we merge&#8221;.</p>
+
+<p>They keep putting the merge off, and every time they do the task gets bigger and more painful. But they have to do it eventually. By then, the merge is so big that it takes days of painstaking work just to piece together the already-written code. It&#8217;s an arduous, painful process &#8212; which makes Joan and Jane just want to put it off even longer next time.</p>
+
+<p>The agile approach, however, is to do the opposite: merging hurts, so we&#8217;ll do it more often. Instead of merging every couple weeks, or every couple months, we&#8217;ll merge every single day, or every couple hours. Even if Jane and Joan aren&#8217;t even close to finished with their work, they&#8217;ll check in what they have so far (maybe with some special code deactivating it until it&#8217;s finished) so they don&#8217;t end up in merge hell later on. These very small merges tend not to be painful at all, they&#8217;re so easy that you hardly even notice.</p>
+
+<p>The same principle shows up all across software development: from testing to releasing, your natural inclination is to put off painful things, when doing them more often actually is much easier.</p>
+
+<p>And I don&#8217;t think it&#8217;s limited to software. I think the same principle would work even if, for some odd reason, you were required to touch a hot stove for an hour. Procrastinating and putting it off until you had no choice but to hold your hand to the stove for a full hour would end up being very painful. But if you did it in small frequent bits, just quick taps of the stove with your finger that eventually added up to an hour, it wouldn&#8217;t be so bad at all. Again, the trick is not to run from the pain.</p>
+
+<hr />
+
+<p>Of all the self-improvement tricks I&#8217;ve learned, this one was by far the most surprising &#8212; and by far the most impactful. I spent most of my life hemmed in by my talents. I knew I had strengths and weaknesses and it just seemed obvious I should find jobs that fit my strengths. It seemed crazy to take a job that probed my weaknesses.</p>
+
+<p>Sure, there were somethings, over there, that I wished I was better at, but they seemed so far away. Meanwhile, there were lots of things over here that I was good at. Why not just keep doing them? Sure, I realized intellectually that <a href="dweck">I could get better</a> at the other stuff, but it hardly seemed worth the pain of trying.</p>
+
+<p>I&#8217;d learned <a href="semmelweis">not to shrink from hard truths</a>, so I&#8217;d literally have this conversation with myself: &#8220;Yes, I know: if I got better at selling things to people [or whatever it was], I&#8217;d be much better off. But look at how painful I find selling: just thinking about it makes me want to run and hide! Sure, it&#8217;d be great if I could do it, but is it really worth all that pain?&#8221;</p>
+
+<p>Now I realize this is a bogus argument: it&#8217;s not that the pain is so bad that it makes me flee, it&#8217;s that the importance of the topic triggers a fight-or-flight reaction deep in my reptile brain. If instead of thinking of it as a scary subject to avoid, I think of it as an exciting opportunity to get better, then it&#8217;s no longer a cost-benefit tradeoff at all: both sides are a benefit &#8212; I get the benefits of being good at selling and the fun of getting better at something.</p>
+
+<p>Do this enough times and your whole outlook on life begins to change. It&#8217;s no longer a scary world, hemming you in, but an exciting one full of exciting adventures to pursue.<sup id="fnref:s"><a href="#fn:s" rel="footnote">3</a></sup></p>
+
+<p>Tackling something big like this is terrifying; it&#8217;s far too much to start with. It&#8217;s always better to start small. What&#8217;s something you&#8217;ve been avoiding thinking about? It can be anything &#8212; a relationship difficulty, a problem at work, something on your todo list you&#8217;ve been avoiding. Call it to mind &#8212; despite the pain it brings &#8212; and just sort of let it sit there. Acknowledge that thinking about it is painful and feel good about yourself for being able to do it anyway. Feel it becoming less painful as you force yourself to keep thinking about it. See, you&#8217;re getting stronger!</p>
+
+<p>OK, take a break. But when you&#8217;re ready, come back to it, and start thinking of concrete things you can do about it. See how it&#8217;s not as scary as you thought? See how good it feels to actually do something about it?</p>
+
+<p>Next time you start feeling that feeling, that sense of pain from deep in your head that tells you to avoid a subject &#8212; ignore it. Lean into the pain instead. You&#8217;ll be glad you did.</p>
+
+<p><strong>Next in this series:</strong> <a href="anders">Confront reality</a></p>
+
+<div class="footnotes">
+<hr />
+<ol>
+
+<li id="fn:d">
+<p>Ray Dalio, <em><a href="http://www.bwater.com/Uploads/FileManager/Principles/Bridgewater-Associates-Ray-Dalio-Principles.pdf">Principles</a></em> (2001), part 2 (<a href="http://www.webcitation.org/6ALtkRMHB">visited 2012-09-01</a>). This whole section was inspired by his argument.&#160;<a href="#fnref:d" rev="footnote">&#8617;</a></p>
+</li>
+
+<li id="fn:f">
+<p>I first heard this phrase at a ThoughtWorks training. See also Martin Fowler, &#8220;<a href="http://martinfowler.com/bliki/FrequencyReducesDifficulty.html">FrequencyReducesDifficulty</a>,&#8221; <em>Bliki</em> (28 July 2011).&#160;<a href="#fnref:f" rev="footnote">&#8617;</a></p>
+</li>
+
+<li id="fn:s">
+<p>See, for example, Derek Sivers, &#8220;<a href="http://sivers.org/comfort">Push, push, push. Expanding your comfort zone</a>,&#8221; <em>sivers.org</em> (13 August 2012).&#160;<a href="#fnref:s" rev="footnote">&#8617;</a></p>
+</li>
+
+</ol>
+</div>
+
+]]></content:encoded>
+	<dc:date>2012-09-01T13:31:08-00:00</dc:date>
+  </item>
+  <item rdf:about="http://www.aaronsw.com/weblog/optimalbias">
+    <title>What are the optimal biases to overcome?</title>
+    <link>http://www.aaronsw.com/weblog/optimalbias</link>
+    <content:encoded><![CDATA[
+<p><em>This is a bonus post for my series <a href="http://www.aaronsw.com/weblog/rawnerve">Raw Nerve</a>. It originally appeared in <a href="http://lesswrong.com/lw/dya/what_are_the_optimal_biases_to_overcome/" rel="nofollow">somewhat different form</a> on Less Wrong.</em></p>
+
+<p>I&#8217;ve noticed that some people have complimented my series <a href="http://www.aaronsw.com/weblog/rawnerve">Raw Nerve</a> by saying it&#8217;s a great explanation of cognitive biases. Which always amuses me, since the series grew out of frustrations I had with the usual way that term gets used. There&#8217;s a group of people (call them the cognitive bias community) who say the way to be more rational &#8212; to get better at making decisions that get you what you want &#8212; is to work at overcoming your biases. But if you&#8217;re overcoming biases, surely there are some lessons that will help you more than others.</p>
+
+<p>You might start with the most famous ones, which tend to be the ones popularized by Kahneman and Tversky. But K&amp;T were academics. They weren&#8217;t trying to help people be more rational, they were trying to prove to other academics that people were irrational. The result is that they focused not on the most important biases, but the ones that were easiest to prove.</p>
+
+<p>Take their famous anchoring experiment, in which they showed the spin of a roulette wheel affected people&#8217;s estimates about African countries. The idea wasn&#8217;t that roulette wheels causing biased estimates was a huge social problem; it was that no academic could possibly argue that this behavior was somehow rational. They thereby scored a decisive blow for psychology against economists claiming we&#8217;re just rational maximizers.</p>
+
+<p>Most academic work on irrationality has followed in K&amp;T&#8217;s footsteps. And, in turn, much of the stuff done by the wider cognitive bias community has followed in the footsteps of this academic work. So it&#8217;s not hard to believe that cognitive bias types are good at avoiding these biases and thus do well on the psychology tests for them. (Indeed, many of the questions on these tests for rationality come straight from K&amp;T experiments!)</p>
+
+<p>But if you look at the average person and ask why they aren&#8217;t getting what they want, very rarely do you conclude their biggest problem is that they&#8217;re suffering from anchoring, framing effects, the planning fallacy, commitment bias, or any of the other stuff in these tests. Usually their biggest problems are far more quotidian and commonsensical, like procrastination and fear.</p>
+
+<p>One of the things that struck me was watching Eliezer Yudkowsky, one of the most impressive writers on the topic of cognitive biases, try to start a new nonprofit. For years, the organization he founded struggled until recently, when Luke Muehlhauser was named executive director. Eliezer readily agrees that Luke has done more to achieve Eliezer&#8217;s own goals for the organization than Eliezer ever did.</p>
+
+<p>But why? Why is Luke so much better at getting what Eliezer wants than Eliezer is? It&#8217;s surely not because Luke is so much better at avoiding the standard cognitive biases! Luke often talks about how he&#8217;s constantly learning new rationality techniques from Eliezer.</p>
+
+<p>No, it&#8217;s because Luke did what seems like common sense: he bought a copy of <em>Nonprofits for Dummies</em> and did what it recommends. As Luke himself <a href="http://lesswrong.com/lw/cbs/thoughts_on_the_singularity_institute_si/6klg?context=1#6l4h">says</a>, it wasn&#8217;t lack of intelligence or resources or willpower that kept Eliezer from doing these things, &#8220;it was a gap in general rationality.&#8221;</p>
+
+<p>So if you&#8217;re interested in closing the gap, it seems like the skills to prioritize aren&#8217;t things like commitment effect and the sunk cost fallacy, but stuff like &#8220;figure out what your goals really are&#8221;, &#8220;look at your situation objectively and list the biggest problems&#8221;, &#8220;when you&#8217;re trying something new and risky, read the For Dummies book about it first&#8221;, etc. That&#8217;s the stuff I&#8217;m interested in writing about.</p>
+
+]]></content:encoded>
+	<dc:date>2012-08-29T15:39:01-00:00</dc:date>
+  </item>
+  <item rdf:about="http://www.aaronsw.com/weblog/semmelweis">
+    <title>Look at yourself objectively</title>
+    <link>http://www.aaronsw.com/weblog/semmelweis</link>
+    <content:encoded><![CDATA[
+<p><em>This post is part three of the series <a href="rawnerve">Raw Nerve</a>.</em></p>
+
+<p>In the 1840s, hospitals were dangerous places. Mothers who went in to give birth often didn&#8217;t make it out. For example, at Vienna General Hospital&#8217;s First Obstetrical Clinic, as many as 10% of mothers died of puerperal fever after giving birth. But there was some good news: at the Second Clinic, the number was just 4%. Expectant mothers noticed this &#8212; some would get down on their knees and beg to be admitted to the Second Clinic. Others, hearing new patients were being admitted to the First Clinic that day, decided they&#8217;d rather give birth in the streets.</p>
+
+<p>Ignaz Semmelweis, an assistant at the First Clinic, couldn&#8217;t bear it. He began desperately searching for some kind of explanation for the difference. He tested many things without success. Then, in 1847, Semmelweis&#8217;s friend Jakob Kolletschka was performing an autopsy when a student accidentally poked him with a scalpel. It was a minor injury, but Kolletschka got terribly sick and ultimately passed away, with symptoms rather like the what the mothers had. Which got Semmelweis wondering: was some &#8220;deathly material&#8221; on the corpses responsible for the deaths?</p>
+
+<p>To test this, he insisted the doctors begin washing their hands with chlorinated lime (which he found best removed the stink of death) before handling the pregnant women. The results were shocking. In April 1847, the mortality rate was 18.3%. Semmelweis instituted handwashing in mid-May and by June the mortality rate had crashed to 2.2%. The next month it was even less and later that year it reached zero &#8212; for the first time ever.</p>
+
+<p>You&#8217;d think doctors would be thrilled by this incredible discovery. Instead, Semmelweis was ridiculed and attacked. He was fired from the hospital and forced out of Vienna. &#8220;In published medical works my teachings are either ignored or attacked,&#8221; he complained. &#8220;The medical faculty at Würzburg awarded a prize to a monograph written in 1859 in which my teachings were rejected.&#8221; Even in his native Vienna, hundreds of mothers continued to die every year.</p>
+
+<p>Semmelweis turned to alcohol and his behavior became increasingly erratic. In 1865, he was committed to a mental institution. There he was beaten by the guards, placed in a straitjacket, and locked in a dark cell. He died shortly thereafter, at the age of 47, from an infected wound.<sup id="fnref:fn1"><a href="#fn:fn1" rel="footnote">1</a></sup></p>
+
+<hr />
+
+<p>Why did doctors so stubbornly reject Ignaz Semmelweis? Well, imagine being told <em>you</em> were responsible for the deaths of thousands of your patients. That you had been killing the people you were supposed to be protecting. That you were so bad at your job that you were actually worse than just giving birth in the street.</p>
+
+<p>We all know people don&#8217;t like to hear bad news about themselves. Indeed, we go out of our way to avoid it &#8212; and when we do confront it, we try to downplay it or explain it away. Cognitive dissonance psychologists have proven it in dozens of experiments: Force students through an embarrassing initiation to take a class, and they&#8217;ll insist the class is much more interesting. Make them do a favor for someone they hate, and they start insisting they actually like them. Have them make a small ethical compromises and they&#8217;ll feel comfortable making bigger and bigger ones. Instead of just accepting we made a mistake, and shouldn&#8217;t have compromised or done the favor or join the class, we start telling ourselves that compromising isn&#8217;t so bad &#8212; and when the next compromise comes along, we believe the lies we tell ourselves, and leap at making another mistake. We hate hearing bad news about ourselves so much that we&#8217;d rather <em>change our behavior</em> than just admit we screwed up.<sup id="fnref:mwm"><a href="#fn:mwm" rel="footnote">2</a></sup></p>
+
+<p>It doesn&#8217;t help much when our friends point out what we did wrong. If we&#8217;re so scared of hearing from ourselves that we made a mistake, just imagine how much we hate hearing it from someone else. And our friends know this: the answer to &#8220;Does this outfit make me look fat?&#8221; is not supposed to be &#8220;yes.&#8221; We may joke about our friends&#8217; foibles behind their back, but we rarely do so to their face. Even at work, a lot of effort goes into making sure employees are insulated from their superior&#8217;s most negative assessments. This is what we&#8217;re taught: make five compliments for every criticism, sandwich negative feedback with positive feedback on each side, the most important thing is to keep up someone&#8217;s self-esteem.</p>
+
+<p>But, as Semmelweis showed, this is a dangerous habit. Sure, it&#8217;s awful to hear you&#8217;re killing people&#8212;but it&#8217;s way worse to <em>keep on killing people</em>! It may not be fun to get told you&#8217;re lazy, but it&#8217;s better to hear it now than to find out when you&#8217;re fired. If you want to work on getting better, you need to start by knowing where you are.</p>
+
+<hr />
+
+<p>Semmelweis was defeated about as much as a man can be defeated. But nothing the other doctors could do to him would change the facts. Eventually scientists proved the germ theory of disease and Semmelweis was vindicated. Today, he&#8217;s an international hero: universities and hospitals are named after him, his house has been turned into a museum, Austria even put his face on a €50 gold coin. Meanwhile, the doctors who opposed him are now seen as close-minded killers.</p>
+
+<p>Try as you might, you can&#8217;t beat reality. Semmelweis was right: those doctors <em>were</em> killing people. Firing him, driving him out of the country, writing long books disproving all his claims &#8212; none of it could change that frightening fact. The doctors may have thought they were winning the argument at the time, but they were big losers in the long run. And so were all the families that lost a loved one because they refused to admit their mistake.</p>
+
+<p>But imagine if they had. When you&#8217;re being attacked, conceding you screwed up seems like the worst thing you can do. If even you won&#8217;t stand up for yourself, how can anyone else believe in you? Admitting your mistakes seems like giving up; it just proves that your opponents were right all along. But is it really so bad?</p>
+
+<p>When Oprah started defending fabulist James Frey, she was savaged by the press. So she invited her critics on the show and apologized, saying &#8220;You were right, I was wrong.&#8221; It didn&#8217;t destroy her reputation; it rescued it. When the space shuttle <em>Columbia</em> exploded, launch manager Wayne Hale took full responsibility: &#8220;The bottom line is that I failed to understand what I was being told&#8230;I am guilty of allowing Columbia to crash.&#8221; He was promoted. When JFK admitted the responsibility for the Bay of Pigs fiasco was &#8220;mine, and mine alone,&#8221; his poll numbers soared.<sup id="fnref:mwm2"><a href="#fn:mwm2" rel="footnote">3</a></sup></p>
+
+<p>Imagine the same thing in your own life. If your boss started taking responsibility for your organization&#8217;s problems instead of blaming others, wouldn&#8217;t you like him more? If your doctor told you honestly that she had screwed up a procedure, instead of trying to cover up the mistake, wouldn&#8217;t you prefer that? If a politician came clean that their policy proposals had failed, wouldn&#8217;t you be more likely to trust him?</p>
+
+<p>In moments of great emotional stress, we revert to our worst habits: we dig in and fight harder. The real trick is not to get better at fighting &#8212; it&#8217;s to get better at stopping ourselves: at taking a deep breath, calming down, and letting our better natures take over from our worst instincts.</p>
+
+<hr />
+
+<p>Even if seeing ourselves objectively is the best option, all our natural instincts all point the other direction. Not only do we try hard to avoid bad news about ourselves, we tend to exaggerate the good news. Imagine you and Jane are both up for a promotion. You want it bad, so you stay late, you work weekends. Sure, some things still slip through the cracks &#8212; but even those mistakes have really good reasons! Jane never does anything like that.</p>
+
+<p>But if she did &#8212; would you even know? We see the world from our own perspective. When we have to cancel hanging out with friends to do extra work, we always see that &#8212; and feel the sacrifice. But when Jane does it, we see and feel nothing. You only get to see your own perspective. And even our mistakes make sense from our perspective &#8212; we see all of the context, everything that led up to it. It all makes sense because we saw it happen. When we screw up, it&#8217;s for a reason. When other people screw up, it&#8217;s because they&#8217;re screwups. <!--FAE@@--></p>
+
+<hr />
+
+<p>Looking at ourselves objectively isn&#8217;t easy. But it&#8217;s essential if we ever want to get better. And if we don&#8217;t do it, we leave ourselves open to con artists and ethical compromisers who prey on our desire to believe we&#8217;re perfect. There&#8217;s no one solution, but here are some tricks I use to get a more accurate sense of myself:</p>
+
+<p><em>Embrace your failings.</em> Be willing to believe the worst about yourself. Remember: it&#8217;s much better to accept that you&#8217;re a selfish, racist moron and try to improve, than to continue sleepwalking through life that way as the only one who doesn&#8217;t know it.</p>
+
+<p><em>Studiously avoid euphemism.</em> People try and sugarcoat the tough facts about themselves by putting them in the best light possible. They say &#8220;Well, I was going to get to it, but then there was that big news story today&#8221; and not &#8220;Yeah, I was procrastinating on it and started reading the news instead.&#8221; Stating things plainly makes it easier to confront the truth.</p>
+
+<p><em>Reverse your projections.</em> Every time you see yourself complaining about other groups or other people, stop yourself and think: &#8220;is it possible, is there any way, that someone out there might be making the same complaints about me?&#8221;</p>
+
+<p><em>Look up, not down.</em> It&#8217;s always easy to make yourself look good by finding people even worse than you. Yes, we agree, you&#8217;re not the worst person in the world. That&#8217;s not the question. The question is whether you can get better &#8212; and to do that you need to look at the people who are even better than you.</p>
+
+<p><em>Criticize yourself.</em> The main reason people don&#8217;t tell you what they really think of you is they&#8217;re afraid of your reaction. (If they&#8217;re right to be afraid, then you need to start by working on that.) But people will feel more comfortable telling you the truth if you start by criticizing yourself, showing them that it&#8217;s OK.</p>
+
+<p><em>Find honest friends.</em> There are some people who are just congenitally honest. For others, it&#8217;s possible to build a relationship of honesty over time. Either way, it&#8217;s important to find friends who you can trust to tell to tell you the harsh truths about yourself. <em>This is really hard</em> &#8212; most people don&#8217;t like telling harsh truths. Some people have had success providing an anonymous feedback form for people to submit their candid reactions.</p>
+
+<p><em>Listen to the criticism.</em> Since it&#8217;s so rare to find friends who will honestly criticize you, you need to listen extra-carefully when they do. It&#8217;s tempting to check what they say against your other friends. For example, if one friend says the short story you wrote isn&#8217;t very good, you might show it to some other friends and ask them what they think. Wow, they all think it&#8217;s great! Guess that one friend was just an outlier. But the fact is that most of your friends are going to say it&#8217;s great because they&#8217;re your friend; by just taking their word for it, you end up ignoring the one person who&#8217;s actually being honest with you.</p>
+
+<p><em>Take the outside view.</em> As I said before, we&#8217;re always locked in our own heads, where everything we do makes sense. So try seeing what you look like from the outside for a bit, assuming you don&#8217;t know any of those details. Sure, your big money-making plan sounds like a great idea when you explain it, but if you throw that away, is there any external evidence that it will work?</p>
+
+<p><strong>Next in this series:</strong> <a href="dalio">Lean into the pain</a></p>
+
+<div class="footnotes">
+<hr />
+<ol>
+
+<li id="fn:fn1">
+<p>&#8220;<a href="http://en.wikipedia.org/wiki/Ignaz_Semmelweis">Ignaz Semmelweis</a>&#8221;, <em>Wikipedia</em> (<a href="http://en.wikipedia.org/w/index.php?title=Ignaz_Semmelweis&amp;oldid=501540461">visited 2012-08-13</a>).&#160;<a href="#fnref:fn1" rev="footnote">&#8617;</a></p>
+</li>
+
+<li id="fn:mwm">
+<p>Carol Tavris and Elliot Aaronson, <em><a href="http://books.theinfo.org/go/0156033909">Mistakes Were Made (but not by me): Why We Justify Foolish Beliefs, Bad Decisions, and Hurtful Acts</a></em>, (2007), ch. 1.&#160;<a href="#fnref:mwm" rev="footnote">&#8617;</a></p>
+</li>
+
+<li id="fn:mwm2">
+<p><em>Mistakes Were Made</em>, ch. 8. A larger study of public companies also found that companies which admitted screwing up tended to have higher stock prices. Fiona Lee, Christopher Peterson, and Larissa Z. Tiedens, &#8220;<a href="http://dx.doi.org/10.1177/0146167204266654">Mea Culpa: Predicting Stock Prices From Organizational Attributions</a>,&#8221; <em>Personality and Social Psychology Bulletin,</em> <strong>30</strong>: 12 (December 2004), 1636–1649.&#160;<a href="#fnref:mwm2" rev="footnote">&#8617;</a></p>
+</li>
+
+</ol>
+</div>
+
+]]></content:encoded>
+	<dc:date>2012-08-18T16:52:37-00:00</dc:date>
+  </item>
+  <item rdf:about="http://www.aaronsw.com/weblog/batmanbegins">
+    <title>What Happens in <em>Batman Begins</em></title>
+    <link>http://www.aaronsw.com/weblog/batmanbegins</link>
+    <content:encoded><![CDATA[
+<p><em>Warning: Naturally, spoilers follow &#8212; for both</em> Batman Begins <em>and</em> The Dark Knight Rises.<sup id="fnref:fn1"><a href="#fn:fn1" rel="footnote">1</a></sup></p>
+
+<p>We begin in the 1980s, when the global forces of evil have decided to institute a new economic policy on the world. Their nefarious plan dramatically exacerbates inequality, making the rich filthy rich while the poor suffer terrible levels of unemployment.</p>
+
+<p>The difference is that in the Batman universe, Gotham&#8217;s leading billionaire (Thomas Wayne) can&#8217;t stand the suffering and begins investing in the city when the government won&#8217;t. He builds a giant Keynesian supertrain in a desperate attempt to get the city back to work. But, in an ironic twist, he ends up murdered by one of the desperate poverty-stricken citizens he&#8217;s trying so hard to help.</p>
+
+<p>The murder of the billionaire shocks the surviving billionaires, leading them to reverse their neoliberal policies. Instead of getting tough on crime, they decide to indulge criminals, with a deep willingness to treat criminality as merely a mental health problem.</p>
+
+<p>As the billionaires retreat from power, organized crime steps in, taking their place in buying off judges and unions and cops. Instead of being run by Wayne Enterprises, the city ends up being run by mob boss Carmine Falcone.</p>
+
+<p>But a few rogue elements in the police and DA&#8217;s office refuse to be bought off. They free the man who murdered Thomas Wayne in exchange for his testimony against Falcone. Bruce Wayne, the billionaire&#8217;s son, is so haunted by his personal demons that he can&#8217;t stand this trade-off. When his childhood-friend-turned-rogue-ADA points out the selfishness of his position, he confronts Falcone. When Falcone explains that Bruce will always live in fear of what he does not understand, Bruce sets off on a quest to understand criminals.</p>
+
+<p>His search concludes in a far eastern terrorist training camp, which turns out to be backed by the same global forces of evil that invented neoliberalism. It&#8217;s the year 2000 and they have a new plan: attacking Gotham with the hope of inspiring enough fear that the city will destroy itself.<sup id="fnref:rg"><a href="#fn:rg" rel="footnote">2</a></sup></p>
+
+<p>Bruce, still haunted by the execution of his parents, refuses to become an executioner himself and, instead of joining the plot, sets fire to the camp before returning to clean up Gotham his own way. He begins by putting together a case against Falcone and re-seizing control of Wayne Enterprises by buying up its shares on the public market.</p>
+
+<p>In doing so, he begins a reversal of history that eventually culminates in <a href="http://www.aaronsw.com/weblog/tdkr"><em>The Dark Knight Rises</em></a>. His attack on Falcone leads to a new era of tough-on-crime, which dethrones the organized criminals and allows the wealthy to seize power again. The wealthy quickly reinstitute neoliberalism and buy back Bruce&#8217;s shares on the public market, putting Wayne Enterprises back in their hands. But the global forces of evil step in once again to &#8220;restore balance&#8221; by letting Bane to release the organized criminals.<sup id="fnref:gfe"><a href="#fn:gfe" rel="footnote">3</a></sup> Bruce Wayne goes back to being an innocent child of privilege and the trilogy  ends exactly where it started.<sup id="fnref:rob"><a href="#fn:rob" rel="footnote">4</a></sup></p>
+
+<div class="footnotes">
+<hr />
+<ol>
+
+<li id="fn:fn1">
+<p><em>Batman Begins</em> is very clearly the mirror image of <a href="http://www.aaronsw.com/weblog/tdkr"><em>The Dark Knight Rises</em></a> (some scenes are almost word-for-word the same), so understanding one can help us understand the other.&#160;<a href="#fnref:fn1" rev="footnote">&#8617;</a></p>
+</li>
+
+<li id="fn:rg">
+<p>Yes, in this trilogy 9/11 really was an inside job, from the same folks who brought you Reaganomics.&#160;<a href="#fnref:rg" rev="footnote">&#8617;</a></p>
+</li>
+
+<li id="fn:gfe">
+<p>Democrats, Republicans, organized crime, or billionaire financiers &#8212; whoever tries to seize power, the global forces of evil continue to hold the reins from behind-the-scenes, making sure nobody changes the system too much.&#160;<a href="#fnref:gfe" rev="footnote">&#8617;</a></p>
+</li>
+
+<li id="fn:rob">
+<p>Exactly, right down to how Robin (who see as a small boy in the first film, the same way we see Bruce in flashbacks) ends the film frustrated by the system (the same way Bruce was frustrated by Rachel) and is about to head out in a quest of his own, following the same path Bruce Wayne took. Thus the cycle continues.&#160;<a href="#fnref:rob" rev="footnote">&#8617;</a></p>
+</li>
+
+</ol>
+</div>
+
+]]></content:encoded>
+	<dc:date>2012-08-22T04:10:14-00:00</dc:date>
+  </item>
+  <item rdf:about="http://www.aaronsw.com/weblog/dweck">
+    <title>Believe you can change</title>
+    <link>http://www.aaronsw.com/weblog/dweck</link>
+    <content:encoded><![CDATA[
+<p><em>This post is part two of the series <a href="rawnerve">Raw Nerve</a>.</em></p>
+
+<p>Carol Dweck was obsessed with failure. You know how some people just seem to succeed at everything they do, while others seem helpless, doomed to a life of constant failure? Dweck noticed that too &#8212; and she was determined to figure out why. So she began watching kids, trying to see if she could spot the difference between the two groups.</p>
+
+<p>In a 1978 study with Carol Diener, she gave kids various puzzles and recorded what they said as they tried to solve them. Very quickly, the helpless kids started blaming themselves: &#8220;I&#8217;m getting confused,&#8221; one said; &#8220;I never did have a good rememory,&#8221; another explained.</p>
+
+<p>But the puzzles kept coming &#8212; and they kept getting harder. &#8220;This isn&#8217;t fun anymore,&#8221; the kids cried. But still, there were more puzzles.</p>
+
+<p>The kids couldn&#8217;t take it anymore. &#8220;I give up,&#8221; they insisted. They started talking about other things, trying to take their mind off the onslaught of tricky puzzles. &#8220;There is a talent show this weekend, and I am going to be Shirley Temple,&#8221; one girl said. Dweck just gave them even harder puzzles.</p>
+
+<p>Now the kids started getting silly, almost as if they could hide their failure by making it clear they weren&#8217;t trying in the first place. Despite repeatedly being told it was incorrect, one boy just kept choosing brown as his answer, saying &#8220;Chocolate cake, chocolate cake.&#8221;<sup id="fnref:dweck78"><a href="#fn:dweck78" rel="footnote">1</a></sup></p>
+
+<p>Maybe these results aren&#8217;t surprising. If you&#8217;ve ever tried to play a board game with kids, you&#8217;ve probably seen them say all these things and more (Dweck appears to be missing the part where they pick up the game board and throw all the pieces on the floor, then run away screaming).</p>
+
+<p>But what shocked her &#8212; and changed the course of her career &#8212; was the behavior of the successful kids. &#8220;Everyone has a role model, someone who pointed the way at a critical moment in their lives,&#8221; she later wrote. &#8220;These children were my role models. They obviously knew something I didn&#8217;t and I was determined to figure it out.&#8221;<sup id="fnref:mindset1"><a href="#fn:mindset1" rel="footnote">2</a></sup></p>
+
+<p>Dweck, like many adults, had learned to hide her frustration and anger, to politely say &#8220;I&#8217;m not sure I want to play this anymore&#8221; instead of knocking over the board. She figured the successful kids would be the same &#8212; they&#8217;d have tactics for coping with failure instead of getting beaten down by it.</p>
+
+<p>But what she found was radically different. The successful kids didn&#8217;t just live with failure, they <em>loved</em> it! When the going got tough, they didn&#8217;t start blaming themselves; they licked their lips and said &#8220;I love a challenge.&#8221; They&#8217;d say stuff like &#8220;The harder it gets the harder I need to try.&#8221;</p>
+
+<p>Instead of complaining it wasn&#8217;t fun when the puzzles got harder, they&#8217;d psych themselves up, saying &#8220;I&#8217;ve almost got it now&#8221; or &#8220;I did it before, I can do it again.&#8221; One kid, upon being a given a really hard puzzle, one that was supposed to be obviously impossible to solve, just looked up at the experimenter with a smile and said, &#8220;You know, I was <em>hoping</em> this would be informative.&#8221;<sup id="fnref:dweckleggett"><a href="#fn:dweckleggett" rel="footnote">3</a></sup></p>
+
+<p><em>What was wrong with them?</em></p>
+
+<hr />
+
+<p>The difference, Dweck discovered, was one of mindset. Dweck had always thought &#8220;human qualities were carved in stone. You were smart or you weren&#8217;t, and failure meant you weren&#8217;t.&#8221; That was why the helpless kids couldn&#8217;t take it when they started failing. It just reminded them they sucked (they easily got confused, they had &#8220;a bad rememory&#8221;). Of course it wasn&#8217;t fun anymore &#8212; why would it be fun to get constantly reminded you&#8217;re a failure? No wonder they tried to change the subject. Dweck called this the &#8220;fixed mindset&#8221; &#8212; the belief that your abilities are fixed and that the world is just a series of tests that show you how good you are.</p>
+
+<p>The successful kids believed precisely the opposite: that everything came through effort and that the world was full of interesting challenges that could help you learn and grow. (Dweck called this the &#8220;growth mindset.&#8221;) That&#8217;s why they were so thrilled by the harder puzzles &#8212; the easier ones weren&#8217;t any sort of challenge, there was nothing you could learn from them. But the really tough ones? Those were fascinating &#8212; a new skill to develop, a new problem to conquer. In later experiments, kids even asked to take puzzles home so they could work on them some more.<sup id="fnref:muellerdweck"><a href="#fn:muellerdweck" rel="footnote">4</a></sup></p>
+
+<p>It took a seventh-grader to explain it to her: &#8220;I think intelligence is something you have to work for&#8230;it isn&#8217;t just given to you&#8230; Most kids, if they&#8217;re not sure of an answer, will not raise their hand&#8230; But what I usually do is raise my hand, because if I&#8217;m wrong, then my mistake will be corrected. Or I will raise my hand and say&#8230; &#8216;I don&#8217;t get this. Can you help me?&#8217; Just by doing that I&#8217;m increasing my intelligence.&#8221;<sup id="fnref:m2"><a href="#fn:m2" rel="footnote">5</a></sup></p>
+
+<p>In the fixed mindset, success comes from proving how great you are. Effort is a bad thing &#8212; if you have to try hard and ask questions, you obviously can&#8217;t be very good. When you find something you <em>can</em> do well, you want to do it over and over, to show how good you are at it.</p>
+
+<p>In the growth mindset, success comes from growing. Effort is what it&#8217;s all about &#8212; it&#8217;s what makes you grow. When you get good at something, you put it aside and look for something harder so that you can keep growing.</p>
+
+<p>Fixed-mindset people feel smart when they don&#8217;t make mistakes, growth-mindset people feel smart when they struggle with something for a long time and then finally figure it out. Fixies try to blame the world when things go bad, growthers look to see what they can change about themselves. Fixies are afraid to try hard &#8212; because if they fail, it means they&#8217;re a failure. Growthers are afraid of not trying.</p>
+
+<hr />
+
+<p>As Dweck continued her research, she kept finding this difference in all sorts of places. In relationships, growth-mindset people looked for partners who would push them to be better, fixies just wanted someone who would put them on a pedestal (and got into terrible fights when they hit problems). Growther CEOs keep looking for new products and ways to improve, fixies cut research and tried to squeeze profits from old successes. Even in sports, growther athletes got better and better through constant practice, while fixies blamed their atrophying skills on everyone around them.</p>
+
+<p>But Dweck applied a growth mindset to the question of mindset &#8212; and discovered that your mindset could itself be changed. Even small interventions &#8212; like telling students they were doing well because they tried hard, rather than because they were smart &#8212; had huge effects. With more work, she could change totally fixed-mindset people into fervent growth-mindset ones.</p>
+
+<p>She herself changed, converting from a fervent fixed-mindsetter, always looking for excuses to prove how smart she was, to a growther, looking for new challenges. It was hard: &#8220;since I was taking more risks, I might look back over the day and see all the mistakes and setbacks. And feel miserable. [You feel like a zero]&#8230; you want to rush right out and rack up some high numbers.&#8221; But she resisted the urge &#8212; and became a leading psychologist instead.<sup id="fnref:m3"><a href="#fn:m3" rel="footnote">6</a></sup></p>
+
+<hr />
+
+<p>The first step to getting better is believing you <em>can</em> get better. In her book, <em><a href="http://books.theinfo.org/go/0345472322">Mindset</a></em>, Dweck explains how to start talking back to your fixed mindset. The fixed mindset says, &#8220;What if you fail? You&#8217;ll be a failure.&#8221; The growth mindset replies, &#8220;Most successful people had failures along the way.&#8221;<sup id="fnref:site"><a href="#fn:site" rel="footnote">7</a></sup></p>
+
+<p>Now when I first heard about this work, I just thought: that&#8217;s nice, but I already do all this. I believe fervently that intelligence can change and that talents can be learned. Indeed, I&#8217;d say I&#8217;m almost pathologically growth mindset. But even I began to notice there are some things I have a fixed mindset about.</p>
+
+<p>For example, I used to think I was introverted. Everyone had always told me that you were either an extroverted person or an introverted person. From a young age, I was quite shy and bookish, so it seemed obvious: I was an introvert.</p>
+
+<p>But as I&#8217;ve grown, I&#8217;ve found that&#8217;s hardly the end of the story. I&#8217;ve started to get good at leading a conversation or cracking people up with a joke. I <em>like</em> telling stories at a party a story or buzzing about a room saying &#8216;hi&#8217; to people. I get a rush from it! Sure, I&#8217;m still not the most party-oriented person I know, but I no longer think we fit into any neat introversion/extroversion buckets.</p>
+
+<p>Growth mindset has become a kind of safe word for my partner and I. Whenever we feel the other person getting defensive or refusing to try something because &#8220;I&#8217;m not any good at it&#8221;, we say &#8220;Growth mindset!&#8221; and try to approach the problem as a chance to grow, rather than a test of our abilities. It&#8217;s no longer scary, it&#8217;s just another project to work on.</p>
+
+<p>Just like life itself.</p>
+
+<p><strong>Next in this series:</strong> <a href="semmelweis">Look at yourself objectively</a></p>
+
+<div class="footnotes">
+<hr />
+<ol>
+
+<li id="fn:dweck78">
+<p>Carol I. Diener and Carol S. Dweck, &#8220;<a href="http://dx.doi.org/10.1037/0022-3514.36.5.451">An Analysis of Learned Helplessness: Continuous Changes in Performance, Strategy, and Achievement Cognitions Following Failure</a>,&#8221; <em>Journal of Personality and Social Psychology</em>, <strong>36</strong>:5 (May 1978), 451—462.&#160;<a href="#fnref:dweck78" rev="footnote">&#8617;</a></p>
+</li>
+
+<li id="fn:mindset1">
+<p>Carol Dweck, <em>Mindset: The New Psychology of Success</em> (2007), 3.&#160;<a href="#fnref:mindset1" rev="footnote">&#8617;</a></p>
+</li>
+
+<li id="fn:dweckleggett">
+<p>Carol S. Dweck and Ellen L. Leggett, &#8220;<a href="http://dx.doi.org/10.1037/0033-295X.95.2.256">A Social-Cognitive Approach to Motivation and Personality</a>,&#8221; <em>Psychological Review</em>, <strong>95</strong>:2 (1988), 256—273.&#160;<a href="#fnref:dweckleggett" rev="footnote">&#8617;</a></p>
+</li>
+
+<li id="fn:muellerdweck">
+<p>Claudia M. Mueller and Carol Dweck, &#8220;<a href="http://dx.doi.org/10.1037/0022-3514.75.1.33">Praise for Intelligence Can Undermine Children&#8217;s Motivation and Performance</a>,&#8221; <em>Journal of Personality and Social Psychology</em>, <strong>75</strong>:1 (July 1998), 33–52.&#160;<a href="#fnref:muellerdweck" rev="footnote">&#8617;</a></p>
+</li>
+
+<li id="fn:m2">
+<p><em>Mindset</em>, 17.&#160;<a href="#fnref:m2" rev="footnote">&#8617;</a></p>
+</li>
+
+<li id="fn:m3">
+<p><em>Mindset</em>, 225.&#160;<a href="#fnref:m3" rev="footnote">&#8617;</a></p>
+</li>
+
+<li id="fn:site">
+<p>Carol Dweck, &#8220;<a href="http://mindsetonline.com/changeyourmindset/firststeps/index.html">How can you change from a fixed mindset to a growth mindset?</a>,&#8221; <em>mindsetonline.com</em> (<a href="http://www.webcitation.org/6A0ml0Csy">visited 2012-08-18</a>).&#160;<a href="#fnref:site" rev="footnote">&#8617;</a></p>
+</li>
+
+</ol>
+</div>
+
+]]></content:encoded>
+	<dc:date>2012-08-18T14:59:04-00:00</dc:date>
+  </item>
+  <item rdf:about="http://www.aaronsw.com/weblog/burketdkr">
+    <title>Edmund Burke Explains <em>The Dark Knight Rises</em></title>
+    <link>http://www.aaronsw.com/weblog/burketdkr</link>
+    <content:encoded><![CDATA[
+<p>From Corey Robin&#8217;s fantastic book <em><a href="http://books.theinfo.org/go/0199793743">The Reactionary Mind</a></em>:</p>
+
+<blockquote>
+  <p>Great power, [Burke] suggests in <em>The Sublime and the Beautiful</em>, should never aspire to be&#8212;and can never actually be&#8212;beautiful. What great power needs is sublimity. The sublime is the sensation we experience in the face of extreme pain, danger, or terror. It is something like awe but tinged with fear and dread. Burke calls it &#8220;delightful horror.&#8221; Great power should aspire to sublimity rather than beauty because sublimity produces &#8220;the strongest emotion which the mind is capable of feeling.&#8221; It is an arresting yet invigorating emotion, which has the simultaneous but contradictory effect of diminishing and magnifying us. We feel annihiliated by great power; at the same time, our sense of self &#8220;swell[s]&#8221; when &#8220;we are conversant with terrible objects.&#8221; Great power achieves sublimity when it is, among other things, obscure and mysterious, and when it is extreme. &#8220;In all things,&#8221; writes Burke, the sublime &#8220;abhors mediocrity.&#8221;<sup id="fnref:fn18"><a href="#fn:fn18" rel="footnote">1</a></sup></p>
+  
+  <p>In the <em>Reflections</em>, Burke suggests that the problem in France is that the old regime is beautiful while the revolution is sublime. The landed interest, the cornerstone of the old regime, is &#8220;sluggish, inert, and timid.&#8221; It cannot defend itself &#8220;from the invasions of ability,&#8221; with ability standing in here for the new men of power that the revolution brings forth. Elsewhere in the <em>Reflections</em>, Burke says that the moneyed interest, which is allied with the revolution, is stronger than the aristocratic interest because it is &#8220;more ready for any adventure&#8221; and &#8220;more disposed to new enterprises of any kind.&#8221; The old regime, in other words, is beautiful, static, and weak; the revolution is ugly, dynamic, and strong. And in the horrors that the revolution perpetrates&#8212;the rabble rushing into the bedchamber of the queen, dragging her half-naked into the street, and marching her and her family to Paris&#8212;the revolution achieves a kind of sublimity: &#8220;We are alarmed into reflexion,&#8221; writes Burke of the revolutionaries&#8217; actions. &#8220;Our minds &#8230; are purified by terror and pity; our weak unthinking pride is humbled, under the dispensations of a mysterious wisdom.<sup id="fnref:fn19"><a href="#fn:fn19" rel="footnote">2</a></sup></p>
+  
+  <p>Beyond these simple professions of envy or admiration, the conservative actually copies and learns from the revolution he opposes. &#8220;To destroy that enemy,&#8221; Burke wrote of the Jacobins, &#8220;by some means or other, the force opposed to it should be made to bear some analogy and resemblance to the force and spirit which that system exerts.&#8221;<sup id="fnref:fn20"><a href="#fn:fn20" rel="footnote">3</a></sup></p>
+</blockquote>
+
+<p>Is it not all here, right down to the moneyed interests allying with the revolution and the revolution throwing the aristocrats from their bedchambers?</p>
+
+<div class="footnotes">
+<hr />
+<ol>
+
+<li id="fn:fn18">
+<p>Burke, <em>Sublime and the Beautiful</em>, 86, 96, 121, 165.&#160;<a href="#fnref:fn18" rev="footnote">&#8617;</a></p>
+</li>
+
+<li id="fn:fn19">
+<p>Burke, <em>Reflections</em>, 207, 243, 275. Also see Burke, <em>Regicide Peace</em>, 66, 70, 107, 157, 207, 222.&#160;<a href="#fnref:fn19" rev="footnote">&#8617;</a></p>
+</li>
+
+<li id="fn:fn20">
+<p>Burke, <em>Regicide Peace</em>, 184.&#160;<a href="#fnref:fn20" rev="footnote">&#8617;</a></p>
+</li>
+
+</ol>
+</div>
+
+]]></content:encoded>
+	<dc:date>2012-08-19T15:06:03-00:00</dc:date>
+  </item>
+  <item rdf:about="http://www.aaronsw.com/weblog/stepback">
+    <title>Take a step back</title>
+    <link>http://www.aaronsw.com/weblog/stepback</link>
+    <content:encoded><![CDATA[
+<p><em>This post introduces a new series, <a href="rawnerve">Raw Nerve</a>.</em></p>
+
+<p>For most of my life, I saw my job as just making good choices. I was the decider, tasked with making the best selection from the options life presented. I could play with this friend or that one, go to this college or that one, take this job offer or the other one.</p>
+
+<p>Even my problems I dealt with this way. If someone was annoying me, I&#8217;d choose to avoid them. If something was bugging me, I&#8217;d choose to stop thinking about it. I mostly kept my eyes on what was in front of me.</p>
+
+<p>But recently I&#8217;ve started appreciating the virtues of stepping back and trying to see the bigger picture. Instead of just picking the best option, I try to invent new ones. Instead of just avoiding the stuff that bugs me, should I start making plans to fix them.</p>
+
+<p>It&#8217;s given me a weird feeling. I feel more in control of my life, more able to cope with my problems. I feel like I&#8217;m charting my own destiny, instead of following some track. It&#8217;s hard to explain, but it&#8217;s a feeling like I&#8217;m getting stronger &#8212; not physically, but psychologically. It&#8217;s a good feeling. I feel like I&#8217;m growing as a person.</p>
+
+<p>So I started wondering: <em>Is there more where that came from?</em> I realized I&#8217;ve never stopped to ask whether I could get better at life. After all, in my day job, I&#8217;m constantly looking for ways to learn and grow &#8212; reading the latest books and articles about the field, talking to other people with similar jobs and hearing what&#8217;s worked for them. Why aren&#8217;t I doing the same thing for life?</p>
+
+<p>It turns out to be surprisingly hard. Life comes with no instruction manual and the advice parents give is all over the place. TV and the newspapers don&#8217;t offer much more than narrow Quick Tips and I never saw a course in this stuff at school. There are self-help books and self-improvement courses, of course, but they seem overly practical: they&#8217;re usually less about working through tough problems and more about energizing you to Get Up And Go! And there&#8217;s philosophy about The Good Life, but it seems to go too far in the other direction: there&#8217;s very little in there for someone to practically apply.</p>
+
+<p>The blogs are a weird mix. There are the blogs on &#8220;life hacks,&#8221; which are full of gadgets and gizmos that seem to cause more problems than they solve. There are the anti-procrastination blogs, where the author has a constant stream of epiphanies that all seem to amount to &#8220;just put away the distractions and get stuff done.&#8221; And there are the charlatans, who tell you that all your wildest dreams can come true if you just follow their patented advice.</p>
+
+<p>So instead of an obvious place to go, I&#8217;ve just been finding little bits and pieces in all sorts of strange places: psychology experiments, business books, philosophy, self-help, math, and my friends. But since there&#8217;s no community around it, it&#8217;s hard to discuss it with anyone (trying to persuade other people to be interested in what you&#8217;re interested in is a fool&#8217;s game).</p>
+
+<p>So I figure I&#8217;ll just start writing about it here and see if anyone cares. Maybe it&#8217;ll grow into something, but even if it doesn&#8217;t at least I&#8217;ll clarify my thoughts and hopefully get a few good suggestions for further reading.</p>
+
+<p>I don&#8217;t have a name for what I&#8217;m talking about or even a good sense of what it is. I&#8217;m hopeful that will become clearer with practice. But in the meantime, what&#8217;s helped you get better at life?–at thinking, deciding, working, thinking. Whether it&#8217;s a gadget or technique or book or person, I&#8217;d love it if you <a href="http://talk.aaronsw.com/take-a-step-back">posted what you&#8217;ve found most helpful in the comments</a>.</p>
+
+<p><strong>Next in this series:</strong> <a href="dweck">Believe you can change</a></p>
+
+]]></content:encoded>
+	<dc:date>2012-08-18T15:10:26-00:00</dc:date>
+  </item>
+</rdf:RDF>

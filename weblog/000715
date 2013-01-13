@@ -1,0 +1,51 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Announcing Decisions (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/000715.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000704" title="2003 Redesign: [viewed best in gill sans]" />	<link rel="next" href="000716" title="i&#8217;ve got the jitterbug" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Announcing Decisions</h1>
+</div>
+
+<div class="content">
+<p>Unless you&#8217;ve been living in Redmond for the past day, you know that the District Court of D.C. <a href="http://slashdot.org/articles/02/11/01/2034207.shtml?tid=123">has let Microsoft off with a slap on the wrist</a>. Looks like the court fully accepted <a href="http://www.theregister.co.uk/content/4/22684.html">the swiss cheese settlement</a>. There&#8217;s always appeal.</p>
+
+<p>I found the results because (due to a strange coincidence&#8212;I very rarely visit slashdot) I happened to visit /. seconds after they posted the story (no comments had been posted when I was there), which was an hour earlier than the decision was actually released. I also subscribed to get <a href="http://www.dcd.uscourts.gov/microsoft-2001-email.html">the decision by email</a> and had the radio on (NPR announced it during their 3:30PM news break).</p>
+
+<p>But what about the Supreme Court? How does one get the opinion in the Eldred case? Lessig writes explaining that the court usually announces opinions before oral argument (<a href="http://oyez.org/dynaram.cgi?case_id=1302&amp;resource=opinion.rm">example (RealAudio)</a> from <a href="http://oyez.org/cases/cases.cgi?case_id=1302">Lopez v. Davis</a>&#8212;I wonder if it&#8217;s the same Lopez from <a href="http://oyez.org/cases/cases.cgi?case_id=642">United States v. Lopez</a>; both involved guns). He says he&#8217;ll also get a call beforehand.</p>
+
+<p>The court has <a href="http://supremecourtus.gov/publicinfo/phonenumbers.html">several telephone numbers</a> including <a href="tel:+12024793360">one for opinion announcements</a>. I called and got a recorded message stating (in part): &#8220;Today is Friday, November first. We will be releasing [&#8230;] opinions on Tuesday, November 5th.&#8221; I&#8217;ll try to remember to call again on Tuesday.</p>
+
+<p>The court also has a document on <a href="http://supremecourtus.gov/opinions/obtainopinions.pdf">where to obtain opinions</a>. The first draft (bench) opinion is available electronically through the subscription-only Project Hermes. Luckily, it appears that <a href="http://www.law.cornell.edu/focus/bulletins.html">Cornell Law School provides an email list where they distribute summaries (syllabi) of the decisions &#8220;hours after their release&#8221;</a> with links to the full decision. I subscribed to that too.</p>
+
+<p class="posted">posted November 01, 2002 01:54 PM (<a class="category" href="cat_politics">Politics</a>)  <a href="000715" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000704" title="2003 Redesign: [viewed best in gill sans]">&laquo; prev</a> | <a href="./">up</a> | <a href="000716" title="i&#8217;ve got the jitterbug">next &raquo;</a></p>
+
+<p><a href="000690">patently &#8220;fair use&#8221;</a><br />
+<a href="000691">new arguments</a><br />
+<a href="000694">IMMINENT END OF NET PREDICTED (source code at 11)</a><br />
+<a href="000699">won&#8217;t anyone think of the starving?</a><br />
+<a href="000704">2003 Redesign: [viewed best in gill sans]</a><br />
+<strong>Announcing Decisions</strong><br />
+<a href="000716">i&#8217;ve got the jitterbug</a><br />
+<a href="000717">Quality Software</a><br />
+<a href="000718">Official Argument Transcripts</a><br />
+<a href="000720">The Case for Source Code Escrow</a><br />
+<a href="000721">File Cabinet Lib</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

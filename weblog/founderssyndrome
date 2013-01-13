@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Founder's Syndrome (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Founder&#8217;s Syndrome</h1>
+
+<p>The simplest way to do something, of course, is to do it yourself. But there&#8217;s lots of stuff to be done and not enough you to do it. You can get around this a little bit by finding friends who are interested in doing some of it themselves, but at some point you&#8217;re going to have to start &#8220;delegating&#8221;, or getting somebody else to do it.</p>
+
+<p>Now you&#8217;re moving up in the world. If you&#8217;re a decent manager, instead of running one project, you can run five or ten. Instead of simply directing your own labor, you can direct whole groups of people. Of course, it&#8217;ll still be people doing what you wanted, but &#8212; funny thing &#8212; people are smart enough that they&#8217;ll begin to get the gist of things on their own and, if you do it right, your delegation will become an organization. You can disappear for a week and things will keep on marching.</p>
+
+<p>But make no mistake, even those organizations are still following the will of their erstwhile founder. Even as they get big, they betray facets of the founder&#8217;s personality. The most obvious is in who is respected. My friend Emmett Shear has a theory that in each company only one class of people can be in charge and it&#8217;s going to be the class of people the founders are in. At Apple, for example, the UI designers are in charge, because Jobs obsesses over UI design. At Google, it&#8217;s the programmers, because Larry and Sergey used to code. Even though the founders aren&#8217;t directly involved in every project, their surrogates still win the day.</p>
+
+<p>Now the problem comes when the organization wants to grow beyond its founder. This is most common on non-profits, where they even have a name for it: founder&#8217;s syndrome. See, once you have all these people carrying out your bidding, it&#8217;s pretty difficult to want to give that up. Maybe you can have them do more projects, maybe you can give them more flexibility in what they choose, but I can&#8217;t think of a single story where the guy in charge voluntarily gave up his power. And that has a severe cost (which I&#8217;ve come to calling the &#8220;power premium&#8221;) because giving up your power is often the right thing to do.</p>
+
+<p>In non-profits, for example, your organization is probably made up of a bunch of independent-minded young people with a strong belief in democracy. These people aren&#8217;t too happy being told what to do all the time, especially when the instructions are pretty obviously not the best thing for the non-profit&#8217;s mission. So they rebel against the founder, and the founder tries to hold on to power, and things get very messy. (I don&#8217;t know how things usually turn out in this situation. Maybe you fight until the founder dies?)</p>
+
+<p>Less well noticed is that the same mistake is made by for-profit corporations as well, it&#8217;s just less obvious because the founder is the fellow holding all the cash, so you fight about it at your peril. But companies regularly do stupid things, even when if you asked all the people in the company about it they would have told you they were stupid. But in a capitalist economy, the founder has to maintain control.</p>
+
+<p>But the power premium has a even more serious cost. While many people seem to be able to make the leap from doing something themselves to building an organization to do it, nobody seems to have been very good at taking the next step: going from an organization to a meta-organization, an organization that hires other organizations to do its work, rather than hiring people directly.</p>
+
+<p>Why? Partly because few people get to be in charge of something the size of Google, where they need to take that next step to grow, and perhaps the trait of thinking that big is rare. But I think part of it is simply because the people at the top can&#8217;t give up their power. Engaging organizations means you&#8217;re no longer in charge of what people do or how they do it; the organizations have to be in charge of that. And that means you&#8217;re no longer a delegator, but more of a moderator. It&#8217;s founder&#8217;s syndrome at the largest scale.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">October 27, 2006</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>I would guess that the reason why</p>
+
+<blockquote>
+  <p>nobody seems to have been very good at taking the next step:
+    going from an organization to a meta-organization, an
+    organization that hires other organizations to do its work,
+    rather than hiring people directly</p>
+</blockquote>
+
+<p>is because we have a very poor understanding of things as large
+as an organization. We have no effective simplifying metrics for
+understanding whole organizations. So we have no choice but to
+throw them all into a big capital market, and watch where the
+dollars flow. It is mindless and perverse, but at least it is
+something.</p>
+
+<p>Dollars flow into organizations that seem effective, pretty much,
+and dollars flow out of organizations that are ineffective,
+pretty much.  With a lot of dollars flowing in ways that are
+perverse by <em>any</em> standard.</p>
+
+<p>Also humans have a pack mentality.  Almost all humans:</p>
+
+<ul>
+<li><p>Are most comfortable working under an absolute leader</p></li>
+<li><p>Are most comfortable knowing at all times which people are
+above them in authority/power, and which people are below
+them in authority/power.</p></li>
+<li><p>Would rather step in front of a bus, than take on more
+authority/power than they think they could defend in
+conflict.</p></li>
+<li><p>And, if they are humiliated by asserting authority/power, and
+then having it taken away by someone they previously
+considered to be of lower rank, they will step in front of a
+bus, or they will leave that hierarchy/organization
+altogether, whichever is more convenient.</p></li>
+</ul>
+
+<p>So, we see a bunch of &#8220;command and control&#8221; strictly hierarchical
+organizations carelessly thrown into large capital markets, and
+not much else of significance. It seems stupid, heavy-handed, and
+inefficient, because it <em>is</em> stupid, heavy-handed, and
+inefficient. But people prefer it that way, and the analytical
+tools don&#8217;t exist <em>yet</em> to do it better.</p>
+
+<p class="posted">posted by manuelg
+ on October 27, 2006 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>To mangle Arthur C. Clarke, &#8220;When a distinguished but elderly intellectual states that something is flawed, he is almost certainly right. When he states that something is the best we can do, he is very probably wrong.&#8221;</p>
+
+<p>It&#8217;s certainly easy to say something is the best we can do, though. I notice you don&#8217;t even bother to provide evidence.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on October 27, 2006 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>Actually, he never said it&#8217;s the best we can do.  You need to reread it without the mindset of someone who is already convinced what arguments will be used against them.  He says that it&#8217;s stupid and inefficient but that most people seem to prefer it that way and the best one can say about it is that it is A method, rather than nothing.</p>
+
+<p>I think the reason why things turn out this way is that large organizations have so many moving parts and get very complex.  They need a certain combination of hierarchy and freedom- varying based on their industry and their employees- that is tough to figure out, let alone implement.  There is also a problem with founders being given too much power for too long, as you point out.  But this is based on two things.  As long as the organization is relatively successful, the other shareholders don&#8217;t know enough about the business to kick the founder out.  They&#8217;re willing to let him keep doing what he&#8217;s doing because he&#8217;s the one who figured things out and built the organization in the first place.  However, founders do get kicked out by their boards all the time.  It only happens when the organization has some huge failure (say after the dot com bust when Yahoo brought in Terry Semel to replace the previous CEO and the founders stepped down a bit) but it does happen.</p>
+
+<p>The other reason might be that because of the way things currently work, the founder is usually allowed to keep too much equity in the company for too long.  I think this is less important than the first factor because they usually end up with a minority stake after funding and the first reason than becomes the main one.  Also, if early employees bargain for more equity, the founder will end up with less, so he usually has more equity because he valued it more.  There are many founders who have tried to hold on to equity and then ended up with nothing when the company went bust, so you have to give the ones who maintain their stake credit for believing in the company.</p>
+
+<p class="posted">posted by Ajay
+ on October 27, 2006 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<blockquote>
+  <p>&#8220;When a distinguished but elderly
+    intellectual states that something is
+    flawed, he is almost certainly right.
+    When he states that something is the best
+    we can do, he is very probably wrong.&#8221;</p>
+</blockquote>
+
+<p>First of all, thank you. I have sometimes
+been mistaken for being elderly, but never
+before have I been accused of being
+distinguished or being an intellectual.</p>
+
+<p>I am 35 years old, and the consensus is I am
+an undistinguished idiot.</p>
+
+<p>Let me take one point from Ajay. A
+corporation has some combination of hierarchy
+and &#8220;freedom&#8221;. (Lets define &#8220;freedom&#8221; here as
+social structures that confound hierarchy,
+but are provably effective, as opposed to
+plain anarchy or disorder.) Our current state
+of understanding (from my limited knowledge)
+is that we don&#8217;t even know what a metric that
+measures &#8220;hierarchy/freedom&#8221; looks like, much
+less be able to calculate it, much less be
+able to integrate it with other metrics to
+get an idea of the predicted effectiveness of
+an organization.</p>
+
+<p>So we do what we can: we pay large amounts of
+money to people who are good at negotiating
+for themselves large amounts of money (and
+maybe good at absolutely nothing else), we
+let those people run our corporations, and
+we cross our fingers and hope for the
+best.</p>
+
+<p>So we do what we can: we staff those
+corporations with people who have never even
+considered doing anything else but &#8220;working
+for the man.&#8221;</p>
+
+<p>So we do what we can: we throw all these
+corporations into a large enough capital
+market to hold them, and we watch the bucks
+drift up and down, succumbing to a form of
+manic-depression based on the stock ticker.</p>
+
+<p>My current employment situation prompts me to
+try and figure out better corporate
+structures (on a small scale, bigger than a
+hotdog stand, but smaller than General
+Motors&#8230;), but I have to be realistic about
+the hard constraints.</p>
+
+<p>Theoretically, a corporation could exist that
+throws away hierarchy at the very instant
+when it would be effective, and that shifts
+authority and budget in an ebb and flow at a
+tempo solely based on providing value to the
+customer. Such a corporation could be
+outrageously effective and profitable,
+because it discarded so many &#8220;non-value
+added&#8221; activities (politics, power games,
+accounting games, etc.). But if your average
+employee walked into such a corporation, they
+would be scared shitless and hopelessly
+confused on the first day. The capital
+markets would be scared shitless and run
+away, because there is no established body of
+knowledge to demonstrate predicted
+effectiveness of such a beast as this
+singular corporation.</p>
+
+<p>I have a solution.  I know the way.  I have a
+written document that builds everything you
+would need from first principals.  So do
+200,000 other idiots.</p>
+
+<p>Anyway, I am positive we have passed &#8220;Peak
+Sweet Crude Oil&#8221;, and in less than 5
+generations we will pass &#8220;Peak Energy&#8221;. Also,
+more effective corporate organizations will
+be developed in less than 12 generations. So
+mankind will have no choice but to take them
+up, kicking and screaming.</p>
+
+<p>Peace, Out&#8230;</p>
+
+<p class="posted">posted by manuelg
+ on October 28, 2006 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>Oh yeah, you also said I had no evidence.</p>
+
+<p>I think the statements I made make a model
+that matches the real world, to a first
+approximation. I would feel confident to
+compare it to other models of the same
+succinctness.</p>
+
+<p>I beg for you or others to provide
+contradictory evidence, and a different model
+that fits all the evidence better. The
+problem is interesting to me, and directly
+relevant to me, so I want to learn more.</p>
+
+<p class="posted">posted by manuelg
+ on October 28, 2006 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c6">
+<p>Aaron: noone does that because you <em>cannot</em> hire an organisation. You know the saying that loyalty is squandered on your company because your company will not be loyal to you? This advice applies only weakly to companies that are still small enough that they comprise a single social unit, of course, but that just reinforces the point: organisations are incoherent conglomerates of independent agents acting towards their own best interests, held together by some combination of money and the ambiguity of ideals. Unlike an individual, an organisation has no will or intent, and you’re lucky to get its constituents all pushing in vaguely the same direction.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://plasmasturm.org/">Aristotle Pagaltzis</a>
+ on October 28, 2006 <a href="#c6" rel="bookmark">#</a></p>
+</div>
+<div id="c7">
+<p>Actually Aristotle, organizations do have discernable intent; ask anyone what the intent of an enemy army is. We expect organizations to operate in the perceived interests of those who control them&#8230;</p>
+
+<p>But as for meta-organizations, could you (Aaron) clarify how <a href="http://en.wikipedia.org/wiki/General_Electric#GE_businesses" rel="nofollow">conglomerates like General Electric</a> fit in? How does GE differ from the meta-organization you have in mind?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.democracynow.org/">Tayssir John Gabbour</a>
+ on October 29, 2006 <a href="#c7" rel="bookmark">#</a></p>
+</div>
+<div id="c8">
+<p>I don&#8217;t know the history of GE, but my understanding is that they bought those companies instead of developing them. A better example might be something like 3M, but even there there&#8217;s lots of differences.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on October 29, 2006 <a href="#c8" rel="bookmark">#</a></p>
+</div>
+<div id="c9">
+<p>Tayssir: I had to think about your objection for a while. I am led to disagree. Armies appear to show coherent intent, because, well guess what would happen to a lone soldier who struck out on his own in enemy territory? There isn’t actually coherent intent any more than anywhere else; the agents are still acting in their own best interests, but the nature of their environment is such that this leads to higher cohesion and more overlap in intent than is typical for other organisations.</p>
+
+<p>Of course, every organisation has to display these characteristics to <em>some</em> extent in order to deserve the name; but there is no real coherence to the decisions and motions of an organisation the way there is to those of an individual. The example you picked works better than any other simply due to extremely reinforced command&amp;control structures and due to the nature of the conditions under which it operates.</p>
+
+<p>But even so, what does that mean? Where does it takes us? The implication would seem to be that in order to act more coherently as wholes, organisations need to be organised like armies… colour me unconvinced that this is a good idea.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://plasmasturm.org/">Aristotle Pagaltzis</a>
+ on November  2, 2006 <a href="#c9" rel="bookmark">#</a></p>
+</div>
+<div id="c10">
+<p>Great thoughts, much to ponder.</p>
+
+<p>To your point on leaders stepping aside (the &#8220;power premium&#8221;): one example was George Washington, who, in the face of strong pressure to stay in office, set the example of two terms in office. He did so deliberately (c.f. letters and his message to Congress), and some say ensured the political stability of our nation in doing so.</p>
+
+<p>I heard about a study into the nature of power this year - the conclusion was that holding on to power (such as a national leader) longer than ~8 years seemed to lead to a kind of inertia (or perhaps power&#8217;s corrupting nature) that made it very hard to step down.</p>
+
+<p>I work in a non-profit (one year now) that seems to actually be making that transition from founder > successor fairly well. A family business, no less - there&#8217;s much less infighting and power struggles (I may have missed the fireworks, though). There&#8217;s a good plan for the &#8220;power transition&#8221; after the founder&#8217;s death (70&#8217;s, but still strong!).</p>
+
+<p>Interesting hypotheses, I&#8217;ll be testing them.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://awhitespace.net">Allan White</a>
+ on November  5, 2006 <a href="#c10" rel="bookmark">#</a></p>
+</div>
+<div id="c11">
+<p>Seems that what you remarking on is the following sequence: [laborer, manager, &#8230;], only you are stuck at the manager level. The following roles seem to me to be: director, investor, and politician and/or judge.</p>
+
+<p>Directors of a corporation control its managers. Investors like Warren Buffet, control directors. Over them are politicans and judges who make the rules everyone must follow.</p>
+
+<p>As one goes up the levels, more people are controlled, but the specificity (not necessarily the amount) of the control decreases.</p>
+
+<p>What is amazing to me is the amount of raw power politicians have. They can force the most productive people in the most productive country in the world to hand over more than a third of their income to support projects controlled by them (the politicians).</p>
+
+<p>How does the founder&#8217;s syndrome show up in politics? In our system, I would guess by endorsements and political parties.</p>
+
+<p>In some sense, the Constitution and other law acts to control the power of politicians, and that is interpreted by judges.</p>
+
+<p class="posted">posted by Daniel Patru
+ on November 19, 2006 <a href="#c11" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="founderssyndrome" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

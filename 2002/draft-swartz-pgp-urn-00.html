@@ -1,0 +1,354 @@
+<html><head><title>A URN Namespace for PGP Users</title>
+<STYLE type='text/css'>
+    .title { color: #990000; font-size: 22px; line-height: 22px; font-weight: bold; text-align: right;
+             font-family: helvetica, arial, sans-serif }
+    .filename { color: #666666; font-size: 18px; line-height: 28px; font-weight: bold; text-align: right;
+                  font-family: helvetica, arial, sans-serif }
+    p.copyright { color: #000000; font-size: 10px;
+                  font-family: verdana, charcoal, helvetica, arial, sans-serif }
+    p { margin-left: 2em; margin-right: 2em; }
+    li { margin-left: 3em;  }
+    ol { margin-left: 2em; margin-right: 2em; }
+    ul.text { margin-left: 2em; margin-right: 2em; }
+    pre { margin-left: 3em; color: #333333 }
+    ul.toc { color: #000000; line-height: 16px;
+             font-family: verdana, charcoal, helvetica, arial, sans-serif }
+    H3 { color: #333333; font-size: 16px; line-height: 16px; font-family: helvetica, arial, sans-serif }
+    H4 { color: #000000; font-size: 14px; font-family: helvetica, arial, sans-serif }
+    TD.header { color: #ffffff; font-size: 10px; font-family: arial, helvetica, san-serif; valign: top }
+    TD.author-text { color: #000000; font-size: 10px;
+                     font-family: verdana, charcoal, helvetica, arial, sans-serif }
+    TD.author { color: #000000; font-weight: bold; margin-left: 4em; font-size: 10px; font-family: verdana, charcoal, helvetica, arial, sans-serif }
+     A:link { color: #990000; font-weight: bold;
+              font-family: MS Sans Serif, verdana, charcoal, helvetica, arial, sans-serif }
+     A:visited { color: #333333; font-weight: bold;
+                 font-family: MS Sans Serif, verdana, charcoal, helvetica, arial, sans-serif }
+     A:name { color: #333333; font-weight: bold;
+              font-family: MS Sans Serif, verdana, charcoal, helvetica, arial, sans-serif }
+    .link2 { color:#ffffff; font-weight: bold; text-decoration: none;
+             font-family: monaco, charcoal, geneva, MS Sans Serif, helvetica, monotype, verdana, sans-serif;
+             font-size: 9px }
+    .RFC { color:#666666; font-weight: bold; text-decoration: none;
+           font-family: monaco, charcoal, geneva, MS Sans Serif, helvetica, monotype, verdana, sans-serif;
+           font-size: 9px }
+    .hotText { color:#ffffff; font-weight: normal; text-decoration: none;
+               font-family: charcoal, monaco, geneva, MS Sans Serif, helvetica, monotype, verdana, sans-serif;
+               font-size: 9px }
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" alink="#000000" vlink="#666666" link="#990000">
+<table border="0" cellpadding="0" cellspacing="2" width="30" height="15" align="right"><tr><td bgcolor="#990000" align="center" width="30" height="15"><a href="#toc" CLASS="link2"><font face="monaco, MS Sans Serif" color="#ffffff" size="1"><b>&nbsp;TOC&nbsp;</b></font></a><br></td></tr></table>
+<table width="66%" border="0" cellpadding="0" cellspacing="0"><tr><td><table width="100%" border="0" cellpadding="2" cellspacing="1">
+<tr valign="top"><td width="33%" bgcolor="#666666" class="header">Network Working Group</td><td width="33%" bgcolor="#666666" class="header">A. Swartz</td></tr>
+<tr valign="top"><td width="33%" bgcolor="#666666" class="header">Internet-Draft</td><td width="33%" bgcolor="#666666" class="header">AaronSw.com</td></tr>
+<tr valign="top"><td width="33%" bgcolor="#666666" class="header">Expires: January 6, 2003</td><td width="33%" bgcolor="#666666" class="header">July 8, 2002</td></tr>
+</table></td></tr></table>
+<div align="right"><font face="monaco, MS Sans Serif" color="#990000" size="+3"><b><br><span class="title">A URN Namespace for PGP Users</span></b></font></div>
+<div align="right"><font face="monaco, MS Sans Serif" color="#666666" size="+2"><b><span class="filename">draft-swartz-pgp-urn-00</span></b></font></div>
+<font face="verdana, helvetica, arial, sans-serif" size="2">
+
+<h3>Status of this Memo</h3>
+<p>
+This document is an Internet-Draft and is in full conformance with all provisions of Section 10 of RFC2026.</p>
+<p>
+Internet-Drafts are working documents of the Internet Engineering
+Task Force (IETF), its areas, and its working groups.
+Note that other groups may also distribute working documents as
+Internet-Drafts.</p>
+<p>
+Internet-Drafts are draft documents valid for a maximum of six months
+and may be updated, replaced, or obsoleted by other documents at any time.
+It is inappropriate to use Internet-Drafts as reference material or to cite
+them other than as "work in progress."</p>
+<p>
+The list of current Internet-Drafts can be accessed at
+<a href='http://www.ietf.org/ietf/1id-abstracts.txt'>http://www.ietf.org/ietf/1id-abstracts.txt</a>.</p>
+<p>
+The list of Internet-Draft Shadow Directories can be accessed at
+<a href='http://www.ietf.org/shadow.html'>http://www.ietf.org/shadow.html</a>.</p>
+<p>
+This Internet-Draft will expire on January 6, 2003.</p>
+
+<h3>Copyright Notice</h3>
+<p>
+Copyright (C) The Internet Society (2002). All Rights Reserved.</p>
+
+<h3>Abstract</h3>
+
+<p>
+This document describes a URN (Uniform Resource Name) for use by those with OpenPGP keys. OpenPGP is a standardized public-key cryptosystem that provides for digital signatures and encryption. This namespace can be used in conjunction with OpenPGP to ensure reliability of the data by means of a digital signature.
+</p>
+<a name="toc"><br><hr size="1" shade="0"></a>
+<table border="0" cellpadding="0" cellspacing="2" width="30" height="15" align="right"><tr><td bgcolor="#990000" align="center" width="30" height="15"><a href="#toc" CLASS="link2"><font face="monaco, MS Sans Serif" color="#ffffff" size="1"><b>&nbsp;TOC&nbsp;</b></font></a><br></td></tr></table>
+<h3>Table of Contents</h3>
+<ul compact class="toc">
+<b><a href="#anchor1">1.</a>&nbsp;
+Introduction<br></b>
+<b><a href="#anchor2">2.</a>&nbsp;
+Specification Template<br></b>
+<b><a href="#anchor3">3.</a>&nbsp;
+Examples<br></b>
+<b><a href="#anchor4">4.</a>&nbsp;
+IANA Considerations<br></b>
+<b><a href="#rfc.references1">&#167;</a>&nbsp;
+References<br></b>
+<b><a href="#rfc.authors">&#167;</a>&nbsp;
+Author's Address<br></b>
+<b><a href="#rfc.copyright">&#167;</a>&nbsp;
+Full Copyright Statement<br></b>
+</ul>
+<br clear="all">
+
+<a name="anchor1"><br><hr size="1" shade="0"></a>
+<table border="0" cellpadding="0" cellspacing="2" width="30" height="15" align="right"><tr><td bgcolor="#990000" align="center" width="30" height="15"><a href="#toc" CLASS="link2"><font face="monaco, MS Sans Serif" color="#ffffff" size="1"><b>&nbsp;TOC&nbsp;</b></font></a><br></td></tr></table>
+<a name="rfc.section.1"></a><h3>1.&nbsp;Introduction</h3>
+
+<p>
+
+	OpenPGP, defined by the OpenPGP IETF Working Group, is a set of standards providing interoperability between public-key cryptography software. Public-key cryptography identifies users by means of their keypair, which can be thought of a large random number. The first of these, the public key, is made publicly available. However, since it is often too long for most humans to deal with (saying, checking equality, etc.), a shorter "fingerprint" (hash of the public key) is generally used for identification.
+
+</p>
+
+<p>
+
+	This namespace allows users with a public key fingerprint a personal namespace which they can use for any resources they wish. This namespace provides not only a decentralized method of allocation to anyone who can run OpenPGP-compatible software, but also provides a means for verifying data about these names via digital signatures.
+
+</p>
+
+<a name="anchor2"><br><hr size="1" shade="0"></a>
+<table border="0" cellpadding="0" cellspacing="2" width="30" height="15" align="right"><tr><td bgcolor="#990000" align="center" width="30" height="15"><a href="#toc" CLASS="link2"><font face="monaco, MS Sans Serif" color="#ffffff" size="1"><b>&nbsp;TOC&nbsp;</b></font></a><br></td></tr></table>
+<a name="rfc.section.2"></a><h3>2.&nbsp;Specification Template</h3>
+
+<p>
+This is an NID registration as specified in <a href="#RFC2611">RFC 2611</a>[1].
+</p>
+
+<blockquote class="text">
+
+<p>
+Namespace ID: "pgp" requested
+</p>
+
+<p>
+Registration Information
+<blockquote class="text">
+
+<p>
+Registration Version Number: 1
+</p>
+
+<p>
+Registration Date: 2002-07-08
+</p>
+
+</blockquote>
+<p>
+
+</p>
+
+<p>
+Declared registrant of the namespace:
+<blockquote class="text">
+
+<p>
+Aaron Swartz<br>
+
+	me@aaronsw.com<br>
+
+	349 Marshman<br>
+
+	Highland Park, IL 60035<br>
+
+	USA
+</p>
+
+</blockquote>
+<p>
+
+</p>
+
+<p>
+Declaration of syntactic structure:
+<blockquote class="text">
+
+<p>
+All URIs will start with "urn:pgp:" followed by the uppercase hex representation of the key fingerprint with no whitespace, followed by another colon. For example:
+</p>
+</font><pre>
+        urn:pgp:4FAC4838B7D8D13FA6D92EDB4145521E79F0DF4B:
+</pre><font face="verdana, helvetica, arial, sans-serif" size="2">
+
+<p>
+The user may add any valid URI characters after that and decide what resource is identified by the resulting URI.
+</p>
+
+</blockquote>
+<p>
+
+</p>
+
+<p>
+Relevant ancillary documentation:
+<blockquote class="text">
+
+<p>
+OpenPGP is defined by <a href="#RFC2440">RFC 2440</a>[2] which includes a specification of the fingerprint format in section 11.2.
+</p>
+
+</blockquote>
+<p>
+
+</p>
+
+<p>
+Identifier uniqueness considerations:
+<blockquote class="text">
+
+<p>
+The OpenPGP designers have gone to great lengths to ensure that their fingerprints will have as few collisions as possible. After that, the space is partitioned such that each keyholder is responsible for respecting the uniqueness rules.
+</p>
+
+</blockquote>
+<p>
+
+</p>
+
+<p>
+Identifier persistence considerations
+<blockquote class="text">
+
+<p>
+Since documents identified by this URN namespace can be digitally signed and easily verified, they can continue to be mirrored and redistributed around the network with no loss in authenticity.
+</p>
+
+</blockquote>
+<p>
+
+</p>
+
+<p>
+Process for identifier resolution:
+<blockquote class="text">
+
+<p>
+Not applicable.
+</p>
+
+</blockquote>
+<p>
+
+</p>
+
+<p>
+Validation mechanism:
+<blockquote class="text">
+
+<p>
+Valid URNs in this namespace will match this regular expression:
+</p>
+</font><pre>
+        urn:pgp:[0-9A-F]+:
+</pre><font face="verdana, helvetica, arial, sans-serif" size="2">
+
+<p>
+followed by any series of valid URI characters.
+</p>
+
+</blockquote>
+<p>
+
+</p>
+
+</blockquote>
+<p>
+
+<a name="anchor3"><br><hr size="1" shade="0"></a>
+<table border="0" cellpadding="0" cellspacing="2" width="30" height="15" align="right"><tr><td bgcolor="#990000" align="center" width="30" height="15"><a href="#toc" CLASS="link2"><font face="monaco, MS Sans Serif" color="#ffffff" size="1"><b>&nbsp;TOC&nbsp;</b></font></a><br></td></tr></table>
+<a name="rfc.section.3"></a><h3>3.&nbsp;Examples</h3>
+
+<p>
+The following examples are not guaranteed to be real URNs. They are simply examples of syntactically valid ones under this scheme.
+<blockquote class="text">
+</font><pre>
+        urn:pgp:4FAC4838B7D8D13FA6D92EDB4145521E79F0DF4B:bob/joe?sally=sue
+        urn:pgp:6D3A1FA30AE5B634E484E0EBF7177452:2002/05/07/borkingPoint
+</pre><font face="verdana, helvetica, arial, sans-serif" size="2">
+
+</blockquote>
+<p>
+
+</p>
+
+<a name="anchor4"><br><hr size="1" shade="0"></a>
+<table border="0" cellpadding="0" cellspacing="2" width="30" height="15" align="right"><tr><td bgcolor="#990000" align="center" width="30" height="15"><a href="#toc" CLASS="link2"><font face="monaco, MS Sans Serif" color="#ffffff" size="1"><b>&nbsp;TOC&nbsp;</b></font></a><br></td></tr></table>
+<a name="rfc.section.4"></a><h3>4.&nbsp;IANA Considerations</h3>
+
+<p>
+This document calls for registration of a new URN namespace, according to the registration template in section 2.
+</p>
+
+<a name="rfc.references1"><br><hr size="1" shade="0"></a>
+<table border="0" cellpadding="0" cellspacing="2" width="30" height="15" align="right"><tr><td bgcolor="#990000" align="center" width="30" height="15"><a href="#toc" CLASS="link2"><font face="monaco, MS Sans Serif" color="#ffffff" size="1"><b>&nbsp;TOC&nbsp;</b></font></a><br></td></tr></table>
+<h3>References</h3>
+<table width="99%" border="0">
+<tr><td class="author-text" valign="top"><b><a name="RFC2611">[1]</a></b></td>
+<td class="author-text"><a href="mailto:leslie@thinkingcat.com">Daigle, L.</a>, <a href="mailto:Dirk.vanGulik@jrc.it">van Gulik, D.</a>, <a href="mailto:renato@dstc.edu.au">Iannella, R.</a> and <a href="mailto:paf@swip.net">P. Faltstrom</a>, "<a href="ftp://ftp.isi.edu/in-notes/rfc2611.txt">URN Namespace Definition Mechanisms</a>", BCP 33, RFC 2611, June 1999.</td></tr>
+<tr><td class="author-text" valign="top"><b><a name="RFC2440">[2]</a></b></td>
+<td class="author-text"><a href="mailto:jon@pgp.com,">Callas, J.</a>, <a href="mailto:lutz@iks-jena.de">Donnerhacke, L.</a>, <a href="mailto:hal@pgp.com">Finney, H.</a> and <a href="mailto:rodney@unitran.com">R. Thayer</a>, "<a href="ftp://ftp.isi.edu/in-notes/rfc2440.txt">OpenPGP Message Format</a>", RFC 2440, November 1998.</td></tr>
+</table>
+
+<a name="rfc.authors"><br><hr size="1" shade="0"></a>
+<table border="0" cellpadding="0" cellspacing="2" width="30" height="15" align="right"><tr><td bgcolor="#990000" align="center" width="30" height="15"><a href="#toc" CLASS="link2"><font face="monaco, MS Sans Serif" color="#ffffff" size="1"><b>&nbsp;TOC&nbsp;</b></font></a><br></td></tr></table>
+<h3>Author's Address</h3>
+<table width="99%" border="0" cellpadding="0" cellspacing="0">
+<tr><td class="author-text">&nbsp;</td>
+<td class="author-text">Aaron Swartz</td></tr>
+<tr><td class="author-text">&nbsp;</td>
+<td class="author-text">AaronSw.com</td></tr>
+<tr><td class="author-text">&nbsp;</td>
+<td class="author-text">349 Marshman</td></tr>
+<tr><td class="author-text">&nbsp;</td>
+<td class="author-text">Highland Park, IL  60035</td></tr>
+<tr><td class="author-text">&nbsp;</td>
+<td class="author-text">USA</td></tr>
+<tr><td class="author" align="right">Phone:&nbsp;</td>
+<td class="author-text">+1 847 432 8857</td></tr>
+<tr><td class="author" align="right">EMail:&nbsp;</td>
+<td class="author-text"><a href="mailto:me@aaronsw.com">me@aaronsw.com</a></td></tr>
+<tr><td class="author" align="right">URI:&nbsp;</td>
+<td class="author-text"><a href="http://www.aaronsw.com/">http://www.aaronsw.com/</a></td></tr>
+</table>
+<a name="rfc.copyright"><br><hr size="1" shade="0"></a>
+<table border="0" cellpadding="0" cellspacing="2" width="30" height="15" align="right"><tr><td bgcolor="#990000" align="center" width="30" height="15"><a href="#toc" CLASS="link2"><font face="monaco, MS Sans Serif" color="#ffffff" size="1"><b>&nbsp;TOC&nbsp;</b></font></a><br></td></tr></table>
+<h3>Full Copyright Statement</h3>
+<p class='copyright'>
+Copyright (C) The Internet Society (2002). All Rights Reserved.</p>
+<p class='copyright'>
+This document and translations of it may be copied and furnished to
+others, and derivative works that comment on or otherwise explain it
+or assist in its implementation may be prepared, copied, published and
+distributed, in whole or in part, without restriction of any kind,
+provided that the above copyright notice and this paragraph are
+included on all such copies and derivative works. However, this
+document itself may not be modified in any way, such as by removing
+the copyright notice or references to the Internet Society or other
+Internet organizations, except as needed for the purpose of
+developing Internet standards in which case the procedures for
+copyrights defined in the Internet Standards process must be
+followed, or as required to translate it into languages other than
+English.</p>
+<p class='copyright'>
+The limited permissions granted above are perpetual and will not be
+revoked by the Internet Society or its successors or assigns.</p>
+<p class='copyright'>
+This document and the information contained herein is provided on an
+&quot;AS IS&quot; basis and THE INTERNET SOCIETY AND THE INTERNET ENGINEERING
+TASK FORCE DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING
+BUT NOT LIMITED TO ANY WARRANTY THAT THE USE OF THE INFORMATION
+HEREIN WILL NOT INFRINGE ANY RIGHTS OR ANY IMPLIED WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.</p>
+<h3>Acknowledgement</h3>
+<p class='copyright'>
+Funding for the RFC Editor function is currently provided by the
+Internet Society.</p>
+</font></body></html>

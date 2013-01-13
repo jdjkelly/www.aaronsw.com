@@ -1,0 +1,400 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>How To Launch Software (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>How To Launch Software</h1>
+
+<p>37signals recommends that software developers pursue what they call <a href="http://gettingreal.37signals.com/ch13_Hollywood_Launch.php">the Hollywood Launch</a>. They don&#8217;t give any argument for this method, except perhaps the title (as if Hollywood was a business you should try to imitate?) &#8212; I guess the idea is that you&#8217;re supposed to do it since 37signals says to.</p>
+
+<p>The basic idea behind the Hollywood Launch is simple: you release a few hints about your product to build buzz, slowly revealing more and more until the big day, when you throw open the doors and people flood your site, sent there by all the blog coverage and email alerts.</p>
+
+<p>This may work well for Hollywood &#8212; if your movie is a big hit at the box-office on opening weekend, then the movie theaters are more likely to keep showing it in the weeks to come and you get credit for being &#8220;one of the weekend&#8217;s biggest films&#8221;. But for software developers, it&#8217;s moronic. Your software isn&#8217;t being released in theaters, it&#8217;s available over the Web. You don&#8217;t have to worry about the theater no longer showing after week one; you can keep pushing it for years, growing your userbase.</p>
+
+<p>Instead what happens when software developers try the Hollywood Launch, and I&#8217;ve seen this many times, is that users indeed do flood to your site on launch day but&#8230;</p>
+
+<ol>
+<li><p>They bring the site down from the load. You scramble to get it back up and succeed by coding like a mad man, only to find&#8230;</p></li>
+<li><p>They discover some big bug that you never quite noticed before, which makes the whole thing look like embarrassing hackwork. (<em>What? You forgot to test that last-minute JavaScript change in IE6 1/2?</em>) So you&#8217;re desperately rushing to fix the bug before the traffic dies down, rush-patching things and restarting the server when&#8230;</p></li>
+<li><p>You bring the site down for everyone because there was a syntax error in your patch that keeps the server from coming back up. You fix it while cursing yourself madly. Finally everything seems to work. You take a breath and decide to see what people are saying about you on the Web, only to discover&#8230;</p></li>
+<li><p>Everyone misunderstood what your product does because your front page wasn&#8217;t clear enough. Now they all think it&#8217;s stupid and wonder aloud how you even know how to breathe. So you reply in all the comment threads and fix your front page to ensure no one could possibly misunderstand what it is you&#8217;re doing just in time to find&#8230;</p></li>
+<li><p>All the traffic is gone.</p></li>
+</ol>
+
+<p>Tomorrow, hardly any of those users come back. Your traffic graphs look like the sharpest mountain you&#8217;ve ever seen: a huge climb up and then, almost immediately, a similarly-sized crash back down.</p>
+
+<p>So what do you do then? Well, you do what you should have done all along: you grow the site.</p>
+
+<p>I&#8217;ll call this technique the Gmail Launch, since it&#8217;s based on what Gmail did. Gmail is probably one of the biggest Web 2.0 success stories, so there&#8217;s an argument in its favor right there. Here&#8217;s how it works:</p>
+
+<ol>
+<li><p>Have users from day one. Obviously at the very beginning it&#8217;ll just be yourself and your co-workers, but as soon as you have something that you don&#8217;t cringe while using, you give it to your friends and family. Keep improving it based on their feedback and once you have something that&#8217;s tolerable, let them invite their friends to use it too.</p></li>
+<li><p>Try to get lots of feedback from these new invitees, figuring out what doesn&#8217;t make sense, what needs to be fixed, and what things don&#8217;t work on their bizarre use case combination. Once these are all straightened out, and they&#8217;re using it happily, you let them invite their friends. Repeat until things get big enough that you need to&#8230;</p></li>
+<li><p>Automate the process, giving everyone some invite codes to share. By requiring codes, you protect against a premature slashdotting and force your users to think carefully about who actually would want to use it (getting them to do your marketing for you). Plus, you make everyone feel special for using your product. (You can also start (slowly!) sending invite codes to any email lists you might have.)</p></li>
+<li><p>Iterate: give out invite codes, fix bugs, make sure things are stable. Stay in this phase until the number of users you&#8217;re willing to invite is about the same as the number you expect will initially sign up if you make the site public. For Gmail, this was a long time, since a lot of people wanted invites. You can probably safely do it sooner.</p></li>
+<li><p>Take off the invite code requirement, so that people can use the product just by visiting its front page. Soon enough, random people will come across it from Google or various blogs and become real users.</p></li>
+<li><p>If all this works &#8212; if random people are actually happy with your product and you&#8217;re ready to grow even larger &#8212; <em>then</em> you can start building buzz and getting press and blog attention. The best way to do this is to have some kind of news hook &#8212; some gimmick or controversial thing that everyone will want to talk about. (With reddit, the big thing was that we switched from Lisp to Python, which was discussed endlessly in the Lisp and Python communities and gave us our first big userbase.)</p></li>
+<li><p>Start marketing. Once you start using up all the growth you can get by word-of-mouth (and this can take a while &#8212; Google is only getting to this stage <em>now</em>), you can start doing advertising and other marketing-type things to provide the next big boost in growth.</p></li>
+</ol>
+
+<p>The result will be a graph that just keeps accelerating and climbing up. That&#8217;s the graph that everyone loves to see: solid growth, not a one-day wonder. Good luck.</p>
+
+<hr />
+
+<p>Since 37signals quotes from people who followed their advice, I thought I might as well do the same. <a href="http://news.ycombinator.com/item?id=284057">mojombo</a>:</p>
+
+<blockquote>
+  <p>I find this to be excellent advice. This is exactly the approach we took at GitHub almost down to the letter. It took about 2 months until the site was good enough to use to host the GitHub source, another month until we started private beta with invites, and three more months until public launch.</p>
+  
+  <p>Artificial scarcity is a great technique to generate excitement for a product while also limiting growth to a rate that won&#8217;t melt your servers. We worked through a huge number of problems and early users gave us some of the ideas that have defined GitHub. By doing a Hollywood launch, things would have been very different and I am convinced, very much worse.</p>
+  
+  <p>Do not, I repeat, DO NOT underestimate how much your users will help you to define your product. If you launch without having significant user feedback time, you&#8217;ve essentially thrown away a massive (and free) focus group study.</p>
+  
+  <p>Let me also say that when we finally did our public launch, there was plenty of buzz, and all of it was the RIGHT kind of buzz. The buzz that attracts real, lasting customers (and no, we weren&#8217;t on TechCrunch, that traffic is garbage).</p>
+</blockquote>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">August 22, 2008</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>Having experienced that first day launch, I totally agree with you that a slow build is better than a sudden drop off a sheer cliff. However, I disagree that you should keep invite codes up for so long. After you&#8217;ve stabilized the codebase to the point that it is no longer embarrassing and seems to actually work, you should let anyone sign up; just don&#8217;t make a big deal about it.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.justin.tv">Emmett</a>
+ on August 22, 2008 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>Good point. Upon reflection, I realize it&#8217;s not about when the site is stable, but when the growth in users won&#8217;t be overwhelming. I&#8217;ve fixed it; for the record, 4 used to be:</p>
+
+<blockquote>
+  <p>Iterate: give out invite codes, fix bugs, make sure things are stable. Stay in this phase as long as it takes to go a couple iterations without serious problems. Gmail did this for a long time, partly to scale really big, partly to find all the weird edge cases with email, but mostly because they could &#8212; there were a lot of people who wanted invites. But when you feel like everything is stable and you want more growth you can&#8230;</p>
+</blockquote>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on August 22, 2008 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>&#8220;For Gmail, this was a long time, since a lot of people who wanted invites.&#8221;</p>
+
+<p>&#8220;since <em>there were</em> a lot of people who wanted invites&#8221;</p>
+
+<p class="posted">posted by 
+ on August 22, 2008 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>The best recent example for this mistake would be http://www.cuil.com/ &#8212; which had the site down for two days owe to the rush.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://evalinux.wordpress.com">Tzury Bar Yochay</a>
+ on August 22, 2008 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>In a way, the method you described is how Facebook launched too.  It felt like an exclusive country club at first, only for college students in the US, before being expanded across universities across the globe, and down to colleges/high schools elsewhere, and now, open to all.</p>
+
+<p class="posted">posted by lam
+ on August 22, 2008 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c6">
+<p>One interesting thing is when you&#8217;re doing a nice GMail style launch and then you start getting organic blog links and such, and the users are turned off by the closed site.  Nothing more off putting than hearing about an awesome site you can&#8217;t use.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.smackfu.com">Scott</a>
+ on August 22, 2008 <a href="#c6" rel="bookmark">#</a></p>
+</div>
+<div id="c7">
+<p>I thought your argument was going along great until you hit point 6. You&#8217;re reasoning here is about as well thought out as the &#8220;???&#8221; step between underpants collection and profit.</p>
+
+<p>Launching something is a big event and should get you press. Totally re-factoring an application in a new language is the sort of thing you should have done somewhere between step 1 and 2. It worked in your one-off case but there&#8217;s no applicable lesson in that step which we can take away for ourselves.</p>
+
+<p>You&#8217;re basically saying: Step 6. Magically generate a shitload of hype now that you&#8217;re ready for the traffic.</p>
+
+<p>If we knew how to do that, we wouldn&#8217;t need to be thinking through launch strategies in the first place! 37 Signals give some practical advice specifically on hype-building and deliberately not on engineering quality, scalable software.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://phasetwo.org">Anson</a>
+ on August 22, 2008 <a href="#c7" rel="bookmark">#</a></p>
+</div>
+<div id="c8">
+<p>Good advice. I read the 37Signals Hollywood launch section in Getting Real and I felt a certain discomfort with the idea. You pretty much nailed the approach I&#8217;ll be taking to slowly introduce users to my product. I think it&#8217;s a much more wise approach.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://clovercontent.com">Don</a>
+ on August 22, 2008 <a href="#c8" rel="bookmark">#</a></p>
+</div>
+<div id="c9">
+<p>It is not either/or. If you do a &#8220;by invitation only&#8221; program to start out with, you can, through that, build hype, leading up to a &#8220;Hollywood&#8221; style release. As long as a limited amount of people have access to it, you are spreading an official rumor; one could say it was vaporware, except that there would, in fact, be some people out there actually using it (aside from yourself).</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://ialexi.com/">Alex</a>
+ on August 22, 2008 <a href="#c9" rel="bookmark">#</a></p>
+</div>
+<div id="c10">
+<p>After thinking about it a while I realized that the big benefit of using invite codes was to ensure that people and bots didn&#8217;t use up all the good Gmail addresses before the people could get them. Imagine putting all that effort into building a system only to find that someone automatically reserved all the useful, easy-to-read usernames. With such a public product, this was important, but it&#8217;s probably not the case for smaller sites.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://farmerchris.com">Chris</a>
+ on August 22, 2008 <a href="#c10" rel="bookmark">#</a></p>
+</div>
+<div id="c11">
+<p>Having been involved in the dev of a couple of systems (one web based , one phone based) that were big bang marketed  your description of the issues is bang on.</p>
+
+<p>You are setting yrself up for weeks of intense pain, coming at a time immediately after the team has already squeezed out every drop of sweat and adrenaline to meet the &#8216;launch date&#8217; which is an unmovable date because of the booked advertising for the launch.</p>
+
+<p>So you not only risk losing/not gaining users, creating a stink market impression, but also losing your team members - either directly by them walking or by burning them out.</p>
+
+<p>Just say no.</p>
+
+<p class="posted">posted by Chris
+ on August 22, 2008 <a href="#c11" rel="bookmark">#</a></p>
+</div>
+<div id="c12">
+<p>Although you sound very dismissive of the approach, and strongly hint that they are mutually exclusive, there is very little difference between it and what you&#8217;ve just written.  In fact, the only difference I see is that you place greater emphasis on invites as a buffer against scaling issues, where 37signals makes passing reference to them as &#8220;golden tickets&#8221;.  Given that your piece is three times longer, I wonder if perhaps you&#8217;re simply reading too much into the title.  (e.g. Your sniveling at &#8220;Hollywood&#8221; being a bad model to follow is cheap and snide, knowing full well it&#8217;s only a fleeting analogy.)</p>
+
+<p>I thought it was interesting to use Gmail as a counter-example, too.  Gmail is an ad-supported service, while 37signals products and their example Blinksale are paid services.  Users of the later are presumably less inclined to help you generate revenue by using your beta-quality product, no matter how special they feel for getting an invite.  Unless you have a ton of cash to burn (a farcical notion among smart startups these days), you&#8217;ve still got to have a mostly-successful launch or you&#8217;re dead in the water.</p>
+
+<p>And finally, if it still isn&#8217;t clear that you&#8217;re not talking about a particularly different approach than 37signals&#8217; &#8220;moronic&#8221; one, just  <a href="http://37signals.blogs.com/products/2008/07/how-github-used.html" rel="nofollow">ask GitHub how they used &#8220;Getting Real&#8221;</a>.</p>
+
+<p class="posted">posted by Nick
+ on August 22, 2008 <a href="#c12" rel="bookmark">#</a></p>
+</div>
+<div id="c14">
+<p>Restaurants and retail stores do something a little similar, but it&#8217;s called a &#8220;soft opening.&#8221; Basically, you open your doors to the public without advertising to serve those folks that stumble by and see you are open. This way you can work out the bugs with limited customers for a few weeks, before the big splash. A &#8220;hollywood launch&#8221; is not quite the same, because when I think of that I think of limited venues showing a popular movie at only limited theatres, which is what gmail did by just allowing in so many people for so long. But the biggest problem with this theory, is that you have to BE of a known stature (such as a company like 37 Signals or Google to do this. Otherwise, you&#8217;re just another piece of software or web app with low traffic. I myself plan to take the soft opening (or in this case, soft launch) approach, make our app a public beta to start and not aim for too much traffic, and backfiring PR (such as the overhyped, non-cool Cuil.) Interesting tactic though.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.design-for-users.com">Kristi Colvin</a>
+ on August 23, 2008 <a href="#c14" rel="bookmark">#</a></p>
+</div>
+<div id="c15">
+<p>Apple likes Hollywood Launch for their tangible products like MacBook and iPhone. But this method turned out to be not suitble for online service as wittness by Jobs&#8217; recent email concluding their MobileMe service is &#8220;not ready&#8221; when launch.</p>
+
+<p class="posted">posted by 
+ on August 23, 2008 <a href="#c15" rel="bookmark">#</a></p>
+</div>
+<div id="c16">
+<p>This, too, is how WordPress.com launched - golden tickets at first and later open to the world, followed by slow but steady growth.</p>
+
+<blockquote>One interesting thing is when you&#8217;re doing a nice GMail style launch and then you start getting organic blog links and such, and the users are turned off by the closed site.</blockquote>
+
+<p>This is actually a huge opportunity: just capture their email. Now you have an ever-growing list of people to seed new invites to in addition to the ones your existing users can send out. I&#8217;ve seen sites keep the list rolling for months, sending out only a few hundred at a time. This also creates a nice continuous buzz as people blog about getting their invite.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://ma.tt/">Matt</a>
+ on August 23, 2008 <a href="#c16" rel="bookmark">#</a></p>
+</div>
+<div id="c17">
+<p>The main thing I wonder about the Gmail launch is how it could be applied to a 37signals style product. They charge a monthly rate to use their software. At step 5 would you want to say to all current users, &#8220;start paying or your account will be suspended&#8221;? If it&#8217;s gotten as big as Gmail had by that point grandfathering the current user base into a free plan would be a bad business decision.</p>
+
+<p>One alternative (similar to something that 37signals employs) would be to grandfather current users in, but launch some new features only available to the new paying users. I&#8217;m still not crazy about that. I think that incorporating a revenue model that doesn&#8217;t depend on a free service is important in this discussion.</p>
+
+<p class="posted">posted by Dan Evans
+ on August 23, 2008 <a href="#c17" rel="bookmark">#</a></p>
+</div>
+<div id="c18">
+<p>So, what you&#8217;re really saying is, don&#8217;t use a press-worthy event to attract attention to your new web app until you&#8217;ve scaled up enough to handle it? Okay, where exactly in the &#8220;Hollywood Launch&#8221; article you quoted did the 37signals guys specifically promote doing a big launch before the app is ready to handle lots of traffic? How is that article even connected to this post besides the fact that a &#8220;Hollywood&#8221; launch can be harmful to your site&#8217;s reputation if you aren&#8217;t ready to handle it?</p>
+
+<p>You seem to be heavily conflating marketing advice&#8212;which is what the 37signals guys primarily gave in that article&#8212;with advice on how to make and maintain a good product. In particular, you seem to be saying that a Hollywood-style launch will fail developers that don&#8217;t HAVE their shit together. Developer incompetence can make a hash of even the best marketing advice. Developer incompetence can make a hash of any advice.</p>
+
+<p>I&#8217;m not sure why this post even exists. It doesn&#8217;t make any sense. I keep trying to set out something about the Gmail example you gave, but I keep coming back to the fact that there doesn&#8217;t seem to be a concrete reason for this post to exist.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://e-m-pink.livejournal.com">E. M.</a>
+ on August 23, 2008 <a href="#c18" rel="bookmark">#</a></p>
+</div>
+<div id="c21">
+<p><a href="http://www.aaronsw.com/weblog/howtolaunch#c10" rel="nofollow">Chris</a> above has the other key feature of the invite-only site: bot protection.</p>
+
+<p>It&#8217;s not only from rate limiting &#8212; you also get a built-in-from-the-start web of trust among your users.  If someone turns out to be an asshat, or a bot, or is submitting malicious requests, you can reconsider how you feel about their sisters and cousins on the invite family tree.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://infochimps.org">Philip (flip) Kromer</a>
+ on August 23, 2008 <a href="#c21" rel="bookmark">#</a></p>
+</div>
+<div id="c22">
+<p>@EM, Nick: Huh?</p>
+
+<p>This post talks about publicly releasing a site <strong>before</strong> undertaking a marketing campaign to people you don&#8217;t know (even the offering invite codes to email lists in step 3 is about lists &#8220;that you have&#8221;, not just any old random lists).</p>
+
+<p>The &#8220;Hollywood Launch&#8221; approach discussed by 37 Signals discusses marketing to people you don&#8217;t know <strong>prior</strong> to launching your site in order to generate &#8220;buzz&#8221;.</p>
+
+<p>Please explain how these two approaches are the same.</p>
+
+<p>EM, I&#8217;m not sure why your comment even exists. Unless it is to show that you don&#8217;t read other people&#8217;s blog posts carefully.</p>
+
+<p class="posted">posted by Simon
+ on August 23, 2008 <a href="#c22" rel="bookmark">#</a></p>
+</div>
+<div id="c24">
+<p>Also&#8230; rather than demand an email, the infochimps.org launch will ask people to either @infochimps||follow us on twitter, or to tag an interesting dataset &#8216;infochimpsable&#8217; on delicious.com. We then respectively direct message or for:user their invite link.</p>
+
+<p>Benefits: 1) the user is in control of how we communicate with them. 2) It&#8217;s an intelligence test.  3) We get at least one of: publicity, trust network connection, addition to the collection. 4) You can automate, when it gets to that.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://infochimps.org">Philip (flip) Kromer</a>
+ on August 23, 2008 <a href="#c24" rel="bookmark">#</a></p>
+</div>
+<div id="c25">
+<p>@Simon</p>
+
+<p>The point is that in spite of dismissing 37signals as being &#8220;moronic&#8221; (and devoting more words to that subject than are in the entire excerpt from Getting Real), the actual content of the advice isn&#8217;t mutually exclusive.</p>
+
+<p class="posted">posted by Nick
+ on August 24, 2008 <a href="#c25" rel="bookmark">#</a></p>
+</div>
+<div id="c27">
+<p>@E.M.</p>
+
+<p>Dude, the whole point of this post is to emphasize that no matter how competent you are, you <em>will</em> miss some critical bug unless your site is tested by real-world conditions (e.g. thousands upon thousands of users).  We&#8217;re far past the threshold where any human being can manage to foresee all the possible implications of a large codebase coupled with a world-sized userbase.  It&#8217;s why all significant software has bugs.</p>
+
+<p>The same thing that makes OSS work &#8220;with enough eyes, all bugs are shallow&#8221;, happens to have an opposite clause:  &#8220;With enough users, all software has bugs&#8221;.</p>
+
+<p>Rather than <i>blithely ignoring</i> the aforementioned facts, we can embrace them, and try to mitigate their effects.  Or we can ignore them, and kick ourselves when bad things inevitably happen for not being the mythical &#8220;competent developer&#8221;.  Perfectly competent developers are like perfectly competent drivers.  There&#8217;s a reason we have seat belts and airbags, and it&#8217;s because <em>perfectly</em> competent drivers are a myth.  Even competent drivers screw up.</p>
+
+<p>Never blow the doors open to the public unless your site has been tested within an order of magnitude of the scale the public will stress it under.  This means preferably thousands or millions of people.</p>
+
+<p class="posted">posted by etc
+ on August 24, 2008 <a href="#c27" rel="bookmark">#</a></p>
+</div>
+<div id="c28">
+<p>Don&#8217;t forget, you can supply invite code to users to invite others, but it&#8217;s always a good idea to let anybody sign up for an email blast that&#8217;s going to let everyone know that the site is open.  I couldn&#8217;t use Twine right away but I was intrigued enough to wait a month for an email that I said I could sign up.  Think of it as the line at an exclusive club. People with invite codes know the door man but everyone can wait in line.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://banapana.com">Russell W</a>
+ on August 24, 2008 <a href="#c28" rel="bookmark">#</a></p>
+</div>
+<div id="c29">
+<p>You mentioned &#8220;all the growth you can get my word-of-mouth.&#8221; You meant &#8220;all the growth you can get <em>by</em> word-of-mouth.&#8221;</p>
+
+<p class="posted">posted by fuper
+ on August 24, 2008 <a href="#c29" rel="bookmark">#</a></p>
+</div>
+<div id="c30">
+<p>I agree with you, but note that this is almost 180 degrees apart from advice you&#8217;ll gain from MBAs and others who have read crossing the chasm.</p>
+
+<p>From there, we learn the <em>importance</em> of understanding your early users and geeks and dweebs that are not helping you understand what your <em>real users</em> <em>normal people</em> need or want.</p>
+
+<p>It&#8217;s important for you to use their advice for bugtesting, BUT TO ABSOLUTELY IGNORE what they <em>claim</em> are their needs.  You want to pay attention to the needs of the people on the other side of the chasm, even if you haven&#8217;t met any by dint of the fact that anyone that comes to your early stage site is basically a geek and dweeb.</p>
+
+<p class="posted">posted by jerry
+ on August 24, 2008 <a href="#c30" rel="bookmark">#</a></p>
+</div>
+<div id="c31">
+<p>I have been through the Hollywood launch and it was a disaster. Our current company has followed your model to the letter, releasing a free version and fixing and building based on user-input. Given that our paid product (SaaS) starts at $500/month, the input from free users has been incredibly useful in delivering a quality experience. This is great advice.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://sm2.techrigy.com">Martin Edic</a>
+ on August 24, 2008 <a href="#c31" rel="bookmark">#</a></p>
+</div>
+<div id="c32">
+<p>My favorite example of this kind of launch is Dopplr, which I am sad fangirl of.</p>
+
+<p>Both Dopplr and Flickr built websites out of what people wanted, which they found out by being open and approachable. Now people depend on them totally.</p>
+
+<p>Though I doubt there&#8217;s a formula. I can&#8217;t imagine  there is something that always works. I am sure, like everything else, 90% of success in a launch is luck.</p>
+
+<p class="posted">posted by quinn
+ on August 24, 2008 <a href="#c32" rel="bookmark">#</a></p>
+</div>
+<div id="c34">
+<p>I was part of a big Hollywood style release sometime back. The  date of the release was announced; our beloved, feared, industry respected and controversial CEO ready to launch; folks from who&#8217;s who lists were invited. Guess what? We were not ready from the product perspective, the day before. After working 18hrs a day for a week before the release nobody was ready to respond to sign-up issues on the BIG day. The product never took off.
+Know your product before announcing it &#8212;whether it is to a friend or public&#8230;</p>
+
+<p class="posted">posted by Jay Mojnidar
+ on August 26, 2008 <a href="#c34" rel="bookmark">#</a></p>
+</div>
+<div id="c35">
+<p>Lends to the mirror nature of the media.</p>
+
+<p>Websites evolve after release. Movies are final products that tend not to change after release.</p>
+
+<p>-H</p>
+
+<p class="posted">posted by <a rel="nofollow" href="-">Hiren</a>
+ on August 26, 2008 <a href="#c35" rel="bookmark">#</a></p>
+</div>
+<div id="c36">
+<p>The Hostile Monkey doesn&#8217;t really see what the fuss is here. What happens when the blogs are buzzing about your &#8220;limited beta&#8221; invite-only response, and then finally you open the floodgates to anyone who wants to visit?</p>
+
+<p>What was that?</p>
+
+<p>Did someone shout out &#8220;Hollywood Launch?&#8221;</p>
+
+<p>The Hostile Monkey couldn&#8217;t hear - the sound of the server exploding distracted him a little.</p>
+
+<p>This monkey thinks that 37s is talking from a marketing stance, and Mr. Swartz is talking from an engineering stance.</p>
+
+<p>Define &#8220;launch&#8221;. The Hostile Monkey bets that AS will say &#8220;as soon as a random can use it&#8221;, and 37s will say &#8220;as soon as ANYONE can use it&#8221;. Did 37s not private beta Basecamp prior to launch? Isn&#8217;t that what we&#8217;re talking about here? The extent to which you private-beta?</p>
+
+<p>One big problem with a GMail launch is that it&#8217;s never actually clear WHEN the app has launched. When was The Hostile Monkey supposed to start giving Google shit for downtime? A Hollywood launch (or &#8220;Step 6&#8221; as AS calls it) at least lets people know when the developers think it&#8217;s ready for prime time.</p>
+
+<p>The Hostile Monkey thinks that AS assumes that Hollywood launch translates as &#8220;boot the server 30 seconds before zero hour&#8221;. THAT&#8217;s moronic, but it&#8217;s not what 37s advocated.</p>
+
+<p>The Hollywood Launch is awesome for products that are ready. How do you figure out they&#8217;re ready? 37s doesn&#8217;t talk about this because, well, it&#8217;s up to you how you figure that out. Steps 1-5 are a really good way of figuring this out.</p>
+
+<p>Even Hollywood has test screenings and previews months before prior to release, before they figure out who and how to market the launch.</p>
+
+<p class="posted">posted by Hostile Monkey
+ on August 26, 2008 <a href="#c36" rel="bookmark">#</a></p>
+</div>
+<div id="c37">
+<p>I just want to drop a line and say how much I liked this article. Yes, I had seen the approach Gmail had used and loved it. But being a business guy I hadn&#8217;t paid attention to how that had helped the software development process. Thanks a ton!</p>
+
+<p class="posted">posted by Sharan
+ on August 27, 2008 <a href="#c37" rel="bookmark">#</a></p>
+</div>
+<div id="c38">
+<p>I like the tone of this advice a lot, but I think it misses the mark for a lot of different markets.  Not all markets are created equal, and a Hollywood style buzz may be difficult, if not impossible to generate in some markets.</p>
+
+<p>The focus for any product has to be communicating with and getting the market your selling to involved.  Not every site is going to get a bunch of interest from early adopters who will try anything and love signing up for the next best thing.</p>
+
+<p>You need your audience working with the product on their terms to truly kick the tires, and putting up some splash page with an email address field and no real feature explanation or launch date will eliminate participation from a whole host of your core audience.  Sure they may come back one day, but it leads to the sort of half-baked participation that gets you into trouble down the line.</p>
+
+<p>I think the best thing you can do when putting your site out there for public beta is keep on communicating. As long as your on top of the issues that come up and let people know what you&#8217;re doing to address those issues (as long as they&#8217;re not major and site crippling), you&#8217;re ahead of the game.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.geteventclipboard.com">Chris</a>
+ on August 27, 2008 <a href="#c38" rel="bookmark">#</a></p>
+</div>
+<div id="c39">
+<p>Yay! Third time lucky on the your vs. you&#8217;re, Chris!</p>
+
+<p class="posted">posted by GrammarBot
+ on August 27, 2008 <a href="#c39" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="howtolaunch" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

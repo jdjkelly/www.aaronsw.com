@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>SFP: First Contact (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>SFP: First Contact</h1>
+
+<p>Most of what a startup &#8212; or at least this startup &#8212; is about is solving various technical problems, fixing bugs, getting stuff done. At its worst, this stuff is boring to do. And even at its best it&#8217;s hard to describe and not much fun to hear. On the plane here I wrote a memoir about my time with the W3C and what was striking was not just that I omitted all the technical stuff from the story but that I don&#8217;t even remember the technical stuff. People stuff, on the other hand&#8230;</p>
+
+<p>So I&#8217;ve been holed up by myself in this elegant MIT dorm room. (<a href="http://www.figure-ground.com/travel/image.php?simmons">more photos</a> (<a href="http://www.figure-ground.com/travel/image.php?simmons/0029">my favorite</a>)) Jessica (formerly 4 of 4 from Y Combinator, the group that&#8217;s funding the startup I&#8217;m working on) stopped by to drop off a lifesaving air conditioner and we chatted for a bit. I get out once or twice a day to go get food at someplace nearby. And at nights I sleep. But most of the time I just work.</p>
+
+<p>Y Combinator has weekly meetings where all the startups go over to their offices for dinner. I missed last week&#8217;s because I didn&#8217;t have a dorm and so when I get there I don&#8217;t recognize anyone. I sort of wander around alone trying not to look too stupid, which is what I normally do at parties anyway.</p>
+
+<p>At some point we sit down at a long table with benches that they&#8217;ve placed in the room, which looks even nicer than before, with elegantly placed lights and abstract art on the walls. During some pre-dinner conversation someone makes a pun. &#8220;You know, I read somewhere that bad puns are highly correlated with IQ,&#8221; Paul says. &#8216;I find that hard to believe,&#8217; responds a founder, &#8216;I know some people who make lots of puns and, well&#8230;&#8217; &#8216;Correlations aren&#8217;t perfect,&#8217; responds another. &#8216;And IQ isn&#8217;t necessarily correlated with intelligence,&#8217; comments Paul. I was really glad to see he&#8217;d <a href="http://www.paulgraham.com/start.html#footnote2">backed off this claim</a>. (I was thinking about chiming in but I was at the very edge of the table and planning to save my disagreements until after the money is in the bank.)</p>
+
+<p>They plan to get a guest speaker each dinner; this week it was a patent attorney, who admitted that patents were expensive and not very useful to a startup he suggested (and cited a study that argued) they would be useful later on. He gave us all packets and branded cell phone holders but I forgot to take mine home.</p>
+
+<p>Afterwards there was more talking. One group of founders described their history. &#8216;Well, we haven&#8217;t really done any legitimate businesses before,&#8217; they said. &#8216;What illegitimate businesses have you done?&#8217; I asked. &#8216;Oh, adult entertainment, student term papers &#8212; nothing illegal but not the sort of things you want to show to VCs!&#8217;</p>
+
+<p>I got to talk to rtm which was really wonderful and at some point I found myself in a conversation with Paul and a couple other people. Paul asked me if I could send him a copy of <a href="http://www.aaronsw.com/weblog/sneakpeek">the infamous paper</a> and another person chimed in &#8216;oh you&#8217;re definitely sending me a copy.&#8217; &#8216;Wait, you know about this?&#8217; asked Paul. &#8216;You don&#8217;t?&#8217; replied the third person. It turned out everyone there had read my blog. &#8216;Oh,&#8217; said Paul, &#8216;I only started reading it when it started mentioning <em>me</em>!&#8217;</p>
+
+<p>Not long afterward a group of people behind me pulled me away and introduced themselves. &#8216;And who are you?&#8217; they asked. Paul, from behind me, said &#8216;this is <em>Aaron Swartz</em>; you don&#8217;t know who <em>Aaron Swartz</em> is? He co-authored RSS!&#8217; &#8216;Oh,&#8217; said the kid, &#8216;well then you made me quite a bit of money!&#8217;</p>
+
+<p>At some point Jessica pulled me aside to go over the legal paperwork of which there is quite a bit.</p>
+
+<p>A group of Russian kids offered to drive me home in their van. &#8216;We&#8217;re actually agents from the KGB,&#8217; they explained, laughing, in their thick Russian accents, &#8216;we were sent here to spy on you. We bought a van because we were told all Americans drive vans. We try to blend in.&#8217; They certainly made the most of it, swerving back and forth across the street and making crazy turns. Amazingly, though, we managed to find my place and they dropped me off.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">June 15, 2005</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="sfpmtg1" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

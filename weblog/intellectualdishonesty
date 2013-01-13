@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>On Intellectual Dishonesty (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>On Intellectual Dishonesty</h1>
+
+<p>Dishonesty has two parts: 1) saying something that is untrue, and 2) saying it with the intent to mislead the other person. You can have each without the other: you can be genuinely mistaken and thereby say something false without intending to mislead, and you can intentionally mislead someone without ever saying anything that&#8217;s untrue. (The second is generally considered deceit, but not dishonesty.)</p>
+
+<p>However, you can be intellectually dishonest without doing <em>either</em> of these things. Imagine that you&#8217;re conducting an experiment and most of the time it comes out exactly the way you expect but one time it goes wrong (you probably just screwed up the measurements). Telling someone about your work, you say: &#8220;Oh, it works just the way I expected &#8212; seven times it came out exactly right.&#8221;</p>
+
+<p>This isn&#8217;t untrue and it isn&#8217;t intentionally misleading &#8212; you really do believe it works the way you expected. But it is intellectually dishonest: intellectual honesty requires bending-over-backwards to provide any evidence that you might be wrong, <em>even if you&#8217;re convinced that you are right</em>.</p>
+
+<p>This is an impractical standard to apply to everyday life. A prospective employer asks you in a job interview if you can get to work on time. You say &#8220;Yes&#8221;, not &#8220;I think so, but one time in 2003 the power went out and so my alarm didn&#8217;t go off and I overslept&#8221;. I don&#8217;t think anyone considers this dishonesty; indeed, if you were intellectually honest all the time people would think you were pretty weird.</p>
+
+<p>Science has a higher standard. It&#8217;s not just between you and your employer, it&#8217;s a claim to posterity. And you might be wrong, but what if you&#8217;re not around for posterity to call you up and ask you to show your work? That&#8217;s why intellectual honesty requires you show your work in advance, so that others can see if you&#8217;re missing something.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">December 14, 2011</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>I genuinely liked this article. I can&#8217;t say I loved it because it&#8217;s missing the word &#8216;think&#8217; in the last sentence of the second to last paragraph. :-)</p>
+
+<p class="posted">posted by mal
+ on December 14, 2011 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>Fixed, thanks.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on December 14, 2011 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>Does this mean that we can productively reframe &#8220;intellectual honesty&#8221; (which is largely a consequentialist construction about deceit) as &#8220;intellectual humility&#8221; (which is largely an epistemological construction)?</p>
+
+<p class="posted">posted by 
+ on December 14, 2011 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>&#8220;Dishonesty has two parts: 1) saying that something that is untrue,&#8221;</p>
+
+<p>should read</p>
+
+<p>&#8220;saying something that is untrue&#8221;</p>
+
+<p class="posted">posted by drew
+ on December 14, 2011 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>I try to be intellectually honest as much as possible. People think I&#8217;m weird :-)</p>
+
+<p>Paul.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://theprogrammersparadox.blogspot.com/">Paul W. Homer</a>
+ on December 14, 2011 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c6">
+<p>&#8220;&#8230;if you were intellectually honest all the time people would think you were pretty weird.&#8221;</p>
+
+<p>That and tedious to converse with. ;)</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://about.me/sbram">Scott B</a>
+ on December 14, 2011 <a href="#c6" rel="bookmark">#</a></p>
+</div>
+<div id="c7">
+<p>One problem with reading over a hundred books a year is you forget which ideas are yours, and which you just read somewhere ;-)</p>
+
+<p>From Feynman&#8217;s &#8220;Cargo Cult Science&#8221; lecture (featured in Surely You&#8217;re Joking Mr. Feynman):</p>
+
+<p>&#8220;I&#8217;m talking about a specific, extra type of integrity that is not lying, but bending over backwards to show how you&#8217;re maybe wrong, [an integrity] that you ought to have when acting as a scientist.&#8221;</p>
+
+<p class="posted">posted by feynman
+ on December 15, 2011 <a href="#c7" rel="bookmark">#</a></p>
+</div>
+<div id="c8">
+<p>A really good example of this is Gregor Mendel&#8217;s data on trait inheritance in peas.</p>
+
+<p>I&#8217;m paraphrasing the history here, but the basic idea was that he crossed a number of true-breeding red pea plants with a number of true-breeding white pea plants and his genetic model required that he observe a strict 1:2:1 ratio of red:pink:white offspring.</p>
+
+<p>Indeed, his recorded data show that ratio. The problem is that he didn&#8217;t know anything about DNA or chromosomes and there&#8217;s a phenomenon in chromosomal replication known as crossover, which is a mutation that allows for a slightly different, but statistically predictable change in that strict 1:2:1 radio.</p>
+
+<p>Mendel&#8217;s data don&#8217;t show the crossover effect.</p>
+
+<p>Inescapable conclusion: Mendel faked his data!</p>
+
+<p>He so badly wanted his observations to prove his overly-simplistic model that he lied to himself and to posterity. He covered up a fascinating inconsistency which would have pointed the way to the crossover effect in chromosome replication for later generations of scientists.</p>
+
+<p>It is unfortunate for him that we can now definitively show that the father of Mendelian genetics gave into the temptation to be intellectually dishonest.</p>
+
+<p class="posted">posted by anon
+ on December 15, 2011 <a href="#c8" rel="bookmark">#</a></p>
+</div>
+<div id="c9">
+<p>Perhaps the best expression of these, and related concepts, is in Bertrand Russell&#8217;s liberal decalogue;</p>
+
+<ol>
+<li>Do not feel absolutely certain of anything.</li>
+<li>Do not think it worth while to proceed by concealing evidence, for the evidence is sure to come to light.</li>
+<li>Never try to discourage thinking for you are sure to succeed.</li>
+<li>When you meet with opposition, even if it should be from your husband or your children, endeavour to overcome it by argument and not by authority, for a victory dependent upon authority is unreal and illusory.</li>
+<li>Have no respect for the authority of others, for there are always contrary authorities to be found.</li>
+<li>Do not use power to suppress opinions you think pernicious, for if you do the opinions will suppress you.</li>
+<li>Do not fear to be eccentric in opinion, for every opinion now accepted was once eccentric.</li>
+<li>Find more pleasure in intelligent dissent that in passive agreement, for, if you value intelligence as you should, the former implies a deeper agreement than the latter.</li>
+<li>Be scrupulously truthful, even if the truth is inconvenient, for it is more inconvenient when you try to conceal it.</li>
+<li>Do not feel envious of the happiness of those who live in a fool&#8217;s paradise, for only a fool will think that it is happiness.</li>
+</ol>
+
+<p class="posted">posted by 
+ on December 15, 2011 <a href="#c9" rel="bookmark">#</a></p>
+</div>
+<div id="c10">
+<p><a href="http://www.aaronsw.com/weblog/intellectualdishonesty#c9" rel="nofollow">#9</a>: I prefer <a href="http://delong.typepad.com/voxecon101b/2006/12/lord-enlighten-thou-our-enemies.html" rel="nofollow">John Stewart Mill&#8217;s prayer</a>:</p>
+
+<blockquote>
+  <p>Lord, enlighten thou our enemies&#8230;. Sharpen their wits, give acuteness to their perceptions, and consecutiveness and clearness to their reasoning powers: we are in danger from their folly, not from their wisdom; their weakness is what fills us with apprehension, not their strength&#8230;<a href="http://slesinsky.org/brian/quotes/enlighten_thou_our_enemies.html" rel="nofollow">†</a></p>
+</blockquote>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on December 15, 2011 <a href="#c10" rel="bookmark">#</a></p>
+</div>
+<div id="c11">
+<p>Nicely put. It is sort of defensive coding. Prepare for all the pitfalls first.
+On the other hand, honesty in general is a burden these days. You are pretty much an outcast if you are straight with people!</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://log.sometalkofme.com">Pramod</a>
+ on December 17, 2011 <a href="#c11" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="intellectualdishonesty" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

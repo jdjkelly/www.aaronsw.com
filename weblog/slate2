@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Slate (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>My Slate</h1>
+
+<p>Well, it&#8217;s election day in Massachusetts. (If you don&#8217;t know what&#8217;s going on, check out this actually quite nice website: <a href="http://www.wheredoivotema.com/">wheredoivotema.com</a>) And, since nobody else seems to be, I thought I&#8217;d tell you who I&#8217;m voting for. (I live in central Cambridge and will be voting in the Democratic primary, for what it&#8217;s worth.)</p>
+
+<p><strong>Senate:</strong> Edward J. O&#8217;Reilly. Ed O&#8217;Reilly is against the war in Iraq, supports single-payer health care, and actually wants to fight for things in Washington. John Kerry lost to George W. Bush, is running on his ability to earmark money for the state, and didn&#8217;t spend the last ten million in his Presidential campaign so he could spend it on this Senate race. (He claims he saved it for a Florida recount-type situation, as if nobody would donate money to him if the election was again hanging by a thread.) Kerry has an inspiring story; he came back from Vietnam to work to end the war and entered Congress promising not to send soldiers to another such battle. But he&#8217;s sold out, and that&#8217;s exactly what he did.</p>
+
+<p><strong>House (District 8):</strong> Michael E. Capuano. I don&#8217;t know much about Capuano, although he seems a reliable liberal vote, but he&#8217;s running unopposed.</p>
+
+<p><strong>Councillor (Sixth District):</strong> Roseann Trifoni-Mazzuchelli. This was a tough one. Councillors apparently mainly vet judicial nominations. Roseann is an (admittedly somewhat crazy-seeming) outsider campaigning on a platform of anti-corruption and tough-on-pedophiles. Personally, I think we&#8217;re too tough on pedophiles, but I have to balance that on wanting a fervent anti-corruptionist to shake things up. I ended up going with Roseann.</p>
+
+<p><strong>State Senate (1 Suffolk + Middlesex):</strong> Anthony W. Petruccelli. I know literally nothing about this guy, but (suprise!) he&#8217;s running unopposed. (Geez, this is getting boring; maybe I should run against one of these people.)</p>
+
+<p><strong>State House (25 Middlesex):</strong> Alice K. Wolf. Unopposed. Former mayor of Cambridge, supporter of gay marriage, and took the NPAT, so she can&#8217;t be all bad.</p>
+
+<p><strong>Register of Probate (Middlesex):</strong> I was going to just say &#8220;John R. Buonomo&#8221;, because he&#8217;s running unopposed and honestly, it&#8217;s Register of Probate, so who cares? but a quick Google search finds he&#8217;s been suspended and is currently on trial for &#8212; get this &#8212; stealing thousands of dollars in change from government xerox machines. So my first thought is &#8220;Why is he still on the ballot?&#8221; and my second thought is &#8220;Who steals thousands of dollars in change from xerox machines?&#8221; He has since <a href="http://www.boston.com/news/local/breaking_news/2008/09/lawyer_middlese_1.html">resigned</a> to fight the charges, although <a href="http://wbztv.com/local/middlesex.county.register.2.812554.html">apparently</a> they have surveillance footage.</p>
+
+<p>On the other hand, the Probate Court&#8217;s website says it was paid for by him personally, so maybe it was for a good cause. (Or at least it does in the Google cache; the current version has been scrubbed of him.)</p>
+
+<p>So, uh, I guess I write-in for Marie A. Gardin, who was sworn in as interim register of probate. Or leave it blank? Ah, I see that the papers and blogs are all endorsing <a href="http://www.wickedlocal.com/newton/news/x256654767/Former-Newton-mayor-runs-for-county-seat">Tom Concannon</a>, former mayor of Newton, who supports abolishing Register of Probate as an elected office. Good enough for me.</p>
+
+<p>Write in: &#8220;Thomas B. Concannon, 8 Bacon Rd., Newton&#8221; or <a href="http://blogs.townonline.com/newton/?p=33631">get a sticker</a>.</p>
+
+<p><em>Update:</em> Voted without incident. Polls were pretty empty but the system was extremely orderly.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">September 16, 2008</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>Thanks for this, especially for the Register of Probate bit. It wasn&#8217;t something I had researched, but read this before voting this morning.</p>
+
+<p class="posted">posted by Mike
+ on September 16, 2008 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="slate2" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

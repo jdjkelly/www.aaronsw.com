@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>How to Build Decent Productivity Software (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>How to Build Decent Productivity Software</h1>
+
+<p>These days it seems like everyone is making productivity software &#8212; software that helps you manage all the the things you need to get done. Yet all of them seem to be missing some basic pieces. A productivity application has two jobs: remembering everything you need to do and getting you to do it. The second is necessary because without it, you&#8217;ll put all your tasks in the application and then never do them. The first is necessary because otherwise the application will have no idea what to tell you to do.</p>
+
+<p>I think the ideal piece of productivity software would be like having a great assistant or a campaign manager: someone who intimately knows all aspects of your life&#8217;s todo lists and schedules and wasn&#8217;t afraid of saying you had to wrap this meeting up because you promised the kids you&#8217;d be home at 5 to take them to the game. Judged against this standard, present productivity software is woefully lacking &#8212; it&#8217;s usually not much more than a glorified todo list.</p>
+
+<p><strong>Remembering everything:</strong> Most software lets you store the classical todo list items: call Jon back, finish report, buy toy for kids.<sup id="fnref:fn1"><a href="#fn:fn1" rel="footnote">1</a></sup> Some systems even branch out into vaguer life goal stuff: spend time with family, become accomplished novelist, learn more about history. But that&#8217;s about it.</p>
+
+<p>But most people also have tasks in their project management software (fix this bug), various calendar-style events (lunch with Jon, catch plane), and a vast quantity of email (answer Jon&#8217;s question, fix the frobnitz and report back to Bob, etc.) Yet no one seems to have dared to integrate their software with a calendar, email client, or even bug tracking software.</p>
+
+<p>Since it&#8217;s unlikely anyone writing productivity software is also going to write an email client, a calendar, and a bug tracker (although it would be nice), I&#8217;ll settle for having support for plugins that import tasks and events from these various other apps. It has to be very simple to upload your whole life to your todo app.</p>
+
+<p><strong>Getting you to do stuff:</strong> The best I&#8217;ve seen is some kind of filtering in which the software lets you only look at tasks that can be done in 5 minutes while on a train. But if you&#8217;re the kind of person who&#8217;s dysfunctional enough to need productivity software, simply having a big list of tasks probably isn&#8217;t going to help you much. (I can write a big list of tasks in Notepad.) Instead, the software should be proactive about getting you to do stuff, like telling you to quit goofing off and get ready for that big deadline you have tomorrow or to hurry up and answer that urgent email from yesterday.</p>
+
+<p>How does it do this? First, it needs to know what&#8217;s important. After you import your life it should let you walk through and triage it all: look at each one and decide how important it is (or whether it&#8217;s already done). I&#8217;ve written a program to do this just for my mail and it&#8217;s been invaluable &#8212; within a couple hours a morass of three thousand messages turned into a neatly labeled set of piles ordered by importance. Similarly, it can turn a tall pile of assorted todos into the beginnings of an action plan.</p>
+
+<p>Then comes the crucial part: it tells you what to do. I&#8217;m not demanding anything fancy, like a robot dog that follows you around and barks orders (although that might be nice). I&#8217;m just saying provide a little pop-up window with a suggested next task. Psychologically, it&#8217;s easy to ignore a long todo list. In fact, long todo lists are depressing and make you want to look away. But a simple suggestion about one particular thing to do next is much harder to dismiss.</p>
+
+<p>Of course, the suggestions have to be good. The software would generate them by taking into account everything it knows about your tasks and calendar today. And if you still don&#8217;t like the suggestion, you tell the program you can&#8217;t do it because&#8230;:</p>
+
+<ul>
+<li>that&#8217;ll take too long (adds a time estimate to the task; used to make sure the task can be done before the next event on the calendar)</li>
+<li>that&#8217;s not very important (adds a priority to the task; used to sort by importance)</li>
+<li>I can&#8217;t do that here (adds a physical context to the task, like being in a certain place; used to find tasks you can do in your current context)</li>
+<li>I can&#8217;t do that yet (adds a dependency; dependencies can then be checked occasionally to see if they&#8217;ve been finished yet)</li>
+<li>I already did that (marks as done)</li>
+<li>that&#8217;s not due for a while (adds a due date; used to make sure things get done before their deadlines)</li>
+</ul>
+
+<p>and so on. Ideally, the system would be well-informed and smart enough that you could trust its predictions. But even if it wasn&#8217;t perfect, just suggesting tasks in order of priority would likely be a vast improvement over the whimsical system used by most people in need of productivity software. It&#8217;s hard to imagine such a tool wouldn&#8217;t be a godsend.</p>
+
+<p><em>Aaron Swartz has too large of a todo list to write this program by himself, but if you&#8217;re interested in working on it he&#8217;d love to help. Email him at <a href="&#x6d;&#97;i&#x6c;&#116;o&#x3a;&#109;&#101;&#x40;&#97;&#97;&#x72;&#111;&#110;&#x73;&#x77;&#46;&#x63;&#x6f;&#109;">&#109;&#101;&#x40;&#97;&#97;&#x72;&#111;&#110;&#x73;&#x77;&#46;&#x63;&#x6f;&#109;</a></em></p>
+
+<p>(<strong>Postscript:</strong> Dearest readers, telling me that your favorite glorified todo list has an API that allows me write all the importers I want as well as write the task suggestion system I described is not an answer. My point is that todo lists should <em>have</em> these features; not that they should allow me to write them.)</p>
+
+<div class="footnotes">
+<hr />
+<ol>
+
+<li id="fn:fn1">
+<p>Most of the classical productivity guides are aimed at middle managers whose lives, as far as we can tell from the examples, consist of calling people, finishing reports, and placating their families. Who am I to break with tradition?&#160;<a href="#fnref:fn1" rev="footnote">&#8617;</a></p>
+</li>
+
+</ol>
+</div>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">October 29, 2007</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>http://orgmode.org/ seems to solve lots of these problems; I&#8217;ve just started using it, and it&#8217;s a great organizer with some easy customizations. Also, the developer(s?) are quite responsive to bug reports and suggestions.</p>
+
+<p>It&#8217;s an emacs mode, which 1) may rule it out for many users, and 2) means it won&#8217;t do obtrusive popus. But other than that, it seems like 90% of what you&#8217;re looking for.</p>
+
+<p class="posted">posted by 
+ on October 29, 2007 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>I&#8217;ve been using <a href="http://www.rememberthemilk.com/" rel="nofollow">Remember the Milk</a> for about a year now, and it seems to provide most of what you describe (and what I consider essential in a todo app).</p>
+
+<p>You can email tasks in, which is a great low barrier interface to the system. I set filters to forward email I get, when appropriate, to my todo list. When  a new bug gets assigned to me in <a href="https://launchpad.net/" rel="nofollow">Launchpad</a>, for example, it gets forwarded to my todo, with the correct tags (depending on the project the bug is in). Of course, this setup relies on me maintaining it.</p>
+
+<p>I tag all my tasks by context (tasks for which I need to be connected to the net, tasks for which I need to be at home, shopping I need to do when I&#8217;m on the high street), priority and time estimate, so it&#8217;s always easy to find out what I should work on next.</p>
+
+<p>RtM can talk to me via Jabber, so I don&#8217;t even need to use the web interface just to find out that it&#8217;s time for that next task.</p>
+
+<p>RtM has a pretty good API, so it&#8217;s easy to write &#8216;plugins&#8217;, but I haven&#8217;t seen anything yet that connects other sources of data (I rely on the email interface alone, but it requires me to be an email hacker, which I understand not everyone can be).</p>
+
+<p>RtM has a great user interface, it&#8217;s a pleasure to use, and since they&#8217;ve added Google Gears support I even have my tasks offline.</p>
+
+<p>But RtM doesn&#8217;t seem to have truly taken off - it looks like it was designed to fit perfectly with one of the major online app providers, but so far it doesn&#8217;t look like it generated much interest. I think I know why - an efficient todo app isn&#8217;t a something that&#8217;s ever going to be popular, because most people don&#8217;t actually want to be productive.</p>
+
+<p>If you take a look at what applications are generating most interest and money these days, it is stuff that helps people be <em>less</em> productive and suppress the necessary bad feelings that come with boredom and impotence, not something that reminds them that they should get back to work.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://intellectronica.net/">Tom Berger</a>
+ on October 29, 2007 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>I just broke out of my feed reader to tell you about rememberthemilk.com too.  It has priorities, time estimates, physical contexts and due dates as you outline above.  It doesn&#8217;t have dependencies.  I deal with them by setting a future due date which causes them to disappear from my action smart list.</p>
+
+<p>You can use the excellent search to find tasks matching whatever criteria you need.  And you can save any search as smart list which is then viewable just like any of your other lists.</p>
+
+<p>I fire tasks to it with a little ruby script I wrote from the terminal.</p>
+
+<p>It isn&#8217;t perhaps what you are dreaming of although it isn&#8217;t far off either.  Perhaps some program sitting above the API could use the search capability to do the &#8220;next task is &#8230; ?&#8221; prompting?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://bluebones.net/">Thomas David Baker</a>
+ on October 29, 2007 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>&#8220;Since it&#8217;s unlikely anyone writing productivity software is also going to write an email client, a calendar, and a bug tracker (although it would be nice)&#8221;</p>
+
+<p><a href="http://www.osafoundation.org/" rel="nofollow">OSAF</a> is doing all of that, and I&#8217;m sure they could use your help.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://makedatamakensense.com/">Scott Reynen</a>
+ on October 29, 2007 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>I&#8217;ve been working on a webapp &#8216;Smacklet&#8217;. It is not done yet; I&#8217;ll send you an email as soon as it is. I&#8217;ve been using a crude version of it and I can say that I get more things done now.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://kiru.in/">Kirubakaran</a>
+ on October 29, 2007 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c6">
+<p>Thanks Aaron!  Great ideas on the Assistant Pop-up letting you know when you should be doing something else (it thinks you should be doing).  We&#8217;re adding that to our web app http://www.streamfocus.com .</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://streamfocus.com">Fred Gibson</a>
+ on October 29, 2007 <a href="#c6" rel="bookmark">#</a></p>
+</div>
+<div id="c7">
+<p>I really like your &#8220;not now and here&#8217;s why&#8221; approach, even if the end result is that you realize that you no longer have any excuse to not be doing a particular task.</p>
+
+<p>I would maybe add a &#8220;I don&#8217;t have the energy&#8221; excuse, if only for tracking and learning when you&#8217;re likely to finally complete that cringe-worthy task you&#8217;ve been avoiding.</p>
+
+<p>One thing that would be handy for me is an &#8220;urgency curve,&#8221; or at least a selection of &#8220;urgency profiles&#8221; like &#8220;deadline&#8221;, &#8220;appointment&#8221; or &#8220;steadily increasing risk of attracting flies.&#8221;</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://frankschmitt.org">Frank</a>
+ on October 29, 2007 <a href="#c7" rel="bookmark">#</a></p>
+</div>
+<div id="c8">
+<p>I&#8217;m just starting out developing a new todo application (translation: I&#8217;ve got a domain name and some basic ideas). I like the idea of a low cost of entry coupled with adding data over time; that model is something I&#8217;ve been playing with for this and another separate project in the last few weeks.</p>
+
+<p class="posted">posted by Paul
+ on October 30, 2007 <a href="#c8" rel="bookmark">#</a></p>
+</div>
+<div id="c9">
+<p>I second that, OSAF is working on just what you&#8217;ve described, it looks pretty promising.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.callum-macdonald.com">Callum</a>
+ on October 30, 2007 <a href="#c9" rel="bookmark">#</a></p>
+</div>
+<div id="c10">
+<p>&#8220;After you import your life it should let you walk through and triage it all: look at each one and decide how important it is (or whether it&#8217;s already done).&#8221; I&#8217;d never get to that.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://digg.com">Owen Byrne</a>
+ on October 30, 2007 <a href="#c10" rel="bookmark">#</a></p>
+</div>
+<div id="c11">
+<p>Heh, I&#8217;ve probably been working on this for about a decade now, but am too lousy at getting things done to have much to show&#8230;</p>
+
+<p>Latest version I&#8217;m playing with is using a quick &amp; dirty desktop app to post stuff off to my online Personal Knowledge Base. I&#8217;ve got the posting-off side done, not got onto task editing etc. yet. The first priority was to be able to log &amp; view what I&#8217;ve done, and that bit I have got going:
+http://danja.talis.com/timegrid/
+http://dannyayers.com/2007/10/04/a-little-dogfood</p>
+
+<p>A critical point (IMHO) is not to hardwire any particular user interface to the data store, so you can hook up <em>existing</em> tools (like OSAF, as mentioned above) to a common store. Which means using a flexible data model alongside well-defined protocols - the obvious choice being Semantic Web tech. The basic modelling can easily be covered by RDF/OWL, the prioritisation etc being added as a fairly lightweight numberic layer on top.</p>
+
+<p>Over the years I&#8217;ve played with mapping between quite a few related tools and the common model*, although this time around the only one I&#8217;ve so far hooked up has been a todo.txt parser. (Guess I should do a todo.txt renderer soon&#8230;).</p>
+
+<ul>
+<li>I&#8217;m hoping to get a long-overdue revision of the &#8216;prj&#8217; project vocab done this week</li>
+</ul>
+
+<p class="posted">posted by <a rel="nofollow" href="http://dannyayers.com">Danny</a>
+ on October 30, 2007 <a href="#c11" rel="bookmark">#</a></p>
+</div>
+<div id="c12">
+<p>Sorry, typo: s/numberic/numeric</p>
+
+<p>(although the former does sound quite appealing)</p>
+
+<p>Also the last line is meant to be a footnote with a &#8216;*&#8217;, not a bullet point.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://dannyayers.com">Danny</a>
+ on October 30, 2007 <a href="#c12" rel="bookmark">#</a></p>
+</div>
+<div id="c13">
+<p>Check out gootodo.com for an interesting take on the todo list. I got turned onto it after reading Bit Literacy by Mark Hurst and I&#8217;m a believer.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.rp0229.com/blog">Rahul Pathak</a>
+ on October 30, 2007 <a href="#c13" rel="bookmark">#</a></p>
+</div>
+<div id="c14">
+<p>hello,</p>
+
+<p>your post is very interesting. I have been working for the last month on researching and implementing a manufacturing scheduling algorithm for a small furniture workshop. I was totally ignorant of the field a few months ago but it was a very interesting experience. Anyway: I read your entry with this bias and the system you sketch here seems very close to problems that I have been working on recently with this project.</p>
+
+<p>I discovered that one of the key aspect is that it is not so much a data architecture problem, nor it is an interface design challenge: as you noted it should integrate into already built data and interface systems, plus the data to record is quite straightforward (dates, text, dates&#8230;) so the difficult and interesting bit to figure out is the recommendation or prioritization algorithm. To produce a sufficiently well done algorithm that&#8217;ll prompt you with a relevant list of five things to consider doing just now and can minimally learn how to do so as you use it.</p>
+
+<p>And more than that there is some times where the system should not prompt me anything to do and be elegantly silent: there are activities that I do with pleasure and without any exterior incentive, reading books, drawing, cooking, doing nothing&#8230;</p>
+
+<p>This seems essential in order for me to be able to rely on such a system. If it was constantly and bluntly pushing his five relevant things to me I would stop doing what he says. And there are some times where it would be encouraging to have quasi empty list that says for example: &#8220;do just one thing and you are done for now&#8230;&#8221;</p>
+
+<p>The rules that you started to lay down on the end of your post seems very pragmatic and right to start in this direction. Today it seems to me that a library of code that implement such prioritization and task recommendation processes would be the best contribution to the field. In the domain of manufacturing scheduling among several other interesting examples: http://www.frepple.com/</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://pierre.lunarpages.net">Pierre schmidt</a>
+ on October 30, 2007 <a href="#c14" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="decenttodo" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

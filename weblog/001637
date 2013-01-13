@@ -1,0 +1,157 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Stanford: Caught Red-Handed (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001637.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001636" title="Stanford: Meeting the President" />	<link rel="next" href="001638" title="Lessons in Capitalism #2: Management" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Stanford: Caught Red-Handed</h1>
+</div>
+
+<div class="content">
+<p class="dateline">February 25</p>
+
+<p>&#8220;Aaron, we have to talk.&#8221; [redacted] has a serious look in her eye and her tone makes plain that it&#8217;s something important. <em>Oh no,</em> I think, <em>she&#8217;s found me out. Someone&#8217;s told her I don&#8217;t really love her and she&#8217;s angry.</em> (I always used to do this. My mom would yell up &#8220;Aaron, can you come down here?&#8221; and I&#8217;d immediately assume the worst &#8212; they&#8217;d caught me stealing nuclear missiles or something. Turned out it was just time for dinner.)</p>
+
+<p>She resists talking. She feels really bad about saying it. The pressure mounts. Finally she tells me: she thinks I gave her a rash, she thinks I should wash my hands more. I can&#8217;t help but laugh. Of course I&#8217;ll wash my hands more. &#8220;OK,&#8221; she says, still feeling bad about bring it up. &#8220;What are you feeling bad about?&#8221; I say, &#8220;I&#8217;m the one who should be embarrassed.&#8221; It&#8217;s such a blog story, we agree.</p>
+
+<hr />
+
+<p>I got to participate in my first deceptive psychology experiment! (You know, where they tell you the experiment is testing X and it&#8217;s really testing Y.) It was surprisingly elaborate, with a whole series of staged things to make me think there was more going on than there was. Bizarrely, I correctly guessed the actual intent of the study but I got the method of measurement completely wrong. I can&#8217;t really provide more details because some people reading this might eventually take the study.</p>
+
+<p>They have this clever thing where taking experiments is a requirement for taking Psych 1. I guess they have to get their victims (experimentees?) somehow.</p>
+
+<p class="posted">posted March 26, 2005 04:47 PM (<a class="category" href="cat_education">Education</a>) (<a href="#comments">0 comments</a>) <a href="001637" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001636" title="Stanford: Meeting the President">&laquo; prev</a> | <a href="./">up</a> | <a href="001638" title="Lessons in Capitalism #2: Management">next &raquo;</a></p>
+
+<p><a href="001633">Stanford: Out at the Movies</a><br />
+<a href="001634">Stanford: Form Without Content</a><br />
+<a href="001635">Stanford: A Wired Rave</a><br />
+<a href="001639">David M. Clark on Cognitive Therapy</a><br />
+<a href="001636">Stanford: Meeting the President</a><br />
+<strong>Stanford: Caught Red-Handed</strong><br />
+<a href="001638">Lessons in Capitalism #2: Management</a><br />
+<a href="001628">Stanford Interactive: What classes should I take?</a><br />
+
+</p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001637.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1637" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

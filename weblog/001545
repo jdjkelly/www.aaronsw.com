@@ -1,0 +1,162 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Your Congress is a Bunch of Idiots (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001545.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001542" title="Stanford: Saturday, December 4" />	<link rel="next" href="001546" title="Stanford: Sunday, December 5" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Your Congress is a Bunch of Idiots</h1>
+</div>
+
+<div class="content">
+<p>[The following is excerpted from the darkly hilarious book <em>Washington Babylon</em> by Ken Silverstein and Alexander Cockburn. Some edits have been made for readability. Be sure to <a href="http://www.amazon.com/exec/obidos/ASIN/1859840922/coolbooks02/">check out <em>Washington Babylon</em></a> for more fun tales of idiocy, corruption, sex, and evil in politics.]</p>
+
+<p>The American body politic has always had its share of boobs and incompetents. H.L. Mencken once wrote that since elections produced such dreadful results, citizens should stop wasting their time voting and simply pick their representatives at random from the phone book. Mencken would have had a fine time with today&#8217;s Congress, especially with the ebullient ferocity of many of the GOP&#8217;s newest members.</p>
+
+<p>Larry Pressler&#8217;s colleagues once watched in bemusement as the Dakota senator rose from a meeting and mistook a closet door for the exit.  The immured Pressler realized his mistake but thought that the best strategy would be to stand pat, wait until everyone else had quit the room, and then slip out. His plan was foiled when a few colleagues decided to sit him out. Some 15 minutes later, a red-faced Pressler made his exit at last.</p>
+
+<p>Rep. Sonny Bono&#8217;s aides worked hard to conceal his meager talents. Bono&#8217;s public relations director, Marilyn Baker, later revealed to the <em>Los Angeles Times</em> that she had to rewrite the mayor&#8217;s agendas into script form so Bono could conduct official business. &#8220;For call to order, I wrote &#8216;sit.&#8217; For salute the flag, I wrote &#8216;stand up, face flag, mouth words.&#8217; For roll call I wrote: &#8216;When you hear your name, say yes&#8217;&#8221;, said Baker, who quit after three depressing months of service.</p>
+
+<p>Ohio&#8217;s Frank Cremeans once declared his opposition to sex before marriage, saying that &#8220;marriage is a very sanctimonious commitment&#8221;. In an interview with a radio station in Marietta, Ohio, during which he discussed Congress&#8217;s first 100 days under Newt Gingrich, Cremeans excitedly declared to the show&#8217;s host, &#8220;Just think about it Mike, we&#8217;re advancing backwards!&#8221;</p>
+
+<p>Nebraska Rep. John Christensen once called a press conference to announce his personal deficit reduction plan, which called for cuts in government spending of $1.5 trillion. When informed by a reporter that $1.5 trillion was the entire budget, Christensen, looking like a deer caught in the headlights, hastily changed topics.</p>
+
+<p>Don Young of Alaska is best known for his rabid attack on ecologists. One hearing on the cruelty of steel-jaw leghold traps was highly charged and Young, as a hunter, trapper and taxidermist, realized dramatic action was required to turn the tide. His solution was to place his hand into a trap he had brought along to the hearing, and then begin to calmly question a witness as though nothing unusual had happened. &#8220;I never told anyone, but it hurt like hell&#8221;, Young later confided to a congressional staffer.</p>
+
+<p><em>For more from</em> Washington Babylon <em>see <a href="http://www.aaronsw.com/weblog/001403">What is the real purpose of military spending</a>, discussing similar idiocy in the military.</em></p>
+
+<p class="posted">posted February 05, 2005 08:15 PM (<a class="category" href="cat_politics">Politics</a>) (<a href="#comments">0 comments</a>) <a href="001545" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001542" title="Stanford: Saturday, December 4">&laquo; prev</a> | <a href="./">up</a> | <a href="001546" title="Stanford: Sunday, December 5">next &raquo;</a></p>
+
+<p><a href="001537">Stanford: Tuesday, November 30</a><br />
+<a href="001538">Stanford: Wednesday, December 1</a><br />
+<a href="001540">Stanford: Thursday, December 2</a><br />
+<a href="001541">Stanford: Friday, December 3</a><br />
+<a href="001542">Stanford: Saturday, December 4</a><br />
+<strong>Your Congress is a Bunch of Idiots</strong><br />
+<a href="001546">Stanford: Sunday, December 5</a><br />
+<a href="001547">George Ryan on the Penalty of Death</a><br />
+<a href="001548">Stanford: Tuesday, December 7</a><br />
+<a href="001551">Stanford: Wednesday, December 8</a><br />
+<a href="001552">Edward Tufte on Beautiful Evidence (and more Stanford: December 8)</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001545.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1545" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

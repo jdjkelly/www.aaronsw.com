@@ -1,0 +1,45 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Local Wireless (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000296" title="Multi-Threaded Lives" />	<link rel="next" href="000298" title="Copyright Lawsuit Not Included" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Local Wireless</h1>
+</div>
+
+<div class="content">
+<p>I&#8217;d been seeing a second wireless network in my Airport menu so I finally got around to investigating. I opened up my iBook, launched tcpdump and <a href="http://homepage.mac.com/macstumbler/">MacStumbler</a> and started walking. Locating base stations is harder than you might expect, but finding that they exist sure is easy. In the one-block radius around my house I found three base stations (not including my own)! I live in a small suburb with not a lot of people so I was blown away.</p>
+
+<p>Now I&#8217;m left wondering what to do next. Any ideas?</p>
+
+<p class="posted">posted May 26, 2002 09:24 PM (<a class="category" href="cat_technology">Technology</a>)  <a href="000297" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000296" title="Multi-Threaded Lives">&laquo; prev</a> | <a href="./">up</a> | <a href="000298" title="Copyright Lawsuit Not Included">next &raquo;</a></p>
+
+<p><a href="000287">His New Weblogging Technique is&#8230; Unusual</a><br />
+<a href="000291">LarryL and AaronSw</a><br />
+<a href="000292">Copyright Terrorism Continues</a><br />
+<a href="000293">I am the terrible secret of space!</a><br />
+<a href="000296">Multi-Threaded Lives</a><br />
+<strong>Local Wireless</strong><br />
+<a href="000298">Copyright Lawsuit Not Included</a><br />
+<a href="000300">The New New New Economy</a><br />
+<a href="000301">My Books</a><br />
+<a href="000302">TinyURL</a><br />
+<a href="000304">Boston Trip 2 - Day 1</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

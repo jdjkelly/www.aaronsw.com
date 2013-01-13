@@ -1,0 +1,55 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>book connections: death and life, future of ideas, elements of typography (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/000725.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000723" title="today is my birthday" />	<link rel="next" href="000726" title="Trusted Clothing / Trusted Computing: A Parable" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>book connections: death and life, future of ideas, elements of typography</h1>
+</div>
+
+<div class="content">
+<p>Last week, I began reading <a href="http://www.amazon.com/exec/obidos/ASIN/067974195X/coolbooks02">The Death and Life of Great American Cities</a>. It&#8217;s a powerful tirade against the vision of America becoming one giant suburb, with green and parks surrounding everything, with the stores carefully separated off from the people. With brilliant prose and volumes of anecdotes and statistics, Jacobs shows why this leads to a life filled with boredom and fraught with danger. </p>
+
+<p>One example: Charles Guggenheim, a documentary filmmaker watched kids in St. Louis at a daycare facility. Half couldn&#8217;t wait to get home, the other half refused to. The half that refused lived at a project, filled with parks and green but separated from business. There were no people to watch them walk home or business that they could run to in danger, so they were always bullied by kids waiting for them. The kids who lived in the &#8220;slum&#8221; cities, where there were streets with interesting things to do and people to watch them didn&#8217;t have this problem.</p>
+
+<p>This week, the library got in Lessig&#8217;s book, <a href="http://the-future-of-ideas.com/">The Future of Ideas</a>. (I buy only beautiful books and reference books, the rest I check out from the library or read at the bookstore without purchasing. I guess that makes me a book pirate.) It&#8217;s an interesting book, showing that commons we depend on are being depleted and how creativity and innovation are being stifled as a result. </p>
+
+<p>The book is trying to make a point and, as a result, seems to ignore technology that could solve these problems. It mentions Wi-Fi, but not as a system where community networks could give themselves real IP service. Napster is discussed, but the possibility of an attack-resistant system is not. Of course, these are two things I&#8217;m working on. (Lessig says I&#8217;m wrong; <a href="mailto:lessigreview@aaronsw.com">details and corrections are appreciated</a>, as always.)</p>
+
+<p>One example: &#8220;Davis Guggenheim is a film director. [&#8230;] His passion, like is father&#8217;s before, is documentaries.&#8221; He has to do tons of work to make sure no copyrighted pictures, buildings, or chairs get into his films. Otherwise, the copyright holder will sue him, as some have sued over a number of other movies and won (at least) preliminary injunctions. Davis can&#8217;t express himself the way he wants; he has to stay bland instead.</p>
+
+<p>Hm, is Charles the father of Davis? <a href="http://www.pbs.org/firstyear/production/">Indeed, he is!</a> A surprising coincidence.</p>
+
+<p>Finally, as I was casting about for another book to read yesterday, a package comes. <a href="http://www.advogato.org/person/rillian/">rillian</a> sent me a copy of <a href="http://www.amazon.com/exec/obidos/ASIN/0881791326/coolbooks02">The Elements of Typographic Style</a> for my birthday! Wow, a thousand thanks! It&#8217;s a beautiful book and a joy to read. The only problem is that, like the Tufte books, I&#8217;m afraid I will harm it while reading. I think I&#8217;m going to go buy some latex gloves to use.</p>
+
+<p class="posted">posted November 10, 2002 11:00 AM (<a class="category" href="cat_books">Books</a>)  <a href="000725" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000723" title="today is my birthday">&laquo; prev</a> | <a href="./">up</a> | <a href="000726" title="Trusted Clothing / Trusted Computing: A Parable">next &raquo;</a></p>
+
+<p><a href="000718">Official Argument Transcripts</a><br />
+<a href="000720">The Case for Source Code Escrow</a><br />
+<a href="000721">File Cabinet Lib</a><br />
+<a href="000722">today&#8217;s featured superhero: Dean Kamen</a><br />
+<a href="000723">today is my birthday</a><br />
+<strong>book connections: death and life, future of ideas, elements of typography</strong><br />
+<a href="000726">Trusted Clothing / Trusted Computing: A Parable</a><br />
+<a href="000727">Is the intuitive hypertext interface finally here?</a><br />
+<a href="000729">greenspan# make economy</a><br />
+<a href="000731">I&#8217;ll be at Comdex</a><br />
+<a href="000733">Stirling Engine introduced on 60 Minutes, Segway on Amazon.com</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

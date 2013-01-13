@@ -1,0 +1,63 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Spectrum Reflections (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000864" title="Raging Platypus" />	<link rel="next" href="000866" title="How to Do Stuff" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Spectrum Reflections</h1>
+</div>
+
+<div class="content">
+<p>The question before us is what we should do with the magic communications technology of radio. From a First Amendment and public policy perspective, it’s clear we don’t want to create a regime where a few speakers (“the media”) can control it. I think we can learn some lessons from the past here.</p>
+
+<p>Look at previous property-based systems: newspapers, books, radio, television, cable. All of them are controlled by a few large media companies. </p>
+
+<p>Look at previous commons-based systems: the post office, the phone system, the Internet. All of them have a wide variety of speakers.</p>
+
+<p>I’m not sure exactly what it is, but it sure seems like there’s something different between communications media and other scarce resources (which don’t seem to have any problems being property).</p>
+
+<p><a href="http://radio.weblogs.com/0120695/2003/03/02.html#a1">David D. Friedman argues</a> that the reason CBS and CNN control the airwaves is because they can produce stuff very large amounts of people want to see. I don’t buy this. If there’s one thing we’ve learned from weblogs, it’s that everyday people occasionally do or find things of great interest.</p>
+
+<p>Even if this was true, I don’t see this as a reason to lock ourselves into a property system. If we have the technology to give people a choice between something everyone finds tolerable or something they’re specifically interested in, then I think it’s clear we should allow the latter.</p>
+
+<p>Some argue that if the latter is what people really want, then the market will figure that out. There are several problems with that. </p>
+
+<p>First, there’s a large collective action problem. There are lots of small content providers on the Internet, for example, but it’s very difficult to convince them to join together to do anything. I think it’s particularly unlikely that they’ll try to purchase spectrum.</p>
+
+<p>Second, these small content providers are generally far less profitable than big media companies, if they’re even profitable at all. Well-liked sites like <a href="http://www.salon.com/">Salon</a> are struggling to pay the rent; they certainly don’t have money to try and pay for a commons with.</p>
+
+<p>Third, consumers don’t want to pay a tax to the government so that the magical market can figure out what they already know. It’s obvious that they want instant ad-hoc long-distance high-bandwidth low-latency IP networks. It’s not clear what they gain by paying the government to have the market to try and figure this out, while they wait.</p>
+
+<p>Finally, there appears to be something preventing spectrum holders from providing what consumers want. There’s tons of spectrum which has been parceled out but is sitting unused. I’m not sure why, but it seems pretty obvious that most current spectrum holders aren’t interested in building the commmons system consumers want. I don’t understand why giving them a permanent title to it will make them any more responsive.</p>
+
+<p class="posted">posted March 16, 2003 07:55 PM (<a class="category" href="cat_politics">Politics</a>)  <a href="000865" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000864" title="Raging Platypus">&laquo; prev</a> | <a href="./">up</a> | <a href="000866" title="How to Do Stuff">next &raquo;</a></p>
+
+<p><a href="000858">New Valenti Remix</a><br />
+<a href="000859">Larry&#8217;s Keynote</a><br />
+<a href="000862">House of Reprehensitives?</a><br />
+<a href="000863">Protect Fair Use</a><br />
+<a href="000864">Raging Platypus</a><br />
+<strong>Spectrum Reflections</strong><br />
+<a href="000866">How to Do Stuff</a><br />
+<a href="000868">letters from a rogue state</a><br />
+<a href="000869">where are the warmongers?</a><br />
+<a href="000870">We&#8217;re Going to Japan</a><br />
+<a href="000872">Flight Report</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

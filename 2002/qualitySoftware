@@ -1,0 +1,62 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+  <title>Quality Software</title>
+  <link rel="stylesheet" type="text/css" href="/style.css" />
+</head>
+<body>
+<div id="head">
+  <h1>Quality Software</h1>
+</div>
+<div class="content">
+<p>Quality software is made by artists, not engineers or programmers. But software is unlike other fields of art, because it needs to be superbly functional in addition to aesthetically pleasing.</p>
+
+<p>I have found that there are two types of quality software: GUI software and UNIX software. Quality GUI software is beautiful to look at, as well as a joy to use. Quality UNIX is beautiful to comprehend, as well as a joy to work with.</p>
+
+<h2>GUI Software Artists</h2>
+<ul>
+<li><a href="http://www.apple.com/software/">Apple (Applications Team)</a></li>
+<li><a href="http://www.omnigroup.com/applications/">OmniGroup</a></li>
+<li><a href="http://www.panic.com/">Panic</a></li>
+<li><a href="http://ranchero.com/software/">Ranchero</a></li>
+</ul>
+
+<p>While all of their products have some faults, these designers do some of the best work I've seen.</p>
+
+<h2>UNIX Software Artists</h2>
+
+<ul>
+<li><a href="http://cr.yp.to/software.html">D. J. Bernstein</a></li>
+</ul>
+
+<p>Unquestionably the best UNIX software artist ever, his work repays careful study. Not only is it secure and amazingly functional, but it is also well-designed so that it feels like a masterpiece of art in addition to a piece of software.</p>
+
+<p>I have noticed that those who like Professor Bernstein's software are quite often very intelligent. The inverse is not always true: while many people who don't like Bernstein's software are not particularly intelligent, some are merely misguided.</p>
+
+<p>It is a continuing frustration to me that Professor Bernstein has no peer in software design. It would be great to have a culture of innovative quality UNIX software. Currently, it seems all quality UNIX software is, to some degree, emulation:</p>
+
+<ul>
+<li><a href="http://smarden.org/pape/">G. Pape</a></li>
+<li><a href="http://www.superscript.com/software.html">SuperScript</a></li>
+<li><a href="http://untroubled.org/">Bruce Guenter</a></li>
+<li><a href="http://www.cs.virginia.edu/~jrk3g/">Jeff King</a></li>
+<li><a href="http://www.fefe.de/">Fefe</a></li>
+<li><a href="http://bellard.org">Fabrice Bellard</a></li>
+<li><a href="http://robur.slu.se/jensl/">Jens L&aring;&aring;s</a></li>
+<li><a href="http://multivac.cwru.edu/">Paul Jarc</a></li>
+<li><a href="http://www.ohse.de/uwe/software.html">Uwe Ohse</a></li>
+<li><a href="http://www.palomine.net/qdated/">Chris Johnson</a></li>
+<li><a href="http://js.hu/package/">Balazs Nagy / Julian Severn</a></li>
+</ul>
+
+<p>@@Other candidates: David McCusker, Rael Dornfest.</p>
+
+<p>@@Scholars: me, Matt Webb, Mike Gancarz(?), guy who wrote bstj article, who else?</p>
+
+<p>Eric S. Raymond is writing <a href="http://www.tuxedo.org/~esr/writings/taoup/">a book on the Unix philosophy</a> but it looks like he's getting everything wrong.</p>
+
+<p>I am interested in hearing about other quality software artists. <a href="mailto:qualitysoftware@aaronsw.com">Please send your suggestions</a>.</p>
+</div>
+<div class="footer">
+  <address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</div></body>
+</html>

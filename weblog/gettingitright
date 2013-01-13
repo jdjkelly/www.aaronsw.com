@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Getting It Right (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Getting It Right</h1>
+
+<p>There&#8217;s an interesting little experiment you can do. If you have a classroom of kids and you give them a bunch of tasks they can work on of varying difficulty, the kids will pick the tasks that are just outside their level, that stretch them to do a little bit more. (This is, of course, if they aren&#8217;t getting graded on this. If they&#8217;re getting graded, they&#8217;ll always pick the easy ones.)</p>
+
+<p>When I first heard about this experiment, I just assumed it was because they were good kids. But now I think there&#8217;s a different explanation. It&#8217;s because doing this is fun.</p>
+
+<p>Working on something that&#8217;s too easy for you isn&#8217;t enjoyable, it&#8217;s just mindless. (There&#8217;s a reason few people play <a href="http://www.hrwiki.org/index.php/50K_Racewalker">50K Racewalker</a>.) But doing something that&#8217;s too hard for you isn&#8217;t fun either. It&#8217;s just like trying to run through a wall: you&#8217;re not going to succeed and you&#8217;re not going to learn much from it. So, like Goldilocks, the kids pick the task that&#8217;s just right.</p>
+
+<p>But it&#8217;s not simply by default either. There&#8217;s something actively enjoyable in itself about learning to achieve more. (I&#8217;ve <a href="http://www.aaronsw.com/weblog/easywayout">come to call this</a> the &#8220;Kipper effect&#8221;, after the novel Kipper&#8217;s Game which revolves around this idea.) There&#8217;s a definite high to achievement, the rush of accomplishment, just as there&#8217;s a corresponding low when you fail.</p>
+
+<p>I&#8217;m looking for more research on this idea &#8212; and I&#8217;d be very grateful if anyone could point me to it. What kinds of things trigger the Kipper effect? Does it wear off? etc.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">October 13, 2006</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>You should definitely read &#8220;Flow: The Psychology of Optimal Experience&#8221; by Mihaly Csikszentmihalyi, which talks about the state of flow - Zen-like state which occurs when balance is found between the challenge of the task and the skill of the performer.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://nikitazhuk.net">Nikita Zhuk</a>
+ on October 13, 2006 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>“Ah, but a man&#8217;s reach should exceed his grasp, or what&#8217;s a heaven for?” &#8212; Robert Browning</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://sethf.com/">Seth Finkelstein</a>
+ on October 13, 2006 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>&#8220;A man&#8217;s life is interesting primarily when he has failed&#8212;I well know. For it is a sign that he has tried to surpass himself.&#8221; - Georges Clemenceau</p>
+
+<p class="posted">posted by Ajay
+ on October 13, 2006 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>Kathy Sierra talks about this a lot, only she focuses mostly on the context of software users instead of students. But she&#8217;s done a lot of reading and writing about keeping people interested by keeping things slightly challenging. So she could probably recommend some good research on the topic.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://weblog.randomchaos.com/">Scott Reynen</a>
+ on October 14, 2006 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>If you would hit the mark, you must aim a bit above it.</p>
+
+<p class="posted">posted by anonymous
+ on October 14, 2006 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c6">
+<p>Alan Kay wrote that he likes to challenge kids to &#8216;write (type?)&#8217; because it&#8217;s bit difficult thing to do. He wrote he basically sets that his basic setting (for Dynabook/Squeak) is - to challenge&#8217; kids to do something bit more difficult or we humans are not innately equipped to do fluently or elegantly.</p>
+
+<p>So there might be some papers or references he and his people (SmallTalkers,Squeakers?) can suggest - how to set hoops or hardles in front of kids - they&#8217;ve been doing this for decades&#8230;they also (almost?) say kids have more talents in science and math than parents or teachers. [I am not very clear about how they put these two different things in one.]</p>
+
+<p>As you may know he is basically in the same camp? as Seymour Papert, who takes bit more looser articulations about kids&#8217; talents or potentials and how our regular education systems are not matching. (and wasting so many kids&#8230;)</p>
+
+<p>I now think those IA people (Intelligence Augmentation) should have written a lot more about education settings and kids - in the modern world. They could have written a lot more as general analysis, findings, and criticisms or suggestions - about education. That could have cleared up many issues. By merely writing or talking as computer scientists, they kind of really didn&#8217;t fill the lines they had to fill. There is still some time left - while they are alive - but I am not sure how much they&#8217;d come to succeed on popularizing their ideals and dreams - and softwares (and hardwares?).</p>
+
+<p>On a different note, there is an very old Stanford book, History of Education, written by Cubberley? might be an interesing reference book to have around for your - seems - interest in education system&#8217;s settings. Recently someone wrote a book about that book, but I haven&#8217;t checked up.</p>
+
+<p>Michael Oakeshott?&#8217;s book titled &#8216;On Human Conduct&#8217; has - pp350 or so around? (there are different editions probably) - a brief paragraphs about the origins of modern educations. (It&#8217;s for &#8216;Nations&#8217; to build meritocracies&#8230;to beat each other up&#8230;)</p>
+
+<p>And I&#8217;m still probably very clueless about the history of &#8216;Universities&#8217; - and &#8216;kids&#8217; in the West. When peer pressure thing came in, when drinking and drugs became common, &#8216;who&#8217; started to sell those things to kids, - or kids themselves started by themselves(because they are so happy being away from suburbs and parents?).</p>
+
+<p class="posted">posted by a.kusaka
+ on October 15, 2006 <a href="#c6" rel="bookmark">#</a></p>
+</div>
+<div id="c7">
+<p>Yeah, Aaron, you should definitely check out Flow, the book Nikita recommended.</p>
+
+<p>You&#8217;ll learn more about the so-called Kipper Effect.  According to Csikszentmihalyi&#8217;s research, it&#8217;s one of the core components of flow &#8212; you need to be stretched just outside of your comfort zone.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.giraffegiraffe.com">Altay</a>
+ on October 18, 2006 <a href="#c7" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="gettingitright" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

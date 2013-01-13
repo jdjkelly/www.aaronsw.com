@@ -1,0 +1,213 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Behind the Thick Black Line (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001412.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001410" title="Framing the Media" />	<link rel="next" href="001416" title="Published Author" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Behind the Thick Black Line</h1>
+</div>
+
+<div class="content">
+<p>Previously <a href="http://www.aaronsw.com/weblog/001225">we reported on how the ACLU was unable to report</a> on a lawsuit they&#8217;d filed challenging how people couldn&#8217;t report on the government&#8217;s use of the USA PATRIOT Act. The government had grudgingly conceded to let the ACLU publish relevant legal documents as long as the government got to black out the top secret portions first.</p>
+
+<p>Well, after complaining to the judge, the ACLU can now reveal some of the top secret information that the government blacked out. What were these imminent threats to national security?</p>
+
+<p><strong>Political Beliefs They Disagree With:</strong> A person at the ISP that was forced to turn over documents <a href="http://www.aclu.org/nsl/gagorder/rdct_declaration_client.pdf">said</a> &#8220;the public should be able to monitor how the government is using these new powers so that it can police against possible abuses.&#8221; The government blacked that line out.</p>
+
+<p><strong>Supreme Court Rulings They Disagree With:</strong> The ACLU <a href="http://www.aclu.org/nsl/gagorder/acluLetter_051404.pdf">quoted the Supreme Court</a>: &#8220;The danger to political dissent is acute where the Government attempts to act under so vague a concept as the power to protect &#8216;domestic security.&#8217; Given the difficulty of defining the domestic security interest, the danger of abuse in acting to protect that interest becomes apparent.&#8221; Aparrently the government didn&#8217;t like that decision; they blacked the whole quote out.</p>
+
+<p><strong>Descriptions of the Law:</strong> The ACLU <a href="http://www.aclu.org/nsl/gagorder/govtLetter_pressrelease.pdf">issued a press release</a> noting &#8220;The provision under challenge allows an FBI agent to write a letter demanding the disclosure of the name[s] &#8230; held by &#8216;electronic communication service providers.&#8217;&#8221; The government insisted they black that line out.</p>
+
+<p><strong>Embarassing Government Claims:</strong> The government <a href="http://www.aclu.org/nsl/gagorder/govtLetter_051204.pdf">told the Court</a>: &#8220;The redactions were drawn along a line that is both reasonable and easy for all paties to follow: plaintiff ACLU&#8217;s facial challenge &#8230; is disclosed in its entirety.&#8221; Their reasoning being that if the ACLU revealed any more information, it&#8217;d be too confusing them. The government blacked that line out.</p>
+
+<p><a href="http://www.aclu.org/nsl/gagorder/govtLetter_043004.pdf">The government insisted three times</a> that &#8220;Every disclosure about the case brings additional inquiries, and thus the possibility for disclosing matters that are barred.&#8221; Apparently they&#8217;re really worried about keeping their mouth shut. But you can&#8217;t know that; the government blacked that line out.</p>
+
+<p><strong>Ominous Warnings:</strong> <a href="http://www.aclu.org/nsl/gagorder/govtLetter_042604.pdf">The government warned</a> &#8220;the Government believes that the filing of the complaint in this action raises [REDACTED] concerns.&#8221; The government blacked that line out too.</p>
+
+<p>Now remember, this is what the government blacks out when the ACLU, who is <em>suing the government</em>, is looking. Imagine what they&#8217;ve censored in government reports, freedom of information act requests, and congressional records, when no independent authority is watching.</p>
+
+<p><em>Special thanks to <a href="http://www.aclu.org/SafeandFree/SafeandFree.cfm?ID=16275&amp;c=262">the ACLU</a> and <a href="http://www.thememoryhole.org/feds/justice_redaction.htm">The Memory Hole</a> for their sources on this issue.</em></p>
+
+<p><strong>Update:</strong> <a href="http://www.aaronsw.com/weblog/001424">[REDACTED] Update</a></p>
+
+<p class="posted">posted September 07, 2004 11:30 AM (<a class="category" href="cat_politics">Politics</a>) (<a href="#comments">4 comments</a>) <a href="001412" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001410" title="Framing the Media">&laquo; prev</a> | <a href="./">up</a> | <a href="001416" title="Published Author">next &raquo;</a></p>
+
+<p><a href="001403">What is the real purpose of military spending?</a><br />
+<a href="001405">Press Clipping</a><br />
+<a href="001406">How Control Works</a><br />
+<a href="001407">Right Wing Funnies</a><br />
+<a href="001410">Framing the Media</a><br />
+<strong>Behind the Thick Black Line</strong><br />
+<a href="001416">Published Author</a><br />
+<a href="001418">Stanford: Day 1</a><br />
+<a href="001419">Stanford: Day 2</a><br />
+<a href="001420">Stanford: Night 2</a><br />
+<a href="001421">Stanford: Day 3</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c2794">
+
+<p>This pretty scary.</p>
+
+<p>Our beloved Gov&#8217;t has moved to an attitude of let&#8217;s see what we can get away with before we get caught (in just about every aspect of our lives).</p>
+
+<p>It appears they also think they know what&#8217;s best for us and that we cannot think for ourselves.</p>
+
+<p>This trend will continue unless we all start challenging (like the ACLU did) issues to get to the truth.  It&#8217;s our right and our duty to do so.  I believe it&#8217;s called &#8220;Liberty&#8221;.</p>
+
+<p class="posted">posted by AJ at September 12, 2004 05:49 AM <a href="#c2794">#</a></p>
+
+</div><div id="c2795">
+
+<p>It&#8217;s truly scary where we are going. It&#8217;s a oneway street I would hate to walk down&#8230; and it seems like I have no choice.</p>
+
+<p>The American government is doing this, the Canadian government past &#8220;anti-&#8220;(??)terrorism laws a whgile ago and now busts into reporters house constantly under any excuse to get their sources.</p>
+
+<p>Brazil just made the media state controlled&#8230; (actually, not yet, it&#8217;s coming soon to a newspaper not so near you (maybe)) and as they complain about this and publich editorials&#8230; the government uses this as a &#8220;proof&#8221; that the media clearly goes too far!</p>
+
+<p>Project Censored also finally published their top 25 stories ignored by the media&#8230; <a href="http://www.projectcensored.org/publications/2005/index.html">HERE</a></p>
+
+<p>It&#8217;s everywhere!!! And as a photojournalist, my work has become a living hell since then. I can&#8217;t take photos outside in public places for fear of getting arrested of planning terrorrist plots for the Iraqis, or something.</p>
+
+<p>Writing live from 24/7 news censored China&#8230;</p>
+
+<p class="posted">posted by <a target="_blank" title="http://photojournaliste.ca/blog.php" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2795">Philippe Roy</a> at September 12, 2004 11:00 AM <a href="#c2795">#</a></p>
+
+</div><div id="c2913">
+
+<p>Thanks for staying on top of this.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aetherial.net" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2913">Chris</a> at September 27, 2004 12:22 PM <a href="#c2913">#</a></p>
+
+</div><div id="c2921">
+
+<p>President Eisenhower&#8217;s farewell address comes to mind: &#8220;In the councils of government, we must guard against the acquisition of unwarranted influence, whether sought or unsought, by the military-industrial complex. The potential for the disastrous rise of displaced power exists and will persist.&#8221;<br />
+http://www.ukans.edu/carrie/docs/texts/ddefarew.html<br />
+Of course he acknowledges the need to have a professional and ready military, but not without reservations about going too far. Supposedly the judiciary and the senate are supposed to keep an eye on congress and the executive and vice versa, but it seems the same crowd runs it all.<br />
+Lots of work for you freedom loving Americans to do in restoring the grace of the US, have at &#8216;em!</p>
+
+<p class="posted">posted by andy at September 28, 2004 12:49 AM <a href="#c2921">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001412.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1412" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

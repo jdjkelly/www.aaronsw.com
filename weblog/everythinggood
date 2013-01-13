@@ -1,0 +1,620 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Everything Good is Bad For You (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Everything Good is Bad For You</h1>
+
+<p>While we were developing Reddit, we always used to run into people who&#8217;d recognize us and come up to say hi. &#8220;Oh, wow,&#8221; they&#8217;d say to us. &#8220;I can&#8217;t tell you how much your site has killed my productivity. I check it a hundred times every day.&#8221; At first, we just laughed these comments off. But after a while, I begun to find them increasingly disturbing. We&#8217;d set out to make something people want &#8212; but what if they didn&#8217;t want to want it?</p>
+
+<p>For too long, simple popularity has been the only metric of a startup&#8217;s success. Another startup, known as Twitter, has recently broken into the mainstream. And I constantly hear people saying things like &#8220;Yeah, well, I know it seems like a pointless waste of time. But it&#8217;s so <em>popular</em>!&#8221; As if anything so popular had to be worthwhile.</p>
+
+<p>Cory Doctorow recently <a href="http://www.locusmag.com/Features/2007/03/cory-doctorow-you-do-like-reading-off.html">made a similar argument</a>. When he publishes his books online, he notes, people are always telling him they don&#8217;t like reading off a screen. And yet, these very same people spend every free hour of the day reading email and weblogs and news articles off a screen. &#8220;It&#8217;s like watching someone shovel Mars Bars into his gob while telling you how much he hates chocolate,&#8221; Doctorow complains. Doctorow&#8217;s conclusion? Blogs are just better.</p>
+
+<p>But I think Mars Bars are just the right analogy. Everyone in America knows that it&#8217;s easy to accidentally find yourself stuffing your face with junk food when you&#8217;re not paying attention. But no one would seriously maintain that junk food is better than fine cuisine. It&#8217;s just <em>easier</em>.</p>
+
+<p>Similarly, if you printed out all the blog posts and news articles and emails the average timewaster reads in a month and placed the resulting hulking volume down next to a copy of, say, <em>War and Peace</em> (which it would no doubt dwarf), it&#8217;s hard to imagine the average person saying they&#8217;d actually prefer to sit down and read the first. (If <em>War and Peace</em> doesn&#8217;t strike your fancy, substitute a similarly large tome.) But reading bite-sized blog posts is by far <em>easier</em>.</p>
+
+<p>The same goes for reading stories on Reddit or your friends&#8217; pointless twits about their life. Looking at photos of sunsets or reading one-liners takes no cognitive effort. It&#8217;s the mental equivalent of snack food. You start eating one and before you know it you&#8217;ve gone through two cans of Pringles and become a world expert on Evan Williams&#8217; travel habits.</p>
+
+<p>We need to stop pretending that this is automatically a good thing. Perhaps Procter &amp; Gamble doesn&#8217;t care of their making us into a nation of fat slobs, but there&#8217;s no reason why programmers and the rest of the startup world need to be so amoral. And no doubt, as pictures of cats with poor spelling on them become all the rage, people are beginning to wonder about where all this idiocy is leaving us. Which is where apologists like Doctorow and Steven Johnson step in, assuring us that Everything Bad is Good For You.</p>
+
+<p>It isn&#8217;t. YouTube isn&#8217;t going to save us from an <em>Idiocracy</em>-style future in which everyone sits at home and watches shows like &#8220;Ow! My Balls!&#8221; (in which a man is repeatedly hit in the balls) &#8212; YouTube&#8217;s damn-near creating that future. As I write this, YouTube&#8217;s #1 featured video is titled &#8220;Farting in Public&#8221;.</p>
+
+<p>It doesn&#8217;t have to be that way, of course. Nobody prefers farting to thought. It&#8217;s just that, as David Foster Wallace noted about television, &#8220;people tend to be extremely similar in their vulgar and prurient and dumb interests and wildly different in their refined and aesthetic and noble interests.&#8221; Similarly, no one (Doctorow included, I suspect), actually prefers blog posts to novels, it&#8217;s just that people tend to have more short chunks of time to read blog posts than they do long chunks of time to read novels.</p>
+
+<p>Technology was supposed to let us solve these problems. But technology never solves things by itself. At bottom, it requires people to sit down and build tools that solve them. Which, as long as programmers are all competing to create the world&#8217;s most popular timewaster, it doesn&#8217;t seem like anyone is going to do.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">March 29, 2007</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>Agreed&#8230; although I&#8217;d like to point out that nowadays these things seem to be more about people and governance than about technology.</p>
+
+<p>You could probably use the twitters and reddits of the world for all kinds of useful things, if you really wanted to.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://tommi.raivio.net">Tommi</a>
+ on March 29, 2007 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>EYM IN UR BLOG, PWNING YER COMANTS!</p>
+
+<p>sorry, just had to do it. ;)  where does compilation and aggregation fit in to all of this? personally, im not a huge fan of twitter, on its own&#8230; but i think that if twitter were mashed up with other &#8220;bite sized&#8221; services, integrated into larger social meshes, and delivered through more effective medium, it could be a very valuable building block.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://objective.spaces.live.com">Chris Hollander</a>
+ on March 29, 2007 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>I agree with Tommi. I don&#8217;t think we&#8217;re lacking people to sit down and build tools that solve our problems so much as people willing to identify what our problems actually are and make use of existing tools to solve them.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://typewriting.org/">Scott Reynen</a>
+ on March 29, 2007 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>Noone prefers blog posts to novels?? I consider novels to be one of the all-time biggest wastes of time.</p>
+
+<p>Also, I think YouTube is a bad target since it facilitates a ton of very important discourse.</p>
+
+<p class="posted">posted by pwb
+ on March 29, 2007 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>I think internet content is a slight improvement on what came before.  Let&#8217;s compare:</p>
+
+<ul>
+<li>Watching youtube fart videos</li>
+<li><p>Watching America&#8217;s Funniest Home Videos</p></li>
+<li><p>Reading political blogs</p></li>
+<li><p>Watching CNN</p></li>
+<li><p>Wasting time at work reading reddit</p></li>
+<li><p>Wasting time at home watching Everybody Loves Raymond</p></li>
+<li><p>Reading comics in the newspaper</p></li>
+<li>Reading comics on the web</li>
+</ul>
+
+<p>(On the comics front, at least, internet publishing is a huge winner.  Probably because comics already fit the bite-size chunk model).</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.daltonlp.com">Lloyd Dalton</a>
+ on March 29, 2007 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c6">
+<p>Question: So, is there an olive oil for the mind?</p>
+
+<p>Thought (as I burned the time involved in a page of War and Peace reading this and now writing): <em>Who</em> is driving the log-file level trends we see? I&#8217;m sure you have demographics data on reddit users, right? Are they 19 or 34? What&#8217;s their average income? If video games might be good for smarts, is it also possible that the Internet might still something for the better?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://nielsolson.us/">Niels Olson</a>
+ on March 29, 2007 <a href="#c6" rel="bookmark">#</a></p>
+</div>
+<div id="c7">
+<p>let me follow that up by saying I have started taking my class notes on my blog. It&#8217;s a very much &#8220;not useful to anyone else&#8221; use of a blog and yet makes my life easier because makes I can browse my notes on line and to Wikipedia. And my Movable Type welcome note reads, in part:</p>
+
+<p>Reddit is a timesuck no motivated individual can afford.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://nielsolson.us/">Niels Olson</a>
+ on March 29, 2007 <a href="#c7" rel="bookmark">#</a></p>
+</div>
+<div id="c8">
+<p>let me follow that up by saying I have started taking my class notes on my blog. It&#8217;s a very much &#8220;not useful to anyone else&#8221; use of a blog and yet makes my life easier because I can browse my notes on line link to outside sources, like Wikipedia. And my Movable Type welcome note reads, in part:</p>
+
+<p>Reddit is a timesuck no motivated individual can afford.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://nielsolson.us/">Niels Olson</a>
+ on March 29, 2007 <a href="#c8" rel="bookmark">#</a></p>
+</div>
+<div id="c10">
+<p>Does reading War and Peace actually make you a better person?</p>
+
+<p class="posted">posted by Danno
+ on March 30, 2007 <a href="#c10" rel="bookmark">#</a></p>
+</div>
+<div id="c11">
+<p>The problem is with schedules of reinforcement. Blogs, being &#8220;candy bars&#8221; serve up their nugget of reinforcement quickly. The novel has a very long amount of reading for a more complex, richer and more sophisticated (perhaps weaker) reinforcement - insight into oneself, the human condition, and so on. A blog makes a pithy insight and &#8220;we are done&#8221; and we throw the candy wrapper away.</p>
+
+<p>Youtube is the perfect example of the quick payoff reinforcer. Video is often instantly reinforcing for looking at it, and the activities involved are often more so.</p>
+
+<p>I have not seen your site &#8220;reddit&#8221; but I am sure it is good since it seems to generate behavior according to your plug.</p>
+
+<p>-Thelonious</p>
+
+<p class="posted">posted by Thelonious Monk
+ on March 30, 2007 <a href="#c11" rel="bookmark">#</a></p>
+</div>
+<div id="c12">
+<p>One side of these things are of course that people watch YouTube or read blogs and social bookmarking sites but the other side is that the same people also produce the content. It&#8217;s easy to say that watching pictures of cute kittens or the latest high powered beer cannon might not be very intellectually stimulating but for people who in the past exclusively would have been information consumers to start producing their own content on a large scale can not be so easily disregarded. No matter what you think about the content in itself we are talking about people breaking down the top down communication model of older media and replacing it with something much more democratic and p2p. So if people are consuming information created by their peers and producing their own just for entertainment they will probably deal with politics the same way. What we want is for people not only to read a few more books a year, we want people to start talking to each other about society and to start acting together to change society.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.spacecentre.se/thomas/">Thomas Persson</a>
+ on March 30, 2007 <a href="#c12" rel="bookmark">#</a></p>
+</div>
+<div id="c13">
+<p>&lt;</p>
+
+<p>p>Brilliant post. You must have heard the old saw, there are only two industries that call their customers &#8220;users&#8221; &#8212; software, and illegal drugs.&lt;/p.</p>
+
+<p><p>That used to just be a weak joke, but not any more. When web folk talk shop, the highest praise is to say that that someone&#8217;s site is habit-forming. Highly trained people spend their every waking moment trying to make a media product hit someone&#8217;s pleasure center in just the right way. Is there a real difference between that job, and say, genetically engineering tobacco for a higher nicotine level?</p></p>
+
+<p>But, I&#8217;ll still take Web 2.0 over the mass media. Yes, the dumbing-down is happening, but so is the smarting-up. The world is slowly learning how to filter information without commercial or governmental gatekeepers &#8212; Reddit is just one step along the way and I hope you have some pride in that. Long term, I&#8217;m optimistic. </p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://brevity.org/">Neil Kandalgaonkar</a>
+ on March 30, 2007 <a href="#c13" rel="bookmark">#</a></p>
+</div>
+<div id="c14">
+<p>Aaron, I think you might find it interesting that the topics of most of your recent blogs have paralleled the same thoughts that B.F. Skinner once had. In fact, you are arguing the same exact things.</p>
+
+<p>&#8220;We can point to remarkable achievements in all these fields, and it is not surprising that we should try to extend them. But things grow steadily worse, and it is disheartening to find that technology itself is increasingly at fault.&#8221; &#8212; Beyond Freedom and Dignity</p>
+
+<p>&#8220;We want to do something - we want to find out what&#8217;s the matter with people, why they can&#8217;t live together without fighting all the time. We want to find what people really want, what they need in order to be happy, and how they can do it without stealing it from somebody else.&#8221; &#8212; Walden Two</p>
+
+<p>If you&#8217;re looking for answers to your problems, society&#8217;s problems, and man-kind&#8217;s problems, Skinner has proposed them. The reason why they were politically rejected is an interesting story for another time.</p>
+
+<p>&#8220;It&#8217;s all right to stir people up, get them interested. That&#8217;s better than nothing. But in the long run you&#8217;re only passing the buck.&#8221; &#8212; Walden Two</p>
+
+<p>&#8220;It&#8217;s a job for research, but not the kind you can do in a university, or in a laboratory anywhere. I mean you&#8217;ve got to experiment, and experiment with your own life! Not just sit back&#8212; not just sit back in an ivory tower somewhere&#8212; as if your own life weren&#8217;t all mixed up in it.&#8221; &#8212; Walden Two</p>
+
+<p>Cheers and keep it coming.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.escex.com/blog">Sean Abrahams</a>
+ on March 30, 2007 <a href="#c14" rel="bookmark">#</a></p>
+</div>
+<div id="c15">
+<p>I may waste a lot of time on www.reddit.com, but I&#8217;m also getting a serious education from programming.reddit.com.</p>
+
+<p class="posted">posted by joe
+ on March 30, 2007 <a href="#c15" rel="bookmark">#</a></p>
+</div>
+<div id="c16">
+<p><a href="http://www.aaronsw.com/weblog/everythinggood#c3" rel="nofollow">Scott</a>: Leadership in choosing important problems to solve is lacking, as always. However, I&#8217;m not sure how many people (read: hackers) would join a company that, say, computes ways for Americans to conserve electricity.</p>
+
+<p><a href="http://www.aaronsw.com/weblog/everythinggood#c4" rel="nofollow">pwb</a>: Novels can be a waste of time. Youtube can be too. I think the point of Aaron&#8217;s post is that programmers have by-and-large abdicated responsibility for how their creations are used (you can&#8217;t be a hacker if you go around telling people what to do all the time, I suppose). Does Youtube&#8217;s ability to spread video that authorities don&#8217;t want seen make up for fart videos? I don&#8217;t think I can answer that. Are there features that Youtube could add that would make important-but-not-hip videos more accessible? Yes.</p>
+
+<p><a href="http://www.aaronsw.com/weblog/everythinggood#c5" rel="nofollow">Lloyd</a>: Yes, the web has improved media in many cases. What if we get so good at entertaining ourselves that we never have to stop and think? That question may sound far-fetched, but more programmers should ask it as they sit down to grab users&#8217; attention.</p>
+
+<p>I&#8217;m starting to sound like a preacher. You shouldn&#8217;t waste time on the web! You shouldn&#8217;t smoke or commit adultery! I don&#8217;t want paternalistic sites that tell me how I should be entertained/informed. I do want hackers to start asking themselves, &#8220;How do we build something that people want that is <em>useful</em>?&#8221;</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://hackprose.org/">Dan Stowell</a>
+ on March 30, 2007 <a href="#c16" rel="bookmark">#</a></p>
+</div>
+<div id="c17">
+<p>You couldn&#8217;t be more right Aaron. Though it does feel a bit hypocritical because you work on Reddit. Why bother if you don&#8217;t think it&#8217;s for the greater good?</p>
+
+<p class="posted">posted by Anonymous coward
+ on March 30, 2007 <a href="#c17" rel="bookmark">#</a></p>
+</div>
+<div id="c18">
+<p>Nice post. This is all about <a href="http://en.wikipedia.org/wiki/Hyperbolic_discounting" rel="nofollow">hyperbolic time discounting </a>. Thomas Schelling has a fine essay about it - it&#8217;s not online, but Virginia Postrel summarizes it <a href="http://www.dynamist.com/articles-speeches/nyt/schelling.html" rel="nofollow">here</a> and points to a speech he gave on the same subject.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://whimsley.typepad.com">tom s.</a>
+ on March 30, 2007 <a href="#c18" rel="bookmark">#</a></p>
+</div>
+<div id="c19">
+<p>Just to save people the need to click, the argument is that some forms of widely-observed discounting of the future lead to inconsistent outcomes (you&#8217;d rather had read W&amp;P, but you red blog comments like this one instead).</p>
+
+<p>As Wikipedia says, the functional equation for hyperbolic discounting is as follows: v = V / (1 + kD)</p>
+
+<p>where v is the discounted [future] value of the reward, V is the undiscounted value of the reward, D is the delay in the reward, and k is the degree of discounting.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://whimsley.typepad.com">tom s.</a>
+ on March 30, 2007 <a href="#c19" rel="bookmark">#</a></p>
+</div>
+<div id="c20">
+<p>Dan, I think programmers in general are more idealistic than the population at large, but that may just be those I&#8217;m watching (e.g. Aaron). If that company is offering a job, I&#8217;d be interested. But in my experience, such a company would be hiring part-time or a volunteer position, because they don&#8217;t have the money to hire a full-time programmer, because they don&#8217;t have enough support from the general public, because the general public doesn&#8217;t recognize energy consumption as a more important problem than, say, knowing what their friends around the world are eating for lunch.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://typewriting.org/">Scott Reynen</a>
+ on March 30, 2007 <a href="#c20" rel="bookmark">#</a></p>
+</div>
+<div id="c21">
+<p>&#8220;Nobody prefers farting to thought.&#8221;</p>
+
+<p>This is problematic.  Let&#8217;s look at the weeks top-ten sellers:</p>
+
+<ol>
+<li><p>&#8220;The Secret&#8221; by Rhonda Byrne (Beyond Words)</p></li>
+<li><p>&#8220;You: On a Diet: The Owner&#8217;s Manual for Waist Management&#8221; by Michael F. Roizen, Mehmet C. Oz (Free Press)</p></li>
+<li><p>&#8220;Women &amp; Money: Owning the Power to Control Your Destiny&#8221; by Suze Orman (Spiegel &amp; Grau)</p></li>
+<li><p>&#8220;Grace (Eventually): Thoughts on Faith&#8221; by Anne Lamott (Riverhead Books)</p></li>
+<li><p>&#8220;The Fiber35 Diet: Nature&#8217;s Weight Loss Secret&#8221; by Brenda Watson, Leonard Smith, (Free Press)</p></li>
+<li><p>&#8220;How Doctors Think&#8221; by Jerome Groopman (Houghton-Mifflin)</p></li>
+<li><p>&#8220;In an Instant: A Family&#8217;s Journey of Love and Healing&#8221; by Lee Woodruff, Bob Woodruff (Random House)</p></li>
+<li><p>&#8220;I Feel Bad About My Neck: And Other Thoughts on Being a Woman&#8221; by Nora Ephron (Knopf)</p></li>
+<li><p>&#8220;A Long Way Gone: Memoirs of a Boy Soldier&#8221; by Ishmael Beah (Farrar, Straus &amp; Giroux)</p></li>
+<li><p>&#8220;Infidel&#8221; by Ayaan Hirsi Ali (Free Press)</p></li>
+<li><p>&#8220;The Audacity of Hope&#8221; by Barack Obama (Crown)</p></li>
+<li><p>&#8220;Good to Great: Why Some Companies Make the Leap&#8230;and Others Don&#8217;t&#8221; by Jim Collins (HarperBusiness)</p></li>
+<li><p>&#8220;Religious Literacy&#8221; by Stephen Prothero (HarperSanFrancisco)</p></li>
+<li><p>&#8220;The No A&#8212;&#8212;&#8212; Rule: Building a Civilized Workplace and Surviving One That Isn&#8217;t&#8221; by Robert I. Sutton (Warner Business)</p></li>
+<li><p>&#8220;Go Put Your Strengths to Work: 6 Powerful Steps to Achieve Outstanding Performance&#8221; by Marcus Buckingham (Free Press)</p></li>
+</ol>
+
+<p>Pretty brutal.  Yes, I picked the best week ever to prove my point, with the Secret being the force it currently is, but I generally fart that most people would rather think.  Oh, I mean I think that most people would rather fart.  Or rather, if you believe in the secret, you&#8217;re using your ass to do both, so maybe they&#8217;re one in the same.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://allthingsalceste.com">Dan</a>
+ on March 30, 2007 <a href="#c21" rel="bookmark">#</a></p>
+</div>
+<div id="c22">
+<p>So, why not make a) more subreddits or b) (the better option, I suppose) allowing people to create subgroups from reddit. I, for instance, am interested in reading all about neuroscience, and if such a subreddit with an selection procedure kind-of-thing would exist, I would be inclined to register as a user.</p>
+
+<p>Moreover, why not give people the ability to indicate which language they speak in a user&#8217;s profile, so articles in all their languages could show up for those users, instead of having only English one&#8217;s?</p>
+
+<p class="posted">posted by Bram
+ on March 30, 2007 <a href="#c22" rel="bookmark">#</a></p>
+</div>
+<div id="c25">
+<p>I read your inane blog post and learned about hyperbolic discounting. I guess the internet isn&#8217;t all bad.</p>
+
+<p class="posted">posted by sigh
+ on March 31, 2007 <a href="#c25" rel="bookmark">#</a></p>
+</div>
+<div id="c26">
+<p>Aaron, sometimes I find your comments a bit perplexing because, in the case of this post, you fail to take into account that statistics on popularity do not correlate (necessarily) to the overall positive or negative effect something may have on culture as a whole.  For example, even if YouTube&#8217;s most popular video has to do with farting in public, this does not correlate to the idea that most people enjoy watching videos of others farting in public, just that the people who frequent YouTube do.  My dad, for example has never visited YouTube and counts as one of the tens of millions who never have and probably never will.
+Furthermore, if we were to actually look at many of the inventions which people initially criticized for having negative impacts on people and culture in general (I&#8217;m sure people made this claim about the telephone, faxes, email and even things like flying - I read a post of someone recently who believes that flying has made the world less well off because cultures are melding into one another - a concept I find preposterous, for many reasons I won&#8217;t get into here), we will find that while there is a contingent who uses it in a completely useless manner, superficially, it has brought great benefit to culture.  The telephone is a perfect example.  While on one hand we could say it keeps people from feeling the need to visit one another, it opens up a whole other avenue to communication with people you wouldn&#8217;t normally or ever be able to communicate with.  (For example, my wife is from Germany and I can only imagine how seldom we would hear from them or vice versa due to the fact that we are extremely busy on both sides of the Atlantic.)
+So, as far as questioning whether applications being developed are making people more productive or not, I don&#8217;t think that is a question that you can even begin to guess the effects of (using induction or whatever form of science/quasi-science you wish).  Twitter is an example of an application my colleagues (in the tech business) and I have debated.  While I feel that 99% of the content of Twitter is useless, just like that of the net, the raw content as a whole is telling about the subculture that uses it - and you need to remember that users can&#8217;t be judged solely on their tweets/twitter comments, but also need to be viewed in relation to the content they produce on the web as a whole - and misses the potential positive effect it has on a sub-subculture within Twitter.  (I, for example, have been practicing using it for taking notes on two philosophy essays I&#8217;m writing and have found it to be a great tool I can&#8217;t find elsewhere because of the sources of input - i.e. IM, api or SMS - I can use for sending updates to my feed.  If you combine that feed with other items I have written, I think it is definitely a productive use of web technologies.  You are free to disagree, of course&#8230;)
+In the end, your twist on application developers needing to funnel their creative talents towards creating applications that are <em>good</em> for us is appalling because it assumes you or someone else <em>knows</em> what is good for me and good for culture as a whole.  (And I use <em>appalling</em> to emphasize my belief that trying to manage or control the way people interact in a free society harkens us back to the days where the Church in western Europe wanted to control what people believed and were allowed to learn - as an example.)  People should be free to chose their sources of relaxation (i.e. outlets) and also where their education come from.  For me, that freedom is responsible for the rapid progress we have made in science, theology, philosophy, etc. in the past two centuries.  Now&#8230; all of this assumes you agree with my premise that the past two centuries are full of progress - and you may not, but that&#8217;s another discussion.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://stevenfettig.com/">steven n fettig</a>
+ on March 31, 2007 <a href="#c26" rel="bookmark">#</a></p>
+</div>
+<div id="c27">
+<p>It&#8217;s the boiling frog analogy and the path of least
+resistance again.  People will tolerate just about
+anything if it comes in small enough chunks.  With
+sites like Youtube, remember the long tail.  I have
+found many valuable videos there, mostly live music
+performances, so it has enriched my life even if
+I never watch the popular videos.  I find that,
+despite all the talk of empowering individuals,
+the best content is still produced by dedicated
+people and even the best home video or blog post
+has little to offer in comparison to research,
+software, books, or art done by full-time
+dedicated people.  As another commenter noted,
+if you kill user-driven publishing sites like
+Youtube, people driven to distraction will find
+new distractions elsewhere.  Plus you&#8217;ll be killing
+off the long tail, and a lot of people will lose
+a lot of value.  I don&#8217;t see any other legitimate
+way than self-motivated self-improvement to make
+people stop wasting their time, but I haven&#8217;t
+thought about the issue at depth.</p>
+
+<p class="posted">posted by Anonymous
+ on April  1, 2007 <a href="#c27" rel="bookmark">#</a></p>
+</div>
+<div id="c28">
+<p>I think this is a really good point, Aaron. There comes a time when you just have to say to yourself &#8220;I don&#8217;t want to waste that much time&#8221;, and do something more productive. I don&#8217;t play World of Warcraft because I want to spend time writing code and getting good grades in school. Is it fun and easy? Sure. But in the end I don&#8217;t think it&#8217;s worth it.</p>
+
+<p>I have friends who live a lifestyle similar to your short attentive requirement/mars bar analogy. They watch a lot of TV, and don&#8217;t do much else with their lives. All of this seems to fit with the hyperbolic time discounting model.</p>
+
+<p>It&#8217;s also far easier to <em>write</em> short blog posts than it is to sit down and think about something important, but the latter is usually better. I like your blog posts specifically <em>because</em> they tend to contain &#8220;bigger&#8221; thoughts that actually get my brain working and take some effort.</p>
+
+<p>But you&#8217;re right. It&#8217;s very easy to succumb to reddit and think &#8220;oh, I&#8217;ll just spend five minutes&#8221;. Forty minutes later I&#8217;m sad that I&#8217;ve wasted so much time. But sometimes it does keep me informed on what&#8217;s happening in the world, or give me a new avenue of thought about something interesting. Is it worth it? I suppose each person might have to find where to set their own limit.</p>
+
+<p>So good thoughts. I will have to watch my habits and force myself to do more productive things than easy things. The ironic part is that I found this blog entry after spending an hour browsing through feeds in Sage.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://culix.infogami.com">Dave Schaefer</a>
+ on April  1, 2007 <a href="#c28" rel="bookmark">#</a></p>
+</div>
+<div id="c29">
+<p>Someone should write a Firefox extension that you could configure only once a day (or so). You would set how frequently you can visit a certain site (your gmail account, your reddit listings, your rss feeds if they are on bloglines), and then it would refuse to browse to those sites after you hit your self-imposed limit.</p>
+
+<p>Our resolution at the beginning of the day would then take precedence over our weakness whenever we have a free moment.</p>
+
+<p>I&#8217;d do it myself, but there&#8217;s this neat YouTube video I have to watch.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://whimsley.typepad.com">tom s.</a>
+ on April  2, 2007 <a href="#c29" rel="bookmark">#</a></p>
+</div>
+<div id="c30">
+<p>I&#8217;d prefer to read the bits of blogs to War and Peace.  Blogs have information that helps you; War and Peace is presumably written in a classical style which I personally am discomforted by.  But if it came down to reading the bits of blogs vs a brilliant nonfiction book, I&#8217;d again choose the bits of blogs as they&#8217;re more useful to me, and if it came down to reading the bits of blogs vs a good fictional novel I&#8217;d probably choose both.</p>
+
+<p>But I&#8217;ve never been able to figure out why the public cares about what it cares about.  Therefore, making something that is popular alone seems pointless.  Any benefit will have to come from other factors, like being a technological stepping stone or smacking people in the face with a new paradigm, or little network effects that are hard to see unless you squint.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.connellybarnes.com/">Connelly Barnes</a>
+ on April  2, 2007 <a href="#c30" rel="bookmark">#</a></p>
+</div>
+<div id="c31">
+<p>I&#8217;ll proceed to restate my previous comment in a more comprehensible and positive tone.  I&#8217;m usually grossed out by popularity.  But I think that people do want to create cool things, and there are so many barriers in the way that programmers can really help the situation by knocking down some of the barriers with technological and social fixes.  So yeah, I think that programmers do have a duty to do something beneficial for the public.  Adding fuel to the blaze of apathy and &#8220;popularity&#8221; I think is destructive.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.connellybarnes.com/">Connelly Barnes</a>
+ on April  2, 2007 <a href="#c31" rel="bookmark">#</a></p>
+</div>
+<div id="c32">
+<p>In one of the recent issues of Wired the cover story was about the &#8220;Snack Culture&#8221; being created thanks to technology. Anyone interested might want to take a look.</p>
+
+<p class="posted">posted by mitchell
+ on April  2, 2007 <a href="#c32" rel="bookmark">#</a></p>
+</div>
+<div id="c37">
+<p>What about if you created blog comment and post fields that made people write with correct english grammer and automatically eliminated/forced those who write like this &#8220;EYM IN UR BLOG, PWNING YER COMANTS!&#8221;  to actually write in correct english.  You guys have this for HTML code in posts - so why not the english language?  That would help a LOT rather than spread stupidity via popularity.</p>
+
+<p>sorry just a thought from a Martian Girl.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://aoleonthemartiangirl.com">Aoleon The Martian Girl</a>
+ on April 14, 2007 <a href="#c37" rel="bookmark">#</a></p>
+</div>
+<div id="c38">
+<p>I have reddit permablocked on my router behind a password that is purposefully unrememberable.</p>
+
+<p>Idea: how about a website that breaks down novel and technical books into short, daily blog-sized posts with an RSS feed? Weren&#8217;t many novels published serially when they originally were written, anyways?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://drewyates.net">Andrew Yates</a>
+ on April 15, 2007 <a href="#c38" rel="bookmark">#</a></p>
+</div>
+<div id="c40">
+<p><a href="http://www.aaronsw.com/weblog/everythinggood#c38" rel="nofollow">Andrew</a>: I also blocked reddit (by editing my hosts file) for a time. Now the content is so inane that I don&#8217;t have to bother.</p>
+
+<p>Breaking deep material into smaller bits makes sense to me. I&#8217;m currently <a href="http://hackprose.org" rel="nofollow">writing</a> about my progress through <a href="http://mitpress.mit.edu/sicp/full-text/book/book-Z-H-4.html#%_toc_start" rel="nofollow">SICP</a> and have found working on one concept at a time is tractable.</p>
+
+<p>Distraction is the obesity of the web. If diet fads have taught us anything, it&#8217;s that there is no substitute for burning more calories than you consume.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://hackprose.org/">Dan Stowell</a>
+ on April 17, 2007 <a href="#c40" rel="bookmark">#</a></p>
+</div>
+<div id="c41">
+<p><a href="http://www.aaronsw.com/weblog/everythinggood#c20" rel="nofollow">Scott</a>: I think I waved my hands too much in my original comment.</p>
+
+<blockquote>
+  <p>[T]he general public doesn&#8217;t recognize energy consumption as a more important problem than, say, knowing what their friends around the world are eating for lunch.</p>
+</blockquote>
+
+<p>I think the point of this post is that people do, on some level, recognize the importance of global problems. It&#8217;s just that at any given point in time, it&#8217;s easy to do local, immediately rewarding things than to worry about global problems. That&#8217;s why well-meaning, curious people are sucked into reading the web for hours. Aaron&#8217;s pointing out that hackers have abdicated responsibility for not thinking globally. &#8220;Make something people want&#8221; is justification in and of itself.</p>
+
+<p>Come to think of it, perhaps that directive should guide how you build something, not what you build. At least when you&#8217;re tackling large problems. First, answer Richard Hamming&#8217;s questions: &#8220;What&#8217;s the most important thing you could be working on? Why aren&#8217;t you?&#8221; Then, as you work on that <em>important thing</em>, make something that people want.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://hackprose.org">Dan Stowell</a>
+ on April 17, 2007 <a href="#c41" rel="bookmark">#</a></p>
+</div>
+<div id="c43">
+<p>This is good discussion.</p>
+
+<p>Dan, first: &#8220;Distraction is the obesity of the web.&#8221; Perfect.</p>
+
+<p>Though I feel that the ability to tackle large problems is often a luxury that most people can&#8217;t afford. Even the education and intellectual training necessary to <em>recognize</em> global problems is far from ubiquitous. When you are broke, you&#8217;re much more likely to work on small, immediate-gratification projects&#8230; like web dev contracting&#8230; :P</p>
+
+<hr />
+
+<p>BUT! I&#8217;ve registered novelbite.com. It&#8217;s a small thing, but let&#8217;s build this. Creating alternative, high-quality web content is a step in the right direction, I think.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://drewyates.net">Andrew Yates</a>
+ on April 20, 2007 <a href="#c43" rel="bookmark">#</a></p>
+</div>
+<div id="c44">
+<p>Word.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://psych.elbizri.com">Jonathan El-Bizri</a>
+ on April 21, 2007 <a href="#c44" rel="bookmark">#</a></p>
+</div>
+<div id="c46">
+<p>You&#8217;re right.</p>
+
+<p>But many of you have independently found out how to deal with it: self-restriction.</p>
+
+<p>A particularly annoying minister here wanted a special card for playing on slot machines. Datatilsynet, the special government group set up to handle privacy issues, shot down that idea pretty quickly. But I&#8217;m not so sure it&#8217;s a totally bad idea.</p>
+
+<p>If it could be done in a way that respected people&#8217;s privacy, would you be in favour of a system that allowed people to put restrictions on themselves? For instance a card (with appropriate crypto magic to remove the privacy issue) that you used when buying cigarettes, gambling, etc, that you could configure to stop yourself from giving in to your vices of choice for a week, a month, or a year? Forget the practical and privacy issues for a moment. Do you see any ethical problems with this? 
+Why shouldn&#8217;t we be allowed to create rocks that we couldn&#8217;t lift?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://vintermann.paranoidkoala.org">Harald Korneliussen</a>
+ on May  3, 2007 <a href="#c46" rel="bookmark">#</a></p>
+</div>
+<div id="c47">
+<p>Want to talk about wasted time! Every time I sit down to read Infinite Jest, I end up ignoring all the things I ought to be doing (chores, work, interaction with other human beings). I think it&#8217;s amusing you quoted Wallace, given one of the main themes in his writing is obsessing over trivial things (like entertainment).</p>
+
+<p class="posted">posted by professorninja
+ on May  3, 2007 <a href="#c47" rel="bookmark">#</a></p>
+</div>
+<div id="c48">
+<p>I&#8217;ve been noticing this for a long time. The thing is, as you said, people inherently <i>don&#8217;t like</i> to read things on their computers. There is no computer-based solution to this, only faster-paced and smarter versions of Reddit on the horizon, moving us closer and closer towards total destruction of our attention spans.</p>
+
+<p>If you want to spend time well, start by turning off your computer.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://shii.org">Shii</a>
+ on May  3, 2007 <a href="#c48" rel="bookmark">#</a></p>
+</div>
+<div id="c49">
+<p>YouTube can be a fantastic source of culture. Just look up &#8220;Casals&#8221;, &#8220;Prelude in G&#8221;, &#8220;Piaf&#8221;, &#8220;Brel&#8221;, &#8220;Manolete&#8221;.</p>
+
+<p>You can see the only film ever made of Leadbelly. Albert Ammon playing his &#8220;Stomp Boogie Woogie&#8221;. The mind-boggling musical dexterity of Adam Fulara. Dozens of talented sopranos doing &#8220;O mio babbino caro&#8221; in their own way.</p>
+
+<p>Where else will you ever see the late Renata Tebaldi doing the heart-wrenching &#8220;Un Bel Di&#8221;?</p>
+
+<p>Hours of fun. Better than TV.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.assureme.net">Pierre</a>
+ on May  3, 2007 <a href="#c49" rel="bookmark">#</a></p>
+</div>
+<div id="c50">
+<p>I fully agree with you regarding say twitter, but I believe the its about return on investment. I spend the first hour of each day looking at reddit. By the end of that hour I feel in touch with american politics, have probably picked up a few interesing facts about breaking news in science, know about some obscure and bizarre creature of the depths and get quick comparisons of cultural differences across the world etc. 
+Although I love reading, spending the same hour reading War and Peace will not give me as wide a kick-start to my global community life as reddit.
+You could spend lots of short timespans reading a novel but spending those same moments on reddit exposes you to so much more&#8230;</p>
+
+<p class="posted">posted by Ivor
+ on May  3, 2007 <a href="#c50" rel="bookmark">#</a></p>
+</div>
+<div id="c51">
+<p>Good point. We need to make the web more than junk food. In real life I try not to eat junk food, so why expect this from the web? I try to make my web site, Love Across Borders, to be non-junk food. :)</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.loveacrossborders.com">Shaun Apple</a>
+ on May  3, 2007 <a href="#c51" rel="bookmark">#</a></p>
+</div>
+<div id="c52">
+<p>Plenty of good points here.</p>
+
+<p>As to why we read reddit (even if we don&#8217;t want to want to read reddit)&#8212; I think it&#8217;s like reading the gossip of the web. And simply put, we&#8217;re hardwired to want to hear gossip. Just like we&#8217;re hardwired to like the sugar in Mars Bars.</p>
+
+<p>For most of humanity&#8217;s history, it&#8217;s benefited us to keep up on gossip and to eat sugary things. Evolution just hasn&#8217;t been able to keep up.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://moderndragons.blogspot.com">Mike Johnson</a>
+ on May  3, 2007 <a href="#c52" rel="bookmark">#</a></p>
+</div>
+<div id="c53">
+<p>Good thoughts.</p>
+
+<p>The Wallace quote reminds me of the old Christian adage that or sins are pretty much the same old boring thing (seeking a lesser good, of which there are few), while each man&#8217;s way of expressing virtue are quite distinct.</p>
+
+<p class="posted">posted by Chris Ryland
+ on May  3, 2007 <a href="#c53" rel="bookmark">#</a></p>
+</div>
+<div id="c54">
+<p>It seems that the solution to your concern would be to make the classics as &#8220;easy&#8221; as the blog post, and that&#8217;s being done at dailylit.com.</p>
+
+<p>However, I have a feeling that there is more at work here than convenience/accessibility.</p>
+
+<p>-kd</p>
+
+<p class="posted">posted by KarlD
+ on May  3, 2007 <a href="#c54" rel="bookmark">#</a></p>
+</div>
+<div id="c55">
+<p>I run a site that attempts to offer a wide range of mind stimulating content, many of which are challenging articles that would take some time to read.</p>
+
+<p>From watching stats over the years , I would conclude the same general truth - people are more attracted to more links to information , or downloading audio lectures of information they can save for later , or watching quick videos , than they are to digging deeper into the articles.</p>
+
+<p>But having been an information addict for years , I can attest that later never comes , and the library of digital info available to us keeps growing - but our ability to stay in one place long enough to integrate any of it seems to be shrinking.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.secondattention.org">William James</a>
+ on May  3, 2007 <a href="#c55" rel="bookmark">#</a></p>
+</div>
+<div id="c56">
+<p>Didn&#8217;t the BBC once consider themselves responsible for the betterment of the public?</p>
+
+<p>They tried to offer the public what they considered the best of the best, but were criticized for being elitist.  Who were they, after all, to decide what was best for each individual?  In the end, they can&#8217;t compete with people who give people what they want&#8230; which is usually some form of pabulum.</p>
+
+<p>If the people at reddit feel that it is their obligation to provide material for the betterment of their audience, then perhaps they should start some sort of elite group that sifts through the waste for the gems (using some agreed upon, documented criteria available for public scrutiny)&#8230; providing these to the public via some page?</p>
+
+<p>Perhaps you could have a Reddit Editor&#8217;s Choice page for links that are judged to be of superior value?</p>
+
+<p>I&#8217;d go to that page, and if I agreed with your standards, I&#8217;d frequent it.</p>
+
+<p class="posted">posted by babayada
+ on May  3, 2007 <a href="#c56" rel="bookmark">#</a></p>
+</div>
+<div id="c57">
+<p>Aaron,</p>
+
+<p>The point about Reddit and YouTube is not that a lot of the content is &#8220;inane&#8221; or &#8220;crap&#8221;. When you get a very large user base, the average quality of posts goes down. The important aspect is that such sites make the few nuggets of quality content much easier to find and to spread to a wider audience. When I read reddit, I filter through to open only what looks relevant to me. The few gems each week make me more informed than scanning the papers. As soon as I find the return on my time too low, I&#8217;ll stop visiting Reddit.</p>
+
+<p>Finally, if people find themselves &#8220;wasting time on Reddit&#8221;, it just means they have time to waist.
+You must already know that most corporate jobs are more about scratching your balls than scratching your head ;)</p>
+
+<p>\boaz</p>
+
+<p class="posted">posted by Boaz
+ on May  3, 2007 <a href="#c57" rel="bookmark">#</a></p>
+</div>
+<div id="c58">
+<p>I think people saying that you to re: reddit is just their way of flattering you.</p>
+
+<p>I&#8217;ve recently &#8220;wasted&#8221; about 30+ hous of my life watching the first 3 seasons of 24.  I&#8217;ve also gotten 30+ hours of Jack Bauer entertainment awesomeness time out of it.</p>
+
+<p>The same can be said re: reddit.  For every hour wasted, there&#8217;s a great link or vide that I never would&#8217;ve stumbled upon otherwise, like the recent Mike Gravel video.</p>
+
+<p>And if you, Evan Williams, Zuckerberg, etc didn&#8217;t create those apps?  Someone else would&#8217;ve, and we&#8217;d be wasting time on their sites instead of yours!</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://onwebapps.com">Shanti Braford</a>
+ on May  3, 2007 <a href="#c58" rel="bookmark">#</a></p>
+</div>
+<div id="c59">
+<p>Hi
+I find your article interesting and would like to feature you as a guest author in 
+http://Trendinews.com
+I am the founder of Trendirama
+If you would like to grant me permission to reprint, please send me an email.
+Thank you</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://trendirama.com">Javier Marti</a>
+ on May  4, 2007 <a href="#c59" rel="bookmark">#</a></p>
+</div>
+<div id="c60">
+<p>Great thought. So great that I think the first to comment missed the point&#8230; I couldn&#8217;t read past the second as it was just a waste of time.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.daynger.com">Jason</a>
+ on May  4, 2007 <a href="#c60" rel="bookmark">#</a></p>
+</div>
+<div id="c61">
+<p>I was going to write a blog post about this topic, but it was easier to just link to yours!</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://ninjamonkeys.co.za">Vaughn</a>
+ on May  8, 2007 <a href="#c61" rel="bookmark">#</a></p>
+</div>
+<div id="c63">
+<p>Regarding bits of blog posts and emails as junk food for the mind:</p>
+
+<p><a href="http://dailylit.com" rel="nofollow">DailyLit</a>: read books by email and RSS</p>
+
+<p>I myself am currently trying to wade my way through Descartes&#8217; &#8220;Discourse&#8221;, one small passage a day.</p>
+
+<p><abbr title="Hat tip">h/t</abbr> Lessig; in a post announcing that Free Culture was just made available at the site (or was it at a CC letter? Yeah well whatever)</p>
+
+<p>[random thought: if only Yochai Benkler was available through DailyLit; not <em>that&#8217;s</em> a tough read&#8230;]</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://lemi4.wordpress.com">Ferdi Zebua</a>
+ on May 12, 2007 <a href="#c63" rel="bookmark">#</a></p>
+</div>
+<div id="c81">
+<p>Is this a design issue? How a designer&#8217;s vision can change with users?</p>
+
+<p>Paul Graham argues design is best when done by one person but also argues that you should hack out a version 1 quickly and let users mold the product.</p>
+
+<p>Is this a contradiction or am I mischaracterizing what he&#8217;s said?</p>
+
+<p class="posted">posted by Jack Christopher
+ on January 21, 2008 <a href="#c81" rel="bookmark">#</a></p>
+</div>
+<div id="c82">
+<p>A software designer tries to build something that best fits the needs of its users. There&#8217;s no contradiction with having one designer who works based on constant input from users about what their needs are.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on May 17, 2008 <a href="#c82" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="everythinggood" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

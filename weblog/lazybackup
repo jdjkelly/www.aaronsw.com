@@ -1,0 +1,455 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Lazy Backup (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Lazy Backup</h1>
+
+<p>If there&#8217;s one thing good UI designers know, it&#8217;s that the best UI is not to have one at all. Applications should just save, security should just work, and computers should just backup.</p>
+
+<p>Apparently that last task is a harder than it appears, since I still haven&#8217;t found decent backup software for Unix (OS X and GNU/Linux).</p>
+
+<p>Here is how the software should work:</p>
+
+<ol>
+<li><p>I install it.</p></li>
+<li><p>I point it at some storage server (ideally Amazon EC2 and S3, but if that&#8217;s too hard then a GNU/Linux server with a large drive).</p></li>
+<li><p>I give it a maximum space limit (e.g. store no more than 200GB).</p></li>
+<li><p>I give it a maximum up-bandwidth limit (e.g. use no more than 5K/s).</p></li>
+<li><p>I tell it to run.</p></li>
+</ol>
+
+<p>From then on, it should just work. In the background, it will upload my files to the server using only 5K/s of bandwidth. If I get disconnected from the Internet or reboot my computer, when I get back on it will pick up where it left off. If a file changes it will only send the diff and store that as well. When I run out of disk space it will delete the old diffs.</p>
+
+<p>It will preserve all the Unix ACLs and permissions and weird Mac OS X resource forks and stuff so that if my drive ever dies I can make a full bootable restore from the backup.</p>
+
+<p>Does this software exist?</p>
+
+<p>The closest I&#8217;ve seen is <a href="http://www.nongnu.org/rdiff-backup/">rdiff-backup</a>, which is very nice but fails to automate some key steps.</p>
+
+<p>If it doesn&#8217;t exist, let me know if you&#8217;re interested in writing it (a wrapper around <code>rdiff-backup</code> to do it shouldn&#8217;t be too hard, I would think). I&#8217;d be willing to offer a bounty.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">November 29, 2006</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>I like Deja Vu (which comes bundled with Toast). I just schedule daily backups to my server and forget about it. It&#8217;s completely faceless and just backs up my home folder without bothering me as long as I have my server volume mounted (which I always do anyway).</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.mcdevzone.com/">Mike Cohen</a>
+ on November 29, 2006 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>rsync can do pretty much everything you ask for (although I&#8217;m not sure if it can handle the MacOS stuff unless it&#8217;s stored in a regular file).  I have a setup where everything you mention is in place except for the bandwidth and disk space limitations (okay, it uses rsync over ssh and cron to schedule the jobs).  rsync does support a bandwidth limit option, and with du, another cron job can go through and clear out old backups.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://boston.conman.org/">Sean Conner</a>
+ on November 29, 2006 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>http://www.jungledisk.com/ is an easy way to use Amazon S3.  I currently run a shell script to rsync to an external hd for backup, but you are right, there is no good solution.  Maybe the Time Machine feature in the next mac os release will help.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://kzo.net/">Keizo Gates</a>
+ on November 30, 2006 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>Would you please make another blog post if you find the solution to this problem or, as you propose, it finds you?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://nielsolson.us/">Niels Olson</a>
+ on November 30, 2006 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>Duplicity isn&#8217;t quite what you want, Aaron, but it is closer than anything else I&#8217;ve seen in the Linux space.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://tieguy.org/">Luis Villa</a>
+ on November 30, 2006 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c6">
+<p>Are you looking for something that will upload your files <em>as you save them</em>, or using a nightly cron or similar?  It would be really nice if it could detect when files were modified, instead of having to scan your entire filesystem for changes (which purportedly Time Machine will be able to do, but it looks limited in other ways).</p>
+
+<p>On my last machine, I used rsnapshot. It makes incremental backups, and handles scheduling for you, which is nice. Also, you don&#8217;t need any special tools to restore the backups.</p>
+
+<p>But I have just switched to a macbook. As it happens, my new backup drives arrived in the mail this very afternoon. I think I&#8217;ll give rdiff-backup a try.</p>
+
+<p>Anyways, I&#8217;m pretty interested in your bounty. I wonder if I can find the time. It&#8217;d be great if you provided more details about what exactly you wanted.</p>
+
+<p class="posted">posted by David McCabe
+ on November 30, 2006 <a href="#c6" rel="bookmark">#</a></p>
+</div>
+<div id="c7">
+<p>You may wish to consider pull backups &#8212; where the backup server periodically connects to the source and downloads the data for backup, rather than the client explicitly uploading.</p>
+
+<p>Otherwise, if the client has read/write access to the backup medium, an attacker, worm or user/software error on your machine would be able to damage or tamper with your backups.</p>
+
+<p>The ideal solution that I&#8217;ve been thinking about is a &#8216;backup appliance&#8217; &#8212; a simple unattended machine that will periodically connect to my primary data store(s) and take an incremental snapshot, ideally via rsync-over-SSH.</p>
+
+<p>It shouldn&#8217;t be too hard &#8212; Linksys NSLU2 devices already seem to provide most of my desired functionality, with configuration via HTTP and support for backing up SMB shares.  (They&#8217;re embedded Linux machines, and can be reinstalled with more general-purpose firmware, eg from http://www.nslu2-linux.org/)</p>
+
+<p>Multiple backup appliance instances could be deployed (in different physical locations) for added redundancy.</p>
+
+<p>In the case of a laptop as the source, one issue would be host discovery and connectivity - if the laptop is on a non-routable IP address or inbound port 22 connections aren&#8217;t available (which is common), then the backup appliances may have problems connecting.  Some kind of backwards SSH tunnelling would probably solve this problem.</p>
+
+<p>Similarly, bandwidth on the client may vary &#8212; some mechanism to moderate the bandwidth used by the backup appliances from the client-side would be desirable.</p>
+
+<p>But I haven&#8217;t built it yet.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.doc.ic.ac.uk/~dwm/">David McBride</a>
+ on November 30, 2006 <a href="#c7" rel="bookmark">#</a></p>
+</div>
+<div id="c8">
+<p>Brackup - http://brad.livejournal.com/tag/brackup. To limit bandwidth, use trickle.</p>
+
+<p class="posted">posted by James
+ on November 30, 2006 <a href="#c8" rel="bookmark">#</a></p>
+</div>
+<div id="c9">
+<p>I&#8217;ve been using rsyncbackup (http://rsyncbackup.erlang.no/) for about 2 years on a mac.</p>
+
+<p>It will work over a network (since it&#8217;s rsync under the hood).</p>
+
+<p>I personaly use it on a local volume since it can handle incremental backups quite well using hard links.</p>
+
+<p>As for the space limit problem, there is no good solution, but you always can delete older backups in a cron job.</p>
+
+<p class="posted">posted by Colin
+ on November 30, 2006 <a href="#c9" rel="bookmark">#</a></p>
+</div>
+<div id="c10">
+<p>You MUST, AND I MEAN MUST use incremental backups. Having just one copy is completely useless as a corrupted file is gone forever. Likewise for an accidentally deleted one, when you discover the problem after a backup.</p>
+
+<p>Use a linux based solution that can do it via hard-links. This means you can cd into each directory and see a copy of the full set, without  it taking up lots of space for the same data. For this reason I have been using RIBS (RSync Incremental Backups) for several years now. I have a copy of my home directory available going back three years or so.</p>
+
+<p>It doesn&#8217;t have a GUI, but you do need to edit the script to set the directory to backup, and the host to SSH to in order to do the backup. Not complicated. Oh, and you need to set up cron to perform backups.</p>
+
+<p>It will pickup from where it left off if disturbed, and it will also only transfer over the changes. I use it to backup a 120gig primary storage area every single night, consisting of files averaging from a few kilobytes up to several hundred meg.</p>
+
+<p class="posted">posted by Fraser
+ on November 30, 2006 <a href="#c10" rel="bookmark">#</a></p>
+</div>
+<div id="c11">
+<p>A general purpose bandwidth limiter would make an interesting general application / utility.  So many apps need network connectivity, I&#8217;m imagining a tool that would let me define up/down limits for specific applications and forget about it.  At home we&#8217;re on dialup and winXP, being able to limit everything but firefox (i.e. keep all the auto update checkers from getting in the way) would be huge.</p>
+
+<p>Reading the <a href="http://www.usenix.org/publications/library/proceedings/usenix05/tech/freenix/full_papers/eriksen/eriksen_html/index.html" rel="nofollow">trickle paper</a> makes it sound like a general solution would be non-trivial.  It may be easier to make something like a modified firewall and send the backup out over a specific port every time.</p>
+
+<p>I&#8217;m interested to hear what you come up with.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://bachman.infogami.com">AdamB</a>
+ on November 30, 2006 <a href="#c11" rel="bookmark">#</a></p>
+</div>
+<div id="c12">
+<p>Rsnapshot - <a href="http://www.rsnapshot.org" rel="nofollow">http://www.rsnapshot.org</a>.</p>
+
+<p>I&#8217;ve been using it for 3+ years without a problem, backing up multiple colocated servers to a dedicated machine here at the house with lots of cheap disk.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.mrbill.net">Bill Bradford</a>
+ on November 30, 2006 <a href="#c12" rel="bookmark">#</a></p>
+</div>
+<div id="c13">
+<p>I&#8217;ve been using unison (http://www.cis.upenn.edu/~bcpierce/unison/) for a couple years with no problems.  It runs on Windows, Linux and OS X.</p>
+
+<p>The great thing about it is that it does masterless replication, so I can create files on any machine and the rest of the machines eventually get them. Of course, that&#8217;s the downside, since you can&#8217;t really just let it run and forget about it since you have to manually deal with merge conflicts (pretty rare in practice). You might be able to set up a cron job and have it skip conflicts, I haven&#8217;t tried that.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://csimms.botonomy.com/">Christian R. Simms</a>
+ on November 30, 2006 <a href="#c13" rel="bookmark">#</a></p>
+</div>
+<div id="c14">
+<p>I&#8217;ve been trying to work out a way to get svn to do this.</p>
+
+<p>The idea is to run a cron job to periodically check in the entire drive.</p>
+
+<p>Svn marks changed files on the fly so it wouldn&#8217;t have to scan the drive.</p>
+
+<p>I&#8217;m sure some linux genius could work out how to throttle down the connection that the job runs in.</p>
+
+<p>Joe</p>
+
+<p class="posted">posted by Joe Harris
+ on November 30, 2006 <a href="#c14" rel="bookmark">#</a></p>
+</div>
+<div id="c15">
+<blockquote>
+  <p>You MUST, AND I MEAN MUST use incremental backups.</p>
+</blockquote>
+
+<p>I agree with Fraser on this point, but I believe Dirvish to be a much better solution than RIBS:</p>
+
+<p>http://www.dirvish.org/</p>
+
+<ul>
+<li>John Quigley</li>
+</ul>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.jquigley.com/">John Quigley</a>
+ on November 30, 2006 <a href="#c15" rel="bookmark">#</a></p>
+</div>
+<div id="c16">
+<p>libsloth <a href="http://ftp.die.net/pub/libsloth/libsloth.c" rel="nofollow">http://ftp.die.net/pub/libsloth/libsloth.c</a> is a crude but effective bandwidth limiter.</p>
+
+<p>How to use:</p>
+
+<p>env LD_PRELOAD=/path/to/libsloth.so BYTES_PER_SECOND=1000 command arg1 arg2 &#8230; argN</p>
+
+<p>Here &#8216;command&#8217; is a &#8220;dynamically linked, non-threaded TCP client or server that you wish to rate-limit&#8221;.</p>
+
+<p>libsloth actually &#8220;separately rate limits all read()s and write()s to each file descriptor regardless of whether it&#8217;s a network socket or not.&#8221;</p>
+
+<p class="posted">posted by Josh Purinton
+ on November 30, 2006 <a href="#c16" rel="bookmark">#</a></p>
+</div>
+<div id="c17">
+<p>If you&#8217;re looking for a linux appliance, might I recommend Buffalo Technology&#8217;s Linkstation Pro? It&#8217;s faster by far than the Linksys you mention, and I believe it&#8217;s cheaper too. And Buffalo&#8217;s tech support is absolutely unbeatable. The Linkstation has a very active hacking community.</p>
+
+<p class="posted">posted by David McCabe
+ on November 30, 2006 <a href="#c17" rel="bookmark">#</a></p>
+</div>
+<div id="c18">
+<p>Check http://www.carbonite.com - pretty much does exactly that.</p>
+
+<p class="posted">posted by 
+ on November 30, 2006 <a href="#c18" rel="bookmark">#</a></p>
+</div>
+<div id="c19">
+<p>heh, except you said UNIX. Well, they have it for windows at least.</p>
+
+<p class="posted">posted by 
+ on November 30, 2006 <a href="#c19" rel="bookmark">#</a></p>
+</div>
+<div id="c20">
+<p>Not linux compatible, but Windows and Mac.</p>
+
+<p>http://www.seagate.com/products/retail/mirra/index.html</p>
+
+<p>I haven&#8217;t tried this but it allegedly backs up as you save.</p>
+
+<p class="posted">posted by rick
+ on November 30, 2006 <a href="#c20" rel="bookmark">#</a></p>
+</div>
+<div id="c21">
+<p>It depends on how much you care about OS X metadata. As far as I know</p>
+
+<p>http://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html</p>
+
+<p>is the only backup tool for OS X that does what you want and also keeps all metadata intact.</p>
+
+<p>It creates a .dmg file on a mounted network drive and backs up to the .dmg file.</p>
+
+<p>I&#8217;m unaware of any cross platform backup tool that will backup OS X files 100% correctly.</p>
+
+<p class="posted">posted by david mathers
+ on November 30, 2006 <a href="#c21" rel="bookmark">#</a></p>
+</div>
+<div id="c22">
+<p>Its a commercial app in beta, but this app is a &#8220;set and forget&#8221; app that only copies the changed bytes (similar to Rsync) and encrypts the data on your machine before uploading it.  I have an interested in this, so I am certainly not impartial:</p>
+
+<p>www.vionobackup.com</p>
+
+<p>On another note though, I have used Rsync for a long time on the Mac. Its a great tool. My only issue was that my data was not encrypted at the server end, so thats why we decided to write our own. Its only in beta and available for Mac and Windows, so appreciate any feedback</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.sourceguardian.com">Ade</a>
+ on November 30, 2006 <a href="#c22" rel="bookmark">#</a></p>
+</div>
+<div id="c23">
+<p>I second rsnapshot (http://www.rsnapshot.org/)</p>
+
+<p class="posted">posted by daniel
+ on November 30, 2006 <a href="#c23" rel="bookmark">#</a></p>
+</div>
+<div id="c24">
+<p>Try looking at ZFS:</p>
+
+<p>http://www.opensolaris.org/os/community/zfs/</p>
+
+<p>&#8220;ZFS backup and restore are powered by snapshots. Any snapshot can generate a full backup, and any pair of snapshots can generate an incremental backup. Incremental backups are so efficient that they can be used for remote replication — e.g. to transmit an incremental update every 10 seconds.&#8221;</p>
+
+<p>Snapshots are just one of many nice features ZFS offers.  That said, it&#8217;d take some serious work to get it working on your Mac, assuming it&#8217;s possible at all.</p>
+
+<p>However, you may just have to wait a while, as it might appear in Apple&#8217;s next OS release:</p>
+
+<p>http://www.oreillynet.com/onlamp/blog/2006/08/proof_that_os_x_leopard_will_u.html</p>
+
+<p class="posted">posted by Nick
+ on November 30, 2006 <a href="#c24" rel="bookmark">#</a></p>
+</div>
+<div id="c25">
+<p>I use backupninja, which sounds may be just the light user-friendliness on top of rdiff-backup you&#8217;d like.</p>
+
+<p class="posted">posted by Andy
+ on November 30, 2006 <a href="#c25" rel="bookmark">#</a></p>
+</div>
+<div id="c26">
+<p>Boo for using _ for italics&#8230;</p>
+
+<p><a href="http://www.oreillynet.com/onlamp/blog/2006/08/proof_that_os_x_leopard_will_u.html" rel="nofollow">Orielly Link</a></p>
+
+<p class="posted">posted by Nick
+ on November 30, 2006 <a href="#c26" rel="bookmark">#</a></p>
+</div>
+<div id="c27">
+<p>+1 for rsnapshot. One additional thing I didn&#8217;t see mentioned is that Mac OS X&#8217;s default rsync binary  (which would be doing the gruntwork for rsnapshot) takes a -E flag to properly capture resource forks and other extended attributes of HFS.</p>
+
+<p class="posted">posted by Cody Raspen
+ on November 30, 2006 <a href="#c27" rel="bookmark">#</a></p>
+</div>
+<div id="c28">
+<p>Aaron,</p>
+
+<p>It&#8217;s commercial software, but Storage Exec from Veritas/Symantec does file level replication between a source and target share/file system.  It can throttle CPU and bandwidth utilization.</p>
+
+<p>BackupExec with Continuouse Data Protection has a similar functionality, with an agent.</p>
+
+<p>Your data is most important, but the ability to perform a fast, reliable recovery of a system is critical for business use.  For this purpose, I bought Acronis when my daughter went to college with her laptop.  It creates a boot CD (linux based) that allows network and USB connections to restore an image to the machine.  Backup rates are ~1 Gig/min for USB 2.  Restores are a bit longer, but they are 100% reliable.</p>
+
+<p>Echoing a theme from previous posts, Acronis supports an incremental backup feature and you can schedule using the Acronis scheduler.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.paulbegley.com">Paul Begley</a>
+ on November 30, 2006 <a href="#c28" rel="bookmark">#</a></p>
+</div>
+<div id="c29">
+<p>Try Bacula.  I am using it to back up several Linux and Windows servers on our LAN and it&#8217;s perfect.  It does everything you are asking for and more.  I pretty much forget about it until I rm -rf * in the wrong directory, and then it restores it easy as can be.  It has a &#8220;director&#8221; on one (Linux) machine and you schedule it to connect to the other machines and do incremental backups onto another storage machine or backup device.  It is very flexible and reliable.</p>
+
+<p class="posted">posted by Paul Viren
+ on December  1, 2006 <a href="#c29" rel="bookmark">#</a></p>
+</div>
+<div id="c30">
+<p>Another thing that&#8217;s tricky about setting up backups is getting the includes and excludes just right. Don&#8217;t want to leave anything out (I&#8217;ve done it; obscure non-home-dir file that I really needed), but don&#8217;t want to waste space on, say, iMovie&#8217;s included themes.</p>
+
+<p>It would be great if somebody published a ready-made black/whitelist for Mac OS X, or maybe even a script that examined your system and wrote one.</p>
+
+<p class="posted">posted by David M.
+ on December  1, 2006 <a href="#c30" rel="bookmark">#</a></p>
+</div>
+<div id="c31">
+<p>Christian R. Simms,</p>
+
+<p>I had the idea  to use svn to do incremental backups to, but I hit some walls pretty fast.</p>
+
+<p>1 - it&#8217;s quite slow with binaries
+2 - you will have big time fun with permissions
+3 - svn puts a .svn folder in <b>every</b> folders</p>
+
+<p>except  for those 3 points, it could make a decent backup system.</p>
+
+<p>my 2¢</p>
+
+<p class="posted">posted by h3
+ on December  1, 2006 <a href="#c31" rel="bookmark">#</a></p>
+</div>
+<div id="c32">
+<p>Update: rdiff-backup (1) has no pretend mode, (2) is ludicrously slow on small files, and the real showstopper, (3) doesn&#8217;t work over mounted network volumes &#8212; but doesn&#8217;t tell you that until it&#8217;s finished its backup, only to leave it in an inconsistent and unusable state after all those hours.</p>
+
+<p class="posted">posted by David McCabe
+ on December  2, 2006 <a href="#c32" rel="bookmark">#</a></p>
+</div>
+<div id="c33">
+<p>I&#8217;ve used Amanda (http://www.amanda.org/) with sucesss, it uses (as much as possible) the client&#8217;s command line tools, there is no GUI but it gives you nightly email reports if you want. Stages backups to a local hard drive before comiting them, so there is some automatic fall-back in case your backup device isn&#8217;t there.</p>
+
+<p>I haven&#8217;t used it to backup to hard drives, but it does seem to understand bandwith, backup windows, priority by machine and by partition, etc.</p>
+
+<p>I don&#8217;t know if it does everything you want, but I have similar feelings about software and it works for me.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.rouseworld.org">David Rouse</a>
+ on December  3, 2006 <a href="#c33" rel="bookmark">#</a></p>
+</div>
+<div id="c34">
+<p>So this is what I&#8217;ve come up with: rdiff-backup, besides being a shady and un-feel-good program, doesn&#8217;t handle lots of small files, at all. So I&#8217;m making a disk image with superduper, and then incrementing the image with rdiff-backup. We&#8217;ll see how it goes. Superduper is super-slow, and also shareware, so it&#8217;d be cool if somebody knew of a similar program that works better or is free. It&#8217;s a front-end for ditto(1) from what I understand.</p>
+
+<p class="posted">posted by David McCabe
+ on December 10, 2006 <a href="#c34" rel="bookmark">#</a></p>
+</div>
+<div id="c35">
+<p>try backupninja and ninjahelper
+http://dev.riseup.net/backupninja/</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://duyx.nl">jp</a>
+ on December 15, 2006 <a href="#c35" rel="bookmark">#</a></p>
+</div>
+<div id="c36">
+<p>I&#8217;m surprised nobody has mentioned backuppc (http://backuppc.sourceforge.net). It pulls backups down through the network, does incremental backups, and even pools files across PCs, so that only one copy of any given file is stored in the backup. I have it backing up 9 Linux boxes right now, 434 GB of backups being stored on a 120GB RAID 1 array, with 14 GB available&#8230;</p>
+
+<p>Nice web interface for restoring backups, automatic notification mails if it&#8217;s unable to do a backup for an extended period of time, only backs up machines after work hours if they&#8217;re constantly online&#8212;but if they&#8217;re not, will pick up where it left off as soon as it sees a machine that has been offline&#8230;</p>
+
+<p>It copies using Rsync or Samba, so it&#8217;ll backup Windows, too, if you need it to&#8230; I have it running on a 10 year old dual 500MHz server that can&#8217;t really be used for anything else&#8230;</p>
+
+<p>Haven&#8217;t figured out how to cap its size/bandwidth, but I find it incredibly easy to (not) use, and have even used it to restore files for clients with a few clicks&#8230;</p>
+
+<p>Cheers,
+John</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://freelock.com">John Locke</a>
+ on January  1, 2007 <a href="#c36" rel="bookmark">#</a></p>
+</div>
+<div id="c40">
+<p>CrashPlan might come close to what you&#8217;re looking for (Mac OS X). You point it to a server, give it an amount of bandwidth to use, and tell it to go, and it backs up most recent changes first and then the rest of your stuff. When files change, it does a diff and only backs up the bytes that have changed, since bandwidth is a bottleneck. Here&#8217;s a review at TidBITS:</p>
+
+<p><a href="http://www.tidbits.com/tb-issues/TidBITS-868.html#10" rel="nofollow">http://www.tidbits.com/tb-issues/TidBITS-868.html#10</a></p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.teresi.us">Scott Teresi</a>
+ on February 28, 2007 <a href="#c40" rel="bookmark">#</a></p>
+</div>
+<div id="c41">
+<p><a href="http://www.crashplan.com/" rel="nofollow">CrashPlan</a> isn&#8217;t just for Mac OS X&#8230; it runs on Linux and Windows also (actually, Linux is &#8220;coming soon&#8221;)</p>
+
+<p class="posted">posted by 
+ on February 28, 2007 <a href="#c41" rel="bookmark">#</a></p>
+</div>
+<div id="c42">
+<p>I&#8217;m currently looking into backup programs as I want to backup a Mac and a Windows laptop to an NSLU2 running Debian Linux.</p>
+
+<p><a href="http://www.fluffy.co.uk/boxbackup/" rel="nofollow">Boxbackup</a> sounds like it does what you want (although I&#8217;m not sure about the bandwidth limiting). It claims to support Mac OS resource forks, although I&#8217;ve not tried this yet. A &lt;a href=http://blog.plasticsfuture.org/2006/04/23/mac-backup-software-harmful/&#8221;>blog post on Mac backups</p> put the fear into me about correct handling of the Mac&#8217;s mess of metadata. I&#8217;d love to see the guy&#8217;s set of torture test files for backup tools.
+
+<p>rdiff-backup was horribly slow for me: it took about an hour for an incremental backup to decide to do more or less nothing. I&#8217;m not sure whether that&#8217;s because the NSLU2 is slow and the comparisons are being done on the server side, or what. I&#8217;m going to look into Bacula and Boxbackup when I get a moment. Bacula isn&#8217;t the sort of lazy backup you talk of, but seems to be well maintained and used by serious sysadmins, so I&#8217;m inclined to trust it over the various rsync based scripts which are out there.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.noctua.org.uk/paul/">Paul Wright</a>
+ on February 28, 2007 <a href="#c42" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="lazybackup" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>In His Own Words 2 (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>In His Own Words 2</h1>
+
+<blockquote>
+  <p>I must confess that over the past few years I have been gravely disappointed with the white moderate. I have almost reached the regrettable conclusion that the Negro&#8217;s great stumbling block in his stride toward freedom is not the White Citizen&#8217;s Councilor or the Ku Klux Klanner, but the white moderate, who is more devoted to &#8220;order&#8221; than to justice; who prefers a negative peace which is the absence of tension to a positive peace which is the presence of justice; who constantly says: &#8220;I agree with you in the goal you seek, but I cannot agree with your methods of direct action&#8221;; who paternalistically believes he can set the timetable for another man&#8217;s freedom; who lives by a mythical concept of time and who constantly advises the Negro to wait for a &#8220;more convenient season.&#8221;</p>
+</blockquote>
+
+<p>(Martin Luther King, Jr., <a href="http://www.nobelprizes.com/nobel/peace/MLK-jail.html">Letter from Birmingham Jail</a>)</p>
+
+<p>One year ago: <a href="http://www.aaronsw.com/weblog/001512">In His Own Words</a>.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">January 17, 2006</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>After the 2004 voter backlash against gay marriage, a paternalistic straight white Republican took time out of his busy schedule to inform me that the left should not have tried to grab so many rights for gays, so quickly. Look at how the left had sabotaged itself, he said, pointing to the electoral results. He agreed with the overall goal of civil unions replacing government-sponsored marriage, but disagreed with Gavin Newsom&#8217;s methods.</p>
+
+<p>If only we had waited, he explained, the country would have come to accept gay unions and even gay marriage.</p>
+
+<p>Eventually.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://mccarthy.vg/">Jamie McCarthy</a>
+ on January 17, 2006 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>I was thinking of putting up Reagan&#8217;s comment:</p>
+
+<blockquote>
+  <p>[King&#8217;s murder is a] great tragedy that began when we began compromising with law and order, and people started choosing which laws they&#8217;d break.</p>
+</blockquote>
+
+<p>but I thought that might be pushing it a little.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on January 17, 2006 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="mlk2" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

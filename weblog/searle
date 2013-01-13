@@ -1,0 +1,653 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Hating John Searle (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Hating John Searle</h1>
+
+<p>I think John Searle might be my favorite living philosopher. But when I tell my friends this, they recoil in horror. &#8220;That bastard?&#8221; one friend cries. &#8220;He <a href="http://en.wikipedia.org/wiki/John_Searle#The_landlord_and_the_city_government">tripled my rent</a>!&#8221; &#8220;Oh geebus,&#8221; another cries. &#8220;The Chinese Room argument is <em>awful</em>.&#8221;</p>
+
+<p>I will not profess to have an opinion on whether the fourteenth amendment requires the City of Berkeley to provide a rational basis for only allowing its landlords to raise rents at forty percent of the increase in the consumer price index, but I must admit I fail to see what the question has to do with Searle as a philosopher.</p>
+
+<p>The other complaint seems less <em>ad hominem</em>, but I think is fundamentally similar. Reading Searle&#8217;s published books, it&#8217;s striking how little space the Chinese Room Argument takes up. Indeed, his book on the subject of consciousness &#8212; <em>The Rediscovery of the Mind</em> &#8212; gives it little more than a paragraph and notes that his more recent argument against functionalism is far more powerful.</p>
+
+<p>Nonetheless, I will defend the Chinese Room Argument. The basic idea, for those who aren&#8217;t familiar with it, is this: imagine yourself being placed in a room and given instructions on how to convert one set of Chinese symbols to another. To outsiders, if the instructions are good enough, it will seem as if you understand Chinese. But you do not consciously understand Chinese &#8212; you are simply following instructions. Thus, no computer can ever consciously understand Chinese, because no computer does more than what you&#8217;re doing &#8212; it&#8217;s simply following a set of instructions. (Indeed, being unconscious, it&#8217;s doing far less.)</p>
+
+<p>The Chinese Room Argument works mainly as a forcing maneuver. There are only two ways out of it: you can either claim that no one is conscious or that everything is conscious. If you claim that no one is conscious, then there is no problem. Sure, the man doesn&#8217;t consciously understand Chinese, but he doesn&#8217;t consciously understand English either. However, I don&#8217;t think anyone can take this position with a straight face. (Even Daniel Dennett is embarrassed to admit it in public.)</p>
+
+<p>The alternative is to say that while perhaps the man doesn&#8217;t consciously understand Chinese, the <em>room</em> does. (This is functionalism.) I think it&#8217;s pretty patently absurd, but Searle provides a convincing refutation. Functionalists argue that information processes lead to consciousness. Running a certain computer program, whether on a PC or by a man with a book or by beer cups and ping pong balls, will cause that program to be conscious. Searle points out that this is impossible; information processes can&#8217;t cause consciousness because they&#8217;re not brute facts. We (conscious humans) look at something and decide to <em>interpret</em> it as an information process; but such processes don&#8217;t exist in the world and thus can&#8217;t have causal powers.</p>
+
+<hr />
+
+<p>Despite the obvious weakness of the arguments, why do so many of my friends continue to believe in functionalism? The first thing to notice is that most of my friends are computer programmers. There&#8217;s something about computer programming that gets you thinking that the brain is nothing more than a special kind of program.</p>
+
+<p>But once you do that, you&#8217;re stuck. Because one property of computer programs is that they can run on any sort of hardware. The same program can run on your Mac or a PC or a series of gears and pulleys. Which means it must be the program that&#8217;s important; the hardware can&#8217;t be relevant. Which is patently absurd.</p>
+
+<p>I used to think that part of the reason my friends believed this was because they had no good alternatives. But I&#8217;ve since explained to them Searle&#8217;s alternative &#8212; consciousness is a natural phenomenon which developed through evolutionary processes and is caused by the actions of the brain in the same way solidity is caused by the actions of atoms &#8212; and it hasn&#8217;t caused them to abandon their position one bit.</p>
+
+<p>So I tried a different tack. I asked them what they thought was wrong with Searle&#8217;s position. And the answer always seems to come down to a confusion between ontology and epistemology. Ontology is a fancy word for the facts of the matter &#8212; what actually exists out in the world. And epistemology is the world for the way we know about it. Unless you subscribe to a bizarre philosophical theory, things in the world exist irrespective of whether we know them or not. Behind the TV game show door, there either is a car or there isn&#8217;t, even if no one can see in to tell which one is the case. Furthermore, things continue to exist even if we can&#8217;t even know them in principle. There appears to be no way for me to ever tell what it feels like for you to taste an orange; nonetheless, there is indeed something that it feels like for you.</p>
+
+<p>My programmer friends&#8217; argument always ends up coming down to this: if a computer program acted conscious, if it plaintively insisted that it was conscious, if it acted in all respects like the conscious people we know in the real world, then it must be conscious. How could we possibly tell if it was not? In short, they believe in the Turing Test as a test for consciousness &#8212; anything that acts smart enough to make us think it&#8217;s conscious must be conscious.</p>
+
+<p>This was the position Ned Block was trying to refute when he postulated a computer program known as Blockhead. Blockhead is a very simple (although very large) computer program. It simply contains a list of all possible thirty minute conversations. When you say something, Blockhead looks it up in the list, and says whatever the list says it&#8217;s supposed to say next. (Obviously such a list would be unreasonably long in practice, perhaps even when heavily compressed, but let us play along theoretically.)</p>
+
+<p>Having a conversation with Blockhead would be just like having a conversation with a real person. But nobody could seriously claim the program was conscious, right? Well, in fact they do.</p>
+
+<p>One wonders whether these people think their cell phones are conscious. After all, talking to a properly-enabled cell phone works just like talking to a properly-enabled person! (I asked one friend this and his response was that the whole system containing the cell phone and the wires and the person on the other end was conscious.)</p>
+
+<p>The point is that we don&#8217;t assign consciousness purely based on behavior. Blockhead acts like it&#8217;s conscious and a completely paralyzed person acts like they&#8217;re not, yet we all know that the first isn&#8217;t conscious and the second is. Instead, we assign consciousness based on causes. We know dogs are conscious because we know they have brains that are very much like ours which cause behavior very much like ours. We don&#8217;t make that judgment based on behavior alone.</p>
+
+<hr />
+
+<p>Criticisms aside, what is the positive argument for John Searle? First, he has done important work in a wide variety of fields. As far as I can tell, he began following up the works of his teachers (like J. L. Austin) on the topic of speech acts, which he generalized to the subject of intentionality, which he solved by saying it was a property of conscious beings, which led him to develop a theory of consciousness. Second, all of his points seem quite reasonable to me and (with a few exceptions) I agree with them. Third, he writes extremely clearly and entertainingly and for a popular audience.</p>
+
+<p>These three seem like a fairly low bar &#8212; they&#8217;re about what I would expect from myself were I a philosopher &#8212; but its shocking how few prominent philosophers seem to meet them. Daniel Dennett is a dreadfully prolix writer and is insane. Thomas Nagel comes close but is a fairly committed dualist. Hilary Putnam doesn&#8217;t write for a popular audience. Peter Singer doesn&#8217;t seem to develop any actual theories. So I can&#8217;t think of any. Can you? Suggestions appreciated in the comments.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">March 14, 2007</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>What about the Norwegian philosopher Arne Næss? He also writes for a popular audience and has coined the ideas such as &#8220;deep ecology&#8221; and &#8220;ecological wisdom&#8221;&#8230;</p>
+
+<p class="posted">posted by Albert Francis
+ on March 14, 2007 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>&#8220;There are only two ways out of it: you can either claim that no one is conscious or that everything is conscious&#8221;</p>
+
+<p>Third way: consciousness is a VARIABLE, not a BINARY.</p>
+
+<p>That is, &#8220;everything is conscious&#8221; is like &#8220;everything has a temparature&#8221; - there&#8217;s a range from 0 to a very high level. We&#8217;re predisposed to read &#8220;everything is conscious&#8221; like &#8220;everything is hot&#8221;, which sounds absurd, but that&#8217;s just because of language usage.</p>
+
+<p>I would say a lot of trouble is hidden in the words &#8220;given instructions on how to convert one set of Chinese symbols to another&#8221;. It may be that this turns out to <em>mean</em> something like &#8220;a conscious mind, or access to one in some manner&#8221; in practice. That is, it&#8217;s not really an argument, but a tautology, basically another artifact of non-rigorous language (i.e, circularly arguing that it&#8217;s a mere set of instructions, and minds are taken to be much more glorious than a set of instructions, so if a set of instructions can do what a mind does, a mind must be something else).</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://sethf.com/">Seth Finkelstein</a>
+ on March 14, 2007 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>I think part of the problem of <i>liking</i> Searle the philosopher is dealing with the arrogant, blowhard you will encounter if you ever have the opportunity to take one of his classes.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://talboito.com">talboito</a>
+ on March 14, 2007 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>Have you read anything by David Chalmers?</p>
+
+<p class="posted">posted by Mike Bruce
+ on March 14, 2007 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>One of my own favorite contemporary philosophers, Susan Haack, certainly meets your three criteria of importance, reasonableness, and writing clearly for a popular audience:</p>
+
+<p>http://www.as.miami.edu/phi/haack/SummaryBio.htm</p>
+
+<p class="posted">posted by Kermit Snelson
+ on March 14, 2007 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c6">
+<p>&#8220;The point is that we don&#8217;t assign consciousness purely based on effects. Blockhead acts like it&#8217;s conscious and a completely paralyzed person acts like they&#8217;re not, yet we all know that the first isn&#8217;t conscious and the second is.&#8221;</p>
+
+<p>Actually, we do assign consciousness purely based on effects. The only things we perceive of the world are through our senses, which <em>are</em> effects in the physical world. There&#8217;s no other way for us to assign consciousness.</p>
+
+<p>&#8220;Yet we all know&#8221; - what kind of argument is that? No, we <em>don&#8217;t</em> &#8220;all know&#8221; - that&#8217;s incredibly lazy thinking. You have to back up your assertions with some logic.</p>
+
+<p>&#8220;Searle points out that this is impossible; information processes can&#8217;t cause consciousness because they&#8217;re not brute facts.&#8221;</p>
+
+<p>What does this mean? A lot of philosophers don&#8217;t understand computers, but computers are brute facts - you can touch them - and also information processes, because they use the physical laws of the universe to perform computations.</p>
+
+<p>&#8220;Because one property of computer programs is that they can run on any sort of hardware. The same program can run on your Mac or a PC or a series of gears and pulleys. Which means it must be the program that&#8217;s important; the hardware can&#8217;t be relevant. Which is patently absurd.&#8221;</p>
+
+<p>Why is it patently absurd? You need to get away from these lazy assertions, and actually provide some reasons, and, you know, a logical argument. As you know, all machines which are Turing-equivalent can model <em>any</em> computation (see your computer science education for the proof), and the physical laws of the universe can be used to model a Turing-equivalent machine (see any desktop computer as an evidence-based <em>fact</em>), therefore in a <em>very</em> real way, the hardware is <em>not</em> relevant. It couldn&#8217;t really be more clear to me!</p>
+
+<p>FWIW, I view the universe as a computation, and a long time ago - about the age of 13 or so - I came around to the conclusion that any computation in the universe is indistinguishable from free will / consciousness. If you replaced every one of the neurons in your head with a miniature device that acted like a neuron, then there&#8217;d be no effective difference in your behaviour, yet now your brain would be formed out of components we could model in a computer - down to the low-level physical laws, if necessary. It seems to me, that following this line of reasoning, all that is required to simulate a conscious being inside a computer (and  by analogy the Chinese Room), is a thorough understanding of (1) physics and (2) the physical structure of neurons and their interconnections.</p>
+
+<p>Would the result be conscious? Well, guess what - I don&#8217;t know that you&#8217;re conscious. Nobody knows anything about anybody else&#8217;s consciousness. We just have to believe what they say when they say they&#8217;re conscious, so instead, it comes down to intelligence. And the only criteria we have for deciding intelligence - in spite of your objections, which you haven&#8217;t backed up - are the senses we receive, i.e. the input into the brain, which is formed completely from the output of the simulation. I view the Turing test as a thought experiment that demonstrates that we evaluate intelligence only through outward behaviour - it&#8217;s the only way we can evaluate <em>anything</em> - and therefore intelligence can be simulated.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://barrkel.blogspot.com/">Barry Kelly</a>
+ on March 14, 2007 <a href="#c6" rel="bookmark">#</a></p>
+</div>
+<div id="c7">
+<p>Just one further point, after remembering a few things. Many philosophers theorizing about consciousness still still use homunculus-based approaches, e.g. see:</p>
+
+<p>http://en.wikipedia.org/wiki/Homunculus#The_homunculus_argument_or_fallacy_in_the_philosophy_of_mind</p>
+
+<p>Many philosophers have tried to use infinite regression of homunculi as an argument that there&#8217;s something special, or magical, about the human mind, without realizing that the physical laws of the universe can themselves form a very simple homunculus, terminating the infinite regression - thus many &#8220;disproofs&#8221; of theories based on infinite regression are actually incorrect.</p>
+
+<p>The Chinese Room argument is similar: we see inside the box (we&#8217;re given special knowledge of how the &#8220;box&#8221;, aka the brain, works) to see the literal homunculus, and therefore it&#8217;s &#8220;obvious&#8221;, or &#8220;patently clear&#8221; that it (the whole system) is not conscious.</p>
+
+<p>Problem is, would we make the same claim if we knew exactly what was inside the human skull-box? If not, why not? Is it any different?</p>
+
+<p>To me, the human skull-box and the Chinese Room are perfectly analogous. The homunculus is literal in the Chinese Room, but it&#8217;s the physical laws of the universe in a brain or a computer. The instructions and book in the Chinese Room are the physical state and structure of the brain&#8217;s neurons. It seems to me that if you support the thesis that the Chinese Room is not conscious, then you believe that the human mind is not conscious.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://barrkel.blogspot.com/">Barry Kelly</a>
+ on March 14, 2007 <a href="#c7" rel="bookmark">#</a></p>
+</div>
+<div id="c8">
+<p><a href="http://en.wikipedia.org/wiki/Jerry_Fodor" rel="nofollow">Jerry Fodor</a>. The scope of his work is not as extensive as Searle&#8217;s, but it&#8217;s definitely important (he provides the best arguments for the so-called cognitivist approach) and has contributed very original ideas about the structure of the mind. It is a pleasure to read him - you could read any of his works without any previous knowledge of the matter and still benefit from them.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://intellectronica.net/">Tom Berger</a>
+ on March 14, 2007 <a href="#c8" rel="bookmark">#</a></p>
+</div>
+<div id="c9">
+<p><a href="http://www.aaronsw.com/weblog/searle#c2" rel="nofollow">Seth writes</a>:</p>
+
+<blockquote>
+  <p>Third way: consciousness is a VARIABLE, not a BINARY.</p>
+</blockquote>
+
+<p>It&#8217;s both, like one of those dimmer light switches that clicks when going to zero. Saying that thermostats have some level of consciousness (as Chalmers seems to do) just strikes me as crazy and that&#8217;s not a trick of language.</p>
+
+<blockquote>
+  <p>I would say a lot of trouble is hidden in the words &#8220;given instructions on how to convert one set of Chinese symbols to another&#8221;. It may be that this turns out to <em>mean</em> something like &#8220;a conscious mind, or access to one in some manner&#8221; in practice.</p>
+</blockquote>
+
+<p>Huh? We&#8217;re assuming the theoretical possibility that building a computer program to solve the Turing Test is possible. Then we&#8217;re writing the program down in human language as instructions in a book. The book is not a conscious mind. This may turn out not to actually be possible in reality, but that&#8217;s why it&#8217;s a thought experiment. This is also not an artifact of language.</p>
+
+<p><a href="http://www.aaronsw.com/weblog/searle#c3" rel="nofollow">talboito</a>:  Yes, Searle does come off as a bit arrogant even in writing. But I&#8217;ve learned to tolerate some level of arrogance.</p>
+
+<p><a href="http://www.aaronsw.com/weblog/searle#c6" rel="nofollow">Barry</a> caught a typo which I&#8217;ve now fixed (I had &#8220;effects&#8221; instead of &#8220;behavior&#8221;. His other arguments don&#8217;t seem particularly convincing to me &#8212; he falls for exactly the trap I state: he confuses epistemology with ontology.</p>
+
+<p>I should clarify that this piece is not meant to be a rigorous philsophical argument, just a reflection on recent events. The reason I&#8217;ve been talking to people about this stuff is that I&#8217;ve been working on the more rigorous piece.</p>
+
+<p><a href="http://www.aaronsw.com/weblog/searle#c7" rel="nofollow">Barry</a>: The difference between the Chinese room and the brain is that <em>brains cause consciousness</em>.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/weblog/">Aaron Swartz</a>
+ on March 14, 2007 <a href="#c9" rel="bookmark">#</a></p>
+</div>
+<div id="c10">
+<p>I think you are unfair to poor old Mr. Dennett. His usual argument against this kind of thing holds up well to the Blockhead case, for example:</p>
+
+<p>When you say &#8220;Obviously such a list would be unreasonably long in practice, perhaps even when heavily compressed, but let us play along theoretically.&#8221; you are asking us to play along with something unrealistic - and that&#8217;s the problem. How long is &#8220;unreasonably long&#8221; - well, think how big a list of all 30-minute conversations are. If each word could be followed by one of 10 others, and speech happens at 1 word per second, then that&#8217;s 10^(180) conversations. So it is reasonable to say &#8220;No - I will not play along, even theoretically&#8221;.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://whimsley.typepad.com">tom s.</a>
+ on March 14, 2007 <a href="#c10" rel="bookmark">#</a></p>
+</div>
+<div id="c11">
+<p>I meant to finish with &#8220;end of conversation - intelligent or otherwise&#8221;</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://whimsley.typepad.com">tom s.</a>
+ on March 14, 2007 <a href="#c11" rel="bookmark">#</a></p>
+</div>
+<div id="c12">
+<p>What is it about functionalism that allows it to resist thought experiments? Functionalists certainly like to have their zombies.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on March 14, 2007 <a href="#c12" rel="bookmark">#</a></p>
+</div>
+<div id="c13">
+<p>What is your definition of consciousness?</p>
+
+<p>You are arguing what it means to be conscious but haven&#8217;t defined what consciousness is.</p>
+
+<p class="posted">posted by Sean Abrahams
+ on March 14, 2007 <a href="#c13" rel="bookmark">#</a></p>
+</div>
+<div id="c14">
+<blockquote>
+  <p>Which means it must be the program that&#8217;s important; the 
+  hardware can&#8217;t be relevant. Which is patently absurd.</p>
+</blockquote>
+
+<p>Why is it patently absurd?</p>
+
+<blockquote>
+  <p>&#8230; things in the world exist irrespective of whether we know 
+  them or not.</p>
+</blockquote>
+
+<p>At the macroscopic scale, yes. Once you get into quantum mechanics all bets go out the window (cats in boxes and such).</p>
+
+<blockquote>
+  <p>The difference between the Chinese room and the brain is that 
+  brains cause consciousness.</p>
+</blockquote>
+
+<p>Are we sure that the brain isn&#8217;t just a Chinese box? Do we understand enought about it to say this?</p>
+
+<p class="posted">posted by David Magda
+ on March 14, 2007 <a href="#c14" rel="bookmark">#</a></p>
+</div>
+<div id="c15">
+<p>Boy howdy, do I wish I could talk to you about this in person. This question has been irritating me since I took my first cog sci course, and I&#8217;ve never spoken about it to anyone who&#8217;d even heard of this functional argument against the Chinese room. It might have been addressed in that very class, I just wasn&#8217;t much of a student.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://littleblur.com">Ben Donley</a>
+ on March 14, 2007 <a href="#c15" rel="bookmark">#</a></p>
+</div>
+<div id="c16">
+<blockquote>
+  <blockquote>
+    <p>We know dogs are conscious</p>
+  </blockquote>
+</blockquote>
+
+<p>bowwow?</p>
+
+<p class="posted">posted by Really?
+ on March 14, 2007 <a href="#c16" rel="bookmark">#</a></p>
+</div>
+<div id="c17">
+<p>I don&#8217;t go in much because I think you are only playing with &#8216;American tradition&#8217; context. But the word &#8216;consciousness&#8217; - and epistemology or ontology - these aren&#8217;t used very well in this piece.</p>
+
+<p>Let&#8217;s say Babbage probably didn&#8217;t think of Turing test (He didn&#8217;t. Wicked enough!). But maybe kids in the bedroom given teddy bears to play with (19th century?) gave souls and everything they could give - to their teddy bears.</p>
+
+<p>Then Turing&#8217;s test came. (and yeah Strong AI school, bit later, with some very particular kid of information theory thing) And then ripples in the pond.</p>
+
+<p>But then you got Johns Hopkins&#8217;s Ben Carson&#8217;s one argument - or suggestion about the topic of the argument, why we let other humans to waste what their brains potentially got.</p>
+
+<p>Say we all got good enough hardwares, but we don&#8217;t want to install softwares, and we tolerate hardwares being wasted with bad, poorly written softwares. (Go Tenderloin or Hunters point or Richmond in east bay or East Oakland, say. You see potential Mac Tower Pro or supercomputers playing  - or stuck with - 30 years old Atari games - or even something less than that.)</p>
+
+<p>He did that argument in some places - in talk to public, and seems it didn&#8217;t fly.</p>
+
+<p>So we are going back to teddy bears again. Such a cool argument. I can&#8217;t wait to see your real piece.</p>
+
+<p class="posted">posted by IT kids are concerned about CPUs huh?
+ on March 14, 2007 <a href="#c17" rel="bookmark">#</a></p>
+</div>
+<div id="c18">
+<p>It&#8217;s an old book so there may now be better but, &#8216;The Mind&#8217;s I&#8217; goes through all of this (as does &#8216;Permutation City&#8217;, mind-blowingly, by Greg Egan). I don&#8217;t claim that the following is Hofstadter&#8217;s answer though.</p>
+
+<p>I think it&#8217;s possible that a human could animate a stop-motion consciousness, with symbols etc. And that, I wouldn&#8217;t have a problem with accepting as conscious.</p>
+
+<p>What you&#8217;ve put as Searle&#8217;s big comeback about causality I don&#8217;t understand. I certainly don&#8217;t think that processing information makes machines conscious. I don&#8217;t know what you or Searle are arguing, so maybe I&#8217;m on your side and don&#8217;t realize it but, I distrust any argument that takes concepts that are pre-experience or understanding of what consciousness is, and tries to run with them. Minsky sums it up for me:</p>
+
+<p>&#8220;It is too easy to say things like, &#8220;Computers can&#8217;t do (xxx), because they have no feelings, or thoughts&#8221;. But here&#8217;s a way to turn such sayings into foolishness. Change them to read like this. &#8220;Computer can&#8217;t do (xxx), because all they can do is execute incredibly intricate processes, perhaps millions at a time&#8221;. Now, such objections seem less convincing &#8212; yet all we did was face one simple, complicated fact: we really don&#8217;t yet know what the limits of computers are. Now let&#8217;s face the other simple fact: OUR NOTIONS OF THE human MIND ARE JUST AS PRIMITIVE.&#8221; (my emphasis)</p>
+
+<p class="posted">posted by Mind's I Reader
+ on March 14, 2007 <a href="#c18" rel="bookmark">#</a></p>
+</div>
+<div id="c19">
+<p>I haven&#8217;t read the above comments. I suppose I should. What if Blockhead had no record of conversations, only a set of rules hardwired in, and a large but lossy memory, and a clock that wasn&#8217;t quite perfect. He, let&#8217;s call Blockhead he, I think there&#8217;s a Peanuts character named Blockhead, or at least on of them calls another Blockhead. Anyway&#8230;</p>
+
+<p>Blockhead, over time, receives audio input and one of his hard-wired rules is to drive a speaker at varying frequencies. Another rule is to keep track of how many times a particular driven pattern through the speaker is followed by another pattern. And record all of this, again, in a lossy sort of way. Loosing some random fraction of what&#8217;s been collected, at a rate that falls off with time. That is, there&#8217;s always a lot coming in, so Blockhead is always shedding a lot of recent data, but there is a pile of old stuff that slowly builds up. And even some of that is lost, but the rate functions are balanced so there&#8217;s a slow accumulation. Another rule is to pattern-match. Pattern-match all sorts of things, and assign those patterns over time, the ones that happen so frequently they aren&#8217;t lost, assign random names to those patterns, and put those random names at specific addresses. And even those addresses will be lost if they aren&#8217;t reinforced. But another rule Blockhead follows is to repeat driving patterns on the speaker if a pattern of response is detected. Add in a rule to favor own survival over survival of another.</p>
+
+<p>Over, and over, and over. All the time. He&#8217;ll develop grammar, syntax, style. A sense of time. A sense of rules for conversation. Confabulating many possible responses, he will have access to rules, tried over time, that allow him to choose some confabulations that are better than others, and drive the speaker with those.</p>
+
+<p>Maybe throw in some additional shortcuts. Add a video feed. Favor visual patterns with a lot of green on the bottom, and blue on top. Favor visual patterns that look like this :) only rotated 90° clockwise. Add in the ability to distinguish chemical smells and  similar lossy association patterns can be ruled between smells and :) patterns and green/blue patterns, and certain audio patterns.</p>
+
+<p>Make Blockhead reproducible, with a lossy pattern of the program. Make a pattern such that Blockheads can&#8217;t tolerate another Blockhead who&#8217;s responses vary too far from the patterns that he recognized in the the first few years of life. Make Blockhead want to destroy Blockheads that don&#8217;t match the pattern. You&#8217;ll have Blockheads that more and more efficiently learn to recognize patterns, and you&#8217;ll have clusters of Blockheads. Predictably, Blockheads near the borders of their clusters will at once destroy each other more often, and end up with new patterns and an urge to integrate the groups. I&#8217;ll bet they even naturally select code patterns that the original designer never predicted, more closely aligned to survival in their environment.</p>
+
+<p>Don&#8217;t give me the usual crap about random numbers not being truly random. Schrodinger&#8217;s equations assure us that those tiny little atoms that &#8220;cause&#8221; solids (please, &#8220;causation&#8221; hasn&#8217;t a thing to do with it. Have you considered that it just is? Maybe the math just fell out that way in this particular instance of a universe?) will eventually induce measurable randomness into the clock. Even NIST&#8217;s clocks aren&#8217;t perfect. Not perfect.</p>
+
+<p>How much. odds. These things are fundamental.</p>
+
+<p>Random chance and self-repeating patterns condensing out of a huge chaos over vast amounts of time. Causation at the quantum level and causation at the level of human affairs are two things that follow different rules. Not because there&#8217;s a definitional difference in causation, but because there are so many how many, how much questions of probability in between.</p>
+
+<p>Of course the biological Blockhead is self-aware by every possible test and entirely able to transcribe meaningless symbols. Pattern-matching and lossy memory and a fuzzy clock over time lead to this mental model.</p>
+
+<p>The academies of philosophers and economists suffer from the same failure of mind: we can confabulate any situation there ever could be, but it only gets interesting when we start trying to find out &#8220;how much&#8221;. Pursuing theory without observation is tantamount to murder. So is observation without doubt.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://nielsolson.us">Niels Olson</a>
+ on March 15, 2007 <a href="#c19" rel="bookmark">#</a></p>
+</div>
+<div id="c20">
+<p>&#8220;Saying that thermostats have some level of consciousness (as Chalmers seems to do) just strikes me as crazy and that&#8217;s not a trick of language.&#8221;</p>
+
+<p>It&#8217;s like saying &#8220;an ice cube has some level of heat&#8221;. So you react &#8220;That&#8217;s crazy! An ice cube is cold, not hot!&#8221;. Would it sound crazy to say (a similar but not identical idea) &#8220;thermostats have some level of reaction to their environment&#8221;? It&#8217;s obviously talking about a trivially small amount of a quantity we think of, linguistically, in terms of a high level of the quantity. It would help to distinguish between &#8220;temperature&#8221; (the quantity) and &#8220;hot&#8221; (high level the quantity). The trick of language is that &#8220;consciousness&#8221; is used in both senses (like the word &#8220;heat&#8221;).</p>
+
+<p>&#8220;Huh? We&#8217;re assuming the theoretical possibility that building a computer program to solve the Turing Test is possible.&#8221;</p>
+
+<p>That&#8217;s right. ASSUMING! The point is that <em>assumption</em> itself is arguably circular or tautological. The artifact of language is that it allows you to hide that circularity or tautology from inspection. It&#8217;s like Maxwell&#8217;s Demon: &#8220;assume we could distinguish between hot and cold (high and low energy) particles, then &#8230; We are assuming that &#8230; In theory &#8230;&#8221; The problem here is that it turns out that to do the operation of &#8220;distinguish&#8221; is dubious, in terms of possibly taking more energy itself. Similarly, the glib phrase of &#8220;writing the program down in human language as instructions in a book&#8221; may not be possible in way that doesn&#8217;t turn out to be, in practice, &#8220;create an artificial intelligence&#8221;.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://sethf.com/">Seth Finkelstein</a>
+ on March 15, 2007 <a href="#c20" rel="bookmark">#</a></p>
+</div>
+<div id="c22">
+<p>This piece was way below par for you Aaron. Most of the things that you said were &#8220;obviously&#8221; the case are not at all obvious. It is like a Christian saying well &#8220;obviously&#8221; God exists - obvious to a Christian yes, but not to an Athiest. You just made a load of unsubstantiated statements of faith.</p>
+
+<p>For what it&#8217;s worth, all of Dennet&#8217;s points seem quite reasonable to me, but I wouldn&#8217;t go so far as to say that they are &#8220;obviously&#8221; true, because they clearly aren&#8217;t from your perspective. I admit I haven&#8217;t read widely on the subject (Penrose and Hofstadter are my other two main jumping off points) but I have had quite a few more years than you to mull it over.</p>
+
+<p>It seems to me that you are simply defining consciousness as something that occurs in brains. If we accept your definition the clearly it can&#8217;t occur in computers. That is no better or worse than defining conciousness as whatever property is shared between all potential systems that could pass a Turing test, it is just a different definition. Whatever definition of consciousness we might come up with, clearly it should apply to human beings (both the above definitions do). Beyond that, who can say whether an ant is concious whereas a hypothetical computer program that passes the Turing test is not? Or the other way round? It entirely depends what you mean by the word.</p>
+
+<p>In fact, some people say that human beings are not conscious in general and that consciousness is only achieved in certain enlightened beings after years of meditation etc. Or that there is only a single Universal consciousness etc.</p>
+
+<p>Answers are meaningless unless you know what the question is and I don&#8217;t think we do. It is like asking for the answer to &#8220;Life,
+the Universe and Everything.&#8221;</p>
+
+<p>I expect better from you and look forward to a future post on the subject in which you actually have something substantive to say.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.zenatode.org.uk/ian/">Ian Gregory</a>
+ on March 15, 2007 <a href="#c22" rel="bookmark">#</a></p>
+</div>
+<div id="c23">
+<p>Well this is a fascinating topic that I&#8217;ve been thinking a lot about lately. I have not studied it much yet, so I may be ignorant of one thing or another. But I have to say that Aaron&#8217;s argument is almost completely unsatisfying. I&#8217;m not even sure what his point is. This is a little bit of a ramble; my apologies.</p>
+
+<blockquote>
+  <p>We (conscious humans) look at something and decide to interpret it as an information process; but such processes don&#8217;t exist in the world and thus can&#8217;t have causal powers.</p>
+</blockquote>
+
+<p>I honestly don&#8217;t even know what that means. It&#8217;s hardly the knock-down argument I was waiting for. Reminds me of the kind of thing Thomas Aquinas might say &#8212; my apologies for such a shoddy kind of reply; it&#8217;s just I don&#8217;t understand the statement well enough to make a rational reply to it.</p>
+
+<p>We know that consciousness, whatever it is, exists, because we experience it. But we don&#8217;t yet know what causes it. We&#8217;re ruling out appeals to phenomenon that doesn&#8217;t come down to physics.</p>
+
+<p>Saying that humans do not consciously understand English is false more or less by definition &#8212; what else can we mean by consciousness?</p>
+
+<blockquote>
+  <p>There are only two ways out of it: you can either claim that no one is conscious or that everything is conscious</p>
+</blockquote>
+
+<p>How does this follow? I can&#8217;t say that certain kinds of arrangements of atoms, whose defining characteristics are as yet unknown, are conscious, and others aren&#8217;t?</p>
+
+<p>Obviously consciousness is created by the brain (at least, that&#8217;s what the behavior of other apparently conscious systems would indicate, when their brains are destroyed).  The only conceivable explanation, to me, is that consciousness is created by some process of computation, because <em>there is nothing else there</em>, that I know of, in our brains.</p>
+
+<p>I have to agree with the guy who quoted Minsky. Something in the way our brain&#8217;s atoms are configured creates our experience, which we can only guess is something different from the experience of an insect or an ordinary computer program. If a chess playing program has state that registers that it is losing, is that the same as experiencing pain for a simple animal? For a human? If not, what is the difference? State that registers the state?</p>
+
+<p>Basically I don&#8217;t see the relation between these questions, which seem the pertinent ones to me, and what Aaron is talking about.</p>
+
+<blockquote>
+  <p>Thus, no computer can ever consciously understand Chinese, because no computer does more than what you&#8217;re doing &#8212; it&#8217;s simply following a set of instructions.</p>
+</blockquote>
+
+<p>The hardware is just following instructions. How do we know that computer hardware, plus a large pile of state, plus some transition rules, is not conscious? Isn&#8217;t that pretty much what our brains are, as far as we know?</p>
+
+<blockquote>
+  <p>consciousness is a natural phenomenon which &#8230; is caused by the actions of the brain in the same way solidity is caused by the actions of atoms</p>
+</blockquote>
+
+<p>How is this different from being caused by computation?</p>
+
+<p>Here&#8217;s awaiting your real post &#8212; in the mean time, unsubstantiated rambles are what you get back, from me at least :)</p>
+
+<p class="posted">posted by David McCabe
+ on March 15, 2007 <a href="#c23" rel="bookmark">#</a></p>
+</div>
+<div id="c24">
+<p>Searle&#8217;s Chinese Room experiment is a trivial misdirection. He focuses on the man in the room matching symbols rather than the creator of the semantic and syntactic translation rules. That designer was conscious. The man in the room is working unconsciously. When I speak my mouth and vocal cords do the translation from nerve impulses to sound patterns but it is entirely unconscious. You have to follow the trail back into the brain where you get lost because consciousness is an emergent property of the neural networks, not a property of the machinery at all.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://decidingbetter.com">James Vornov</a>
+ on March 15, 2007 <a href="#c24" rel="bookmark">#</a></p>
+</div>
+<div id="c25">
+<p>What&#8217;s fascinating about the Chinese Room is that it&#8217;s a great litmus test.  People on both sides of the issue are absolutely clear on their position and think the people on the other side are being deliberately obtuse.</p>
+
+<p>My own take on it: I admit I&#8217;m deeply confused by why the information processes in my head would lead to my real subjective experience, but since I doubt that neurons have any essential properties that transistors lack, I have to conclude that software, in neuron or transistor form, can somehow lead to consciousness.  If there&#8217;s some other process beyond that, adding qualia on top of the information processing, then I think that would have to be a property of the universe itself, not neurons as such.</p>
+
+<p>What I&#8217;ve always wanted to ask Searle is this: what exactly is it that you think neurons are doing, physically, that transistors can&#8217;t do?  If I invented transistors that added that capability, could I build a consciousness out of them?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://plastic-sauce.blogspot.com">Chris</a>
+ on March 15, 2007 <a href="#c25" rel="bookmark">#</a></p>
+</div>
+<div id="c27">
+<p><a href="http://www.aaronsw.com/weblog/searle#c20" rel="nofollow">Seth writes</a>:</p>
+
+<blockquote>
+  <p>It&#8217;s like saying &#8220;an ice cube has some level of heat&#8221;. So you react &#8220;That&#8217;s crazy! An ice cube is cold, not hot!&#8221;. Would it sound crazy to say (a similar but not identical idea) &#8220;thermostats have some level of reaction to their environment&#8221;?</p>
+</blockquote>
+
+<p>Consciousness isn&#8217;t defined as level of reaction to the environment. Consciousness is defined as subjective first-person experience. I don&#8217;t think thermostats have subjective first-person experience. I do not think there is anything that it is like to be a thermostat.</p>
+
+<blockquote>
+  <p>&#8220;Huh? We&#8217;re assuming the theoretical possibility that building a computer program to solve the Turing Test is possible.&#8221;</p>
+  
+  <p>That&#8217;s right. ASSUMING! The point is that <em>assumption</em> itself is arguably circular or tautological.</p>
+</blockquote>
+
+<p>I don&#8217;t see the circularity. The argument is:</p>
+
+<ol>
+<li>Assume you built a program that passed the Turing Test.</li>
+<li>Then you could write it down in a book</li>
+<li>Then you could ask a man to follow it.</li>
+<li>Then the man could act as if he spoke Chinese.</li>
+<li>But we know he doesn&#8217;t.</li>
+<li>So the Turing Test is not a valid test of consciousness.</li>
+</ol>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on March 15, 2007 <a href="#c27" rel="bookmark">#</a></p>
+</div>
+<div id="c28">
+<p>You got more comment from this one than any previous!!</p>
+
+<p>Try one of Bucky&#8217;s faves: Korzybski. Science and Sanity was online, dunno if still there.</p>
+
+<p>Love.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.boobam.org">William Loughborough</a>
+ on March 15, 2007 <a href="#c28" rel="bookmark">#</a></p>
+</div>
+<div id="c29">
+<p>&#8220;Consciousness isn&#8217;t defined as level of reaction to the environment. Consciousness is defined as subjective first-person experience.&#8221;</p>
+
+<p>Then that&#8217;s using the &#8220;large amount&#8221; sense of the word. <em>In</em> <em>that</em> <em>sense</em> of the word - again, IN THAT SENSE OF THE WORD - I don&#8217;t think anyone would be claiming thermostats have consciousness. They might say that using a different sense of the word, one akin (though not identical) to &#8220;reaction to the environment&#8221;.</p>
+
+<p>I don&#8217;t see the circularity. The argument is:</p>
+
+<ol>
+<li>Assume you built a program that passed the Turing Test.</li>
+<li>Then you could write it down in a book</li>
+</ol>
+
+<h1>2 does not necessarily follow from #1, in a very deep reasons. A program which could pass the Turing Test might be too complex to &#8220;write it down in a book&#8221; in any practical sense. You can&#8217;t even &#8220;write it down in a book&#8221; in practice <em>all</em> the software that runs a modern computer operating system - that is, the source code is just too huge. Sure, you can start playing games, and say it&#8217;s a big, big, book with tiny, tiny, fonts, but then that is just saying it&#8217;s information.</h1>
+
+<ol>
+<li>Then you could ask a man to follow it.</li>
+</ol>
+
+<p>C&#8217;mon - you&#8217;ve debugged programs. You KNOW how complicated this is in practice.
+What does &#8220;follow it&#8221; <em>mean</em>? It just may mean &#8220;Create a process of such complexity that it&#8217;s a consciousnesses&#8221;.</p>
+
+<ol>
+<li>Then the man could act as if he spoke Chinese.</li>
+</ol>
+
+<p>And this is where we start getting circular. All 1-3 basically say, is that if consciousness is an information process, then following an information process acts like consciousness. That&#8217;s circular. What 1-3 <em>tries</em> to do is say information processes are trivial things, by using trivializing language by assumption - i.e. &#8220;write it down in a book&#8221; IMPLIES, emotionally, &#8220;trivial&#8221;. That&#8217;s where the linguistic artifacts come in.</p>
+
+<ol>
+<li>But we know he doesn&#8217;t.</li>
+</ol>
+
+<p>He doesn&#8217;t. The program does. Another way of phrasing 1-4 is &#8220;Assume we could build an artificial intelligence which passed the Turing Test in Chinese. Then a man could run that AI program and ask it something in Chinese, and it would answer in Chinese.&#8221;. Which is rather tautological.</p>
+
+<ol>
+<li>So the Turing Test is not a valid test of consciousness.</li>
+</ol>
+
+<p>Only because you hid an assumption of that in the first place, by implicitly describing the AI above as not consciousness.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://sethf.com/">Seth Finkelstein</a>
+ on March 15, 2007 <a href="#c29" rel="bookmark">#</a></p>
+</div>
+<div id="c30">
+<p>Or in a more straightforward manner than Seth.</p>
+
+<p>The Chinese Room assumes that the process of translating a language is an enumerable process, and hence describable in software on a Von-Neuman machine. Of course it isn&#8217;t, so it can&#8217;t be.</p>
+
+<p>The reality of both human language comprehension and translation of such is far more complicated, and consciousness, which is a requirement for doing either or both activities in a recognizably human fashion, will therefore not be expressible in a Von-Neuman machine architecture.</p>
+
+<p>Consciousness is not a counting problem, and can not be reduced to a counting problem. It is some other beast.</p>
+
+<p>You can take an aspect of the &#8220;thinking process&#8221; and reduce it to a counting problem, but you can not combine some number, or even an infinite number, of counting problems to create human recognizable thinking.</p>
+
+<p class="posted">posted by smacfarl
+ on March 15, 2007 <a href="#c30" rel="bookmark">#</a></p>
+</div>
+<div id="c31">
+<p>smacfarl:</p>
+
+<blockquote>
+  <p>Consciousness is not a counting problem, and can not be reduced to a counting problem.</p>
+</blockquote>
+
+<p>You can use a &#8216;counting&#8217;, Von Neumann machine to represent floating point numbers to any precision you like, and use those to simulate a brain complete with juices in the grey matter and the firing of neurons (go down to the molecules if you like). Of course no actual &#8216;man in a room&#8217; could give you an answer in his lifetime but it&#8217;s just a thought experiment. If this system represents a Chinese speaker&#8217;s brain and it&#8217;s a faithful reproduction I see no reason why it wouldn&#8217;t count as a consciousness. Don&#8217;t be mislead by the fact that its &#8216;life&#8217; would run very slowly; it won&#8217;t notice.</p>
+
+<p class="posted">posted by Mind's I Reader
+ on March 15, 2007 <a href="#c31" rel="bookmark">#</a></p>
+</div>
+<div id="c32">
+<p>As far as I can tell, Aaron is saying that consciousness is a physical thing that happens in brains. Our experience of consciousness is a physical characteristic of what working brains do. Something like that. In which case, a computer program might be able to perfectly model it, but it would not actually be the thing itself. A computer could perfectly model a rock, and tell you everything about the rock&#8217;s behavior, but that internal modelling would not be a rock.</p>
+
+<p>Of course, it is possible that consciousness is a physical thing.</p>
+
+<p>IMHO, However, whether it is true is not shown by the example of the Chinese room. It is also possible that the invisible dragon in my garage is a physical thing. Since we don&#8217;t as have any way of detecting the difference between this type of consciousness and a simulated consciousness, it&#8217;s a lot like saying that consciousness is an invisible, undetectable, dragon in your head.</p>
+
+<p>So, hopefully, Aaron can supply us with some reason that consciousness is a physical thing. Sorry if I&#8217;m acting obtuse.</p>
+
+<p>Also, the bulk of Searle&#8217;s description of consciousness as a &#8220;natural phenomenon natural phenomenon which developed through evolutionary processes and is caused by the actions of the brain&#8221; does not conflict at all with the functionalist&#8217;s Information Process idea of consciousness. The only part that conflicts is the idea that it is a physical thing.</p>
+
+<p>Prove that, and you won&#8217;t have to deal with this argument anymore.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.littleblur.com">Ben Donley</a>
+ on March 15, 2007 <a href="#c32" rel="bookmark">#</a></p>
+</div>
+<div id="c33">
+<p>Aaron,</p>
+
+<p>the neuroscience researchers, neurologists and psychiatrists define consciousness as level of response to the environment. Subjective self-awareness is a definition that <em>enables</em> circular arguments about consciousness. Its navel-gazing. If you want some mind-breaking logic, go do quantum physics or take a higher math class taught in the method of R. L. Moore. I&#8217;m sure somebody at Stanford or MIT is teaching one.</p>
+
+<p>The Summer of Code thing sounds fun and helpful,</p>
+
+<p>Niels</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://nielsolson.us/">Niels</a>
+ on March 16, 2007 <a href="#c33" rel="bookmark">#</a></p>
+</div>
+<div id="c34">
+<p>The blockhead argument seems very misleading to me.  Some reasons:</p>
+
+<ol>
+<li><p>You can&#8217;t build it in our universe, or in any universe remotely like ours.  (Even if the universe was big enough to contain the information required for blockhead, it wouldn&#8217;t be able to access it quickly enough to carry on the conversation without transmitting information faster than the speed of light.)  This isn&#8217;t a pedantic quibble - thought experiments are only useful when their premise can&#8217;t be ruled out entirely.  You&#8217;re claiming that the turing test is bad because we can build this obviously unconscious system that could pass it - but we <em>can&#8217;t</em> build it - not even close.</p></li>
+<li><p>Even if it could exist, you immediately run into a problem with your definition of &#8220;all possible&#8221; conversations.  Which conversations are possible and which aren&#8217;t?  Are you restricting it to conversations that would not be implausible to have with a mentally sound person?  Or does it include all conversations that are grammatic, even if they are completely non-linear?  If you choose the latter, it probably wouldn&#8217;t even seem conscious, if you choose the former, it is hard to see how you could build something like blockhead without creating an AI to build blockhead.  And that means that blockhead is just an expansion of all the possible ways that the state of that AI could evolve over the course of 30 minutes.  And here is where the slight-of-hand comes in: You know that people won&#8217;t intuitively agree that the AI can&#8217;t be conscious, since it is after all an AI.  So you try to trick them into calling an extremely inefficient representation of that AI unconscious, because it&#8217;s easy to say &#8220;a big list isn&#8217;t conscious&#8221; as long as you don&#8217;t stop and think about how big &#8220;big&#8221; is here.</p></li>
+<li><p>Ignoring the above point, a list of all possible conversations is not sufficient.  Conversations involve choices made by both parties - for example if I ask blockhead what its favorite color is, it can say &#8220;red&#8221; or &#8220;blue&#8221;.  What part of blockhead makes that choice?</p></li>
+</ol>
+
+<p class="posted">posted by 
+ on March 16, 2007 <a href="#c34" rel="bookmark">#</a></p>
+</div>
+<div id="c35">
+<p>I personally recommend Richard Rorty, who might show you that many of the words your have tried to throw around (e.g. ontology) are philosophical debris.</p>
+
+<p>The whole consciousness debate is ridiculous.  No reasonable definition is being presented.  You seem to take pleasure in using it in awkward contexts to show how great your (ill-defined) argument is.  This technique of argument is frequently know as &#8220;question begging&#8221;.</p>
+
+<p>As far as thinking about this problem in general though, I would recommend you abandon being a partisan in a tired debate and look at some current research in neuroscience.  fMRI has given us insight into the brain that simply wasn&#8217;t possible when Dennett and Searle got started on this debate.  Here&#8217;s one public exchange these two had twelve years ago:</p>
+
+<p>http://www.nybooks.com/articles/1680</p>
+
+<p>I really recommend try some of Peter Dayan&#8217;s paper&#8217;s on for size.  Not the easiest stuff to get started on, but you get discussion of the brain based on solid research, not Chinese false dichotomy.</p>
+
+<p>http://www.gatsby.ucl.ac.uk/~dayan/papers/index.html</p>
+
+<p>I&#8217;m not Dennett&#8217;s biggest fan, but he&#8217;s a clever guy who can be a pleasure to read.  You end your post looking like a glib Searle fanboy by charging that he is &#8220;insane.&#8221;  The Dennett you are refering to is what many in philosophy would call a &#8220;straw man&#8221; set up by Searle.</p>
+
+<p class="posted">posted by Jeremy Corbett
+ on March 16, 2007 <a href="#c35" rel="bookmark">#</a></p>
+</div>
+<div id="c36">
+<p>Blockhead is interesting. Assume that the inquisitor gets the first move and makes a statement. Assume I am the inquisitor and my first statement is X. Presumably Blockhead does a lookup in its &#8220;table of initial statements&#8221; and gives the corresponding response Y (ignore the fact that even this hypothetical &#8220;table of initial statements&#8221; may have more entries than the number of protons in the universe). After the end of the conversation another inquisitor comes along and starts a conversation with statement X. Blockhead of course does not know whether this inquisitor is me again or someone else. Say it is me and I again start with statement X - blockhead will respond again with Y, whereas a conscious being might well come up with a different response, eg &#8220;Hey, that&#8217;s weird, someone just asked me that&#8221;.</p>
+
+<p>If blockhead is only judged on one single conversation it can be deterministic and will always respond in exactly the same way. A concious being would not do that. This perhaps indicates a weakness of the Turing test.</p>
+
+<p>Imagine that Blockhead is going to be judged on multiple conversations, then I would say it could not pass itself off as conscious unless it keeps state from previous conversations. Imagine X is &#8220;How many conversations have you had?&#8221; If Y is
+&#8220;Ten&#8221; then I could respond by saying &#8220;But you said that last time I spoke to you, so it must be at least 11&#8221;. So Blockhead would have to respond with something like &#8220;What, you believe everything I say?&#8221; or &#8220;My memory is terrible&#8221;. So Blockhead&#8217;s lookup tables must be designed to be consistent with a being that keeps no state information between conversations. I would hesitate to refer to any such hypothetical being as conscious.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.zenatode.org.uk/ianji/">Ian Gregory</a>
+ on March 16, 2007 <a href="#c36" rel="bookmark">#</a></p>
+</div>
+<div id="c37">
+<p>The trouble with the Chinese Room is that is postulates that the room is possible to construct and then draws conclusions from that assumption. It&#8217;s as if I were to say &#8220;Suppose I presented you with a pig that could speak Hungarian, would you say that the pig was conscious or not?&#8221; My first reaction would be to say &#8220;show me the pig&#8221;. Somehow, people who would consider the idea of a Hungarian-speaking pig to be ludicrous are happy to accept the idea of a &#8220;Chinese-speaking room&#8221;.</p>
+
+<p>Let&#8217;s go with that assumption for a moment, though. Where did the data from the room come from? Well, of course it came from someone who could speak Chinese. Somehow we &#8220;compiled&#8221; details of all the knowledge of Chinese of that person into an instruction list for the room, in an analogy with a computer program.</p>
+
+<p>Let&#8217;s follow that analogy a bit. Instead of a &#8220;compiled&#8221; model, consider instead an &#8220;interpreted&#8221; model. In computer language terms these things are equivalent. Usually the only difference comes down to performance. Instead of pre-compiling the knowledge of the Chinese speaker, just put the speaker into the room and let him interpret the incoming messages and produce the output. Is there any doubt now where the consciousness of &#8220;the room&#8221; lies?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://blogs.gsl.com/dougclinton">Doug Clinton</a>
+ on March 16, 2007 <a href="#c37" rel="bookmark">#</a></p>
+</div>
+<div id="c38">
+<p>Let&#8217;s look at Blockhead, now. The definition says &#8220;It simply contains a list of all possible thirty minute conversations.&#8221;</p>
+
+<p>What proceess could be used to compile such a list. I would assert that there are only two ways that such a list could be generated. The first is to have a person or a number of persons sit around and think up all the different conversations and record them. The second would be to have a computer generate all 30-minute combinations of words and then have one or more people filter out the ones which are meaningless.</p>
+
+<p>Even if we assume that the set of conversations could practically be generated (i.e. not take longer than, say, the heat-death of the universe to compile), it is perfectly clear that the only way to generate the list for Blockhead to work on is to pass it through the mind of one or more conscious entities.</p>
+
+<p>Neither this post or my earlier one on the Chinese room actually say anything about what consciousness is or might be. They simply point out that the postulates of both the Chinese Room and Blockhead are invalid, so any questions or conclusions that might arise from those problems are invalid.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://blogs.gsl.com/dougclinton">Doug Clinton</a>
+ on March 16, 2007 <a href="#c38" rel="bookmark">#</a></p>
+</div>
+<div id="c39">
+<p>We don&#8217;t consider the cellphone to be concious because we know that what appears to be one person talking to a box is actually there are two people having a conversation in real time through a box.</p>
+
+<p>The instructions in the Chinese room are an asynchronous form of communication.  The outsider is having a conversation, asynchronously, with whoever wrote those instructions.  The person who wrote the instructions presubably understands Chinese.</p>
+
+<p>The same is true of computer programs.  The user is having a delayed, anticipated conversation with the programmer.</p>
+
+<p>You can play all sorts of tricks to make devices seem alive (Tickle-Me-Elmo), but if you consider these tricks to simply be asynchronous communication all the deep philosophical moments go away.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://hexane.org">Patrick May</a>
+ on March 20, 2007 <a href="#c39" rel="bookmark">#</a></p>
+</div>
+<div id="c40">
+<p>&#8220;the postulates of both the Chinese Room and Blockhead are invalid&#8221;</p>
+
+<p>Exactly.  If you can assume anything then you can prove anything.</p>
+
+<p class="posted">posted by David S.
+ on March 28, 2007 <a href="#c40" rel="bookmark">#</a></p>
+</div>
+<div id="c41">
+<p>So, do you believe that the Church-Turing thesis is false, or that consciousness (whatever that may be) is not a computable function? Or some alternative that I have failed to list - as far as I can see those are the only possible conclusions to accepting the Chinese Room argument.</p>
+
+<p>For the purposes of this question let&#8217;s assume the quantum version of the Church-Turing thesis, though I&#8217;m doubtful that quantum effects play a role in the brain (always felt rather dubious about Penrose&#8217;s arguments about that).</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.randombit.net">Jack</a>
+ on April  6, 2007 <a href="#c41" rel="bookmark">#</a></p>
+</div>
+<div id="c44">
+<p>Why do you need to bring aliens into the picture? For the subjective experience you refer to as &#8220;seeing red&#8221;, other humans can&#8217;t experience it either. Imagine aliens that have the technology to take human eyes and incorporate them into their own anatomies. Does that give them the ability to have the same subjective experience as humans?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.klipstar.com">EKoL</a>
+ on August  4, 2007 <a href="#c44" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="searle" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

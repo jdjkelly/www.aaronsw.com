@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>The Logic of Google Ads (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>The Logic of Google Ads</h1>
+
+<p>When should you buy ads? Let&#8217;s assume your goal is for people to click on the ads and give you money. (Reasons this may not be true: persuasion, brand-building, budget-maximizing.) The return from a block of ads is thus revenue - marginal_costs - ad_costs. Ads are an investment like any other; you keep buying them until your return on investment (revenue - marginal_costs / ad_costs) equals your cost of capital (usually the interest rate).</p>
+
+<p>For simplicity, we&#8217;ll assume your marginal cost is zero. (My marginal cost is almost always zero, so this doesn&#8217;t strike me as too unrealistic.) So how do you estimate revenue? You can track how much money people who click on your ad give you, but this has two flaws. First, customers often give you more money over time. Maybe they buy level one of your video game when they click on the ad, but then they may buy levels two and three the next day after they beat level one. The future is always in the future, so revenue-per-user numbers may be too small.</p>
+
+<p>Second, they might have given you money anyway. Your video game ads probably run on video game review sites, where readers might buy your game just from the review, even if you hadn&#8217;t bought an ad. So your revenue numbers may be too big.</p>
+
+<p>But these problems aren&#8217;t so serious. In the first case, the worst that happens is you don&#8217;t buy as many ads as you should. In the second, you don&#8217;t actually lose money, it&#8217;s just that some extra profit you could have kept has gone into ads.</p>
+
+<hr />
+
+<p>Let&#8217;s turn to the ad seller. They probably want to maximize how much they charge per ad impression (CPM). (Reasons this may not be true: unseemly ads.) A good way to do this is to hold an auction. It&#8217;s impractical to have everyone bid live, so Google auctions work like eBay auctions: you enter the maximum you&#8217;re willing to pay and get charged just enough to beat the other bidders. (One can think of this as a computer-simulated auction where everyone keeps bidding up the price by pennies until they hit the maximum they&#8217;re willing to spend.)</p>
+
+<p>But what are you bidding on? Ad sellers want to maximize revenue per impression, but ad buyers want to maximize profit per expense. In an ideal world, ad sellers auction off impressions (this is <a href="https://www.google.com/support/admanager/publisher/bin/answer.py?answer=79210">what Google Ad Manager does</a>) while ad buyers bid per dollar of profit (entering their cost of capital).</p>
+
+<p>Determining how much profit you make from an ad is hard. Can we just trust you? Let&#8217;s say you make $2 in profit per 1000 impressions and everyone else makes $1. Now you can lie and say you make $1 in profit and then pay twice as much per profit-dollar. Now you pay the same amount as before, but you win all the profit-dollar auctions. Now that&#8217;s not wrong &#8212; you&#8217;re clearly making more money than the other bidders, so you should win &#8212; but your bid isn&#8217;t cost-per-profit anymore, it&#8217;s cost-per-impression.</p>
+
+<p>What if you paid based on revenue? Verifying revenue is difficult, but Google could do it if everyone was using Google Checkout. (If you sent some of your users to a non-Google Checkout system, Google could catch you and fine you.) Google offers <a href="http://checkout.google.com/seller/sales.html">nicer ads</a> to Checkout users, but they still don&#8217;t have much market share, making this system impractical at present.</p>
+
+<p>Some search engines apparently had cost-per-action (CPA) auctions, where you paid based on how many people actually bought things. I have no idea how they made that work, since lying about how many people took an action seems really profitable and easy. Maybe that&#8217;s why no one does this anymore.</p>
+
+<p>That just leaves cost-per-click (CPC). Cost-per-click seems ideal, since it&#8217;s verifiable by both the ad seller (who uses a redirect link to track clicks) and the ad buyer (who sees the users show up on their page). It&#8217;s a nice half-way point between buyer and seller.</p>
+
+<p>So the ad seller holds an auction for CPC and multiplies CPC by click-thru-rate (CTR) to calculate CPM. They shows the highest CPM ads, charging each the bidder below them&#8217;s CPC, times their relative CTRs. (In reality, Google doesn&#8217;t just use CTR; they also factor in the relevance of the ad and the quality of the page it goes to.) And, voila: we&#8217;ve derived the basics of an online ad system.</p>
+
+<hr />
+
+<p>This works out great for the ad seller &#8212; they maximize CPM, just like they wanted &#8212; but the ad buyer is still stuck converting their ROI into CPC. The ad buyer, recall, wants to increase their spending on ads (now determined to be CPC) until their return on investment equals their cost of capital.</p>
+
+<p>It seems like this should be pretty easy, and indeed Google does provide <a href="http://www.google.com/adwords/learningcenter/text/19390.html">tools to calculate ROI</a>, but apparently not to optimize it. What they do provide is <a href="http://www.google.com/adwords/conversionoptimizer/">a tool</a> to optimize your cost-per-action.  <strong>Does anyone know why this is?</strong></p>
+
+<p>It seems like an automatic ROI optimizer would lead many people to spend more money on ads. It&#8217;s hard to believe Google is leaving all that money on the table.</p>
+
+<p>But Google does intelligently optimize the ads themselves. The variance in click-thru rates between different ads is huge &#8212; it&#8217;s not uncommon to see two very similar ads, but one gets ten times as many clicks as the others. Google lets you put in as many ads as you like and <a href="http://adwords.google.com/support/aw/bin/answer.py?answer=112876">automatically rotates them</a>, showing ads with better CTRs more often.</p>
+
+<hr />
+
+<p>So far we&#8217;ve just had a single ad seller. In the real world, lots of people want to sell ads and lots of people want to buy them. How do you match them up?</p>
+
+<p>One option is make the buyer choose. This is how Google Search works: Google holds an auction for each search query and buyers pick which ones they want to compete in. Another is to group related websites together and run ads evenly across all of them. This is how most smaller ad networks work. And then there&#8217;s AdSense. AdSense scans a page for relevant keywords, then runs the Google Search ads that won auctions for those keywords.</p>
+
+<p>Google also knows a lot about ad <em>viewers</em>. By tracking what web pages you visit, they know <a href="http://www.google.com/ads/preferences">what topics you&#8217;re interested in</a>. I&#8217;m apparently interested in Unix, the environment, elections, government, and social science, so Google prefers to show ads on those subjects to me.</p>
+
+<p><strong>But there&#8217;s another way to think about ad matching:</strong> as a giant optimization problem. Which combinations of user, ad placement, and advertisement optimize click-thru rates (or, ultimately, ROI)?</p>
+
+<p>For each of these, there are lots of variables. For each user, you know their history, geographical location, computer (browser, operating system, screen size), ISP, etc. For each ad placement, you know time of day, hosting website,  page content, etc. And for each ad, there are numerous possible variations in phrasing and design that can be tested, as mentioned before.</p>
+
+<p>The possible combinations are infinite. You can&#8217;t test all of them, so you need to come up with ones that are plausible. You can look at which combinations worked in the past: has this ad done significantly better in some cities than others, or at some times than others? And you can look for patterns across ads: do ads that do well on CNN also do well on MSNBC? These hypotheses can then be tested and, if they work, you start running ads more there.</p>
+
+<p>Netflix claims they&#8217;ve made millions from slight improvements in their movie recommendations.<sup id="fnref:n"><a href="#fn:n" rel="footnote">1</a></sup> When they offered a prize for more, researchers found thousands of tiny patterns and came up with all sorts of innovative algorithms to try to get an edge. After 32 months, researchers doubled the algorithm&#8217;s effectiveness.</p>
+
+<p>Imagine how much more is at stake for Google. Last year, they received $21 <em>billion</em> in ad revenue, of which 60% was apparently profit. Even tiny improvements would be worth the highest salaries &#8212; a 0.004% improvement would make $500,000. Doubling it would create unspeakable wealth.</p>
+
+<p>Yet Google has no contest for improving ad click-thru rates. Indeed, press reports suggest they don&#8217;t even have an internal team working on it. The AdWords user-interface (recently redesigned from jaw-droppingly wretched to just wretched) would seem to suggest they don&#8217;t do this kind of optimization at all. Their blog asks people to <a href="http://adwords.blogspot.com/2008/09/where-are-your-clicks-coming-from.html">optimize things manually</a>. No doubt there are some things humans (even ad purchase reps) can do better than computers, but surely there&#8217;s a lot more they can do together &#8212; with humans giving the machine additional hints and hypotheses to test. But there doesn&#8217;t seem to be anything like that.</p>
+
+<p>It&#8217;s hard to believe this is true. It&#8217;s hard to believe this can last.</p>
+
+<hr />
+
+<p>Google&#8217;s chief economist <a href="http://googleblog.blogspot.com/2008/02/our-secret-sauce.html">claims</a> that Google&#8217;s sewn up the ad market by being better than everyone else. What if you made an ad network that was better than Google?</p>
+
+<p>Right now Google takes a 20% cut of every auction price. What if you were willing to take just 10%? You could give ad sellers a slightly higher CPM &#8212; they&#8217;d gladly run your ads when they paid more and Google&#8217;s the rest of the time. Then you can offer ad buyers a slightly lower CPC. As long as the money people made was more than the cost of setting things up, they&#8217;d switch. I&#8217;m actually not sure why this hasn&#8217;t happened.</p>
+
+<p>Now imagine that you were a genius CS student who could come up with a better ad optimization algorithm. Your system would have a higher overall CTR, since it presented users with better ads. This means that, again, you can pay higher CPMs (since more people click per impression). And you can redirect some of the money you would spend on higher CPMs into lower CPCs, to attract advertisers.</p>
+
+<p>But to develop the algorithms and do the optimization you need the data. Lots of it &#8212; lots of users, lots of advertisers, lots of ad spots. No startup will ever have that; it&#8217;s only left to Google (or whichever giant eventually replaces them).</p>
+
+<p>I&#8217;m not normally one to be too concerned about improving Google&#8217;s bottom line (they seem to be doing alright), but as an ad buyer I&#8217;m frustrated I have to do this work myself. I&#8217;d rather solve the problem for everyone. And if Google wants to pay me for that, I certainly wouldn&#8217;t mind.</p>
+
+<div class="footnotes">
+<hr />
+<ol>
+
+<li id="fn:n">
+<p>It&#8217;s weird that Netflix is so much more interested in this than, say, Amazon. Amazon makes money on every sale, whereas Netflix loses money every time they send a DVD out. Netflix claims they make up for this in higher customer retention rates, but why didn&#8217;t Amazon think of this first?&#160;<a href="#fnref:n" rev="footnote">&#8617;</a></p>
+</li>
+
+</ol>
+</div>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">November  3, 2009</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>I don&#8217;t really understand what you mean by saying that Google doesn&#8217;t try to optimize click through rates. That&#8217;s why it considers historical CTR as part of the auction process. And I&#8217;m sure many other user/placement-specific factors go in to determining which ads to show for a particular query or web page. You seem to be saying is that Google should come up with new ads or keywords for the publishers or automating it to the point that they don&#8217;t have to do that stuff anymore? They already do actually do all of the above things. Incidentally, I believe CPA is in use on Google but that you have to be a trusted advertiser before you can use it :).</p>
+
+<p class="posted">posted by Anon
+ on November  3, 2009 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>I think Google&#8217;s reasoning behind manual ad creation and keyword choice is very justifiable. It&#8217;s this ideology that has created the competitive enviorment that allows all bussineses (not just the ones with big pockets) to be able to build a competitive edge.  It&#8217;s part of their philosophy and it&#8217;s what has made them so succesful.  Yahoo attempted this and they got baught out.  Another important notion is the fact that no computer or computerized data (currently) is capable of understanding and producing ads better than a business that has the creativity and motivation to succeed. I also advertise with Google and have found that ideology to be very successful for me.</p>
+
+<p class="posted">posted by Zohrab
+ on November  4, 2009 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>Just to be clear, the winning bidder pays the second highest bid + 1 cent (this is to avoid winner&#8217;s curse) (it&#8217;s also more complicated due to Google showing multiple ads etc., etc.).</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://friism.com/">friism</a>
+ on November  4, 2009 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>A great post and lots of valid points. I don&#8217;t doubt that if a better system were to be made though that it could still eclipse google. After all they once were just a few blokes in a lucky situation. Certainly it remains a wild west in a lot of respects and with the billions poured in each year you would think a few million would go into the ultimate ad matching system (not that Googles system is BAD BAD at this.) The talk of Niche and long tail in recent years proved that theres still a ton of juice left further down the tail and now people are targeting better. I think in the end Google thought of a good format and its making them so much they probably don&#8217;t want to touch it, because $21 billion is still $21 billion. I wouldn&#8217;t be suprised if they push newer / seperate options as it could be a more sensible progression for THEM.</p>
+
+<p>This of course is not what us end user display buyers and sellers want but thats life!</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://blog.woodylabs.com">Woody</a>
+ on November  4, 2009 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="adlogic" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

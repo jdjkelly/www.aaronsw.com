@@ -1,0 +1,63 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>miller reminds you to think when you link (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000463" title="you can&#8217;t handle the x-height!" />	<link rel="next" href="000466" title="A Contrarian View of Open Source" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>miller reminds you to think when you link</h1>
+</div>
+
+<div class="content">
+<p><a href="http://www.aaronsw.com/2002/toasterTinkers">The Toaster Tinkers <em>or</em> What&#8217;s Wrong With Proprietary Software</a> is an article I wrote about the analogy between software hackers and mechanical tinkerers. Something RMS said at OSCON made me realize that physical things were a good metaphor for the free software movement. In the physical world, things are almost always open for inspection, but we lost this with computers. This is clearly extremely valuable and it&#8217;s the goal of the free software movement to win it back.</p>
+
+<p>It&#8217;s a little odd that the Open Source Intiative comes up first when you <a href="http://www.google.com/search?q=free%20software%20movement">search Google for free software movement</a>.</p>
+
+<p>Casey West: <a href="http://www.oreillynet.com/lpt/a/2594">HighWLAN: A Driving Wireless Network</a>. &#8220;I was on a mission. Create the first documented case of 802.11b networking at 85, scratch that, 65 mph. The most important goal of this project was to create a usable, local network between multiple vehicles.&#8221; Yes, the Perl people are this crazy.</p>
+
+<p>Neat, <a href="http://www.math.columbia.edu/~bayer/">Dave Bayer, the math advisor for A Beautiful Mind</a> was <a href="http://markBernstein.org/Aug0201.html#note_19171">Mark Bernstein&#8217;s roomate</a>. There was <a href="http://www.newyorker.com/printable/?talk/020311ta_talk_eskin">a great article about him in the New Yorker</a>. [Thanks to <a href="http://www.spielberg-dreamworks.com/gladbb/showthread.php?threadid=5049&pagenumber=40">Dreamworks SKG Fansite Gladiator</a> for the link.]</p>
+
+<p><a href="http://www.dontlink.com/">Don&#8217;t link to us!</a> is a weblog that catalogs stupid linking policies. It&#8217;s scary how many there are.</p>
+
+<p>David P. Reed: <a href="http://satn.org/archive/2002_07_28_archive.html#85310732">NSA Blocked Internet Crypto</a>. &#8220;The NSA itself, in 1976-77, blocked a fully worked out end-to-end encryption approach created at MIT for TCP.&#8221;</p>
+
+<p>Wired News: <a href="http://www.wired.com/news/print/0,1294,54304,00.html">Women of Defcon</a>. &#8220;Flash a bit of nip at a Defcon vendor and you can basically get whatever you want for free. I think it&#8217;s so weird that some chicks have a problem with that.&#8221; &#8220;You have to prove you have coding skills every time you meet a new person at Defcon. Eventually, attending these shows just became a major effort for me, so I don&#8217;t go any more. I know a lot of women who feel the same way.&#8221;</p>
+
+<p>Mac OS X users: Security Update 2002-08-02 is out. Includes Apache, OpenSSH, OpenSSL, mod_ssl, SunRPC.</p>
+
+<p>I got the <a href="http://www.petemoss.com/spamflames/ShifmanIsAMoronSpammer.html">Bernard Shifman</a> spam today.</p>
+
+<p>A fun game: one person closes their eyes, the other runs around. The first tries to follow. Everything looks so different when you&#8217;re blind.</p>
+
+<p>I came up with two pieces last night, need to write them. I think people will find them interesting.</p>
+
+<p class="posted">posted August 03, 2002 09:20 PM (<a class="category" href="cat_others">Others</a>)  <a href="000465" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000463" title="you can&#8217;t handle the x-height!">&laquo; prev</a> | <a href="./">up</a> | <a href="000466" title="A Contrarian View of Open Source">next &raquo;</a></p>
+
+<p><a href="000456">i love it when a plan comes together</a><br />
+<a href="000457">is it rabbittime already?</a><br />
+<a href="000459">rabbit, rabbit</a><br />
+<a href="000461">today&#8217;s featured superhero: D. J. Bernstein</a><br />
+<a href="000463">you can&#8217;t handle the x-height!</a><br />
+<strong>miller reminds you to think when you link</strong><br />
+<a href="000466">A Contrarian View of Open Source</a><br />
+<a href="000467">Janis Ian on Free Downloads</a><br />
+<a href="000468">MonkeyFist Week in Review</a><br />
+<a href="000470">Standards and the Law</a><br />
+<a href="000472">Ethics By Analogy</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

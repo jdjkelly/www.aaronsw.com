@@ -1,0 +1,361 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>That Isn't Science! (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>That Isn&#8217;t Science!</h1>
+
+<p>Larry Wall once noted that the scientificness of a field is inversely correlated to how much the word &#8220;science&#8221; appears in its name. Physics, of course, doesn&#8217;t have science in the name and is the most scientific of all sciences. Then comes biology and and ethology and so on. Then come the non-sciences like Computer Science and Poultry Science. And worst of all is Scientology.</p>
+
+<p>In general, whenever someone tells you that &#8220;science&#8221; has decreed that you should do one thing or another that doesn&#8217;t seem reasonable, it&#8217;s probably because they&#8217;re trying to pull one over on you, whether it&#8217;s the &#8220;scientific&#8221; medicines you see on late-night TV or the science of the behaviorists who say you shouldn&#8217;t love your kids.</p>
+
+<p>But nowhere is this more evident than when people try to tell you what science itself is. This field of meta-science seems to attract more charlatans and malintents than any other. If you control how the very notion of what&#8217;s scientific is defined &#8212; well, then that&#8217;s real power. Even if the very idea is patently absurd. (A real scientist would never tell you that doing X isn&#8217;t really science; their goal is to get the truth, not sit around making rules about who&#8217;s in and who&#8217;s out.)</p>
+
+<p>For much of the outside world, the test for a real science is &#8220;falsifiability&#8221; &#8212; the possibility that there could be evidence proving the claim wrong. This notion was invented by Karl Popper, who was himself <a href="http://www.geocities.com/Krishna_kunchith/dcs/popper/popper.html">an enemy of science</a> who tried to insist that science never actually made any progress, that we never learned anything more about the world.</p>
+
+<p>But even if we put aside this noxious pedigree, Popper&#8217;s definition is still absurd. Take the distinction between astronomy and astrology. We would all agree, I think, that the first is a science but the second isn&#8217;t. But both of their predictions are equally falsifiable &#8212; astrology makes a dozen falsifiable predictions in the newspaper five times a week. Popper&#8217;s criteria isn&#8217;t of much help to us, even on such a basic case.</p>
+
+<p>Sadly, like many American intellectuals, the Supreme Court assumed that falsifiability was a standard scientific test. In the <em>Daubert</em> case it, <a href="http://www.prospect.org/web/page.ww?section=root&amp;name=ViewWeb&amp;articleId=10061">as Chris Mooney summarizes the view of the <em>American Journal of Public Health</em></a>, &#8220;blundered miserably&#8221; and set judges the task of using this &#8220;deeply confused philosophy of science&#8221; to act as gatekeepers in keeping scientific claims from juries. Actual scientists like <a href="http://defendingscience.org/">DefendingScience.org</a> is working to undo this these mistakes, but you wouldn&#8217;t know it from the rhetoric &#8212; after all, <em>Daubert</em>&#8217;s defenders claim their just trying to uphold sound scientific standards. (Chris Mooney&#8217;s book <em>The Republican War on Science</em>, among others, has a fascinating exposé of the junk science/sound science notions cooked up by the PR industry to trash actual science. But that&#8217;s another subject.)</p>
+
+<p>What are the real effects, though? Daubert was a parent whose child was born with birth defects they believed were caused by the drug Benedictin which, in animal studies, appeared to cause the defects they were suffering. By making it harder for science to be presented in Court, these kinds of rulings make it easier for drug companies to claim there&#8217;s no &#8220;sound science&#8221; that they&#8217;re hurting anyone.</p>
+
+<p>America isn&#8217;t alone, however. In Britain a group supporting what they call &#8220;evidence-based medicine&#8221; is trying to tighten restrictions on what experiments can be examined when approving drugs. Evidence-based medicine? Who could be against that! But again, they&#8217;re playing the same games. Behind evidence-based science are a bunch of very bizarre claims about what science is and isn&#8217;t, taken not from doctors or scientists, but from econometricians (the subspecialty of economics that has to do with calculating things), which have quite a few problems of their own when it comes to the subject of evidence.</p>
+
+<p>Under &#8220;evidence-based medicine&#8221; rules, doctors aren&#8217;t allowed to prescribe drugs on the basis of case studies and other reports; instead, the only real evidence are large double-blind random controlled trials whose results have a less than 5% probability of being due to chance. (Why 5%? No good reason. But according to the EBM people anything more than that isn&#8217;t evidence.)</p>
+
+<p>Again, you have the same negative effects: when someone tries to claim in court that a certain drug destroyed their life, the drug company can claim that there&#8217;s no &#8220;evidence&#8221; to support this if the studies just happen to be 94% likely instead of 95%, or if there&#8217;s only a series of case studies instead of a controlled trial.</p>
+
+<p>This isn&#8217;t evidence, this isn&#8217;t rationality, this isn&#8217;t science. Science is about trying to get the truth about the world, using whatever mechanisms are most effective at the job, whether you&#8217;re studying the nature of planets in space or the nature of other cultures. When someone tells you otherwise, tries to insist that technique X or subject Y doesn&#8217;t deserve the name science, it&#8217;s probably because they&#8217;re trying to pull a fast one on you.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">October 18, 2006</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<blockquote>(Why 5%? No good reason. But according to the EBM people anything more than that isn&#8217;t evidence.)</blockquote>
+
+<p>The 5% cutoff for finding statistically significant results is a standard in statistics.  So they aren&#8217;t just making that up.  It goes all the way back to <a href="http://en.wikipedia.org/wiki/Ronald_Fisher" rel="nofollow">R.A. Fisher</a>. Of course, he was just making it up. :-)</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.crhalpin.org/">crh</a>
+ on October 23, 2006 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>crh: That&#8217;s what I meant.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on October 23, 2006 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>I&#8217;m amused by the use of statistics in determining exactly what&#8217;s true or not when the intro to statistics book I&#8217;m reading explains that statistics will never tell you that. They will only tell you things like to what degree the data fits a hypothesis. Statistics is such an abused and misunderstood area of mathematics that I would say that anyone who isn&#8217;t a professional statistician is 89% likely +/- 4% to be wrong about it. The book I&#8217;m reading also explains how sometimes you just can&#8217;t do tests like the ones they suggest. How do you do a double blind test of the effectiveness of birth control pills on human beings ethically?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://obfuscated.net">Michael Conlen</a>
+ on October 23, 2006 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>Econometrics studies the measurement of things (in particular of random variables). Nothing to do with calculating, for calculating algebra is just fine.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://econgeek.blogspot.com">econgeek</a>
+ on October 23, 2006 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>&lt;</p>
+
+<p>p>Aaron: can you provide a link or a reference where I can find a list of these &#8216;evidence-based medicine&#8217; rules? I&#8217;d like to look</p>
+
+<p>&lt;</p>
+
+<p>p>From my reading of what you paraphrase, it sounds like they&#8217;re only saying &#8220;experiments used to evaluate the efficacy of medicines must follow a given set of statisitcal best practices&#8221;. To me that seems a fairly reasonable thing to do.  But before I continue to rant about this, I&#8217;d like to read the same rules you refer to, so that we&#8217;ll be discussing the same thing.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.crhalpin.org/">crh</a>
+ on October 23, 2006 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c6">
+<p>&lt;</p>
+
+<p>p>Aaron: To respond to your two-word email,
+&lt;a href=&#8221;http://en.wikipedia.org/wiki/Evidence-Based_Medicine&#8221;</p>
+
+<blockquote>
+  <p>I did try wikipedia</p></blockquote>.  It doesn&#8217;t say what you&#8217;re saying about EBM.
+
+
+<p>&lt;</p>
+
+<p>p>In particular, it does not say that the only acceptable evidence under EBM are well-designed experiments.</p>
+
+<p>&lt;</p>
+
+<p>p>Three separate sets of criteria for &#8220;Levels of Evidence&#8221; are present. Two of the three accept &#8220;expert opinion&#8221; (eg. what your doctor thinks) as a form of evidence, but say that it&#8217;s a weaker form than double-blind randomized trials. This seems reasonable. Nothing on wikipedia&#8217;s EBM page mentions the 5% cutoff for significance.</p>
+
+<p>&lt;</p>
+
+<p>p>Is wikipedia&#8217;s EBM page more moderate than the general EBM population?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.crhalpin.org/">crh</a>
+ on October 24, 2006 <a href="#c6" rel="bookmark">#</a></p>
+</div>
+<div id="c7">
+<p>&#8220;A real scientist would never tell you that doing X isn&#8217;t really science; their goal is to get the truth, not sit around making rules about who&#8217;s in and who&#8217;s out.&#8221;</p>
+
+<p>This claim is absurd. Real scientists tell you that doing X is or is not science all the time. In the US, biologists fight creationism. Scientists write books about pseudoscience or junk science and why it&#8217;s not science. Richard Dawkins has a new bestseller out on why religion is incompatible with science.</p>
+
+<p>There is no contradiction between getting the truth and making rules about what (and who) is in and what&#8217;s out as methodology goes for reaching that goal; the latter helps the former.</p>
+
+<p>It&#8217;s also absurd to say that just because you can falsify an astrological prediction in a local paper, Popper&#8217;s falsifiability criterion is thereby refuted. Popper advanced the falsifiability criterion as a necessary condition for a scientific theory, not a sufficient one. I can make all sorts of falsifiable predictions (for example, which of my friends are going to marry or divorce over the next few years), and it wouldn&#8217;t mean that I&#8217;m basing them on a scientific theory.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.lovestwell.org">Anatoly</a>
+ on October 24, 2006 <a href="#c7" rel="bookmark">#</a></p>
+</div>
+<div id="c8">
+<p>Creationism, psuedoscience, and junk science are claims, not methodologies.</p>
+
+<p>And can you think of anything useful that falsifiability does?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on October 24, 2006 <a href="#c8" rel="bookmark">#</a></p>
+</div>
+<div id="c9">
+<p>I disagree with your point about astrology.</p>
+
+<p>The whole reason people believe in astrology is not because they believe in the &#8220;theoretical underpinnings&#8221; of it.</p>
+
+<p>They believe because the predictions are sufficiently vague that they apply to everybody all the time.</p>
+
+<p>I&#8217;ve heard a story about a prof who hands out personalized astrology readings to everybody in their class, and then has them rate how accurate the prediction is. Most people rate the predictions fairly highly.</p>
+
+<p>He then reveals that everybody has the same prediction.</p>
+
+<p class="posted">posted by Eric Gunnerson
+ on October 24, 2006 <a href="#c9" rel="bookmark">#</a></p>
+</div>
+<div id="c10">
+<p>Creationism isn&#8217;t simply a claim, it&#8217;s a movement. It has its own methodology, its own &#8220;researchers&#8221;, its own journals. Its methodology provides one of the main lines of attack scientists use when they argue that creationism isn&#8217;t science, and falsifiability - or lack thereof in creationalist methodology - happens to be one of the primary arguments they use. For example, the claim that God created Earth 6k years ago - but did it with all the exact evidence that seems to show it&#8217;s much older (with fossils already in the ground, etc.) - is internally consistent. It is, however, unfalsifiable and therefore arguably unscientific.</p>
+
+<p>Falsifiability is used all the time. There&#8217;s a current debate about string theory in physics with two books out, by Peter Woit and Lee Smolin, arguing that string theory never made good on its promise to deliver testable predictions. You can&#8217;t have a testable prediction if the theory&#8217;s unfalsifiable.</p>
+
+<p>Falsifiability is one of the arguments that were used to show that Marxism and Freudian psychoanalysis are pseudoscience and not science. Both claimed to be scienctific, both convinced many people (including real scientists). Popper, whom you glibly and absurdly condemn as &#8220;an enemy of science&#8221;, was the first to realise that psychoanalysis was flexible enough to explain any behaviour whatsoever, and therefore didn&#8217;t really explain anything. Marxism as a real economic theory could be and was falsified, but as actually practiced by Marxists it was unfalsifiable.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.lovestwell.org">Anatoly</a>
+ on October 24, 2006 <a href="#c10" rel="bookmark">#</a></p>
+</div>
+<div id="c11">
+
+
+<p class="posted">posted by 
+ on October 24, 2006 <a href="#c11" rel="bookmark">#</a></p>
+</div>
+<div id="c12">
+<p>&#8220;Larry Wall once noted that the scientificness of a field is inversely correlated to how much the word &#8220;science&#8221; appears in its name.&#8221;</p>
+
+<p>This is ludicrous. Is Islam more scientific than computing science? And what about Chemistry and Christianity? Neither of them have &#8216;science&#8217; in the name. Do we thus conclude that their status is equal? If Physics was renamed Phyiscal Science tomorrow would it lose its &#8216;scientificness&#8217;? If Scientology became Hubbardology would it increase in &#8216;scientificness&#8217;?</p>
+
+<p>The reason why older sciences like Physics do not have the word science in their name is simple - when they were born, centuries ago, the notion of science had not yet been clearly articulated (Indeed the more modern meaning of the word science dates back to only the early 17th century).</p>
+
+<p>The name &#8216;computing science&#8217; is appropriate as the word &#8216;computing&#8217; denotes an awful lot of activities not all of which can be described as scientific.</p>
+
+<p>Whether or not a field is scientific can be determined only by the nature of its activity and not simply by its name.</p>
+
+<p class="posted">posted by Eric
+ on October 24, 2006 <a href="#c12" rel="bookmark">#</a></p>
+</div>
+<div id="c13">
+<p>It&#8217;s called a joke.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on October 25, 2006 <a href="#c13" rel="bookmark">#</a></p>
+</div>
+<div id="c14">
+<p>Falsifiability is a necessary but by no means sufficient condition for something to be scientific. It seems to me that it is not only a question of whether a field states falsifiable proposition that makes it a science. It also depends on whether someone actually bothers to falsify these propositions which is probably not the case for astrology.</p>
+
+<p>And I don&#8217;t get your point about scientists using whatever methods will get them to the truth at all. If the method is such that you will not be able to tell truth from falsehood, then what good does it do you?</p>
+
+<p class="posted">posted by Tobias
+ on October 25, 2006 <a href="#c14" rel="bookmark">#</a></p>
+</div>
+<div id="c15">
+<p>For a similar article that makes a run at double blind experiments and how testing takes place nowadays and has more compelling and coherent points to make, read <a href="http://naturalscience.com/ns/articles/01-15/ns_leavitt.html" rel="nofollow">this article</a>.  However, while that article also tries to drive in a similar direction, I&#8217;m not sure he ever gets there.  Yes, there are huge problems with the way many experiments are done, but he&#8217;s largely arguing that double-blind experiments are not executed well, rather than arguing against the concept.  I think there&#8217;s scope for other types of scientific experiments that take into account the ethical problems that human experiments can have.  For example, once double-blind experiments are done and something has been released to the public, why aren&#8217;t all uses of the drug tracked and any adverse affects immediately noted?  Why did more than 25,000 people have to have heart attacks before the drug Vioxx was finally pulled?</p>
+
+<p>Your attack on falsifiability is ridiculous, Aaron.  As Eric points out, astrology is actually not falsifiable most of the time because the predictions are designed to be vague, &#8220;Something good will happen to you this week.&#8221;  And what does it matter if the number chosen for statistics is 5%?  It&#8217;s like arguing that there should be no blood alcohol limit for drunk drivers because 0.08 is an arbitrary number.  If you have a case for it being higher or lower or would like to use better statistical methods, fine, make your point.  But to use anecdotal evidence of one person who has a problem and to point to genuinely murky scientific results like animal tests (animal tests sometimes predict what happens to humans and sometimes don&#8217;t) is not much of an argument.  Double blind tests are the best methods we have come up with to tell when something is working or when it isn&#8217;t.  When you argue against them, YOU are in fact arguing against science and rationality, especially if your only argument is that 5% is an arbitrary cutoff.</p>
+
+<p>I do agree with you that these double blind experiments may be misused if people say that they prove that Benedictin doesn&#8217;t cause birth defects.  However, they are right about a weaker but still relevant point: the experiments do show that we do not know what caused the problems and it is unlikely that it was this drug (assuming they ran their experiments properly, as detailed in the first link).</p>
+
+<p>Finally, I agree that econometrics has many problems, though I haven&#8217;t looked into the matter very deeply.  However, the same econometric mathematical models are used by the global warming crowd to reach their doomsday predictions (links: 
+<a href="http://econlog.econlib.org/archives/2006/04/scientific_cons_1.html" rel="nofollow">1</a>, 
+<a href="http://econlog.econlib.org/archives/2006/04/climate_science.html" rel="nofollow">2</a>, 
+<a href="http://econlog.econlib.org/archives/2006/06/global_warming_5.html" rel="nofollow">3</a>).  Still skeptical about econometrics?</p>
+
+<p class="posted">posted by Ajay
+ on October 26, 2006 <a href="#c15" rel="bookmark">#</a></p>
+</div>
+<div id="c17">
+<blockquote>
+  <p>And can you think of anything useful that falsifiability does?</p>
+</blockquote>
+
+<p>Absolutely, it directs people to work towards areas that yield real scientific progress, where we can test models against reality, rather than complete speculation.  It&#8217;s the reason that many may have wasted their lives (from a scientific perspective) if string theory doesn&#8217;t pan out.  There are certainly legitimate reasons to create non-falsifiable claims, and discuss non-falsifiable issues, but they are not scientific claims/issues at that point.</p>
+
+<p class="posted">posted by Jacob Rus
+ on October 27, 2006 <a href="#c17" rel="bookmark">#</a></p>
+</div>
+<div id="c18">
+<p>Yeah, that must be it. The physicists involved in string theorists must all be idiots who never heard of Karl Popper or read the newspaper or watched a television special about themselves. If only they knew they weren&#8217;t doing science!</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on October 27, 2006 <a href="#c18" rel="bookmark">#</a></p>
+</div>
+<div id="c19">
+<p>String theorists do know they&#8217;re not doing &#8220;science&#8221; in the full sense. They know their theory isn&#8217;t falsifiable&#8212;it doesn&#8217;t make ANY predictions about reality that can be observed! That puts it closer to the unfortunate class that Intelligent Design is in. However, two things may set String Theory apart: the fact that some of the brightest minds on the planet are working on it, and that it does predict some things that may one day be testable/observable, but we don&#8217;t have the technology to be able to test them yet.</p>
+
+<p>(This is just some thoughts based off <a href="http://science.slashdot.org/article.pl?sid=06/09/29/1735237&amp;from=rss" rel="nofollow">a recent Slashdot posting</a>.)</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.teresi.us">Scott Teresi</a>
+ on October 27, 2006 <a href="#c19" rel="bookmark">#</a></p>
+</div>
+<div id="c20">
+<p>Aaron, in case you didn&#8217;t know, string theory is considered controversial for precisely the reasons that Jacob lays out.  In fact, as Scott points out, the theorists would probably be the first to admit that they&#8217;re not actually doing science, just scouting out the possible solution space for likely answers.  The scientific method will then involve testing these hypotheses to see what holds true.  Instead of finding out more about this or asking questions, all you offer is ridicule, which is especially jarring considering your ignorance of this subject.</p>
+
+<p class="posted">posted by Ajay
+ on October 28, 2006 <a href="#c20" rel="bookmark">#</a></p>
+</div>
+<div id="c21">
+<p>I do think it&#8217;s ridiculous that Jacob presumes to tell prominent physicists how to spend their time.</p>
+
+<p>Vague predictions <em>are</em> falsifiable; they&#8217;re just less likely to be wrong. And my argument isn&#8217;t that 5% is too high or too low, it&#8217;s that it&#8217;s arbitrary. If a study works only at 6% should we sentence people to death because we&#8217;re missing the other 1%. (Actually, what really happens is that people fake the data to get it over the hump, as a recent paper proved.) Evidence doesn&#8217;t have clean lines between true and false; we depend on the situation to decide how strong our standards should be.</p>
+
+<p>Who&#8217;s arguing <em>against</em> double-blind tests? All I&#8217;m saying is that other stuff is evidence too.</p>
+
+<p>An economist doesn&#8217;t believe global warming&#8230;so I should like economics more? Please.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on October 29, 2006 <a href="#c21" rel="bookmark">#</a></p>
+</div>
+<div id="c22">
+<p>Aaron, where do you come up with these obtuse arguments?</p>
+
+<blockquote>
+  <p>I do think it&#8217;s ridiculous that Jacob presumes to tell prominent physicists how to spend their time.</p>
+</blockquote>
+
+<p>Jacob didn&#8217;t tell anybody how to spend their time.  He pointed out the common criticism that string theory might turn out to be a complete waste of time because they have yet to make predictions that are testable.</p>
+
+<blockquote>
+  <p>Vague predictions are falsifiable; they&#8217;re just less likely to be wrong.</p>
+</blockquote>
+
+<p>It depends on who you&#8217;re trying to prove it to.  Scientists and intelligent laymen know that astrology is falsifiable and that it mostly comes out wrong.  However, the kind of people who believe in astrology are willing to seize on anything that might fit the prediction.  &#8220;Something good will happen to you this week&#8221; = Monday was a bright and sunny day.  Since you said falsifiability isn&#8217;t much help, we took it for granted you were talking about these dim people.  For them, it is unfalsifiable because they are willing to make their definitions so broad as to be meaningless.</p>
+
+<blockquote>
+  <p>And my argument isn&#8217;t that 5% is too high or too low, it&#8217;s that it&#8217;s arbitrary. If a study works only at 6% should we sentence people to death because we&#8217;re missing the other 1%. (Actually, what really happens is that people fake the data to get it over the hump, as a recent paper proved.) Evidence doesn&#8217;t have clean lines between true and false; we depend on the situation to decide how strong our standards should be.</p>
+</blockquote>
+
+<p>5% is not an arbitrary cutoff if comparison of many studies has shown it to be a good cutoff between studies that show repeatable results and those that don&#8217;t.  I&#8217;m guessing that&#8217;s how it was arrived at.  You setup a false situation by assuming that a whole bunch of studies cluster around that number and that any of them over 5% are then tossed away as a result.  There are very likely few studies that even get close to that threshold.  Besides, I doubt that doctors actually use a hard threshold like that.  What you seem to be primarily talking about is a legal threshold, which seems to be required by the way the law works.  I agree with you that if doctors are actually using a hard theshold like that, it doesn&#8217;t make much sense, but I doubt that they do.</p>
+
+<blockquote>
+  <p>Who&#8217;s arguing against double-blind tests? All I&#8217;m saying is that other stuff is evidence too.</p>
+</blockquote>
+
+<p>Presumably you want to use other tests because you see some weakness or failing in double-blind tests that you would like to address.  And you did say, &#8220;Behind evidence-based science are a bunch of very bizarre claims about what science is and isn&#8217;t,&#8221; which combined with your attack on falsifiability would appear to be an attack on the method they&#8217;re advocating.  And I&#8217;m not (and I don&#8217;t think the others are) saying that there aren&#8217;t any problems with that way things are done.  I previously pointed out that more effective follow-up studies should be done.  What we&#8217;re doing is pointing out that your particular criticisms don&#8217;t hold much water.  Falsifiability is a necessary condition for science, animal tests aren&#8217;t that helpful, anecdotal examples are not useful on their own, and case studies can be problematic.</p>
+
+<blockquote>
+  <p>An economist doesn&#8217;t believe global warming&#8230;so I should like economics more? Please.</p>
+</blockquote>
+
+<p>Perhaps you didn&#8217;t read those posts properly, let me summarize.  He is a former economist who points out that econometrics has failed miserably at what it was devised for, macroeconomics.  He then goes on to point out that the same type of models, that you have claimed skepticism about, are used to make the dire predictions coming from the global warming crowd.  Do you see how this points out a contradiction for you?</p>
+
+<p class="posted">posted by Ajay
+ on October 29, 2006 <a href="#c22" rel="bookmark">#</a></p>
+</div>
+<div id="c23">
+<p>Ajay now insists that theories can be true or not true depending on who reads them, that because so many people use the number 5 it simply <em>must</em> have been chosen through studies (although he hasn&#8217;t seen any), and that because economics once was wrong it&#8217;s a contradiction to believe that environmental studies are now right. I think Ajay should refrain from posting again until he learns basic principles of logic and evidence.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on October 29, 2006 <a href="#c23" rel="bookmark">#</a></p>
+</div>
+<div id="c24">
+<blockquote>
+  <p>Ajay now insists that theories can be true or not true depending on who reads them
+  No, what I said was that different people have different standards of evidence.  The reason we call them theories and not laws is because new evidence may always come up that could overturn what we believe.  Many people have very low standards of evidence; that is why they believe in astrology.</p>
+  
+  <p>because so many people use the number 5 it simply must have been chosen through studies (although he hasn&#8217;t seen any)
+  No, I said that as long as it was only used as a legal standard, it&#8217;s probably okay.  It&#8217;s true that I didn&#8217;t cite any studies, but then neither did you.  Am I to be held to a higher standard?</p>
+  
+  <p>because economics once was wrong it&#8217;s a contradiction to believe that environmental studies are now right.
+  Since you took the time to define econometrics above, you obviously know the difference between the two and that your conflation of the two is a misrepresentation of what I&#8217;m saying (your lies are Cheney-esque).  Who&#8217;s talking about environmental studies?  We&#8217;re talking about econometric models that purport to forecast future  global warming based on current trends.</p>
+</blockquote>
+
+<p>In your comments over the last several months, you repeatedly make bizarre statements or seize on irrelevant, minor points.  Arguing with you is like arguing with a child, a style of discourse that Jon Stewart ripped in his famous Crossfire episode (though to be fair to you, those guys choose even more trivial points and only speak in repeated bromides).</p>
+
+<p class="posted">posted by Ajay
+ on October 30, 2006 <a href="#c24" rel="bookmark">#</a></p>
+</div>
+<div id="c25">
+<p>And arguing with you is like having an email debate with someone who can&#8217;t read.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on October 30, 2006 <a href="#c25" rel="bookmark">#</a></p>
+</div>
+<div id="c26">
+<p>Dear Aharon, When I was at Faculty, I always thought Popper&#8217;s claims on &#8220;falsifiability&#8221; were &#8220;bogus&#8221;. The proper term must be &#8220;testability&#8221; although many aspects of nature are not testable because we lack adequate techniques to test them. However, those unverifiable aspects of nature can be deduced from careful and &#8220;repeatable&#8221; or &#8220;attainable&#8221; observations. Mathematics has many times helped us with solutions and explanations to several observed natural events, but it is spot on also that mathematics is a formal science (created by the human mind) that most times is not compatible with reality. For example, through equations theoreticians can deduce the existence of parallel universes, strings, branes, living bubbles, etc.; but those things do not exist in real nature and, if existed, they are not observable, so it is trivial even to consider it as knowledge. Science is a set of knowledge about the Universe ordered and systematized by means of observation, analysis and experimentation, which permits the deduction of principles (theories) and general laws.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://biocab.org">Nasif Nahle</a>
+ on November  7, 2006 <a href="#c26" rel="bookmark">#</a></p>
+</div>
+<div id="c27">
+<p>While the M-theory (based upon so much frustrating work with different models of the string theory) cannot be considered true science because of the falsifiability aspect, it is highly improbable that future falsifiable theories that will emerge will be entirely different from it. There are too many &#8220;happy coincidences&#8221; in this approach to be just junk! An &#8220;educated guess&#8221; will say that at least chunks of it will be part of any new theory!
+In fact many alternative explanations are falsifiable and have been eliminated. I think this is a totally new domain of the human knowledge that does not have yet a name (a label), but it is the closest you can get to science. It is science &#8220;de jure&#8221; if not &#8220;de facto&#8221;.</p>
+
+<p class="posted">posted by Anton Constantinescu
+ on November 14, 2006 <a href="#c27" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="psuedoscientism" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

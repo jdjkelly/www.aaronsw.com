@@ -1,0 +1,43 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Anyone know if there&#8217;s a (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/000119.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000118" title="Rael imitating his speech-recognition-using officemate:" />	<link rel="next" href="000120" title="Sean B. Palmer has started" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Anyone know if there&#8217;s a</h1>
+</div>
+
+<div class="content">
+<p>Anyone know if there&#8217;s a &#8220;dtop&#8221;? I want something like the UNIX utilities top or <a href="http://www.ntop.org/">ntop</a>, except it should tell me who is using the hard drive. I get curious whenever I hear the hard drive grinding away.</p>
+
+<p class="posted">posted January 16, 2002 07:15 PM (<a class="category" href="cat_"></a>)  <a href="000119" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000118" title="Rael imitating his speech-recognition-using officemate:">&laquo; prev</a> | <a href="./">up</a> | <a href="000120" title="Sean B. Palmer has started">next &raquo;</a></p>
+
+<p><a href="000114">Apple: A special message to</a><br />
+<a href="000115">BBC: Wallace and Grommit return</a><br />
+<a href="000116">It&#8217;s great when code falls</a><br />
+<a href="000117">Locust 2.4 GHz DSSS Drive-Study</a><br />
+<a href="000118">Rael imitating his speech-recognition-using officemate:</a><br />
+<strong>Anyone know if there&#8217;s a</strong><br />
+<a href="000120">Sean B. Palmer has started</a><br />
+<a href="000121">The Columbia Small World Project</a><br />
+<a href="000122">Python RSS Parsing Tools</a><br />
+<a href="000123">Fun in the Snow</a><br />
+<a href="000124">New Server Arrives Today</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

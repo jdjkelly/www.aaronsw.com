@@ -1,0 +1,44 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>install in cron.yearly (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000783" title="Ideal PDA" />	<link rel="next" href="000788" title="Is the Treo ideal?" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>install in cron.yearly</h1>
+</div>
+
+<div class="content">
+<p>#!/bin/sh<br />
+echo `cat year` + 1 | bc > year; make happy # Happy year-counter increment!</p>
+
+<p class="posted">posted January 01, 2003 12:53 AM (<a class="category" href="cat_personal">Personal</a>)  <a href="000784" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000783" title="Ideal PDA">&laquo; prev</a> | <a href="./">up</a> | <a href="000788" title="Is the Treo ideal?">next &raquo;</a></p>
+
+<p><a href="000778">it&#8217;s all about the spam-readers</a><br />
+<a href="000779">what should I do with my life?</a><br />
+<a href="000780">secroll</a><br />
+<a href="000781">Wireless &#8220;Security&#8221;</a><br />
+<a href="000783">Ideal PDA</a><br />
+<strong>install in cron.yearly</strong><br />
+<a href="000788">Is the Treo ideal?</a><br />
+<a href="000789">Classic PowerPoint Presentations</a><br />
+<a href="000790">How Misleading Can You Get?</a><br />
+<a href="000791">growth spurt</a><br />
+<a href="000792">Get your $20 from the music companies!</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

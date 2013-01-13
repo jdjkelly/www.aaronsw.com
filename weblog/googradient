@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Google and the Gradient (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Google and the Gradient</h1>
+
+<p>For a long time it seemed like everything I heard about Google was even cooler than the last. Wow, it&#8217;s a great search engine! Wow, they&#8217;re not sleazy like other companies! Wow, they treat their hackers well! Wow, they <em>are</em> hackers!</p>
+
+<p>The feeling peaked sometime last year when I was almost rolling on the floor hoping to work at Google. And I do mean peaked. Everything I&#8217;ve heard since then has been downhill, each time I hear about it Google seems less cool. I&#8217;m not saying the company is imminently doomed or that you should sell your shares, but I definitely don&#8217;t think it&#8217;s going to get any cooler.</p>
+
+<p>Google is run like a socialist state. Its citizens are treated extremely well. There&#8217;s free food, free doctors, free massages, free games, a limited workweek, etc. There are ministries to give projects free promotion and support. The government tries to avoid getting too much in people&#8217;s lives. And Google is always coming up with more perks to give away. (There&#8217;s also a strong class hierarchy, with abused temps and powerful acquirees.)</p>
+
+<p>The problem with a system like this is that it&#8217;s necessarily a bubble. Everybody inside gets treated grandly, but the outside world gets nothing. Indeed, because of Google&#8217;s notorious secrecy, they barely even get to talk to the people inside. A friend who&#8217;s a prominent free software developer says that every community member who&#8217;s joined Google has stopped contributing to public projects. It&#8217;s so bad, he says, that they&#8217;re thinking of banning Google from buying a booth at their next conference. They can&#8217;t afford to lose any more developers.</p>
+
+<p>Which means that Google has to be careful about who they hire, but since they&#8217;re growing so fast they need to <a href="http://online.wsj.com/public/article/SB116156296729900433.html">hire people as quickly as possible</a>. It&#8217;s an impossible bind &#8212; you can hire lots of people or you can hire really good people, but even a company as prominent as Google is going to have a hard time doing both.</p>
+
+<p>The solution, of course, is to pop the bubble. There&#8217;s no reason being part of Google has to be a binary decision. Google has a wide variety of resources and while there are some they can&#8217;t really give away to everyone (e.g. massages), there are others that should be easy (e.g. servers). Unfortunately for them, Google&#8217;s mindset is so obviously set that this will never happen. Even a company as woeful as Amazon is already kicking their but in this space, giving away storage space and computer power, with more in the works.</p>
+
+<p>But let&#8217;s imagine you had the resources to do this right, what would you do? (I feel like I&#8217;m giving away a valuable secret here, but since nobody listens to me anyway, I doubt it will make any difference.) The right thing is to build not a bubble, with it&#8217;s binary in-or-out choice, but to build a gradient, with shades of resources you make available as people achieve success.</p>
+
+<p>So you have this organization dedicated to building cool web apps. The first thing you do is you start giving away free food in the middle of San Francisco. You have a nice cozy area with tables and bathrooms and Wi-Fi and anyone interested in starting a web site is encouraged to drop by and hang out. There they can eat, chat, hack, get feedback, get suggestions, get help.</p>
+
+<p>Then you give them free hosting. Servers and bandwidth are cheap, good projects are invaluable. But not only will you host their app for free, throwing in servers to scale it as necessary, but you&#8217;ll <em>pay</em> them for the privilege of hosting. Indeed, you&#8217;ll pay them proportionately to the amount of traffic they get, in exchange for the right to run ads on it someday.</p>
+
+<p>So now you&#8217;ve got all the bright, smart young things who want to start companies starting them on your servers, with clear and unambiguous incentives: get traffic, get paid. They don&#8217;t need to worry about impressing anyone with their idea; anyone can use the hosting. And they don&#8217;t need to sell out to investors anymore; as their traffic grows, you&#8217;ll already be giving them the cash to grow the business.</p>
+
+<p>Most of these sites, of course, will probably be failures. But who cares? Sites that don&#8217;t get much traffic don&#8217;t use up much in the way of resources. Meanwhile, a couple of the sites will actually take off. So what do you do with those? <em>Give them more resources.</em></p>
+
+<p>Put your promotional team behind them to spread the word about the ideas. Have your web designers, database jockeys, and JavaScript hotshots help them fix up the site. Encourage promising young programmers interested in helping out with something to write a feature or two.</p>
+
+<p>And &#8212; this is where the gradient comes in &#8212; as they become more successful, you give them more resources. Let them move into the apartment building above to food/hangout space, so they can get more facetime with fellow successful hackers. Give them free offices to work in. Provide free massages and exercise equipment. Have your PR team set up interviews with the major media. Integrate their site with your other sites. Plus, of course, they&#8217;re getting paid more for more traffic the whole time.</p>
+
+<p>Some of the sites will be huge hits, another YouTube or Facebook. The founders will be raking in millions from the traffic. And at some point, they&#8217;ll get tired of running the site and they&#8217;ll let it go. You&#8217;ll be there to take it over, slap some ads on it to recoup the investment, and give it to some new, junior developers to maintain and improve. And the cycle continues.</p>
+
+<p>(Bonus for the truly adventurous: run the whole thing as a non-profit and have all the applications involved be open source.)</p>
+
+<p>A bubble like Google can hire only so many people and there&#8217;s no way of picking only the ones which will be successes. But everyone can be part of a gradient and the successes simply rise to the top. I know which one I&#8217;d work for.</p>
+
+<p><em>Thanks to Emmett Shear for discussion and suggestions.</em></p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">October 26, 2006</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>But as a socialist yourself, wouldn&#8217;t you rather work for a socialist state?  It sounds like you would rather work in a free market economy yourself.  Your argument against Google being able to pick the succesful web projects is exactly the argument that free market proponents lob against socialist planned economies, that it is impossible to centrally plan the economy and choose how to allocate everything from above.  Aaron Swartz, free marketeer?</p>
+
+<p>As for your actual idea, there are probably legal issues that would make this practically infeasible.</p>
+
+<p class="posted">posted by Ajay
+ on October 27, 2006 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>I think this is a good business plan, and I think it would work better for some large host like DreamHost than for Google. Here&#8217;s how they could do it:</p>
+
+<p>First, create an ad service, integrated with the existing account system. As customers sell more ads, they can easily upgrade their hosting plan with the money already in their account. Next, as advertising revenue pickes up, offer more hosting services for cheaper, including free options. Then send out debit cards to customer-members, which only work at partner wifi-enabled coffee shops and restaurants who would advertise &#8220;DreamHosters eat free.&#8221; Finally, rake in the profit as customers become employees.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://weblog.randomchaos.com/">Scott Reynen</a>
+ on October 27, 2006 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p><i>Everybody inside gets treated grandly, but the outside world gets nothing.</i></p>
+
+<p>They get a pretty good search engine and many other good free services. And merchants and publishers get a pretty good ads system.</p>
+
+<p>But I know you weren&#8217;t referring to this. You were commenting on the Iron Curtain between Googler developers and other developers. This is indeed sad and has many deleterious effects.</p>
+
+<p>However, most of the benefit of your idea is already happening with AdSense. External developers, Google ads. Done.</p>
+
+<p>The only difference is that you&#8217;re proposing that 
+Google should also allow outsiders to use its infrastructure. But for that to be true, Google&#8217;s expected revenue from doing this would have to be higher than if they dedicated that machine to something internal. So far this is not the case. There are lots of other reasons why that idea just doesn&#8217;t fly (yet) but that&#8217;s the main one.</p>
+
+<p>And, Google does support external developers in Google&#8217;s Code Jams already. That&#8217;s more in Google&#8217;s interest than doing the Google Startup Cafe.</p>
+
+<p>Google believes it has lots and lots of internal roles to fill that would make them more profitable; that&#8217;s why they are hiring like crazy.  They want to make money off the developer&#8217;s work, directly. They have no interest in helping people start a business and making money off them indirectly.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://brevity.org/">Neil Kandalgaonkar</a>
+ on October 27, 2006 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>Uhhh. I had to stop reading at &#8220;nobody listens to me anyways&#8221; and note: RSS was practically the word of the year in 2005. Lots and lots of people listen to you and it&#8217;s a mystery why. You really ought to write &#8220;HOWTO be listened to&#8221; to go along with &#8220;HOWTO be productive&#8221;. Actually the very thought of you wanting to work somewhere and not already being there is a little surprising.</p>
+
+<p class="posted">posted by David McCabe
+ on October 27, 2006 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c8">
+<p>&#8220;Google is run like a socialist state. It&#8217;s citizens are treated extremely well.&#8221;</p>
+
+<p>If you&#8217;d had any idea what a &#8220;socialist state&#8221; meant to the people who had to live in one, you&#8217;d never ever think things like that!</p>
+
+<p class="posted">posted by René
+ on October 27, 2006 <a href="#c8" rel="bookmark">#</a></p>
+</div>
+<div id="c9">
+<p><a href="http://www.aaronsw.com/weblog/googradient#c1" rel="nofollow">Ajay:</a> I think central planning is a dumb idea. I also think unrestricted markets are inhumane. <a href="http://www.infoshop.org/faq/secA1.html" rel="nofollow">Anarchists</a> have said that forever. (Bakunin: &#8220;Red bureaucracy&#8221; will institute &#8220;the worst of all despotic governments&#8221;.)</p>
+
+<p>It&#8217;s a rare idea that doesn&#8217;t work because of &#8220;legal issues&#8221;; this certainly doesn&#8217;t seem like one of them.</p>
+
+<p><a href="http://www.aaronsw.com/weblog/googradient#c8" rel="nofollow">Réné:</a> It was probably unclear, but I was thinking of the usage of &#8220;socialist&#8221; to refer to places like Scandinavian countries, not the Soviets.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on October 27, 2006 <a href="#c9" rel="bookmark">#</a></p>
+</div>
+<div id="c11">
+<p>I think the best part of this idea is the place to &#8220;eat, chat, hack, get feedback, get suggestions, get help.&#8221; Hosting is dirt cheap anyway. The legal troubles that could follow from a more direct business relationship is not. The return for google would be a place to pick people to hire and startups to buy.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.fledsbo.no/wordpress">Øystein Fledsberg</a>
+ on October 27, 2006 <a href="#c11" rel="bookmark">#</a></p>
+</div>
+<div id="c12">
+<p>Evan Williams has just started a company doing exactly what you&#8217;re talking about - Obvious Corp http://evhead.com/2006/10/birth-of-obvious-corp_25.asp</p>
+
+<p class="posted">posted by James
+ on October 27, 2006 <a href="#c12" rel="bookmark">#</a></p>
+</div>
+<div id="c13">
+<p><i>Réné: It was probably unclear, but I was thinking of the usage of &#8220;socialist&#8221; to refer to places like Scandinavian countries, not the Soviets.</i></p>
+
+<p>Perhaps you should use the term &#8220;Scandinavian-style socialist&#8221;?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.joegrossberg.com">Joe Grossberg</a>
+ on October 27, 2006 <a href="#c13" rel="bookmark">#</a></p>
+</div>
+<div id="c15">
+<p>Just reread my own comment. I should have said &#8220;Summer of Code&#8221;, not Code Jam. Anyway, the point I was trying to make was that Google would rather audition developers to help grease the big money-making machine.</p>
+
+<p>Aaron&#8217;s suggestion would only work for a company that was good at infrastructure, but didn&#8217;t have any fixed ideas about how to use it.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://brevity.org/">Neil Kandalgaonkar</a>
+ on October 27, 2006 <a href="#c15" rel="bookmark">#</a></p>
+</div>
+<div id="c16">
+<p><a href="http://www.aaronsw.com/weblog/googradient#c4" rel="nofollow">Neil says</a> that Google should only let outsiders use their infrastructure if the expected revenue for doing this would be higher than if they used the machines internally. That would make sense, <em>if</em> servers were a limited resource. But they&#8217;re not; Google could easily buy more and do both.</p>
+
+<p>Neil also seems to think that Google has better profit-making ideas than the entire rest of the world. Even Google doesn&#8217;t think so; that&#8217;s why they&#8217;re desperately wooing potential startup founders and buying companies like YouTube.</p>
+
+<p>I agree Google isn&#8217;t going to do this; I say as much in the post. And that&#8217;s why they&#8217;re going to fail.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on October 27, 2006 <a href="#c16" rel="bookmark">#</a></p>
+</div>
+<div id="c17">
+<blockquote>
+  <p>And that&#8217;s why they&#8217;re going to fail.</p>
+</blockquote>
+
+<p>What&#8217;s your estimated time frame on this?  Because I see google being pretty successful for the foreseeable future.  I&#8217;m not sure that predictions like this with no evidence add much of value to the  idea of the rest of the article, which frankly has nothing at all to do with google (as you say yourself they would never do this), but is quite interesting nonetheless.</p>
+
+<p class="posted">posted by Jacob Rus
+ on October 28, 2006 <a href="#c17" rel="bookmark">#</a></p>
+</div>
+<div id="c19">
+<p>I agree with you. Technical youth need a physical place to congregate and be inventive. Schools (perhaps other than top-notch universities) don&#8217;t do a great job of this.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.erikbryn.com">Erik Bryn</a>
+ on October 29, 2006 <a href="#c19" rel="bookmark">#</a></p>
+</div>
+<div id="c20">
+<p>I&#8217;m not sure whether this approach would work. At the beginning of the gradient, the stuff that Google would give away are very cheap: Sure, you give them free food, space and servers, but that stuff can easily be acquired with very little money. The only difficult thing to replicate is the companionship of other smart people, but if you have the right audience of people (as you or PG do), you can easily convince people to drop by a Starbucks location of your choice and spend about &lt;= $50 / attendee / day, although likely not at Google&#8217;s food quality level.</p>
+
+<p>Once a company becomes successful, they would start moving up in the gradient. Now imagine that Reddit would be part of such a construct. Sure, Google gives you food and stuff, but at some point you&#8217;ll feel like you&#8217;re being ripped off by Google - $50 / day. Bah, we&#8217;re giving our genius away for free! But when you&#8217;re successful, you can easily get the resources you wanted yourself.</p>
+
+<p>IMHO, ownership is actually a better way to go. The YCombinator model combines motivation and ownership and seems more attractive to me than the gradient.</p>
+
+<p>Actually, you guys should use the profits from Reddit and invest in nice cozy tables and gourmet food. Gourmet food improves morale and doesn&#8217;t make Google seem that great in comparison, after all :-)</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.gaborcselle.com/">Gabor Cselle</a>
+ on October 29, 2006 <a href="#c20" rel="bookmark">#</a></p>
+</div>
+<div id="c21">
+<p>&#8220;The first thing you do is you start giving away free food in the middle of San Francisco. You have a nice cozy area with tables and bathrooms and Wi-Fi and anyone interested in starting a web site is encouraged to drop by and hang out. There they can eat, chat, hack, get feedback, get suggestions, get help.&#8221;</p>
+
+<p>Cool! We&#8217;re already doing this in San Francisco with coworking. From the coworking wiki (http://coworking.pbwiki.com):</p>
+
+<p>&#8220;Coworking is cafe-like community/collaboration space for developers, writers and independents.</p>
+
+<p>Or, it&#8217;s like this: start with a shared office and add cafe culture. Which is the opposite of most modern cafes. ;)&#8221;</p>
+
+<p>There are two coworking spaces in San Francisco, ones opening in New York City, Boston, Paris, and all over the world. All of this is being done by other interesting folks, in a grassroots sort of way.</p>
+
+<p>The space I&#8217;m involved in, the Hat Factory (http://hatfactory.net), we already have a great mix of people who come and work together. We have a bunch of the Drupal crew, the Civic Space guys, a tribe of leading video bloggers and videographers, and me, an open-source/Ajax/collaboration guy. Even though all of us used to work by ourselves from home or coffee shops, we now have more community around smart folks at coworking. You should join us.</p>
+
+<p>Brad Neuberg
+bkn3@columbia.edi
+Weblog: http://codinginparadise.org</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://codinginparadise.org">Brad Neuberg</a>
+ on October 31, 2006 <a href="#c21" rel="bookmark">#</a></p>
+</div>
+<div id="c22">
+<p>Amazing though this may be (since no one seems to know what Ning was actually trying to do) this sounds a lot like what Ning was working on.
+ * Host everything with the idea of eventually running ads.
+ * Offer users help &#8212; in terms of free support, paid development, etc. &#8212; in getting their apps up and running. When you see popular apps, help make them better and more usable.
+ * When users are succeeding, help them succeed further via promotion &#8212; front page, in site, external ads, etc.</p>
+
+<p>So, I certainly don&#8217;t think you&#8217;re the only person who has thought of this, although perhaps Ning&#8217;s attempt was simpyl too constrained: You weren&#8217;t letting people take advantage of their natural and existing strengths, instead forcing them into a different framework, and really taking away a large part of the benefit of offering a shared space that the company could take advantage of.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://crschmidt.net/">Christopher Schmidt</a>
+ on November  1, 2006 <a href="#c22" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="googradient" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

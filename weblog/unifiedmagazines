@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>A Unified Theory of Magazines (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>A Unified Theory of Magazines</h1>
+
+<p>For as long as I&#8217;ve been building web apps, it&#8217;s been apparent that most successful websites are <em>communities</em> &#8212; not just interactive pages, but places where groups of like-minded people can congregate and do things together. Our knowledge of how to make and cultivate communities is still at a very early stage, but most agree on their importance.</p>
+
+<p>A magazine, we may imagine, is like a one-way web site. It doesn&#8217;t really allow the readers to talk back (with the small exception of the letters page), it doesn&#8217;t even have any sort of interactivity. But I still think communities are the key for magazines; the difference is that magazines <em>export</em> communities.</p>
+
+<p>In other words, instead of providing a place for a group of like-minded people to come together, magazines provide a sampling of what a group of like-minded people might say in such an instance so that you can pretend you&#8217;re part of them. Go down the list and you&#8217;ll see.</p>
+
+<p>The magazines of Condé Nast, for example, export &#8220;lifestyles&#8221;. Most readers probably aren&#8217;t the &#8220;hip scene&#8221; the magazines supposedly cover, but by reading these things they learn what to wear and what to buy and what these people are talking about. Even their high-brow magazines, like the <em>New Yorker</em>, serve the same purpose, only this time it&#8217;s books instead of clothes.</p>
+
+<p>The late, great <em>Lingua Franca</em> exported the university. <a href="http://www.aaronsw.com/weblog/visitingmit">Academephiles</a>, sitting at home, probably taking care of the kids, read it so they could imagine themselves part of the life of the mind. Similarly, the new <em>SEED</em> magazine is trying to export the culture of science, so people who aren&#8217;t themselves scientists can get a piece of the lab coat life.</p>
+
+<p>Alumni magazines similarly export college life, so that graying former college students can relive some of their old glory days, reading pieces about library renovations as they recall having sex in the stacks. And house organs export a particular kind of politics, telling you what a party or organization&#8217;s take is on the issues of the day, giving you a sense of the party line.</p>
+
+<p>Run down the list and in pretty much every case you scratch a magazine, you find an exported community. Magazines that want to succeed will have to find one of their own.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">September 28, 2006</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>And then there&#8217;s Readers&#8217; Digest, which tells people how to psychologically abuse their children, what pseudoscience to believe in, and what to be gripped with the terror of. I flip through it sometimes out of morbid curiosity. But what community does it export exactly?</p>
+
+<p>And the (rather useless) Linux Journal. It exports&#8230; being a sys admin?</p>
+
+<p class="posted">posted by David M.
+ on September 28, 2006 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>Where would you draw the line between a newspaper and a magazine?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://tommi.raivio.net">Tommi</a>
+ on September 29, 2006 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="unifiedmagazines" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

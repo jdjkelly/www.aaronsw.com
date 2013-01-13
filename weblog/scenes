@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Scenes (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Scenes</h1>
+
+<p>&#8220;God, I&#8217;m so sick of this stuff. Can&#8217;t we just go home?&#8221; she wines. &#8220;Jesus,&#8221; I say, &#8220;would it kill you to go one more place?&#8221; It&#8217;s been a long hot day in strange, busy New York City, and we&#8217;re not exactly at our best. In fact, the combination of heat and exhaustion has turned our love bitter, brought on the darkness and recriminations. Its at moments like these, the dark depths of a relationship, that you wonder how things could ever work. As we walk down the steps we hear a subway car approach. We accelerate, running to catch it. Its doors open. We&#8217;re moving faster now, pushing our way through the bustle of Manhattanites to make it. The bell sounds and I jump inside and hear the doors whoosh closed behind me. I spin around only to see her trapped on the other side of the glass. I put my hand up to it, but the train accelerates and she&#8217;s left standing there, just another face in the crowd.</p>
+
+<hr />
+
+<p>&#8220;Hey, want to see the game? Want a ticket to the Giants game?&#8221; I do not, in fact, want to see the game &#8212; this or any other game. I hate sports. Yet the scalpers, apparently unaware of this, insist on trying to sell me one. That&#8217;s what I get for walking near the ballpark, I guess. As I curse my choice of scenery, a cop pulls up. He lowers his window and leans out toward the scalper. The scalper hands him a ticket and the cop speeds off. &#8220;But he didn&#8217;t pay!&#8221; a man in a suit walking by complains. &#8220;Cops get a special deal,&#8221; explain the scalper. The man in the suit laughs and marvels at the scene.</p>
+
+<hr />
+
+<p>It&#8217;s weird being back at Stanford in the summer. Everything&#8217;s so empty, nobody&#8217;s around. Well, not nobody &#8212; there seems to be some action near the main quad. There are drum kits spread around and golf carts and purple uniforms lying about. But most of all, there are people &#8212; a bunch of students just standing around awkwardly. I&#8217;m about to ask one of them what&#8217;s going on when a bell rings and a voice shouts &#8220;Background!&#8221; Suddenly all the students snap to attention, begin walking in perfect lines with bookbags slung over their shoulder, bicycles ridden in perfect formation. These aren&#8217;t students at all, I realize with a lurch &#8212; they&#8217;re extras. It&#8217;s disconcerting. A police guard is at the side, keeping kids from running over the camera crew. I ask her what they&#8217;re filming. &#8220;<em>Disney&#8217;s High School Musical</em>,&#8221; she says quickly, trying to keep a student from cycling over the director&#8217;s cart.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">June 19, 2008</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>Wow, I like the format. If a short story is like video, these are like photographs. Well done.</p>
+
+<p class="posted">posted by David McCabe
+ on June 19, 2008 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="scenes" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

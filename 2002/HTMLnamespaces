@@ -1,0 +1,51 @@
+<html xmlns="http://www.w3.org/1999/xhtml" 
+      xmlns:ex1="http://www.aaronsw.com/2002/HTMLnamespaces#t1"
+  xml:lang="en-US" lang="en-US">
+<head>
+  <title>CSS Styling of Namespaces in HTML</title>
+  <link rel="stylesheet" type="text/css" href="/style.css" />
+  <style type="text/css">
+<!--
+.warning { display: none }
+.test { color: green }
+ex1\:test, ex2\:test { color: green }
+ex3\:test { color: red }
+
+@namespace baz url(http://www.aaronsw.com/2002/HTMLnamespace#t4);
+baz|test { color: green; }
+-->
+  </style>
+</head>
+<body>
+<div id="head">
+<h1>CSS Styling of Namespaces in HTML</h1>
+</div>
+<p class="warning" style="color: red">Prerequisite: <strong>STOP! Your browser doesn't support embedded CSS; this test is meaningless.</strong></p>
+
+<p>Control: <span class="test">This text must be green, for this test to be meaningful.</span></p>
+
+<p>Test 1: <ex1:test>If this text is green, your browser supports styling of root namespaces.</ex1:test></p>
+
+<p>Test 2: <ex2:test xmlns:ex2="http://www.aaronsw.com/2002/HTMLnamespaces#t2">If this text is green, your browser supports styling of embedded namespaces.</ex2:test></p>
+
+<p>Test 3: <ex3:test>If this text is red, your browser isn't looking at the namespaces at all.</ex3:test></p>
+
+<p>Test 4: <ex4:text xmlns:ex4="http://www.aaronsw.com/2002/HTMLnamespaces#t4">If this text is green, your browser supports @namespace properly on embedded namespaces.</ex4:text></p>
+
+<h2>Test Results</h2>
+<p><strong>Key:</strong> <strong>G</strong>reen, <strong>B</strong>lack, <strong>R</strong>ed.</p>
+
+<p>Gecko/20021101: GGR.<br />
+IE6/Win: GBB.<br />
+OmniWeb 4.1.1: BB.<br />
+IE5/Mac: BBB.<br />
+Opera 6: BB.<br />
+Safari: BBB.<br />
+Opera 7 b2 GB, GG after refreshing.</p>
+
+<p>If you have a browser not listed here, please <a href="mailto:htmlnamespaces@aaronsw.com">send me its results</a>.</p>
+<div class="footer">
+  <address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+
+</div></body>
+</html>

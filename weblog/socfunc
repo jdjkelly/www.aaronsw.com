@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Simplistic Sociological Functionalism (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Simplistic Sociological Functionalism</h1>
+
+<p>(I thought I should talk about the other form of functionalism for a change.)</p>
+
+<p>Often sociologists notice a pattern in which certain attributes of a social system fits well with a particular social structure. To take an example I have at hand, Rosabeth Moss Kanter notes that because a secretary has access to facts that could embarrass her boss, it&#8217;s convenient for the boss that the secretary is entirely dependent upon him for wages and status.</p>
+
+<p>Unfortunately, these claims are often phrased as saying X causes Y. Here&#8217;s how Kanter does it:</p>
+
+<blockquote>
+  <p>The possibilities for blackmail inherent in [a secretary&#8217;s] access &#8230; to the real story behind the boss&#8217;s secrets &#8230; made it important that she identify her interest as running with, rather than against, his. Thus, forces were generated for the maintenance of a system in which the secretary &#8230; was to find her status and reward level dependent on the status and, hence, success of her boss. (<em>Men and Women of the Corporation</em>, 82)</p>
+</blockquote>
+
+<p>Note that, although she is unusually careful to hedge her comments (&#8220;made it important&#8221;, &#8220;forces were generated&#8221;, &#8220;maintenance of a system&#8221;) Kanter is making a particular historical claim here: the secretary could blackmail, which pushed the boss to tighten control. But this is not the type of claim that Kanter, who&#8217;s research consisted mostly of direct observation of present-day offices, is likely to have any real evidence for.</p>
+
+<p>Making such claims is problematic, both because most sociologists don&#8217;t really know whether they are strictly true, and because they lead Jon Elster to show up at your house and yell at you for hours. But both problems can be easily avoided: simply rephrase such comments to describe the phenomena as <em>effects</em> rather than <em>causes</em>.</p>
+
+<p>Instead of saying a secretary&#8217;s ability to blackmail leads bosses to tighten their grip, simply note that the boss&#8217;s tight grip has the effect of weakening the secretary&#8217;s ability to blackmail. You get all the same points across and nobody gets hurt. See? Easy.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">May 13, 2008</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="socfunc" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

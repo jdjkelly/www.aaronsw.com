@@ -1,0 +1,343 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>ILAW 5 (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/000991.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000990" title="Party Geek" />	<link rel="next" href="000993" title="Scott McCloud is Back!" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>ILAW 5</h1>
+</div>
+
+<div class="content">
+<p>Live notes from the Internet Law conference at Stanford.</p>
+
+<h2>Overview</h2>
+
+<p>Lessig, the host, does an overview: Conquering the globe. Propagandizing for Creative Commons all week. Donna is our resident blogger. Aaron and Lisa will probably be blogging. Computer cafe, you can spam from them if you want to make some money while you’re here.</p>
+
+<h2>Zittrain: The Technology</h2>
+
+<p>Technology underlies it all. Best to do less but deeply than rush through lots of slides. Purposely vague about some technical details. Larry’s idea (he’s had more than one, but this is the best): Code is a form of regulation. IETF, hourglass architecture (on IP). Hum voting. Other organizations: W3C (Tim Berners-Lee). Microsoft invented favicons; purists won’t like it. Gnutella.</p>
+
+<p>Models of networks: centralized (TV), hierarchical (telephone), distibuted (decentralized). Innovation is the primary consideration. Everyone has an IP address. Jon Postel handed them out, called himself IANA.</p>
+
+<p>Q: Who paid Jon?<br />
+A: He had a university job. He also applied to NSF. Just like artists apply to NEA for money to make art that offends Republicans, he applied to the NSF so he could make a network which offends Republicans.</p>
+
+<p>How do packets route? Like letters w/o central coordination. They used the Amish barnraising theory. Then it bounces around a cloud in the middle of the Internet. Best efforts. Running out of IP addresses (Barbara Roseman: no we’re not!).</p>
+
+<p>SETI. Spam, tracerouting the mail server, don’t know who everyone is. MAPS: inelegant solution, had an impact good and bad.</p>
+
+<p>Basically thought impossible. “You cannot build a corporate network out of TCP/IP&#8221; - IBM, 1992. People thought bees couldn’t fly too.</p>
+
+<p>Missing: QoS, accounting, traffic management, encryption, authentication.</p>
+
+<p>With telephones, at least we know caller pays. But who of the Tier 1 Backbone provider pays? It’s symmetrical, so they carry each others data for free. Use protocols like BGP. Prediction: Accountants will put BGP to the test and break the servers until they generate money.</p>
+
+<p>Q: How much does the Internet cost?<br />
+A: Tier 1’s probably cost a lot less than you expect.</p>
+
+<p>Terry Fisher: Can you say more about what happens in the cloud? You started saying there was a big decentralized Amish system, then you said that there’s a backbone.<br />
+A: There are only a handful of Tier 1’s. If they were shot down, we’d be in trouble.</p>
+
+<p>Encryption. One-time pads. Public-key encryption. Insulting the entropy of Rothko paintings.</p>
+
+<p>General purpose computing devices. This is why we have viruses.</p>
+
+<h2>Lessig: thought 2</h2>
+
+<p>Originally folks thought cyberspace was “unregulable”. Promoted by John Gilmore (“routes around it”) and John Perry Barlow (“throws the law into disarray” - <a href="http://www.eff.org/~barlow/Declaration-Final.html">A Declaration of the Independence of Cyberspace</a>). Both from the EFF, but the EFF’s job is to protect us from government! More rhetoric than reality.</p>
+
+<p>Law regulates by threatening. If you drive more than 85 mph, police will punish you. (Ex ante rule, ex post punishment by the state.)</p>
+
+<p>Norms regulate: I don’t wear a dress at Stanford, only at home. If I did, people would look at me funny; maybe not take my class. If you smoke, you’ll be treated like a weirdo. (Ex ante rule, ex post punishment by the community.)</p>
+
+<p>Market regulation: If your work for 4 hours you’ll have enough money to buy lunch here in California. If I sing, you’ll pay me quickly to stop singing. Defines a set of options. Market functions based on law (setting up contract rules, etc.; won’t let you sell sex, even in California) and norms (says what you can sell — can’t buy an excuse out of lunch). Regulation in a sense that we evaluate options and make choices accordingly. Gas costs so much, limits how much you can drive.<br />
+Some things in in the market because of norms and laws. Yet market regulates in a different way.</p>
+
+<p>Architecture constrains: If you’re bored and want to look out the window, you have to turn around and look out a tiny window at something not very interesting. Using architecture to protect my market power. Cars can’t drive over 160 mph. Simultaneous constraint. Lessig did not want WiFi in his classroom; removes competition for attention by acting of the architecture.</p>
+
+<p>On any given situation, four regulating influences: market, laws, norms and architecture. But law can help modify them all! (Luckily for lawyers.) Take smoking: the government requires you to be >18 to buy them (law), they buy ads that say smoking kills (norms), they increase taxes (market), they considered regulating nicotine content (architecture).</p>
+
+<p>Regulators pick the way to influence behaviour. This isn’t new: Napoleon III wiped out tiny roads to make highways harder to shut down by revolutionaries (architecture). Robert Moses segregated people by race by putting low bridges across roads to beaches, preventing busses (carrying mostly African-Americans) from going to beaches (architecture). ADA regulates architecture to ensure people in wheelchairs can get around.</p>
+
+<p>Q: You noted how law could regulate the other three, but can’t the other three do the same? Is there an order of precedence?<br />
+A: Lawyers are on top because we’re at a law school and need to make the lawyers feel good. In a architecture school, they’d feel architecture should be on top.  But law is the one place where changing humans is the explicit goal. Law has that role of supremacy in a democratic society, it has legitimacy. You’d feel funny if architects or marketers said they wanted to change the world to their benefit.</p>
+
+<p>Q: Libertarians say they oppose coercion. But the only coercion they see is legal coercion.<br />
+A: Yeah, I tried this once with &#8220;What Declan Doesn’t Get&#8221; (bad title; now hundreds of articles titled &#8220;What Larry Doesn’t Get&#8221;). Look at Mills; he was concerned about norms and intolerance. He saw that the social norms in England were a threat to the freedom of speech in the English society.</p>
+
+<p>Cyberspace is an architecture. Take TCP/IP. It’s a capable system for sending bits around. But look at what follows from this, look at architecture’s consequences: can’t know who send the data, what the data is, where the data is coming from or going. If the government doesn’t know who, what, and where, then it can’t punish you. The architecture entails the libertarian world (relative anonymity therefore can’t regulate, can’t market-ulate).</p>
+
+<p>Marketers don’t like this feature, makes it hard to sell things. Conflict: anarchists, marketers, government. </p>
+
+<p>Example: no porn to kids (38 states says by law). Supreme Court says this is OK as long as adults aren’t affected. Architecture of real space it’s hard to hide that you’re a kid. (Age is relatively self-authenticating in real space.) Market says don’t give kids porn because they don’t have money. Norms say don’t do it because it’s wrong. But age isn’t self-authenticating in cyberspace so none of this can happen.</p>
+
+<p>The mistake of the net anarchists: is-ism. Just because the Internet is like this now, doesn’t mean it will always be this way. You can change the architecture of the Net. And both the government and the market have a strong interest in doing this!</p>
+
+<p>This has been done. Market: cookies. Facilitates identification, which helps commerce online. General consequence: traceability of users. Most people have no clue about the ways their behavior is tracked. </p>
+
+<p>Government: sniffers. Sniffs packets to see what’s inside. On Friday, set up a Morpheus server to share lectures. On Saturday night got a frantic phone call: the network police had broken into his office and unplugged his machine.</p>
+
+<p>Government: maps. Connect IP addresses to physical locations. Makes it easier for governments to discriminate for the purpose of accessing content. Americans get some info, foreigners get another.</p>
+
+<p>Add together these changes: we can now know who, what, and where! Relative anonymity becomes relatively identified. Change the code and you change the normative consequences. You change the Internet from a libertarian space to a place that is increasingly regulable.</p>
+
+<p>Good or bad, it can happen. And we need to worry about this!</p>
+
+<p>Q: DoubleClick says they protect their users privacy.<br />
+A: Is the cookie a violation of a law? Not in the US. But there are unintended consequences. Market: DoubleClick adopted a privacy policy to protect themselves from allegations. Law: the FTC enforces the policy. I like cookies. The point I wanted to make about cookies is how a tiny change in the architecture can have major, sometimes unintended, consequences.</p>
+
+<p>Q. How do you explain the contradiction you posed about Gilmore and Barlow’s statements and actions? A: They’re not naive, what they said was a political statement, the EFF is a way of ensuring that it remained true.</p>
+
+<p>The libertarians don’t want the law to intervene to stop spam or porn. They want to protect free speech. Originally we had strong norms against advertising. Enter AOL. Norms no longer worked because of all the new people. Enter vigilantes: they used technology (blackhole lists, etc.) to enforce their policies. But who decides on the policy?</p>
+
+<p>Fight between HP and MIT: HP adopted ORBS, ORBS didn’t like MIT’s spam policy, so HP blocked MIT’s email at the suggestion of ORBS. MIT techies were upset and decided to block HP. Fortunately the war was avoided because ORBS got kicked off the network.</p>
+
+<p>Vigilantes are trying to good in a world without law. But their technology doesn’t always achieve their goals. The cyber-libertarians didn’t want the government to enforce censorship on their network but they ended up with private companies doing, which turned out to be even worse. At least you can sue governments under the First Amendment!</p>
+
+<p>Point: architecture can do more harm than law. If law takes care of the problem of spam, then we would have less need for regulation through architecture and vigilantes.</p>
+
+<p>Lessons:</p>
+
+<ol>
+  <li>Code is law. (From Kapor: architecture is politics.) We have to be explicit about the values we build into cyberspace.</li>
+  <li>Code is plastic, the architecture can change and thus the values can change.</li>
+  <li>No law can beget bad code.</li>
+  <li>Good law can avoid bad code (maybe).</li>
+</ol>
+
+<p>Q: The law no longer has such clear primacy, there’s less respect for public law. Are you going to address that?<br />
+A: I am a pessimist. This is my yellow-shirt day, when I get to be optimistic. At the end of the week, I’ll be even more pessimistic than you! There are lots of ways the law can address those problems. Whether or not the law has done that we’ll see during the course of this week.</p>
+
+<p>Q: When I started our computer lab came under fire at ORBS. I wanted to work with them, but they felt that since I wasn’t bowing down to them and they threatened to blackhole the whole university. So I caved in. It bothered me that the vigilantes let their egos take over. I recently had the same problem with SPEWS. I’m concerned the vigilante groups are doing more harm than good.<br />
+A: Vixie’s group is relatively good. But SPEWS, I think, is the place that says there’s no appeal. That’s what troubles me. At least the government has to justify what it does. It’s accountable.</p>
+
+<p>Q. If we’re talking about legitimacy, I notice we’re talking a lot about US law. Coming for a different jurisdiction, I’m concerned by the influence of the US norms and laws on other jurisdictions.<br />
+A. When I starting my reflection, being from a constitutional law background, I realized that the Internet was the best and most efficient way for the US to export the First Amendment values. The Internet is removing the barriers that real world had placed between jurisdictions.</p>
+
+<p>Q: No jurisdiction has power over the Atlantic, cyberspace is like that.<br />
+A: This is a standard lawyer tactic, take something we know about (law of the sea) and apply it to something we don’t (cyberspace). But cyberspace is different, it also takes place in France. When you “go to cyberspace” you never leave real space.</p>
+
+<h2>Lessig and Zittrain: Porn and Jurisdiction, Two Great Tastes That Taste Great Together</h2>
+
+<h3>Porn</h3>
+
+<p>Lessig: How do you “solve” the pornography problem? Problem: There exists pornography. (Some people think that the problem is that kids have access to pornography, but we can’t solve that — kids will get it.) </p>
+
+<p>Zittrain: That’s a solution, not the problem. And isn’t there a little problem with that called the US Constitution (not the USS Constitution)? Michigan v. Butler, can’t burn the house to roast the pig.</p>
+
+<p>Lessig: The fundamental First Amendment value is adult access to porn, huh. Well, what’s your alternative?</p>
+
+<p>Z: Just ban it for kids. Like the top rack, kids can’t reach it. You’ve got to card people in cyberspace. You could collect credit cards.</p>
+
+<p>L: So I have to give pornographers my credit card?!</p>
+
+<p>Z: It’s a god-given right to let people steal your credit card in America and only be responsible for $50! Even kids know that.</p>
+
+<p>[Zittrain writes “Larry wants porn.” on the board.]</p>
+
+<p>Z: If we can put a man on the moon, we can give you an age ID that can be sent over the Internet.</p>
+
+<p>L: So the burden is now getting and maintaining some ID thing. That seems bizarre. Isn’t the First Amendment about access to porn?</p>
+
+<p>Z: You’re carded at the store.</p>
+
+<p>L: Maybe <em>you</em> are! I’m not.</p>
+
+<p>Z: It’s no big deal; it’s Microsoft^Wopen-source wallet; you don’t even notice.</p>
+
+<p>L: Well, there’s another burden: the porn provider needs to validate the ID. And that’s what the Supreme Court cared more about. </p>
+
+<p>L: Instead, why don’t we mark kids that they’re a kid? We need to make sure they use a kid-enabled browser. That’s a parents job, but they’re the ones who care. So now it’s a parent’s burden. All websites have to do is include a tag that says “harmful to minors”, the browser would do the blocking. [This is Tim Berners-Lee’s proposal with PICS. - ASw.]</p>
+
+<p>Z: My Internet Explorer supports this, I just click the content advisor. But then I go to CNN and it doesn’t have a rating. Don’t all the sites have to rate themselves?</p>
+
+<p>L: No, we’ll have a law require that sites with harmful-to-minor material say so.</p>
+
+<p>Z: Won’t everyone say their stuff is harmful-to-minors so they don’t go to jail?</p>
+
+<p>L: That’s true in real space too.</p>
+
+<p>Z: Wouldn’t it be better to have a free market with third-party organizations rating all the sites?</p>
+
+<p>L: So the Christian Coalition will rate the Internet for me. And my Internet will depend on labeling systems of other people. Isn’t that more burdensome on free speech? </p>
+
+<p>Z: But the government’s not involved!</p>
+
+<p>L: True, but this restricts access to more speech.</p>
+
+<p>Z: So do venetian blind manufacturers! Are you saying a world that enables parents to shield their kids is a world with less free speech?</p>
+
+<p>L: But having a system pick out what’s blocked is different than a parent picking.</p>
+
+<p>Z: So we hire a nanny to sit by the blinds.</p>
+
+<p>L: But won’t the systems block sites that criticize them?</p>
+
+<p>Z: As well they should! Circumvention tools take away power from the parents. <a href="http://peacefire.org/bypass/">Bypassing software</a> hurts the parents. People, like <a href="http://archive.aclu.org/issues/cyber/burning.html">the ACLU, who protect these sites</a> just want to let kids see porn.</p>
+
+<p>L: How do we know this system works? </p>
+
+<p><strong>Terry Fisher Update:</strong> Posner has affirmed Aimster.</p>
+
+<h3>Jurisdiction</h3>
+
+<p>Yahoo! France case, US courts won’t enforce French decisions against the First Amendment. </p>
+
+<p>L: So we don’t try to enforce our laws in other countries.</p>
+
+<p>Z: Not so fast — American exceptionalism! Take iCraveTV, they used TV in Canada and broadcast it across the Internet. It’s legal in Canada, but not in the US.</p>
+
+<p>L: So if the US was being consistent, we wouldn’t force Canadians to live up to our law. </p>
+
+<p>Z: Nah, we just go after the iCraveTV people who live in Pittsburgh. If we didn’t do that, then everyone would move to Sealand.</p>
+
+<p>L: So we wouldn’t try to enforce in Canada.</p>
+
+<p>Z: Foolish consistency! We’d probably ask Canada to enforce our judgement if we had to.</p>
+
+<p>L: What if iCraveTV tried to filter out US citizens?</p>
+
+<p>Z: iCraveTV tried this; they asked Are you Canadian? Yes or no. Version 2 asked for your area code and only accepted if it was Canadian. But if it was more accurate like <a href="http://www.quova.com/">Quova</a>. Even 99% accuracy wasn’t good enough.</p>
+
+<p>L: So in this world, the Internet French people sees could be quite different. </p>
+
+<p>Z: Yes, and Google.de is different from Google.com. (We have a mole at Google. We call him Moogle.) Great firewall of China. </p>
+
+<p>L: So we have technologies to identify where, what, and to block it. So local governments have an easier, and easier time to regulate. </p>
+
+<p>Z: Yes, the indicators point to a zoned world, and every country has an interest in that. US may turn up their noses at banning Nazi stuff, but perhaps not so much if we can ban child porn.</p>
+
+<p>Q: How can we stop violence against women on the Net but not stop freedom of speech?<br />
+A: Yes, it’s the same toolkit for every problem. Need to figure out who people are, what the data is, and block it. That’s the connection between porn and jurisdiction.</p>
+
+<p>Q: How did you see what sites were blocked in China?<br />
+A: We used ATT Worldnet to dial up Beijing and tried to visit sites. After a while our dialup was stymied, so we looked for open proxies in China. </p>
+
+<p>Q: Do you really feel having enforceable jurisdictions is bad?<br />
+A: I’m not sure I want to impose my values on others, but I do want to argue for my values. I think access is better than restriction. Is it legitimate to enforce our view on others.</p>
+
+<h2>Nesson: Democracy</h2>
+
+<p>[Nesson is making us bloggers come down on the floor.]</p>
+
+<p>Nesson: We’ve seen the net’s anarchistic libertarian heritage, but we’ve also seen it’s now in its twilight and will be gone in 2-3 years.</p>
+
+<p>So what’s real, what’s not? Identify what makes the net democratic. Panel: Free speech, equality, connectivity, low cost, participation. Nesson: How much is architecture?<br />
+Lisa: A lot. Nesson: How much is law?<br />
+Panel: Common carrier platform.</p>
+
+<p>Audience: When everyone uses IE6, how is it democratic?<br />
+Frank: There’s a barrier-to-entry to use the tools. Lisa: We need consumer education. People think AOL is the Internet. </p>
+
+<p>Panel: Most of the planet doesn’t have the Net.</p>
+
+<p>Nesson: Zittrain, you talked about Tier 1. What about Tier 2? What about Africa?</p>
+
+<p>[&#8230;]</p>
+
+<h2>Benkler:</h2>
+
+<p>Models of communication: broadcast (intelligent sender), telephone (intelligent core), Internet (intelligent ends). Communication is made up of discrete components. </p>
+
+<p>Democracy: Jonas of IDT: wants to control the pipe, content, opinion.  Political routers, slowing packets from competitors and speeding them from partners. “The ability to shape the window through which we view the world [&#8230;] is core to the question of democracy.”</p>
+
+<p>Autonomy.</p>
+
+<p>Innovation.</p>
+
+<p>Efficiency: time-lag in redesigning network when people change their preferences. </p>
+
+<p>Policy communications stack: Content, Logical, Physical. Take a fax. Physical: paper, lead in my pencil, a fax machine, copper/fiber wires, another fax machine, more paper, more ink. Logical: software, standards. Content: scribbles. </p>
+
+<p>Physical: Overwhelming Cable, some DSL, a little sat., &#8230; . For homes and small businesses, it’s <em>all</em> cable and DSL (run by RBOCs). It’s the bigger institutions doing the other stuff (T1s, Fiber, etc.). Other ILEC and non-ILEC are teeny. Conclusion: ’76 Act Competition is a failure; incumbents take all.</p>
+
+<p>Historically, we thought monopolies were more efficient. Cost-per-subscriber would be greater because most of the cost is in wiring the neighborhood. So you regulate the monopoly, you don’t introduce competition. </p>
+
+<p>In the 1990s, we has two monopoly incumbents each capable of providing broadband. Wanted to introduce competition because regulators were bad at controlling monopolies.</p>
+
+<p>Incumbent monopolist and need for competition. 1996 act: require telephone monopoly to cooperate with competitors. we’ll have two incumbents and each will have competition over their wires. intra-modal competition.</p>
+
+<p>Hope: Open-Wireless networks! If you’re willing to spend $50 on service and $50 on hardware, then with an open wireless network you’ll spend $100 on hardware and get smarter devices at the edges.</p>
+
+<p>Gain: making communication better without increasing popular. Directional antenna gain (putting hands around mouth or ears), processing gain (intelligent receivers reconstructing), cooperation gain (asking others to relay).</p>
+
+<p>Multi-user information theory. </p>
+
+<p>Logical: TCP/IP, DNS, Linux, Apache, Perl are all open. (Trusted system: closing off the open components.</p>
+
+<p>Content: Freenet, free content, etc.</p>
+
+<p>If the proprietary folks throw out all the open stuff in just one layer, then they control it all. We still have a chance for a Commons, though. </p>
+
+<h2>Content: Tech</h2>
+
+<p>Alexander Macgillivray shows how peer-to-peer software works.</p>
+
+<p>Charlie Nesson demonstrates video mashups and Kazaa.</p>
+
+<p>Glenn Brown shows some excellent video mashups (some <a href="http://illegal-art.org/video/">are available from Illegal Art</a>).</p>
+
+<p>Alexander Macgillivray shows more common forms of sampling: hyperlinks, OPML, BoingBoing, Google, Google News, Google glossary, Froogle.</p>
+
+<h2>Fisher: Why Business Patents are Bad</h2>
+
+<h3>Reward Theory</h3>
+
+<p>Business patents are public goods. Creators may not make them unless government intervenes and grants a monopoly.</p>
+
+<p>I invent a mouse trap. Marginal cost is low and stable. Competition will drive cost down to marginal cost of production. I know this and will never invent a mouse trap. So I get a patent. And then I could force every customer to pay as much as they can. But I don’t have the info to do that so I pick a flat price that maximizes my monopoly profits. One group (those who valued it more than the cost picked) saves. But there’s also losers (deadweight loss) — folks who would by the mousetrap at marginal cost but not at monopoly cost. Extreme result: millions of people in Africa with AIDS die.</p>
+
+<p>Disadvantages: Administrative costs, impediments to cumulative innovation, deadweight loss. Conclusion: patents are always costly and should only be used when needed.</p>
+
+<h3>Rent-dissipation Theory</h3>
+
+<p>Rent-dissipation: Society is best served if only one team works on something. But monopoly profits encourage lots of teams to fight to be first. Also encourages people to waste time working around patented inventions and not to build on previous patented inventions.</p>
+
+<p>Proposal: Grant broad patent rights to those who come up with big inventions. They’ll get rid of the waste by regulating future inventors to prevent conflicts.</p>
+
+<p>Problem: Patentees won’t do anything and you’ll have an even greater rush to make big inventions.</p>
+
+<p>Rent-dissipation is unavoidable.</p>
+
+<h3>Conclusions</h3>
+
+<p>Business method patents are bad. No evidence that they’re needed to stimulate innovation. People innovate to get first-mover advantage; not to make monopoly profits. Patents have little if any benefits and very serious costs: transaction costs (increased by recent reforms — need two examiners not one), large deadweight losses (consumers priced out of the market), impediments to cumulative innovation, rent-dissipation.</p>
+
+<p>We should get rid of business-method patents.</p>
+
+<p>Audience: Another justification for patents is that they provide a way of forcing improved techniques into the open. That’s not necessary for business-method patents.</p>
+
+<p>Audience: Business-method patents don’t require a large outlay of capital to develop, so the monopoly profits aren’t necessary.</p>
+
+<p class="posted">posted June 30, 2003 11:14 AM (<a class="category" href="cat_politics">Politics</a>)  <a href="000991" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000990" title="Party Geek">&laquo; prev</a> | <a href="./">up</a> | <a href="000993" title="Scott McCloud is Back!">next &raquo;</a></p>
+
+<p><a href="000986">Google AdSense</a><br />
+<a href="000987">Trip Announcement</a><br />
+<a href="000988">Dave Winer said&#8230;</a><br />
+<a href="000989">Progress</a><br />
+<a href="000990">Party Geek</a><br />
+<strong>ILAW 5</strong><br />
+<a href="000993">Scott McCloud is Back!</a><br />
+<a href="000994">San Francisco Moment</a><br />
+<a href="000998">Aaron&#8217;s Censorware</a><br />
+<a href="001008">Cards</a><br />
+<a href="001010">Dodging Trains</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

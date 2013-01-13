@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Raw Nerve (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Raw Nerve</h1>
+
+<p>This is a series of pieces on getting better at life.</p>
+
+<ol>
+<li><a href="stepback">Take a step back</a></li>
+<li><a href="dweck">Believe you can change</a></li>
+<li><a href="semmelweis">Look at yourself objectively</a></li>
+<li><a href="dalio">Lean into the pain</a></li>
+<li><a href="anders">Confront reality</a></li>
+<li><a href="geremiah">Cherish mistakes</a></li>
+<li><a href="nummi">Fix the machine, not the person</a></li>
+</ol>
+
+<p>The best posts are probably 2 and 4.</p>
+
+<p>Bonus pieces:</p>
+
+<ul>
+<li><a href="optimalbias">What are the optimal biases to overcome?</a></li>
+</ul>
+
+<p>Related reading:</p>
+
+<ul>
+<li><em><a href="http://books.theinfo.org/go/B0062Q7S3S">The Flinch</a></em> (for part 4)</li>
+<li><em><a href="http://books.theinfo.org/go/0307951790">Everything is Obvious</a></em></li>
+<li>Ray Dalio&#8217;s <em><a href="http://www.bwater.com/Uploads/FileManager/Principles/Bridgewater-Associates-Ray-Dalio-Principles.pdf">Principles</a></em></li>
+</ul>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">August 18, 2012</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="rawnerve" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

@@ -1,0 +1,47 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>TRAMP Update (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/000611.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000609" title="Feeling Lucky" />	<link rel="next" href="000613" title="Gary Shapiro: Sharing is Legal and Moral!" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>TRAMP Update</h1>
+</div>
+
+<div class="content">
+<p>Finally finished up (most of) TRAMP, my RDF interface for Python. (If you don&#8217;t use RDF or Python you can probably safely skip this entry.) </p>
+
+<p>New in this version: RDF library abstraction (because rdflib&#8217;s organization currently sucks), write values in addition to reading, and unit tests, all with that old TRAMP flavor you&#8217;ve come to know and love. </p>
+
+<p><em>But wait,</em> it also comes with <a href="http://www.aaronsw.com/2002/tramp">an entire page of explanation/advertisement</a> if you&#8217;re not already convinced.</p><blockquote>RDF/XML got you down? Tired of having to go through contortions to deal with data? Want to write Python and be standards-compatible at the same time? Need a module to implement the psuedo-code you had on your slides? <strong>TRAMP may or may not be the answer to these problems!</strong></blockquote><p>Enjoy, and get a free bonus prize if you can <a href="mailto:me@aaronsw.com">tell me</a> why it&#8217;s called TRAMP.</p>
+
+<p class="posted">posted September 23, 2002 11:21 PM (<a class="category" href="cat_technology">Technology</a>)  <a href="000611" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000609" title="Feeling Lucky">&laquo; prev</a> | <a href="./">up</a> | <a href="000613" title="Gary Shapiro: Sharing is Legal and Moral!">next &raquo;</a></p>
+
+<p><a href="000603">Counter-terrorizing Osama</a><br />
+<a href="000604">RSS to Email Aggregator</a><br />
+<a href="000606">Subscribe to this Weblog by Email!</a><br />
+<a href="000607">Aaron on the Radio [updated]</a><br />
+<a href="000609">Feeling Lucky</a><br />
+<strong>TRAMP Update</strong><br />
+<a href="000613">Gary Shapiro: Sharing is Legal and Moral!</a><br />
+<a href="000614">Rights Fight</a><br />
+<a href="000615">p2p is not a crime</a><br />
+<a href="000616">Fuzzy Math</a><br />
+<a href="000617">Tufte</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

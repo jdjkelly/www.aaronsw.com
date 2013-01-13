@@ -1,0 +1,52 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>patently &#8220;fair use&#8221; (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/000690.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000689" title="books for reading at the Eldred victory party (or if you move to australia)" />	<link rel="next" href="000691" title="new arguments" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>patently &#8220;fair use&#8221;</h1>
+</div>
+
+<div class="content">
+<p><a href="http://www.law.cornell.edu/constitution/constitution.articlei.html#section8">Article  I, Section 8</a>: &#8220;The Congress shall have power to [&#8230;] promote the progress of science and useful arts, by securing for limited times to authors and inventors the exclusive right to their respective writings and discoveries;&#8221;<br />
+<a href="http://www.law.cornell.edu/constitution/constitution.billofrights.html#amendmenti">Ammendment I</a>: &#8220;Congress shall make no law [&#8230;] abridging the freedom of speech&#8221;</p>
+
+<p><a href="http://cyberlaw.stanford.edu/lessig/blog/archives/2002_10.shtml#000579">One way we&#8217;ve resolved the conflict between these two</a>, in copyright at least, has been through the notion of &#8220;<a href="http://www.google.com/search?q=fair+use">fair use</a>&#8221;. Literary criticism, for example, is very important protected speech, but difficult to do well without permission to copy portions of the original work. Fair use permits us to quote portions of a copyrighted work without permission.</p>
+
+<p>But to my knowledge, no similar doctrine exists for patents. This likely made sense when patents only covered physical inventions; building your own cotton gin is probably not protected speech. However, now that patents have (unfortunately) been interpreted to protect software, these issues come to light. Software, as courts ruled in the Bernstein case, is protected speech. It is the preferred way, in many professions, to converse and a healthy software discourse is essential for promoting the progress of science.</p>
+
+<p>Meanwhile, <a href="http://www.canada.com/vancouver/news/story.asp?id=%7B0D0279FC-B2F4-48CA-9A46-6DFF52DE2173%7D">as recent news shows</a>, some patents are causing serious harm without due process. If it was discovered a certain song cured a disease, people would be outraged if the copyright holder tried to prevent it from being sung. But yet patent holders have repeatedly used their monopoly to force the price of drugs so high that many can&#8217;t pay, and as a result die. I think any sensible person would think that this is outrageous.</p>
+
+<p>So I hold that a bare minimum, our concept patent fair use must permits both non-commercial distribution of patented speech (source code) and violation of a patent to save life or limb.</p>
+
+<p class="posted">posted October 23, 2002 03:26 PM (<a class="category" href="cat_politics">Politics</a>)  <a href="000690" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000689" title="books for reading at the Eldred victory party (or if you move to australia)">&laquo; prev</a> | <a href="./">up</a> | <a href="000691" title="new arguments">next &raquo;</a></p>
+
+<p><a href="000683">all the features, none of the fat</a><br />
+<a href="000684">Sinister RSS Conspiracy</a><br />
+<a href="000685">Gelernter on TechTV</a><br />
+<a href="000688">and the voices said&#8230;</a><br />
+<a href="000689">books for reading at the Eldred victory party (or if you move to australia)</a><br />
+<strong>patently &#8220;fair use&#8221;</strong><br />
+<a href="000691">new arguments</a><br />
+<a href="000694">IMMINENT END OF NET PREDICTED (source code at 11)</a><br />
+<a href="000699">won&#8217;t anyone think of the starving?</a><br />
+<a href="000704">2003 Redesign: [viewed best in gill sans]</a><br />
+<a href="000715">Announcing Decisions</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

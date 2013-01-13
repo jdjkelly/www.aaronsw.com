@@ -1,0 +1,592 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Conservative Losers (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001244.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001234" title="Brown and Goodridge" />	<link rel="next" href="001269" title="Miller and Brock" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Conservative Losers</h1>
+</div>
+
+<div class="content">
+<p>Progressives want to move the country forward, making things better for its inhabitants and the world. Conservatives want to take the country back, tossing out regulations and entitlements and liberty. But they never seem to win. Instead, progressives drag conservatives along kicking and screaming, trying their best to slow things down.</p>
+
+<p>Have conservatives actually ever succeeded in taking us backwards? There was prohibition, but that was a major failure and didn&#8217;t last particularly long. Such an idea would be unthinkable today. Sure, they&#8217;re always finding new fights to pick (abortion, drugs, gay marriage, etc.) but they never really seem to be winning. Let&#8217;s look at some conservative proposals over the years:</p>
+
+<p>A large portion nobody serious proposes anymore:</p>
+
+<ul>
+<li>Continuing slavery</li>
+<li>Continuing segregation</li>
+<li>Outlawing alcohol</li>
+<li>Outlawing mixed-race marriages</li>
+<li>Disenfranchising women</li>
+<li>Disenfranchising African-Americans</li>
+<li>Outlawing birth control</li>
+<li>Keeping federal funds from schools</li>
+</ul>
+
+<p>On others conservatives have been forced to (pretend to) take the opposite position:</p>
+
+<ul>
+<li>Stopping environmental regulations</li>
+<li>Not going to war for humanitarian reasons</li>
+<li>Reducing the size of the government</li>
+<li>Stopping Medicare/Medicaid</li>
+<li>Stopping social security</li>
+<li>Fighting states instead of terrorists</li>
+<li>Restricting immigration</li>
+</ul>
+
+<p>Some are still somewhat controvertial but no longer the case in America:</p>
+
+<ul>
+<li>Permitting discrimination against African-Americans</li>
+<li>Permitting discrimination against women</li>
+<li>Stopping welfare</li>
+<li>Stopping progressive taxation</li>
+<li>Outlawing sodomy</li>
+<li>Outlawing abortion</li>
+</ul>
+
+<p>And we can extrapolate to the controvertial issues of our time:</p>
+
+<ul>
+<li>Outlawing gay marriages</li>
+</ul>
+
+<p>And conservatives have lost on all these issues, despite massive funding, a huge media and political apparatus, controlling the presidency and the Congress, a largely obedient press, and a large group (up to half the country) of dedicated partisans!</p>
+
+<p>If conservatives can&#8217;t win anything expcept part of one issue (gay marriage) when they have over half the country, what hope do they possibly have?</p>
+
+<p>(Methodology note: I wish there was some list of conservative positions that I could use, but instead I&#8217;ve had to ask around and come up with things. If you have suggestions for <em>specific</em> proposals I&#8217;ve missed, please submit them in the comments.)</p>
+
+<p class="posted">posted May 19, 2004 06:24 PM (<a class="category" href="cat_politics">Politics</a>) (<a href="#comments">34 comments</a>) <a href="001244" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001234" title="Brown and Goodridge">&laquo; prev</a> | <a href="./">up</a> | <a href="001269" title="Miller and Brock">next &raquo;</a></p>
+
+<p><a href="001226">All News is Bad News</a><br />
+<a href="001228">Big Bad Bundle Blog</a><br />
+<a href="001229">I Hate Books</a><br />
+<a href="001230">Completely Outrageous</a><br />
+<a href="001234">Brown and Goodridge</a><br />
+<strong>Conservative Losers</strong><br />
+<a href="001269">Miller and Brock</a><br />
+<a href="001313">Film Recommendation: Brazil</a><br />
+<a href="001314">Brazil: The Sucky Story of Sid Sheinberg</a><br />
+<a href="001315">James Surowiecki&#8217;s The Wisdom of Crowds: A Review</a><br />
+<a href="001335">Did You Know? Ronald Reagan Edition</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c2234">
+
+<p>So, some ground rules on what doesn&#8217;t count: </p>
+
+<ul>
+<li>Things conservatives have pushed through because the public simply doesn&#8217;t care about them (e.g. industry-specific deregulation)
+<ul>
+<li>Reasoning: Democrats could easily overturn them when they got power.</li>
+</ul>
+
+<p></p></li>
+<li>Things that have never had serious opposition (e.g. polygamy)
+
+<ul>
+<li>Reasoning: The proposal has never really been tested by the public.</li>
+</ul>
+
+<p></p></li>
+</ul>
+
+<p>Potential conservative victories:</p>
+
+<ul>
+<li>Death penalty</li>
+<li>Gun ownership</li>
+</ul>
+
+<p>De facto conservative victories:</p>
+
+<ul>
+<li>Parental consent/notification for abortion (although this <a href="http://www.statehealthfacts.kff.org/cgi-bin/healthfacts.cgi?action=compare&amp;category=Women%27s+Health&amp;subcategory=Abortion+Policy&amp;topic=Parental+Consent%2fNotification">appears to be a red state/blue state thing, in large part</a>)</li>
+<li>Three-strikes laws</li>
+<li>Mandatory sentencing</li>
+</ul>
+
+<p>(These, I suspect, might also be lost with time.)</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2234">Aaron Swartz</a> at May 19, 2004 06:53 PM <a href="#c2234">#</a></p>
+
+</div><div id="c2235">
+
+<p>On the issue of abortion, while liberals got the right to have them, ever since, conservatives have removed rights from it (late term, parental notification, etc).</p>
+
+<p>On the opposite end, I would say both the death penalty and guns are issues that conservatives have &#8220;won&#8221; and continue to control public opinion on, but that like abortion, liberals are chipping away at gun laws (requiring waiting periods, outlawing assault weapons, more gun ID stuff) and the death penalty (we don&#8217;t kill the disabled like we used to, we use the death penalty less generally, some states have stopped allowing them).</p>
+
+<p>I agree that in the big picture, these issues eventually go to liberals as public opinion changes and while there are setbacks from time to time, reasonable change happens slowly over time and seemingly can&#8217;t be stopped, only slowed down.</p>
+
+<p>One weird item is that small gov&#8217;t conservatives do want to legalize drugs, though the idea is often thought to be a liberal point of view that currently-illegal drugs should be legalized.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://a.wholelottanothing.org" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2235">Matt Haughey</a> at May 19, 2004 07:11 PM <a href="#c2235">#</a></p>
+
+</div><div id="c2236">
+
+<p>Have you heard the latest Republican outrage? The head of North Carolina&#8217;s Republican party told the Log Cabin Republicans they&#8217;re <a>not welcome</a> at the state convention taking place this weekend. I guess they don&#8217;t even have to pretend to be tolerant.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.mcdevzone.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2236">Mike Cohen</a> at May 19, 2004 07:33 PM <a href="#c2236">#</a></p>
+
+</div><div id="c2237">
+
+<p>Prisons.  Conservatives have kicked progressive butt on prisons.  In 1970 the US prison population was around 200,000, its now over 2 million.  No other nation on earth gets anywhere near where the US does in the rate at which it (and money it is willing to spend to) incarcerate its citizens.</p>
+
+<p>Maybe this doesn&#8217;t meet your criteria for going &#8220;backwards&#8221; because we&#8217;ve never incarcerated people like this before.  Yet as a tough &#8220;law and order&#8221; issue its clearly part of the conservative agenda.  Personally, given the vast disparities in how laws are enforced and how races are represented in the prison population I see it (along with the &#8220;drug war&#8221;) as a way for conservatives to score points in some of those items related to race that you took off the table.</p>
+
+<p>And just for completeness, the progressive position on prisons is that people need social services like education, job training, drug treatment, etc.  Once they have those things, they are vastless less likely to commit crimes, or if they already have committed crime, to commit them again once they are released from prison.  And it saves a whole lot of money, since putting people in prison is so expensive.</p>
+
+<p>Labor is another area where conservatives are succeeding in taking us backwards.  There&#8217;s more worker insecurity, longer hours, more beneficiaries of (legal and illegal) immigrant indentured servants, lower buying power for the minimum wage, and less power for workers to bargain collectively.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://demandmedia.net/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2237">akb</a> at May 19, 2004 07:54 PM <a href="#c2237">#</a></p>
+
+</div><div id="c2238">
+
+<p>Conservatives have won or are winning the argument on national defense, prison as retribution (instead of rehabilitation), fuel efficiency standards and alternative energy sources (consider how <em>Democrats</em> are complaining that gas prices are too high, instead of proposing alternative energy), affirmative action, and perhaps most critically, progressive taxation and universal health insurance.</p>
+
+<p>Nathan Newman <a href="http://www.nathannewman.org/log/archives/001728.shtml#001728">has more examples</a>, and notes that higher government spending isn&#8217;t equivalent with liberals winning. It&#8217;s can also mean conservatives paying off their buddies in big business.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.bushout.tv" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2238">Luke Francl</a> at May 19, 2004 08:00 PM <a href="#c2238">#</a></p>
+
+</div><div id="c2239">
+
+<p>Conservatives have won, for now, on &#8216;Keeping federal funds from schools&#8217;.
+Read up on the effects of NCLB (no child left behind). Its provisions are so ludicrous that with this act, all public schools will be &#8216;failing schools&#8217; and defunded / taken over within 10 years. Wish i had saved the URL. It is really incredible.</p>
+
+<p class="posted">posted by Ben Hines at May 19, 2004 08:12 PM <a href="#c2239">#</a></p>
+
+</div><div id="c2240">
+
+<p>I wrote a series of articles for my site a few months ago about conservatives and liberals and how they act which you might be interested in. They are as follows</p>
+
+<p><a href="http://obfuscated.net/archives/000009.php">The Mythical Past</a> about conservatives<br />
+<a href="http://obfuscated.net/archives/000015.php">Liberal Lunacy</a> about liberals<br />
+<a href="http://obfuscated.net/archives/000016.php">Liberal and Conservative Thought in Action</a> about how the groups act with respect to each other.</p>
+
+<p>I tend to find a lot of fault on both ends of the spectrum as well as the middle though I think that most people appear to be trying to do The Right Thing.</p>
+
+<p>A topic no one has addressed is off the spectrum thought. People who take those weird positions that no one agrees with.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://obfuscated.net/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2240">Michael Conlen</a> at May 19, 2004 09:28 PM <a href="#c2240">#</a></p>
+
+</div><div id="c2241">
+
+<p>&#8220;Controvertial&#8221;? Left-wingers are, like, such liberated spellers!</p>
+
+<p>Anyway, okay, you&#8217;re right. We&#8217;re losing. You win. So now will you please show us a little mercy and just leave us the heck alone? Will you stop trying to confiscate every last dime we earn to subsidize your sick ideology? Will you allow families to make their own decisions about best to educate their children? Will you permit us the religious liberty on which this country was founded? Will you stop forcing us to subsidize so-called &#8220;artists&#8221; whose so-called &#8220;art&#8221; involves photographing our most valued religious symbols immersed in human waste? Will you stop forcing us to support a hyper-politicized government monopoly school system that wages war on our moral values and our faith? Will you stop sending in the ACLU brownshirts every time some high school kid slips and mutters a prayer? Will you stop assaulting us everywhere we turn with your filthy pornography? Go ahead and kill babies all day and all night, to your hearts content. Smear yourselves with their blood. I don&#8217;t care. JUST LEAVE US ALONE! You win.</p>
+
+<p class="posted">posted by Bern de Galvez at May 20, 2004 12:25 AM <a href="#c2241">#</a></p>
+
+</div><div id="c2243">
+
+<p><em>Progressives want to move the country forward, making things better for its inhabitants and the world. Conservatives want to take the country back, tossing out regulations and entitlements and liberty.</em></p>
+
+<p>I stopped reading when I got to this ignorant and malicious lie.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://slashdot.org/~pudge/journal" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2243">pudge</a> at May 20, 2004 02:06 AM <a href="#c2243">#</a></p>
+
+</div><div id="c2244">
+
+<p>(And yes, I realize it is likely either ignorant OR a lie, but I figure it is necessarily one or the other, and not knowing which, I&#8217;d use both.)</p>
+
+<p class="posted">posted by <a target="_blank" title="http://slashdot.org/~pudge/journal" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2244">pudge</a> at May 20, 2004 02:08 AM <a href="#c2244">#</a></p>
+
+</div><div id="c2249">
+
+<p>&#8220;&#8230; so-called “artists” whose so-called “art” involves&#8230;&#8221;</p>
+
+<p>Taking the above poster&#8217;s lead and expanding the &#8220;conservative = wrong&#8221; theme into the realm of art you have the greater acceptance of the abstract and non-representational. Picasso is now a byword for great artist.</p>
+
+<p>And in a scienctific parallel it was Max Planck who said &#8220;a new scientific truth does not triumph by convincing its opponents and making them see the light, but rather because its opponents eventually die, and a new generation grows up that is familiar with it&#8221;.</p>
+
+<p>Even the creationists are fighting a losing battle  with contiual losses forcing them to pretend to be scientists pushing Intelligent Design and find them accepting Micro-evolution while continuing to dispute Macro-evolution. </p>
+
+<p class="posted">posted by d at May 20, 2004 09:30 AM <a href="#c2249">#</a></p>
+
+</div><div id="c2250">
+
+<p>Not that the left has ever been wrong about anything &#8212; like Marxism/Leninism/Stalinism/Maoism.</p>
+
+<p>Anyway, so long as the Islamo-fascists are still running wild in the streets I would not quite so quickly nor glibly declare the final victory of modernism.</p>
+
+<p>P.S. Ain&#8217;t nothin&#8217; &#8220;abstract and non-representational&#8221; about a crucifix in a vat of urine.</p>
+
+<p class="posted">posted by bern de galvez at May 20, 2004 09:49 AM <a href="#c2250">#</a></p>
+
+</div><div id="c2252">
+
+<p>I&#8217;ve always liked the Libertarian Party, although I don&#8217;t agree with their more extreme ideas. I think there&#8217;s a big opportunity for them now. Leave the republican party to the religious wingnuts while moderates leave it for a different party (like the LP). Since the Republican party told the Log Cabin Republicans they want nothing to do with them, if the LCR moves to the LP it could help change the political landscape.</p>
+
+<p>I wrote about this in my <a href='http://www.mcdevzone.com/weblog/archives/001838.html'>weblog</a></p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.mcdevzone.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2252">Mike Cohen</a> at May 20, 2004 10:41 AM <a href="#c2252">#</a></p>
+
+</div><div id="c2253">
+
+<p>Yes, one can say that liberals come up with good progressive ideas and conservatives tend to fight them.</p>
+
+<p>But to be fair, one should also apply that pattern the other way around : Liberals come up with outrageously stupid (but &#8220;progressive&#8221;) ideas and conservatives prevent them from carrying them through, and generations later everyone agrees it was a bad idea.</p>
+
+<p>Unfortunately I am a bleedin&#8217;-hearted liberal myself so I&#8217;m afraid I don&#8217;t have any examples right now. Ideas, anyone ? A proposal that everybody nowdays would admit was stupid ?</p>
+
+<p class="posted">posted by <a target="_blank" title="http://eleves.ec-lille.fr/~kroeger" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2253">Emile</a> at May 20, 2004 11:07 AM <a href="#c2253">#</a></p>
+
+</div><div id="c2254">
+
+<p>Progress doesn&#8217;t go in a straight line. After the Civil War, for around a hundred years, the advances in racial integration were rolled-back enormously.
+For a while in the past few years, it was a pretty standard line to see in the news &#8220;The first black person to win that political position since the Reconstruction Era&#8221;. That was very significant.</p>
+
+<p>Right-wingers have done an extensive job of trashing the public school system, compared to a few decades back. Not entirely their doing, but definitely a long-term project of theirs. We don&#8217;t see it personally, since we&#8217;re at the top, which has done OK. But the middle and bottom have been gutted.</p>
+
+<p>As mentioned, labor gains have been rolled-back.</p>
+
+<p>National Health Care has been in a holding-pattern for fifty years.</p>
+
+<p>The War On (Some) Drugs has gotten much worse over the years, as part of the again-mentioned increases in prisons.</p>
+
+<p>Basically, if you&#8217;re rich, you&#8217;ve done fine. If not, things aren&#8217;t so great.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://sethf.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2254">Seth Finkelstein</a> at May 20, 2004 01:10 PM <a href="#c2254">#</a></p>
+
+</div><div id="c2255">
+
+<p>I think everyone has the right to be left alone. So let&#8217;s address the specifics</p>
+
+<p><em>Confiscate every last dime</em></p>
+
+<p>If liberals were in power, everyone making under $200,000 a year would pay hardly anything in taxes.</p>
+
+<p><em>Allow families to make their own decisions about best to educate their children</em></p>
+
+<p>I&#8217;m not sure how liberals are preventing this. If you don&#8217;t like the public schools, you can vote out the school board, find a better one, or homeschool your children. What else would you like?</p>
+
+<p><em>Permit us the religious liberty on which this country was founded</em></p>
+
+<p>I&#8217;m all in favor of religious liberty, and I&#8217;ll happily donate money for a legal challenge if the government is denying it to you. What exactly is the problem? </p>
+
+<p><em>Stop forcing us to subsidize so-called &#8220;artists&#8221;</em></p>
+
+<p>Since you wouldn&#8217;t be paying taxes, this wouldn&#8217;t be a problem.</p>
+
+<p><em>government monopoly school system</em></p>
+
+<p>It&#8217;s not a monopoly &#8212; there are tons of private schools.</p>
+
+<p><em>wages war on our moral values and our faith</em></p>
+
+<p>I&#8217;m all for stopping schools from waging war on faith. They should provide kids with both sides of issues, not ram down their favorite. (Example: Here&#8217;s evolution, here&#8217;s all the evidence that agrees with it. Here&#8217;s creationism, some people believe it, but there&#8217;s no scientific evidence for it.)</p>
+
+<p><em>Stop sending in the ACLU brownshirts every time some high school kid slips and mutters a prayer</em></p>
+
+<p>Um, I don&#8217;t think the ACLU has ever challenged a high school student&#8217;s right to say a prayer &#8212; only coercive school-sanctioned prayer, which &#8220;wages war on [some students] faith&#8221;.</p>
+
+<p><em>Stop assaulting us everywhere we turn with your filthy pornography</em></p>
+
+<p>OK, this one I can&#8217;t see any way to solve in a free country. Sorry.</p>
+
+<p>But on all the others, it seems like you&#8217;d be fine in a country run by liberals.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2255">Aaron Swartz</a> at May 20, 2004 05:06 PM <a href="#c2255">#</a></p>
+
+</div><div id="c2256">
+
+<p>Actually, BdG&#8217;s comment is a good example of <a href="http://www.aaronsw.com/weblog/001174">Up is Downism</a> &#8212; it&#8217;s really conservatives who want to tell us what to do.</p>
+
+<p>They want to tell us how we can have sex in our own homes (condoms, sodomy), how our doctor should help us (abortion), what to eat and drink (alcohol, drugs), what to watch and say (profanity, sex and violence on TV), what to wear (wristbands, low-cut jeans), and often even what to think (what did you say? are you an islamofascist?).</p>
+
+<p>In particular, Brent Bozell&#8217;s Parents Television Council is running a concerted campaign to keep me from watching my favorite television show by writing letters to its advertisers. I like that television show! Why can&#8217;t they leave me alone?</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2256">Aaron Swartz</a> at May 20, 2004 05:14 PM <a href="#c2256">#</a></p>
+
+</div><div id="c2257">
+
+<p>Just a few thoughts&#8230;</p>
+
+<p>Please watch for straw men. It is very easy to construct a false, hate-able picture of a group of people you disagree with.</p>
+
+<p>Democrat/Republican splits aligning themselves with existing cultural differences can (as others have noted) make it much more difficult for people talk rationally and make compromises. Our system of government tends to work better when we can talk rationally and compromise.</p>
+
+<p>I think our society would be better if we weren&#8217;t split up between the Blues and Reds all of the time. I duly note that the right should shoulder a lot of the blame for our current problems, but the left has been pretty pig-headed as well.</p>
+
+<p>Also, remember that Conservative is not equal to Republican, over long periods of time. The Democrats were the racists who didn&#8217;t want to change back in the mid-to-late 1800s. And in modern times there are people who mark a split in the Republican party between Reagan and Bush. So even our ideas of what it means to be conservative change over (relatively) short periods of time.</p>
+
+<p>All that said, I think there is a normal, natural tendency to have (in any large enough set of people) some people who want things to change and some people who don&#8217;t. That doesn&#8217;t make either group right or wrong, dumb or smart (on general principals).</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.rouseworld.org" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2257">David Rouse</a> at May 20, 2004 05:19 PM <a href="#c2257">#</a></p>
+
+</div><div id="c2258">
+
+<p><i>Will you stop sending in the ACLU brownshirts every time some high school kid slips and mutters a prayer?</i></p>
+
+<p>Actually, anyone familiar with the ACLU&#8217;s position on prayer in public schools would know that they oppose institutionalized (administration-run) prayer in public schools.  They whole-heartedly support privately-led groups (e.g. &#8220;anyone interested in saying some thoughts and prayers about this, please meet us at the flag pole&#8221;) and even school groups (e.g. my school&#8217;s Jesus Christ club).  Don&#8217;t use non-existant strawman arguments please.  If the ACLU <i>did</i> do something like that, you can count on most <b>real</b> religious freedom/tolerance advocates to speak out on it.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://httP;//steve.tenchiintokyo.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2258">Steve</a> at May 20, 2004 05:52 PM <a href="#c2258">#</a></p>
+
+</div><div id="c2259">
+
+<p>I won&#8217;t prolong this, but I can&#8217;t let this one pass:</p>
+
+<p><i>If liberals were in power, everyone making under $200,000 a year would pay hardly anything in taxes.</i></p>
+
+<p>Interesting. You&#8217;re proposing to eliminate all property, sales, FICA and Medicare taxes, as well as federal and state income taxes below $200k? Sounds like a good first step toward drastically reducing the scale and role of government, in which case I&#8217;m with you. If, however, you would leave spending the same and simply shift an incremental tax burden onto the innovative, succesful, productive people who create all the jobs and who already pay the lion&#8217;s share of taxes &#8212; a group many of us aspire to join &#8212; then that doesn&#8217;t sound too smart. I&#8217;d be interested to know who seriously who has proposed doing so.</p>
+
+<p>The sad fact is that liberals do remain firmly in power in a lot of places, and for that matter they completely dominated the federal government for much of the past century, until just the last few years. I&#8217;m curious what makes you so certain they would enact such a proposal &#8212; since they haven&#8217;t.</p>
+
+<p class="posted">posted by bern de galvez at May 20, 2004 09:42 PM <a href="#c2259">#</a></p>
+
+</div><div id="c2260">
+
+<p>yeh&#8230; i mean, all those &#8220;liberal&#8221; presidents like jimmy carter (who actually scaled back progressive taxation) and Clinton, whose welfare &#8220;reform&#8221; was a major victory for conservatives&#8230; face it, there hasn&#8217;t been a domestically liberal president since LBJ and the Great Society.  And the argument that &#8220;democrats controlled congress&#8221; doesn&#8217;t float; many of those were southern democrats, and southern democrats are more conservative than the most die-hard republican.</p>
+
+<p>And don&#8217;t even get me started on how we haven&#8217;t had a liberal foreign policy since&#8230; um&#8230; ever.  Because it&#8217;s &#8220;soft on defense.&#8221;  Because the conservative foreign policy worked so well during the Cold War, and it&#8217;s working so well post-cold war.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://httP;//steve.tenchiintokyo.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2260">Steve</a> at May 20, 2004 09:57 PM <a href="#c2260">#</a></p>
+
+</div><div id="c2262">
+
+<p>Ah yes, but liberals have given me a wonderful 34% taxation rate, simply because I&#8217;m self-employed.  And guess what?  Ms. Wont-get-off-her-butt collects welfare every month, now has 3 more kids than when she got on, and I get to pay for her lack of initiative.  Woohoo!  There&#8217;s my straw man!</p>
+
+<p class="posted">posted by <a target="_blank" title="http://eric.perceive.net" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2262">Eric Vitiello</a> at May 21, 2004 06:53 AM <a href="#c2262">#</a></p>
+
+</div><div id="c2264">
+
+<p>I believe it&#8217;s a mistake to consider Prohibition to be a &#8220;Conservative&#8221; victory, and it&#8217;s illustrative of the larger problem in your post; namely, it assumes that Conservative and Progressive have always meant (and stood for) the same thing.</p>
+
+<p>Prohibition came about in no small part due to <a href="http://womenshistory.about.com/cs/temperance/">women pushing for it</a> (along with the right to vote). Prohibition was a progressive issue to the core. Conservatives at the time wanted to keep their drinks stiff and their women at home.</p>
+
+<p>&#8220;Moving the country forward&#8221; often involves outlawing things (slavery) as much as it involves allowing things (gay marriage). Sometimes, the things the Progressives want to halt shouldn&#8217;t be halted, and the terrible ongoing price of Prohibition (vis. War on [some] Drugs) should be a continued reminder of that.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://mindlace.net" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2264">Ethan Fremen</a> at May 21, 2004 11:37 AM <a href="#c2264">#</a></p>
+
+</div><div id="c2267">
+
+<p>The criminal thing about all this is that liberals and conservatives don&#8217;t realise how much they need anything. Aaron&#8217;s partly right in that Conservatives are, well, conservative. They like to maintain the status quo. Liberals, are liberal: they push forth. Mind you, they tend to have lots of ideas, but not all of them are smart.</p>
+
+<p>What&#8217;s needed isn&#8217;t one or they other, but a mix: enlightened conservatives and prudent liberals.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://talideon.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2267">Keith Gaughan</a> at May 21, 2004 02:36 PM <a href="#c2267">#</a></p>
+
+</div><div id="c2269">
+
+<p>Matt (the 1st poster above) has a really interesting point&#8230; that some of the conservatives that are proponents of small government actually lean toward what has often been thought of as liberal thought.</p>
+
+<p>For example, the legalization of drugs that Matt mentioned. That&#8217;s a great example. </p>
+
+<p>For me, I started out as a conservative, but these days find myself on both ends of liberalism or conservatism, depending upon the issue. That is, I lean toward liberal thought on some issues and the opposite way on other issues.</p>
+
+<p>I think Keith&#8217;s comment (above) that we need &#8220;a mix: enlightened conservatives and prudent liberals&#8221; is right on the money.</p>
+
+<p>Tim</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.debt-solution-tips.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2269">Tim Macalpine</a> at May 22, 2004 04:06 PM <a href="#c2269">#</a></p>
+
+</div><div id="c2271">
+
+<p>As one of the few true progressives that you are likely to meet I would like to point out that Dennis Kucinitch was the only candidate within the Democratic Party who represented our position. There seems to be a general confusion of &#8216;progressive&#8217; with &#8216;libertine&#8217; when in fact most progressives have more in common with puritans when it comes to ethical rigor. Now that the top 26,000 families have as much wealth as the bottom 96 million it might be time for so many so called &#8216;conservatives&#8217; to consider stopping voting ageist their own best interests where they are so often  swayed by non-issue &#8216;wedge issues&#8217; like abortion, and gun control. Recently their was a convocation of progressives held  in Wisconsin. Called  &#8216;Fighting BobFest&#8217;, I didn&#8217;t see any of you there, or at the birthday party for the Progressive magazine either. I completely agree with with Aaron  that progressivism represents the heart and future of America. An america that I would like to share with healthy minded conservatives who urge restraint and stability(they were certainly right about religion which late 19th century types like Marx and Freud thought it would be cool to get rid of). I was born in a Republic but I will die in an Empire. I was born in a Democracy but will die in a Plutocracy. So Sad. And all because some people can&#8217;t get past sexism, racism and the front doors of the library.
+&#8212; “As long as
+there is a lower class, I am in it. As long as
+there is a criminal element, I am of it. As long as there is a soul in prison, I
+am not free.”&#8212;Eugene Debs</p>
+
+<p class="posted">posted by krazykat at May 22, 2004 09:22 PM <a href="#c2271">#</a></p>
+
+</div><div id="c2275">
+
+<p>Since I spent the past five minutes reading this stuff I guess I&#8217;ll add my two cents worth.
+In reading the many posts, there seem to be two general opinions on what is conservative and what is liberal.  One is primarily economic based and the other is civil liberties based.  The two are not mutually exclusive, nor are they mutually miscible.  They are fluid entities that take the shape of the opinions of the person speaking.
+Lets start with taxes.  I make a bunch of money by most standards and pay a lot in taxes.  The harder I work, the more money I make and the more I pay in taxes.  If I have a particularly good year then I get to graduate to a higher tax bracket and pay even more of every dollar I earn to &#8220;Uncle Sam.&#8221;  This isn&#8217;t a liberal or a conservative platform, it is a function of the federal government no matter who is in power.  This type of taxation doesn&#8217;t discriminate, it applies to all races, gender, age, job and social status.  It&#8217;s basic accounting, the more you make, the more yo pay&#8230;and pay for what?  I don&#8217;t consume more government the more I work or the more I make, in fact I probably use a lot less of the government that people paying much less than me in taxes.
+In terms of politics, we should discuss things as pro job or pro assistance.  In other words we should vote to generate more jobs or vote to generate more assistance programs so more people can nurse the government teat.  Those with jobs and money, ie taxpayers work for somebody, ie the &#8220;rich.&#8221;  Without the rich there are no jobs, generally speaking.  Those without jobs, the &#8220;poor&#8221; live off of assistance which primarily comes from tax dollars.  So, the rich and the poor both survive off of the taxpayers or the &#8220;middle class.&#8221;  Work harder, make your boss more money and pay more taxes to take care of more poor people.  If you don&#8217;t like this arrangement, you can quit your job and become poor or figure out how create jobs for other people and become rich.  Again, this has nothing to do with politics.  Both sides massage this basic econimic principal to generate votes.  Remember, economic class is less dependent on how much you make, but how you get paid and pay your taxes.</p>
+
+<p>Regarding the personal liberties stuff.  Nature abhorres a vacuum.  All successful systems change with time or vanish in the abyss of obsoleteness and extinction.  Change, however must come at the right time, have the right tempo, the right direction or it leads to degeneration.  Progressiveness is the acceptance of new ideas that promote beneficial change&#8230;it is not the acceptance of all ideas for the sake of uniqueness.</p>
+
+<p>No matter how you vote, how you pay your taxes, how you dress, what you believe, or who you sleep with, I wish you well and I hope you find your moment in life to give as much as you recieve.</p>
+
+<p class="posted">posted by Doc Holmes at May 23, 2004 06:53 PM <a href="#c2275">#</a></p>
+
+</div><div id="c2276">
+
+<p>Ah Doc, I am glad you botered to read as far as you did. You might be interested to know that you have fallen victim to the scam outlined in David Cay Johnson&#8217;s &#8220;Perfectly             Legal: The Covert Campaign to Rig Our Tax System to Benefit the Super             Rich &#8212; and Cheat   Everybody Else&#8221;There is an interview with the author at http://www.buzzflash.com/interviews/04/03/int04017.html. I think you will be surprised to discover that the people above you are in fact not paying more but paying little or nothing at all. You are not only paying more than you should but you are not getting good value on what you are paying. I think it was Ike who said that every bomb is a theft from the American people.It doesn&#8217;t take very much looking to discover that the govt.. is using your hard earned cash to export jobs en masse. Speaking of the government you said quote: This isnt a liberal or a conservative platform, it is a function of the federal government no matter who is in power. Now really,are you sure you want to say that? I would argue that the &#8216;neo-liberal&#8217; tax reforms introduced by Reagan and later adopted by the Democrats has changed things so dramatically that the government rather than being a servant of the people has become a fully owned subsidiary of the major corporations. I do agree that it should not be part of a liberal or conservative platform. It is strictly a class issue and the dividing line is within the upper one percent. If you are in the high 7 figures you will benefit materially from the current tax system. I you are not you will suffer.Their are even a number of wealthy philanthropists, like Bill Gate&#8217;s dad(Responsible Wealth) who find this level of inequity to be grossly un-American and a recipe for disaster.
+I hope to see you opposing tax cuts, tax breaks, privatization and de-regulation; tis is not a liberal agenda it is an American agenda.</p>
+
+<p>&#8220;Many an artful tyrant will conjure up external enemies in order to distract the people from their domestic grievances.&#8221;
+-A. Hamilton</p>
+
+<p class="posted">posted by krazykat at May 23, 2004 10:49 PM <a href="#c2276">#</a></p>
+
+</div><div id="c2279">
+
+<p>well, i enjoyed this blog until this post - a post based on utter ignorance of american history, american political mechanics, and worst of all of the facts&#8230; good luck in all your future endeavors, Aaron</p>
+
+<p class="posted">posted by Praetorian at May 26, 2004 05:03 AM <a href="#c2279">#</a></p>
+
+</div><div id="c2280">
+
+<p>Wow.  You need to read some NationalReview.com.  There is much to learn about the world.</p>
+
+<p class="posted">posted by Harry at May 26, 2004 09:09 PM <a href="#c2280">#</a></p>
+
+</div><div id="c2286">
+
+<p>There is a good short history of social reform in the twentith century to be found at:http://www.geocities.com/CollegePark/Quad/6460/AH2/1900.html#pref</p>
+
+<p>Re: &#8220;Where’s Okrent? The End of the Times&#8221; Now that the Times is owning up to the fabrication of the WMD stories I hope that enough pressure will be put on them that they print a retraction on the front page(rather than A10) and name Judith Miller as the author of most of the offending articles.</p>
+
+<p class="posted">posted by krazykat at May 27, 2004 11:08 PM <a href="#c2286">#</a></p>
+
+</div><div id="c2288">
+
+<p>Maybe someone should take a look an ask &#8220;why?&#8221; liberals are winning these battles.  If you beleive that society is progressively getting better - only then can you throw that in the face of conservatives.  If, in fact society is getting more sinister then liberalism could then be viewed as a sort of cancer.  </p>
+
+<p class="posted">posted by mclatch at May 28, 2004 01:18 PM <a href="#c2288">#</a></p>
+
+</div><div id="c2302">
+
+<p>Hmm. A few years back, in a public forum, I called Aaron a &#8220;snot-nosed kid&#8221;. Afterwards, I felt pretty bad about it, because there was a lot of angst flowing at that time and unfortunately I was caught up in it.</p>
+
+<p>But now I see I was right.</p>
+
+<p>Take a look at Aaron&#8217;s home page, second and third paragraphs. Almost every single sentence starts with &#8220;I&#8221;, a classic sign of extreme arrogance and selfishness.</p>
+
+<p>The world does not revolve around you, Aaron. What a pitiful attempt to defame conservatives.</p>
+
+<p>Did you know that conservatives outvoted liberals when it came to passing the Civil Rights Act of 1964? Or that it was a conservative Republican who abolished slavery, over the objections of many Democrats, including the Copperheads who preached open sedition and revolt? Or that conservatives believe people should be judged by the merit of their character, not the color of their skin &#8212; unlike many liberals, who support Affirmative Action?</p>
+
+<p>Of course, you&#8217;re young, and I used to be just like you, so I guess ignorance can be excused. But boy, do you have a lot of learning and growing up to do.</p>
+
+<p class="posted">posted by Dave at June  6, 2004 11:41 AM <a href="#c2302">#</a></p>
+
+</div><div id="c2306">
+
+<p>It is interesting to note in Dave&#8217;s post that he uses &#8220;I&#8221; a lot also. It&#8217;s also disingenuous or under-informed to say that Republicans are and always have been conservative, Democrats always liberal. The Republican party of the 1860s was very different from that of the 1950s, different yet again from that of the 1970s: although it was Ike who integrated the military in the 50s and cautioned against the Military-Industrial Complex (his phrase) it was Barry Goldwater who really swung the party to the ideological right, and Nixon who more or less cemented that. Plus all the former southern Democrats alienated by LBJ&#8217;s Great Society (notoriously egalitarian).</p>
+
+<p>As to Doc&#8217;s point that a person making more money doesn&#8217;t use more government services than someone making less: not necessarily so. Rich people are more likely to travel abroad, and it&#8217;s citizens travelling abroad that mandate much of the foreign-service apparatus. That&#8217;s just one example off the top of my head. Rich people are more likely to own cars, drive more, requiring more road capacity, etc.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://crossroads.net/a" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2306">Adam Rice </a> at June  8, 2004 09:01 PM <a href="#c2306">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001244.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1244" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

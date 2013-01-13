@@ -1,0 +1,49 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Software and Source Code (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000520" title="Fireworks of Failure" />	<link rel="next" href="000522" title="Vote Hank Perritt" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Software and Source Code</h1>
+</div>
+
+<div class="content">
+<p>With a book, there are two important people involved: the writer and the reader. The writer has a concept which they communicate to the reader through words. The reader than turns the words back into the concept.  With books, we can always see the words &#8212; by their nature, they can&#8217;t be hidden and cause the same effect.</p>
+
+<p>Software is different. The programmer wants to do something, so he puts together a bunch of instructructions (source code) to do it. But then he compiles the source. The source code is compressed in a way that the computer will continue to do the same thing but humans can&#8217;t understand. It&#8217;s a difficult concept to describe and I can&#8217;t think of a good analogy but it&#8217;s important to understand that while you still get the same experience when running the program, you can&#8217;t look at the instructions that create that experience. It&#8217;s like <a href="http://www.aaronsw.com/2002/toasterTinkers">the sealed toasters</a>: they still work, but you can&#8217;t see inside.</p>
+
+<p>Lessig <a href="http://www.wired.com/wired/archive/9.12/lessig_pr.html">is arguing that we should be allowed to see inside</a>, that it&#8217;s important to see the instructions that make the computer do what they do. Dave <a href="http://scriptingnews.userland.com/backissues/2002/08/21#When:8:42:50AM">contends that what&#8217;s really important is the experience that&#8217;s created</a> because the same experience can always be rebuilt with different code.</p>
+
+<p>As with all copyright questions, the thing that should be driving our analysis is what benefits the public most. It&#8217;s clear that the public will get some benefit from being able to see the source code:</p><ul><li>We can learn the algorithms and concepts that power the tools we use. How does my email program do searches so fast? There&#8217;s really no way for me to find out without the source code.</li><li>We can copy and modify the software once it falls into the public domain. If the source is never made public, even though we technically have these rights they are useless because no one has the source code to take advantage of them.</li><li>We can make modifications ourselves (or attempts at them) and send them to the programmers for integration with the next version. Without the source code, if we want a feature added or a bug fixed, we&#8217;re at the whims of the developers who may not have the same priorities as we do.</li><li>We can see undocumented APIs and hooks. One issue in the Microsoft case is that Windows alledgedly had &#8220;hooks&#8221; in the operating system that only Microsoft developers were told about. This means that Microsoft developers could make better and more functional programs, because they could take advantage of features no one else could. With source code, we can see all the hooks and integration is much easier.</li></ul><p>So what are the downsides of making source code available? This is the case I think Dave needs to make. Off the top of my head, I can&#8217;t think of any serious ones.</p>
+
+<p class="posted">posted August 21, 2002 01:56 PM (<a class="category" href="cat_technology">Technology</a>)  <a href="000521" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000520" title="Fireworks of Failure">&laquo; prev</a> | <a href="./">up</a> | <a href="000522" title="Vote Hank Perritt">next &raquo;</a></p>
+
+<p><a href="000515">Car Factories and Post Offices</a><br />
+<a href="000516">Electronic Pulsing Spam-Killing Superbrain</a><br />
+<a href="000518">Introducing&#8230; Warchalking! The New Swhack!</a><br />
+<a href="000519">IMS/ISC out of the ICANN Running</a><br />
+<a href="000520">Fireworks of Failure</a><br />
+<strong>Software and Source Code</strong><br />
+<a href="000522">Vote Hank Perritt</a><br />
+<a href="000524">Dear Bigshot</a><br />
+<a href="000527">Scientology threatened by &#8220;unadulterated cyber-terrorism&#8221;</a><br />
+<a href="000528">Screen Savers on the Desktop</a><br />
+<a href="000529">David P. Reed on Piracy</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

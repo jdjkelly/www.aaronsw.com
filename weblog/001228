@@ -1,0 +1,270 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Big Bad Bundle Blog (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001228.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001226" title="All News is Bad News" />	<link rel="next" href="001229" title="I Hate Books" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Big Bad Bundle Blog</h1>
+</div>
+
+<div class="content">
+<p>Thanks to <a href="http://atrios.blogspot.com/2004_05_09_atrios_archive.html#108428096243748826">a quick tip from Atrios</a>, I headed over to <a href="http://www.theconnection.org/shows/2004/05/20040511_b_main.asp">The Connection&#8217;s show on blogs</a>, where I got to be the second caller (after <a href="http://www.flutterby.com/">what had to be Dan Lyke of Flutterby</a>). I tried to defend the blog&#8217;s honor by pointing to the large number of expert bloggers who do serious reporting, at least when compared to the <a href="http://www.aaronsw.com/weblog/001226">standards of regular journalism</a>. But they responded with a good point: how do you find the good stuff?</p>
+
+<p>Maybe there should be a metablog, collecting all the intelligent expert commentary from the various blogs, separating the wheat from the chaff for a daily bundle of expert reporting.</p>
+
+<p>One might be able to make a whole decent newspaper out of the result, winnowing out all the personal notes and random commentary to get just the juicy insider/expert stuff. It wouldn&#8217;t just be news, it&#8217;d be an education. You&#8217;d learn law, education, economics, governmen, and policy dose-by-dose.</p>
+
+<p>Is there already a blog out there like this? If not, do you have recommendations on blogs to scour for inclusion? Any heavy blog readers willing to help out? </p>
+
+<p><a href="http://www.aaronsw.com/weblog/001228#comments">Comment</a> or <a href="mailto:me@aaronsw.com">email</a>.</p>
+
+<p class="posted">posted May 11, 2004 11:11 AM (<a class="category" href="cat_press_clipping">Press Clipping</a>) (<a href="#comments">12 comments</a>) <a href="001228" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001226" title="All News is Bad News">&laquo; prev</a> | <a href="./">up</a> | <a href="001229" title="I Hate Books">next &raquo;</a></p>
+
+<p><a href="001222">Physics&#8217;s Puzzle</a><br />
+<a href="001223">Where&#8217;s Okrent? The End of the Times</a><br />
+<a href="001224">Misreading Jefferson is Sinful and Tyrannical</a><br />
+<a href="001225">[REDACTED]</a><br />
+<a href="001226">All News is Bad News</a><br />
+<strong>Big Bad Bundle Blog</strong><br />
+<a href="001229">I Hate Books</a><br />
+<a href="001230">Completely Outrageous</a><br />
+<a href="001234">Brown and Goodridge</a><br />
+<a href="001244">Conservative Losers</a><br />
+<a href="001269">Miller and Brock</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1042">
+
+<p>Blog recommendations:</p>
+
+<ul>
+<li><a href="http://volokh.com/">Volokh Conspiracy</a> (law)</li>
+<li><a href="http://www.j-bradford-delong.net/movable_type/">Brad DeLong</a> (economics)</li>
+</ul>
+
+<p>Good stories today from all over:</p>
+
+<ul>
+<li><a href="http://betterangels.blogspot.com/2004/05/ballad-of-barbara-bradley-hagerty.html">NPR reporter violates ethics rules</a></li>
+<li><a href="http://nypost.com/business/23936.htm">Labor department makes up job numbers</a></li>
+</ul>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=1042">Aaron Swartz</a> at May 11, 2004 11:19 AM <a href="#c1042">#</a></p>
+
+</div><div id="c1043">
+
+<p>http://google.com/news/ + http://blogger.com/</p>
+
+<p>Will they?</p>
+
+<p class="posted">posted by Ben Lings at May 11, 2004 12:02 PM <a href="#c1043">#</a></p>
+
+</div><div id="c1044">
+
+<p>Check out my comments and associated interiew in:</p>
+
+<p><a href="http://sethf.com/infothought/blog/archives/000606.html">Interviewed for &#8220;Blogging of a Thesis About Blogging&#8221;</a></p>
+
+<p>Regarding:</p>
+
+<p>&#8220;Maybe there should be a metablog, collecting all the intelligent expert commentary from the various blogs, separating the wheat from the chaff for a daily bundle of expert reporting.&#8221;</p>
+
+<p>This is called &#8220;Being an editor, going through the slush pile, and rewriting the marginal articles (or suggesting rewrites to the author).</p>
+
+<p>That is &#8220;Meet the new boss, same as the old boss&#8221;.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://grep.law.harvard.edu/article.pl?sid=03/12/16/0526234&mode=nocomment" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=1044">Seth Finkelstein</a> at May 11, 2004 12:20 PM <a href="#c1044">#</a></p>
+
+</div><div id="c1047">
+
+<p>MetaFilter (http://www.metafilter.com/) sometimes collects interesting expert opinions&#8230;  And sometimes stuff that&#8217;s utterly irrelevant&#8230;</p>
+
+<p>Theoretically you could set up a sort of K5 for blogs, in that people get points for submitting interesting/quality blog entry links.  And interesting/quality would be decided by other visitors.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.dominik.net/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=1047">Dominik Rabiej</a> at May 11, 2004 02:18 PM <a href="#c1047">#</a></p>
+
+</div><div id="c1048">
+
+<p>PageRank for blogs should do.</p>
+
+<p class="posted">posted by pb at May 11, 2004 03:29 PM <a href="#c1048">#</a></p>
+
+</div><div id="c1049">
+
+<p><a href="http://juancole.com/">Juan Cole</a> has one of the best expert blogs around. <a href="http://balkin.blogspot.com/">Jack Balkin&#8217;s blog</a> is great on constitutional law. <a href="http://www.lessig.org/blog/">Lessig</a> for copyright issues. <a href="http://moresoftmoneyhardlaw.com/">More Soft Money, Hard Law</a> is an amazingly in-depth blog on campaign finance. <a href="http://www.maxspeak.org/mt/">MaxSpeak</a> and <a href="http://angrybear.blogspot.com/">Angry Bear</a> are both professional economists. <a href="http://www.nathannewman.org/log/">Nathan Newman</a> for labor issues. See other recommendations in the list of 2003 Koufax Award finalists for <a href="http://wampum.wabanaki.net/archives/000720.html">&#8220;Best Expert Blog&#8221;</a>).</p>
+
+<p>Seth, I think, is correct. PageRank/Technorati-type popularity measures don&#8217;t measure what&#8217;s <em>good</em>. Arts and Letters Daily sounds sort of like what you want for a &#8220;best of the web today&#8221; sort of site.</p>
+
+<p>As for myself? I read Daily Kos and Atrios constantly, most of the above via RSS, and several other political ad-related news sources for my own blog (I&#8217;m not an expert!).</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.bushout.tv" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=1049">Luke Francl</a> at May 11, 2004 07:40 PM <a href="#c1049">#</a></p>
+
+</div><div id="c1050">
+
+<p><a href="http://www.kinja.com">Kinja</a> kind of offers what you&#8217;re talking about via the &#8220;Editor&#8217;s Digests.&#8221;</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronlogan.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=1050">Aaron Logan</a> at May 11, 2004 11:54 PM <a href="#c1050">#</a></p>
+
+</div><div id="c1059">
+
+<p>Just one note here: To allow this vision to reach its full potential, blogs should be covered by Creative Commons licenses &#8212; so that someone could actually print them out and sell them in newspaper form, for example.</p>
+
+<p>Of course, your weblog already is in the public domain [so is this comment]. Good for you.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://purl.oclc.org/NET/benja/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=1059">Benja Fallenstein</a> at May 12, 2004 04:09 PM <a href="#c1059">#</a></p>
+
+</div><div id="c2207">
+
+<p>Just Google for the subject that interests you. Google seems to be getting better at indexing blog entries. I would assume that having the permalink be it&#8217;s own page would also help.</p>
+
+<p>There are also a lot of good blogs that simply link to other blog entries. Find those that interest you and subscribe.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://pixelcort.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2207">Cortland Haws</a> at May 17, 2004 02:11 PM <a href="#c2207">#</a></p>
+
+</div><div id="c2290">
+
+<p>Many months ago I posted in my blog on this very subject (<a href="http://www.richardsilverstein.com/tikun_olam/2003/11/blog_directorie.html">Blog Directories: Why Isn&#8217;t There a Google of the Blogging World?</a>).  While I didn&#8217;t have any great technical ideas on how to do this, I said that I thought we needed either a Google blog directory (a la Google&#8217;s web and directory sections) or something independent of Google but functioning in a similar way.  While this wouldn&#8217;t winnow out the blog wheat fr. the chaff, it would allow for a centralized system of searching for, &amp; identifying blog resources.  Much needed.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.richardsilverstein.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2290">Richard Silverstein</a> at May 28, 2004 05:29 PM <a href="#c2290">#</a></p>
+
+</div><div id="c2565">
+
+<p>Blog should have the good editors and be going in one large retrieval system.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.vivm.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2565">andry</a> at July 17, 2004 01:48 PM <a href="#c2565">#</a></p>
+
+</div><div id="c3058">
+
+<p><a href="http://www.good-health-info.com">Health Products Reviewed</a></p>
+
+<p><a href="http://www.good-health-info.com/fastsize.htm">Fastsize</a>
+<a href="http://www.good-health-info.com/fastsize-extender.htm">Fastsize Extender</a>
+<a href="http://www.good-health-info.com/Pro-Extender.htm">Pro Extender</a> <a href="http://www.good-health-info.com/ProExtender.htm">ProExtender</a>
+<a href="http://www.good-health-info.com/vimax-extender.htm">Vimax Extender</a>
+<a href="http://www.good-health-info.com/sizegenetics.htm">SizeGenetics</a></p>
+
+<p class="posted">posted by jake at October 14, 2004 03:43 PM <a href="#c3058">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001228.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1228" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

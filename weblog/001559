@@ -1,0 +1,202 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Home: Life and Love (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001559.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001558" title="Home Again" />	<link rel="next" href="001560" title="Home: Gloom and Loneliness" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Home: Life and Love</h1>
+</div>
+
+<div class="content">
+<p class="dateline">Highland Park, Illinois &#8212; December 16, 2004</p>
+
+<p>During my week at home, only one thing happened that I thought interesting enough to write down. One night I had a powerful dream; here&#8217;s the little I remember:</p>
+
+<p>I meet a beautiful little girl, at least several years younger than I am. Somehow we start talking and, I suppose, flirting. We hang out together talking and laughing. We go for walks holding hands. It makes me feel special. But because of her age I feel as if I have to hide her from my family. Then comes some occasion where we happen to be sitting at the same table with adults looking on. I try to ignore her to avoid getting caught. But she walks over to sit next to me. I get a little scared but she is unashamed. She smiles and then leans over to place her cheek next to mine and my whole body lights up with the sensation that this is so purely right.   </p>
+
+<p>So purely right.</p>
+
+<p>So right.</p>
+
+<p>Right.</p>
+
+<p>And then I wake up.</p>
+
+<p>Clearly, like the crush on TGIQ, this is another message from my body to stop waiting around. But I feel deeply ambivalent about the topic. On the one hand I agree that I should see one. It&#8217;s An Experience, an important part of life, a bit of happiness. But on the other hand it&#8217;s a lot of work and trouble and I lack anything other than intellectual motivation. I tell myself that maybe later it will get easier. And maybe it will.</p>
+
+<hr />
+
+<p>I&#8217;ve spent a lot of time watching TV and movies, many of which naturally feature stories about love. Despite all this, only one love story has ever held any resonance for me. It is the story of Richard Feynman&#8217;s first wife. Feynman tells it at the beginning of <em>What Do You Care What Other People Think?</em> (it&#8217;s the title story). I remember exactly where I was when I finished it. I was on the sidewalk, walking home from the train station, blue skies and trees overhead. And I stopped walking and I put the book down and I just looked up at the sky as a chill ran through my body.</p>
+
+<p>It&#8217;s such a perfect story.</p>
+
+<p>I don&#8217;t want to ruin it, but there is one passage that strikes me:</p>
+
+<blockquote>
+  <p>[She] and I began to mold each other&#8217;s personality. She lived in a family that was very polite, and was very sensitive to other people&#8217;s feelings. She taught me to be more sensitive to those kinds of things, too. On the other hand, her family felt that &#8220;white lies&#8221; were okay.</p>
+  
+  <p>I thought one should have the attitude of &#8220;What do <em>you</em> care what other people think!&#8221; I said, &#8220;We should listen to other people&#8217;s opinions and take them into account. Then, if they don&#8217;t make sense and we think they&#8217;re wrong then that&#8217;s that!&#8221; </p>
+  
+  <p>[She] caught on to the idea right away. It was easy to talk her into thinking that in our relationship we must be very honest with each other and say everything with absolute frankness. It worked very well, and we became very much in love&#8212;a love like no other love that I know of.</p>
+</blockquote>
+
+<p>I am sure this is silly and naive, but this is what I dream of. And whenever I see another couple in a show or a movie, always fraught with tension as the medium requires, I can&#8217;t help but think that their troubles would be over if they were simply honest with each other, instead of tiptoeing around each other&#8217;s feelings. But I suspect few have the capacity or inclination for such frankness.</p>
+
+<p class="posted">posted February 13, 2005 10:25 PM (<a class="category" href="cat_education">Education</a>) (<a href="#comments">3 comments</a>) <a href="001559" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001558" title="Home Again">&laquo; prev</a> | <a href="./">up</a> | <a href="001560" title="Home: Gloom and Loneliness">next &raquo;</a></p>
+
+<p><a href="001548">Stanford: Tuesday, December 7</a><br />
+<a href="001551">Stanford: Wednesday, December 8</a><br />
+<a href="001552">Edward Tufte on Beautiful Evidence (and more Stanford: December 8)</a><br />
+<a href="001557">Stanford: Thursday, December 9</a><br />
+<a href="001558">Home Again</a><br />
+<strong>Home: Life and Love</strong><br />
+<a href="001560">Home: Gloom and Loneliness</a><br />
+<a href="001561">New York City: Winter Vacation</a><br />
+<a href="001562">Stanford: Back to School</a><br />
+<a href="001563">Stanford: I Miss Zooko</a><br />
+<a href="001564">Stanford: Fuzzier Heads Prevail</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c3963">
+
+<p>Stop writing about it, and start living! Stop watching movies and TV, take control. It&#8217;s not exactly rocket science.</p>
+
+<p class="posted">posted by person at February 14, 2005 11:56 PM <a href="#c3963">#</a></p>
+
+</div><div id="c3973">
+
+<p>Feynman liked to play the part of a clown a lot, did&#8217;t he? At least, that&#8217;s the impression you get from reading his two books.  But, I think that in person he was much like the way he presented himself in his books.  That&#8217;s what I liked about him, that he never took himself seriously, even when people were calling him a genius.  One of the stories about him that I like is when he was giving his undergraduate lectures in physics, what became the famous &#8220;Lectures in Physics.&#8221;  Since it was supposed to be an introductory physics class, a lot of the students were freshmen, but his lectures proved to be too fast paced for most students, and many eventually dropped out.  The classroom started to thin out, but as word got out about the lectures, more people started to come in to hear it, and these people were grad students and other teachers.  Also, Feynman would ocassionally give guest lectures in undergraduate classes, and they would keep his appearances a secret, because if they announced them, then the class would get filled with people sitting in, and there&#8217;d be no room for the students taking the class.  It reminds me of the Faraday lectures, given by Faraday himself.  I would&#8217;ve liked to sit in on one of his lectures.  Though, I think that most of his lectures were taped, and you can actually get the recordings.  One of Feynman&#8217;s idiosyncrasies was his Brooklyn accent.  Imagine getting a lecture in advanced physics by someone with a Brooklyn accent, that&#8217;d be fun.</p>
+
+<p class="posted">posted by Prabhat at February 15, 2005 04:45 AM <a href="#c3973">#</a></p>
+
+</div><div id="c4281">
+
+<p><i>On the one hand I agree that I should see one.</i></p>
+
+<p>See one what?</p>
+
+<p class="posted">posted by <a target="_blank" title="http://lrp.greenrd.org/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=4281">Robin Green</a> at March  3, 2005 09:31 PM <a href="#c4281">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001559.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1559" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

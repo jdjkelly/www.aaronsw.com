@@ -1,0 +1,43 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Tufte (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/000617.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000616" title="Fuzzy Math" />	<link rel="next" href="000619" title="Quickly" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Tufte</h1>
+</div>
+
+<div class="content">
+<p>Today I took a one-day course from <a href="http://www.edwardtufte.com/">Edward Tufte</a>, the infodesign maven. He was surprisingly kind and silly &#8212; not what I expected from his writing. He was both entertaining and informative and I had a great time. I took a lot of notes, hopefully I can write them up soon.</p>
+
+<p class="posted">posted September 26, 2002 09:57 PM (<a class="category" href="cat_superheroes">Superheroes</a>)  <a href="000617" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000616" title="Fuzzy Math">&laquo; prev</a> | <a href="./">up</a> | <a href="000619" title="Quickly">next &raquo;</a></p>
+
+<p><a href="000611">TRAMP Update</a><br />
+<a href="000613">Gary Shapiro: Sharing is Legal and Moral!</a><br />
+<a href="000614">Rights Fight</a><br />
+<a href="000615">p2p is not a crime</a><br />
+<a href="000616">Fuzzy Math</a><br />
+<strong>Tufte</strong><br />
+<a href="000619">Quickly</a><br />
+<a href="000622">curb your celebrity</a><br />
+<a href="000623">what&#8217;s up, doc</a><br />
+<a href="000624">quick hack</a><br />
+<a href="000625">never a cent</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

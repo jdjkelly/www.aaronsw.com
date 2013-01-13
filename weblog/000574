@@ -1,0 +1,83 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>The Road to RSS 3.0 (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000573" title="Jaguar Ate My Life" />	<link rel="next" href="000576" title="Apple&#8217;s Guide to Cocoa Icons" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>The Road to RSS 3.0</h1>
+</div>
+
+<div class="content">
+
+
+<p>Edd Dumbill: <a href="http://www.oreillynet.com/pub/a/network/2000/08/25/magazine/rss_intro.html">RSS Moves Forward</a>. &#8220;The goal of RSS 1.0 has been to fix some problems, provide an extensible framework for the future, and bring RSS into community ownership. [&#8230;] RSS 1.0 provides a solid framework on which to build.&#8221;</p>
+
+<p>Dave Winer: <a href="http://scriptingnews.userland.com/backissues/2002/09/06#theRoadToRss20">The Road to RSS 2.0</a>. &#8220;And further, there&#8217;s talk all over the place about RSS 2.0, a belief that now&#8217;s the time to really get RSS on a strong foundation, one that&#8217;s solid and frozen, and at the same time extensible.&#8221;</p>
+
+<p>There&#8217;s been a lot of talk in the community about how RSS 2.0 is too complicated. I haven&#8217;t heard any objections, so I&#8217;m going to move ahead with the following changes that will result in RSS 3.0.</p>
+
+<p>1. Remove XML. XML is just too complicated and is against the spirit of RSS, which is Really Simple Syndication. I don&#8217;t want people to have to buy one of these 200 page XML books to understand RSS. And XML sucks up bandwidth like nobody&#8217;s business. Instead, we&#8217;ll go back to RFC822-style fields.  There are lots of available parsers for those.</p>
+
+<p>2. Remove namespaces. Namespaces are just a waste of time. If people want to add an element to RSS, then just send it to me and I&#8217;ll add it to my list of all elements in use. This system is easy to use and doesn&#8217;t result in any wasteful URIs all over the place.</p>
+
+<p>3. HTML forbidden. No one needs HTML. Email has been just fine for years before Microsoft introduce their stupid rich HTML extensions. HTML is for those loser newbies. Any intelligent Internet user deals in plain text.</p>
+
+<p>I&#8217;ll leave some time for comment and then put up a spec. Then we&#8217;ll deploy.</p><h3>Resources</h3><p><a href="http://www.aaronsw.com/2002/rss30">A spec is up.</a> </p>
+
+<p>We also have a cool icon: <img src="http://www.aaronsw.com/2002/rss30logo" />. Thanks to Mark Pilgrim for the <a href="http://diveintomark.org/public/rss3_draft.tmpl">Movable Type Template</a>. Stoyan Zhekov has added support to <a href="http://zhware.net/phosxom/phosxom3.php.txt">phosxom 0+3i</a>.</p>
+
+<p><strong>Feeds:</strong> <a href="http://www.aaronsw.com/weblog/index.rss">Aaron Swartz: The Weblog</a>, <a href="http://diveintomark.org/xml/rss3.txt">Dive into Mark</a>, <a href="http://www.intertwingly.net/blog/index.txt">Sam Ruby</a>, <a href="http://www.patandkat.com/pat/weblog/rss3.txt">Vertical Hold (Patrick Berry)</a>, <a href="http://www.aroundmyroom.com/blog/rss3.txt">Around My Room</a>, <a href="http://www.openbg.net/weblog/phosxom.php/txt">Stoyan Zhekov</a>, <a href="http://disillusion.net/rss3.txt">Disillusion</a>, <a href="http://internetalchemy.org/index.txt">Internet Alchemy</a>, <a href="http://www.raelity.org/?flav=rss3">Raelity Bytes</a>.</p>
+
+<p><strong>Tools:</strong> <a href="http://www.raelity.org/apps/blosxom/">blosxom</a>, <a href="http://newsbruiser.tigris.org/">NewsBruiser</a>, <a href="http://enigmastation.com/rsslibj/">RSSLibJ</a>.</p>
+
+<p><em>Many thanks</em> to Chris Langreiter for <a href="http://www.langreiter.com/space/2002-09-06-rssFiasco">a REBOL parser and a K parser</a> as well as Sean B. Palmer for this <a href="http://lists.w3.org/Archives/Public/www-archive/2002Sep/0089">one-line Python parser</a>: <code>[dict(re.compile('(?s)([^\n:]+): (.*?)(?=\n[^ \t]|\Z)').findall(item)) for item in s.split('\n\n')]</code></p><h3>Feedback</h3><p>Robert Brook: &#8220;Sense at last with RSS 3.0! [&#8230;] Congratulations, once again, for simplicity *where it&#8217;s needed*.&#8221;<br />
+Thomas Scott: &#8220;*Yes*.&#8221;<br />
+<a href="http://www.docuverse.com/blog/donpark/2002/09/09.html#a36">Don Park</a>: &#8220;a complete waste of time&#8221;<br />
+Shelley Powers: &#8220;Aaron, do we really need a computer? I mean, I have a cellphone, you have a cellphone. I pick up my phone and call you and say &#8216;Aaron, I have a web page. Stop what you&#8217;re doing, and go look at it.&#8217;&#8221;<br />
+Chris Langreiter: &#8220;genius, aaron!&#8221;<br />
+<a href="http://nextthing.org/archive.php?date=2002-09-07#8-AaronIsAwesome">Andew Wooster</a>: &#8220;Aaron is Awesome&#8221;<br />
+<a href="http://www.kode-fu.com/geek/2002_09_08_archive.shtml#85434371">Joey deVilla</a>: &#8220;It&#8217;s shockingly simple, and for some reason makes me happy in my Zen places.&#8221;<br />
+<a href="http://www.scribot.com/2002/09/09.html">acme</a>: &#8220;aaron rocks&#8221;<br />
+<a href="http://traumwind.tierpfad.de/blog/?detail=2002-09-09_11-26">Traumwind</a>: &#8220;this one-o-mega-cool&#8221;<br />
+<a href="http://www.pocketsoap.com/weblog/2002/09/06.html#a772">Simon Fell</a>: &#8220;Aaron is skipping straight onto RSS 3.0 sounds like he&#8217;s on the right track.&#8221;<br />
+<a href="http://pakaste.blogspot.com/2002_09_01_pakaste_archive.html#81274086">Juri Pakaste</a>: &#8220;Now we&#8217;re really getting somewhere. I was, you know, all frustrated and stuff with the difficulty of parsing XML. This is what we really need.&#8221;<br />
+<a href="http://radio.weblogs.com/0100148/2002/09/09.html#a489">Nicholas Riley</a>: &#8220;It demonstrates some unstated assumptions about the core of site syndication.&#8221;<br />
+<a href="http://www.monokromatik.com/veethree/?viewNewsItem=1&newsitemid=444">Brian Donovan</a>: &#8220;I didn&#8217;t really find it very amusing. It says a lot about AaronSw, none of it positive.&#8221;<br />
+<a href="http://diveintomark.org/archives/2002/09/09.html#quickly">Mark Pilgrim</a>: &#8221; He is, of course, kidding. At least I hope he&#8217;s kidding.&#8221;<br />
+<a href="http://zooko.com/log.html#d2002-09-06">Zooko</a>: &#8220;[&#8230;] what a reasonable proposal [&#8230;] No XML, no namespaces, no HTML. Such simplicity and reasonableness were really unexpected.&#8221;<br />
+Ben Hammersley: &#8220;it&#8217;s too complicated for the end user. I mean, you include vowels. And pronouns. keep diggin! my version of rss 4.0 will have no words. It will be entirely in interpretive dance&#8221;<br />
+Kevin Burton: &#8220;RSS 3.0 is easier than sexp&#8221;<br />
+Chris Croome: &#8220;I can&#8217;t think of any witty things to say about RSS 3.0&#8221;<br />
+Sean B. Palmer: &#8220;when you can parse a language in under 100 characters of Python, you know it has to be pretty good&#8221;</p>
+
+<p class="posted">posted September 06, 2002 02:51 PM (<a class="category" href="cat_technology">Technology</a>)  <a href="000574" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000573" title="Jaguar Ate My Life">&laquo; prev</a> | <a href="./">up</a> | <a href="000576" title="Apple&#8217;s Guide to Cocoa Icons">next &raquo;</a></p>
+
+<p><a href="000568">The First Ammendment Microwave</a><br />
+<a href="000569">MAKE RSS FAST!!!</a><br />
+<a href="000570">A .Mac Solution</a><br />
+<a href="000571">Buy His Books, Sell Your Furniture</a><br />
+<a href="000573">Jaguar Ate My Life</a><br />
+<strong>The Road to RSS 3.0</strong><br />
+<a href="000576">Apple&#8217;s Guide to Cocoa Icons</a><br />
+<a href="000578">Pepper Author Speaks Out</a><br />
+<a href="000579">iCal!</a><br />
+<a href="000582">RSS 3.0 Update</a><br />
+<a href="000585">More Crazy Haxies</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

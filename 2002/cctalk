@@ -1,0 +1,46 @@
+[A] You've heard some about "the semantic web" and "machine-readable licenses" tonight, but you're probably wondering what these are? 
+
+[A] _Is my computer going to take the weekend off to curl up with a good copyright license?_ Not quite.
+
+[A] For better or worse, we don't have computers that can read and
+understand English. But we do have a variety of tricks for making our
+documents more useful. 
+
+[A] When we send email, we put the people we want to
+send the message to in a specific and in a special format, so that our
+computer doesn't have to understand the message to know where to send
+it. When we add information to a database, we carefully tell the
+computer which part is which (first name, last name, etc.).
+
+[A] The semantic web is the extension of this idea to the Web: what if our
+web pages contained these same cues about the structure of the
+information? RDF is the format we use to put this structured
+(machine-readable) information on the Web. It opens up some interesting
+possibilities:
+
+[A] We can help different programs talk to each other, reducing the need to
+copy information by hand. Imagine a world where everything had embedded
+RDF: When buying a plane ticket, your computer could take details from
+your flight itinerary and add them to your calendar. You could drag a friend's top-ten songs list onto your music player to have it try to obtain the songs
+for you automatically. We could also build more powerful search engines. 
+
+[A] Right now you can only ask a search engine one question:
+
+[A] "What pages have these words in them?"
+
+[A] When pages include RDF metadata, you will be able to ask more advanced questions like "What's the current temperature in California?" And the results of the search will also be available in RDF, so programs can use the information too. An alarm clock program could also display the curren weather. A collage-making program could use only photos with a license that permitted it to redistribute the resulting collage.
+
+[A] Finally, this information can be aggregated across the whole Web. A
+program could download all the top-ten song lists and, with the help of
+a pricing guide in RDF, calculate the cost of buying the most popular
+albums. 
+
+[A] I think this is an exciting future, and I hope you do too, but to get
+there we have to start somewhere. That's why when you go to choose a
+license on our website, 
+
+[A] you're also given a bit of RDF to stick on your webpage. Programs can use these to help find stuff they can use automatically, but also to help you find stuff you can use, by taking your requirements into account.
+
+Hopefully, by spreading these little chunks of Creative Commons RDF
+around the Web, we can promote interest in the broader vision of a
+Semantic Web, and help kickstart its development. I hope you'll join us and get creative. 

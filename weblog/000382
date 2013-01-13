@@ -1,0 +1,47 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Introducing Memesh (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000381" title="Introducing web.resource.org" />	<link rel="next" href="000383" title="Recursive Blogging" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Introducing Memesh</h1>
+</div>
+
+<div class="content">
+<p>I&#8217;m still chugging along on my Cocoa app, which I decided to name &#8220;Memesh&#8221; (a cross between the fabled Memex and <a href="http://plesh.net/">the Plesh</a>). I still owe you a better explanation of what it does, but suffice it to say that it&#8217;s very much the next round of Blogspace, except as a client app. (I&#8217;m sure <a href="http://markbernstein.org/">Mark</a> will say that Tinderbox already does all of it&#8230;) </p>
+
+<p>It will store notes, RDF metadata and links between all of them, with a very fast indexed incremental search (like <a href="http://www.apple.com/macosx/whatyoucando/applications/mail.html">iMail</a> (Tinderbox doesn&#8217;t have that yet!) or <a href="http://www.apple.com/itunes/">iTunes</a>) and Web export.</p>
+
+<p>I&#8217;m really enjoying the Cocoa environment (if only I could code in Python&#8230;) and I&#8217;ve got some neat ideas for user interfaces. I&#8217;m actually hoping that I can reuse them for a one-off Movable Type client I want to build. (The Web interface quickly gets painful when you&#8217;re trying to do live blogging at a conference and the Blogger API won&#8217;t let you stick stuff in the extended entry box.)</p>
+
+<p class="posted">posted July 02, 2002 02:04 AM (<a class="category" href="cat_technology">Technology</a>)  <a href="000382" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000381" title="Introducing web.resource.org">&laquo; prev</a> | <a href="./">up</a> | <a href="000383" title="Recursive Blogging">next &raquo;</a></p>
+
+<p><a href="000372">Essentially&#8230; Blogging Cats?</a><br />
+<a href="000373">Ooh, A Webcam</a><br />
+<a href="000374">TCPA and Palladium in Plain Terms</a><br />
+<a href="000380">Web Roundup</a><br />
+<a href="000381">Introducing web.resource.org</a><br />
+<strong>Introducing Memesh</strong><br />
+<a href="000383">Recursive Blogging</a><br />
+<a href="000385">Putting an End to ICANN</a><br />
+<a href="000387">Today&#8217;s Hack: html2text Converter</a><br />
+<a href="000389">Debunking the Debunkers</a><br />
+<a href="000390">Reevaluating Copyright</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

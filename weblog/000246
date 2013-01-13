@@ -1,0 +1,51 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Beauty in Print (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/000246.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000242" title="The Juxtaposition of Church and State" />	<link rel="next" href="000247" title="Commentary" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Beauty in Print</h1>
+</div>
+
+<div class="content">
+<p>As of late I&#8217;ve been trying to learn how to design well. I went thru a suite of <a href="http://www.ratz.com/robin/books.html">Robin Williams books</a> and started doing a few projects. I&#8217;m decent at black and white and eager to learn the intracacies of color.</p>
+
+<p>That&#8217;s why I was blown away when I received my copy of <a href="http://www.eastgate.com/catalog/LiteraryMachines.html">Literary Machines</a> (Yes, I am a Ted Nelson fanboy). The printed invoice and postcard that came with was done with incredibly beautiful typography and layout. I can only imagine what their hypertexts might look like were they free from the restraints of these media.</p>
+
+<div style="text-align: center; background: #ffd; color: #930; padding: 10px; border: 1px dotted #c30; font:	30px/1.5 TembleITC TT, serif;">Where&#8217;s our CSS future?</div>
+
+<p>I hoped CSS would solve these problems, but I&#8217;m afraid I was wrong. Maybe it&#8217;s a lack of <a href="http://www.w3.org/Fonts/">font support</a> or <a href="http://www.omnigroup.com/images/applications/omniweb/Source.jpg">anti-aliasing browsers</a>. All I know is I can&#8217;t wait for the day when web pages are just as beautiful, if not more, than printed works.</p>
+
+<p>Speaking of Eastgate, I can&#8217;t wait to play with <a href="http://www.eastgate.com/Tinderbox/">Tinderbox</a> but I&#8217;ve made a pact with myself not to buy it until they come out with an OS X version. It&#8217;s hard to keep because I keep thinking of new things to use it for (run this weblog, <a href="http://logicerror.com/">LogicError</a>, keep track of the books I&#8217;ve read and am reading, etc.).</p>
+
+<p class="posted">posted May 05, 2002 02:34 PM (<a class="category" href="cat_personal">Personal</a>)  <a href="000246" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000242" title="The Juxtaposition of Church and State">&laquo; prev</a> | <a href="./">up</a> | <a href="000247" title="Commentary">next &raquo;</a></p>
+
+<p><a href="000236">Me and My Shadow</a><br />
+<a href="000237">Mysteries of the Web Archive</a><br />
+<a href="000238">New Haircut</a><br />
+<a href="000239">Portal</a><br />
+<a href="000242">The Juxtaposition of Church and State</a><br />
+<strong>Beauty in Print</strong><br />
+<a href="000247">Commentary</a><br />
+<a href="000260">WWW2002 - Day 1</a><br />
+<a href="000263">WWW2002 - Day 2</a><br />
+<a href="000267">WWW2002 - Day 3</a><br />
+<a href="000268">WWW2002 - Day 4</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

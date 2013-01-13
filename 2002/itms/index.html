@@ -1,0 +1,84 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+  <title>Behind the iTunes Music Store: A Technical Description of iTMS and FairPlay</title>
+<link rel="stylesheet" href="/style.css" /></head><body>
+
+<h1>Behind the iTunes Music Store: A Technical Description of iTMS and FairPlay</h1>
+
+<p>This document explains how the iTunes Music Store works. This information is useful to computer science researchers, cryptographers, and politicians, who may be curious to understand the largest deployed DRM system to date.</p>
+
+<h2>The Store Interface</h2>
+
+<p>The iTunes Music Store is essentially just a special type of website. Instead of using HTML, it uses its own XML-based system, and instead of using a web browser, it uses the iTunes software. But the basic principle is the same.</p>
+
+<p>The first page grabbed is the storefront:</p>
+
+<pre><code>http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/com.apple.jingle.app.store.DirectAction/storeFront
+
+&lt;?xml version="1.0" encoding="UTF-8" standalone="no"?&gt;
+&lt;Document xmlns="http://www.apple.com/itms/"&gt;
+&lt;Path&gt;&lt;/Path&gt;
+&lt;ScrollView ...
+</code></pre>
+
+<p>It goes on like that for a while. This special XML format includes all the special features necessary to make the iTMS application work.</p>
+
+<p>I haven't studied the format in detail, but it seems like it might be applicable to other nifty applications. Developing wouldn't be hard: the XML format is pretty easy to figure out, and to serve it up you just use plain old HTTP. And your app can be used by anyone with a copy of iTunes; just give them a URL like this:</p>
+
+<p><a href="itms://www.aaronsw.com/2002/itmsTest">itms://www.aaronsw.com/2002/itmsTest</a><br />
+(that link goes to a simple test page I put together)</p>
+
+<p>Some pages are additionally encrypted with Apple's own x-aes-cbc transfer encoding, which is explained by Anonymous, <a href="http://www.waxy.org/archive/2003/05/09/search_t.shtml">via Waxy.org</a>:</p>
+
+<blockquote>
+<p>The encryption is standard AES128 CBC. The iv, of course, is sent in the header, and the encryption key is:</p>
+
+<p>8a 9d ad 39 9f b0 14 c1 31 be 61 18 20 d7 88 95</p>
+
+<p>The key is actually generated from the following code snippet:</p>
+
+<pre><code>  MD5_CTX ctx
+  unsigned char key[16];
+  MD5_Init(&amp;ctx);
+  MD5_Update(&amp;ctx,"Accept-Language",15);
+  MD5_Update(&amp;ctx,"user-agent",10);
+  MD5_Update(&amp;ctx,"max-age",7);
+  MD5_Final(key,&amp;ctx);
+  // key[16] contains the AES key now
+</code></pre>
+</blockquote>
+
+<p>Song samples are simply normal .aac files.</p>
+
+<p><em>More information on the site has been <a href="http://www.xs4all.nl/~itsme/projects/misc/itunes.html">collected by Willem Jan Hengeveld</a>.</em></p>
+
+<h2>Logging in and Purchasing a Song</h2>
+
+<p>Unfortunately, both these operations are done over SSL. Presumably the connections could be captured using some sort of man-in-the-middle attack -- can anyone recommend software to do that?</p>
+
+<p>However, downloading the song is simple enough. it simply GETs the m4p file with a Cookie that includes an md5 hash (presumably gotten thru the encrypted exchange).</p>
+
+<h2>FairPlay</h2>
+
+<p>The FairPlay authorization/deauthorization process is also encrypted, but it's not hard to guess what's going on from the part we can see.</p>
+
+<p>The iTunes client hashes some system information to get a unique ID for the computer. It sends this hash to the iTunes server. If it doesn't already have three hashes, the iTunes server attaches this hash to the user's account and sends back the account's decryption key. The key is stored in iTunes's SC Info file, encrypted using the hash (so the file cannot be moved to another computer). </p>
+
+<p>When you go to play a song, iTunes simply hashes the information together, uses this to decrypt the SC Info file and retrieve the key, and uses the key to decrypt and play the song.</p>
+
+<p>(The hash is MD5 and the song encryption is AES.)</p>
+
+<p>When you place an encrypted song on an iPod, it decrypts the SC Info file, reencrypts it using the hash of the iPod's info, and copies the resulting SC Info file to the iPod.</p>
+
+<p>Deauthorization simply runs the process backwards: the hash is sent to Apple, Apple removes it from their list, and the SC Info file on the local machine is deleted.</p>
+
+<p>This leads to a hole in the system which allows you to authorize as many computers as you want: authorize the computer, make a backup of the SC Info file, deauthorize the computer, replace the SC Info file with the backup. Now the computer thinks it's authorized to play songs, but the store thinks it isn't (and thus allows you to authorize other computers).</p>
+
+<h2>Acknowledgements</h2>
+
+<p>Thanks to Jon "DeCSS" Johansen for reverse-engineering FairPlay. The explanation here is based mostly on his code for  VLC.</p>
+
+<p>Your comments and additions are appreciated. Send them to the address below:</p>
+
+<p><address><a href="/">Aaron Swartz</a> (<a href="mailto:fairplay@aaronsw.com">fairplay@aaronsw.com</a>)</address></p>
+
+</body></html>

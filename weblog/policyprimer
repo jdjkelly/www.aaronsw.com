@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>How Policy Gets Made: A Primer (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>How Policy Gets Made: A Primer</h1>
+
+<p>Barack Obama&#8217;s campaign was a model of efficiency and foresightedness. Bill Clinton treated his campaign plans like marketing documents, poll-testing each proposed new idea, and forcing his administration to only begin seriously thinking about what to do once they were in office. Obama, by contrast, started early and put together a series of policy teams even before the campaign had begun in earnest.</p>
+
+<p>Each policy team had a different subject &#8212; technology, health care, foreign policy &#8212; and was led by a top ally or fundraiser in the field. Let&#8217;s take technology, since it&#8217;s the case I&#8217;m most familiar with. Julius Genachowski was named Chairman of the Technology, Media and Telecommunications policy working group. Genachowski was a Harvard Law School classmate of Obama&#8217;s who had gone on to become a chief executive at Barry Diller&#8217;s IAC/InterActiveCorp (market cap: $2.1 billion). He went on to become a venture capitalist and sit on the board of numerous technology companies.</p>
+
+<p>He used his wealth (<a href="http://blogs.wsj.com/washwire/2009/04/01/fcc-nominee-to-take-a-big-paycut/">annual income</a>: $1.6 million) and influence to become the leading Silicon Valley fundraiser for his old classmate &#8212; indeed, one of Obama&#8217;s top fundraisers nationally. As a result, he was the obvious pick to define Obama&#8217;s technology policy. Genachowski canvassed his fellow Silicon Valley business leaders for policy suggestions and his team synthesized the results into proposed policy documents. These proposals were circulated among a wider circle for further comments before being published on the campaign website.</p>
+
+<p>After the election was won, the teams were reassembled as transition teams. Genachowski was again leading the technology team, now named the Technology, Innovation &amp; Government Reform Policy Working Group (TIGR). It was staffed by old government hands, like Thomas Kalil (Deputy Assistant to President Clinton for Technology and Economic Policy, rode out the Bush years as Special Assistant to the Chancellor for Science and Technology at UC Berkeley). Also brought out were business leaders, like Andrew McLaughlin (Head of Global Public Policy and Government Affairs for Google), and business-affiliated academic experts, like Susan Crawford (UMich law professor and a former partner at a DC law firm).</p>
+
+<p>The teams worked on converting the policy documents from the campaign into instructions that would be given to federal agencies or executive orders the President could sign. They fleshed out campaign proposals, interviewed potential candidates for government positions, and held audiences with various interest groups. I visited DC during this period and got to see the aforementioned names at DC cocktail parties or the diner outside transition headquarters that became the informal meeting-place of the team. &#8220;It&#8217;s the hardest I&#8217;ve ever worked in my life,&#8221; Susan Crawford told me, clearly relishing the challenge.</p>
+
+<p>After the inauguration, the teams disbanded and their members either returned to private life or were named to the administration. Genachowski, who obviously had his pick of positions, was named chairman of the Federal Communications Commission. Thomas Kalil became Associate Director of Science and Technology Policy. Susan Crawford became Special Assistant to the President for Science, Technology, and Innovation Policy. McLaughlin went back to work at Google, where his connections to the new administration are no doubt invaluable.</p>
+
+<p><strong>UPDATE:</strong> <a href="http://www.informationweek.com/news/government/federal/showArticle.jhtml?articleID=217700899">McLaughlin was named Deptuy CTO</a></p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">May 17, 2009</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>Okay, Obama had policy teams make up ideas, and yes, some of the people on those teams are now in his administration and others aren&#8217;t&#8230; but that doesn&#8217;t tell us how policy gets made, that just tells us that Obama&#8217;s campaign was more on the ball than Clinton&#8217;s.</p>
+
+<p>The real questions are about what they actually wrote up in those drafts, who else had input, how that process actually worked (who are these &#8220;fellow business leaders&#8221;? The &#8220;wider circle&#8221;? What are their interests? Do those represent the interests of consumers and non-institutionalized content producers?) How will those drafts be changed as they are incorporated into real legislation, and how will that legislation evolve as it works through Congress? What will happen when bills are implemented, and who will be able to influence the implementation? Etc.</p>
+
+<p class="posted">posted by Jacob Rus
+ on May 18, 2009 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>To be clear: all of what you&#8217;ve written here is a great start, but doesn&#8217;t seem to really get to the root of &#8220;How Policy Gets Made&#8221; (this seems more like &#8220;how people get access to the President&#8217;s early planning proces&#8221;)&#8212;it&#8217;d make a good first section of a more comprehensive &#8220;Primer&#8221; on that rather complicated subject.</p>
+
+<p class="posted">posted by Jacob Rus
+ on May 18, 2009 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="policyprimer" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

@@ -1,0 +1,43 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>It doesn&#8217;t seem like there&#8217;s (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/000088.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000087" title="Hmm, the status bar links" />	<link rel="next" href="000089" title="One of the exciting aspects" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>It doesn&#8217;t seem like there&#8217;s</h1>
+</div>
+
+<div class="content">
+<p>It doesn&#8217;t seem like there&#8217;s any way to get weblogs that don&#8217;t have RSS into Radio&#8217;s system/pages/news section. I&#8217;ve got an idea for a little script that does this. It&#8217;ll be an RSS feed that returns a link to the webpage with a checksum as its description. When the page changes, the checksum will change, and Radio will think it&#8217;s a new item and add a link to its News page.</p>
+
+<p class="posted">posted January 13, 2002 08:33 PM (<a class="category" href="cat_"></a>)  <a href="000088" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000087" title="Hmm, the status bar links">&laquo; prev</a> | <a href="./">up</a> | <a href="000089" title="One of the exciting aspects">next &raquo;</a></p>
+
+<p><a href="000083">James Joyce Business School</a><br />
+<a href="000084">Discover the Plex.</a><br />
+<a href="000085">Ask and you will receive.</a><br />
+<a href="000086">I can&#8217;t figure out how</a><br />
+<a href="000087">Hmm, the status bar links</a><br />
+<strong>It doesn&#8217;t seem like there&#8217;s</strong><br />
+<a href="000089">One of the exciting aspects</a><br />
+<a href="000090">Kishore has a top-ranking blog.</a><br />
+<a href="000091">Jeremiah does appear to be</a><br />
+<a href="000092">To watch: MacMegaSite.</a><br />
+<a href="000093">Heh, I&#8217;m glad UserLand doesn&#8217;t</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

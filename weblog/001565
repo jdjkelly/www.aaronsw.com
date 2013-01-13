@@ -1,0 +1,203 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Stanford: Artists and Aliens (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001565.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001564" title="Stanford: Fuzzier Heads Prevail" />	<link rel="next" href="001566" title="Stanford: Meeting the Man in Shadow" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Stanford: Artists and Aliens</h1>
+</div>
+
+<div class="content">
+<p class="dateline">January 6, 2005</p>
+
+<p>By some stroke of great fortune, I manage to get reaccepted to the writing class I was kicked out of because it was too full. I just know I&#8217;m going to love this class; I could tell just by looking at the professor&#8217;s name: Kevin DiPirro. Say it in your mind. How could you not love someone with a name like that?</p>
+
+<p>And sure enough, he&#8217;s very lovable. He wears the black turtleneck and short hair of Steve Jobs and when he gestures you can see his hands making color-coded words and punctuation marks in the air.</p>
+
+<p>The class itself consists of a small group around a table. There are lots of girls and laptops. We discuss articles I haven&#8217;t read (although I vaguely remember reading one, a National Magazine Award winner, many years ago). I love the class anyway.</p>
+
+<hr />
+
+<p><a href="http://www.aaronsw.com/weblog/001563">My knee problems</a> have been slowly going away. In some downtime I investigate them, quietly massaging my knee, when I notice a huge lump has suddenly shifted. I push on it &#8212; ow! &#8212; this is definitely what&#8217;s causing the pain. I quietly freak out before I remember how on an episode of <em>Penn and Teller</em> a lady had a similar thing and thought it was an alien egg implantation and a doctor operated and removed it and videotaped it and Penn and Teller showed the videotape to the doctor and he said it was just a lump of fat that broke off and it happens all the time. Happens all the time. Not an alien. I&#8217;m not worried.</p>
+
+<hr />
+
+<p>I go to San Francisco for a Creative Commons party. The Swedish American Hall insists on putting large Xs on my hands since I&#8217;m under 21; I consider telling people that I&#8217;m going straightedge. Prof. Lessig introduces me to Willem, his baby boy. While Lessig talks to a variety of important people about important things, I talk to Willem about the colorful things being projected on the screen. Willem, of course, is sitting on Lessig&#8217;s head.</p>
+
+<p>Unfortunately, while there are lots of other interesting people there, I feel like I don&#8217;t get a chance to talk to them. I am, however, mobbed by economics majors who try to claim some sort of validity for their field of study. I&#8217;ll probably take economics next term, but from what I&#8217;ve seen so far its even worse than psychology, which is really saying something. Economics seems to be the most blatant form of right-wing propaganda, dressed up as education. Needless to say, the economists don&#8217;t like hearing this.</p>
+
+<p>Afterwards I go out to dinner with Seth and Brad Templeton and some others (including a friend of Seth&#8217;s who happened to be just wandering down the street when he saw a bunch of Creative Commons people going into a building). I have a very nice plate of pasta. Brad and a person who I guess is his wife (she looks so familiar but I can&#8217;t place her&#8230;) drives me back to Stanford; I have trouble finding things to talk about with him and end up just feeling embarrassed before his mighty presence.</p>
+
+<p class="posted">posted February 13, 2005 11:51 PM (<a class="category" href="cat_education">Education</a>) (<a href="#comments">5 comments</a>) <a href="001565" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001564" title="Stanford: Fuzzier Heads Prevail">&laquo; prev</a> | <a href="./">up</a> | <a href="001566" title="Stanford: Meeting the Man in Shadow">next &raquo;</a></p>
+
+<p><a href="001560">Home: Gloom and Loneliness</a><br />
+<a href="001561">New York City: Winter Vacation</a><br />
+<a href="001562">Stanford: Back to School</a><br />
+<a href="001563">Stanford: I Miss Zooko</a><br />
+<a href="001564">Stanford: Fuzzier Heads Prevail</a><br />
+<strong>Stanford: Artists and Aliens</strong><br />
+<a href="001566">Stanford: Meeting the Man in Shadow</a><br />
+<a href="001567">Stanford: You May Have Already Won</a><br />
+<a href="001568">Stanford: Mind Control in Theory and Practice</a><br />
+<a href="001569">Malcolm Gladwell on Snap Judgments</a><br />
+<a href="001573">Stanford: Stand Up, Sell Out</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c3953">
+
+<p>Now this is just a suggestion, but why just say you are straight edge? Why not do it?</p>
+
+<p>I don&#8217;t call myself straight-edge, it&#8217;s not what it&#8217;s called here, and I don&#8217;t beat up smokers (although at cramped bus stops in pouring rain I am sometimes tempted), but essentialy, yes, I don&#8217;t drink.</p>
+
+<p>It&#8217;s one of those choices that was really easy to make for me, being wired the way I am. If someone wants to deny me something on account of my age, my club memberships, my percieved IQ rating or whatever I think to myself, &#8220;What if I don&#8217;t want your stupid privilege?&#8221;. That&#8217;s a gut reaction, but in my case it&#8217;s consicous as well. Alcohol is an easy decision to refuse. It&#8217;s bad for your health, and there&#8217;s something inherently distasteful about dulling one&#8217;s sense in order to be socially accepted.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://vintermann.paranoidkoala.org" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3953">Harald Korneliussen</a> at February 14, 2005 04:45 AM <a href="#c3953">#</a></p>
+
+</div><div id="c3961">
+
+<p>What about dulling your own senses to accept the others.. :p</p>
+
+<p class="posted">posted by nbj at February 14, 2005 01:24 PM <a href="#c3961">#</a></p>
+
+</div><div id="c3967">
+
+<p>&#8220;Straight edge&#8221; does not simply mean not drinking alcohol or doing drugs - it also means being vegan, pro-animal-rights, rejecting sex, not eating processed foods, among other things.</p>
+
+<p class="posted">posted by person at February 15, 2005 12:30 AM <a href="#c3967">#</a></p>
+
+</div><div id="c3972">
+
+<p>person, according to most net documentation on the phenomenon, the original definition is not smoking, not drinking alcohol, and not &#8220;sleeping around&#8221; - and even the third is somewhat optional.
+There are, however, huge differences between straight edge culture and my culture. Avholdsbevegelsen (the abstention movement) is/was a movement that was connected to the worker&#8217;s movement, the women&#8217;s right movement, the sanitation/public health movement as well as some religious movements. Straight edge is essentially a punk subculture. It&#8217;s comparing bats and butterflies.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://vintermann.paranoidkoala.org" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3972">Harald K</a> at February 15, 2005 04:35 AM <a href="#c3972">#</a></p>
+
+</div><div id="c3979">
+
+<p>The woman with Brad was Kathryn Myronuk, whom you might have seen referred to in my old .signature because she took an active role at the Adobe rally and came up with the lovely line &#8220;Reading is a right, not a feature&#8221;.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://vitanuova.loyalty.org/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3979">Seth Schoen</a> at February 15, 2005 12:51 PM <a href="#c3979">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001565.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1565" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

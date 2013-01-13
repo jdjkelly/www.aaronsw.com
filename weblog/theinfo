@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Introducing theinfo.org (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Introducing theinfo.org</h1>
+
+<p>A lot of the work I&#8217;ve been doing on Open Library for the past few months has to do with handling large quantities of data. Either I&#8217;m writing crawlers to download them from various public web sites, or I&#8217;m meeting with librarians to persuade them to give me copies, or I&#8217;m evaluating algorithms for processing them, or building tools for viewing it all.</p>
+
+<p>And while I&#8217;ve been doing this for information about books, I&#8217;ve noticed my friends doing similar things in other fields. Reporters try to get large data sets to write stories. Programmers get large data sets to add features to their sites. Friends are trying to make available data about the inner workings of the government.</p>
+
+<p>And while each community has ways of talking to each other &#8212; reporters talking to other reporters, RDF people talking to other RDF people, library hackers talking to other library hackers &#8212; there&#8217;s no community that cuts across these topical lines. And that&#8217;s too bad, because there&#8217;s a lot there we could share, from tips on how not to get caught when crawling to tools to make it easier to build big charts and maps.</p>
+
+<p>So that&#8217;s why I&#8217;ve started a new community site for people who work with large data sets. It&#8217;s called theinfo.org and I&#8217;d really appreciate it if you joined the mailing lists and spread the word.</p>
+
+<p><a href="http://theinfo.org/">http://theinfo.org/</a></p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">January 15, 2008</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>Great idea Aaron. I&#8217;m a consultant working on international trade agreements. The availability of comprehensive data sets on trade flows, trade barriers and production/demographic data has transformed the making and analysis of international trade relations in the two or three decades that I&#8217;ve been at it.</p>
+
+<p>There are some very large data sets accessible via the Web. But in this domain they can be SO large that it&#8217;s difficult to access them via the web (the bandwidth problem is only the start).</p>
+
+<p>I&#8217;ll keep an eye out for developments here (thanks very much for the link to CKAN, by the way. Didn&#8217;t know about that).</p>
+
+<p>Best,</p>
+
+<p>Peter</p>
+
+<p class="posted">posted by <a rel="nofollow" href="www.petergallagher.com.au">Peter Gallagher</a>
+ on January 15, 2008 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>Where were you 6 months ago when we started dreaming up RescueTime (YC08)?  </p>
+
+<p>Thanks for doing this&#8230;  Eager to see how it shapes up.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.rescuetime.com">Tony Wright</a>
+ on January 15, 2008 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>Cool beans. This is pretty much my job.</p>
+
+<p>BTW, markup isn&#8217;t being processed correctly on user pages: http://theinfo.org/user/Harkins</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://push.cx">Peter Harkins</a>
+ on January 15, 2008 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>Hi Aaron!</p>
+
+<p>Looks like another good idea to me. Unfortunately, I have stopped working on this project, but theinfo.org reminded me of my own http://www.idealliance.org/papers/xmle02/dx_xmle02/papers/04-03-03/04-03-03.html that I had almost forgotten&#8230;</p>
+
+<p>Good luck in this new project.</p>
+
+<p>Eric</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://eric.van-der-vlist.com/blog/">Eric van der Vlist</a>
+ on January 16, 2008 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>I posted a long list of dataset links for you at the datawrangling blog.  They need to be cleaned up and organized, but I&#8217;m sure some info&#8217;ers with more time on their hands can wikify them&#8230;</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.datawrangling.com">Peter Skomoroch</a>
+ on January 18, 2008 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c6">
+<p>Lots of possible datasets.
+http://www.trustlet.org/wiki/Trust_network_datasets
+http://www.trustlet.org/wiki/Repositories_of_datasets</p>
+
+<p>Highly unsorted and messy ;(</p>
+
+<p>I subscribed to the theinfo mailing list by the way.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://gnuband.org">paolo</a>
+ on January 18, 2008 <a href="#c6" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="theinfo" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

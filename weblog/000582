@@ -1,0 +1,51 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>RSS 3.0 Update (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000579" title="iCal!" />	<link rel="next" href="000585" title="More Crazy Haxies" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>RSS 3.0 Update</h1>
+</div>
+
+<div class="content">
+<p>Thanks for all the great feedback on RSS 3.0. I&#8217;ve been in New York the past few days, but I&#8217;ll try to process it all ASAP. I&#8217;m also <a href="http://scriptingnews.userland.com/backissues/2002/09/10#When:7:23:51AM">pushing back removing the disclaimers on the spec by 24 hours</a>.</p>
+
+<p>Thanks to Sean B. Palmer, my eye in the sky, for sending me a whole batch of updates <a href="http://www.aaronsw.com/weblog/000574">to my RSS 3.0 info page</a>. There&#8217;s some great feedback and a new feed.</p>
+
+<p>Thanks to everyone for your help, it&#8217;s been a lot of fun.</p>
+
+<p>Watch this space for spec updates&#8230;</p>
+
+<p>I&#8217;ve changed it to use the language tag syntax of RFC 3066 thanks to a suggestion from Sean M. Burke.</p>
+
+<p class="posted">posted September 10, 2002 10:15 PM (<a class="category" href="cat_technology">Technology</a>)  <a href="000582" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000579" title="iCal!">&laquo; prev</a> | <a href="./">up</a> | <a href="000585" title="More Crazy Haxies">next &raquo;</a></p>
+
+<p><a href="000573">Jaguar Ate My Life</a><br />
+<a href="000574">The Road to RSS 3.0</a><br />
+<a href="000576">Apple&#8217;s Guide to Cocoa Icons</a><br />
+<a href="000578">Pepper Author Speaks Out</a><br />
+<a href="000579">iCal!</a><br />
+<strong>RSS 3.0 Update</strong><br />
+<a href="000585">More Crazy Haxies</a><br />
+<a href="000587">CodeCon 2003</a><br />
+<a href="000588">Wayback Machine Adds Diff</a><br />
+<a href="000591">The Last Straw</a><br />
+<a href="000593">Santa Cruz Hands out Marijuana at City Hall</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

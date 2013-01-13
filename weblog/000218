@@ -1,0 +1,59 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Secure Coin Flipping (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/000218.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000217" title="Other" />	<link rel="next" href="000224" title="Putting Books Online Increases Sales" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Secure Coin Flipping</h1>
+</div>
+
+<div class="content">
+<p>Tomorrow (well, it&#8217;s past midnight so today, I guess), I&#8217;m supposed to give a talk on cryptography for my number theory course. While preparing it I realized there was one cool cryptographical protocol I hadn&#8217;t executed yet: secure coin flips.</p>
+<p>Secure coin flips work like this: </p>
+
+<ol>
+<li>Alice picks a random number and hashes it (using a previously agreed-upon hash function &#8212; a hash function is a function that takes a message and scrambles it up) and reveals the hash.</li><li>Bob tries to guess if the number Alice picked is even or odd. He doesn&#8217;t know the number, only the hash (which is designed to be practically impossible to reverse) so he&#8217;s making a shot in the dark. (To be particularly safe, Bob should probably try to flip a coin of his own.) He tells Alice his guess.</li><li>Alice then reveals whether he was right or wrong, and the original number. Bob can verify Alice isn&#8217;t cheating by hashing the number and making sure it&#8217;s the same as the hash Alice revealed in step 1.</li></ol>
+
+<p>Wanna flip with me? 256bcc724e035a29cac6e9b676b56210641f229f &#8212; even or odd?</p>
+
+<p>The one way to cheat is to find both an odd and an even number that hash to the same thing. Using a regular hash function this should be pretty hard to do, but that hasn&#8217;t stopped me from looking for one. ;-)</p>
+
+<pre>import sha
+h, i = {}, 0
+while 1:
+     i += 1
+     c = sha.new(`i`).hexdigest()
+     if c in h: print "Whoa! it works for", i, "and", h[c]
+     else: h[c] = i</pre>
+
+<p class="posted">posted April 15, 2002 12:13 AM (<a class="category" href="cat_"></a>)  <a href="000218" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000217" title="Other">&laquo; prev</a> | <a href="./">up</a> | <a href="000224" title="Putting Books Online Increases Sales">next &raquo;</a></p>
+
+<p><a href="000201">Aaron Swartz Movies</a><br />
+<a href="000202">Today&#8217;s Hack: display.cgi</a><br />
+<a href="000203">Rescued Data</a><br />
+<a href="000207">Visiting Boston, Cambridge</a><br />
+<a href="000217">Other</a><br />
+<strong>Secure Coin Flipping</strong><br />
+<a href="000224">Putting Books Online Increases Sales</a><br />
+<a href="000227">Differences</a><br />
+<a href="000228">Boston Trip</a><br />
+<a href="000229">NYTimes on Google&#8217;s DMCA Issues</a><br />
+<a href="000231">Motion Blur</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

@@ -1,0 +1,23 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+  <title>RSS History Timeline</title>
+  <link rel="stylesheet" type="text/css" href="/style.css" />
+</head>
+<body>
+<div id="head">
+  <h1>RSS History Timeline</h1>
+</div>
+<div class="content">
+
+<p>19970309: Microsoft <a href="http://www.w3.org/TR/NOTE-CDFsubmit.html">submits the CDF format to the W3C</a>. (<a href="cdfExample">example</a>)<br />
+19970425: <a href="http://davenet.userland.com/1997/04/25/NoTheoriesNeeded">Dave Winer</a>: "I've identified three dynamic pages on the DaveNet site, described in a CDF file. Can any software read this file and do something interesting with it?"<br />
+19971215: Dave Winer <a href="http://davenet.userland.com/1997/12/15/scriptingNewsInXML">announces scriptingNews format</a>. (<a href="scriptingNewsExample">example</a>)<br />
+19990615: <a href="http://my.userland.com/stories/storyReader$11">Dave Winer</a> (referring to scriptingNews): "For many people <scriptingNews> format will be new, but it's actually the oldest syndication format on the web."</p>
+
+<p>RSS introduced (<a href="rssExample">example</a>).</p>
+
+</div>
+<div class="footer">
+  <address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</div></body>
+</html>

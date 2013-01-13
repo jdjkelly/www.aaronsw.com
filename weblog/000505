@@ -1,0 +1,43 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>rfc822 has no chance to survive. take your mime. (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000504" title="Make Mozilla Money Fast!" />	<link rel="next" href="000507" title="Yee-Haw! Roundup time!" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>rfc822 has no chance to survive. take your mime.</h1>
+</div>
+
+<div class="content">
+<p>I put together <a href="http://www.aaronsw.com/2002/im2000">Aaron&#8217;s Internet Mail 2000 Proposal</a> earlier today for the im2000 list. It was sort of fun. Someone complained that the message URIs were &#8220;security through obscurity&#8221; so I did some fun calculations:</p><blockquote>A relatively small 20-character string (like EzYlONo9JI3hnffmyLl8) provides for 7e+35 possibilities. Even if everyone in the world sent 1000 email messages every day for 100 years and stored them all on the same server, you&#8217;d still only have a .0000000000000000003 chance of guessing a valid number.</blockquote></p>
+
+<p class="posted">posted August 13, 2002 12:42 AM (<a class="category" href="cat_technology">Technology</a>)  <a href="000505" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000504" title="Make Mozilla Money Fast!">&laquo; prev</a> | <a href="./">up</a> | <a href="000507" title="Yee-Haw! Roundup time!">next &raquo;</a></p>
+
+<p><a href="000500">Apple Gives In To Copyright Terrorism?</a><br />
+<a href="000501">Dr. Suess Enterprises In Favor of Perpetual Copyright</a><br />
+<a href="000502">Other Amici Claims</a><br />
+<a href="000503">US Locks Up US Citizens With No Process!</a><br />
+<a href="000504">Make Mozilla Money Fast!</a><br />
+<strong>rfc822 has no chance to survive. take your mime.</strong><br />
+<a href="000507">Yee-Haw! Roundup time!</a><br />
+<a href="000508">Full Tilt for Software Freedom</a><br />
+<a href="000509">The Search for Sight</a><br />
+<a href="000511">book publisher is chinese household</a><br />
+<a href="000512">James Valenti, 81 103 103 197 224 0</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Unintelligent Design (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/001131.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001129" title="TV Update: Monk back, 24 bad, American Beauty great, Zim good" />	<link rel="next" href="001132" title="Shorter State of the Union" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Unintelligent Design</h1>
+</div>
+
+<div class="content">
+<p>The fossil record shows dozens of animals that have died out or been improved. But evolution can&#8217;t explain how such complex things were developed when their parts don&#8217;t make sense alone. The &#8220;intelligent design&#8221; theory says that some clever creator made things. But then how do you explain the fossil record?</p>
+
+<p>So how about a compromise: unintelligent design. Sure, there was a creator, but he obviously wasn&#8217;t particularly bright.</p>
+
+<p><img src="http://www.theshrubbery.com/udn/elephant.gif" alt="Elefent #23, God, Age 6" height="150" width="150" class="img" /></p>
+
+<p>For more on this theory, visit <a href="http://www.theshrubbery.com/udn/">Unintelligent Design Network, Inc.</a>:</p>
+
+<blockquote>
+	<p>There have been 23 elephant-like animals in history, and yet only two survive today (and we add, they&#8217;re not doing very well). Clearly, this is the mark of an all-powerful creator who is stuck on the same stupid idea and can&#8217;t figure out why the hell they keep dying off. Hmm, perhaps it&#8217;s because giant, big-eared mammals with huge, prehensile noses are ridiculous? I mean, WTF? A giant, powerful, grasping nose? It looks like something a preschooler would make up.</p>
+</blockquote>
+
+<p>And don&#8217;t miss their <a href="http://www.theshrubbery.com/udn/faq.html">Frequently Asked Questions</a>:</p>
+
+<blockquote>
+	<p><em>How do you answer people who say Unintelligent Design is a philosophy, not a scientific theory, and so it doesn&#8217;t belong in high school science class?</em></p>
+	
+	<p>We usually reply with colorful charts showing that a majority of voters believe in teaching alternative theories, and that although popular opinion isn&#8217;t historically the best measure of science, it is the best measure of who gets reelected.</p>
+</blockquote>
+
+<p class="posted">posted January 20, 2004 05:26 PM (<a class="category" href="cat_politics">Politics</a>) (<a href="#comments">4 comments</a>) <a href="001131" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001129" title="TV Update: Monk back, 24 bad, American Beauty great, Zim good">&laquo; prev</a> | <a href="./">up</a> | <a href="001132" title="Shorter State of the Union">next &raquo;</a></p>
+
+<p><a href="001118">Shorter George Lakoff: The Framing of Politics</a><br />
+<a href="001119">Bush Fear</a><br />
+<a href="001120">The Clinton-Gore Plan to Stop Al-Qaeda: Would 9-11 have happened?</a><br />
+<a href="001125">Suspected Terrorist</a><br />
+<a href="001129">TV Update: Monk back, 24 bad, American Beauty great, Zim good</a><br />
+<strong>Unintelligent Design</strong><br />
+<a href="001132">Shorter State of the Union</a><br />
+<a href="001133">Liberate Libertarianism</a><br />
+<a href="001136">Visiting Libertopia: The Magical Power of Property</a><br />
+<a href="001138">Aaron Swartz: The Interview</a><br />
+<a href="001141">Why Raise Children?</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c309">
+
+<p>I guess I&#8217;ll state the obvious: unintelligent design is not killing off elephants, people and their egregious use of space are.</p>
+
+<p class="posted">posted by <a href="http://typographi.ca">Stephen</a> at January 20, 2004 05:44 PM <a href="#c309">#</a></p>
+
+</div><div id="c310">
+
+<p>Oops. Scratch that. I just realized I am a victim of satire.</p>
+
+<p class="posted">posted by <a href="http://typographi.ca">Stephen</a> at January 20, 2004 05:47 PM <a href="#c310">#</a></p>
+
+</div><div id="c427">
+
+<p>Well let&#8217;s do some thinking now. why are there some guys keep talking about the Unintelligent design, saying the god is stupid? Obviously, it is not the god who they wanna tease at, but the men &amp; women believing in it.So these guys keep calling them stupid this and stupid that but, as they are stupid or somehow unwaveringly strong minded in god, they would keep doing the &#8220;stupid&#8221; thing. &amp; for those who&#8217;s godless, they would just say &#8220;hey, piss off, man!&#8221; So i mean, WTF? what the fuck do you wanna achieve?</p>
+
+<p class="posted">posted by <a href="mailto:greatgrumman@yahoo.com">grumman</a> at January 31, 2004 10:28 AM <a href="#c427">#</a></p>
+
+</div><div id="c672">
+
+<p>I believe the designer was bright enough. What if he just wanted to experiment with different objects and creatures? He could realize that some of them would die, then it&#8217;s not an unintelligent design.</p>
+
+<p class="posted">posted by <a href="http://www.astra-design.com/portfolio.html">Design Portfolio</a> at March  8, 2004 05:42 AM <a href="#c672">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/001131.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/mt-comments.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1131" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /><br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

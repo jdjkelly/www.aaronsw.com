@@ -1,0 +1,60 @@
+# !!! fuzzy URIs, not cool. !!!
+@prefix :  <apps?> .
+@prefix l: <languages?> .
+@prefix p: <people?> .
+@prefix f: <http://xmlns.com/foaf/0.1/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<> dc:creator p:aaronsw ; rdfs:seeAlso <http://www.w3.org/2000/01/sw/proj.n3> .
+<http://www.w3.org/2000/01/sw/proj.n3> dc:creator p:sandro .
+
+:Redfoot a :Framework; f:homepage <http://redfoot.sourceforge.net/> ; 
+  :supports :Templating ; # @@
+  :parses :RDFXML ; :serializes :RDFXML ;
+  dc:creator p:jtauber, p:eikeon ;
+  :language l:Python ; 
+  :cvs [ f:homepage <http://cvs.sourceforge.net/cgi-bin/viewcvs.cgi/redfoot/> ] .
+
+:Infogami a :Framework ;
+  :query :NTriples ; :store :BerkeleyDB ;
+  dc:creator :PleshProject ;
+  :language l:Python; 
+  :cvs [ f:homepage <http://cvs.plesh.net/infogami/> ] .
+
+:PleshProject a :Project ; f:homepage <http://plesh.net/> ;
+  :includes p:sbp, p:aaronsw .
+
+:Redland a :Framework ; f:homepage <http://www.redland.opensource.ac.uk/> ; 
+  :includes :Raptor ; :store :BerkeleyDB ;
+  dc:creator p:dajobe ; 
+  :cvs [ f:homepage <http://cvs.ilrt.org/cvsweb/redland/librdf/> ] ;
+  :language l:C ; :binding l:Perl, l:Python, l:Tcl, l:Java .
+
+:Raptor f:homepage <http://www.redland.opensource.ac.uk/raptor/> ;
+  :parses :RDFXML, :NTriples .
+
+:SWAP a :Framework ; f:homepage <http://www.w3.org/2000/10/swap/> ;
+  :query :Notation3 ; :includes :notation3py, :xml2rdfpy ;
+  dc:creator p:timbl, p:danc ;
+  :language l:Python ; 
+  :cvs [ f:homepage <http://dev.w3.org/cvsweb/2000/10/swap/> ] .
+  
+:notation3py :parses :Notation3; :serializes :Notation3 .
+:xml2rdfpy   :parses :RDFXML   ; :serializes :RDFXML .  
+
+:Jena a :Framework; f:homepage <http://www.hpl.hp.com/semweb/jena-top.html> ;
+  :query :RDQL ; :store :BerkeleyDB ; :includes :ARP ;
+  dc:creator :HPSemWeb ;
+  :cvs [ f:homepage <http://cvs.sourceforge.net/cgi-bin/viewcvs.cgi/jena> ] ;
+  :store :BerkeleyDB, :RDB; :parser :ARP ; :query :RDQL .
+
+:ARP f:homepage <http://www.hpl.hp.com/semweb/arp.html> ;
+  :parses :RDFXML, :NTriples ; :serializes :RDFXML, :NTriples .
+
+:HPSemWeb a :Project; f:homepage <http://www.hpl.hp.com/semweb/> ;
+  :includes p:bwm, p:jjc, p:afs, p:ijd .
+
+# thanks to Sandro for these:
+:Framework rdfs:label "A collection of libraries and applications designed to work together to support building programs." .
+:Application rdfs:label "Programs with user interfaces for humans." .

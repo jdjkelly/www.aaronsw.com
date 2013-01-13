@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Announcing the Open Library (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Announcing the Open Library</h1>
+
+<p>Early this year, when I left my job at Wired Digital, I thought I could look forward to months of lounging around San Francisco, reading books on the beach and drinking fine champagne and eating <em>foie gras</em>. Then I got a phone call. Brewster Kahle of the Internet Archive was thinking of pursuing a project that I&#8217;d been trying to do literally for years. I thought long and hard about it and realized I couldn&#8217;t pass this opportunity up. So I put aside my dreams of lavish living and once again threw myself into my work. Just as well, I suppose, since San Francisco&#8217;s beaches are freezing cold, champagne has a disgusting taste, and <em>foie gras</em> is even worse.</p>
+
+<p>I thought of the smartest programmers and designers I knew and gave them a ring, sat down for coffee with them, threatened to fly out to their homes and knock on their doors. In the end, we got together an amazing group of people &#8212; all sworn to secrecy of course &#8212; and in the past few months we&#8217;ve put together what&#8217;s probably the biggest project I ever worked on.</p>
+
+<p>So today I&#8217;m extraordinarily proud to announce <a href="http://demo.openlibrary.org/about">the Open Library</a> project. Our goal is to build the world&#8217;s greatest library, then put it up on the Internet free for all to use and edit. Books are the place you go when you have something you want to share with the world &#8212; our planet&#8217;s cultural legacy. And never has there been a bigger attempt to bring them all together.</p>
+
+<p>I hope you&#8217;ll take a look and let me know what you think. And if this project excites you the way it excites me, I hope you&#8217;ll join us.</p>
+
+<ul>
+<li><a href="http://demo.openlibrary.org/about">Visit the Open Library site</a></li>
+</ul>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">July 16, 2007</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>What a shame that .pdf is in the mix. It&#8217;s a complete nightmare, especially for blind folks.</p>
+
+<p>Love.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.boobam.org/book">William Loughborough</a>
+ on July 16, 2007 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>Congrats, Aaron! This is very exciting. I&#8217;m going to add some metadata from the books I&#8217;m reading right now.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://saladwithsteve.com/">Steve Jenson</a>
+ on July 16, 2007 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>Wow!  Pretty cool.</p>
+
+<p>William, many of the recent updates to screen readers have pdf support.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://fastblogit.com/seth">Seth Russell</a>
+ on July 16, 2007 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>How does this relate to <a href="http://www.gutenberg.org/wiki/Main_Page" rel="nofollow">Project Gutenberg</a>?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.seanfoy.rootservers.org/">Sean Foy</a>
+ on July 16, 2007 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>Woah baby.  Way to go Aaron, this looks immense.</p>
+
+<p>Amazon is NOT the place to store information on the world&#8217;s books!</p>
+
+<p>Brilliant.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://bluebones.net/">Thomas David Baker</a>
+ on July 16, 2007 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c6">
+<p>Will it be anything like Scribd.com or not in the same category?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://Scribd.com">Pete</a>
+ on July 16, 2007 <a href="#c6" rel="bookmark">#</a></p>
+</div>
+<div id="c7">
+<p>Smashing idea-great books, or even good books, depending on one&#8217;s taste, should be available to everyone who wants to read them.  Literacy and books are a big deal.  Nice piece of work, so far, Swartz</p>
+
+<p class="posted">posted by Mike 
+ on July 16, 2007 <a href="#c7" rel="bookmark">#</a></p>
+</div>
+<div id="c8">
+<p>I like it. Markdown looks simple enough that writers will use it for their ordinary work, which can then be formated as they wish. HTML is a bit awkward for that.</p>
+
+<p>Two suggestions to think about:</p>
+
+<ol>
+<li>A reader looking up &#8220;Mark Twain Adventure&#8221; is hardly a specialist, and won&#8217;t just want 130 listings; he or she will probably also want guidance &#8212; one, two, or three of the 130 recommended. Of course there are endless different points of view that will give different recommendations. A way to handle this would be to add provisions for any number of optional Guides on top of the structure you&#8217;ve got. </li>
+</ol>
+
+<p>Some Guides, like Popularity, could come directly from usage. Other Guides could be run by organizations, such as scholarly societies, philosophical groups, political parties, corporations, or governments &#8212; whoever runs it would control the content of that Guide. Anyone could set up a new Guide, though only a limited number would get enough momentum to be widely useful, by having credible recommendations on many of the books in their field. Each Guide might appear to the end user as a personality (think of spirit guides), though almost always a Guide will be a group creation.</p>
+
+<ol>
+<li>I&#8217;ve designed a way to charge low prices for digital content &#8212; by having sponsors buy hundreds, thousands, or any number of prepaid free downloads, letting end users click a URL to download free (no registration, etc. required) while the artist gets paid. I wouldn&#8217;t recommend using such a system to charge for the Open Library. But Open Library might provide software to let publishers to sell their material this way if they wished. So a publisher might allow a download of their book for 50 cents, or 5 cents &#8212; totally free and hassle-free to the end user, provided that anyone, anywhere in the world, has paid to sponsor it. Publishers could choose to use their own DRM or not &#8212; but it will hardly be necessary if pirate copies must compete with legitimate free copies.</li>
+</ol>
+
+<p>Hopefully 3rd-party sponsors will buy hundreds of prepaid free downloads at a time, because they like the book, like the author, like the movement or cause &#8212; and/or want to send their own short message or ad targeted to people anywhere who like them. Note that the &#8220;click fraud&#8221; problem largely disappears with this kind of targeted ad.</p>
+
+<p>All my work is rights-free for anyone to use at http://www.smart-accounts.org</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.smart-accounts.org">John S James</a>
+ on July 16, 2007 <a href="#c8" rel="bookmark">#</a></p>
+</div>
+<div id="c9">
+<p>WOOPS &#8212; my suggestions are each two paragraphs and need the obvious formating help. Also, #2 needs the correct number.</p>
+
+<p>John</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.smart-accounts.org">John S James</a>
+ on July 16, 2007 <a href="#c9" rel="bookmark">#</a></p>
+</div>
+<div id="c10">
+<p>Congratulations on launching the Open Library, Aaron. This looks like an amazing project. (And you&#8217;ve answered the question I had about what you were going to tackle next. :-))</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://numenity.org">Paul Kim</a>
+ on July 16, 2007 <a href="#c10" rel="bookmark">#</a></p>
+</div>
+<div id="c11">
+<p>Aaron, I take back all the annoyed thoughts I ever had at you.  This is way cool.</p>
+
+<p class="posted">posted by Matt C
+ on July 17, 2007 <a href="#c11" rel="bookmark">#</a></p>
+</div>
+<div id="c12">
+<p>&#8220;How does this relate to Project Gutenberg?&#8221;</p>
+
+<p>It&#8217;s a copycat.</p>
+
+<p class="posted">posted by mynameishere
+ on July 17, 2007 <a href="#c12" rel="bookmark">#</a></p>
+</div>
+<div id="c13">
+<p>&#8220;How does this relate to Project Gutenberg?&#8221;</p>
+
+<p>OpenLibrary had a result for the book I looked up, Project Gutenberg did not.</p>
+
+<p>Not a knock against Project Gutenberg, but there&#8217;s definitely a place for OpenLibrary.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://del.icio.us/andeezy">andeezy</a>
+ on July 17, 2007 <a href="#c13" rel="bookmark">#</a></p>
+</div>
+<div id="c14">
+<p>Project Gutenberg had a result for the book I looked up, OpenLibrary did not.</p>
+
+<p>Not a knock against OpenLibrary, but there&#8217;s definitely a place for Project Gutenberg.</p>
+
+<p class="posted">posted by Pete
+ on July 17, 2007 <a href="#c14" rel="bookmark">#</a></p>
+</div>
+<div id="c15">
+<p>Congrats on getting this out there &#8212; and at an early stage!</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://mako.cc">mako</a>
+ on July 17, 2007 <a href="#c15" rel="bookmark">#</a></p>
+</div>
+<div id="c18">
+<p>What a revolutionary fucking idea!  Imagine.  Using the internet to store books.  Never crossed my mind before.  Has anyone ever tried this before?</p>
+
+<p>Let&#8217;s see now; how long do copyrights last?  About the lifetime of the author, then the lifetime of the author&#8217;s heirs, then the lifetime of the author&#8217;s hers&#8217; heirs.  Ever try to find a poem by Langston Hughes online?  I tried, and apparently, his estate doesn&#8217;t take too kindly to freely dispersing his works to all.</p>
+
+<p>Well, if one can become a billionaire these days by writing nonsense&#8230; I don&#8217;t see much hope.</p>
+
+<p>P.</p>
+
+<p class="posted">posted by P.
+ on July 18, 2007 <a href="#c18" rel="bookmark">#</a></p>
+</div>
+<div id="c20">
+<p>isn&#8217;t this exactly what google books is???? i dont get what the difference is.</p>
+
+<p class="posted">posted by MK
+ on July 18, 2007 <a href="#c20" rel="bookmark">#</a></p>
+</div>
+<div id="c21">
+<p>Wow, first reddit (and even more before) and now this - very cool. Good luck with this, and it&#8217;s definitely there on my radar along with The Gutenberg Project and the Internet Archive. Thanks for doing this. Very cool.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://frye.blogs.com">Timothy Washington</a>
+ on July 19, 2007 <a href="#c21" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="openlibrary" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

@@ -1,0 +1,91 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Trip Report (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000849" title="Notes from the DRM Conference: Impacts of DRMs on flows of information" />	<link rel="next" href="000852" title="Trip Report (cont.)" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Trip Report</h1>
+</div>
+
+<div class="content">
+<p><a href="http://www.aaronsw.com/weblog/000848">When I last left you</a>, I was at Ping’s place for his birthday party / Bab5 meeting. We had some ice cream, then Ping me, Nadia, and someone else home. I set the alarm clock and went to sleep</p>
+
+<p>The next day I checked out of my dumpy hotel (<a href="http://beauskyhotel.citysearch.com/">it refers to itself as “historic”</a>, not dumpy, but it was literally inside a Chinese restaurant) and walked toward the DRM conference.  </p>
+
+<p>I got there for a little bit of the first panel, about how DRM can enable new business models, and, as Seth expected, it was really frustrating. People had these crazy proposals which involved ISPs looking at every bit that went to your computer to see if it was copyrighted, then asking the copyright holder how much they charged, then charging you for it, plus some markup, at the end of the month. He said that loss of privacy wasn’t a concern, because credit cards aren’t private. He also noted that spammers could send you spam and then charge you for it, but he was sure they’d find a way to fix that.</p>
+
+<p>The next guy was from Intel, who gushed about innovative new business models enabled by dynamic changes in the market economic system. I checked my email and found out I had a meeting with a fellow at Google, so I left and went to look for Glenn who would drive with me there.</p>
+
+<p>After Google, Glenn, Ben, and I went to Stanford to see the CC offices and have lunch. I figured I’d leave my stuff with Glenn and come back and pick it up before I checked into the hotel. </p>
+
+<p>Ben drove me back to Berkeley and we got to hear the talks <a href="http://www.aaronsw.com/weblog/000849">I blogged previously</a>. Then we had a break where I saw people I had heard a lot about, like Lucky Green and Sarah Deutsch. Then there was another talk about DRM and consumers, which was only moderately interesting. It was frustrating that they had the pro-DRM and the anti-DRM people on different panels, so they didn’t have a chance to argue with each other. The general format was speech, speech, speech, speech, question, answer, question, question, answer. </p>
+
+<p>Then we went to a party for a little while at the faculty club, where I listened to Seth and Sarah Deutsch talk (Seth says that Sarah thought Seth was my father!) and the EFF’s Fred von Lohmann. Then Seth and I went for dinner at FatSlice, a student pizza place. I called Glenn to tell him to drop stuff off at the hotel because I’d probably get to Palo Alto after he’d left. We noted that we were food opposites. Then we went to the BART station (stopping at an ice cream place and Games of Berkeley on the way) to go home. He explained to me the complicated procedure to get to Palo Alto, where my hotel was. We took the BART from Berkeley to MacArthur where we had a timed transfer, meaning we got off of one BART and onto another. We took that underwater (my ears hurt from the pressure!) to San Francisco, where I got off and transferred to a MUNI train, which took me to a Caltrain depot, where I bought a train ticket to Palo Alto. There I found a Maugerite shuttle to San Francisco.</p>
+
+<p>As I understand it: The BART takes people between Berkeley, Oakland, SF, and the suburbs. The MUNI takes people around SF. The Caltrain takes people from SF to Silicon Valley. The Maugerite takes people around Stanford (for free!).</p>
+
+<p>Taking the Maugerite was a mistake though, because I ended up going all the way around campus and back to the Caltrain station before I realized the hotel was just across the street. Oops. I checked in and asked for my suitcase. They didn’t have it. I called Glenn to ask where it was. He didn’t answer. I went to my room and fell asleep.</p>
+
+<p>The next morning I walked across the Stanford campus to the law school, where I met Cory, Ren, Seth, Lisa, David Sifry, and others. We had refreshments and received badges and programs, which contained copies (fair use?) of many of the relevant papers. Unfortunately, they didn’t give us time to read thru them, despite the many references to them throughout the day. </p>
+
+<p>We went upstairs to a new classroom filled with Aeron chairs with power and Ethernet at every seat. There were like five cameras (including LNPB and Lisa Rein’s) taping and streaming everything. There was also copious wireless access, but you needed to register your MAC address ahead of time to be able to use it (why didn’t anyone tell me?). Unfortunately the Aeron chairs aren’t designed for people my size, so they gave me a terrible neckache. I sat near Matt Haughey and Cory Doctorow. Matt ran EtherPEG on his 15&#8221; PowerBook and Cory had a spiffy new 12&#8221; PowerBook. It looks really nice, but he says it uses your body as its heatsink, which can get annoying.</p>
+
+<p>Things started out with David Reed giving his standard “the way wireless really works” talk. This time he had a really nifty Windows radio simulator he hacked on last night. It looked sort of like a wave tank, with a 2D plane in a box. You could add transmitters on a frequency and the plane would ripple, following the inverse square law. You could also move around the plane and watch the signals on your oscilloscope. He used this to show how loud signals trump smaller ones and how between two equal signals you get the average. I hope he releases it.</p>
+
+<p>Then Yochai presented his proposal with PowerPoint and clip art. He’s serious about making the world one big open wireless network. A bunch of people had some long vapid comments on it, and Larry used his wireless mic to great effect at the end of each, walking up and down the aisles gesticulating and interrogating each commenter trying to capture the essence of their proposal.</p>
+
+<p>Then we had a more open discussion, which Larry suggested followed the model of a weblog. You linked to what someone else was saying and expanded on it. It was much more effective with Larry organzing things, but even then it wasn’t perfect. Still, a lot of interesting points got made.</p>
+
+<p>We broke for lunch and walked over to the hall where it was served. I sat with Matt, Ben, Cory, Joi, and some other people. Almost everyone at the table had a Mac laptop. And a silver digital camera. Ben took a picture of someone taking a picture of <a href="http://photos.metafilter.com/index.cfm/series/66">Matt taking a picture of someone else’s camera</a>.</p>
+
+<p>Even at lunch they provided more presentations for us to listen to.</p>
+
+<p>As we walked back to the afternoon session I talked to Schuyler Erle of O’Reilly and NoCat about all sorts of stuff.</p>
+
+<p>Back in the room I found Wendy Seltzer had stolen my seat, so I sat up in the back with the cameras. Several people presented their own proposals and we had a much worse section of vapid commentary and public discussion because Larry was missing. </p>
+
+<p>Then we went down to the Moot Court room. Since there apparently wasn’t enough room for everyone, Larry joked that all the property advocates could auction off their seats to the highest bidder. The Moot Court room was very fancy; Seth commented that it looked more like a courtroom than some real courtrooms he’s visited. It had big poofy chairs for the judges and bright red seats for the jury and audience.</p>
+
+<p>Kathleen Sullivan, the dean, introduced the session and acted as the bailiff. She made a couple cracks about Eldred (“his second supreme court appearance [&#8230;] better luck this time”) which visibly hurt Larry. Larry went first, making a beautiful argument. On the other side were a bunch of big balding guys using PowerPoint, which bugged the judges. (Real) Judge Kozinski stole the show, giving the line of the night (“property owners are very grabby” but you really have to hear him say it) and eventually came close to the commons position.</p>
+
+<p>Then we went to dinner. I sat with John Gilmore, noted economist <a href="http://www.daviddfriedman.com/">David D. Friedman</a>, and Seth Schoen. We got presentations from Canadian Native Americans (what they called “First Nations”) who set up wireless networks on their reservations, Brewster Kahle and Tim Pozar who are setting up wireless networks for all of San Francisco that can support live DVD streaming, Eric Blossom who spoke about GNU Radio and the broadcast flag, Brett Glass (the anti-copyleft/ShareAlike Brett Glass!) who pointed out problems he’d experienced with both Commons and Property models, and Mark Cooper who had a great rant about how corporations and their electronic voices were drowning out our human ones.</p>
+
+<p>Brewster and Mark really got folks going and were inspiring speakers. Brett Glass had <a href="http://www.brettglass.com/spectrum/">a very informative presentation</a> about his wireless network for Laramie, Wyoming (a small town in Wyoming which is a large town anywhere else). He said that Ricochet people following the Part 15 rules wanted to put up devices that would totally destroy their wireless network (they solved this thru a PR campaign) and that when trying to purchase licensed spectrum to use they had to buy one for a much larger area than they needed and eventually got outbid by a shell company owned by EchoStar.</p>
+
+<p>Folks began going home and Glenn drove me back to my hotel where I went to sleep.</p>
+
+<p>The next day I woke up, took a shower, cleaned things up a bit and walked back to the law school. I got there a little early and sat outside to write this entry. Some folks from the Law School saw me and told me to come in, saying it was cold outside. I thought it was warm out, and inside it was like a sauna. I guess cold means something very different in California.</p>
+
+<p>Today we met again in the Moot Court room to discuss “spectrum ettiquette”. I sat next to Cory, who could get on the wireless network, and we borrowed an Ethernet cable from Wendy Seltzer. Cory shared his wireless connection over Ethernet to my machine, and I shared it back over wireless to everyone else who wasn’t allowed in and then I finished writing this.</p>
+
+<p class="posted">posted March 02, 2003 12:47 PM (<a class="category" href="cat_technology">Technology</a>)  <a href="000850" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000849" title="Notes from the DRM Conference: Impacts of DRMs on flows of information">&laquo; prev</a> | <a href="./">up</a> | <a href="000852" title="Trip Report (cont.)">next &raquo;</a></p>
+
+<p><a href="000834">explain it to me</a><br />
+<a href="000838">News Update</a><br />
+<a href="000842">The Wireless Future</a><br />
+<a href="000848">Just My Luck</a><br />
+<a href="000849">Notes from the DRM Conference: Impacts of DRMs on flows of information</a><br />
+<strong>Trip Report</strong><br />
+<a href="000852">Trip Report (cont.)</a><br />
+<a href="000857">Valenti Remix</a><br />
+<a href="000858">New Valenti Remix</a><br />
+<a href="000859">Larry&#8217;s Keynote</a><br />
+<a href="000862">House of Reprehensitives?</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

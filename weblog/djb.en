@@ -1,0 +1,375 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>djb (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>djb</h1>
+
+<p style="text-align: right"><a href="djb.ja">日本語</a></p>
+
+<p>I think it&#8217;s time to remind people that D. J. Bernstein is the
+greatest programmer in the history of the world.</p>
+
+<p>First, look only at the objective facts. djb has written two major
+pieces of system software: a mail server and a DNS server. Both are
+run by millions of Internet domains. They accomplish all sorts of
+complicated functions, work under incredibly high loads, and confront
+no end of unusual situations. And they both run pretty much exactly
+has Bernstein first wrote them. One bug &#8212; one bug! &#8212; was found in
+qmail. A second bug was recently found in djbdns, but you can get a
+sense of how important it is by the fact that it took people nearly a
+decade to find it.</p>
+
+<p>No other programmer has this kind of track record. Donald Knuth
+probably comes closest, but his diary about writing TeX (printed in
+<em><a href="http://books.theinfo.org/go/0937073806">Literate Programming</a></em>)
+shows how he kept finding bugs for years and never expected to be
+finished, only to get closer and closer (thus the odd version
+numbering scheme). Not only does no one else have djb&#8217;s track record,
+no one else even comes close.</p>
+
+<p>But far more important are the subjective factors. djb&#8217;s programs are
+some of the greatest works of beauty to be comprehended by the human
+mind. As with great art, the outline of the code is somehow visually
+pleasing &#8212; there is balance and rhythm and meter that rivals even the
+best typography. As with great poetry, every character counts &#8212; every
+single one is there because it needs to be. But these programs are not
+just for being seen or read &#8212; like a graceful dancer, they move! And
+not just as a single dancer either, but a whole choreographed number
+&#8212; processes splitting and moving and recombining at great speeds,
+around and around again.</p>
+
+<p>But, unlike a dance, this movement has a purpose. They accomplish
+things that need accomplishing &#8212; they find your websites, they ferry
+your email from place to place. In the most fantastic movies, the
+routing and sorting of the post office is imagined as a giant endless
+choreographed dance number. (Imagine, perhaps, &#8220;The Office&#8221; from
+<em>Brazil</em>.) But this is no one-time fantasy, this is how your email
+gets sorted <em>every day</em>.</p>
+
+<p>And the dance is not just there to please human eyes &#8212; it is a dance
+with a purpose. Each of its inner mechanisms is perfectly crafted,
+using the fewest number of moving parts, accomplishing its task with
+the most minimal energy. The way jobs are divided and assigned is
+nothing short of brilliant. The brilliance is not merely linguistic,
+although it is that too, but contains a kind of elegant mathematical
+effectiveness, backed by a stream of numbers and equations that show,
+through pure reason alone, that the movements are provably perfect, a
+better solution is guaranteed not to exist.</p>
+
+<p>But even all this does not capture his software&#8217;s incredible beauty.
+For djb&#8217;s programs are not great machines to be admired from a
+distance, vast powerhouses of elegant accomplishment. They are also
+tools meant to be used by man, perfectly fitted to one&#8217;s hand. Like a
+great piece of industrial design, they bring joy to the user every
+time they are used.</p>
+
+<p>What other field combines all these arts? Language, math, art, design,
+function. Programming is clearly in a class of its own. And, when it
+comes to programmers, who even competes with djb? Who else has worked
+to realize these amazing possibilities? Who else even knows they are
+there?</p>
+
+<p>Oddly, there are many people who profess to hate djb. Some of this is
+just the general distaste of genius: djb clearly has a forceful,
+uncompromising vision, which many misinterpret as arrogance and
+rudeness. And some of it is the practical man&#8217;s disregard for great
+design: djb&#8217;s programs do not work like most programs, for the simple
+reason that the way most programs work is wrong. But the animosity
+goes much deeper than that. I do not profess to understand it, but I
+do honestly suspect at some level it&#8217;s people without taste angry and
+frustrated at the plaudits showered on what they cannot see. Great art
+always generates its share of mocking detractors.</p>
+
+<p>This is not to say that djb&#8217;s work is perfect. There are the bugs, as
+mentioned before, and the log files, which are nothing if not
+inelegant, and no doubt djb would make numerous changes were he to
+write the software again today. But who else is even trying? Who else
+even knows this is possible? I did not realize what great art in
+software could be until I read djb. And now I feel dirty reading
+anything else.</p>
+
+<p><em>More:</em> You may also be interested in <a href="http://www.aaronsw.com/weblog/001502">what djb is doing now</a>.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">October 19, 2009</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>You have obviously never had to admin Qmail on a production system. You mention log files in passing, but this is a seriously issue when debugging issues (which there tends to be lots of).</p>
+
+<p>Yes, there&#8217;s patches to get it to do useful things like logging, RBL lookups and LDAP authentucation. However by the time all that&#8217;s done, I&#8217;m pining for Postfix, or hell, even Sendmail&#8217;s M4 config.</p>
+
+<p>From a coding and SMTP perspective, it might well be the greatest thing since sliced bread, but I still break out in a sweat if asked to have a look at one of the Qmail servers on our network.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://blog.moybella.net">Niall Donegan</a>
+ on October 19, 2009 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>Bernstein says &#8220;I am aware of four bugs in the qmail 1.0 releases&#8221;.</p>
+
+<p>http://cr.yp.to/qmail/qmailsec-20071101.pdf</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://idlewords.com">Maciej Ceglowski</a>
+ on October 19, 2009 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>Aaron, thanks for putting into words what has needed to be said.  I&#8217;ve said these things to people before, but perhaps others will respect your expression more than they have mine.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://dossy.org/">Dossy Shiobara</a>
+ on October 19, 2009 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>I agree with Aaron, and I ran qmail and djbdns on big production sites (as well as small personal ones) for more than a decade.</p>
+
+<p>Recently, I&#8217;ve switched away from both of them&#8230;and from djb&#8217;s ezmlm.</p>
+
+<p>I switched qmail to postfix, to test a theory that rejection-on-envelope might encourage the dictionary spammers to drop randomname@mydomain.tld from their lists (qmail can bounce or silently discard; bouncing is a waste of time and silent discards suggest that the address is valid, so it should be used again next time).  Yes, there are (or were) crufty patches to qmail for envelope rejection, but it just added to my growing feeling that no matter how great qmail was in 1996 (and most of history since then), email is now a rapidly changing environment, and qmail requires more active management than I am willing to commit.</p>
+
+<p>I switched from ezmlm to mailman, which I don&#8217;t love, but I do appreciate the ability to offer a web interface that lets not-me manage the lists.</p>
+
+<p>I switched from djbdns to nsd, which I am happy with.  I don&#8217;t like the zone file format (blame Vixie, I always do), or explicit serial numbers, but I do like simpler SRV records for jabber, etc.  I chose it because it isn&#8217;t BIND, the code is clean, it has a small footprint, and a few of the root servers run it.</p>
+
+<p class="posted">posted by Andrew
+ on October 19, 2009 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>Am I the only one who thinks this is a parody of DJB&#8217;s seemingly-constant attitude problem? I don&#8217;t know him personally, but almost everything I&#8217;ve ever read of his is surly. He is obviously talented, but he seems to suspect he might be the only one who is.</p>
+
+<p>Can anyone find a link where he is excited, or happy, or whimsical?</p>
+
+<p>Nobody on reddit or Hacker News seems to take this entry by aaronsw as a joke.</p>
+
+<p class="posted">posted by ja
+ on October 19, 2009 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c7">
+<p>I find <a href="http://cr.yp.to/conferences/russia.html" rel="nofollow">his piece on Russia</a> to be hilarious. And <a href="http://cr.yp.to/patents/tarzian.html" rel="nofollow">Dear Ms. Tarzian</a> is nothing if not whimsical. But I do suppose both have to be described as surly.</p>
+
+<p>Personally, I really like people who are different. It&#8217;s nice to know there&#8217;s more than one way to live.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on October 19, 2009 <a href="#c7" rel="bookmark">#</a></p>
+</div>
+<div id="c8">
+<p>As I do not know him, I can&#8217;t say I wouldn&#8217;t like him. Most of the things he complains about ought to be complained about, and he does a good job documenting them.</p>
+
+<p>He is very interesting, and interesting people make life fun.</p>
+
+<p>But they are also sometimes ripe for parody. I guess not this time, though.</p>
+
+<p class="posted">posted by ja
+ on October 19, 2009 <a href="#c8" rel="bookmark">#</a></p>
+</div>
+<div id="c9">
+<p>&#8220;&#8230; remind people that D. J. Bernstein is the greatest programmer in the history of the world&#8230;&#8221;</p>
+
+<p>above implies that we knew he was already, no?
+(if you are reminding me, that means I knew it at one point and forgot &#8230;)</p>
+
+<p>wouldn&#8217;t it be best just to write a peice that makes note of his contributions and our appreciation of said contributions rather than making him &#8220;greatest&#8221; or &#8220;world champion software guy&#8221; or &#8220;similar title&#8221;?</p>
+
+<p>-g</p>
+
+<p class="posted">posted by GF
+ on October 19, 2009 <a href="#c9" rel="bookmark">#</a></p>
+</div>
+<div id="c10">
+<p>&#8220;And now I feel dirty reading anything else.&#8221;</p>
+
+<p>Really? You actively feel dirty when you read anything else?</p>
+
+<p>Why did you need to close the post with such hyperbole?</p>
+
+<p class="posted">posted by arkx
+ on October 19, 2009 <a href="#c10" rel="bookmark">#</a></p>
+</div>
+<div id="c11">
+<p>I was a math major at UIC when djb was a newly minted Assistant Professor, and his personality could only be described as &#8220;relentlessly efficient.&#8221;  This comes through in his <a href="http://cr.yp.to/conferences/russia.html" rel="nofollow">Russian conference anecdote</a> just as well as in his code.  In person, he is actually quite cheerful, but he does not suffer foolishness gladly.</p>
+
+<p>I&#8217;d wager that many of the people above complaining about qmail and djbdns above do not remember what the Internet was like in 1993.  I am a reluctant Postfix user now, but I hate it, because I don&#8217;t understand it.  I defy anyone to create a <a href="https://www.milter.org/" rel="nofollow">milter</a>, for example, and claim that that is superior to djb&#8217;s more Unix-like design.</p>
+
+<p class="posted">posted by Lucas
+ on October 19, 2009 <a href="#c11" rel="bookmark">#</a></p>
+</div>
+<div id="c12">
+<p><a href="http://www.aaronsw.com/weblog/djb#c10" rel="nofollow">arkx</a>: Yes, I do. It&#8217;s true.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on October 19, 2009 <a href="#c12" rel="bookmark">#</a></p>
+</div>
+<div id="c13">
+<p>If you feel dirty when reading anything else, why didn&#8217;t you ever give me suggestions for improvement on my watchdog.net code? It&#8217;s not as if I didn&#8217;t request it. Or did you not read qmail until after that period?</p>
+
+<p>I agree that the defect-free-ness of the qmail code is an impressive accomplishent, head and shoulders above any other production software I have heard of; and its minimalism is without peer in my experience. I don&#8217;t think that&#8217;s the only axis of goodness in software, though. You might want to mention Curve25519, Bernstein v. United States, and his successful remote timing attack on software implementations of AES.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://canonical.org/~kragen">Kragen Javier Sitaker</a>
+ on October 19, 2009 <a href="#c13" rel="bookmark">#</a></p>
+</div>
+<div id="c14">
+<p>I thought this article was parody too, but the reason was that I&#8217;ve tried to look through djb&#8217;s code before and find it <em>utterly incomprehensible</em> in a way that I rarely find anyone else&#8217;s working code.  I can&#8217;t fathom what someone means when they describe it as aesthetically pleasing.</p>
+
+<p>To sort this out, let&#8217;s start looking at some.  Here&#8217;s the main axfr function in djbdns, on google codesearch:</p>
+
+<p>http://ur1.ca/dyas</p>
+
+<p>There are almost no useful comments.  The function calls itself with slightly different arguments in order to accomplish different things, which is something that&#8217;s easy for computers to understand and very hard for humans to get their heads around.  The whole thing looks like it was designed for some almost mechanical &#8212; not virtual &#8212; machine and then hand-translated in C.  The &#8220;doit()&#8221; function is defined in several different files in the same source tree, so you can&#8217;t even refer to it by name unless you&#8217;re willing to say &#8220;no I mean the axfr doit() function not the tdlookup doit() function&#8221;.</p>
+
+<p>So, please:  if there&#8217;s something to like about the aesthetic of this code, someone tell us what it is.  :)</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://blog.printf.net/">Chris Ball</a>
+ on October 19, 2009 <a href="#c14" rel="bookmark">#</a></p>
+</div>
+<div id="c15">
+<p>Is this post a writing experiment?</p>
+
+<p class="posted">posted by Joshua Gay
+ on October 19, 2009 <a href="#c15" rel="bookmark">#</a></p>
+</div>
+<div id="c16">
+<p>Way to mention Salsa20, Chacha, CubeHash and Poly1305-AES.</p>
+
+<p class="posted">posted by T
+ on October 19, 2009 <a href="#c16" rel="bookmark">#</a></p>
+</div>
+<div id="c17">
+<p>Re: Chris Ball on axfr function</p>
+
+<p>The function doesn&#8217;t call itself with slightly different arguments. There&#8217;s only one call to doit in that file and that&#8217;s from the main function.</p>
+
+<p>djb uses main() to initialize things and then he usually has a doit() function to do the actual function of the program. There&#8217;s nothing confusing about it, not unless you find main() confusing as well.</p>
+
+<p>I think Aaron&#8217;s post is a bit lofty, but djb is a true master.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://hhg.to">Hallgrimur H. Gunnarsson</a>
+ on October 19, 2009 <a href="#c17" rel="bookmark">#</a></p>
+</div>
+<div id="c18">
+<p>This meme of rediscovering unix is becoming more and more popular.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.xxeo.com/">Dru Nelson</a>
+ on October 19, 2009 <a href="#c18" rel="bookmark">#</a></p>
+</div>
+<div id="c19">
+<p>This is ridiculous. The author is obviously just as insane and arrogant as djb himself. If I had written something of this execrable caliber, I would have no option but suicide to preserve the honor of my family.</p>
+
+<p class="posted">posted by Bradley
+ on October 19, 2009 <a href="#c19" rel="bookmark">#</a></p>
+</div>
+<div id="c20">
+<p>aaron> It&#8217;s hard to claim I&#8217;m new to programming. I did it for over a decade and then retired from it.</p>
+
+<p>What? You did a bit of text mangling and it got used by a lot of people. That doesn&#8217;t mean you&#8217;ve done any complex programming, or that you have any particular skill.</p>
+
+<p>You&#8217;re the Britney Spears of code, gushing about the Amy Winehouse of mail!</p>
+
+<p class="posted">posted by steve
+ on October 20, 2009 <a href="#c20" rel="bookmark">#</a></p>
+</div>
+<div id="c21">
+<p>steve: you clearly haven&#8217;t used web.py or worked with Aaron.</p>
+
+<p>Assuming the quote is accurate, though, I don&#8217;t think a decade is very long.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://canonical.org/~kragen">Kragen Javier Sitaker</a>
+ on October 20, 2009 <a href="#c21" rel="bookmark">#</a></p>
+</div>
+<div id="c23">
+<p>After the first paragraph I assumed this has been written by DJB.</p>
+
+<p class="posted">posted by Thomas T
+ on October 20, 2009 <a href="#c23" rel="bookmark">#</a></p>
+</div>
+<div id="c24">
+<p>His piece on Russia mentioned by others just fits into the picture of arrogance. Does he know what hoops people have to jump through when visiting the US? Russia is a poor country. What does he expect from the standard there? (Besides that the US is also not the brightest example in the world.)</p>
+
+<p>I don&#8217;t know him. So I can&#8217;t tell whether he&#8217;s really such an arrogant guy, but he really tries hard to make the impression.</p>
+
+<p><em>I</em> found a bug in qmail. It was not exploitable but it was a bug. So if I find one, there are more I&#8217;m not clever enough to find. But sure: if &#8220;exploitable&#8221; is an essential part of the definition of &#8220;bug&#8221;&#8230;.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://kotka.de">Meikel</a>
+ on October 20, 2009 <a href="#c24" rel="bookmark">#</a></p>
+</div>
+<div id="c25">
+<p>Gesh why is everyone fussing&#8230; even if this is some weird attempt at an ego-stroke it&#8217;s nothing we haven&#8217;t seen before :P</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://codejustin.com">CodeJustin</a>
+ on October 20, 2009 <a href="#c25" rel="bookmark">#</a></p>
+</div>
+<div id="c26">
+<p>I for one welcome this tribute to a man unconstrained by engineering notions, unfettered by mere convention.</p>
+
+<p class="posted">posted by Fitzharrys
+ on October 20, 2009 <a href="#c26" rel="bookmark">#</a></p>
+</div>
+<div id="c27">
+<p>&#8220;One bug — one bug! — was found in qmail.&#8221;, said the parrot. There are at least 2 bugs in the default install which <em>prevent</em> qmail from working properly (you may refer to the big-todo patch, and the &#8220;oversized&#8221; CNAME lookup/reply patch). What&#8217;s the point of authoring software when your ego and arrogance prevent you from patching and updating it?</p>
+
+<p>I don&#8217;t dislike qmail. I don&#8217;t dislike Dan Bernstein. I do, however, dislike the inaccurate portrayal of qmail as the measure of perfection. It&#8217;s broken by default, and its logging format is, in my opinion, near useless as compared to other MTAs.</p>
+
+<p class="posted">posted by idiocy
+ on October 20, 2009 <a href="#c27" rel="bookmark">#</a></p>
+</div>
+<div id="c28">
+<p>Dear djb &#8212; for I will refer to you lovingly by three lowercase letter &#8212; Your software is the very essence of perfection, a gently smoldering fiery flame every flicker of which reveals the mysteries of email and DNS and code in general, and so makes me want to write this slathering crapola which has almost singularly invented something I like to call the &#8216;blogjob&#8217;. You&#8217;re not a programmer &#8212; you&#8217;re a pop star! You&#8217;re not a software engineer &#8212; you&#8217;re a god! Your code makes me want to write emails just so they can be surrounded and caressed by your mail server.</p>
+
+<p>You might think I&#8217;m unbalanced or, in some way, not putting the job of a programmer into perspective. But you&#8217;re wrong! Because finding the ONE, the GREATEST PROGRAMMER IN THE WORLD, is somehow a possible and worthwhile task, and giving you this title means that I might be one step closer to making out with you in the back seat of your 66 Ford Mustang Fastback, or, as I like to call it, the GREATEST CAR IN THE WORLD.</p>
+
+<p>I love you,
+Fawning Goofball</p>
+
+<p class="posted">posted by Lockjaw
+ on October 20, 2009 <a href="#c28" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="djb" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

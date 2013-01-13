@@ -1,0 +1,102 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+  <title>atx, the true structured text format</title>
+  <link rel="stylesheet" type="text/css" href="/style.css" />
+</head><body>
+
+<h1>atx, the true structured text format</h1>
+
+<p>I’m sick of bringing my writing down to the level of the computer. Why should I have to cover everything in annoying pointy brackets just so it knows what I mean? We’ve had well-standardized conventions for computer processed text for the past decade; it’s time for a text format that acknowledges them, instead of inventing its own way of doing things.</p>
+
+<p>I’ve tried to create such a format: atx. The rest of this document describes the conventions of atx in detail, but you should be able to just write as you do in email and have a mostly valid atx document.</p>
+
+<p><em>Note that atx is still in flux and is subject to change. However, I don’t expect all that much to change and I’ll note things that I’m not sure about in the document.</em></p>
+
+<h2>Body Text</h2>
+
+<p>Use the TeX encoding  of formatting characters:</p>
+
+<pre>Double quoting: ``Hello, World!''
+Single quoting: `Hello, World!'
+An en-dash: 1920---1942
+An em-dash: Some thought -- sidenote -- same thought.</pre>
+
+<p>Double quoting: “Hello, World!”<br />
+Single quoting: ‘Hello, World!’<br />
+An en-dash: 1920–1942<br />
+An em-dash: Some thought — sidenote — same thought.</p>
+
+<p>(Yes, the last two are reversed from their positions in TeX. I think this is fair because a en-dash is far less common than an em-dash in my experience, but I’d appreciate feedback.)</p>
+
+<p>Use <code>format=flowed</code> wrapping: if the line ends in a space, then the next line is treated as a continuation of the previous one. Otherwise there’s a line break.</p>
+
+<p>Use the standard email conventions for strong and emphasis, and a new one for computer words (since I don’t think there exists a convention):</p>
+
+<pre>Emphasis (italics): I _love_ candy!
+Strong (bold): *This is a draft!*
+Code (monospaced): Use the |frobnitz| module.</pre>
+
+<p>Emphasis (italics): I <em>love</em> candy!<br />
+Strong (bold): <strong>This is a draft!</strong><br />
+Code (monospaced): Use the <code>frobnitz</code> module.</p>
+
+<p>Paragraphs are separated by a blank line. Lines starting with <code>$</code> or folowing a paragraph ending in :: are  preformatted.</p>
+
+<h2>Headings</h2>
+
+<p>Headings start with 1 or more # characters. The level 1 heading (the title) starts with #, section headings with ##, subheads with ###, and so on.</p>
+
+<h2>Lists</h2>
+
+<p>Ordered lists start with numbers:</p>
+
+<pre>1. Jack
+2. Jill
+3. Bill</pre>
+
+<ol>
+  <li>Jack</li>
+  <li>Jill</li>
+  <li>Bill</li>
+</ol>
+
+<p>Unordered lists start with *:</p>
+
+<pre>* Eat
+* Drink
+* Sleep</pre>
+
+<ul>
+  <li>Eat</li>
+  <li>Drink</li>
+  <li>Sleep</li>
+</ul>
+
+<h2>Block Quotes</h2>
+
+<p>Block quotes start with 3 or more spaces:</p>
+
+<pre>    Four score and seven years ago our fathers brought forth on this 
+    continent, a new nation, conceived in Liberty, and dedicated to the 
+    proposition that all men are created equal.</pre>
+
+<blockquote>    Four score and seven years ago our fathers brought forth on this     continent, a new nation, conceived in Liberty, and dedicated to the<br />
+    proposition that all men are created equal.</blockquote>
+
+<h2>Links</h2>
+
+<p>I need to figure out some way of doing links. (A similar method could be used to do any other type of phrase-describing not included.) I was thinking something like:</p>
+
+<pre>[John] went to [the market].
+ 
+[John] http://www.john.org/
+[the market] http://themarket.gov/</pre>
+
+<p><a href="http://www.john.org/">John</a> went to <a href="http://themarket.gov/">the market</a>.</p>
+
+<p>What do you think?</p>
+
+<h2>That’s it!</h2>
+
+<p>Is there anything else I should include? Let me know.</p>
+
+</body></html>

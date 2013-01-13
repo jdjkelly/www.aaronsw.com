@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Who Runs Wikipedia? (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Who Runs Wikipedia?</h1>
+
+<div class="wikivote">
+<p class="head"><strong>Wikimedia 2006 Elections</strong></p>
+
+<p>
+Part 1: <a href="wikiroads">Wikimedia at the Crossroads</a><br />
+Part 2: <a href="whowriteswikipedia">Who Writes Wikipedia?</a><br />
+Part 3: <strong>Who Runs Wikipedia?</strong><br />
+Part 4: <a href="morewikipedians">Making More Wikipedians</a><br />
+Part 5: <a href="morewikipedias">Making More Wikipedias</a><br />
+Part 6: <a href="wikicodeislaw">Code, and Other Laws</a><br />
+</p>
+
+<p><strong>Translations:</strong> <a href="http://meta.wikimedia.org/wiki/User:Masao/WhoRunsWikipedia">日本語</a> (<a href="mailto:me@aaronsw.com">add</a>)</p>
+
+<p><strong><a href="http://en.wikipedia.org/wiki/User:AaronSw/Election">Vote for me</a></strong> in the election for the Wikimedia Foundation&#8217;s Board of Directors.</p>
+</div>
+
+<p>During Wikimania, I gave a short talk proposing some new features for Wikipedia. The audience, which consisted mostly of programmers and other high-level Wikipedians, immediately begun suggesting problems with the idea. &#8220;Won&#8217;t bad thing X happen?&#8221; &#8220;How will you prevent Y?&#8221; &#8220;Do you really think people are going to do Z?&#8221; For a while I tried to answer them, explaining technical ways to fix the problem, but after a couple rounds I finally said:</p>
+
+<blockquote>
+  <p>Stop.</p>
+  
+  <p>If I had come here five years ago and told you I was going to make an entire encyclopedia by putting up a bunch of web pages that anyone could edit, you would have been able to raise a thousand objections: It will get filled with vandalism! The content will be unreliable! No one will do that work for free!</p>
+  
+  <p>And you would have been right to. These were completely reasonable expectations at the time. But here&#8217;s the funny thing: it worked anyway.</p>
+</blockquote>
+
+<p>At the time, I was just happy this quieted them down. But later I started thinking more about it. Why did Wikipedia work anyway?</p>
+
+<p>It wasn&#8217;t because its programmers were so far-sighted that the software solved all the problems. And it wasn&#8217;t because the people running it put clear rules in place to prevent misbehavior. We know this because when Wikipedia started it didn&#8217;t have any programmers (it used off-the-shelf wiki software) and it didn&#8217;t have clear rules (one of the first major rules was apparently <a href="http://en.wikipedia.org/wiki/Wikipedia:Ignore_all_rules">Ignore all rules</a>).</p>
+
+<p>No, the reason Wikipedia works is because of the community, a group of people that took the project as their own and threw themselves into making it succeed.</p>
+
+<hr />
+
+<p>People are constantly trying to vandalize Wikipedia, replacing articles with random text. It doesn&#8217;t work; their edits are undone within minutes, even seconds. But why? It&#8217;s not magic &#8212; it&#8217;s a bunch of incredibly dedicated people who sit at their computers watching every change that gets made. These days they call themselves the &#8220;recent changes patrol&#8221; and have special software that makes it easy to undo bad changes and block malicious users with a couple clicks.</p>
+
+<p>Why does anyone do such a thing? It&#8217;s not particularly fascinating work, they&#8217;re not being paid to do it, and nobody in charge asked them to volunteer. They do it because they care about the site enough to feel responsible. They get upset when someone tries to mess it up.</p>
+
+<p>It&#8217;s hard to imagine anyone feeling this way about <em>Britannica</em>. There are people who love that encyclopedia, but have any of them shown up at their offices offering to help out? It&#8217;s hard even to imagine. Average people just don&#8217;t feel responsible for <em>Britannica</em>; there are professionals to do that.</p>
+
+<hr />
+
+<p>Everybody knows Wikipedia as the site anyone can edit. The article about tree frogs wasn&#8217;t written because someone in charge decided they needed one and assigned it to someone; it was written because someone, somewhere just went ahead and started writing it. And a chorus of others decided to help out.</p>
+
+<p>But what&#8217;s less well-known is that it&#8217;s also the site that anyone can run. The vandals aren&#8217;t stopped because someone is in charge of stopping them; it was simply something people started doing. And it&#8217;s not just vandalism: a &#8220;welcoming committee&#8221; says hi to every new user, a &#8220;cleanup taskforce&#8221; goes around doing factchecking. The site&#8217;s rules are made by rough consensus. Even the servers are largely run this way &#8212; a group of volunteer sysadmins hang out on IRC, keeping an eye on things. Until quite recently, the Foundation that supposedly runs Wikipedia had no actual employees.</p>
+
+<p>This is so unusual, we don&#8217;t even have a word for it. It&#8217;s tempting to say &#8220;democracy&#8221;, but that&#8217;s woefully inadequate. Wikipedia doesn&#8217;t hold a vote and elect someone to be in charge of vandal-fighting. Indeed, &#8220;Wikipedia&#8221; doesn&#8217;t do anything at all. Someone simply sees that there are vandals to be fought and steps up to do the job.</p>
+
+<hr />
+
+<p>This is so radically different that it&#8217;s tempting to see it as a mistake: Sure, perhaps things have worked so far on this model, but when the real problems hit, things are going to have to change: certain people must have clear authority, important tasks must be carefully assigned, everyone else must understand that they are simply volunteers.</p>
+
+<p>But Wikipedia&#8217;s openness isn&#8217;t a mistake; it&#8217;s the source of its success. A dedicated community solves problems that official leaders wouldn&#8217;t even know were there. Meanwhile, their volunteerism largely eliminates infighting about who gets to be what. Instead, tasks get done by the people who genuinely want to do them, who just happen to be the people who care enough to do them right.</p>
+
+<p>Wikipedia&#8217;s biggest problems have come when it&#8217;s strayed from this path, when it&#8217;s given some people official titles and specified tasks. Whenever that happens, real work slows down and squabbling speeds up. But it&#8217;s an easy mistake to make, so it gets made again and again.</p>
+
+<hr />
+
+<p>Of course, that&#8217;s not the only reason this mistake is made, it&#8217;s just the most polite. The more frightening problem is that people love to get power and hate to give it up. Especially with a project as big and important as Wikipedia, with the constant swarm of praise and attention, it takes tremendous strength to turn down the opportunity to be its official X, to say instead &#8220;it&#8217;s a community project, I&#8217;m just another community member&#8221;.</p>
+
+<p>Indeed, the opposite is far more common. People who have poured vast amounts of time into the project begin to feel they should be getting something in return. They insist that, with all their work, they <em>deserve</em> an official job or a special title. After all, won&#8217;t clearly assigning tasks be better for everyone?</p>
+
+<p>And so, the trend is clear: more power, more people, more problems. It&#8217;s not just a series of mistakes, it&#8217;s the tendency of the system.</p>
+
+<hr />
+
+<p>It would be absurd for me to say that I&#8217;m immune to such pressures. After all, I&#8217;m currently running for a seat on the Wikimedia Board. But I also lie awake at night worrying that I might abuse my power.</p>
+
+<p>A systemic tendency like this is not going to be solved by electing the right person to the right place and then going to back to sleep while they solve the problem. If the community wants to remain in charge, it&#8217;s going to have to fight for it. I&#8217;m writing these essays to help people understand that this is something worth fighting for. And if I&#8217;m elected to the Board, I plan to keep on writing.</p>
+
+<p>Just as Wikipedia&#8217;s success as an encyclopedia requires a world of volunteers to write it, Wikipedia&#8217;s success as an organization requires the community of volunteers to run it. On the one hand, this means opening up the Board&#8217;s inner workings for the community to see and get involved in. But it also means opening up the actions of the community so the wider world can get involved. Whoever wins this next election, I hope we all take on this task.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">September  7, 2006</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>&#8220;This is so unusual, we don&#8217;t even have a word for it.&#8221;</p>
+
+<p>On the contrary: the word is Adhocracy.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://wikip.blogspot.com">Ben Yates</a>
+ on September  7, 2006 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>Many of Wikipedia&#8217;s medically related articles (proteins, diseases, genes, etc) rely heavily on the National Library of Medicine&#8217;s Online Mendelian Inheritence in Man (OMIM) database, which is essentially an expert version of Wikipedia. The threshold for <a href="http://www.ncbi.nlm.nih.gov/Omim/omimfaq.html#edit_sugg" rel="nofollow">editorial access to OMIM</a> is much higher and much vaguer than Wikipedia&#8217;s.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://nielsolson.us/">Niels Olson</a>
+ on September  7, 2006 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>The edits coming into Wikipedia are rather like a grain elevator pouring wheat into a huge pile. The admins have perched themselves at the tip of the growing pile, and they monitor, robotically or otherwise, every edit, especially every new article. Here&#8217;s the <a href="http://en.wikipedia.org/wiki/User_talk:Theoldanarchist#Hyper_IgM_syndromes" rel="nofollow">discussion I&#8217;m currently trying to have with one of Wikipedia&#8217;s admins about a set of articles I started on some rare diseases</a>. The phenomenon of admins sitting atop the stack of new articles and swiping out anything that doesn&#8217;t meet rather &#8216;stupid&#8217; criteria strikes me as crushingly evil when it comes to rare disease. I say &#8216;stupid&#8217; in the best since, like the internet itself is robust because it&#8217;s stupid. But the disease are rare! It takes a long time to develop information about them, and there&#8217;s a lot of them. It takes a really long time to develop information about all of them. And it takes a LOT of expertise to know anything about them. So the nature of the content makes it extremely difficult to begin with, let alone having to deal with some vultures sitting there looking for any excuse to increase their own apparant authority by stomping on the work of others. I thought wikis weren&#8217;t supposed to delete content?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://nielsolson.us/">Niels Olson</a>
+ on September  7, 2006 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>One way to bring in new users would be to further categorize the pages in need of expert attention. If you could present, or make available to immunologists, the immunology pages that really needed their help, you could stand to start recruiting some very highly talented people. It would require some comparison of the &#8216;requires expert attention&#8217; category, the categories themselves, and all the stub categories.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://nielsolson.us/">Niels Olson</a>
+ on September  7, 2006 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>You are drinking the Kool-Aid here.</p>
+
+<p>&#8220;This is so unusual, we don&#8217;t even have a word for it.&#8221;</p>
+
+<p>Nonsense. We have some perfectly reasonable words for it. There is an answer. However, it is a very unpleasant answer, so I will not speak its name.</p>
+
+<p>What do you mean by &#8220;opening up the Board&#8217;s inner workings&#8221;? If you mean giving more attention to the venture capital investment involved, I heartily endorse that plan :-).</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://sethf.com/">Seth Finkelstein</a>
+ on September  8, 2006 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c6">
+<p>&#8220;They insist that, with all their work, they deserve an official job or a special title.&#8221;</p>
+
+<p>One need of Wikipedians, which is not met by the current culture, is for there to be some kind of token &#8212; or title &#8212; that can be used to show that, yes, this person is an accepted member of the Wikipedia community. Because anyone can edit Wikipedia, there is no real value in saying something along the lines of &#8220;I made major contributions that greatly improved the article on Treefrogs&#8221;. Someone who is familiar with Wikipedia will know that this statement is just as likely to mean that the speaker made a lot of useless edits to the article (&amp; which were later deleted by a more knowledgable editor) as it could mean that the speaker had made undeniable improvements to the article.</p>
+
+<p>One result of this need is that it has transformed the duty of being an Admin into a title that proves the person is part of the &#8220;core&#8221; group of Wikipedia. (And this has led to Wikipedia having over 1000 Admins, but only a small percentage who actually do Admin chores.)</p>
+
+<p>It is human nature to need some kind of initiation ceremony to feel part of a group. And until this need is acknowledged &amp; some kind of title created (even one as simple as &#8220;Wikipedian in good standing&#8221;), Wikipedians will feel that they are doing a lot of work yet also feel excluded from &#8220;the club&#8221;.</p>
+
+<p>Geoff</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://en.wikipedia.org/wiki/User:Llywrch">llywrch</a>
+ on September  8, 2006 <a href="#c6" rel="bookmark">#</a></p>
+</div>
+<div id="c7">
+<p>You see the same thing on IRC with operator status.</p>
+
+<p class="posted">posted by David McCabe
+ on September  8, 2006 <a href="#c7" rel="bookmark">#</a></p>
+</div>
+<div id="c8">
+<p>Great work on this subject, Aaron.  Thanks.</p>
+
+<p class="posted">posted by Ethan
+ on September  9, 2006 <a href="#c8" rel="bookmark">#</a></p>
+</div>
+<div id="c9">
+<p>i think we do, indeed, have a word for it: anarchy.</p>
+
+<p>see: http://en.wikipedia.org/wiki/Anarchy
+see also: http://www.crimethinc.com/
+specifically: http://www.crimethinc.com/a/fighting/sample.html</p>
+
+<p>take care.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://theresistancearmy.com/blog/">shaners</a>
+ on September  9, 2006 <a href="#c9" rel="bookmark">#</a></p>
+</div>
+<div id="c10">
+<p><a href="http://wikip.blogspot.com/2005/06/wikipedia-and-communism-los-angeles.html" rel="nofollow">Anarcho-syndicalism</a>, maybe. =p</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://wikip.blogspot.com">Ben Yates</a>
+ on September  9, 2006 <a href="#c10" rel="bookmark">#</a></p>
+</div>
+<div id="c11">
+<p>Folks, what sort of anarchy has a Maximum Supreme Leader? And a Board consisting of permanent moneybag members plus minority (as in, no power) rotating up-and-comers?</p>
+
+<p>This isn&#8217;t a hard question.</p>
+
+<p>Don&#8217;t get taken by a snow-job about how you&#8217;re all a part of this communal Server Farm, except that some animals are more equal than others.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://sethf.com/">Seth Finkelstein</a>
+ on September  9, 2006 <a href="#c11" rel="bookmark">#</a></p>
+</div>
+<div id="c12">
+<p>Seth, don&#8217;t you think that&#8217;s just a little bit harsh and extreme?  &#8220;Maximum Supreme Leader&#8221;? &#8220;moneybag members&#8221;?  Come on now, wikipedia isn&#8217;t some sort of crime syndicate or something.  Jimbo mostly stays out of day-to-day decisions as much as he can, leaving the community to frame Wikipedia policy.  And most policy decisions, especially those about content, are right there in the open, on a wiki, for everyone to examine and criticize.</p>
+
+<p class="posted">posted by Jacob Rus
+ on September  9, 2006 <a href="#c12" rel="bookmark">#</a></p>
+</div>
+<div id="c13">
+<p>Well, it&#8217;s not exactly a polite way of phrasing the situation, but I&#8217;m trying to get the point across in contrast to the fantasy of Server Farm revolutionary commune.</p>
+
+<p>In fact, a crime syndicate is an example more meaningful than you may think - in real life, it&#8217;s often made up of semi-autonomous groups that while there may be a Boss Of Bosses, most day-to-day decisions are done by &#8220;the community&#8221; (which means the lower-ranking members in their domains). The Big Boss doesn&#8217;t have time to listen to every little gripe and beef. Disputants are expected to come to a consensus within certain broad rules, with community expulsion (or worse) otherwise as an incentive.</p>
+
+<p>Wikipedia has a head honcho. It&#8217;s Wales. OK, he&#8217;s not a micromanager. But he <em>does</em> have the absolute, final word. Sure, he&#8217;s not martinet style. But <em>many</em> CEO&#8217;s aren&#8217;t martinets either. There&#8217;s just little drama to be had in reporting on a CEO who is a delegator-manager type.</p>
+
+<p>The Board&#8217;s permanent members are businessmen. Not activists. That&#8217;s simply a fact. There&#8217;s at least $4 million dollars in venture capital investment. That&#8217;s not rainbows.</p>
+
+<p>I understand the appeal of supposedly being part of the avant-garde, the New New Thing, of being so cool you&#8217;re outside the scale of temperature, so far ahead you&#8217;re off the map.</p>
+
+<p>Working for free on somebody else&#8217;s hyped project isn&#8217;t it.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://sethf.com/">Seth Finkelstein</a>
+ on September  9, 2006 <a href="#c13" rel="bookmark">#</a></p>
+</div>
+<div id="c14">
+<p>Well Seth, you could name the Words Which Must Not Be Spoken, or continue to lord over everyone that you know something too unpleasant for us ordinary folk to deal with. ;)</p>
+
+<p>At the risk of idly philosophizing&#8230; having just read Graber&#8217;s <a href="http://www.prickly-paradigm.com/paradigm14.pdf" rel="nofollow">_Fragments of an Anarchist Anthropology_</a>, I think it&#8217;s correct to consider Wikipedia consistent with an anarchistic worldview. Apparently, a major strain in anarchism is that you increase self-management within the existing order; revolution as a discrete event can often be a constraining mindset.</p>
+
+<p>In the case of Wikipedia, I think the Gnu Free Documentation License makes it difficult for the higher-ups to take advantage of some powers. And whenever I&#8217;ve contributed, I&#8217;ve felt I could cooperate on an equal footing with others, as long as I stand up for myself and accept they too have their own viewpoints they wish to offer.</p>
+
+<p>I can&#8217;t operate 100% autonomously; so for example, one probably couldn&#8217;t legally post the text of vital works like <a href="http://www.mininova.org/tor/302394" rel="nofollow">Bernays&#8217; <em>Propaganda</em></a>, but gradual improvements to the systems in which we live are more to the point, I think&#8230;</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.democracynow.org/">Tayssir John Gabbour</a>
+ on September 10, 2006 <a href="#c14" rel="bookmark">#</a></p>
+</div>
+<div id="c15">
+<p>I&#8217;m trying not to be more inflammatory than I&#8217;ve been already 1/2 :-).</p>
+
+<p>I&#8217;m all for incremental reform. But the US remains a capitalist economy, which limits how much of a revolution it is to work for free when somebody blows smoke at you.</p>
+
+<p>I keep saying this: I cannot consider anything with an unarguable Top Guy and a businessman-controlled Board of Directors and associated investors to be &#8220;consistent with an anarchistic worldview&#8221;, except perhaps in the most trivial sense of any loosely organized group.</p>
+
+<p>Getting people to believe they make a difference is a key way to get them to volunteer. There&#8217;s nothing wrong with volunteering. But nothing particularly new either (though there&#8217;s some interesting twists in what can be effective in having people volunteer &#8230;)</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://sethf.com/">Seth Finkelstein</a>
+ on September 10, 2006 <a href="#c15" rel="bookmark">#</a></p>
+</div>
+<div id="c16">
+<p>With all respect, I think anarchism is trivial, and there are many examples of autonomous spaces in daily life. ;) There&#8217;s nothing deep about it &#8212; anarchists have even been criticized for lacking theory. So as Graeber claims:</p>
+
+<blockquote>&#8220;The basic principles of anarchism &#8212; self-organization, voluntary association, mutual aid &#8212; referred to forms of human behavior they assumed to have been around about as long as humanity.&#8221; [..] &#8220;This doesn’t mean anarchists have to be against theory. After all, anarchism is, itself, an idea, even if a very old one. It is also a project, which sets out to begin creating the institutions of a new society “within the shell of the old,” to expose, subvert, and undermine structures of domination but always, while doing so, proceeding in a democratic fashion, a manner which itself demonstrates those structures are unnecessary.&#8221;</blockquote>
+
+<p>Of course, I&#8217;m no expert on anarchist thinkers, and I wouldn&#8217;t call myself an anarchist. But I think your entire vocabulary is quite different from many of them, at least many modern ones who in my view have something interesting to say. It seems pragmatic and process-oriented. (Though some might attempt to articulate a possible vision like Parecon, as it&#8217;s rather depressing otherwise). <a href="http://www.radio4all.net/pub/archive/04.01.05/agitkid@killradio.org/710-1-20041122-Indymedia_On_Air_112204.mp3" rel="nofollow">In an interview</a>, Graeber goes on to claim:</p>
+
+<blockquote>&#8220;There&#8217;s a certain kind of revolutionary elitism, that people would fall into. Especially when revolutionaries think they have the Real Theory, they have the analysis which shows the direction which history must take, they stop listening to people. And I think what&#8217;s really powerful and new about anarchist movements is that it&#8217;s all about listening to people, and realizing that the people that you used to think of as a vanguard you&#8217;re trying to liberate might understand more than you do. So it&#8217;s a form of real solidarity.
+
+&#8220;I remember talking to a friend of mine in Belgrade, who&#8217;s organizing a PGA conference in Serbia, who was visiting these various factories occupied by their workers, and he said that in several cases people just started crying because when he came and said, &#8216;Well, we just want to listen to what you&#8217;re doing and see how we can help you&#8217;, nobody had ever said that to them before. Everybody else showed up and started telling them the real analysis of their situation and what they had to do.&#8221;</blockquote>
+
+<p>But anyway, since I&#8217;m not entirely sure what the &#8220;unpleasant answer&#8221; you hinted at earlier is, perhaps the case is that you&#8217;ve successfully baited people like me into responding with boringly long posts, and I&#8217;ll end that now. ;)</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.democracynow.org/">Tayssir John Gabbour</a>
+ on September 10, 2006 <a href="#c16" rel="bookmark">#</a></p>
+</div>
+<div id="c17">
+<p>Seth is trolling. The &#8220;at least $4 million dollars in venture capital investment&#8221; number matches investment in wikia.com, Jimbo&#8217;s wiki business (which employs a lot of Wikipedia&#8217;s formerly volunteer sysadmins - the most experienced Mediawiki admins in the world) - but there&#8217;s no venture capital investment in Wikipedia, nor mechanism for such.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://en.wikipedia.org/wiki/User:David_Gerard">David Gerard</a>
+ on September 10, 2006 <a href="#c17" rel="bookmark">#</a></p>
+</div>
+<div id="c18">
+<p>Tayssir: The trivial meaning seems hardly worth discussion. &#8220;Loosely organized&#8221; is much less distracting (but also less dramatic).</p>
+
+<p>David Gerard: Au contraire, I would say wikia.com is exactly the mechanism for venture capital investment in Wikipedia (in the sense relevant to this discussion). In fact, you just demonstrated why and how: &#8220;<em>employs</em> a lot of Wikipedia&#8217;s <em>formerly volunteer</em> sysadmins&#8221;). It&#8217;s quite common to have an non-profit and an associated for-profit, precisely to due to the different accounting requirements.</p>
+
+<p>Let me repost part of a comment I made an earlier thread, where I gave a link regarding the investors, and it&#8217;s clear that refers to wikia.com (I didn&#8217;t give it in this thread, because didn&#8217;t want to be accused of spamming it, damned-if-do-damned-if-I-don&#8217;t):</p>
+
+<p>&#8220;What&#8217;s really interesting about Wikipedia is how:</p>
+
+<p>1) It manages NOT TO PAY almost anyone, getting people to donate their services, on the basis of &#8220;community&#8221; or other ideas.</p>
+
+<p>2) It&#8217;s developed elaborate intellectual defenses against the failings of #1, whenever the flaws show through.</p>
+
+<p>Those are two aspects which are, if not exactly completely novel, definitely innovative implementations of eternal themes.</p>
+
+<p>Let&#8217;s again recall there&#8217;s <a href="http://www.americanventuremagazine.com/news.php?newsid=941" rel="nofollow">$4 million of venture capital</a> invested in the associated Wikia venture, and at a rule of thumb of 10x return, the investors want at least <em>$40 million</em>. That&#8217;s got to come from somewhere, and figuring out how to get work for free seems like a major part of it.&#8221;</p>
+
+<p>You may not like this, but I think it&#8217;s an intelligent, sourced, and well-argued critique. And calling it trolling strikes me as an attempt to discredit that material via an unjustified accusation of intellectual dishonesty.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://sethf.com/">Seth Finkelstein</a>
+ on September 11, 2006 <a href="#c18" rel="bookmark">#</a></p>
+</div>
+<div id="c19">
+<p>Seth, you should have been at Wikimania (if you weren&#8217;t).  There were a couple of good talks about what makes Wikipedia work, and what makes it valuable.  I think your money-centered outlook on these questions is misleading you.  I get far more out of wikipedia than I put into it.  This is true for almost all of the users, who, as Aaron&#8217;s research points out, are really the ones contributing content.  So while from a purely selfish point of view, assuming I gained no psychological reward from sharing knowledge with the world, I could &#8220;beat the system&#8221; by not contributing anything, and just using Wikipedia as a read-only source.  But it&#8217;s not as if Jimmy Wales is ripping anyone off either way.  The content is all out there.  It&#8217;s all GFDL.  There&#8217;s a real public benefit.  And if a few board members can make a bit of cash running Wikia on the side, I say whatever.  Start your own competing project, or try to get involved in Wikipedia governance, as Aaron is doing.  But this doom-and-gloom stuff about how the Wikimedia foundation is taking advantage of us all is kind of tiring.</p>
+
+<p class="posted">posted by Jacob Rus
+ on September 11, 2006 <a href="#c19" rel="bookmark">#</a></p>
+</div>
+<div id="c20">
+<p>There&#8217;s some weird grammar in the previous comment.  I should proofread.</p>
+
+<p class="posted">posted by Jacob Rus
+ on September 11, 2006 <a href="#c20" rel="bookmark">#</a></p>
+</div>
+<div id="c21">
+<p>Jacob, I thought of going to Wikimania, but for various reasons I eventually decided it would be a bad idea. What would be the point for me to attend sessions on &#8220;Why Kool-Aid is the most nutritious food in the world, you should drink lots of it, and even work for free in the sugar harvest to bring this miracle powder to the starving masses of Africa&#8221;. Seriously, what good would come of it? I know people get stars in their eyes.</p>
+
+<p>You put in time and work, and you don&#8217;t get out money. That&#8217;s very important <em>structurally</em>. Of course some people do that at times, for the psychological reward. At it&#8217;s best, it&#8217;s called &#8220;volunteering&#8221;. At it&#8217;s worst, it&#8217;s called some other things.</p>
+
+<p>It&#8217;s trivial to point out that all the users contributing content enjoy doing it. If they didn&#8217;t enjoy it (or have some other reason), they wouldn&#8217;t do it. The unpleasant issue is that this may not be an unalloyed good - and there&#8217;s lots of incentives, including financial ones, not to think about that.</p>
+
+<p>I don&#8217;t want to be <em>excessively</em> contentious, but I see a very disturbing manipulative pattern. Wikipedia is not <em>yours</em> - it is <em>Wales&#8217;</em>, it is the business members of board&#8217;s. You have exactly as much power as they let you have, based on how much you are useful to them, and no more. Anything about how you&#8217;re part of (my phrase) some revolutionary commune rings alarm bells with me. That&#8217;s a classic sales pitch that tends to eventually work out poorly for everyone except the few Glorious Leaders Of The Revolution.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://sethf.com/">Seth Finkelstein</a>
+ on September 11, 2006 <a href="#c21" rel="bookmark">#</a></p>
+</div>
+<div id="c22">
+<p>Seth said:</p>
+
+<blockquote>
+  <p>You have exactly as much power as they let you have, based on how much you are useful to them, and no more.</p>
+</blockquote>
+
+<p>The point is, in this case, there&#8217;s some quid pro quo.  I&#8217;m useful to them, and they&#8217;re useful to me.  Wales et al have only as much power as we give to them.  Wikipedia is all GFDL licensed.  That means the content is not &#8220;owned&#8221; like other property.  If I want to take all that content out and do something else with it, I&#8217;m free to do so.  If I want to fork Wikipedia, I&#8217;m free to try it.  Sure, there&#8217;s politics involved.  Encyclopedia articles aren&#8217;t some exhaustable resource that&#8217;s being taken away from us and hoarded away by the Wikimedia foundation.</p>
+
+<p class="posted">posted by Jacob Rus
+ on September 12, 2006 <a href="#c22" rel="bookmark">#</a></p>
+</div>
+<div id="c23">
+<p>Aaron, as Seth says, you&#8217;re drinking the kool-aid.  The value of Wikipedia will be that by being first and allowing anyone to contribute, it collected a whole bunch of seed content.  That seed content will then be taken by others and used to grow another encyclopedia with better editing and contributing controls or other specialized encyclopedia websites (one devoted just to technical subjects, for example).  Wikipedia will either adapt to these new realities or will wither and die as people move on.  The lack of structure that you describe cannot sustain the massive size that Wikipedia has reached.  All that needs to happen is for someone or some group of people to realize this and start their own site.</p>
+
+<p class="posted">posted by Ajay
+ on October  5, 2006 <a href="#c23" rel="bookmark">#</a></p>
+</div>
+<div id="c25">
+<p>If I may, I would like to add 2¢ worth here on Socialism, Anarchism, and the American way, (Corporatism).</p>
+
+<p>Wikipedia appeals to something within me that I express in other forums, the need - within myself - to share what I have so that all I encounter can be as wealthy as I am. That is a form of Socialism &amp; IMHO, the world - (&amp; America, in particular) - could use more of it.</p>
+
+<p>I spend time helping people online fix computer-related problems and I do it for no financial remuneration, I do it for the payment I value most, the ability to feel I am doing something worth a damn in a world where everything seems to have a pricetag attached.</p>
+
+<p>I believe there are a LOT of people in the world just like me, and given a chance and the time to do so, are willing - make that driven - to do exactly what I do, share whatever knowledge, skills, and expertice they have, so that the world can become a better, more edumacated, and smoother functioning place to live and operate from day to day.</p>
+
+<p>In the end, having a Wikipedia around saves me money. I own several old and outdated encyclopedias and would be continually upgrading them were not Wiki here for my use. I SAVE MONEY, therefore Wiki is a &#8220;good deal&#8221; for me, even though I spend valuable time in returning payment by helping to add to the compendium of knowledge it represents.</p>
+
+<p>What it represents is a willingness, (and a guilt-driven in some cases - people DO have a conscience about not paying for things they use &amp; benefit from), to expend &#8220;fair value&#8221; to to have something available that benefits them personally. It&#8217;s selfish in the extreme, but the amount of payment, while not measurable in Dollars/Euros,Pesos etc., is of worth and just as Wiki itself is run, allows a sense of &#8220;FROM each according to his Needs and TO each according to his Deeds&#8221; to occur without the harsh feelings coercive payments or taxation brings about.</p>
+
+<p>In the end, anarchy - the freedom to do whatever we believe is right - is served in the open ability to add/subtract to Wiki, and Corporatism is served by returning value on investment, (time spent), and Socialism is served, by giving to those who do not have but need, by those with an excess they may not need and are willing to freely share.</p>
+
+<p>In the end it matters little to those of us doing the sharing, because we receive an equitable value, and it matters little to those of us who do the taking, because we DEFINATELY receive equitable value, whether or not there is some mysterious backer(s) making a little or a handful of loot from Wikipedia in one way or another. As long as we get what we want and need, society and our own selfish interests are served. 
+It appears to be a Win/Win to me, and gripping about fiscal exchanges or hidden motivations seems pointless in the extreme.
+It works, leave well enough alone eh?</p>
+
+<p>Long Live the Wiki.</p>
+
+<p class="posted">posted by IdioT.SavanT.i4
+ on November 15, 2006 <a href="#c25" rel="bookmark">#</a></p>
+</div>
+<div id="c26">
+<p>I am currently blocked from my wikipedia account and have been threatened of being banned because I accussed the &#8220;administators&#8221; of playing double game.Many of their pals happen to use foul language or do vandalism,but they block who they choose.The biggest problem is these &#8220;administrators&#8221; barge into my personal account and tell me how to organize my talks.After refusing to let them control my talk page,I was threatened of being banned.This is wikipedia&#8217;s problem.They put in people who abuse their power who single out others at their own will.And there is SO much propaganda on wikipedia,a direct violation of its policies.Wikipedia should either become &#8220;the free encyclopdia&#8221; or shut down.</p>
+
+<p class="posted">posted by Nadirali
+ on December  1, 2006 <a href="#c26" rel="bookmark">#</a></p>
+</div>
+<div id="c27">
+<p>&#8220;It&#8217;s &#8221; as a contraction of &#8220;it has&#8221; is confusing and non-standard - most people think it means &#8220;it is&#8221; and it takes a moment to shift the mental gears.  It&#8217;s better to write it out fully.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.lockergnome.com/about/staff.phtml#marc">Marc Erickson</a>
+ on December 16, 2006 <a href="#c27" rel="bookmark">#</a></p>
+</div>
+<div id="c44">
+<p>what about russian translate?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://mypersonalplanning.com/">russian black market</a>
+ on July 14, 2007 <a href="#c44" rel="bookmark">#</a></p>
+</div>
+<div id="c50">
+<p>It is basic physics knowledge that world has a tendency towards chaos rather than discipline. At first it seemed that wikipedia was a perfectly growing website but as the website grows and becomes more precious than ever, basic physics law starts to show up again. Editing is necessary, but within limits. If not chaos or unhappyness is unpreventable.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.medsuppliers.info">Mert Kumru</a>
+ on September 23, 2007 <a href="#c50" rel="bookmark">#</a></p>
+</div>
+<div id="c57">
+<p>Very interesting points of argument I see floating around here. And I was directed to this blog by watching a very good intellectual discussion on [URL=http://mitworld.mit.edu/play/492/]collective intelligence[/URL] from MIT, which wikipedia was perhaps the centerfold of attention.</p>
+
+<p>We&#8217;re approaching the extreme of a freedom revolution in our midst and I find that certain things are very important to make a point about.</p>
+
+<p>1) There is a great need to route out collective idiocy/ignorance, which threatens to hinder both the productivity and potentiality of the global community. Part of this problem is introduced and presented by Nadirali&#8217;s predicament on assuming irresponsible individuals power that they use to exploit in their own selfish ways.</p>
+
+<p>Applying this problem physically, it is a polarization of such- Wikipedia, as a core hub of potentially energizing the mind with knowledge, faces the problem of negative input, giving us negative output. Wikipedia is merely a medium for information flow. As a result, anything that is put into it is what flows out directly. (This is perhaps what may arise the need for admins to filter out the negative, but I&#8217;ll bring that up later on in this response too)</p>
+
+<p>The main reason Wikipedia is such a positive entity is the fact that people see the positive potential in using it to help out communities.</p>
+
+<p>I think part of Seth&#8217;s dysfunction is not seeing this, and only seeing the possibility for extracting maximum money flow through exploiting and whittling your way into a profitable position (which I&#8217;m sure he&#8217;s exposed to and is inferring towards the corruptible nature of the business industry- more bang for your buck. Also known as externalities in this case.) But in the case of Jimmy Wales and the ones who recieve monetary fund from contributors, I find it practically justified for maintaining such an amazing database. I&#8217;m sure the idea itself is worth what people contributed. And sure, why not give some money to someone who has helped out humanity in such a positive way? Better off giving them some cash to live off of rather than directly to exploitative corporations that profit solely on back-breaking labor!</p>
+
+<p>Of course, this is the main problem in any system: being corrupted by too much negativity and ending with negative returns (which is what we&#8217;re seeing with all this pollution, cancer, disease, deforestation, warfare, etc.. going around in the world). But I find that the architecture of Wikipedia is created to route out that problem at it&#8217;s source. And once experts in the various specializations of academics utilize Wikipedia and acknowledge it&#8217;s potential, we&#8217;ll have a universal learning tool that may even evolve into something much greater and more refined.</p>
+
+<p>I can actually see a database arising as a successor to Wikipedia- one that starts categorization of such knowledge into a tree-form architecture. And this is partly inspired by this website: http://www.lecturefox.com/</p>
+
+<p>Someone somewhere is bound to find the idea to link together the two parts, and I see something like having a layout of informative works as well as having videos to help explain the information. So essentially, we&#8217;re ending up with a multimedia tool that has the possibility of even evolve itself further into the rising internet revolution.</p>
+
+<p>2) Economic stabilization is required. This is perhaps the most important part of the freedom revolution. In order to this, we need to restructure our society and the means of functioning into a way that doesn&#8217;t require monetary funds for sustainability. Part of what I see is that Wikipedia is practically devoid of this. You are free to harness the information and use it accordingly to your own will. I literally see Wikipedia as a microcosm of anarchy in action. And I&#8217;ve been told that practical anarchy will never work and can&#8217;t, but I know that to be naive ignorance of the ego telling me this.</p>
+
+<p>And perhaps the strongest argument is the the [url=http://en.wikipedia.org/wiki/Spanish_Revolution]Spanish Revolution[/url]. They operated without monetary fund for the most part. Who is to say that this can&#8217;t happen on a macroscale equivalent?</p>
+
+<p>3) An abundance of resources needs to arise. As 6 billion people on this planet, we have the full capability of exponentially raising the output of energy. We have the capability end poverty and warfare, and all that other negativity that is destroying the essence of life on this planet. But we need to work for it. We have to be positive about it, and not selfish. The alternatives already exist, we just need to make it materialize and bring it to fruition.</p>
+
+<p>Such things that have been known for decades now are energy farming (such as hemp farming), permaculture food farming, and now the research into free-energy, also known as cold-fusion, or low-energy nuclear reactions (LENR). More about this can be found at www.infinite-energy.com</p>
+
+<p>Also, patent #6126794 is an example of a way we can get off of using harmful, radioactive nuclear energy and more on hydrogen energy.</p>
+
+<p>This specific type of energy converter has been kept well secret throughout the automotive industry (because of the oil monopoly). We have the power to run cars on water!</p>
+
+<p>So truly, in the next couple years, we should see these new forms of massive, free-energy arising. And it will literally put an end to the necessity of relying of money monopolization to run our world. Money is the root of all evil and I see it being systematically rooted out through our own intuition to find alternatives!</p>
+
+<p>Now going back to the first part of my post, I find that collective idiocy will be systematically removed the more time goes on. The more we absorb the shock of all the negativity in the planet and transform it into positive outputs, the less we will see of ignorance and the hinderance towards a new way of life versus the death culture that plagues us with cancer, disease, sickness, and other physiological and psychological dysfunctions.</p>
+
+<p>We&#8217;re on the bring of the Kingdom of Heaven, and at this point, being greedy and trying to exploit humanity to be selfish is only causing the destruction of the individual, not the communities.</p>
+
+<p>And I&#8217;ll end with the most powerful quote I know:</p>
+
+<p>When the power of Love overcomes the love of power, the world will know peace. -Jimi Hendrix</p>
+
+<p class="posted">posted by Ryan Turgeon
+ on January 31, 2008 <a href="#c57" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="whorunswikipedia" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

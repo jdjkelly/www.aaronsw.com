@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Rethinking Hyperbolic Discounting (or, The Percentage Fallacy, Continued) (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Rethinking Hyperbolic Discounting (or, The Percentage Fallacy, Continued)</h1>
+
+<p>In a famous experiment, some people are asked to choose between $100 today or $120 tomorrow. Many choose the first. Meanwhile, some people are asked to choose between $100 sixty days from now or $120 sixty-one days from now. Almost everyone choose the laster. The puzzle is this: why are people willing to sacrifice $20 to avoid waiting a day right now but not in the future?</p>
+
+<p>The standard explanation is hyperbolic discounting: humans tend to weigh immediate effects much more strongly than distant ones. But I think the actual psychological effect at work here is just <a href="http://www.aaronsw.com/weblog/percentagefallacy">the percentage fallacy</a>. If I ask for the money now, I may have to wait 60 seconds. But if I get it tomorrow I have to wait 143900%more. By contrast, waiting 61 days is only 1.6% worse than waiting 6 days. Why not wait an extra 2% when you get 16% more money for it?</p>
+
+<p>Has anyone done a test confirming the percentage fallacy? A good test would be to show people treat the $100 vs. $120 tradeoff as equivalent to the $1000 to $1200 tradeoff.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">October  7, 2010</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>Doesn&#8217;t either explanation lead to the same empirical predictions in all cases? I can&#8217;t think of any experiment that would separate the two ideas. If so, they&#8217;re really equivalent.</p>
+
+<p class="posted">posted by Evan Harper
+ on October  7, 2010 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>This type of research is often used to try to infer a &#8220;natural&#8221; discount rate for net present value calculations, but I think it misses an element of human nature that sort of mimics the probability of default. For example, if the choice is $100 right now or $120 tomorrow, I have to consider that you may not show up tomorrow or you might say you were only kidding about offering me money. If I elect to take the $100 right now, I will know immediately if the offer is serious.</p>
+
+<p>With sixty and sixty-one days in the future, the probability of default is effectively the same (both give you plenty of time to leave town and not pay up). And, as you say, once the recipient has accepted the concept of deferred gratification, there is little reason not to wait an extra day for 20% more.</p>
+
+<p class="posted">posted by Ian
+ on October  7, 2010 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>This is the Time Value of Money - an important reason why interest rates exist. 100 today is 105 a year from now, when dealing in macro. Of course to just you and I 100 today is 120 tomorrow. Same with a car or home loan, paying a discounted chunk right now that adds up to a big interest markup is more valuable than shelling out the discounted full value now, with no interest rate markup.</p>
+
+<p>Experiments are happening all around us, right now.</p>
+
+<p class="posted">posted by Daniel
+ on October  7, 2010 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>My initial reaction (not having ever read the actual papers, and so knowing nothing about the experimental setup) was the same as Ian&#8217;s.  This seems more about the risk of default if deferring the payoff, and/or the hassle value of having to show up again/stay in contact/etc..</p>
+
+<p>How about this setup: I will give you either a check dated today for $100, or one dated today + deltaT for $100 + $X; which would you prefer?</p>
+
+<p>This seems to make the two cases more equal on all dimensions except the amount of money.</p>
+
+<p class="posted">posted by Emile
+ on October  7, 2010 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>Percentage fallacy seems like a distinct and interesting thing.  Intuitively I&#8217;m not convinced it&#8217;s all of what&#8217;s going on here.  It&#8217;d be interesting to see data for many combinations of delay and reward choices.  But sort of like Evan says, it wouldn&#8217;t be obvious how to nail down which bias (or blend of biases) is behind the pattern; it probably wouldn&#8217;t exactly match any theory.  I think there must be entirely other experiments that need to be done here, but I don&#8217;t know where to start designing them.</p>
+
+<p>I&#8217;m sympathetic with Ian&#8217;s guess that hyperbolic discounting might have to do with uncertainty, but I wonder if the relationship&#8217;s a little different.  It&#8217;s not necessarily that we&#8217;re rationally modeling the risk of default in particular; rather, maybe the reason we&#8217;re wired not to worry much about the future is that our world used to be so volatile that for planning two months ahead was mostly a waste of time &#8212; the food you stored would rot or get stolen, etc.  So that uncertainty is more or less hardwired in as disregard for the distant future.</p>
+
+<p>You can also make that kind of &#8220;second-best&#8221; argument about overoptimism &#8212; &#8220;second-best&#8221; here meaning &#8220;it&#8217;s not rational, but it produced about the right behaviors back when our brains were evolving.&#8221;  Overoptimism might give us an incorrect picture of the facts, but lead us to make good investments we wouldn&#8217;t otherwise make because we&#8217;d undervalue the returns.</p>
+
+<p>There are other explanations for discounting, too &#8212; e.g., we don&#8217;t have the capacity to &#8220;taste&#8221; far-off rewards the way we do close ones because we can&#8217;t viscerally tie the reward to what we did to get it in the same way.  It might be that long-range vision is a trait we could have evolved but didn&#8217;t since it wasn&#8217;t much use long ago, or that difficulty deferring gratification is just a fundamental problem with how anything like the human brain learns.</p>
+
+<p>I think all I really know is that we&#8217;re far from done empirically describing people&#8217;s problems making decisions, and further from understanding their sources and implications.  Some &#8220;fixes&#8221; might have bad side effects.  It&#8217;s like trying to debug our crusty, buggy, but basically working firmware &#8212; hard and full of surprises.</p>
+
+<p>Anyone recommend particular books, etc. on this stuff?  Liked Dan Ariely&#8217;s books, liked the research in Nudge but hated the writing, and liked Robert Cialdini&#8217;s Influence even though a lot of it&#8217;s written like a marketing primer.</p>
+
+<p class="posted">posted by Randall
+ on October  7, 2010 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c6">
+<p>It seems like a straightforward trust issue, rather than either of those things. I guess I&#8217;m agreeing with Ian: the difference between option one, where you can stand between the dude and the door until he gives you money and the other three options is that you have to go on trust for the other three.</p>
+
+<p>If people&#8217;s mothers made the offer, I imagine there&#8217;s a good chance you&#8217;d see a different result.</p>
+
+<p>Well, depending on the mother.</p>
+
+<p class="posted">posted by quinn
+ on October  7, 2010 <a href="#c6" rel="bookmark">#</a></p>
+</div>
+<div id="c7">
+<p>Assuming the following: implicit trust of the person being questioned in the interviewer and the interviewer’s associated institution, that collecting tomorrow would mean any time after today, no inconvenience in collecting the money later and that “many” would mean a substantially large portion across a varied size range of samplings, it would seem that peoples tendency to anthropomorphize (give human characteristics to) everything would be at play.  Trust issues and peoples experience with their own and others &#8220;fits of generosity&#8221; would be factors that would form in the subconscious and manifest as decisions in spite of every bit of trust a person would purport have.</p>
+
+<p>What lies behind the loci of focus in recognizing our own species is as primitive as it ever was.</p>
+
+<p class="posted">posted by James
+ on October  7, 2010 <a href="#c7" rel="bookmark">#</a></p>
+</div>
+<div id="c8">
+<p>A bird in the hand is worth >1.2 in the bush.</p>
+
+<p class="posted">posted by Will
+ on October 10, 2010 <a href="#c8" rel="bookmark">#</a></p>
+</div>
+<div id="c10">
+<p>I linked to this and your previous post on the percentage fallacy in <a href="http://lesswrong.com/r/discussion/lw/2xg/is_there_a_percentage_fallacy/" rel="nofollow">a thread on Less Wrong</a>, and there were some useful responses. Worth reading the thread, I think.</p>
+
+<p>In particular, it turned out that something similar or identical had been <a href="http://lesswrong.com/lw/1i/its_the_same_five_dollars/" rel="nofollow">discussed there before</a>, and it cited an experiment demonstrating this effect by Tversky and Kahneman themselves. (<a href="http://psych.hanover.edu/classes/cognition/papers/tversky81.pdf" rel="nofollow">Here&#8217;s the original paper.</a> See page 457.) However, they didn&#8217;t describe it as a distinct fallacy as you did, but rather, explained it in terms of something they called &#8220;psychological accounts&#8221; (page 456). There&#8217;s probably some follow-up research on that.</p>
+
+<p>(As for hyperbolic discounting, though, I think it&#8217;s been confirmed pretty strongly, in that it&#8217;s been shown not just that &#8220;humans tend to weigh immediate effects much more strongly than distant ones&#8221; but that this actually tends to follow a hyperbolic function. If you want to hypothesize that this effect is caused by the percentage fallacy, then you&#8217;d have to show that it predicts this particular pattern.)</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://atlas.st/think/">Adam</a>
+ on October 24, 2010 <a href="#c10" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="percentagefallacy2" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

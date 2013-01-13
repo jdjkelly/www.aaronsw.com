@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Bubble City: Preface (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Bubble City: Preface</h1>
+
+<p>November is National Novel Writing Month, or NaNoWriMo. The idea, as far
+as I can discern, is that more people ought to be writing novels. But
+whether this is for us or them is not clear.</p>
+
+<p>Novels have an odd place in our culture. They can be capital-L
+Literature, as in the Great American Novel. Or they can be
+entertainment, as in romance or mystery novels. Or, and perhaps best,
+they can capture the essence of a place or time by using it as the
+backdrop for a story.</p>
+
+<p>In this way, a novel is disguised memoir, as anyone who is friends with
+a novelist can readily discern. And, like a memoir, writing them can be
+therapeutic, exorcising a writer&#8217;s demons, while hopefully being more
+entertaining.</p>
+
+<p>Over the next month I will be serializing a novel, <em>Bubble City</em>, in this space, one chapter every day. NaNoWriMo requires novels be at least 50,000 words in length and thirty days hath November, so I&#8217;ll aim for 1666 words a day, although if I get lazy I may make some days shorter if I go over on previous ones.</p>
+
+<p>There are lots of reasons not to read
+it: I have no experience writing long-form fiction, I will be writing
+this live and thus bound to errors I make in previous chapters, you will
+undoubtedly be negatively portrayed in it, I have not really planned
+this out, and I have no great things to say. Each post&#8217;s title will
+begin with &#8220;Bubble City:&#8221; so you can easily ignore them.</p>
+
+<p>That said, if you want to read a yarn about the denizens of San
+Francisco startups, the power they presume to have over the world, and
+what happens when programmers get in over their heads, stay tuned.</p>
+
+<p><em>Tomorrow:</em> <a href="bubblecity1">Chapter One</a></p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">October 31, 2007</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>Ah, then you&#8217;re simultaneously also participating in <a href="http://www.fussy.org/nablopomo.html" rel="nofollow">National Blog Posting Month</a>.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.gavinbaker.com/">Gavin Baker</a>
+ on November  1, 2007 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>I&#8217;m not sure this is the way to write a novel.</p>
+
+<p>If I were you, I would write the chapters as you intend, but also spend time rewriting and rethinking.</p>
+
+<p>Then <em>next</em> month, post it as a serial. I think you&#8217;ll get higher quality this way.</p>
+
+<p>Have fun!</p>
+
+<p class="posted">posted by <a rel="nofollow" href="www.kirigin.com">Ivan</a>
+ on November  1, 2007 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>Good choice of topic. Good luck!</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://delifaks.blogspot.com">Xavier Vespa</a>
+ on November  2, 2007 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="bubblecity" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

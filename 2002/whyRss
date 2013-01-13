@@ -1,0 +1,17 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+  <title>Why is RSS 1.0 called RSS?</title>
+  <link rel="stylesheet" type="text/css" href="/style.css" />
+</head>
+<body>
+<div id="head">
+  <h1>Why is RSS 1.0 called RSS?</h1>
+</div>
+<div class="content">
+<p>Dave Winer asks: <strong>Why is RSS 1.0 called RSS?</strong></p>
+<p>RSS 1.0 was an attempt to combine what we saw as the best parts of RSS: the simplicity and extensibility of RDF (used in RSS 0.9) with the power of the new tags introduced in RSS 0.91, while remaining backwards-compatible. It seemed reasonable for the successor to RSS and RSS to be named RSS, especially since it was compatible with all tools that could already read RSS.</p>
+</div>
+<div class="footer">
+  <address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</div></body>
+</html>

@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Squaring the Triangle: Secure, Decentralized, Human-Readable Names (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Squaring the Triangle: Secure, Decentralized, Human-Readable Names</h1>
+
+<p>When using computers, we like to refer to things with names. For example, this website is known as &#8220;www.aaronsw.com&#8221;. You can type that into your browser and read these words. There are three big properties we might want from such names:</p>
+
+<ul>
+<li><strong>secure:</strong> that when you type the name in you actually get my website and not the website of an imposter</li>
+<li><strong>decentralized:</strong> that no central authority controls all the names</li>
+<li><strong>human-readable:</strong> that the name is something you can actually remember instead of some long string of randomness</li>
+</ul>
+
+<p>In a classic paper, my friend Zooko argued that you can get at most two of these properties at any one time.</p>
+
+<p>Recently, DNS legend Dan Kaminsky used this to argue that since electronic cash was pretty much the same as naming, Zooko&#8217;s triangle applied to it as well. He used this to argue that <a href="http://www.bitcoin.org/">BitCoin</a>, the secure, decentralized, human-meaningful electronic cash system was impossible. I have my problems with BitCoin, but it&#8217;s manifestly not impossible, so I just assumed Kaminsky had gone wrong somewhere.</p>
+
+<p>But tonight I realized that you can indeed use BitCoin to square Zooko&#8217;s triangle. Here&#8217;s how it works:</p>
+
+<p>Let there be a document called the scroll. The scroll consists of a series of lines and each line consists of a tuple (name, key, nonce) such that the first N bits of the hash of the scroll from the beginning to the end of a line are all zero. As a result, to add a line to the scroll, you need to do enough computation to discover an appropriate nonce that causes the bits of the hash to be zero.</p>
+
+<p>To look up a name, you ask everyone you know for the scroll, trust whichever scroll is the longest, and then start from the beginning and take the key for the first line with the name you&#8217;re looking up. To publish a name, you find an appropriate nonce and then send the new line to everyone you know.</p>
+
+<p>OK, let&#8217;s pause there for a second. How do you steal names in such a system? First, you need to need to calculate a new nonce for the line you want to steal and every subsequent line. Second, you need to get your replacement scroll to the user. The first is difficult, but perhaps not impossible, depending on how many lines ago the name you want to steal is. It requires having some large multiple of the rest of the network&#8217;s combined CPU power. This seems like a fairly strong constraint to me, but apparently not to Dan. Luckily, we&#8217;re saved by the second question.</p>
+
+<p>Let there be a group of machines called the network. Each remembers the last scroll it trusted. When a new valid line is created it&#8217;s sent to everyone in the network and they add it to their scroll.<sup id="fnref:fn1"><a href="#fn:fn1" rel="footnote">1</a></sup> Now stealing an old name is impossible, since machines in the network only add new names, they don&#8217;t accept replacements for old ones.</p>
+
+<p>That&#8217;s fine for machines already in the network, but how do you join? Well, as a physical law, to join a network you need the identity of at least one machine already in the network. Now when you join, that machine can give you a fabricated scroll where they&#8217;ve stolen all the names. I don&#8217;t think there&#8217;s any way to avoid this &#8212; if you don&#8217;t know anyone willing to tell you the correct answer, you can&#8217;t will the correct answer out of thin air. Even a centralized system depends on knowing at least one honest root.</p>
+
+<p>You can ameliorate this problem by knowing several nodes when you connect and asking each of them for their scroll. It seems like the best theoretically-possible case would be requiring only one node to be honest. That would correspond to trusting whichever node had the longest scroll. But this would leave you vulnerable to an attacker who a) has enough CPU power to fabricate the longest scroll, and b) can co-opt at least one of your initial nodes. The alternative is to trust only scrolls you receive from a majority of your list of nodes. This leaves you vulnerable to an attacker who can co-opt a majority of your initial nodes. Which tradeoff you pick presumably depends on how much you trust your initial nodes.</p>
+
+<p>Publishing a false scroll is equivalent to fragmenting the namespace and starting a separate network. (We can enforce this by requiring nodes to sign each latest scroll and publish their signature to be considered members-in-good-standing of the network. Any node that attempts to sign two contradictory scroll is obviously duplicitous and can be discounted.) So another way of describing scenario (b) is to say that to join a network, you need a list of nodes where at least a majority are actually nodes in the network. This doesn&#8217;t seem like an overly strenuous requirement.</p>
+
+<p>And we&#8217;re actually slightly safer than that, since the majority needs a fair amount of CPU to stay plausible. If we assume that you hear new names from some out-of-band source, for them to work on the attacker&#8217;s network, the attacker must have enough CPU to generate lines for each name you might use. Otherwise you realize that the names you type in on your computer are returning 404s while they work on other people&#8217;s computers and begin to realize you&#8217;ve been had by an attacker.</p>
+
+<p>So there you have it. The names are secure: they&#8217;re identifiable by a key of arbitrary length and cannot be stolen. They&#8217;re human-meaningful: the name can be whatever string you like. And they&#8217;re decentralized: no centralized authority determines who gets what name and yet they&#8217;re available to everyone in the network.</p>
+
+<p>Zooko&#8217;s triangle has been squared.</p>
+
+<p><strong>UPDATE:</strong> I&#8217;m gratified by all the feedback and I&#8217;ve put up <a href="https://squaretriangle.jottit.com/faq">a Frequently Asked Questions page</a> in response to comments here and elsewhere.</p>
+
+<div class="footnotes">
+<hr />
+<ol>
+
+<li id="fn:fn1">
+<p>What happens if two people create a new line at the same time? The debate should be resolved by the creation of the next new line &#8212; whichever line is previous in its scroll is the one to trust.&#160;<a href="#fnref:fn1" rev="footnote">&#8617;</a></p>
+</li>
+
+</ol>
+</div>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">January  6, 2011</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>I admit I haven&#8217;t looked at BitCoin, but won&#8217;t the scroll get awfully long pretty fast?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://nikita.ca">Nikita Borisov</a>
+ on January  6, 2011 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>yea there has already been some thinking about this.</p>
+
+<p>see this forum thread: http://www.bitcoin.org/smf/index.php?topic=1790.0</p>
+
+<p>and this protocol proposal:
+http://privwiki.dreamhosters.com/wiki/Bitcoin_DNS_System_Proposal</p>
+
+<p class="posted">posted by n
+ on January  6, 2011 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>What happens when someone launches a DOS attack, registering billions of likely names?
+The social problems of DNS are just as hard as the technical ones, unfortunately.</p>
+
+<p class="posted">posted by Noel Grandin
+ on January  6, 2011 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>Another approach to the same issue: http://www.lshift.net/blog/2007/11/10/squaring-zookos-triangle</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.imperialviolet.org">Adam Langley</a>
+ on January  6, 2011 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c6">
+<p><a href="http://www.aaronsw.com/weblog/squarezooko#c1" rel="nofollow">Nikita</a>: Perhaps. There are some practical optimizations you can probably make to eliminate the need to ship the whole thing around all the time.  I was going to write about them, but I&#8217;m not sure it&#8217;s actually necessary &#8212; people routinely download multi-gigabyte movies on the Internet and the text data here will probably weigh a lot less.</p>
+
+<p><a href="http://www.aaronsw.com/weblog/squarezooko#c4" rel="nofollow">Noel</a>: You pick an N so that this is unlike/infeasible. Right now it only costs $5-10 to register a domain name; you could pick an N where it cost $10 to compute.</p>
+
+<p><a href="http://www.aaronsw.com/weblog/squarezooko#c5" rel="nofollow">Adam</a>: Yeah, I liked the lshift post, but it gets much weaker results on the meaningful prong. I mean, &#8220;area-fluid-above-movie-start&#8221; isn&#8217;t really something you&#8217;re going to see in movie trailers anytime soon.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on January  6, 2011 <a href="#c6" rel="bookmark">#</a></p>
+</div>
+<div id="c7">
+<p>Noel writes (via email):</p>
+
+<blockquote>
+  <p>If you pick a really high N, it becomes problematic to create a new name.
+  If you pick a low N, in a couple of years it becomes possible to launch a DOS.</p>
+</blockquote>
+
+<p>I didn&#8217;t go into this in the piece, because it wasn&#8217;t directly relevant, but I have a couple ideas.</p>
+
+<ol>
+<li><p>You can pick a function N=f(t) where t is the date so that N grows over time, then you only have to worry about getting the growth rate wrong.</p></li>
+<li><p>You can have the network vote in some way on adopting new values of N.</p></li>
+<li><p>You can have an algorithm for gradually increasing N if new names get minted &#8220;too quickly&#8221; &#8212; i.e. if you see more than X new lines within Y seconds, increase N by 1.</p></li>
+</ol>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on January  6, 2011 <a href="#c7" rel="bookmark">#</a></p>
+</div>
+<div id="c8">
+<p>How would such a system handle name expiry?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://blake8086.blogspot.com">blake8086</a>
+ on January  6, 2011 <a href="#c8" rel="bookmark">#</a></p>
+</div>
+<div id="c9">
+<p>I&#8217;ve been re-reading the bitcoin paper, and it strikes me that some of the changes in the above description (presumably made as simplifications for explanatory purposes) might kind of matter.</p>
+
+<p>You have each line satisfying hash(scroll up to end of line), rather than bitcoin&#8217;s chained-blocks paradigm.  It seems like this may really start to matter once the size of the scroll gets large?</p>
+
+<p>I also keep having a niggling fear that there&#8217;s some relation between the # of names which can be registered per unit time and the N chosen.  Specifically, I worry that with N sufficiently large that domain registration costs a reasonable amount, it will be impossible to find the appropriate nonce for it before the world has moved on and you have to start from a new base scroll.</p>
+
+<p>With bitcoin it&#8217;s not supposed to cost anything to publish a transaction, and then everyone works on finding the next block which will contain that tx (and earns a coin for being the first to find one.)  But here, while lines in the scroll are analogous to transactions, we want people to bear the cost of registering the name themselves.  I don&#8217;t know.  I feel like I&#8217;m missing something.</p>
+
+<p class="posted">posted by Emile
+ on January  7, 2011 <a href="#c9" rel="bookmark">#</a></p>
+</div>
+<div id="c10">
+<blockquote>
+  <p>You have each line satisfying hash(scroll up to end of line), rather than bitcoin&#8217;s chained-blocks paradigm.  It seems like this may really start to matter once the size of the scroll gets large?</p>
+</blockquote>
+
+<p>Yeah, I guess that&#8217;s an engineering optimization?</p>
+
+<blockquote>
+  <p>I also keep having a niggling fear that there&#8217;s some relation between the # of names which can be registered per unit time and the N chosen.  Specifically, I worry that with N sufficiently large that domain registration costs a reasonable amount, it will be impossible to find the appropriate nonce for it before the world has moved on and you have to start from a new base scroll.</p>
+</blockquote>
+
+<p>You have this intuition that when the scroll is advanced you have to &#8220;start over from the beginning&#8221; in looking for a new nonce, but I don&#8217;t think that&#8217;s true. For any nonce you try, I think the probability of it being correct is the same no matter what the scroll is. So it should take you the same amount of time to find a working nonce no matter how many times the scroll changes while you&#8217;re doing it.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on January 10, 2011 <a href="#c10" rel="bookmark">#</a></p>
+</div>
+<div id="c11">
+<blockquote>
+You have this intuition that when the scroll is advanced you have to “start over from the beginning” in looking for a new nonce, but I don’t think that’s true. For any nonce you try, I think the probability of it being correct is the same no matter what the scroll is. So it should take you the same amount of time to find a working nonce no matter how many times the scroll changes while you’re doing it.
+</blockquote>
+
+<p>Ah, you&#8217;re right, that was exactly my thinking.  Thanks.</p>
+
+<p class="posted">posted by Emile
+ on January 10, 2011 <a href="#c11" rel="bookmark">#</a></p>
+</div>
+<div id="c12">
+<p>&#8220;When a new valid line is created it’s sent to everyone in the network and they add it to their scroll.&#8221;
+Realistically, the bigger problem than that of two people creating a name at the same time is less than that of name propagation taking longer than name creation. That is, nodes that are disconnected for a bit too long would not receive a new name before the rest of the network has already moved on to the next.</p>
+
+<p>Effectively you&#8217;re fragmenting the network all over the place then. Nodes with a scroll that have the same age (where age is # lines in the scroll) would find it easy to agree on a new name, but they might be several iterations behind the latest version of the scroll.</p>
+
+<p>As to the concerns that some people raise about the length of the scroll (which becomes relevant here, as one solution to the above would be to force nodes to start with a blank scroll as they join):</p>
+
+<p>According to http://en.wikipedia.org/wiki/Domain_name we&#8217;ve now reached some 196 million domain names. A line in your scroll would be some 20 or so characters for the domain name (could easily grow larger), let&#8217;s make it compact and say no more than 128 bits/16 bytes for an IPv6 address, and oh, some 512 bits / 64 bytes for a hash. Altogether at least 100 bytes per line, times 196 mio = 18 GiB.</p>
+
+<p>Yeah, I don&#8217;t see anyone transmitting that every time they join the network.</p>
+
+<p>&#8220;Let there be a document called the scroll. The scroll consists of a series of lines and each line consists of a tuple (name, key, nonce) such that the first N bits of the hash of the scroll from the beginning to the end of a line are all zero. As a result, to add a line to the scroll, you need to do enough computation to discover an appropriate nonce that causes the bits of the hash to be zero.&#8221;
+You&#8217;re describing a requirement to choose a plaintext such that a particular hash is created. While that&#8217;s possible, hash algorithms are designed to make that very, very hard, or you&#8217;d have an easy time finding collisions. If you can create collisions, then you have an easy time subverting the name system (or any type of crypto out there).</p>
+
+<p>&#8220;So another way of describing scenario (b) is to say that to join a network, you need a list of nodes where at least a majority are actually nodes in the network. This doesn’t seem like an overly strenuous requirement.&#8221;</p>
+
+<p>In the practice of P2P networking, it is. How do you verify that they are? Let the user do that?</p>
+
+<p>Also</p>
+
+<p>&#8220;Publishing a false scroll is equivalent to fragmenting the namespace and starting a separate network.&#8221;</p>
+
+<p>Must be prevented, or the whole thing isn&#8217;t a reliable global naming thingamajig anymore.</p>
+
+<p>&#8220;And we’re actually slightly safer than that, since the majority needs a fair amount of CPU to stay plausible.&#8221;</p>
+
+<p>Rent a few Amazon VMs, they&#8217;re cheap these days. Or make 4chan users angry enough to help you.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.unwesen.de/">unwesen</a>
+ on January 12, 2011 <a href="#c12" rel="bookmark">#</a></p>
+</div>
+<div id="c13">
+<p>I think I missed something, but I can&#8217;t find the answer in the article; What is the key? It can&#8217;t be an IP address, because I might be paying a third party to host my service, and that third party can be coerced.</p>
+
+<p>I assume that I missed something, and that keys would be digital signatures, and something like the current DNS system would be used to resolve signatures into ip addresses.</p>
+
+<p>I still have doubts about the elegance of the solution offered in the article; here is my alternative:</p>
+
+<p>Instead of trying to invent a system in which name conflicts are impossible, allow conflicts, but use a web-of-trust system to rank human-readable names, which resolve to globally unique signatures.</p>
+
+<p>In essence, the human name is like a &#8220;nickname&#8221; which is used within my peer group, while the signature is the &#8220;real name&#8221; which can be used to reference a person outside of my peer group.</p>
+
+<p>Because two people in remote peer networks could use the same nickname to refer to different people, URLs would have to be resolved by the server or operating system as soon as possible, so that the name becomes globally stable.</p>
+
+<p>To address this problem, instead of using only the human readable part, use some number of characters from the signature in the URL: &#8220;.&#8221; It could be that the signature is optional, otherwise it could be convention that 3 characters minimum is standard, for example. The more characters of the signature are included, the more secure the URL is - up to a maximum of the entire signature.</p>
+
+<p>The human readable part is used to search the peer-network for candidate signatures, which can optionally be ranked by some trust-metric. (The DNS system could discard extremely untrusted names, preventing spamming.) Then, the list of candidate signatures is narrowed by however many digits of the real signature is provided. If at this point there are any conflicts, the user could be notified with an icon, but have the most-trusted option be the default.</p>
+
+<p>The only problem is, I have used the concept of &#8220;trust&#8221; as a black-box ranking system.</p>
+
+<p class="posted">posted by Phillip
+ on January 12, 2011 <a href="#c13" rel="bookmark">#</a></p>
+</div>
+<div id="c14">
+<p>The blog software mangled my URL scheme description.</p>
+
+<p>In reference to my above post; domain names could be of the form: &#8220;$HUMAN_READABLE.$SIGNATURE&#8221; where the signature can be truncated.</p>
+
+<p class="posted">posted by Phillip
+ on January 12, 2011 <a href="#c14" rel="bookmark">#</a></p>
+</div>
+<div id="c15">
+<p>There is no decentralized way to manage a global ordered list like this. It&#8217;s a basic problem for P2P networks. You&#8217;ll inevitably get conflicts as two nodes each publish their own amended version of the list, which then cause conflicts as they propagate gradually across the net. This is only feasible on a theoretical network with zero lag and perfect connectivity, not in the real world.</p>
+
+<p>The ways around the problem are either
+(a) Have a central synchronization mechanism to make sure entries get added in known order (which violates decentralization); or
+(b) Resolve conflicts by merging divergent lists, which is made impossible by the hashing scheme (and would in any case violate security, because you&#8217;re allowing arbitrary parties to edit the list.)</p>
+
+<p>And then there are the more general problems associated with letting anyone reserve any name on a first come first served basis. You just know you&#8217;re going to get spammers using their botnets to spew out entries that point every common name (dictionary words, familiar hostnames, common human names&#8230;) at their sites, making the &#8220;readable&#8221; feature useless in practice.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://jens.mooseyard.com">Jens Alfke</a>
+ on January 12, 2011 <a href="#c15" rel="bookmark">#</a></p>
+</div>
+<div id="c16">
+<p>Jens, have you looked at bitcoin yet?  Do you believe that they are doomed to fail if/when the network size/transaction load grows large enough?  I haven&#8217;t looked closely yet at how they structure the network of nodes.</p>
+
+<p>As to the first come first served &#8212; isn&#8217;t that exactly how the domain system works right now?  If you are willing to steal computer time to &#8220;pay&#8221; for name registration under this proposal then you can just as easily steal money to pay for domains under the current DNS system.</p>
+
+<p class="posted">posted by Emile
+ on January 12, 2011 <a href="#c16" rel="bookmark">#</a></p>
+</div>
+<div id="c17">
+<p>unwesen, re:hash collisions &#8212; you misread the proposal.  The idea is to find a hash where <em>the first N bits</em> are zero.  Choose N such that this takes an &#8220;appropriate&#8221; amount of work.  Your objection assumes that N == # of bits in the hash.</p>
+
+<p class="posted">posted by Emile
+ on January 12, 2011 <a href="#c17" rel="bookmark">#</a></p>
+</div>
+<div id="c18">
+<p>@Emile: I did not misread the proposal, but after re-reading what I&#8217;d written, I understand that it must seem that way. I had skipped a few steps in my thought process in my description.</p>
+
+<p>Yes, finding partial collisions for plain hash functions is feasible.</p>
+
+<p>No, using plaintext + hash(plaintext) is not enough to verify a scroll&#8217;s validity, that&#8217;s why HMAC etc. exist (to protect against collisions, partial or otherwise).</p>
+
+<p>So in order for nodes to verify the scroll, you&#8217;d need to find an HMAC with N leading zeros, which becomes prohibitive again.</p>
+
+<p>The reason you must use an HMAC and not a plain hash is that, as Philip put it, avoiding conflicts &#8220;(&#8230;) is only feasible on a theoretical network with zero lag and perfect connectivity, not in the real world.&#8221;</p>
+
+<p>Ergo, you must allow for nodes having to re-fetch and validate entire scrolls.</p>
+
+<p>(Also, at that point you run into the problem of having too much data.)</p>
+
+<p>Sorry for taking the shortcut through my thoughts previously, hope the above makes my objection clearer.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.unwesen.de/">unwesen</a>
+ on January 12, 2011 <a href="#c18" rel="bookmark">#</a></p>
+</div>
+<div id="c19">
+<p>I find it much less clear. It doesn&#8217;t seem like you understand what HMAC is.</p>
+
+<p>As for other comments, falling behind on the scroll should be modeled as leaving the network and rejoining. If two valid lines are published within the amount of time it takes a line to propagate, the dispute will be settled by the next published line.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on January 12, 2011 <a href="#c19" rel="bookmark">#</a></p>
+</div>
+<div id="c20">
+<p>@unwesen: I think I see the confusion?  The hashes aren&#8217;t being used to construct a MAC, let alone an HMAC.  They pure proofs of work.  If each line of the scroll satisfies the stated condition, then you know roughly how much work was required to generate that entire scroll.</p>
+
+<p>The concerns that motivate HMAC as opposed to using H(key || messages) or H(message || key) to authenticate a message are not really relevant to the proposal.  We aren&#8217;t trying to authenticate the scroll as coming from anyone in particular.  (Proving that they have a particular secret key, and thus must have generated the MAC in question.)</p>
+
+<p>Here, the &#8220;key&#8221; in each line of the scroll is just some arbitrary bit of (cleartext) data that the individual registering the name wishes to associate with it.  It is the value part of the key-value store that the proposal defines.</p>
+
+<p class="posted">posted by Emile
+ on January 12, 2011 <a href="#c20" rel="bookmark">#</a></p>
+</div>
+<div id="c21">
+<p>probably best change the word &#8216;nonce&#8217; as it is slang for a paedo in the UK</p>
+
+<p class="posted">posted by jon
+ on January 12, 2011 <a href="#c21" rel="bookmark">#</a></p>
+</div>
+<div id="c22">
+<p>&#8220;Now stealing an old name is impossible, since machines in the network only add new names, they don’t accept replacements for old ones.&#8221;</p>
+
+<p>Assuming for a moment that the key is the IP associated with the name, it is important that these be allowed to both expire and be replaced. If you open this door, you could use the web of trust notion to determine when a proposed replacement is valid. I&#8217;m not clear on how easy it would be to tune the notion of a majority to find a balance between proliferation of data through the network and security.</p>
+
+<p>If, however, the key is something other than the IP, there still needs to be a system underneath that translates the key to an IP address, and this is open to the triangle from Zooko&#8217;s paper.</p>
+
+<p class="posted">posted by dominic
+ on January 13, 2011 <a href="#c22" rel="bookmark">#</a></p>
+</div>
+<div id="c23">
+<p>@Emile:</p>
+
+<p>If hashes are pure proofs of work, then the whole system is <em>very</em> attackable, as CPU power is <em>really</em> cheap these days.</p>
+
+<p>FWIW, there&#8217;s a reason most real-world P2P systems are hybrid, and at least for the commercial ones, mechanisms to avoid bad data flooding the network is amongst the most notable.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.unwesen.de/">unwesen</a>
+ on January 13, 2011 <a href="#c23" rel="bookmark">#</a></p>
+</div>
+<div id="c24">
+<p>@jon: Like it or not, &#8220;nonce&#8221; is the standard terminology (http://en.wikipedia.org/wiki/Cryptographic_nonce).</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://experthuman.com/">Tom Stuart</a>
+ on January 14, 2011 <a href="#c24" rel="bookmark">#</a></p>
+</div>
+<div id="c25">
+<p>Dominic: Check out <a href="http://squaretriangle.jottit.com/faq" rel="nofollow">the FAQ</a>. There&#8217;s no reason going from the key to IP would implicate any Zooko&#8217;s triangle issues.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on January 14, 2011 <a href="#c25" rel="bookmark">#</a></p>
+</div>
+<div id="c33">
+<p>Just to follow up on the &#8220;CPU power is really cheap&#8221;, see the current Sony/PSN debacle. People with enough motivation apparently are happy to rent tons of Amazon VMs. Previously I was only assuming they would, now I know.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.unwesen.de/">unwesen</a>
+ on May 20, 2011 <a href="#c33" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="squarezooko" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

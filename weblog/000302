@@ -1,0 +1,51 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>TinyURL (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000301" title="My Books" />	<link rel="next" href="000304" title="Boston Trip 2 - Day 1" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>TinyURL</h1>
+</div>
+
+<div class="content">
+<p><a href="http://tinyurl.com/">TinyURL.com - where tiny is better!</a> [via <a href="http://boingboing.net/2002_05_01_archive.html#85124180">MarkF</a>]</p>
+
+<p>Not only are these URLs shorter than MakeAShorterLink, but they&#8217;re real redirects, and even let you point deeper inside a site. For example, if you set up your site to be http://tinyurl.com/3 then you can use http://tinyurl.com/3/my-links-page.html to link to your links page.</p>
+
+<form action="http://tinyurl.com/create.php" method="post" target="_blank">
+<table align="center" cellpadding="5" bgcolor="#E7E7F7"><tr><td>
+<b>Enter a long URL to make tiny:</b><br /><input type="text" name="url" size="30"><input type="submit" name="submit" value="Make TinyURL!">
+</td></tr></table>
+</form>
+
+<p class="posted">posted May 29, 2002 03:49 PM (<a class="category" href="cat_technology">Technology</a>)  <a href="000302" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000301" title="My Books">&laquo; prev</a> | <a href="./">up</a> | <a href="000304" title="Boston Trip 2 - Day 1">next &raquo;</a></p>
+
+<p><a href="000296">Multi-Threaded Lives</a><br />
+<a href="000297">Local Wireless</a><br />
+<a href="000298">Copyright Lawsuit Not Included</a><br />
+<a href="000300">The New New New Economy</a><br />
+<a href="000301">My Books</a><br />
+<strong>TinyURL</strong><br />
+<a href="000304">Boston Trip 2 - Day 1</a><br />
+<a href="000308">Public Access to the Public Domain</a><br />
+<a href="000309">Tim O&#8217;Reilly: OS X and the Next Big Thing</a><br />
+<a href="000310">Valenti: &#8220;I know damn well I am infringing.&#8221;</a><br />
+<a href="000311">My Social Network</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

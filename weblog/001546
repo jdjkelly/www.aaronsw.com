@@ -1,0 +1,183 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Stanford: Sunday, December 5 (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001546.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001545" title="Your Congress is a Bunch of Idiots" />	<link rel="next" href="001547" title="George Ryan on the Penalty of Death" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Stanford: Sunday, December 5</h1>
+</div>
+
+<div class="content">
+<p><a href="http://www.msnbc.msn.com/id/6646523/site/newsweek/">The <em>Newsweek</em> article</a> that <a href="http://www.aaronsw.com/weblog/001487">Steven Levy wrote about me</a> is out. I IM Kat, who is described &#8220;a combination of Sylvia Plath and Moll Flanders&#8221; in the piece, to tell her of her good fortune. I accidentally click the wrong button and quit out of AIM instead of sending her the URL, so she walks over to my room and climbs up to the top bunk, where I&#8217;m sitting with my laptop, and reads the article. We both like it. I decide to start calling her &#8220;Plathers&#8221;.</p>
+
+<p>Word travels fast and a buzz about the article seems to follow me around for the day. I eventually try to escape by listening to <a href="http://www.thislife.org/pages/descriptions/03/253.html">Jack Hitt describe the tiny island nation of Nauru</a> but I can&#8217;t concentrate. I head over to the library where I figure out how to work the OCR machine and scan an article I like:</p>
+
+<blockquote>
+  <p>As far as one can tell, the academics who embrace postmodernism drive cars, fly in transcontinental airplanes, use computers and telephones, bake in microwave ovens, watch NYPD Blue on television, deposit their pay-checks, buy stocks or invest in mutual funds, have mortgages, copulate and sometimes procreate children born in modern hospitals, and send their off-spring to Ivy League schools. They flush their toilets and expect the waste to disappear, perhaps oblivious to the fantastic labyrinths of sewers beneath their feet. They expect their physicians to prescribe effective wonder drugs to combat infections. They buy food from all over the world in well-stocked supermarkets or delicacy stores. Some even barbecue in the backyards of their well-built homes, recreating the suburban rituals that framed their childhoods. They publish articles arguing that language is everything in journals that, when printed, are miraculously mailed everywhere. And they crank out reams of publicity promoting themselves or press the flesh at professional meetings in 
+  sound-proofed, air-conditioned downtown hotels, oiled by the sweet nectar of the chardonnay grape. (<a href="http://zpedia.org/Re-enchanting_the_World">Re-enchanting the World: Some reflections on postmodernism</a>)</p>
+</blockquote>
+
+<p>My brother Noah IMs me about my magazine appearance: &#8220;I&#8217;d suggest that you frame the magazines that you were in and put them on your wall, but people would look at you funny if you had a picture of Arnold next to a picture of Jesus &amp; Mary.&#8221;</p>
+
+<p>I spend the night modifying the Wikipedia software to use the Markdown formatter. Despite my fame, I still don&#8217;t have any friends.</p>
+
+<p class="posted">posted February 06, 2005 08:11 PM (<a class="category" href="cat_education">Education</a>) (<a href="#comments">3 comments</a>) <a href="001546" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001545" title="Your Congress is a Bunch of Idiots">&laquo; prev</a> | <a href="./">up</a> | <a href="001547" title="George Ryan on the Penalty of Death">next &raquo;</a></p>
+
+<p><a href="001538">Stanford: Wednesday, December 1</a><br />
+<a href="001540">Stanford: Thursday, December 2</a><br />
+<a href="001541">Stanford: Friday, December 3</a><br />
+<a href="001542">Stanford: Saturday, December 4</a><br />
+<a href="001545">Your Congress is a Bunch of Idiots</a><br />
+<strong>Stanford: Sunday, December 5</strong><br />
+<a href="001547">George Ryan on the Penalty of Death</a><br />
+<a href="001548">Stanford: Tuesday, December 7</a><br />
+<a href="001551">Stanford: Wednesday, December 8</a><br />
+<a href="001552">Edward Tufte on Beautiful Evidence (and more Stanford: December 8)</a><br />
+<a href="001557">Stanford: Thursday, December 9</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c3898">
+
+<p>&#8220;Despite my fame, I still don’t have any friends.&#8221;</p>
+
+<p>You got me, babe! And I think Sean.</p>
+
+<p>Love.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.boobam.org" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3898">William Loughborough</a> at February  6, 2005 10:18 PM <a href="#c3898">#</a></p>
+
+</div><div id="c3900">
+
+<p>What if your actions hadnt even brought you fame? What if you had never been recognized for your work at all. Sometimes the score is relative, but I certainly can understand loneliness, nonetheless.</p>
+
+<p class="posted">posted by JP at February  6, 2005 11:09 PM <a href="#c3900">#</a></p>
+
+</div><div id="c3912">
+
+<p>What about Kat?  Isn&#8217;t she a friend?</p>
+
+<p class="posted">posted by Annie at February  7, 2005 04:50 PM <a href="#c3912">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001546.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1546" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

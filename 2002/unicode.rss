@@ -1,0 +1,16 @@
+<rss version="0.91">
+<channel>
+  <title>Unicode Test</title>
+  <description>Testing Unicode support in RSS readers.</description>
+  <link>http://www.aaronsw.com/2002/unicode.rss</link>
+<item>
+  <title>Here's a nice juicy interrobang: ‽</title>
+  <link>http://www.aaronsw.com/2002/unicode.rss</link>
+  <description>Here's a nice juicy interrobang: ‽</description>
+  <foo></foo>
+</item>
+<item>
+  <description>&lt;em&gt;NetNewsWire: It’s Not Metal™&lt;/em&gt;</description>
+</item>
+</channel>
+</rss>

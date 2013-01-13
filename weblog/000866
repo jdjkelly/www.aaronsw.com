@@ -1,0 +1,54 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>How to Do Stuff (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000865" title="Spectrum Reflections" />	<link rel="next" href="000868" title="letters from a rogue state" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>How to Do Stuff</h1>
+</div>
+
+<div class="content">
+<p>I’m proud to introduce my new series: <a href="http://www.aaronsw.com/2002/howto/">How to Do Stuff</a>. It currently features two articles:</p>
+
+<ul>
+  <li><a href="http://www.aaronsw.com/2002/howto/cvs">How to Do Version Control with CVS</a></li>
+  <li><a href="http://www.aaronsw.com/2002/howto/stream">How to Do Live Streaming</a></li>
+</ul>
+
+<p>I’m especially proud of <a href="http://www.aaronsw.com/2002/howto/stream">How to Do Live Streaming</a>. It covers how to do broadcasting, reflection, encoding, recording, etc., all using pipes of small Unix tools.</p>
+
+<p>The whole section is written using <a href="http://www.aaronsw.com/2002/atx/">my humane structured text format, atx</a>. You can see the source code of a page by adding <code>.atx</code> to the end.</p>
+
+<p>(These Movable Type entries are also written in atx. I wrote a small Movable Type plugin to pass the entries through my atx converter before publishing.)</p>
+
+<p class="posted">posted March 17, 2003 11:10 AM (<a class="category" href="cat_technology">Technology</a>)  <a href="000866" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000865" title="Spectrum Reflections">&laquo; prev</a> | <a href="./">up</a> | <a href="000868" title="letters from a rogue state">next &raquo;</a></p>
+
+<p><a href="000859">Larry&#8217;s Keynote</a><br />
+<a href="000862">House of Reprehensitives?</a><br />
+<a href="000863">Protect Fair Use</a><br />
+<a href="000864">Raging Platypus</a><br />
+<a href="000865">Spectrum Reflections</a><br />
+<strong>How to Do Stuff</strong><br />
+<a href="000868">letters from a rogue state</a><br />
+<a href="000869">where are the warmongers?</a><br />
+<a href="000870">We&#8217;re Going to Japan</a><br />
+<a href="000872">Flight Report</a><br />
+<a href="000873">Live From Japan</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

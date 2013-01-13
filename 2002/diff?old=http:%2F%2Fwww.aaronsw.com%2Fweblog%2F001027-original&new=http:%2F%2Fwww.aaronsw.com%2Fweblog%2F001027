@@ -1,0 +1,69 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Secrets of Standards (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/001027.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001026" title="Canadians Do It Right" />	<link rel="next" href="001028" title="Day, Today" />
+<!--
+
+-->
+
+<style type="text/css"><!--ins {background: #bfb} del{background: #fcc} ins,del {text-decoration: none} --></style></head>
+<del class="diff">    </del><body><ins class="diff">	</ins>
+<div id="banner">
+	<h1>Secrets of Standards</h1>
+</div>
+
+<div class="content">
+<p>In <a href="http://perl.plover.com/">mjd</a>’s talk “Mailing List Judo” (removed from the Web due to its evil content), he gives several strategies for getting your changes into Perl. The key point is that you only need to convince one person to accept your patch: the patch pumpkin. (The patch pumpkin is the one who folds patches into the official distribution of Perl.) Everyone else can be reasonably ignored.</p>
+
+<p>With many standards projects, the process is reasonably similar. The group’s output takes the form of a set of documents, each of which is controlled by one or two people (the Editors) who fold in changes and maintain the official version. There’s sometimes also a dispute-resolution process (voting, consensus, etc.) if the editor doesn’t know what to put in or the group disagrees with the editor.</p>
+
+<p>The genius of <a href="http://intertwingly.net/wiki/pie/">Sam’s wiki</a> was that there was no editor. Thought something was ugly? Change it. Think the text needed clarification? Clarify it. Sometimes disputes spilled out into separate pages but for the most part the process worked amazingly well.</p>
+
+<p>But the process failed when it came to the big unresolved disputes. What should we name it? Should we encode HTML? There were polls but people didn’t trust them. There were discussions but they never came to consensus. And often the loudest or most persistent voice would win by pushing their opponent to exhaustion. Unfortunately the most persistent voice is often the least experienced.</p>
+
+<p>As we’ve begun to write actual specs, things have gotten even worse. <del class="diff">Backchannel deals made </del>Joe Gregorio and Mark Nottingham <del class="diff modified">into </del><ins class="diff modified">have become </ins>traditional editors of the API and feed format respectively. Sam Ruby and Mark Pilgrim took control of the spec by declaring milestones and updating their validator accordingly. <del class="diff modified"></p>
+
+<p>Many of the comments on the wiki were ignored and the </del><ins class="diff modified">The </ins>Wiki was turned into a unavigable swamp of a discussion forum for the drafts edited by other people. <del class="diff">Everyone not in the clique has been relegated to an advisory role, pointing out bugs or pleading pet requests. </del>It’s less than clear how to be a real part <del class="diff modified">to </del><ins class="diff modified">of </ins>the core group.</p>
+
+<p>It’s not too late to turn things around. Specs could be moved back into the wiki until they’re nearly done. Editors, instead of being gatekeepers, could be helpful moderators. A clear process for making controvertial decisions could be decided on. And the validator could follow consensus instead of leading it. <del class="diff"> </del>But do the people running the show want this?</p>
+
+<p>Standards bodies tread a fine line between organizations for the public good and shelters for protecting collusion that would be otherwise illegal under antitrust law. For the dominent vendors involved, the goal is to give the illusion of openness while giving themselves full control to enforce their will behind the scenes. </p>
+
+<p>The IETF is a good example of this. Often lauded by the public as a model of openness and and and freedom, the reality is that working group chairs, appointed by a self-elected ruling board, get away with declaring whatever they want (usually an inferior and difficult to implement alternative) as “rough consensus”, routinely  ignoring comments from the public and objections from working group members.  One working group (in charge of DNS extentsions) went so far as to <del class="diff modified"><a href="http://cr.yp.to/namedroppers.html"></del><ins class="diff modified"><a href="http://cr.yp.to/djbdns/namedroppers.html"></ins>censor mail from working group members</a>. The dictators running the IETF, when informed, didn’t seem to mind.</p>
+
+<p>Is the same sort of thing at work in the Pie/Echo/Atom Project? <del class="diff modified">It’s got all the signs: a self-elected cabal (the Research Triangle Park Bloggers) who runs </del><ins class="diff modified">It appears so at first glance: Sam running </ins>the show from behind the scenes, <del class="diff">forcing their agenda (e.g. unquoted HTML) against strong objections from important players, and </del>putting <del class="diff modified">themselves </del><ins class="diff modified">friends </ins>in charge of <del class="diff modified">unilaterally declaring what’s in and out of the spec. </del><ins class="diff modified">the specs (although that isn’t what actually happened). </ins>The lack of a dispute-resolution process only makes <del class="diff modified">this easier: if </del><ins class="diff modified">things worse: when </ins>there’s no clear guide on how to make decisions or contributions, <del class="diff modified">no one complains when the decisions are made for them.</del><ins class="diff modified">it’s far from obvious how to challenge a decision Sam has made.</ins></p>
+
+<p>There’s no question that the group takes contributions from <del class="diff modified">outsiders, and is certainly better for it, </del><ins class="diff modified">outsiders </ins>but <del class="diff modified">calling </del><ins class="diff modified">they need to make </ins>it <del class="diff modified">open </del><ins class="diff modified">clearer that you can be part of the development process. I think moving specs onto the wiki will reinvigorate work and setting up a dispute resolution process will help us start moving forward, instead of stuck here where no decisions have been “final”. The group </ins>seems <del class="diff modified">a stretch. Instead we </del><ins class="diff modified">to have fallen into a rut. I want to help them </ins>get <del class="diff modified">the same as everything else: a closed cabal that puts on a show of openness. This may not be the intention, but it is certainly the effect. We have the chance to get more, and we should take advantage </del><ins class="diff modified">out </ins>of it.</p>
+
+<ins class="diff"><p>[<a href="http://www.aaronsw.com/2002/diff?old=http%3A%2F%2Fwww.aaronsw.com%2Fweblog%2F001027-original&amp;new=http%3A%2F%2Fwww.aaronsw.com%2Fweblog%2F001027">Changes from the original</a>]</p>
+
+</ins><p class="posted"><del class="diff">originally </del>posted August 20, 2003 10:39 AM (<del class="diff modified"><a href="cat_technology"></del><ins class="diff modified"><a class="category" href="cat_technology"></ins>Technology</a>) <del class="diff modified"><a href="001027"></del><ins class="diff modified"> <a href="001027" rel="bookmark"></ins>#</a><del class="diff"> </del></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001026" title="Canadians Do It Right">&laquo; prev</a> | <a href="./">up</a> <ins class="diff">| <a href="001028" title="Day, Today">next &raquo;</a></ins></p>
+
+<p><a href="001014">Letter from Knuth</a><br />
+<a href="001016">Privacy, Accuracy, Security: Pick Two</a><br />
+<a href="001024">Live from victoria.bc.ca</a><br />
+<a href="001025">Postel&#8217;s Law Has No Exceptions</a><br />
+<a href="001026">Canadians Do It Right</a><br />
+<strong>Secrets of Standards</strong><br />
+<del class="diff modified">
+</del><ins class="diff modified"><a href="001028">Day, Today</a><br />
+<a href="001030">The Biggest News</a><br />
+<a href="001031">What A Little Bug Can Do</a><br />
+<a href="001034">THINK</a><br />
+<a href="001035">What&#8217;s Good on TV</a><br /></ins></p>
+</div>
+<del class="diff">
+<div class="footer"></del>
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+<del class="diff"><p>All text above by me is hereby placed in the public domain.</p>
+</div>
+</del></body>
+</html>

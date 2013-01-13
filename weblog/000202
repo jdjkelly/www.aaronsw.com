@@ -1,0 +1,45 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Today&#8217;s Hack: display.cgi (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/000202.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000201" title="Aaron Swartz Movies" />	<link rel="next" href="000203" title="Rescued Data" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Today&#8217;s Hack: display.cgi</h1>
+</div>
+
+<div class="content">
+<p>I just whipped up <a href="http://www.aaronsw.com/2002/display.cgi">display.cgi</a> (<a href="http://www.aaronsw.com/2002/display.py">source</a>), a little CGI script to display some HTML that you type in. I&#8217;ve wanted something like this for a while for various reasons, so today I finally sat down and wrote it. </p>
+
+<p>I don&#8217;t know if anyone else will find it useful, but I&#8217;m linking to it in case they do. The HTML is bare-bones so that you can drop in your own as you test.</p>
+
+<p class="posted">posted March 25, 2002 09:27 PM (<a class="category" href="cat_technology">Technology</a>)  <a href="000202" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000201" title="Aaron Swartz Movies">&laquo; prev</a> | <a href="./">up</a> | <a href="000203" title="Rescued Data">next &raquo;</a></p>
+
+<p><a href="000194">A New Kind of Society</a><br />
+<a href="000196">Instant Outliners</a><br />
+<a href="000197">Evidence</a><br />
+<a href="000198">Noam on Terrorism</a><br />
+<a href="000201">Aaron Swartz Movies</a><br />
+<strong>Today&#8217;s Hack: display.cgi</strong><br />
+<a href="000203">Rescued Data</a><br />
+<a href="000207">Visiting Boston, Cambridge</a><br />
+<a href="000217">Other</a><br />
+<a href="000218">Secure Coin Flipping</a><br />
+<a href="000224">Putting Books Online Increases Sales</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

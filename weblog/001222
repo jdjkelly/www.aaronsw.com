@@ -1,0 +1,264 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Physics&#8217;s Puzzle (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001222.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001218" title="Presidential Candidate Bob Williams, part 5: The Verdict of History" />	<link rel="next" href="001223" title="Where&#8217;s Okrent? The End of the Times" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Physics&#8217;s Puzzle</h1>
+</div>
+
+<div class="content">
+<p>Something&#8217;s been puzzling me about physics: why is it so easy? Everything can be expressed in a handful of relatively simple mathematical equations! It&#8217;s a big complicated world out there; why should algebra, let alone simple algebra, be able to describe it all? Even more telling, these equations don&#8217;t just explain normal, everyday behavior (gravity pulls things down, balls bounce the same inside a moving train as outside) but the weird, counter-intuitive results of these equations (gyroscopes fall sideways, when you go faster time slows down) always end up being true as well.</p>
+
+<p>When you think about it, that aspect of the equations is even more bizarre than their simplicity. Why should the results of a few mathematical equations, which we&#8217;ve cooked up to explain the things we experience, also predict bizarre phenmonena we never would have guessed?</p>
+
+<p>It turns out the answer to all these questions is simple: the universe is just one big puzzle game, like <em>Myst</em>.</p>
+
+<p>You probably have heard about puzzle games, but if not, the idea is simple: You and a few friends team up to tackle the puzzle. You scout a designated playing field for clues, try to figure out what they mean and what to do with them, and then apply your ideas to see if they work. If they do, you get to move on to the next part. And when you come up with a major breakthrough, you share it with your puzzle-solving colleagues, and everyone moves onto the next step.</p>
+
+<p>People make and play these games all over. In real life, they&#8217;re often set up at college campuses. On computers they&#8217;re found in games like <em>Myst</em>. On the Web, they&#8217;re often created to promote things, like the complex puzzle game created for the film <em>AI</em>. Some people just can&#8217;t get enough of the intellectual thrill of solving these various puzzle games. But physics is rarely thought of as one of them.</p>
+
+<p>But when you look at it, the similarity is clear: You do experiments in the world, collecting data. Galileo dropped things, nowadays we run them around in giant particle accelerators. Then you take the data and try to come up with a theory for it. Then you try to test the theory by doing more experiments. If it works, you try the edge cases, revealing weird new things about the world. </p>
+
+<p>So why is physics so easy? Well, like any good puzzle, things start out simple and slowly progress. That&#8217;s why the basic phenomena are explained so simply, while the more rare things (moving at the speed of light, actions at the atomic scale) are far more tough to solve.</p>
+
+<p>And why do the edge cases work? It&#8217;s your reward for solving the puzzle! In a computer game, if you find a pattern and follow it through, you might find a cute movie or other treat, not to mention another puzzle. In the real world we get gyroscopes and airplanes as our treats (we get the additional puzzles as well).</p>
+
+<p>This also explains why the world is so colorful and pretty: it helps to have a pretty space to work in (<em>Myst</em> used stunning graphics for its time). And it explains why physics theories are so elegant and intellectually beautiful: that&#8217;s part of the fun of the puzzle (the same thing is at work with a clever puzzle game plot twist). </p>
+
+<p>So what&#8217;s the difference between physics and a puzzle game? Physics is more clever and complex than we could possibly expect from any of our little puzzles.</p>
+
+<p class="posted">posted May 03, 2004 01:33 PM (<a class="category" href="cat_education">Education</a>) (<a href="#comments">11 comments</a>) <a href="001222" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001218" title="Presidential Candidate Bob Williams, part 5: The Verdict of History">&laquo; prev</a> | <a href="./">up</a> | <a href="001223" title="Where&amp;#8217;s Okrent? The End of the Times">next &raquo;</a></p>
+
+<p><a href="001205">Presidential Candidate Bob Williams, part 1: Excerpts from Public Speeches</a><br />
+<a href="001206">Presidential Candidate Bob Williams, part 2: Television Commentary</a><br />
+<a href="001207">Presidential Candidate Bob Williams, part 3: Newspaper Headlines</a><br />
+<a href="001215">Presidential Candidate Bob Williams, part 4: Political Debate</a><br />
+<a href="001218">Presidential Candidate Bob Williams, part 5: The Verdict of History</a><br />
+<strong>Physics&#8217;s Puzzle</strong><br />
+<a href="001223">Where&#8217;s Okrent? The End of the Times</a><br />
+<a href="001224">Misreading Jefferson is Sinful and Tyrannical</a><br />
+<a href="001225">[REDACTED]</a><br />
+<a href="001226">All News is Bad News</a><br />
+<a href="001228">Big Bad Bundle Blog</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c945">
+
+<p>I think you mean Euclidian physics is easy, but thats not how the universe really works. We live in a curvy, swirly universe where time and space is warped around energy and mass. The type of physics you describe only works on a certain scale. If you want a challenge try some Einstein equations (not E=mc2).</p>
+
+<p class="posted">posted by smllpx at May  3, 2004 02:41 PM <a href="#c945">#</a></p>
+
+</div><div id="c957">
+
+<p>I believe it was Einstein who wondered about this same question, quotably saying (as he tended to do) that the remarkable fact was not that math describes reality so well, but that math describes reality at all.</p>
+
+<p>Part of the reason, though, is that the universe appears to be self-consistent.  If X happens in one place, it happens everywhere that the same conditions are present.  Many of the &#8220;edge cases&#8221; are simply combining phenomena X and Y, both of which are known.</p>
+
+<p>The really nasty edge case is when X and Y are mutually incompatable, like general relativity and classical quantum mechanics.  Then you get some really interesting stuff.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.frozennorth.org" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=957">Shivering Timbers</a> at May  3, 2004 05:08 PM <a href="#c957">#</a></p>
+
+</div><div id="c958">
+
+<p>Your general point about the empirical approach to knowledge is true, but it&#8217;s important to remember that scientific models are abstractions. The more precisely you want them to model the universe the less appropriate equations become. The theory becomes clunky, the argument becomes illogical or inconsistent.</p>
+
+<p>Which is why physics is more &#8220;clever and complex than we could possibly expect&#8221; to understand from the processes of Myst-player-like induction or deduction.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.firasd.org" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=958">Firas</a> at May  3, 2004 06:42 PM <a href="#c958">#</a></p>
+
+</div><div id="c959">
+
+<p>Funniest (unintentionally) argument for &#8220;Intentional Design&#8221; I&#8217;ve read yet.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://sethf.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=959">Seth Finkelstein</a> at May  3, 2004 09:27 PM <a href="#c959">#</a></p>
+
+</div><div id="c960">
+
+<p>You haven&#8217;t realized that its <b>not</b> that easy.  I&#8217;m sitting here working studying through a nice Wave Mechanics test and lets just say baby algebra is not all you need.  Partial differential equations quickly become unmanageable. For quantum mechanics, it gets even more complex.  There are things out there that we&#8217;ve only begun to understand.  Its difficult getting a BS in physics and as many profs and grad students will point out, a BS is mainly about learning how to learn.  The stuff that actually describes whats really happening comes later.  Everything you learn in high school and as an undergraduate are approximations on top of approximations.  They work out ok in the realm of the universe we are used to dealing with but at the small and at the large they no longer apply. </p>
+
+<p>Its a big place out there and we&#8217;ve only started on figuring it out.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://jmhodges.pycs.net" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=960">Jeff Hodges</a> at May  4, 2004 12:31 AM <a href="#c960">#</a></p>
+
+</div><div id="c961">
+
+<p>Forgive me, I ranted and didn&#8217;t read the post properly.  Bah, its too early and my mind is too exhausted from these lab reports. :( Sorry</p>
+
+<p class="posted">posted by <a target="_blank" title="http://jmhodges.pycs.net" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=961">Jeff Hodges</a> at May  4, 2004 12:33 AM <a href="#c961">#</a></p>
+
+</div><div id="c962">
+
+<p>When I was in high school, I had a similar opinion, only it was more skewed towards mathematics than physics.  When I went to college, it was with the intent of being a math major and ultimately being able to deduce the secrets of the universe.  (I was pretty idealistic in those days!)</p>
+
+<p>One thing to which I really looked forward was learning the arcane and esoteric meaning of division by zero.  I knew my teachers had been fibbing when they said you couldn&#8217;t take the square root of a negative number because I eventually learned that you could using the mysterious &#8220;i&#8221;.  I went through two calculus classes, a linear algebra class, and had started a multivariable calculus class waiting for the &#8220;Division by zero is undefined&#8221; cop-out to be answered.  Which letter of the alphabet (Roman?  Greek?  Hebrew?) would they assign to this one.</p>
+
+<p>One day, I cornered my professor in his office and said, &#8220;Okay, tell me the true meaning of Division by Zero.  It&#8217;s okay if I can&#8217;t understand it yet.  I just want to know what it is.  Don&#8217;t worry, I can handle it.&#8221;  He confessed that it was &#8230; undefined.  Unlike &#8220;i,&#8221; there would never be some advanced course where somebody would someday tell me what it was.</p>
+
+<p>That did it.  I quit going to class and took an &#8220;F&#8221; for the course.  At the end of the semester, I switched my major to Psychology and took all the requisites for an additional degree in Philosophy.</p>
+
+<p>Aaron, I hope your pursuit of Physics turns out better than my pursuit of Mathematics!</p>
+
+<p class="posted">posted by Russ Schwartz at May  4, 2004 08:17 AM <a href="#c962">#</a></p>
+
+</div><div id="c979">
+
+<p>Eugene Wigner wrote a famous essay about this which you might enjoy.  It&#8217;s called &#8220;The Unreasonable Effectiveness of Mathematics in the Natural Sciences&#8221;.  If you do a Google search for &#8220;unreasonable effectiveness&#8221;, you can find lots of copies of the essay and other people&#8217;s commentary on it and their own &#8220;Unreasonable Effectiveness&#8221; essays (even one by the inventor of Hamming codes).</p>
+
+<p>Some people, following Wigner, call this the &#8220;unreasonable effectiveness phenomenon&#8221; or &#8220;unreasonable effectiveness problem&#8221;.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://vitanuova.loyalty.org/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=979">Seth Schoen</a> at May  5, 2004 12:28 PM <a href="#c979">#</a></p>
+
+</div><div id="c2289">
+
+<p>&#8220;The Unreasonable Effectiveness of Mathematics in the Natural Sciences&#8221;</p>
+
+<p>This concept always seemed a silly bit of gosh gee nonsense to me. (Much like looking for a &#8220;higher purpose&#8221; spelled out by God or whoever in the atoms or stars.)</p>
+
+<p>Why does math describe our universe?</p>
+
+<p>No mystery, mathathematics and logic are generic and can describe every possible universe and maybe even some impossible ones.</p>
+
+<p>As for purpose the universe might not have any - maybe it just is, and is, as it is, just because it is, but an intelligent creature can generate their own purpose so it really doesn&#8217;t matter.</p>
+
+<p class="posted">posted by M at May 28, 2004 05:07 PM <a href="#c2289">#</a></p>
+
+</div><div id="c2320">
+
+<p>The universe is made of laws, and nothing more.</p>
+
+<p class="posted">posted by Bryan at June 11, 2004 08:14 PM <a href="#c2320">#</a></p>
+
+</div><div id="c4822">
+
+<p>from the the-gyroscope-falls-sideways dept.:</p>
+
+<p><a href="http://delong.typepad.com/sdj/2005/04/the_unreasonabl.html">brad delong</a></p>
+
+<p>(<em>The Gyroscope Falls Sideways</em> is the title I imagine for a book on this subject.)</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=4822">Aaron Swartz</a> at April 13, 2005 04:34 PM <a href="#c4822">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001222.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1222" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

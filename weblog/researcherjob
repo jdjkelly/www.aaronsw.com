@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Researcher Job (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Researcher Job</h1>
+
+<p>I&#8217;m looking for a researcher to work with on a couple projects. The research will mostly be into questions of United States government policy and the relevant factual basis. For example, you might be asked to look up things about cap-and-trade legislation and the evidence for anthropogenic global warming. You can do it part-time. You can work from anywhere. I think the work will be interesting and I&#8217;ll be doing it too. I think the work will be important, which is why I&#8217;m doing it.</p>
+
+<p>The requirements are:</p>
+
+<ul>
+<li><p>generally lefty politics</p></li>
+<li><p>the ability to figure out the answers to complicated and politically controversial questions and find primary sources supporting those answers</p></li>
+<li><p>the ability to write clear summaries of those answers</p></li>
+</ul>
+
+<p>The ideal person is probably someone who&#8217;s contributed to Wikipedia, but that&#8217;s not a requirement.</p>
+
+<p>If you&#8217;re interested, send a paragraph you wrote explaining or summarizing something to <a href="mailto:me@aaronsw.com?subject=researcher">me@aaronsw.com with &#8220;researcher&#8221; in the subject</a>. If you have ideas for how to find people like this, post them in the comments. (Or email them. Whatever.) I&#8217;ll probably end up hiring a bunch of researchers so the more people and ideas the better.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">December 27, 2009</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>I&#8217;d look into finding someone in college policy debate.  Your point #2 is basically what they spend 6 months out of the year doing.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://athousandnations.com">Will Chamberlain</a>
+ on December 28, 2009 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>Aaron,</p>
+
+<p>The requirements [for the job you&#8217;re attempting to fill] are:</p>
+
+<pre><code>• generally lefty politics
+</code></pre>
+
+<p>You <em>do</em> realize that this is quite likely a violation of (much-beloved on the left) federal hiring and employment law, right?</p>
+
+<p>jb</p>
+
+<p class="posted">posted by jb
+ on December 28, 2009 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>Will Chamberlain is dead on, I came to post about the college policy debate thing as well. They are fairly lefty (generally speaking) and are good at researching the shit out of stuff.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://andrewkish.name">Andy Kish</a>
+ on December 29, 2009 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>The &#8220;generally lefty politics&#8221;, whether it violates regulations or not, shows a deeply worrying attitude to science. I have been following your blog for a while, impressed by the thoughts and the clarity you state them, but I find this requirement to be appalling, despite fulfilling it myself. You have answered your question (in the next posting) about today&#8217;s ethical blunders yourself!</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://werner-kuhn.blogspot.com/">Werner Kuhn</a>
+ on January  3, 2010 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="researcherjob" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

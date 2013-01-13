@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Cities (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Cities</h1>
+
+<p>The densest cities in America, <a href="http://www.census.gov/population/www/documentation/twps0027.html#tabA">according to the 1990 census</a>:</p>
+
+<ol>
+<li>New York, NY (7M people over 309 sq. mi.)</li>
+<li>San Francisco, CA (.7M in 47)</li>
+<li>Chicago, IL (2M in 227)</li>
+<li>Boston, MA (.5M in 48)</li>
+<li>Philadelphia, PA (1.5M in 135)</li>
+</ol>
+
+<p>Maybe there is something to my wanting to move to Philadelphia after all.</p>
+
+<hr />
+
+<p>Everyone&#8217;s been complaining about how I&#8217;m too critical, too much of a downer. Well, here you go: it&#8217;s <strong>the nice week</strong>. Five posts on five cities saying only nice things. Hope you enjoy it as much as I do.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">January 30, 2007</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>As a (west) Philadelphian, I can definitely see you fitting in here. Your interest in social activism has a natural fit here; I believe we lead the nation in number of non-profits organizations.</p>
+
+<p>Lunch is on me if you are ever in town. (I&#8217;ve used enough of your freely available software that it seems only fair.)</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://db79.com">Shawn Medero</a>
+ on January 30, 2007 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>Likewise, lunch is on me if you&#8217;re ever near Portland, OR (on the other hand, I may be moving to San Mateo soon). Hope you have a nice week.</p>
+
+<p class="posted">posted by David M.
+ on January 30, 2007 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>Vancouver, Canada fits in at the number 3 spot currently in North America. It&#8217;s a pretty awesome city too.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://randomdude.com/blog/">Dustin</a>
+ on January 30, 2007 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>Another vote for Aaron moving to Philadelphia. The last thing I ever expected was to fall in love with this city, but that&#8217;s exactly what happened.</p>
+
+<p class="posted">posted by Brett
+ on January 30, 2007 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="densest" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Writing a Book: Part Two (Structure) (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Writing a Book: Part Two (Structure)</h1>
+
+<p>I&#8217;ve always wanted to be a great writer, but nobody&#8217;s ever explained how. So I tried to figure out for myself. I reread my favorite books, I read just about <a href="http://en.wikipedia.org/wiki/User:AaronSw/David_Foster_Wallace_nonfiction">everything by David Foster Wallace</a> and <a href="http://books.theinfo.org/go/0394720245">Robert Caro</a>, I read a lot of <em>New Yorker</em> articles, I got caught up on <em><a href="http://www.nplusonemag.com/">n+1</a></em>. I read a lot of stuff out loud, to get a feel for the sound of the voice. (I performed all the brief interviews (including the powerful &#8220;On His Deathbed&#8230;&#8221;) in <em><a href="http://www.amazon.com/exec/obidos/ASIN/0316925195/booksinfo-20/ref=nosim/">Brief Interviews with Hideous Men</a></em> &#8212; incredible fun; I can completely see why it made John Krasinski want to become an actor.) In fact, it got to the point where I couldn&#8217;t resist reading things out loud &#8212; some writing just begged to be performed.</p>
+
+<p>I read some writing guides, but none of them were very helpful. Virginia Tufte&#8217;s <em><a href="http://books.theinfo.org/go/0961392185">Artful Sentences</a></em> was by far the most interesting, but I&#8217;m not sure it was much practical help. I&#8217;ve had the best luck with just reading great writing and then taking a stab of writing something of my own.</p>
+
+<p>I also tried to figure out how to structure the writing. I watched Ira Glass give his standard talk seven or eight different times, I read Mamet&#8217;s <em>On Directing Film</em>, I sat down with Malcolm Gladwell&#8217;s <em>Outliers</em> and tried to take it apart and figure out how it worked. For some reason, even though the basic ideas are really simple, they&#8217;ve taken me a really really long time to understand. It&#8217;s quite odd, really. I saw Ira Glass say the same thing 8 times, but only on the 7th time did I walk away going &#8220;Ohh, that&#8217;s what he means!&#8221; And I keep having similar obvious epiphanies.</p>
+
+<p>I think part of the problem is that I was around a lot of really bad storytellers as a kid. My Dad would tell a joke and it would take so long that I would be tearing my hair out with boredom halfway through. When it was over I would think, &#8220;Wait, that was the joke? I can tell that joke in two lines. What did he need all those details for?&#8221; And since then I&#8217;ve basically been the person who tells jokes in two lines &#8212; omitting needless words, using only the barest description, and getting very impatient with people who run long (which was basically everyone, it seemed to me).</p>
+
+<p>I don&#8217;t know if I&#8217;ve begun reading better writers or grown more patient with age, but I&#8217;m beginning to question this approach. Being spare and interesting is better than being prolix and boring, I&#8217;m still convinced, but there&#8217;s a place for the seemingly-irrelevant detail. For one thing, what makes a story a story is the irrelevant detail. Ira Glass demonstrates this by quoting the opening of his show &#8220;<a href="http://www.thisamericanlife.org/Radio_Episode.aspx?sched=1134">Cringe</a>.&#8221;</p>
+
+<p>(You can listen to it on the site there &#8212; just click &#8220;Full Episode&#8221; on the left side. It&#8217;s the first three minutes. It&#8217;s much better listened to, but if you can&#8217;t, here&#8217;s a transcript:)</p>
+
+<blockquote>
+  <p>IRA: Joe worked at this office where, every now and then, the office manager would bring her nine-year-old to work. Good kid. Kind of tomboy-ish.</p>
+  
+  <blockquote>
+    <p>JOE: And she would just kind of help out around the office. She would pass mail out. And over the time that I was there she and I developed this really&#8212;this kind of teasing relationship: she would come into my office and drop my mail off and stick her tongue at me and I would sort of fake chase her down the hallway or something and&#8230; you know.</p>
+    
+    <p>IRA: That&#8217;s sweet.</p>
+    
+    <p>JOE: Yeah, yeah. She was an incredibly sweet kid.</p>
+    
+    <p>[music (&#8220;<a href="http://westsounds.com/flash_track.php?trid=2964802&amp;artist=Caleb%20Sampson&amp;album=Fast%20Cheap%20and%20Out%20of%20Control%20OST&amp;track=Elephant%20Walk">Elephant Walk</a>&#8221;) begins]</p>
+    
+    <p>JOE: And so there&#8217;s this day when, it&#8217;s early in the morning, I&#8217;ve arrived at the office, and I go into the bathroom, and when I come out of the bathroom, I have my glasses in my shirt-pocket rather than on my head. And I look down this hallway and I see this small person walking towards me. And I then get down and start to crab-walk towards her. So I sort of go down on my haunches, and put my hands up as if they&#8217;re claws and kind of waddle&#8212;waddle towards her&#8230;</p>
+  </blockquote>
+</blockquote>
+
+<p>&#8220;At this point,&#8221; Ira quips, &#8220;nobody turns off the radio.&#8221;</p>
+
+<blockquote>
+  <blockquote>
+    <p>JOE: &#8230;and as I&#8217;m waddling towards her, I say, in this kind of creepy voice, &#8220;Oh, no! I can&#8217;t believe <em>you&#8217;re</em> here today!&#8221; And then, at that moment [laugh], as I say &#8220;today,&#8221; she comes into focus. And I realize, in fact, it&#8217;s not at all the young girl who I thought it was but in fact it&#8217;s one of our interns: a business intern, who is a&#8212;a&#8212;a midget.</p>
+    
+    <p>[more music]</p>
+    
+    <p>JOE: And so she comes into focus and I see her and I&#8217;m horrified and I go bolt upright and I stand up and I say &#8220;Oh, my god, I&#8217;m terribly sorry, I thought you were somebody else.&#8221; And I think to myself: who could she possibly think that someone else is?</p>
+    
+    <p>IRA: [laughs]</p>
+    
+    <p>JOE: [laughs] And I wondered at the time: Should I try to explain it to her? It seems to me like one of those situations where it only gets worse the more you try to explain it. The only thing I could do, in fact, was apologize and end all contact with her, forever, right there.</p>
+    
+    <p>IRA: [laughs]</p>
+    
+    <p>[music]</p>
+  </blockquote>
+  
+  <p>IRA: Joel says the women was utterly gracious. She introduces herself, she tries to put him at ease. (Apparently, if you&#8217;re a midget, this sort of thing happens all the time.) But Joel says not only did he cringe when this happened, he cringes every time he tells this story. People cringe when they hear the story. And why? Seriously: why?</p>
+</blockquote>
+
+<p>Yes, why? Not so much why do we cringe, but why do we listen so raptly? As Ira Glass is the first to point out, it&#8217;s kind of a boring story on its face. It takes him three minutes to tell, but I can tell it in two lines: <em>A guy named Joe once mistook a midget for a nine-year-old. He cringes every time he tells the story.</em> For the purposes of the show, that&#8217;s all he needs to say &#8212; the purpose of the story is to set up a show about cringing, and just the idea of mistaking a midget for a nine-year-old is pretty cringeworthy. But he tells the story <em>at length</em>: except for the very end, he doesn&#8217;t appear to try to summarize it at all.</p>
+
+<p>And yet, not only do people not get bored &#8212; this is apparently what <em>keeps</em> them from getting bored. (Imagine how quickly people would tune out a show of two-sentence stories. Personally, I don&#8217;t have to imagine &#8212; I see how bored they look when I tell mine. Which, of course, only makes me rush to tell them faster.) Glass argues that humans are somehow hardwired for stories. Once they get started, we <em>have</em> to hear what happened next. &#8220;One thing happens, and then another thing, and then another thing,&#8221; he says. &#8220;It&#8217;s got its own momentum &#8212; it&#8217;s like a train leaving the station.&#8221;</p>
+
+<p>I think Ira is being too modest. He&#8217;s an incredibly gifted storyteller; obviously one of the era&#8217;s greatest (his show is the #1 podcast on iTunes). What looks like a simple recording of someone telling a story is the result of a thousand different questions and edits and adjustments. There&#8217;s a lifetime of experience behind every pause, every lilt of his cadence. To keep listeners hooked on a story is a very difficult skill.</p>
+
+<p>But what I didn&#8217;t realize was that it&#8217;s also a necessary one. Stories that go by too fast may not be as annoying as stories that are too slow, but they&#8217;re still flawed. I&#8217;m too insecure to think my storytelling could possibly hold the listener&#8217;s attention, so I rush through the story, hoping to tell them all the key facts before they get bored and wander off. But it&#8217;s a self-fulfilling prophecy: if you seem uninterested in your story, why should your listener be? If you&#8217;re going to tell a story, you need to bite the bullet and be a storyteller.</p>
+
+<p>The trick is realizing that the apparently-irrelevant details aren&#8217;t actually irrelevant. Look again at my transcript of Joe&#8217;s story. There&#8217;s only one thing I see in it that could be cut out: that &#8220;it&#8217;s early in the morning.&#8221; Incredibly, every other line in that three-minute story serves an important purpose.</p>
+
+<p>Picking a sentence at random, &#8220;She was an incredibly sweet kid.&#8221; is necessary because Ira&#8217;s comment &#8220;That&#8217;s sweet.&#8221; sounds odd by itself, it needs a response. (Ira&#8217;s comment is necessary to make sure you see the chasing-down-the-hallway in the right emotional tone. (That scene, in turn, is necessary to explain the kind of relationship he and the girl had, and so on.)) A three minute story, and there&#8217;s hardly a clause you can cut.</p>
+
+<hr />
+
+<p>That&#8217;s the first rule of storytelling: a story needs to be interesting in its own right. But the second is equally important: the audience needs a reason to care. I think part of the reason we&#8217;re wired to follow stories is because a story carries an implied promise: there&#8217;s going to be something good at the end of this.</p>
+
+<p>The way Ira puts it is that there are two tools in storytelling: action, and reflection. Ira&#8217;s shows (like Gladwell&#8217;s articles) open with action. But the action leads immediately to reflection: look at the story above, there&#8217;s not even a pause between the ending of the story and Ira asking why it is that we cringe. Ira&#8217;s not just telling the story because it&#8217;s entertaining, he&#8217;s telling it because it makes us cringe and he wants us to think about that feeling.</p>
+
+<p>He goes on to investigate that feeling &#8212; to explain what we can learn from the story. And here again it&#8217;s important to slow down. There&#8217;s a tendency to think that stories speak for themselves. First, because there&#8217;s some artistic nobility in this: explaining what a story means is being &#8220;didactic&#8221; and &#8220;preachy,&#8221; it&#8217;s keeping your readers from thinking for themselves, it means your work isn&#8217;t really art. Second, it often seems unnecessary: you&#8217;ve spent hours &#8212; days, weeks, months, years &#8212; thinking about your story. It seems obvious to you what it means. Maybe you can add a sentence spelling it out for the slow ones, but isn&#8217;t that enough?</p>
+
+<p>It&#8217;s not, of course. Your head is full of evidence, examples, models, implications &#8212; all of which your readers aren&#8217;t just going to magically intuit. You need to tell them.</p>
+
+<p>Again, I think I was betrayed by bad writing in my youth. I read a bunch of &#8220;popular&#8221; books that were just dreadful. I didn&#8217;t know that these books weren&#8217;t actually meant for reading. Turns out, you get paid about the same amount for writing a truly great magazine article as you do for a mediocre one and only get a little more attention for the former. So if you write a really good magazine article, the only way to get rewarded is to turn it into a book.</p>
+
+<p>The problem is that even the longest magazine articles don&#8217;t make for more 30 pages and you can&#8217;t really publish a book that short. So you write a couple hundred pages of filler. And, in most cases, that only detracts from your great article by watering it down. You basically just end up repeating yourself a lot in different words. As a child, I couldn&#8217;t stand books like that and vowed never to write one.</p>
+
+<p>But again I went too far. It&#8217;s true, you don&#8217;t need to give three examples of everything you say, but you can&#8217;t simply give no examples either. I&#8217;m still trying to figure out where the right balance is.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">August  6, 2009</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>If you haven&#8217;t read Stephen King&#8217;s &#8220;On Writing&#8221;, you should check it out.</p>
+
+<p>http://www.amazon.com/Writing-Stephen-King/dp/0743455967</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.jimgilliam.com/">Jim Gilliam</a>
+ on August  7, 2009 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>Well if it helps, this is the first thing/article/whatever I&#8217;ve read all day without scanning and jumping. So you&#8217;re doing something right, because my attention is hard to keep. Indeed, you&#8217;ve pulled off the Ira Glass trick right here.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://twitter.com/peterc">Peter Cooper</a>
+ on August  7, 2009 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>First of all, well done!
+I am struggling with the same problem: How to tell a remarkable story in an interesting way. My current solution: I try to get in a child-like mind-state and see if the story works. I gave up to analyze them with my adult-mind.</p>
+
+<p class="posted">posted by Oliver Pospisil
+ on August  7, 2009 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>Impressive insight!</p>
+
+<p class="posted">posted by Susan
+ on August  7, 2009 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>For a lot of people all this you&#8217;re saying is (intituitively) obvious. Healthy amount of redundant detail in a story is essentially what makes it interesting - and a really good storyteller can make you stop and listen with interest to just about anything.</p>
+
+<p>However, obviously, for a lot of people this isn&#8217;t obvious at all.</p>
+
+<p>What fascinates me is to see how your super rational, analytical mind managed to discover and understand all this (&#8216;jump&#8217; from one group to the other) - and then recount the process in an interesting way.</p>
+
+<p>Great stuff!</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://mar.anomy.net/">Már</a>
+ on August  7, 2009 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c6">
+<p>While putting together an anthology of essays on fiction writing, I came across an old, out of print book deep in the hollows of the New York Public Library, called Fundamentals of Fiction Writing by Arthur Sullivant Hoffman. Although I couldn&#8217;t put any of it into my book, I found it to be the most useful, concise, and to-the-point writers guide I have ever read. Amazingly, it&#8217;s available in full through Google Books (http://tinyurl.com/mtvpq8)</p>
+
+<p>Or you could just buy my book, &#8220;Great Writers on the Art of Fiction&#8221; edit by James Daley :)</p>
+
+<p class="posted">posted by James
+ on August  7, 2009 <a href="#c6" rel="bookmark">#</a></p>
+</div>
+<div id="c7">
+<p>I think there&#8217;s a difference between hearing the information, i.e., understanding the story, and experiencing the story.  For instance, there&#8217;s an added pause in the audio (edited in) after Joe talks about how he plays these silly games with this girl.  This gives the listener a chance to digest the information, and then a little extra time for the listener to think: where is this going?  And it&#8217;s not hard to see that it&#8217;s going someplace in some way embarrassing.  How, we don&#8217;t know.  But the listener is prepared, the listener can place themselves in the right state of mind to hear the next part of the story.  Being interesting is motivation to really hear the next part, but even when motivated you sometimes need a little time just to get ready.</p>
+
+<p>Lately I&#8217;ve been telling stories to little kids, which is a weird and not entirely analogous experience.  But it&#8217;s all about this lead-up.  I think because they have a much harder time understanding the stories, and they don&#8217;t know the standard queues about where the story is going.  So you need to lay it on thick.  When they know where the story is going, that&#8217;s best of all.  You&#8217;re bringing them along.  You can be much more subtle when you are bringing along an adult, but I think we appreciate that just as much as the child, we want to kind of know what the next element of the story is before you tell it.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://blog.ianbicking.org">Ian Bicking</a>
+ on August  7, 2009 <a href="#c7" rel="bookmark">#</a></p>
+</div>
+<div id="c8">
+<p>http://badgods.com/brevity.html</p>
+
+<p>This comic echoes a lot of what you said above on finding the right balance between compression and redundancy.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://push.cx">Peter Harkins</a>
+ on August 14, 2009 <a href="#c8" rel="bookmark">#</a></p>
+</div>
+<div id="c9">
+<p>Have you come across the Color/Advance exercise for storytelling?</p>
+
+<p>Breaking the eggs has a pretty good explanation of how it works:</p>
+
+<p>http://storytelling.blogspot.com/2009/07/process-color-and-advance.html</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://linksandanchors.wordpress.com/">Payo</a>
+ on August 16, 2009 <a href="#c9" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="bookwriting2" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

@@ -1,0 +1,43 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Electronic Pulsing Spam-Killing Superbrain (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000515" title="Car Factories and Post Offices" />	<link rel="next" href="000518" title="Introducing&#8230; Warchalking! The New Swhack!" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Electronic Pulsing Spam-Killing Superbrain</h1>
+</div>
+
+<div class="content">
+<p>Paul Graham: <a href="http://www.paulgraham.com/spam.html">A Plan for Spam</a>. Paul proposes to use Bayesian probablity and client-side mail analysis to do content-filtering on spam. I used to think content-filtering (like SpamAssassin does it) was not a long-term solution, but Paul has a convicing argument to the contrary.</p><blockquote>This is possibly even more disgusting than getting inside the mind of a spammer, but let&#8217;s take a quick look inside the mind of someonewho responds to a spam. This person is either astonishingly credulous or deeply in denial about their sexual interests. In either case, repulsive or idiotic as the spam seems to us, it is exciting to them.</blockquote><p></p>
+
+<p class="posted">posted August 17, 2002 09:37 PM (<a class="category" href="cat_technology">Technology</a>)  <a href="000516" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000515" title="Car Factories and Post Offices">&laquo; prev</a> | <a href="./">up</a> | <a href="000518" title="Introducing&#8230; Warchalking! The New Swhack!">next &raquo;</a></p>
+
+<p><a href="000511">book publisher is chinese household</a><br />
+<a href="000512">James Valenti, 81 103 103 197 224 0</a><br />
+<a href="000513">Dr. Suess is Fifth Highest Grossing Dead Celebrity</a><br />
+<a href="000514">FREE THE MOUSE</a><br />
+<a href="000515">Car Factories and Post Offices</a><br />
+<strong>Electronic Pulsing Spam-Killing Superbrain</strong><br />
+<a href="000518">Introducing&#8230; Warchalking! The New Swhack!</a><br />
+<a href="000519">IMS/ISC out of the ICANN Running</a><br />
+<a href="000520">Fireworks of Failure</a><br />
+<a href="000521">Software and Source Code</a><br />
+<a href="000522">Vote Hank Perritt</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

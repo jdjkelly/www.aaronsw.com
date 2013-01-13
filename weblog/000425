@@ -1,0 +1,88 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>i&#8217;m not dead yet (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000424" title="Reflections on the Keynote" />	<link rel="next" href="000429" title="you may already have one" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>i&#8217;m not dead yet</h1>
+</div>
+
+<div class="content">
+<p>Since Hyatt loves <a href="http://www.blakeross.com/">Blake</a> so much, maybe he can get me a job at Apple. Or at least let me use his employee discount. I <a href="http://www.mozillazine.org/weblogs/hyatt/">linked to your blog</a>, you owe me!</p>
+
+<p>Food!</p>
+
+<p><a href="http://www.mozillazine.org/weblogs/hyatt/2002_07_14_mozillian_archive.html#85252157">David Hyatt&#8217;s first day at Apple is hilairous.</a></p>
+
+<p>Congrats to UserLand for getting Salon to blog.</p>
+
+<p><a href="http://www.theregus.com/content/6/25660.html">Sounds like they had a lot of fun at the DRM workshop the other day.</a> &#8220;Preston Padden, v.p. of public policy for Disney, who called for government intervention in DRM because he didn&#8217;t see all sides coming to an agreement without a push. Comer retorted that he doesn&#8217;t think Hollywood will end its fascination with sex and violence without government intervention, either.&#8221;</p>
+
+<p>I&#8217;m converting <a href="http://blogspace.com/">Blogspace</a> over to Apache on this server (<a href="http://vorpal.notabug.com/">vorpal</a>). Your DNS should be updated within 24 minutes. Please let me know if you see any breakage. (I&#8217;m still downloading the swhack stuff, so that will take a little longer.)</p>
+
+<p>Weird archiving thought: run <code>gzip dir/ > dir/archive.tgz</code> every night (you&#8217;d get a directory with an archive of the directory with an archive of the previous directory with an archive &#8230;). I&#8217;m afraid I might have done this.</p>
+
+<p><a href="http://www.all-the-other-names-were-taken.com/tipstips.html">Rat out TIPS informants.</a> I was thinking of signing up to be a TIPS informant and supply information on the horrible things Ashcroft and Bush were doing to divide and terrorize the nation.</p>
+
+<p>I proposed a Python Lightning Talk for OSCON:</p><blockquote>The Creative Commons project is trying to bring the same kind of less-restrictive-than-copyright licenses we see in software to other content while building a tagging system that allows licensed works to describe their license in a machine-readable form. Learn how to use a Python RDF API to parse this data so you can take advantage of it.</blockquote><p>I wonder if I can do that in five minutes. I need to find a simple Python RDF API, I guess.</p>
+
+<p>&#8220;Python plays a key role in our production pipeline. Without it a project the size of Star Wars: Episode II would have been very difficult to pull off. From crowd rendering to batch processing to compositing, Python binds all things together,&#8221; said Tommy Burnette, Senior Technical Director, <a href="http://www.ilm.com">Industrial Light &amp; Magic</a>.</p>
+
+<p>Now all we need is a Python/Star Wars pun.</p>
+
+<p>I&#8217;m converting <a href="http://logicerror.com/">LogicError</a> over to a static site on this server (<a href="http://vorpal.notabug.com/">vorpal</a>). Your DNS should be updated within 24 hours. Please let me know if you see any breakage.</p>
+
+<p>Cryptome: <a href="http://cryptome.org/freetotravel.htm">Gilmore v. Ashcroft: Secret rule demanding &#8216;Your Papers Please&#8217; claimed unconstitutional</a>. <em>Gilmore rocks!</em> </p>
+
+<p><a href="http://cryptome.org/gilmore-v-usa-cid.htm">The complaint</a> makes great reading. &#8220;On July 4, 2002, Plaintiff tried to fly to Washington, DC to petition the government for redress of grievances [specifically, the requirement for airline travelers to provide identification] and to associate with others for that purpose. He was stopped because he refused to identify himself before boarding the flight.&#8221;</p>
+
+<p><a href="http://cryptome.org/gilmore-v-usa-faq.htm">The FAQ</a> is good too. His argument sounds really strong.  &#8220;You can use free speech to say hurtful things. You can practice religions that make you cruel and intolerant.  You can commit a crime and then avoid torture that would make you confess. You can petition the government to build a police state run on Oracle servers.&#8221; &#8220;Government-imposed searches waste as much life <em>every year</em> as the lifetimes that the attack wasted.&#8221;</p>
+
+<p>Where has <a href="http://www.toad.com/gnu/">John Gilmore&#8217;s website</a> gone? Did <a href="http://cryptome.org/verio-censorship.html">Verio succeed in censoring him</a>?</p>
+
+<p>Python one-liners are fun: <code>ls | python -c "import sys, os<br />
+for line in sys.stdin: line=line.strip(); os.rename(line, line+'.html')"</code></p>
+
+<p><a href="http://www.eastgate.com/HypertextNow/archives/WeblogHandbook.html">Mark Bernstein reviews Rebecca Blood&#8217;s The Weblog Handbook:</a> &#8220;Romance assures us that, though weblogs fail everywhere, <em>our</em> weblog will prosper because we, ourselves, are wonderful. Rebecca Blood&#8217;s The Weblog Handbook is an inexorably romantic guide to building and cultivating a weblog.&#8221;</p>
+
+<p>From his description of the book I find myself continously drawn in and repelled. I&#8217;d like to learn how to capture the spirit of my life in my writing but at the same time I choke on comments like &#8220;If you allow yourself to begin posting entries based on what you think someone else wants you to write, you are missing the point of having a weblog.&#8221; As for child-stalkers, I put my home phone number and address up on my website and (thankfully) I haven&#8217;t received one phone call yet. I&#8217;m not worried. I think that in Bernstein&#8217;s categorization, my view on weblogs (and life) is comedy (&#8220;our weblogs can succeed through hard work, struggle, and good fortune&#8221;).</p>
+
+<p><a href="http://not.invisible.net/participate/individuals/not.store.html">IMS OPENCOOKIE FACT</a>: &#8216;While Brewster Kahle was still a student at MIT, he attended a lecture by Yvette entitled &#8220;ZweiBack: Crackers and Cookies for Posterity&#8221; which got the young computer scientist thinking. After he helped build the Thinking Machine and invented WAIS, Kahle returned to his true life&#8217;s work and opened The Internet Archive and his Wayback project.&#8217;</p>
+
+<p>BTW, did you know that recipies have no copyright protection? I guess that makes every cookie an OpenCookie. And if people ask you how creative types can make money without copyright, just point them to Martha Stewart (or not).</p>
+
+<p>Constrast: <a href="http://www.mccullagh.org/theme/commerce-drm-rountable-july02.html">Furious Stallman, Furious Valenti</a> [<a href="http://vitanuova.loyalty.org/2002-07-17.html">Seth</a>]</p>
+
+<p>May you move from strength to strength.</p>
+
+<p class="posted">posted July 18, 2002 11:20 AM (<a class="category" href="cat_others">Others</a>)  <a href="000425" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000424" title="Reflections on the Keynote">&laquo; prev</a> | <a href="./">up</a> | <a href="000429" title="you may already have one">next &raquo;</a></p>
+
+<p><a href="000420">temperature rising</a><br />
+<a href="000421">confessions of a time-waster</a><br />
+<a href="000422">MacWorld Keynote Coverage</a><br />
+<a href="000423">empty jaguar-skin wallet</a><br />
+<a href="000424">Reflections on the Keynote</a><br />
+<strong>i&#8217;m not dead yet</strong><br />
+<a href="000429">you may already have one</a><br />
+<a href="000431">loose clothes == loose morals</a><br />
+<a href="000432">A cure for nearsightedness?</a><br />
+<a href="000433">[insert something witty here]</a><br />
+<a href="000434">OSCON Bloggers</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

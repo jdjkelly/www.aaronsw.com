@@ -1,0 +1,53 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>EMP Man (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/001082.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001081" title="Eldred Argument: You. Are. There." />	<link rel="next" href="001083" title="Eye Exercises" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>EMP Man</h1>
+</div>
+
+<div class="content">
+<p>Some background. I&#8217;ve had all manner of computer bugs bite me, but I&#8217;ve never lost data. A hard drive has never crashed on me before.</p>
+
+<p>Last night, when we started up our one Windows machine, it thought for a couple seconds and then said &#8220;Operating System not found&#8221;. We tried to revive it for a while with no luck. It looks like the hard drive cracked.</p>
+
+<p>Then I found my server, <code>vorpal</code>, had been cracked into. It didn&#8217;t seem like the hole had ever been used, but it was scary enough by itself. Then, in the heat of the moment, I almost killed it entirely with a dumb command. Thinking it was dead I went crazy imagining all the trouble it would be to get it back. Luckily, it came back on its own time.</p>
+
+<p>This morning my laptop, the machine I do everything on, started making loud clicking and scratching noises on its disk. I back this machine up regularly &#8212; the whole thing every week. Except, for no real reason, I hadn&#8217;t for the past few weeks. I scrambled to get everything off the disk into the backup as the clicking sounds grew louder.</p>
+
+<p>As I tried to mount the backup, I noticed that I had encrypted it with a proprietary program that I only had on the encrypted disk. I managed to get a copy of the program and move the data to a decrypted disk, but something went wrong along the way and the disk wasn&#8217;t bootable. I tried to install the OS again over it to fix the problem, because the 10.3 installer said it couldn&#8217;t install 10.3.1, since it was newer. I tried to fix the problem manually, but that only made things worse and revealed deeper flaws. Tomorrow I&#8217;m going to buy a new computer.</p>
+
+<p>You might not want to get near me this week.</p>
+
+<p class="posted">posted November 25, 2003 01:18 PM (<a class="category" href="cat_personal">Personal</a>)  <a href="001082" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001081" title="Eldred Argument: You. Are. There.">&laquo; prev</a> | <a href="./">up</a> | <a href="001083" title="Eye Exercises">next &raquo;</a></p>
+
+<p><a href="001077">Nader for Geeks</a><br />
+<a href="001078">Nader for Activists</a><br />
+<a href="001079">The Procrastination Paradox</a><br />
+<a href="001080">This American Life on Voting and Politics</a><br />
+<a href="001081">Eldred Argument: You. Are. There.</a><br />
+<strong>EMP Man</strong><br />
+<a href="001083">Eye Exercises</a><br />
+<a href="001085">Our Brave Censors</a><br />
+<a href="001087">Instant Message from LelandJr247</a><br />
+<a href="001090">• FLEEP •</a><br />
+<a href="001093">Alternative Compensation Systems</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>A Brief History of Ajax (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>A Brief History of Ajax</h1>
+
+<p>New technology quickly becomes so pervasive that it&#8217;s sometimes hard to remember what things were like before it. The latest example of this in miniature is the technique known as Ajax, which has become so widespread that it&#8217;s often thought that the technique has been around practically forever.</p>
+
+<p>In some ways it has. During the first big stretch of browser innovation, Netscape added a feature known as LiveScript, which allowed people to put small scripts in web pages so that they could continue to do things after you&#8217;d downloaded them. One early example was the Netscape form system, which would tell you if you&#8217;d entered an invalid value for a field as soon as you entered it, instead of after you tried to submit the form to the server.</p>
+
+<p>LiveScript became JavaScript and grew more powerful, leading to a technique known as Dynamic HTML, which was typically used to make things fly around the screen and change around in response to user input. Doing anything serious with Dynamic HTML was painful, however, because all the major browsers implemented its pieces slightly differently.</p>
+
+<p>Shortly before web development died out, in early versions of Mozilla, Netscape showed a new kind of technique. I don&#8217;t think it ever had a name, but we could call it Dynamic XML. The most vivid example I remember seeing was a mockup of an Amazon.com search result. The webpage looked just like a typical Amazon.com search result page, but instead of being written in HTML it was a piece of XML data which was then rendered for the user by a piece of JavaScript. The cool part was that this meant the rendering could be changed on the fly &#8212; there were a bunch of buttons that would allow you to sort the books in different ways and have them display using different schemes.</p>
+
+<p>Shortly thereafter the bubble burst and web development crashed. Not, however, before Microsoft added a little-known function call named XMLHttpRequest to IE5. Mozilla quickly followed suit and, while nobody I know used it, the function stayed there, just waiting to be taken advantage of.</p>
+
+<p>XMLHttpRequest allowed the JavaScript inside web pages to do something they could never really do before: get more data.<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> Before, all the data either had to be sent with the web page. If you wanted more data or new data, you had to grab another web page. The JavaScript inside web pages couldn&#8217;t talk to the outside world. XMLHttpRequest changed that, allowing web pages to get more data from the server whenever they pleased.</p>
+
+<p>Google was apparently the first to realize what a sea change this was. With Gmail and Google Maps, they built applications that took advantage of this to provide a user interface that was much more like a web application. (The startup Oddpost, bought by Yahoo, actually predated this but their software was for-pay and so they didn&#8217;t receive as much attention.)</p>
+
+<p>With Gmail, for example, the application is continually asking the server if there&#8217;s new email. If there is, then it live updates the page, it doesn&#8217;t make you download a new one. And Google Maps lets you drag a map around and, as you do so, automatically downloads the parts of it you want to look at inline, without making you wait for a whole new page to download.</p>
+
+<p>Jesse James Garrett of Adaptive Path described this new tactic as Ajax (Asynchronous Javascript And XML) <a href="http://www.adaptivepath.com/publications/essays/archives/000385.php">in an essay</a> and the term immediately took off. Everyone began using the technique in their own software and JavaScript toolkits sprung up to make doing so even easier.</p>
+
+<p>And the rest is future history.</p>
+
+<p>Both systems were relatively ill-supported by browsers in my experience. They were, after all, hacks. So while they both seemed extremely cool (KnowNow, in particular, had an awesome demo that allowed for a WYSIWYG SubEthaEdit-style live collaboration session in a browser), they never really took off.</p>
+
+<p>Now apparently there is another technique, which I was unaware of, that <a href="http://developer.apple.com/internet/webcontent/iframe.html">involved changing the URL of an iframe</a> to load new JavaScript. I&#8217;m not sure why this technique didn&#8217;t quite take off. While Google Maps apparently used it (and Oddpost probably did as well), I don&#8217;t know of any other major users.</p>
+
+<div class="footnotes">
+<hr />
+<ol>
+
+<li id="fn:1">
+<p>As my commenters point out &#8212; and as I well knew, but momentarily forgotten &#8212; this isn&#8217;t really true. Before XMLHttpRequest, people used a trick of not closing the connection to the server. The server would keep adding more and more to the page, never saying it had finished downloading. Ka-Ping Yee used this technique to make a <a href="http://zesty.ca/chat/">real-time chat system</a> based on an animated GIF. And the ill-fated startup KnowNow used a similar technique with JavaScript to allow for live-updating pages.&#160;<a href="#fnref:1" rev="footnote">&#8617;</a></p>
+</li>
+
+</ol>
+</div>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">December 22, 2005</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>That&#8217;s not quite right.  There&#8217;s a rich history of IE only apps fetching more data from the server.  Most used a hidden IFrame to simulate xmlhttprequest (I think that&#8217;s how KnowNow did it, there were a number of web desktop companies around 2000 that were doing those tricks). To the best of my knowledge,  Google Maps used xslt parsing in the browser and iframes, not xmlhttprequest, a pretty circa 2001 set of browser tricks.</p>
+
+<p>The real sea change, believe it or not, was Orkut.  From what I recall, Orkut was the first to use xmlhttprequest for something &#8220;functional&#8221;, if you call attributing stars to your friends functional.</p>
+
+<p>Backing up Aaron&#8217;s point though, to give an idea of how useless people thought the xmlhttprequest was, it wasn&#8217;t until Orkut that there was a real cross-browser reason to have implemented that command.</p>
+
+<p>I back that up with a post from dave hyatt announcing Safari 1.2 in feb 04.</p>
+
+<p>http://weblogs.mozillazine.org/hyatt/archives/2004_02.html</p>
+
+<p>I wonder if anyone at google might have tipped him off that xmlhttprequest might be important for more than rating your friends ;-)  Gmail was announced just 2 months later (although safari support came later)</p>
+
+<p>Saying &#8220;&#8221;XMLHttpRequest is now supported, which means that those of you subscribed to Orkut can now rate your friends. ;)&#8221;  seems a off the mark considering today only Brazilians give their friend&#8217;s stars in orkut, and millions of dollars are riding on the AJAX wave now.</p>
+
+<p>-jamie</p>
+
+<p class="posted">posted by jamie scheinblum
+ on December 22, 2005 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>Asynchronous webpages have a richer and longer history than the part you mention here.  Though there are probably others, KnowNow is the pioneer most familiar to me in this realm; they had interactive HTML applications in around 2000 or 2001.</p>
+
+<p>&#8220;XMLHttpRequest allowed the JavaScript inside web pages to do something they could never do before: get more data.&#8221;</p>
+
+<p>That&#8217;s not true.  There have always been a variety of methods to get more data.  In 1999, i discovered a way to get more data pushed from the server even without any Javascript or automatic reloading.  Even on a page of pure HTML, one can achieve this with a progressively rendered animated GIF; <a href="http://zesty.ca/chat/" rel="nofollow">http://zesty.ca/chat/</a> is a simple chat program based on this idea.  Perhaps it wasn&#8217;t so practical, but i thought it was pretty neat, and that we&#8217;d be able to play interactive board games using this technique.  Maybe someone will yet think of a useful way to apply it today.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://wolog.net/">Ping</a>
+ on December 22, 2005 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>I&#8217;m not a Microsoft apologist but I think credit has to go to Outlook Web Access as the first major use of techniques now referred to as Ajax. Unfortunately, you really need to try it to see how rich of an interface it is. Here&#8217;s a demo: https://www.microsoft.com/seminar/shared/asp/view.asp?url=/Seminar/en/20031218TNT1-96d3/manifest.xml&amp;rate=0</p>
+
+<p>But Microsoft totally dropped the ball with the best version only supporting Win IE. For me, cross-platform is one of the key attributes of Ajax.</p>
+
+<p class="posted">posted by pwb
+ on December 22, 2005 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c6">
+<p>a9.com use the iframe trick. So do a lot of other sites - it has a big benefit over XMLHttpRequest in that the browser back button can be used to navigate back through hidden iframe changes, so if you&#8217;re smart you can use the trick to get the back button to work more or less as the user expects it to.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://simon.incutio.com/">Simon Willison</a>
+ on December 24, 2005 <a href="#c6" rel="bookmark">#</a></p>
+</div>
+<div id="c7">
+<p>async javascript and XML were here long before gmail and gmaps&#8230;  im memory serves correctly, msft has had a pretty rich, asynchronous version of outlook web access available since at least 98.</p>
+
+<p>in 99, LivePerson released a hosted customer service chat module that stores could add to their websites; it&#8217;s biggest selling point was how well it worked on all browsers, with no plugins or downloads.  It was all javascript, mostly using the iFrame approach (I know, i was lead dev).</p>
+
+<p>If you want to credit google with anything, credit them with standing</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://spaces.msn.com/members/objective">chris hollander</a>
+ on December 24, 2005 <a href="#c7" rel="bookmark">#</a></p>
+</div>
+<div id="c8">
+<p>I am dissapointed to learn that Al Gore had nothing to do with AJAX &#8230; can you please double check ?</p>
+
+<p class="posted">posted by Rubber Duck
+ on December 25, 2005 <a href="#c8" rel="bookmark">#</a></p>
+</div>
+<div id="c9">
+<p>OWA wasn&#8217;t just a rich asynchronous version of outlook &#8212; it was the reason XmlHttpRequest was invented and added to a browser (in this case, IE only, of course&#8230;)</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://meat.net/">dbt</a>
+ on December 29, 2005 <a href="#c9" rel="bookmark">#</a></p>
+</div>
+<div id="c10">
+<p>You could always do remote scripting using JS around a Java class in the MS world since at least 3-4 years ago&#8230;</p>
+
+<p class="posted">posted by joe_akture
+ on December 29, 2005 <a href="#c10" rel="bookmark">#</a></p>
+</div>
+<div id="c11">
+<p>Another way is to append a new script element to the body of a page. Internet explorer doesn&#8217;t like that way though.</p>
+
+<p class="posted">posted by Greg
+ on December 29, 2005 <a href="#c11" rel="bookmark">#</a></p>
+</div>
+<div id="c12">
+<p>Microsoft&#8217;s version is not even called XMLHttpRequest &#8212; for it exists long before Mozilla&#8217;s own implementation. In fact, Moz&#8217;s version was implemented modeling after IE&#8217;s ActiveX object sometime back in 2002.</p>
+
+<p>And the usage of XMLHttpRequest has been there way before Google. OWA was an example. The Python app server I worked on used it to do XML-RPC calls back in 2002, and that was only because I saw how other IE-only webapps did it and stole the code :)</p>
+
+<p>Somehow everyone is now praising Google for their &#8220;innovation&#8221;.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://scott.yang.id.au/">Scott Yang</a>
+ on January  4, 2006 <a href="#c12" rel="bookmark">#</a></p>
+</div>
+<div id="c13">
+<p>So:  As far as I can tell there is no particular support for it in web.py.  Are there plans to add it?  Or is the approach to use a separate library targeted to XMLHTTPRequest?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://cuetip.org">cuetip</a>
+ on January  4, 2006 <a href="#c13" rel="bookmark">#</a></p>
+</div>
+<div id="c14">
+<p>What&#8217;s the benefit to putting any Ajax-specific stuff on the server side? In fact, I don&#8217;t think web.py even has any HTML-specific stuff! It might be a little easier to program if there&#8217;s direct Python integration like Nevow does, but it&#8217;s not worth the user experience hit.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on January  4, 2006 <a href="#c14" rel="bookmark">#</a></p>
+</div>
+<div id="c15">
+<p>Is Ajax is really safe. Because it does all processing on client side.</p>
+
+<p class="posted">posted by Sangram Gawali
+ on May  4, 2006 <a href="#c15" rel="bookmark">#</a></p>
+</div>
+<div id="c16">
+<p>Does anyone realise the real beauty of google maps:- the map data? I imagine the geocoding and server technology behind that would have taken far more work and innovation then the user interface - not to mention collecting all the data together in the first place. Not many blogs seem to mention that.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://mkv25.net">Markavian</a>
+ on July  6, 2006 <a href="#c16" rel="bookmark">#</a></p>
+</div>
+<div id="c17">
+<p>That&#8217;s because Google bought the map data from someone else, as you can see in the lower right hand corner of every map.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com">Aaron Swartz</a>
+ on July 28, 2006 <a href="#c17" rel="bookmark">#</a></p>
+</div>
+<div id="c20">
+<p>who is the one that made up ajax</p>
+
+<p class="posted">posted by kassy 
+ on February  1, 2007 <a href="#c20" rel="bookmark">#</a></p>
+</div>
+<div id="c24">
+<p>I have been using AJAX in intranet/internet develoment since the early 90&#8217;s. A major implimentation was the North Yorkshire Police&#8217;s intranet. All the AJAX features were there, we just didn&#8217;t call it AJAX.</p>
+
+<p>While Microsoft and Google should take credit for making AJAX a broadly known system, poor old web dev pro&#8217;s have been the people &#8220;really&#8221; leading this change!</p>
+
+<p class="posted">posted by George
+ on February 11, 2007 <a href="#c24" rel="bookmark">#</a></p>
+</div>
+<div id="c89">
+<p>Greetings,</p>
+
+<pre><code>     Through best practices of a pure "Ajax service" I have
+</code></pre>
+
+<p>developed a manner for implementing history style behavior in Ajax
+applications.  It involves a new HTML Microformat and doesn&#8217;t require
+polling, two features I thought were particularly appealing.  If
+you&#8217;re interested in a method for handling the infamous back/forward
+buttons in Ajax applications the full article can be read here.</p>
+
+<p>http://positionabsolute.net/blog/2007/07/javascript-history-service.php</p>
+
+<p>Cheers,
+          Matt</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://positionabsolute.net">Matt Foster</a>
+ on July 24, 2007 <a href="#c89" rel="bookmark">#</a></p>
+</div>
+<div id="c91">
+<p>i am using ajax since last 2 years for developing WEB applications , but here i stuck up .. how to solve the Issue of History maintanance while using AJAX !
+    well i have tried iframe , even the issue is resolved &#8230; but is there any other way to create history by using javascript ..instead of using iFrame .</p>
+
+<p>Amit Aher</p>
+
+<p class="posted">posted by Amit A . Aher
+ on August 14, 2007 <a href="#c91" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="ajaxhistory" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>The Trouble with Nonprofits (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>The Trouble with Nonprofits</h1>
+
+<p>In the 1990s, a group of psychologists began studying what made experts expert. Their first task was to see whether experts really were expert &#8212; whether they were particularly good at their jobs.</p>
+
+<p>What they found was that some were and some weren&#8217;t. Champion chess players, obviously, are much better at playing chess than you and I. But political pundits, it turns out, aren&#8217;t that much better at making predictions than a random guy off the street.</p>
+
+<p>What distinguishes people who are great at what they do from those who are just mediocre? The answer, it seems, is feedback. If you lose a chess game, it&#8217;s pretty obvious you lost. You know right away, you feel bad, and you start thinking about what you did wrong and how you can improve.</p>
+
+<p>Making a bad prediction isn&#8217;t like that. First, it&#8217;s months or years before your prediction is <a href="http://wrongtomorrow.com/">proven wrong</a>. And then, you make yourself feel better by coming up with some explanation for why you were wrong: <em>well, nobody expected that to happen; it threw everything else off!</em> And so you keep on making predictions in the same way &#8212; which means you never get good at it.</p>
+
+<p>The difference between chess and predictions is a lot like the difference between companies and nonprofits. If your company is losing money, it&#8217;s pretty obvious. You know right away, you feel bad, and you start thinking about how to fix it. (And if you don&#8217;t fix it, you go bankrupt.) But if your nonprofit isn&#8217;t accomplishing its goals, it&#8217;s much less obvious. You can point to various measurable signs of success (look at all the members we have, look at all the articles we&#8217;ve been quoted in) and come up with all sorts of explanations for why it&#8217;s not your fault.</p>
+
+<p>This isn&#8217;t to say that we should have companies replace nonprofits, any more than we should have chess games replace predictions. The two serve completely different goals &#8212; nonprofits aim at improving the world, not making money. But it does mean that if you&#8217;re involved in nonprofits (or predictions), you need to be much more careful about making sure you&#8217;re doing a good job.</p>
+
+<p>Unfortunately, few nonprofits do that. Take, for example, the Center for American Progress, widely believed to be one of the most effective political nonprofits. They say their goal is &#8220;improving the lives of Americans through ideas and action.&#8221; But their &#8220;marketing brochure,&#8221; while filled with glossy photos, doesn&#8217;t even attempt to see whether they&#8217;re accomplishing this goal. It touts that they&#8217;ve released &#8220;an economic strategy for the next administration,&#8221; &#8220;convened a task force &#8230; to develop policy,&#8221; and &#8220;developed a plan for the bulk transfer auction of at-risk mortgages.&#8221; There&#8217;s not a single attempt to demonstrate that any of these things has approved the lives of Americans, let alone estimate how much.</p>
+
+<p>Measuring things is hard and expensive, even in the simplest cases. Measuring the effect of loaning money to Africans seems a lot easier than measuring the impact of of a think tank report. But when Peter Singer asked Oxfam to measure the effectiveness of giving microcredit to villages in West Africa, they declined, on the grounds that it would have taken up half the budget.</p>
+
+<p>But not measuring is even more expensive. Imagine that Oxfam experimented with two microcredit programs and found that one did 10% better than the other. Even with this very modest improvement, it would only take helping five villages before the experiment paid for itself.</p>
+
+<p>And, as anyone who&#8217;s done these sorts of experiments knows, you often see improvements well in excess of 10%. To take a silly example, <a href="http://dustincurtis.com/you_should_follow_me_on_twitter.html">Dustin Curtis experimented</a> with getting more readers of his weblog to follow him on Twitter. After four experiments, he&#8217;d achieved a 173% improvement. And even this is probably underestimating things. I expect many nonprofits are not accomplishing their goals <em>at all</em>. Even if they made a little bit of progress, their improvement would be mathematically infinite. (It&#8217;s also quite possible that many nonprofits are actually being <em>counter</em>-productive. After all, before we started measuring the effects of medical treatment, we were bleeding people with leeches.)</p>
+
+<p>What can be done about this? I think that everyone who donates to a nonprofit should demand an accounting of results &#8212; not just the number of times they&#8217;ve been cited in the media or the number of policy discussions they&#8217;ve held, but an actual attempt to measure how much they&#8217;re improving people&#8217;s lives. For most nonprofits, I expect these numbers will be depressingly small. But that&#8217;s much better than having no numbers at all. For feeling bad about failing is the first step to doing better next time.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">September  7, 2009</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>I&#8217;ve seen measurement also lead to its own set of dysfunctions.  Among educational nonprofits, measurement is constant and the results are reflected quickly in funding.  But the result doesn&#8217;t look very good to me &#8212; there&#8217;s more obsession with the form of the measurement and how it can be presented, than with the goals themselves.  It is not creating a set of professionals thoughtfully experimenting, reflecting, and using that feedback to adjust their process.  They <em>could</em> do this, measurement need not create this effect, but it isn&#8217;t right now.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://bog.ianbicking.org">Ian Bicking</a>
+ on September  8, 2009 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>You can read lots about measuring the impact of charities here: http://www.givewell.net/</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://slesinsky.org/brian/">Brian Slesinsky</a>
+ on September  8, 2009 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>To my mind, this isn&#8217;t news, but that might be in part because I&#8217;ve worked in my family&#8217;s grant writing firm for so long. The real issue you&#8217;re discussing is one of incentives: nonprofits don&#8217;t have much incentive to measure how well they&#8217;re doing because funders don&#8217;t demand that they do, or at least don&#8217;t as a large group.</p>
+
+<p>If the funder is federal, state, or local, the funder doesn&#8217;t have the resources (or the brains) to really measure effectiveness; if the funder is a foundation, the funder probably cares more about the appearance of doing good than effectiveness. I&#8217;ve addressed this point in some detail here: http://blog.seliger.com/2008/01/04/more-on-charities and here: http://blog.seliger.com/2008/01/23/foundations-and-the-future . The blow, which I contribute to, deals with the issues you raise on a regular basis, and if you want to learn more about why things are the way they are at the moment, take a look at the archives.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://jseliger.com">Jake</a>
+ on September  8, 2009 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>And of course, governments are the biggest nonprofits of all.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://gojomo.blogspot.com">Gordon Mohr</a>
+ on September  8, 2009 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>Having both founded a non-profit and helped foundations give away money to non-profits, I think the situation is a bit more complicated and nuanced than portrayed here.</p>
+
+<p>&#8220;Non-profits&#8221; and &#8220;companies&#8221; are huge categories. Some non-profits have very specific goals (let&#8217;s say improving handicapped accessibility to public facilities in a limited geographic region) which are at least as measurable as those of your average for-profit companies.</p>
+
+<p>And some companies have very different metrics of &#8220;success&#8221; than others. Over the past 15 years, many larger companies have been deemed to be underperforming if they weren&#8217;t growing exponentially; but a Mom-and-Pop store on a main street does not need to do more than survive and provide a living to its handful of employees.</p>
+
+<p>Some companies rate themselves based solely on relatively concrete measures such as profitability and market share, while others include softer criteria (such as image, customer and employee satisfaction).</p>
+
+<p>Taking the Twitter example, one could easily poke holes in even a touted 173% &#8220;improvement&#8221; in the number of people following a blogger on Twitter. Did the increase in Twitter followers lead to more people actually visiting the blog, or did it become a subsitute for reading the full post? Did readers spend less time on the site as a result of being able to access the Twitter summary? Over time, did the increase sustain itself, or did people un-follow the blogger after the initial spate of interest? Did the push by the blogger merely hasten the acquisition of Twitter followers which would have happened without the big push, increasing the blog&#8217;s number of followers to the natural number it was going to achieve anyway, or did it get people to follow the blogger who otherwise wouldn&#8217;t have?</p>
+
+<p>Without a doubt, some non-profits &#8212; like many businesses &#8212; do not actually reach their goals. But I would argue from experience that non-profits do get held accountable over the long haul to much the same extent as commercial enterprises, maybe even moreso. Donors and members have to be rationally convinced to part with their dollars for charity, and when the &#8220;product&#8221; is less tangible (e.g. improving liteacy in a distant country) that case can be hard to sustain year-after-year even when the organization is doing great work.</p>
+
+<p>And so on. I appreciate the basic point of this post, but I do believe the profit/non-profit divide is less black-and-white than portrayed.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.sampratt.com">Sam Pratt</a>
+ on September  8, 2009 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c6">
+<p>P.S. I meant to add that in my experience, serious grantmakers giving out more than small sums do in fact tend to demand that applicants for funding include metrics for evaluation, and that future largesse is dependent on a credible demonstration that these goals are met. And some funders are reluctant to fund the same projects year-after-year even when the project is demonstrating success, just on general principle. I think those outside of the non-profit sector tend to overestimate the challenge of funding such entities.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.sampratt.com">Sam Pratt</a>
+ on September  8, 2009 <a href="#c6" rel="bookmark">#</a></p>
+</div>
+<div id="c7">
+<p>Typo: overestimate >>> underestimate</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://sampratt.com">Sam Pratt</a>
+ on September  8, 2009 <a href="#c7" rel="bookmark">#</a></p>
+</div>
+<div id="c8">
+<p>Lots of people are working on this:</p>
+
+<p>http://en.wikipedia.org/wiki/Esther_Duflo</p>
+
+<p>http://en.wikipedia.org/wiki/William_Easterly</p>
+
+<p>Of course most political pressure groups can&#8217;t measure the effects of their actions, and even if they did have direct policy changes they could point to, it&#8217;s a delicate matter to claim credit and keep their relationships with the political class. Success has many fathers.</p>
+
+<p class="posted">posted by Gabe
+ on September  8, 2009 <a href="#c8" rel="bookmark">#</a></p>
+</div>
+<div id="c9">
+<p>This is the sole reason why I chose to donate to Kiva.org over some other options.  The repayment of funds is direct feedback that my donation actually worked.</p>
+
+<p class="posted">posted by haig
+ on September  8, 2009 <a href="#c9" rel="bookmark">#</a></p>
+</div>
+<div id="c10">
+<p>Spot on. One shouldn&#8217;t lump together all non-profits, however, as some have been speaking out about this for quite some time. For example, Acumen Fund&#8217;s Jacqueline Novogratz: http://en.wikipedia.org/wiki/Jacqueline_Novogratz</p>
+
+<p class="posted">posted by Andrey Fedorov
+ on September  8, 2009 <a href="#c10" rel="bookmark">#</a></p>
+</div>
+<div id="c11">
+<p>Steve Jobs talked in an interview about that, The fact that he can measure if one of his ideas works or not just trying it, and some doesn&#8217;t work(like the Apple Newton).</p>
+
+<p>He just let the people decide. With non profits, he said, you can&#8217;t know if you are expending good the money.</p>
+
+<p class="posted">posted by Jose
+ on September  8, 2009 <a href="#c11" rel="bookmark">#</a></p>
+</div>
+<div id="c12">
+<p>Some of my colleagues who worked for educational non-profits in downtown DC noticed that when they turned to measured metrics (and this reminded me of my own experience in the UK with research funding) the organization became too cautious with high risk initiatives. Instead they tried more incremental improvements or didn&#8217;t attempt to try something interesting at all.</p>
+
+<p>I&#8217;m a great believer in measuring what can be measured but there&#8217;s also a reason why the MacArthur Genius Grants arrive with non-strings attached. No metrics, high risk, but the payoff can be big. This is why I think a lot of non-profits are reluctant to do metrics, they worry it will limit their opportunities to do something high risk.</p>
+
+<p class="posted">posted by Paul Guinnessy
+ on September  8, 2009 <a href="#c12" rel="bookmark">#</a></p>
+</div>
+<div id="c13">
+<p>&#8220;But not measuring is even more expensive. Imagine that Oxfam experimented with two microcredit programs and found that one did 10% better than the other. Even with this very modest improvement, it would only take helping five villages before the experiment paid for itself.&#8221;</p>
+
+<p>Using the assumptions from this paragraph and the previous and Oxfam&#8217;s actual expenses shows that it would take more than seven years in the most optimistic calculation for Oxfam to come out ahead by deciding to measure. And if the new microcredit program actually turns out to be worse than the standard, Oxfam has lost half a year&#8217;s budget for no gain.</p>
+
+<p>&#8220;And, as anyone who’s done these sorts of experiments knows, you often see improvements well in excess of 10%.&#8221;</p>
+
+<p>How many people do you know who have done experiments in microcredit? or if you meant just experiments in general, I think it would be much more effective for you to take a a year or two off from your current diversions to (easily) develop a strategy to generate 10% excess returns on Wall Street and then pump your financial windfall back into your pet causes.</p>
+
+<p class="posted">posted by Mark
+ on September  9, 2009 <a href="#c13" rel="bookmark">#</a></p>
+</div>
+<div id="c15">
+<p>This post conjures up a good double bill: Adam Curtis&#8217; THE TRAP,  and THE WIRE: measuring, targets, non-profit institutions, gaming the system.</p>
+
+<p>I&#8217;m still mourning the loss of the community centre at the end of my street. It seems someone decided it should be run like a private fitness club so that it&#8217;s efficiency could be measured. No one seemed to have closely interrogated the business model of private fitness clubs, or considered the centre might have immeasurable social value. The centre failed to be &#8216;profitable&#8217; and closed down.</p>
+
+<p>I live in a mostly lower income, black neighbourhood. We have undoubtedly spent the money we saved on the centre on healthcare and police. I believe the plan for the future is to turn it into luxury condos. Perhaps after that we can turn the housing estate into a fitness centre ;-)</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://autoscopia.com">Brad Bell</a>
+ on September 10, 2009 <a href="#c15" rel="bookmark">#</a></p>
+</div>
+<div id="c16">
+<p>A similarity I&#8217;ve noticed among top administrators in D.C.-based nonprofits is that they are unable to refrain from moralizing, which should be unnecessary, as a good plan is quantifiably robust.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://manriquez.wordpress.com">Pablo</a>
+ on September 11, 2009 <a href="#c16" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="measurenonprofit" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

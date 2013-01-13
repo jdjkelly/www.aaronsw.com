@@ -1,0 +1,69 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Dear Bigshot (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000522" title="Vote Hank Perritt" />	<link rel="next" href="000527" title="Scientology threatened by &#8220;unadulterated cyber-terrorism&#8221;" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Dear Bigshot</h1>
+</div>
+
+<div class="content">
+<p>NYTimes <a href="http://www.nytimes.com/2002/08/26/technology/26CYBE.html?pagewanted=print">quotes Brewster Kahle</a>: &#8216;To Mr. Kahle, the Internet&#8217;s diversity, good and bad, means that people will find the information they want, as narrowly and as deeply as they care to explore it. While he, too, would like some method to control the spam that flows into his e-mailbox, he said he preferred a complex ecosystem to a monoculture as bland and regular as a suburban lawn. &#8220;I grew up where almost everybody could sing all three verses of the `Gilligan&#8217;s Island&#8217; theme song,&#8221; he said. &#8220;I don&#8217;t want my children to grow up like that.&#8221;&#8217;</p>
+
+<p><br />
+In comments and in blogs, do not tell <em>what</em> but <em>why</em>.</p>
+
+<p>Damien Conway: <a href="http://www.perl.com/lpt/a/2002/08/22/exegesis5.html">Exegesis 5</a>. A lot of examples explaining how to use the new pattern matching (ne&eacute; regular expression) features in Perl 6. I&#8217;m finding this stuff incredibly attractive. Has my brain rotted away? </p>
+
+<p>Superhero John Gilmore <a href="http://sagewire.sage.org/article.pl?sid=02/08/23/1453236">weighs in on .org</a>: &#8220;a bid to price domains at $0.25/year after the first year would not be considered seriously by ICANN.  I presume that<br />
+this is because ICANN doesn&#8217;t want it to become too obvious that putting an entry in a database for a year really doesn&#8217;t cost $6.&#8221; &#8220;the whole job can be done reliably by co-located commodity PC servers running readily available software.&#8221; &#8220;The problem is not that $6 is a lot of money for a .ORG to pay. [&#8230;] The problem is that excess money gets paid to the service, and that attracts the wrong kind of people to try to run it.&#8221;</p><blockquote>Words get used by many people for many things.  Something about a First Amendment and freedom of speech and propagation of culture and all that stuff.  Expecting your domain registry database to &#8220;do something about this&#8221; is like expecting your dog to solve the China vs. Taiwan conflict.</blockquote><p>Great stuff.</p>
+
+<p>Hm, conspiracies afoot? <a href="http://inessential.com/?comments=1&amp;postid=2074">A post on inessential.com</a> indicates the reason OmniGroup got rid of their beautiful OmniWeb icon is because it looked too much like the Network control panel. Say it ain&#8217;t so!</p>
+
+<p><a href="http://ranchero.com/software/netnewswire/" title="More news, less junk. Faster."><img src="http://ranchero.com/images/netNewsWire.jpg" height="31" width="88" alt="NetNewsWire: More news, less junk. Faster" border="0" align="right" /></a> I&#8217;m having fun trying out <a href="http://ranchero.com/software/netnewswire/">NetNewsWire</a>. It&#8217;s got a beautiful design (almost competely <a href="http://inessential.com/?comments=1&postid=2064">silent</a>) and is <em>lightning fast</em>. I used to thnk that a Cocoa app was a silly way to read news feeds, but I&#8217;m quickly being convinced otherwise. Congratulations to Brent for doing such a wonderful job; it&#8217;s slowly convincing me to try writing Cocoa applications again.</p>
+
+<p><strong>New Yorkers:</strong> I&#8217;ll probably be in town the ninth and tenth of September. I can&#8217;t think of anyone there off the top of my head (hold still, <a href="http://www.pinds.com/">Lars</a>!) but there are supposed to be lots of interesting stuff in New York, right?</p>
+
+<p><a href="http://www.dnalounge.com/gallery/2002/08-22/005.html">Fair Use has an Outreach Coordinator.</a></p>
+
+<p>I have to believe that our congressman aren&#8217;t malicious, but simply not getting our side of the story. To remedy that I wrote a (relatively) shorty letter, <a href="http://www.aaronsw.com/2002/dearCongressman">Dear Congressman</a>, that outlines the background of copyright issues and the negative effects that some of the proposed bills will have. Please adapt this letter and send it to your congressman. Find your elected representatives at <a href="http://congress.org/">Congress.org</a>. <em>Share and enjoy!</em></p>
+
+<p>Mac OS X &#8220;helpfully&#8221; accepts your password if you&#8217;re off by a character. Hmm. <strong>Update:</strong> Kevin Marks points out this may be because of a length limit. Apple&#8217;s website confirms that <a href="http://docs.info.apple.com/article.html?artnum=106765">passwords are limited to eight characters</a> so the other characters are just ignored. Michel Benevento <a href="http://bsdvault.net/sections.php?op=printpage&amp;artid=89">confirms this is an old BSD limitation</a>.</p>
+
+<p>Also, there&#8217;s a new security update for Jaguar out.</p>
+
+<p>Apple at WWDC2002: &#8220;Long term, we&#8217;re focussing on 802.11g and 802.11b base stations and cards will fit into g networks.&#8221; New AirPort base stations will let you dial in and use PPP to acces your cable modem and home network when you&#8217;re on the road. You can add a welcome message for your base station that will appear as a dialog box when someone connects. Teachers were complaining that students were making fun of them and giving out quiz answers by creating computer-to-computer networks with the messages as answers (those clever kids!) so they added an option to not let non-administrator to users create computer-to-computer networks. </p>
+
+<p>Zeroconf has an awful lot of web sites: <a href="http://www.zeroconf.org/">Zeroconf</a>, <a href="http://www.multicastdns.org/">MulticastDNS</a>, <a href="http://www.dns-sd.org/">DNS-SD</a>. The stuff is pretty cool. First, zeroconf has a P2P IP address system (that&#8217;s what the 169.264 IPs are). Then, they&#8217;ve got a multicast DNS system so that you can give all your computers nice names without a DNS server. When you type &#8220;myname.local&#8221; into your web browser, it asks your network if anyone calls themself &#8220;myname&#8221;. Finally, DNS-SD lets you use DNS SRV records to ask questions like &#8220;Who supports the LPR printing protocol?&#8221; and get back IPs and port numbers to use. There&#8217;s a lot of advanced caching and backoff protocols so that it doesn&#8217;t use up a lot of bandwidth.</p>
+
+<p class="posted">posted August 25, 2002 11:17 AM (<a class="category" href="cat_technology">Technology</a>)  <a href="000524" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000522" title="Vote Hank Perritt">&laquo; prev</a> | <a href="./">up</a> | <a href="000527" title="Scientology threatened by &#8220;unadulterated cyber-terrorism&#8221;">next &raquo;</a></p>
+
+<p><a href="000518">Introducing&#8230; Warchalking! The New Swhack!</a><br />
+<a href="000519">IMS/ISC out of the ICANN Running</a><br />
+<a href="000520">Fireworks of Failure</a><br />
+<a href="000521">Software and Source Code</a><br />
+<a href="000522">Vote Hank Perritt</a><br />
+<strong>Dear Bigshot</strong><br />
+<a href="000527">Scientology threatened by &#8220;unadulterated cyber-terrorism&#8221;</a><br />
+<a href="000528">Screen Savers on the Desktop</a><br />
+<a href="000529">David P. Reed on Piracy</a><br />
+<a href="000530">The Third Qatsi</a><br />
+<a href="000531">&#8220;Vote for my Mom&#8221;</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

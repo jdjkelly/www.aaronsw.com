@@ -1,0 +1,76 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+  <title>Who Writes Wikipedia? (Swartz 2006)</title>
+  <link rel="stylesheet" href="/style.css" type="text/css" />
+</head>
+<body>	
+
+<h1 id="8220who_writes_wikipedia8221_swartz_2006">&#8220;Who Writes Wikipedia?&#8221; (Swartz 2006)</h1>
+
+<p>In late 2006, I did a study to learn who wrote Wikipedia. I published my conclusions in the article <a href="http://www.aaronsw.com/weblog/whowriteswikipedia">Who Writes Wikipedia?</a>. I am currently working on a larger replication of the study for publication.</p>
+
+<h2 id="background">Background</h2>
+
+<p>To prepare for the study, I examined a random page (Alan Alda) using Wikipedia&#8217;s history feature to see how it was created, edit by edit. The changes fell into roughly three groups:</p>
+
+<ol>
+<li><p>About 5 of the nearly 400 edits were what Wikipedia calls <em>vandalism</em>: confused or malicious people adding things that simply didn&#8217;t fit, followed by someone undoing their change.</p></li>
+<li><p>By far the vast majority were <em>small changes</em>: people fixing typos, formatting, links, categories, and so on, making the article a little nicer but not adding much in the way of substance.</p></li>
+<li><p>Finally, a much smaller number were <em>genuine additions</em>: a couple sentences or even paragraphs of new information added to the page.</p></li>
+</ol>
+
+<p>For the substantive edits, I investigated the other contributions from that user. Almost all were not active contributors. Usually, they&#8217;d made less than 50 edits (typically around 10) and usually on related pages. Most never even bothered to create an account.</p>
+
+<h2 id="method">Method</h2>
+
+<p>To investigate the issue more formally, I decided to run an algorithm over the history to automatically calculate who contributed what. </p>
+
+<p>The first question is what counts as a contribution. I didn&#8217;t want an algorithm that awarded points for vandalism and one that was biased more towards genuine additions than towards small changes. I tried several things, but here&#8217;s the one I found most effective and eventually used:</p>
+
+<p>For each page:</p>
+
+<ol>
+<li><p>Set <code>final</code> to the current (i.e. latest) version of the page.</p></li>
+<li><p>For each <code>version</code> of the page, moving from oldest to newest:</p>
+
+<p>a. Use Python&#8217;s <code>difflib.SequenceMatcher.find_longest_match</code> to find passages of text shared between <code>version</code> and <code>final</code></p>
+
+<p>b. Tag any untagged portion of the match in <code>final</code> as coming from <code>version</code></p></li>
+<li><p>You should now have a <code>final</code> which is tagged with which version each character is from; you can now count the characters contributed by each user.</p></li>
+</ol>
+
+<p>(Footnote: I used <code>find_longest_match</code> instead of <code>get_matching_blocks</code> because <code>get_matching_blocks</code> didn&#8217;t properly handle blocks being reordered.)</p>
+
+<p>Once I had verified the algorithm (I ran it on one page and hand-checked the results), I grabbed a copy of <code>enwiki-20060717-pages-meta-history.xml.bz2</code> and split it up into pages. I distributed the resulting pages across a cluster of machines and had each one run the algorithm on the pages, generating character counts for each user as output.</p>
+
+<p>I then analyzed some of the files (e.g. Alan Alda) in detail, looking at the top contributors and their editcounts. For the remainder, I looked through to see if any of them had a particularly high percentage of the content written by any one user.</p>
+
+<h2 id="results">Results</h2>
+
+<p>For the Alan Alda article, 8 out of the top 10 are unregistered and 6 out of the top 10 have made less than 25 edits on Wikipedia. #9 has made just the one edit.</p>
+
+<p>For comparison, if you simply count edits, 7 out of the top 10 are registered users and 5 of those have made thousands of edits to the site. #4 has made 7,000 edits and #7 has made 25,000.</p>
+
+<p>Other articles showed similar results. For example, the largest portion of &#8220;Anaconda&#8221; was made in two edits by a user who has only made 100 edits to Wikipedia, while the user with the largest number of edits contributed zero text to the final article (they only deleted and moved text contributed by others).</p>
+
+<p>I ran the algorithm on 200 articles and found only a handful where significant portions were written by particular users. But even these cases turned out to be confirmatory upon inspection. </p>
+
+<p>&#8220;Alkane&#8221; was largely contributed by Physchim62. Some have argued that while popular culture pages may be written by thousands of editors, Wikipedia&#8217;s more technical pages must be written by dedicated experts. This seemed to provide confirming evidence. But further investigation found that Physchim62 did not write the article themselves but simply translated the article from the German Wikipedia.</p>
+
+<p>&#8220;Characters in Atlas Shrugged&#8221; was largely contributed by CatherineMunro. It seemed plausible that such a page could be written by a dedicated fan, but investigation found that in fact CatherineMunro simply merged text together from other pages.</p>
+
+<p>&#8220;Anchorage, Alaska&#8221; was largely contirbuted by JeffreyAllen1975. Simple investigation found the contributions to be quite substantive and genuine with numerous edits, each contributing about a paragraph. The effort seemed to take its toll; his user page noted &#8220;I just got burned-out and tired of the online encyclopedia. My time is being taken away from me by being with Wikipedia.&#8221; He was an active contributor for only four months.</p>
+
+<p>But I continued to investigate. The page contained a complaint noting that &#8220;The current version of the article or section reads like an advertisement.&#8221; Googling revealed why: JeffreyAllen1975&#8217;s contributions had been copied-and-pasted from other websites, like the Anchorage Chamber of Commerce (&#8220;Anchorage&#8217;s public school system is ranked among the best in the nation. &#8230; The district&#8217;s average SAT and ACT College entrance exam scores are consistently above the national average and Advanced Placement courses are offered at each of the district&#8217;s larger high schools.&#8221;).</p>
+
+<p>(I suspect JeffreyAllen1975 didn&#8217;t know what he was doing; his writing style suggests he&#8217;s just a kid: &#8220;In my free time, I am very proud of my-self by how much I&#8217;ve learned by making good edits on Wikipedia articles.&#8221; I&#8217;m pretty sure he just thought he was helping the project: &#8220;Wikipedia is like the real encyclopedia books (A thru Z) that you see in the library, but better.&#8221; But his plagiarism will still have to be removed.)</p>
+
+<p>None of the articles in my sample appeared to have significant portions written by a single user.</p>
+
+<h2 id="further_work">Further work</h2>
+
+<p>I am currently working on a larger replication of the study for publication. Contact me if you&#8217;re interested in assisting. My name is <a href="http://www.aaronsw.com/">Aaron Swartz</a> and my email is <a href="&#109;&#97;&#x69;&#108;&#116;&#111;:m&#x65;&#64;&#x61;&#x61;&#114;&#x6F;&#110;s&#x77;&#x2E;&#99;o&#x6D;">m&#x65;&#64;&#x61;&#x61;&#114;&#x6F;&#110;s&#x77;&#x2E;&#99;o&#x6D;</a>.</p>
+
+</body>
+</html>

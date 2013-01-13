@@ -1,0 +1,81 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Dodging Trains (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/001010.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001008" title="Cards" />	<link rel="next" href="001011" title="Super Searching" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Dodging Trains</h1>
+</div>
+
+<div class="content">
+<p>Yes, it’s time the exciting impressionistic story of why this site is now up.</p>
+
+<p>9:40a: <a href="http://vorpal.notabug.com/">vorpal</a>, the server that hosts essentially all my sites goes down. vorpal has been pretty reliable, at least compared to my other machines, but that’s not saying much. I guess it was almost a year ago that it decided to start frying memory over 128MB. And, of course, it didn’t run all that well with only 128MB. But otherwise it’s been pretty reliable. </p>
+
+<p>(vorpal is a Dell PowerEdge. Even though it was supposedly under on-site service warranty, Dell was pretty useless in fixing things.)</p>
+
+<p>My older machines were much worse. Every couple weeks they would require rebooting of some sort. The irony is that my old machine was running fine, and hadn’t been rebooted in a long while.</p>
+
+<p>I called my dad who was near his office where the machine lives. He went over to see what was the matter. It was getting wedged in the middle of the BIOS startup, a bad sign.</p>
+
+<p>11:00a: I dropped everything to try and fix the machine, it became my first priority. I opened up the other machines and took their RAM, thinking that it may have fried the memory again. I waited for Dad to get back so he could take me to the office. Unfortunately for me, at the same time my brothers wanted to quickly get to their favorite local card shop so they could play Magic: The Gathering or some other CCG. Dad decided he would take me and drop me off first if I walked part of the way there.</p>
+
+<p>The whole way in the car my brothers taunted me for caring so much about your server. First they claimed no one visited my site. When I pointed out that I got several hits a second, they decided that the people who visited my site weren’t important, or could wait. On the way over I thought about historians needing to access my site for research, or people who could use some of my code to solve their problems, or people sending me emails I couldn’t receive.</p>
+
+<p>And I thought about you, dear reader. Yes, you personally, [insert your name here]. I know how sad it made you feel to not be able to access my site. I was determined to do everything I could to get the site back up soon.</p>
+
+<p>Dad decided to drop me off in the middle of some vast executive parking lot. I pointed out that it would only cost him a few minutes to drop me off someplace closer but it would cost me lots of time to walk there, but my brothers would have none of it. So I walked through the heat and the humidity, sweating profusely, and trying to balance my laptop while keeping my RAM from scraping each other or falling onto the pavement.</p>
+
+<p>As I walked through the seemingly-endless parking lot, I dodged cars and trains to get to the building that held my server. As I finally got to the office, walking through hallways in the middle of remodeling and repainting, I noticed that there was no air conditioning inside on the weekends so I undressed some.</p>
+
+<p>I tried all the RAM I had and then some, but my server was beepily refusing all of it, and it soon became apparent that I had no appropriate RAM, and even if I did, it was unlikely to work. It was time for plan B.</p>
+
+<p>I noticed that two servers from failed-plans-of-long-ago were sitting in the corner, powered off. These machines were rather better than the one I was using and had far more RAM (and no RAM frying problem). I decided I’d try taking out the server’s hard drive and putting it in there. There would probably be some driver incompatibilities or something, but it was a lot better than what I had now.</p>
+
+<p>I was half-way through a proof-of-concept of this when Dad arrived. He was hot and grumpy and my phone was in my pants pocket so I didn’t hear his repeated phone calls for me to let him in. When I finally did, I dressed and went down stairs. He was reasonably amicable but when I got upstairs he exploded.</p>
+
+<p>“How dare you touch these computer!” he screamed. I tried to reason with him but he would have none of it. He insisted I put everything back the way it was and let <em>him</em> try to see if he could fix my machine.</p>
+
+<p>This took quite a long time between his nonsensical screaming and ranting and me actually doing the cleaning up. Then I had to set the Internet up for him (the server that was down was also our DNS server, so he couldn’t visit any sites) and then spent another half an hour waiting on hold with Dell. When all was said and done, he had no more luck than me. I again pointed out that switching hard drives would be the best solution, so I spent another long time putting everything back to the way it was before he came.</p>
+
+<p>Amazingly, once I got the hard drive working, the machine booted up the first time and everything Just Worked. (<a href="mailto:vorpal@aaronsw.com">Do let me know if you see any problems.</a>) I began cleaning up as Dad started screaming at me again about how I should hurry up. Finally I finished and I carried the old server back down to the car to take home.</p>
+
+<p>3:00p: I’m back in my air conditioning house writing this story. Oh, what I do for you people&#8230;</p>
+
+<p><em>You called me last night on the telephone<br />
+And I was glad to hear from you ’cause I was all alone<br />
+You said, “It’s snowing, it’s snowing! God, I hate this weather.”<br />
+Now I walk through blizzards just to get us back together</em><br />
+ - <a href="http://www.lyricsdepot.com/they-might-be-giants/new-york-city.html">New York City</a>, They Might Be Giants</p>
+
+<p class="posted">posted July 20, 2003 03:33 PM (<a class="category" href="cat_personal">Personal</a>)  <a href="001010" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001008" title="Cards">&laquo; prev</a> | <a href="./">up</a> | <a href="001011" title="Super Searching">next &raquo;</a></p>
+
+<p><a href="000991">ILAW 5</a><br />
+<a href="000993">Scott McCloud is Back!</a><br />
+<a href="000994">San Francisco Moment</a><br />
+<a href="000998">Aaron&#8217;s Censorware</a><br />
+<a href="001008">Cards</a><br />
+<strong>Dodging Trains</strong><br />
+<a href="001011">Super Searching</a><br />
+<a href="001014">Letter from Knuth</a><br />
+<a href="001016">Privacy, Accuracy, Security: Pick Two</a><br />
+<a href="001024">Live from victoria.bc.ca</a><br />
+<a href="001025">Postel&#8217;s Law Has No Exceptions</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

@@ -1,0 +1,70 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Enabling IPv6 on OS X (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000829" title="Why &#8220;Intellectual Property&#8221; is not Property" />	<link rel="next" href="000834" title="explain it to me" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Enabling IPv6 on OS X</h1>
+</div>
+
+<div class="content">
+<p><em>or</em> How I Learned to Stop Worrying and Love the Dancing Kame</p>
+
+<p><strong>Note:</strong> This will apparently not work if you&#8217;re behind a NAT. I had to plug my machine directly into my cable modem to get it to work.</p>
+
+<p>Open up a terminal. <!--Type <code>/sbin/ifconfig -a</code> to list your devices. You should see something like:</p>
+
+<pre>
+en0: flags=8863<UP,BROADCAST,SMART,RUNNING,SIMPLEX,MULTICAST> mtu 1500
+        inet6 fe80::203:93ff:fe67:80b2%en0 prefixlen 64 scopeid 0x4 
+        ether 00:03:93:67:80:b2 
+        inet 192.168.1.101 netmask 0xffffff00 broadcast 192.168.1.255
+        media: autoselect (none) status: active
+</pre>
+
+<p>Find the one that says &#8220;status: active&#8221;, usually this is <code>en0</code>. If it&#8217;s not, be sure to replace en0 with whatever it is in later instructions</p>
+
+<p>Type:</p>
+
+<pre>sudo ip6config start-v6 en0; sudo ip6config start-stf en0</pre>-->
+
+<p>Type:</p>
+<pre>sudo ip6config start-v6 all; sudo ip6config start-stf all</pre>
+
+<p>(stf is 6to4, a way of encoding IPv6 packets so they can go over the current IPv4 Internet.) Visit <a href="http://[3ffe:501:4819:2000:210:f3ff:fe03:4d0]/">http://[3ffe:501:4819:2000:210:f3ff:fe03:4d0]/</a> in your web browser. If you see a dancing turtle, congratulations you&#8217;ve joined <a href="http://cr.yp.to/djbdns/ipv6mess.html">the currently completely useless IPv6 Internet</a>.</p>
+
+<p><em>Argh!</em> Why don&#8217;t they turn this on by default? Who&#8217;s running <a href="http://cr.yp.to/djbdns/ipv6mess.html">this botched IPv6 transition</a>?</p>
+
+<p>But hey, I can see the dancing turtle. It&#8217;s not all bad.</p>
+
+<p class="posted">posted February 05, 2003 01:32 PM (<a class="category" href="cat_technology">Technology</a>)  <a href="000831" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000829" title="Why &#8220;Intellectual Property&#8221; is not Property">&laquo; prev</a> | <a href="./">up</a> | <a href="000834" title="explain it to me">next &raquo;</a></p>
+
+<p><a href="000824">War Tax</a><br />
+<a href="000825">Activity Log</a><br />
+<a href="000826">Small is Beautiful</a><br />
+<a href="000828">Attention State Employees</a><br />
+<a href="000829">Why &#8220;Intellectual Property&#8221; is not Property</a><br />
+<strong>Enabling IPv6 on OS X</strong><br />
+<a href="000834">explain it to me</a><br />
+<a href="000838">News Update</a><br />
+<a href="000842">The Wireless Future</a><br />
+<a href="000848">Just My Luck</a><br />
+<a href="000849">Notes from the DRM Conference: Impacts of DRMs on flows of information</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

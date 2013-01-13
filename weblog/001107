@@ -1,0 +1,552 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Unspeakable Things (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/001107.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001106" title="Is it moral to plead the Fifth?" />	<link rel="next" href="001111" title="Apple&#8217;s Secret Strategy: TV for Everyone" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Unspeakable Things</h1>
+</div>
+
+<div class="content">
+<p>Paul Graham has written a fascinating article on <a href="http://www.paulgraham.com/say.html">What You Can&#8217;t Say</a> &#8212; those ideas which are so heretical that people will shout you down and call you names for even daring to state them.</p>
+
+<p>Soon after (but not intentionally because of) <a href="http://www.aaronsw.com/2002/onPiracy">I said people have no right to make me pay to use their software</a> and was quickly shouted down as immoral, childish, and (especially funny) anti-capitalist/communist (<a href="http://offlineblog.com/mtarchives/2004_01_04__181.php">1</a>, <a href="http://www.docuverse.com/blog/donpark/EntryViewPage.aspx?guid=7a592614-ff21-4817-b7c0-3ea9a7007122">2</a>, <a href="http://www.25hoursaday.com/weblog/CommentView.aspx?guid=9f3fa053-237f-4579-8cab-e418b9aecf70">3</a>). I don&#8217;t want to discuss these things, but I do want to try to come up with a list of unspeakable things. What things qualify? It&#8217;s hard to say precisely, but I think they should have a reasonable chance of being true yet you would be embarrassed to admit you believed them to your friends.</p>
+
+<p>Here&#8217;s the list so far:</p>
+
+<ul>
+<li>Democracy isn&#8217;t a very good idea; lots of people shouldn&#8217;t be allowed to vote.</li>
+<li>Sex with and in front of children/animals/multiple people is OK.</li>
+<li>Eugenics and suicide should be encouraged.</li>
+<li>Blacks and women are naturally not as smart as white men.</li>
+</ul>
+
+<p><em>Can you think of things to add?</em> <a href="http://www.aaronsw.com/weblog/001107">Comment</a> or <a href="mailto:cantsay@aaronsw.com">email</a>. I promise to do what I can to keep your suggestions anonymous; good ones will be added to this list and deleted from the comments.</p>
+
+<p class="posted">posted January 05, 2004 09:24 PM (<a class="category" href="cat_politics">Politics</a>) (<a href="#comments">43 comments</a>) <a href="001107" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001106" title="Is it moral to plead the Fifth?">&laquo; prev</a> | <a href="./">up</a> | <a href="001111" title="Apple&#8217;s Secret Strategy: TV for Everyone">next &raquo;</a></p>
+
+<p><a href="001101">Software that Sucks</a><br />
+<a href="001102">Nothing So Strange</a><br />
+<a href="001103">Contest: What has Bush done for you?</a><br />
+<a href="001105">Plea for Help</a><br />
+<a href="001106">Is it moral to plead the Fifth?</a><br />
+<strong>Unspeakable Things</strong><br />
+<a href="001111">Apple&#8217;s Secret Strategy: TV for Everyone</a><br />
+<a href="001112">Counterpoint: Downloading Isn&#8217;t Stealing</a><br />
+<a href="001113">Cat in the Hat: Harmful to Minors?</a><br />
+<a href="001114">Shorter Paul O&#8217;Neill</a><br />
+<a href="001115">Jefferson: Nature Wants Information to Be Free </a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c79">
+
+<p>I think you have to differentiate between things that we can&#8217;t say because we don&#8217;t want to think of the ramifications of them being true (such as it&#8217;s not immoral to mate with other species, or morality is a false construct), and things that are just wrong.</p>
+
+<p>i.e. your first example in the rss feed is just wrong. Your amended first example is still wrong, both easily proved (though perhaps not quickly) to be so. it&#8217;s akin to the examples in the article of ludicrous suggestions.</p>
+
+<p class="posted">posted by <a href="http://www.synapticimpulse.com/">Suzanne</a> at January  5, 2004 10:42 PM <a href="#c79">#</a></p>
+
+</div><div id="c80">
+
+<p>It really depends on where you live, but this is unspeakable in parts of the predominantly christian world: Jesus Christ was a megalomaniac who preyed on the weak, indigent, and down-trodden to build his cult.</p>
+
+<p class="posted">posted by <a href="http://www.gonesilent.com/~john/blog">John Beatty</a> at January  5, 2004 10:52 PM <a href="#c80">#</a></p>
+
+</div><div id="c81">
+
+<p>Suzanne, what ludicrous suggestions in the article? And I&#8217;m not convinced that anything currently in the list is just plain wrong &#8212; do you have any evidence?</p>
+
+<p class="posted">posted by <a href="http://www.aaronsw.com/">Aaron Swartz</a> at January  5, 2004 10:55 PM <a href="#c81">#</a></p>
+
+</div><div id="c83">
+
+<p>Any suspicion of conspiracies is difficult to discuss publicly &#8212; which naturally makes it easier for conspiracies to operate.</p>
+
+<p>(Of course, that&#8217;s exactly what a conspiracy theorist would have you believe.)</p>
+
+<p class="posted">posted by <a href="http://www.jjg.net/">jjg</a> at January  5, 2004 11:13 PM <a href="#c83">#</a></p>
+
+</div><div id="c84">
+
+<p>Well the race/gender issue contains a number of fallacies and inaccuracies &#8212; for instance, are you balancing for social factors, or are you speaking raw potential? Since race doesn&#8217;t actually exist, you may want to also define &#8220;black&#8221;. There is some evidence (medical) that gender isn&#8217;t all that male/female either. So you&#8217;re making a wrong statement because your premise is flawed in the first place.</p>
+
+<p>If you stated that female persons with equal education and brain chemistry and brain design are unable to think as fast as male persons with the same set up, then you&#8217;d have something to test. </p>
+
+<p>As for his ludicrous suggestions:</p>
+
+<p>&#8220;No one gets in trouble for saying that 2 + 2 is 5, or that people in Pittsburgh are ten feet tall. Such obviously false statements might be treated as jokes, or at worst as evidence of insanity, but they are not likely to make anyone mad.  The statements that make people mad are the ones they worry might be believed. I suspect the statements that make people maddest are those they worry might be true.&#8221;</p>
+
+<p class="posted">posted by <a href="http://www.synapticimpulse.com/">Suzanne</a> at January  5, 2004 11:28 PM <a href="#c84">#</a></p>
+
+</div><div id="c85">
+
+<p>Even then, of course (sorry, thought of this afterwards), the measure of &#8220;not as smart&#8221; needs to be thoroughly determined. In what way? What are the measures? Are we talking about standardized tests with known answers on a particular subject? </p>
+
+<p>Are you breaking out populations based on genetic switches or cultural factors or just plain visual identity?</p>
+
+<p class="posted">posted by <a href="http://www.synapticimpulse.com/">Suzanne</a> at January  5, 2004 11:31 PM <a href="#c85">#</a></p>
+
+</div><div id="c86">
+
+<p>1) That Darwinism (or to be specific&#8212; natural selection) may not actually how life evolved on the planet. Too many people think that Darwinism is set in stone, and if you question it, you are some seven day creationist fruitcake or some such.</p>
+
+<p>2) That a woman can want not to get married/ not have children or even not like children and can be perfectly well adjusted and normal. If she doesn&#8217;t want children or a husband she is a) a man hater or lesbian , b) cold, frigid, etc. or c) just plain selfish.</p>
+
+<p class="posted">posted by <a href="http://www.jngm.net/">ARJ</a> at January  5, 2004 11:32 PM <a href="#c86">#</a></p>
+
+</div><div id="c87">
+
+<p>Ehh, that last part is provocative, but arguably false.</p>
+
+<p>Many people get mad at Holocaust-deniers not because, deep down, they worry the Holocaust didn&#8217;t really happen. Rather, it&#8217;s because the Holocaust-deniers are part of a movement which wants to kills them! The people getting mad do indeed worry other people might believe the lie, because of course it happened, and, to oversimplify,  a huge number of people got killed as a result.</p>
+
+<p>Very simply, denial is one reason for anger. But legitimate fear for one&#8217;s safety is another very common reason for anger.</p>
+
+<p class="posted">posted by <a href="http://sethf.com/">Seth Finkelstein</a> at January  5, 2004 11:35 PM <a href="#c87">#</a></p>
+
+</div><div id="c88">
+
+<p>White people are evil, and work every day to enslave everyone else.</p>
+
+<p class="posted">posted by  at January  6, 2004 12:01 AM <a href="#c88">#</a></p>
+
+</div><div id="c89">
+
+<p>There really are similarities between the way Hitler <a href="http://www.commondreams.org/views03/0316-08.htm">manipulated</a> the German people and the way Bush is manipulating the people of the U.S.</p>
+
+<p class="posted">posted by  at January  6, 2004 01:31 AM <a href="#c89">#</a></p>
+
+</div><div id="c90">
+
+<p>&#8220;The statements that make people mad are the ones they worry might be believed. I suspect the statements that make people maddest are those they worry might be true.&#8221;</p>
+
+<p>No, the statements that make me mad are the ones I can worry that <em>you</em> might think are true.  It&#8217;s harmless if you believe and act on 2+2=5, but it&#8217;s damaging if you believe and act on racial/gender superiority.</p>
+
+<p class="posted">posted by Tom at January  6, 2004 04:28 AM <a href="#c90">#</a></p>
+
+</div><div id="c91">
+
+<p>How about (in the business world):</p>
+
+<ul>
+<li>Open source is a fantastic idea for business</li>
+<li>Competitive advantage isn&#8217;t all about proprietary technology</li>
+</ul>
+
+<p>And in the academic world:</p>
+
+<ul>
+<li>All students should have part-time jobs</li>
+<li>Money comes first, not academic proficiency or expansion</li>
+<li>Research in the academic domain is useless &#8212; leave it to the companies that want to invest in research</li>
+</ul>
+
+<p>Or the more heinous:</p>
+
+<ul>
+<li>All religions are wrong except </li>
+<li>All programming languages/operating systems/GUI design principles except </li>
+</ul>
+
+<p class="posted">posted by <a href="http://blog.meriwilliams.com">Meri</a> at January  6, 2004 05:21 AM <a href="#c91">#</a></p>
+
+</div><div id="c93">
+
+<p>Emacs is better than vi.</p>
+
+<p class="posted">posted by <a href="mailto:ed@litmusgreen.com">Ed Silva</a> at January  6, 2004 08:59 AM <a href="#c93">#</a></p>
+
+</div><div id="c94">
+
+<p>Here are a couple:</p>
+
+<ul>
+<li>Islam promotes terrorism&#8230;</li>
+<li>Black culture is full of illegitimate children&#8230;</li>
+</ul>
+
+<p class="posted">posted by Matt at January  6, 2004 09:49 AM <a href="#c94">#</a></p>
+
+</div><div id="c96">
+
+<p>I don&#8217;t usually post anonymously&#8230; but I&#8217;d have trouble saying some of the below without the protection of anonymity&#8230;</p>
+
+<p>-Guys can enjoy anal sex without being close to gay&#8230;</p>
+
+<p>-Old people are generally useless&#8230;</p>
+
+<p>-The planet could use loosing 4-5 Billion people&#8230; take your pick.</p>
+
+<p>-Everyone picks their nose&#8230; some eat it&#8230; adults tend to do it while driving&#8230; no one enjoys watching someone else doing it&#8230;</p>
+
+<p>-Capitalism is an un-stable, un-sustainable state&#8230; there has to be another path that doesn&#8217;t promote obsolesence&#8230; or we will never make it through the coming century.</p>
+
+<p>-You are the only true individual&#8230; the Universe is set up around your existence and survival. Apple is just as evil as microsoft&#8230; just a more pretty evil. (this has become less-un-speakable with revelations of late&#8230; batteries, DRM, etc.)</p>
+
+<p>-Everything and everyone is created just long enough to pass through your life and subsequently dissappears when out of your view/experience.  No one else thinks freely&#8230; everyone hears only your thoughts and what appears to be other&#8217;s thoughts are created so that your life and the world makes some sort of causal sense. If you were to stop existing (read: die) the Universe would stop existing&#8230;</p>
+
+<p class="posted">posted by anon at January  6, 2004 11:38 AM <a href="#c96">#</a></p>
+
+</div><div id="c97">
+
+<p>That the planet could stand a reduction in the human population isn&#8217;t particularly earth shattering (no pun intended, though, of course, I&#8217;m leaving it in, ha!) &#8212; say what you really can&#8217;t say! </p>
+
+<p>&#8220;We should kill (or let die) all the weak, sick, and non-productive members of our societies to reduce our population.&#8221;</p>
+
+<p>Of course, it&#8217;s the &#8220;should&#8221; that makes it upsetting and uncomfortable to think (and heretical in many world religions). Is that the right solution? I personally think there is a better solution, to press forward with technological advancements to lower our effect on the planet and aid other countries in doing the same without thinking toward wealth, but rather survival. ;) i.e. hand over the cash rich folks, we&#8217;re going to need it to bring the world up to the same level of knowledge so we can solve this together. That may be heretical enough!</p>
+
+<p class="posted">posted by <a href="http://www.synapticimpulse.com/">Suzanne</a> at January  6, 2004 02:51 PM <a href="#c97">#</a></p>
+
+</div><div id="c99">
+
+<p>I have been having on and off discussions with some people about a very similar concept - words that cannot be uttered in a public place without people becoming uncomfortable.</p>
+
+<p>My personal favourite is &#8216;swastika&#8217;. Just saying it, even alone without context, is enough to get people stopping in their tracks.</p>
+
+<p class="posted">posted by Julien at January  6, 2004 03:28 PM <a href="#c99">#</a></p>
+
+</div><div id="c100">
+
+<p>This discussion is pointless</p>
+
+<p class="posted">posted by  at January  6, 2004 03:29 PM <a href="#c100">#</a></p>
+
+</div><div id="c101">
+
+<p>Our existence is pointless. We should stop reproducing and let the species die.</p>
+
+<p class="posted">posted by  at January  6, 2004 03:38 PM <a href="#c101">#</a></p>
+
+</div><div id="c103">
+
+<p>I&#8217;m not sure I understand what you are looking for. Should the suggestions contain statements that might arguably be true? If so, how does the &#8220;having sex with children is OK&#8221; thing fit in?
+Puzzled.</p>
+
+<p class="posted">posted by <a href="http://www.innoq.com/blog/st">Stefan Tilkov</a> at January  6, 2004 04:58 PM <a href="#c103">#</a></p>
+
+</div><div id="c104">
+
+<p>My peanuts are bigger than your peanuts.</p>
+
+<p class="posted">posted by <a href="http://www.docuverse.com/blog/donpark">Don Park</a> at January  6, 2004 05:26 PM <a href="#c104">#</a></p>
+
+</div><div id="c105">
+
+<p>That homosexuality is inconsistent with both religion and evolution.</p>
+
+<p>That homosexuality is not with you at birth.</p>
+
+<p class="posted">posted by  at January  6, 2004 09:54 PM <a href="#c105">#</a></p>
+
+</div><div id="c107">
+
+<p>Since you&#8217;re attempting to lik your position on copyright/etc with &#8220;unspeakable things&#8221; I&#8217;d just like to point out that with 60 million Kazaa downloads, etc. you are hardly in the minority.</p>
+
+<p class="posted">posted by <a href="mailto:pb@pb.com">pb</a> at January  6, 2004 11:30 PM <a href="#c107">#</a></p>
+
+</div><div id="c108">
+
+<p>I doubt many of those Kazaa users would publicly argue that downloading copyrighted material is moral, because of the massive PR campaign by the copyright holders.</p>
+
+<p class="posted">posted by <a href="http://www.aaronsw.com/">Aaron Swartz</a> at January  7, 2004 12:04 AM <a href="#c108">#</a></p>
+
+</div><div id="c109">
+
+<p>So there is this great thing called the <a HREF="http://vitanuova.loyalty.org/2002-09-08.html">Schoolmaster&#8217;s Case</a> in the prehistory of Angloamerican competition law which raises the question of how you distinguish a <i>damnum</i> from an <i>iniuria</i>.  There are various grounds on which someone (like a teacher) might claim a property right that excludes certain behavior by other people.  Some that come to mind are tradition, livelihood, and the famous <em>protection of investment</em> or its companion, the <em>incentive to investment</em>.</p>
+
+<p>I think the position of Skrene, J., is fascinating: &#8220;<em>and the plaintiffs have shown well enough how they are damaged</em>&#8221; &#8212; he compares the situation to the case where &#8220;a market is erected to the nuisance of my market [&#8230;] and [&#8230;] those coming to my market [are] disturbed or beaten&#8221;.  He sympathizes with the person who established the first market and whose real complaint is that business is down.  Skrene, J., says in effect that it isn&#8217;t so important <em>why</em> business is down; you can have an &#8220;assize of nuisance&#8221; based on the fact that someone else&#8217;s actions had the end result that you made less money.  But Hanford, J., emphasizes that even where &#8220;the profit of mine is diminished, I shall have no action [&#8230;] even though I am damaged&#8221;.  Then Hill, J., and Hanford, J., gang up on Skrene, J. by asserting together that &#8220;the plaintiffs have no estate&#8221;, &#8220;the plaintiffs have no estate in the schoolmastership&#8221;, i.e. it so happens that this is a case where there is no property right.</p>
+
+<p>In fairness to Skrene, J., it seems that H. and H., JJ., did not really explain how you can tell whether a particular legal interest is an &#8220;estate&#8221; (can be enforced by the courts if impaired) or &#8220;a ministry for the time&#8221; or &#8220;an estate for an uncertain time&#8221; (can&#8217;t be enforced by the courts if impaired).  They just kind of emphasized that some things are an estate and some things are not an estate and the revenues from an occupation are, it so happens, not to be considered an estate.</p>
+
+<p>In your copyright debate, a lot of people are like Skrene in that they feel (1) that it is very significant if a copyright holder loses money and (2) that acts with that outcome are unfair (like stealing) and not fair (like competing).  You are running closer to Thirning, C.J.&#8217;s observation that supposedly children have to be taught one way or another, but if you homeschool them you aren&#8217;t supporting the school system (damnum), yet that doesn&#8217;t mean that homeschooling is bad (iniuria).</p>
+
+<p>But there is still no actual rule here that distinguishes the merely-damna sharply from the also-iniuriae, the &#8220;your choice makes me worse off&#8221; from the &#8220;your choice is illegitimate&#8221;.  The political campaigns around copyright (and other things seen as protecting and encouraging investment) can be interpreted as trying to kick the proverbial ball over into one side or the other of the Damnum-Iniuria court.</p>
+
+<p>(This is about the copyright issue and not primarily about the heresies, so it might be off-topic.  Sorry!)</p>
+
+<p class="posted">posted by <a href="http://vitanuova.loyalty.org/">Seth Schoen</a> at January  7, 2004 02:52 AM <a href="#c109">#</a></p>
+
+</div><div id="c110">
+
+<p>RE: Copyright and Kazaa</p>
+
+<p>Sharing is the moral thing to do. Copyright law is an artificial monopoly to protect the author of a work by preventing others from making a profit from his work. If I share a file, how do I make a profit from it? It&#8217;s the government that grants the monopoly, and it&#8217;s not MY moral obligation to join them in their opposition to the normal and morally healthy position of sharing my posessions.</p>
+
+<p>The Copyright law is a fine line, and a compromise reached by a society to help promote the public domain. If government gets subverted and wishes to err on the side of greed, I will counter it and err on the side of caution, by sharing to help eleviate the artifical costs of this corruption.</p>
+
+<p class="posted">posted by <a href="http://mike.warot.com">Mike Warot</a> at January  7, 2004 07:13 AM <a href="#c110">#</a></p>
+
+</div><div id="c111">
+
+<p>troll</p>
+
+<p class="posted">posted by <a href="http://www.aGGROcULTURE.com">Glenn Sugden</a> at January  7, 2004 08:20 AM <a href="#c111">#</a></p>
+
+</div><div id="c112">
+
+<p>This one was always popular at school &#8212; all girls masturbate, some just lie about it more than others</p>
+
+<p class="posted">posted by <a href="http://anon.com">anon</a> at January  7, 2004 08:38 AM <a href="#c112">#</a></p>
+
+</div><div id="c113">
+
+<p>Seth: It&#8217;s funny, because I just recently also heard a similar story when reading about Justice Oliver Wendell Holmes (he was discussing his reasonable person formulation of when to punish people for torts, I think (unfortunately, Lexis-Nexis doesn&#8217;t seem to have indexed the 8th issue of the Harvard Law Review, in which the article was published)). </p>
+
+<p>The interesting thing to me was that the other side of the debate was not at all concerned about <em>harm</em>, but instead the fact that I was using the work of X against X&#8217;s interests. X, they argued, had spent a great amount of time on his work &#8212; it was unfair of me to use it in a way he did not like.</p>
+
+<p>My problem was that I did not have a good example of why this principle was harmful. Can you think of one? (I guess I could have pushed the Pentagon Papers &#8212; perhaps they&#8217;d say there was some exception. It bothers me that copyright law is so inconsistent with the First Amendment &#8212; <a href="http://notabug.com/kozinski/fairuse">Kozinski</a> and <a href="http://www1.law.ucla.edu/~volokh/speechip.pdf">Volokh</a> to the Supreme Court! (whether the people or the principles the linked articles elucidate I will leave ambiguous).)</p>
+
+<p class="posted">posted by <a href="http://www.aaronsw.com/">Aaron Swartz</a> at January  7, 2004 11:55 AM <a href="#c113">#</a></p>
+
+</div><div id="c114">
+
+<p>Unspeakable Thing:</p>
+
+<p>Most if not all pirates really believe what they are doing is wrong, but their desire for the software outweighs their ethics. Some may try to intellectuallize arguments in attempts to convince themselves that they are not just &#8216;not wrong&#8217; but rather &#8216;wholly and morally correct&#8217; to continue such behavior.</p>
+
+<p class="posted">posted by  at January  7, 2004 04:09 PM <a href="#c114">#</a></p>
+
+</div><div id="c115">
+
+<p>http://d-squareddigest.blogspot.com/2002<em>09</em>15<em>d-squareddigest</em>archive.html</p>
+
+<p>&#8220;In the opinion of D-Squared Digest, the epithet &#8220;nigger&#8221; is a much less offensive term when used to refer to an American of African descent, than the more popular word &#8220;minority&#8221;.&#8221;</p>
+
+<p class="posted">posted by anonymous at January  7, 2004 05:28 PM <a href="#c115">#</a></p>
+
+</div><div id="c116">
+
+<p>- The diagonal of a unit square is not expressible as an integer divided by another integer. This idea is so controversial that when one of Pythagoras&#8217;s followers finally divulged it he was hunted down and strangled.</p>
+
+<p>Thank goodness for anonymous posting.</p>
+
+<p>Cheers from 6th century BC!</p>
+
+<p class="posted">posted by ira at January  7, 2004 05:59 PM <a href="#c116">#</a></p>
+
+</div><div id="c141">
+
+<p>Assassination is a legitimate means of political change.</p>
+
+<p class="posted">posted by anonymous at January  9, 2004 11:00 AM <a href="#c141">#</a></p>
+
+</div><div id="c154">
+
+<p>I remember feeling it was unfair for other kids in my elementary school to use a game I made up but with a rule change that I considered unfair.  (The game was &#8220;group two-square&#8221; and the rule change was &#8220;corner hits&#8221;.)  My feeling of unfairness came mostly from the fact that I could have refrained from making up the game or from telling them about it, so I felt like the other kids were somehow indebted to me (or that they had shown that I was foolish for not getting them to promise to play group two-square only with no corner hits before I told them about it).</p>
+
+<p>
+But in fact I think now that my intuition was extremely suspect and perhaps somewhat authoritarian.  And it was obviously contrary to how children&#8217;s games actually get invented.  (Two-square was in the public domain and my only innovation was to make it into a game for 2n players instead of 2.)
+<p>
+But there are several kinds of frustration that people might get when others benefit &#8220;unfairly&#8221; (by which I mean that they benefit, they couldn&#8217;t have benefitted but for your action, and you disapprove).  You think &#8220;If only I could have arranged to capture those benefits from my action, or at least to stop that person from capturing them!&#8221;.
+<p>
+The property question in general might be how much of this sense of frustration is really a matter of moral wrong (or at least of something that the law should address in the public interest) and how much is, well, <i>damnum absque iniuria</i>.</p></p></p>
+
+<p class="posted">posted by <a href="http://vitanuova.loyalty.org/">Seth Schoen</a> at January  9, 2004 04:05 PM <a href="#c154">#</a></p>
+
+</div><div id="c155">
+
+<p>As to the question of why using X&#8217;s work against X&#8217;s interest is harmful, you can form the incentives argument: If it is routine that people do this, other people may not want to work (or not want to work as much).  For instance, if I&#8217;m a robot-builder, and periodically people commandeer the robots I build and use them to lay waste to my hometown, I may no longer be so eager to build robots.  Or if I&#8217;m a scholar and people periodically apply my scholarship to successfully justify totalitarianism, I may no longer be so eager to publish research.
+<p>
+&#8220;Having other people not be able to use your work against you&#8221; is a kind of economic incentive to do the work regardless of what kind of work you do, and regardless of the nature of the reason that other people can&#8217;t use it against you.  &#8220;Having it be likely that people will use your work against you&#8221; is a kind of economic disincentive.  (To borrow an older controversy from the early days of free software, if you write software and people use it to design nuclear weapons and you disapprove of that, you may regret having written the software, and you may not be inclined to write any more software.  In fact, the U.S. Department of Energy has been using free software to design nuclear weapons since at least 1999 and likely for over a decade before that.)
+<p>
+If you like the categorical imperative, you could say that you shouldn&#8217;t use people&#8217;s work against them because if everyone did that, nobody would do very much work.  But you can make the argument the other way around: if it were forbidden ever to use people&#8217;s work against them, we might not be able to have controversies or progress or competition or innovation or freedom.</p>
+</p></p>
+<p class="posted">posted by <a href="http://vitanuova.loyalty.org/">Seth Schoen</a> at January  9, 2004 04:20 PM <a href="#c155">#</a></p>
+
+</div><div id="c157">
+
+<p>There is no objective universe separate from us.</p>
+
+<p>Christians are the least christian people.</p>
+
+<p>We just programmed puppets with no free will.</p>
+
+<p class="posted">posted by  at January  9, 2004 05:19 PM <a href="#c157">#</a></p>
+
+</div><div id="c163">
+
+<p>This is a retarded thread &#8212; almost as bad as Graham&#8217;s original article. What is it about being a Common Lisp programmer that makes people listen to Graham&#8217;s moronic rantings about anything under the sun? </p>
+
+<p>By the way, I fully encourage the suicide of people who think that this claim &#8212; &#8220;Blacks and women are naturally not as smart as white men.&#8221; &#8212; isn&#8217;t obviously wrong.</p>
+
+<p>Aaron, I encourage you to explain your theories about comparitive intelligence to black people and to women, see if they can explain how obviously wrong they are.</p>
+
+<p class="posted">posted by  at January  9, 2004 07:34 PM <a href="#c163">#</a></p>
+
+</div><div id="c168">
+
+<p>&#8220;Soon after (but not intentionally because of) I said people have no right to make me pay to use their software and was quickly shouted down as immoral, childish, and (especially funny) anti-capitalist/communist (1, 2, 3).&#8221;</p>
+
+<p>I really don&#8217;t like the way you called some of the arguments against you &#8220;especially funny&#8221; as if your arguments are far superior to their&#8217;s, because they aren&#8217;t. Similarly, calling Nick Bradbury an &#8220;amazing idiot&#8221; does nothing for your arguments.</p>
+
+<p class="posted">posted by Harry at January 10, 2004 11:04 AM <a href="#c168">#</a></p>
+
+</div><div id="c176">
+
+<p>I think the anti-capitalist comment is especially funny, not because I think my argument is superior, but because it is almost certainly pro-capitalism (although I understand what capitalism is may be a matter of some dispute).</p>
+
+<p>A lot of people seem not to have gotten the &#8220;Amazing Idiot&#8221; joke. I was commenting on Bradbury (and others&#8217;) tendency to label everyone who makes copies as &#8220;pirates&#8221; &#8212; a label that seems wholly uncalled for. Pirates raped and pillaged, they didn&#8217;t share files.</p>
+
+<p class="posted">posted by <a href="http://www.aaronsw.com/">Aaron Swartz</a> at January 11, 2004 02:16 PM <a href="#c176">#</a></p>
+
+</div><div id="c225">
+
+<p>(Obese|Stupid) people should not reproduce.   </p>
+
+<p>Any statement which negatively portrays a group of people, where group !(white male).  </p>
+
+<p class="posted">posted by  at January 14, 2004 06:50 AM <a href="#c225">#</a></p>
+
+</div><div id="c292">
+
+<p>Out of curiousity, does anyone here know people who honestly have strong beliefs on other peoples&#8217; intelligence/honesty/character/etc, based on race?  I always took skin color to little more important than hair or eye color.</p>
+
+<p class="posted">posted by <a href="mailto:lally_spam_box@yahoo.com">Lally Singh</a> at January 18, 2004 03:12 PM <a href="#c292">#</a></p>
+
+</div><div id="c302">
+
+<p><a href="http://www.eco.freedom.org/el/20040101/aliens.shtml">Aliens cause global warming</a>:</p>
+
+<p>There are no aliens.</p>
+
+<p>There is no &#8220;nuclear winter&#8221;.</p>
+
+<p>Second-hand smoke is harmless.</p>
+
+<p>Global warming does not exist.</p>
+
+<p class="posted">posted by <a href="http://www.aaronsw.com/">Aaron Swartz</a> at January 19, 2004 09:50 AM <a href="#c302">#</a></p>
+
+</div><div id="c644">
+
+<p>Life is meaningless
+Money is evil</p>
+
+<p class="posted">posted by <a href="http://linkblog.getxx.com/">Otov</a> at February 29, 2004 01:02 PM <a href="#c644">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/001107.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/mt-comments.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1107" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /><br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

@@ -1,0 +1,187 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Stanford: Day 57 (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001479.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001478" title="Stanford: Day 56" />	<link rel="next" href="001480" title="Stanford: Day 58" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Stanford: Day 57</h1>
+</div>
+
+<div class="content">
+<p>Kat and Vicky (from down the hall) want a demo of the bike. They manage to round up like at least ten people to come see it. They are curious why I got a <a href="http://www.bigha.com/">Bigha</a>, an unusual expensive bike and I have trouble explaining it to them.</p>
+
+<p>Later my roommate and his female friend ask for a demonstration. She informs me she has named the bike David George Dinkelspiel.</p>
+
+<p>Back upstairs we try to think of what to do with the huge box. A short while later our room has a new and impressive sculpture (it receives quite positive reviews from the neighbors).</p>
+
+<p>A large cardboard box appears to hover over the room. It has scuff marks and tape hanging off of it and it partially obscures the light, casting a shadow over some of the room. A bicycle wheel hangs in the center of the front of the box. The piece is powerful and imposing, while at the same time curiously and inviting. I call it installational art. A white sign on the side of the box reads:</p>
+
+<blockquote>
+  <p><em>Rondy Arthur Kresge</em> <br />
+  (2004) <br />
+  Sculpture <br />
+  JS, DE, AS, AK</p>
+</blockquote>
+
+<p class="posted">posted November 14, 2004 07:32 PM (<a class="category" href="cat_education">Education</a>) (<a href="#comments">4 comments</a>) <a href="001479" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001478" title="Stanford: Day 56">&laquo; prev</a> | <a href="./">up</a> | <a href="001480" title="Stanford: Day 58">next &raquo;</a></p>
+
+<p><a href="001474">Stanford: Day 54</a><br />
+<a href="001475">Stephen Pinker on Uniting Techies and Fuzzies</a><br />
+<a href="001476">Stanford: Day 55</a><br />
+<a href="001477">Barry Scheck on the Dark Side of Justice</a><br />
+<a href="001478">Stanford: Day 56</a><br />
+<strong>Stanford: Day 57</strong><br />
+<a href="001480">Stanford: Day 58</a><br />
+<a href="001485">Stanford: Day 59</a><br />
+<a href="001486">Network News Presidents on the Election</a><br />
+<a href="001487">Stanford: Day 60</a><br />
+<a href="001488">Stanford: Day 61</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c3421">
+
+<p>I&#8217;ve been interested in recumbent bikes ever since a bike store opened up in our neighborhood (<a href="http://www.valleybikes.com/">Valley Bikes</a>) that specializes in them.  I&#8217;ve sat on some at the store, but I haven&#8217;t actually pedalled one yet.<p>One thing I&#8217;ve noticed is that most have a very low center-of-gravity, while the Bigha does not.  The big complaint about most recumbents is that they are difficult to see.  Your bike overcomes that objection.  But how is it to ride relative to the others?  Does the high center-of-gravity make it awkward to start/stop, or does one get over that quickly?</p></p>
+
+<p class="posted">posted by Russ Schwartz at November 15, 2004 06:23 AM <a href="#c3421">#</a></p>
+
+</div><div id="c3454">
+
+<p>tpiwwp (this post is worthless without pics)</p>
+
+<p class="posted">posted by sms at November 17, 2004 08:59 PM <a href="#c3454">#</a></p>
+
+</div><div id="c3455">
+
+<p>i worked as a bike messenger on a recumbent for a couple of years in Toronto while i was in University. i loved the feeling though it was little unnerving to ride it weaving in and out of traffic after years of riding my road bike.</p>
+
+<p class="posted">posted by keith robinson at November 18, 2004 05:14 PM <a href="#c3455">#</a></p>
+
+</div><div id="c3464">
+
+<p>Just say you bought it because they have a great website. :)</p>
+
+<p class="posted">posted by <a target="_blank" title="http://eliot.landrum.cx" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3464">eliot</a> at November 22, 2004 10:36 AM <a href="#c3464">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001479.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1479" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

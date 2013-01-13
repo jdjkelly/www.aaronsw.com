@@ -1,0 +1,176 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Stanford: Feats of Memory (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001651.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001650" title="Stanford: Textbooks for Idiots" />	<link rel="next" href="001652" title="Lessons in Capitalism #3: Sycophancy" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Stanford: Feats of Memory</h1>
+</div>
+
+<div class="content">
+<p class="dateline">March 18</p>
+
+<p>I used to complain that grades weren&#8217;t really for different fields &#8212; biology, history, etc. &#8212; they were all different grades for memorization, just memorization of different types of information. Well, the psychology final has taken that one step further. It&#8217;s not memorization, it&#8217;s just reading comprehension.</p>
+
+<p>To pass the test, apparently all you need to do is read the textbook beforehand and remember what it said. No thought or application is required. (Indeed, thought will probably screw you over since some of the &#8220;correct&#8221; answers are wrong. I thought about telling the proctors as I left that &#8220;the answer to number 26 is wrong&#8221; but they&#8217;d probably look at me real funny.)</p>
+
+<p class="posted">posted March 26, 2005 07:39 PM (<a class="category" href="cat_education">Education</a>) (<a href="#comments">3 comments</a>) <a href="001651" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001650" title="Stanford: Textbooks for Idiots">&laquo; prev</a> | <a href="./">up</a> | <a href="001652" title="Lessons in Capitalism #3: Sycophancy">next &raquo;</a></p>
+
+<p><a href="001646">Stanford: My So-Called Terrorist Life</a><br />
+<a href="001647">Stanford: Schoolwork</a><br />
+<a href="001648">Stanford: To the Hypnotist</a><br />
+<a href="001649">Stanford: Stop Hiring Me</a><br />
+<a href="001650">Stanford: Textbooks for Idiots</a><br />
+<strong>Stanford: Feats of Memory</strong><br />
+<a href="001652">Lessons in Capitalism #3: Sycophancy</a><br />
+<a href="001653">Stanford: Spring Break</a><br />
+<a href="001654">Home: Spring Break</a><br />
+<a href="001628">Stanford Interactive: What classes should I take?</a><br />
+</p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c4690">
+
+<p>Interesting, because in a number of recent computer classes I took, if you could successfully challenge an answer during the test review, the instructor would adjust the test scores accordingly.</p>
+
+<p class="posted">posted by D.Meyer at March 29, 2005 10:04 PM <a href="#c4690">#</a></p>
+
+</div><div id="c4693">
+
+<p>an audience member points out during <a href='http://www.itconversations.com/shows/detail372.html'>clark aldrich&#8217;s &#8216;accelerating change 2004&#8217; talk</a> that &#8216;education,&#8217; as commonly practiced, provides little more than an evaluation of how &#8216;smart&#8217; someone already is.  people that are already &#8216;smart,&#8217; i.e. possesing the underlying skill(s) being tested (such as memorization or reading comprehension), will perform at a level commensurate with their abilities.</p>
+
+<p>as proof, the commenter states that test scores in a traditional educational environment are distributed normally, mirroring memorization skills, i.q., etc.  however, when students are immersed in a truly educational environment &#8212; a simulation in this case &#8212; the distribution of scores is bimodal, with 80% performing at an &#8216;a&#8217; level.</p>
+
+<p>tangentially, i think it would be useful to have classes like &#8216;memorization,&#8217; &#8216;speed reading,&#8217; &amp;c., so that students could directly hone these skills instead of having to haltingly develop them by doing stupid shit like memorizing the amino acids or whatnot.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://fratocrates.blogspot.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=4693">jesus henry christos</a> at March 31, 2005 12:40 AM <a href="#c4693">#</a></p>
+
+</div><div id="c4704">
+
+<p>IME tests are mostly just a motivation to read the textbook, pay attention in class and study outside of class. By the time finals week rolls around its usefulness is mostly spent, but you might as well give it anyway so next year&#8217;s class doesn&#8217;t get cocky&#8230;</p>
+
+<p class="posted">posted by <a target="_blank" title="http://docbug.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=4704">Bug</a> at March 31, 2005 01:28 PM <a href="#c4704">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001651.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1651" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

@@ -1,0 +1,43 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>New Server Arrives Today (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/000124.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000123" title="Fun in the Snow" />	<link rel="next" href="000125" title="Hmm&#8230; want to send me" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>New Server Arrives Today</h1>
+</div>
+
+<div class="content">
+<p>My server comes today! Time to get ready&#8230;<p /><p /><ol><p /><li>Figure out how much swap space I need. <strong>Done:</strong> Morbus says 256MB is reasonable.</li><p /><li>Burn a Debian CD to install from</li><p /></ol></p>
+
+<p class="posted">posted January 17, 2002 03:27 PM (<a class="category" href="cat_"></a>)  <a href="000124" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000123" title="Fun in the Snow">&laquo; prev</a> | <a href="./">up</a> | <a href="000125" title="Hmm&#8230; want to send me">next &raquo;</a></p>
+
+<p><a href="000119">Anyone know if there&#8217;s a</a><br />
+<a href="000120">Sean B. Palmer has started</a><br />
+<a href="000121">The Columbia Small World Project</a><br />
+<a href="000122">Python RSS Parsing Tools</a><br />
+<a href="000123">Fun in the Snow</a><br />
+<strong>New Server Arrives Today</strong><br />
+<a href="000125">Hmm&#8230; want to send me</a><br />
+<a href="000126">Ken Rawlings drops a line</a><br />
+<a href="000127">Validating Radio UserLand</a><br />
+<a href="000128">Several years ago an aunt</a><br />
+<a href="000129">Dave makes a commitment to</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

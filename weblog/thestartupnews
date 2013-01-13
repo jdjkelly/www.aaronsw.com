@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>The Startup News (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>The Startup News</h1>
+
+<p>New from me: <a href="http://thestartupnews.com/">The Startup News</a>, featuring the latest news about Google, Yahoo, various new startups, acquisitions, funding, and all that jazxz, in a concise easy-to-read format.</p>
+
+<p><em>Plus:</em> <a href="http://startupschool.infogami.com/Presentations">MP3s, slides, and podcasts from the Y Combinator Startup School</a>.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">October 26, 2005</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>I like that they offer podcasts but found that teh print format was easy to understand.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.ashleybowers.com">Ashley Bowers</a>
+ on November 24, 2005 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>What are eForms?</p>
+
+<p>eForms allow digital documents to be served on the internet and organisations can sign and countersign them to reach a legal agreement. They can be routed to the right people through workflow systems to the right people/processes.</p>
+
+<p>More and more legal and financial companies are looking at eForms to eliminate the paperwork, related costs and errors.</p>
+
+<p>Metaaso eforms is a java based solution. (http://www.metaaso.com )</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.metaaso.com">Ankit Mehta</a>
+ on May 27, 2006 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="thestartupnews" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

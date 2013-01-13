@@ -1,0 +1,343 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Stanford: Day 8 (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001425.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001424" title="[REDACTED] Update" />	<link rel="next" href="001426" title="Stanford: Day 9" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Stanford: Day 8</h1>
+</div>
+
+<div class="content">
+<p>Now came the big decision. What classes to take? Since looking for classes in topics I was interested in didn&#8217;t work too well, I decided to try a different tack. I went to the bookstore, looked for books that looked interesting, and wrote down what courses they were for. After investigating these and paring them down, I ended up with:</p>
+
+<p>Accelerated Computer Programming (CS106x) <br />
+American Sign Language <br />
+Introduction to Sociology <br />
+Introduction to the Humanities: Freedom Equality Difference (required) <br />
+Noam Chomsky: The Drama of Dissent  </p>
+
+<p>Unfortunately, that&#8217;s apparently more classes than you can take. (For my own good, I guess.) So I&#8217;m going to visit them all and see if I want to drop one (apparently called &#8220;shopping&#8221;).</p>
+
+<p>I grab breakfast (it turns out they don&#8217;t close early, they just move the door to another side of the room &#8212; how stupid is that?) and head to my first class: CS. I wanted to take a SICP course, the MIT-based text that teaches programming through the mind-expanding LISP, but they don&#8217;t have it. The only thing close is CS107, which has CS106 has a pre-req &#8212; and, oh man, I just noticed this, Blake Ross is a TA there. So perhaps I will doom myself with more computer programming.</p>
+
+<p>The class in in Skilling Auditorum, which gets <a href="http://www.tmbw.net/wiki/index.php/Sokol_Auditorium">the excellent song Sokol Auditorium</a> stuck in my head. The audience has a handful of girls &#8212; maybe seven out of 50-100. Still, it&#8217;s an improvement, I guess. Some might say the reason so few girls apply to CS is because of comments like those made by the kids behind me, about who would get more &#8220;hot CS girls&#8221; to sit next to them, and whether a &#8220;hot CS girl&#8221; was even possible.</p>
+
+<p>The class is broadcast over TV to surrounding companies, so what appears to be an auto-following camera tracks the professor overhead. Somewhere away from here (there is no room for a booth) a guy controls the lights and cuts between the various cameras in the room to produce the show live. (<a href="http://scpd.stanford.edu/scpd/students/DAM_UI/pages/CourseInfo.asp?URL=http://stanford-online.stanford.edu/xml/autumn2004/cs106xcourse.xml">You can watch it, or at least I can.</a>) Since he doesn&#8217;t seem to take questions (that&#8217;d slow things down, I guess), I&#8217;m not sure why I shouldn&#8217;t just watch the show on TV.</p>
+
+<p>I can sort of see why they made it a TV show. The professor talks really fast, filling his comments with humorous asides that you only get a couple minutes later, when he&#8217;s already on the next chapter. &#8220;If I could not grade, I would, but I can&#8217;t, so I won&#8217;t,&#8221; he says quickly. I want to ask him exactly what he means (can&#8217;t he just pick a grade at the end of the term to placate Stanford and get rid of all the intermediate ones? or give everyone As, like Demming?).</p>
+
+<p>We also learn that CS has more honor code violations than the rest of the university combined, which he attributes to the fact that they use automated software to catch them. If he doesn&#8217;t want to grade, why does he want to catch honor code violations? Apparently you can get suspended for simply showing your code to another student. Way to teach cooperation, geniuses!</p>
+
+<p>Apparently also unaware of the volumnous research that has shown rewards for an activity to lower the motivation to do the same activity, he offers candy to anyone who participates in class. Although, I guess if you want to train people to shut up, this isn&#8217;t such a bad strategy&#8230;</p>
+
+<p>Next is American Sign Language. I&#8217;m taking ASL, I tell people only half-joking, because it&#8217;s the only language where it&#8217;s not the other person&#8217;s fault that they don&#8217;t speak English. This is sort of rude, but as the world increasingly speaks English, it seems like the most efficient use of my time.</p>
+
+<p>Here the audience&#8217;s gender is reversed. There are almost 20 girls and only three or four guys (and even they look a little effeminate). I wonder if this is because girls (and presumably effem guys) have more empathy, and thus empathize with deaf people or something. Maybe it&#8217;s because they&#8217;re visual thinkers?</p>
+
+<p>It turns out the teacher to our course is actually deaf. Today we have an interpreter, but that&#8217;s for today only. (It will be interesting to see how that works out.) It turns out sign language is really a fascinating language, full of cruel puns (&#8220;pastuerized milk&#8221; is signed by moving the sign for milk past-your-eyes) and beautiful imagery. As the teacher shows us what signs mean, they translate from elegant wavings of the hands to some sort of beautiful pantomime. As she signs the words, you can truly see the events she&#8217;s describing around her. Now she&#8217;s in the car, on the phone, behind a cow, turned into a cat &#8212; it&#8217;s an amazing sight.</p>
+
+<p>It&#8217;s over all too soon, and as I walk back to class I begin to reflect on how I see different people. I begin to realize that however much I hate predjudice at a conscious level, I am nonetheless extemely predjudiced. At my CS class, my eyes just passed over the large number of foreign and asian students to land on mostly white ones (black ones too, occasionally). My asian neighbor tried to make conversation with me and even though he had no accent, because of his face I imagined that he did. Had he been white, there is no question I would have started talking to him about stuff, but instead I brushed him off. I begin to wonder how many people I&#8217;ve skipped over looking for places to sit in the cafeteria and elsewhere.</p>
+
+<p>And deaf people: despite consciously feeling sympathy for them, I&#8217;ve also treated them badly. They&#8217;re just a little weird, with their pops and grunts and handwaving. When we invest so much on getting to know people based on conversation, what do we do with people who talk different? I didn&#8217;t have these problems on the Net, where the major differentiator was whether you talked in capital letters or not.</p>
+
+<p>I can&#8217;t explain these predjudices &#8212; are they just the natural result of being around a lot of white people? I certainly can&#8217;t pinpoint anything in my environment as inducing such feelings. I watched <em>the West Wing</em>, where a deaf woman was my favorite character, Foreign faces are all over TV and movies. And yet I still behave like this. How can anyone say we&#8217;re past racism?</p>
+
+<p>My reverie is interrupted by the gang of LaRouchies which has formed on our campus. I try to understand what they stand for, but it&#8217;s tough to get a straight answer out of them. Still they seem nice enough, and they&#8217;re certainly dedicated and hardworking &#8212; by the time I get to my room they have distributed a pamphlet or four to every room (presumably in every dorm). They sell books like &#8220;Spawn of Satan II: The People Running the Bush Administration&#8221;, which make them sound a little crazy, but from what I&#8217;ve read they sound like pretty normal liberals.</p>
+
+<p>That night I head up to San Francisco for my friend Seth David Schoen&#8217;s birthday party. It&#8217;s nice being able to do these things here in California and it&#8217;s great to see all these people. Who needs friends when you&#8217;ve got baby bullet Caltrain?</p>
+
+<p class="posted">posted September 28, 2004 12:24 PM (<a class="category" href="cat_education">Education</a>) (<a href="#comments">19 comments</a>) <a href="001425" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001424" title="[REDACTED] Update">&laquo; prev</a> | <a href="./">up</a> | <a href="001426" title="Stanford: Day 9">next &raquo;</a></p>
+
+<p><a href="001420">Stanford: Night 2</a><br />
+<a href="001421">Stanford: Day 3</a><br />
+<a href="001422">Stanford: Day 4</a><br />
+<a href="001423">Stanford: Day 5</a><br />
+<a href="001424">[REDACTED] Update</a><br />
+<strong>Stanford: Day 8</strong><br />
+<a href="001426">Stanford: Day 9</a><br />
+<a href="001427">Stanford: Day 10</a><br />
+<a href="001428">Stanford: Day 11</a><br />
+<a href="001429">Stanford: Day 12</a><br />
+<a href="001430">Stanford: Day 14</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c2926">
+
+<p>ASL rocks.  Grab a copy of Klima and Bellungi&#8217;s (sp?) <i>The Signs of Language</i>, a book about ASL grammatical structures, to get a taste of what&#8217;s in store.</p>
+
+<p>I suspect that most of your ASL classmates are women because a number of them are interested in becoming sign-language interpreters, teachers of deaf children, or otherwise &#8220;helping&#8221; deaf people.</p>
+
+<p>I actually got a master&#8217;s in deaf education before discovering that (a) my classroom-management skills are, shall we say, weak; (b) salaries for deaf-ed teachers in Boston are incompatible with the cost of housing in Boston.  So I went into IT.  But I regret that I&#8217;m not in a position where I can spend much time practicing and improving my ASL.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://dynamic.ropine.com/yo/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2926">Seth Gordon</a> at September 28, 2004 01:58 PM <a href="#c2926">#</a></p>
+
+</div><div id="c2927">
+
+<p>You could definitely take 107, prerequisites are usually more like recommendations and not strictly enforced. 106X is good for meeting motivated freshmen, but if you really want to take 107, you&#8217;ll probably be OK.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.stanford.edu/~csar/blog/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2927">Can Sar</a> at September 28, 2004 02:30 PM <a href="#c2927">#</a></p>
+
+</div><div id="c2928">
+
+<p>Sadly our minds can only store and process knowledge in categories :(. Stereotypes are a necessary evil. Just learn to acknowledge them without the negative connotation. You may see a deaf person as a challenge to get to know, or practice for class. That seems a little inhumane but it takes a little trickery to get passed centuries of conditioning. Something i found in my first couple of years at school was that i bacame very judgemental as the need to find &#8220;my place&#8221; amongsts these thousands of peers become necessary. I have since realized my place is with all of these people, we are all human beings struggling with the same dilema, whether on a shallow level or deep is beside the point. I then learned to not judge people but to seek out stimulation. Slowly but surely i hope to develop a ring of people that inspire my mind and vice versa. I am at a new school and starting over knowing nobody&#8230; i know it is tough. </p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.tesm.net" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2928">Jeff</a> at September 28, 2004 03:02 PM <a href="#c2928">#</a></p>
+
+</div><div id="c2930">
+
+<p>(from  my blog entry at http://weblogs.mozillazine.org/zach/archives/006587.html)</p>
+
+<p>I was reading Aaron Swartz&#8217;s (who I know from my LinuxWorld Fun Times) great series on starting at Stanford and started looking over his latest entry: Stanford: Day 8 when I noticed this bit:</p>
+
+<pre>The only thing close is CS107, which has CS106 has a pre-req — and, oh man, I just noticed this, Blake Ross is a TA there.
+</pre>
+
+<p>Blake: meet Aaron. Aaron: meet Blake. From my limited experience with both of them, I have a funny feeling that these two genius geeks may have something in common. </p>
+
+<p class="posted">posted by <a target="_blank" title="http://blog.zachlipton.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2930">Zach Lipton</a> at September 28, 2004 07:49 PM <a href="#c2930">#</a></p>
+
+</div><div id="c2931">
+
+<p>The honor code stuff is entirely up to a prof (or a department). We do collaborative stuff all the time; professors will usually specify with us &#8220;you have to do this problem set by yourself&#8221; or &#8220;you can work together.&#8221;</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.grahamazon.com/anatomy" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2931">Graham</a> at September 28, 2004 08:21 PM <a href="#c2931">#</a></p>
+
+</div><div id="c2932">
+
+<p>I also took CS106x in the Fall of my freshman year, and like you, I took it with Mehran Sahami. Mehran is a brilliant and fun professor. He&#8217;s also a senior researcher at Google. I think your disparaging comments missed the mark. First, Mehran will answer any question you have, at any time. Second, his candy is just a lighthearted and fun way to spice up the class; actually, watching Mehran hit the overhead projector or completely miss his target is more fun than the candy itself. I think you&#8217;re reading way too much into it. Having taken 106X and then TA&#8217;d it the following two quarters, I can attest to the incredible dedication of its students. And lastly, I promise you that you&#8217;ll never be suspended if you show your code to another student. Please save the &#8220;Way to teach cooperation, geniuses!&#8221; stuff until you&#8217;ve actually completed a quarter here and are informed enough to make sweeping statements. I&#8217;ll admit I had my reservations about Stanford CS but they were quickly dispelled; it&#8217;s a very competent department.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.blakeross.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2932">Blake</a> at September 28, 2004 08:35 PM <a href="#c2932">#</a></p>
+
+</div><div id="c2933">
+
+<p>See, Mehran probably isn&#8217;t white, so our little Aaron probably just dismissed him outright.  Even though he hates so many aspects of humanity, he embodies quite a few of them.  This is what you get when you stay under mommy&#8217;s protective umbrella.</p>
+
+<p>A &#8220;genius&#8221; is someone who can figure out another use for markup?  Come on.  Anyone can meet &#8220;famous geeks.&#8221;  This is just too much.  Deleting this disparaging little bastard from my NetNewsWire.  Adios&#8230;</p>
+
+<p class="posted">posted by  at September 28, 2004 09:05 PM <a href="#c2933">#</a></p>
+
+</div><div id="c2934">
+
+<p>Blake wrote, &#8220;I promise you that you’ll never be suspended if you show your code to another student.&#8221;</p>
+
+<p>Are comments on weblogs binding and legal, according to the Stanford University Computer Science Honor Code?</p>
+
+<p>Wouldn&#8217;t it be sweet if they actually are?</p>
+
+<p class="posted">posted by <a target="_blank" title="http://ifindkarma.typepad.com/relax/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2934">Adam</a> at September 28, 2004 09:57 PM <a href="#c2934">#</a></p>
+
+</div><div id="c2935">
+
+<p>I think Mehran said &#8220;Happy&#8221; close to a billion times in that lecture.</p>
+
+<p class="posted">posted by d8uv at September 28, 2004 10:20 PM <a href="#c2935">#</a></p>
+
+</div><div id="c2937">
+
+<blockquote>&#8220;A “genius” is someone who can figure out another use for markup? Come on. Anyone can meet “famous geeks.” This is just too much. Deleting this disparaging little bastard from my NetNewsWire. Adios…&#8221;</blockquote>
+
+<p>I&#8217;m not sure if you are attacking my use of the word &#8220;genius&#8221; or not here (though really I should stop replying to anonymous posters in all fourms all together), but I figured I ought to reply. In my experience, Aaron and Blake are two very smart and interesting people, or in other words, people showing &#8220;extraordinary intellectual and creative power.&#8221; (For those in the slow class, that&#8217;s the definition of genius). I personally couldn&#8217;t care less if they are famous or not. My comment has nothing to do with &#8220;figuring out another use for markup,&#8221; whatever you may mean by that. </p>
+
+<p>As for your insult, I cannot even tell who you are trying to insult. Me? Aaron? Blake? As such, I won&#8217;t bother to respond. </p>
+
+<p class="posted">posted by <a target="_blank" title="http://blog.zachlipton.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2937">Zach Lipton</a> at September 28, 2004 10:33 PM <a href="#c2937">#</a></p>
+
+</div><div id="c2938">
+
+<p>I think it&#8217;s good Aaron is willing to discuss his shortcomings so openly.</p>
+
+<p>Who&#8217;s closed-minded, for not joining in that conversation?  </p>
+
+<p>Anon might as well have said, &#8220;Oh, he&#8217;s just a bigoted white prick, and nothing he has previously said was of any value.  Sayonara.&#8221;</p>
+
+<p class="posted">posted by Jeremy Dunck at September 28, 2004 10:51 PM <a href="#c2938">#</a></p>
+
+</div><div id="c2939">
+
+<p>Regarding language, I could make a case for Japanese. I don&#8217;t speak it myself, but I could see it being very useful for untranslated Anime and Manga :-)</p>
+
+<p>Spanish could be very useful in certain parts of the US.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://sethf.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2939">Seth Finkelstein</a> at September 28, 2004 11:16 PM <a href="#c2939">#</a></p>
+
+</div><div id="c2941">
+
+<p>Adam, what would it matter if they were? I&#8217;m not the authority that decides who gets suspended.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.blakeross.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2941">Blake</a> at September 29, 2004 12:43 AM <a href="#c2941">#</a></p>
+
+</div><div id="c2942">
+
+<p>Illuminating to see a discussion on hidden prejudice. Most people dont realise how deeply ingrained it is. </p>
+
+<p>For example, you say your asian neighbour had &#8220;no accent&#8221;. You probably mean he had an american accent? A native asian probably has as much trouble understanding an american as vice versa. </p>
+
+<p>So yes, its disingeneous to state that anyone&#8217;s past racism. You&#8217;ll be surprised at how often I (an asian) find  the seat next to me empty on a bus or a train in western country. </p>
+
+<p class="posted">posted by Anon at September 29, 2004 02:27 AM <a href="#c2942">#</a></p>
+
+</div><div id="c2943">
+
+<p>( Shortened URL to that lecture embedded in a page: <a href="http://xrl.us/c9hs">http://xrl.us/c9hs (Link to scpd.stanford.edu)</a> )</p>
+
+<p class="posted">posted by <a target="_blank" title="http://robertbrook.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2943">Robert Brook</a> at September 29, 2004 04:29 AM <a href="#c2943">#</a></p>
+
+</div><div id="c2947">
+
+<p>Blake wrote, &#8220;Adam, what would it matter if they were? I’m not the authority that decides who gets suspended.&#8221;</p>
+
+<p>Point well-taken.  I believe it was Ralph Waldo Emerson who said, &#8220;One man&#8217;s justice is another&#8217;s injustice; one man&#8217;s beauty is another&#8217;s ugliness; one man&#8217;s wisdom another&#8217;s folly.&#8221;</p>
+
+<p>In the meantime, I will continue to fight for truth, justice, and my own enjoyment&#8230;</p>
+
+<p class="posted">posted by <a target="_blank" title="http://ifindkarma.typepad.com/relax/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2947">Adam</a> at September 29, 2004 12:26 PM <a href="#c2947">#</a></p>
+
+</div><div id="c2958">
+
+<p>Re &#8220;that’s apparently more classes than you can take,&#8221; yes, it&#8217;s more than the norm, but since when did you give a flip about norms? 1/2 ;-)</p>
+
+<p>Which do you value most: good grades? free time? intellectual stimulation? graduating on schedule?</p>
+
+<p>If you take more classes, you put your grades at risk; that is: with few enough classes, you&#8217;ll have time to do even the parts of the homework and studying that you <em>don&#8217;t</em> find stimulating but that are necessary to keep top grades. And you risk not having much free time.</p>
+
+<p>If graduating on schedule matters, start looking at the critical path now. At U.T. Austin the C.S curriculum was 3.5 years deep, so you only had one semester of contingency if you wanted to get out in 4.</p>
+
+<p>More classes is no guarantee of more intellectual stimulation, but I think the correlation is positive. Hmm&#8230; on the other hand, some of the most stimulating times I had were sitting on the roof with friends, <em>not</em> doing anything related to classes.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.w3.org/People/Connolly/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2958">Dan Connolly</a> at September 30, 2004 09:11 PM <a href="#c2958">#</a></p>
+
+</div><div id="c3192">
+
+<p>wow&#8230; flashbacks to many classes on the farm.  Skilling was not my favorit room.  7 girls in a cs class.  that&#8217;s unbelievably high.  go take psych 60 :)</p>
+
+<p class="posted">posted by kurt at October 24, 2004 08:55 PM <a href="#c3192">#</a></p>
+
+</div><div id="c3327">
+
+<p>Tsk, tsk, Aaron. You are coming off as a bit of a bigot on this weblog. I surmise one of the following is the case: you are either forthcoming and knowingly blunt, in which case good for you; you are surprised at comments such as this, in which case there may be a thing or two to learn. The upshot is: both eventualities have upsides. </p>
+
+<p class="posted">posted by agon at November  2, 2004 04:13 PM <a href="#c3327">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001425.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1425" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

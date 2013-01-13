@@ -1,0 +1,190 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Stanford: Limerick (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001594.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001593" title="Stanford: Allergic Reactions" />	<link rel="next" href="001595" title="Stanford: Psychology is a Fraud" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Stanford: Limerick</h1>
+</div>
+
+<div class="content">
+<p class="dateline">February 7</p>
+
+<p>Kat interrupts me from updating this blog and writes a limerick:</p>
+
+<p>There once was a boy named Aaron <br />
+Who studies stuff like file sharin&#8217; <br />
+Though his days were fraught <br />
+With lots o&#8217; intense thought <br />
+The sight of a Skittle would scare &#8216;im</p>
+
+<p>I make more verbal errors around Kat than everyone else combined.</p>
+
+<p class="dateline">February 8</p>
+
+<p>I use the phrase &#8220;My friend and I were actually discussing this last night&#8221; three times today, with reference to at least two different people, which implies I have at least some friends.</p>
+
+<p class="posted">posted February 27, 2005 01:56 AM (<a class="category" href="cat_education">Education</a>) (<a href="#comments">2 comments</a>) <a href="001594" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001593" title="Stanford: Allergic Reactions">&laquo; prev</a> | <a href="./">up</a> | <a href="001595" title="Stanford: Psychology is a Fraud">next &raquo;</a></p>
+
+<p><a href="001589">Stanford: Shocking</a><br />
+<a href="001590">Stanford: Sanity</a><br />
+<a href="001591">David Horowitz on Academic Freedom</a><br />
+<a href="001592">Stanford: Reach Out and Hug Someone</a><br />
+<a href="001593">Stanford: Allergic Reactions</a><br />
+<strong>Stanford: Limerick</strong><br />
+<a href="001595">Stanford: Psychology is a Fraud</a><br />
+<a href="001597">Jimbo Wales on Wikipedia</a><br />
+<a href="001596">Stanford: Roosevelt Institution Kickoff Party</a><br />
+<a href="001600">Stanford: You Really Don&#8217;t Have To Read This</a><br />
+<a href="001598">What can you say to that?</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c4041">
+
+<p>That&#8217;s exactly what this world needs. Intellectual/geek limericks. I wrote a one about the RDF data model.</p>
+
+<p>RDF graphs aren&#8217;t trees;<br />
+Rather, many groups of nodes three.<br />
+&nbsp;&nbsp;The Object of a triple<br />
+&nbsp;&nbsp;Is permissibly literal,<br />
+But S is a resource, as is P.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.adamatlas.org" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=4041">Adam</a> at February 27, 2005 11:58 AM <a href="#c4041">#</a></p>
+
+</div><div id="c4347">
+
+<p>Really Pedantic Comment: &#8220;&#8216;im&#8221; ends with &#8220;m&#8221;, not &#8220;n&#8221;&#8230; :-#</p>
+
+<p>Here&#8217;s something I wrote a while back (and someone else polished), in response to one of those &#8220;anti-establishment poems&#8221;. I can at least be proud of the fact that it (as well as the original) closely follows the standard limerick stress and rhyme pattern:</p>
+
+<p>Oh Eddy your poems don&#8217;t rhyme,<br />
+And nor are verses sublime.<br />
+&nbsp; If poems aren&#8217;t nice,<br />
+&nbsp; They&#8217;re treated as lice;<br />
+Th&#8217; Establishment&#8217;s guiltless this time.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://mncw.tk/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=4347">bi</a> at March 11, 2005 05:24 AM <a href="#c4347">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001594.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1594" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

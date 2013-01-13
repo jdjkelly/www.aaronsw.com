@@ -1,0 +1,401 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Nader&#8217;s Negligence (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/001160.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001158" title="The Furious Rise of the Anonymous Writer" />	<link rel="next" href="001166" title="Campaign Finance Reform: The Problem and Solution" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Nader&#8217;s Negligence</h1>
+</div>
+
+<div class="content">
+<p><a href="http://www.lessig.org/blog/archives/001714.shtml#001714">Lawrence Lessig thoughtfully argues</a> that Nader should be held responsible for Bush&#8217;s presidency, under a theory of liability. And <a href="http://archive.scripting.com/2004/02/05#When:10:13:28AM">Dave Winer correctly points out</a> that Gore&#8217;s uninspiring candidacy lost him the election, not Nader&#8217;s voters. (Take note, it&#8217;s rare I side with Dave against Larry!) But even taking Lessig&#8217;s claim &#8212; that Nader&#8217;s candidacy was responsible for Bush&#8217;s reelection, and he should be held accountable for that &#8212; at face-value, he seems to be forgetting the First Amendment.</p>
+
+<p>As Nader said (<a href="http://lessig.org/blog/archives/001713.shtml">and Lessig obviously heard</a>), running for President is a First Amendment right, involving speech, press, association, and petitioning the government. And in America, we value our First Amendment rights more than the harm that they may cause.</p>
+
+<p>What if Lessig&#8217;s advocacy led the Supreme Court to retroactively overturn numerous old copyright extensions. Can the former copyright holders hold him accountable for taking their &#8220;property&#8221;? After all, had he not argued they&#8217;d continue to make millions.</p>
+
+<p>The idea is absurd. This theory of &#8220;negligence&#8221; for the effects of your actions don&#8217;t make sense when the action is speech. Voters, like Supreme Court Justices, get to make up their own minds. And, for whatever reason Ralph ran (and, <a href="http://www.aaronsw.com/weblog/001119">as I&#8217;ve argued here before, he may well have had a valid reason</a>), he should be allowed to make his case. Punishing people for the effects of their speech is both legally and morally wrong.</p>
+
+<p>The real beef, it seems, is with those voters who dared to make up their minds for themselves, instead of doing what the thoughtful two-party duopoly had decided was best for them. But it&#8217;s not the voters who are being lectured here, it&#8217;s Nader, who&#8217;s being asked to unilaterally drop out of the race. As Nader has explained (in his book on the race), that was not his choice to make. Numerous people had poured their money and energy into his campaign, he couldn&#8217;t throw that all away when they still cared so much.</p>
+
+<p>But Lessig&#8217;s analysis ignores the hardworking campaign staff, campaign contributors, and the voters in his analysis. Instead, all it sees is a zero-sum battle of titans. And when three people on that stage cause problems, he wants to narrow the field to two. And neither the people nor the First Amendment seem to stand in the way.</p>
+
+<p class="posted">posted February 05, 2004 12:35 PM (<a class="category" href="cat_politics">Politics</a>) (<a href="#comments">23 comments</a>) <a href="001160" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001158" title="The Furious Rise of the Anonymous Writer">&laquo; prev</a> | <a href="./">up</a> | <a href="001166" title="Campaign Finance Reform: The Problem and Solution">next &raquo;</a></p>
+
+<p><a href="001143">The Media vs. The Facts</a><br />
+<a href="001144">Trippi Dumps Dean</a><br />
+<a href="001148">rss2email</a><br />
+<a href="001149">The Trippi Story</a><br />
+<a href="001158">The Furious Rise of the Anonymous Writer</a><br />
+<strong>Nader&#8217;s Negligence</strong><br />
+<a href="001166">Campaign Finance Reform: The Problem and Solution</a><br />
+<a href="001168">Third Parties: Why They Spoil and How to Stop It</a><br />
+<a href="001171">Gerrymandering: How Politicians Steal Votes and You Can Return Them</a><br />
+<a href="001173">Up is Down: How Stating the False Hides the True</a><br />
+<a href="001174">Down is Up: What This Stuff Is</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c475">
+
+<p>If Nader hadn&#8217;t run, Gore would have gotten enough votes for an uncontestable victory in Florida and a majority of the electoral votes. Period.</p>
+
+<p>You can if-and-or-but it with complaints about Jeb Bush, Katherine Harris, butterfly ballots, disqualified voters, networks calling the election too early, a conservative Supreme Court, Gore&#8217;s crappy campaign, the Dems losing all southern states, the Skull-and-Bones/Likud conspiracy to take over the globe, and a million other reasons &#8220;why&#8221; Bush is president &#8230;</p>
+
+<p>But if Nader hadn&#8217;t run, none of that would have mattered.</p>
+
+<p class="posted">posted by <a href="http://www.joegrossberg.com">Joe Grossberg</a> at February  5, 2004 01:15 PM <a href="#c475">#</a></p>
+
+</div><div id="c476">
+
+<p><i>As Nader has explained (in his book on the race), that was not his choice to make. Numerous people had poured their money and energy into his campaign, he couldn’t throw that all away when they still cared so much.</i></p>
+
+<p>It seems to me that this is what Nader did in 2000 by drawing votes from Gore. Nader may have thought that in the end he was helping the Greens and the progressive cause, but Bush&#8217;s election and presidency has pretty much demolished any progressive gains that Nader may have brought. He thought that he was taking one step forward, but ended up taking two steps back. </p>
+
+<p>As for the argument that the people at fault here are the voters, I agree to an extent. The voters did choose Bush and rejected Gore, but was that really the case in Florida? Would the Nader people in Florida voted for Gore enough to remove the ultimate uncertainty (error in measurement) of the outcome of that election? I don&#8217;t know, but I would be more willing to place a bet that a Nader-less Florida would have gone Gore instead of having gone to Bush. Don&#8217;t forget that there were similarily close states elsewhere (such as NM).</p>
+
+<p>Anyways, I don&#8217;t see the first amendment here, either. Nader can run, and we would be foolish to have gov&#8217;t prohibit that. However, we can remind him that it would be foolish, assuming that he is interested in advancing progressive causes.</p>
+
+<p class="posted">posted by <a href="http://aetherial.nu">Chris Karr</a> at February  5, 2004 01:28 PM <a href="#c476">#</a></p>
+
+</div><div id="c477">
+
+<p>How has Bush &#8220;demolished any progressive gains that Nader may have brought&#8221;? Quite the contrary, it seems. I suspect many more voters would vote for Nader (in a Nader v. Bush race) than in 2000. </p>
+
+<p>My point was that if a Nader-less Florida would have gone to Bush, then you should complain to Nader-voting Floridians, not Nader.</p>
+
+<p class="posted">posted by <a href="http://www.aaronsw.com/">Aaron Swartz</a> at February  5, 2004 01:56 PM <a href="#c477">#</a></p>
+
+</div><div id="c478">
+
+<p><i>Quite the contrary, it seems. I suspect many more voters would vote for Nader (in a Nader v. Bush race) than in 2000.</i></p>
+
+<p>I disagree completely. After finding out that Bush == Gore is not exactly true with respect to the Patriot Act, John Ashcroft, Clean Skies, and so forth, any sensible Nader voter who voted Nader in 2000 will be voting Democrat. (Making the assumptions that Nader voters are progressives, and not merely interested in dismantling the Democratic party regardless of the cost.) Given that the US does not have a parliamentary system, and there&#8217;s no way in hell Nader can win, the only logical and strategic choice for a progressive voter is to vote for the candidate on the more progressive side of Bush that can plausibly win.</p>
+
+<p>Also above, there will not ever be a Nader v. Bush race. The race will be &#8220;Democrat&#8221; v. Bush. Given Nader&#8217;s position on the political spectrum, he only serves to cannabalize the votes for the more centrist candidate (between Bush and Nader), leading to a result farther than his political position than had he supported Bush&#8217;s challenger.</p>
+
+<p class="posted">posted by <a href="http://aetherial.nu">Chris Karr</a> at February  5, 2004 02:25 PM <a href="#c478">#</a></p>
+
+</div><div id="c479">
+
+<p>The issue isn&#8217;t rights, it is tactics. Of course it is Ralph Nader&#8217;s right to run for office.  The question is whether he&#8217;ll achieve any goal in doing so.  Naderites argued in 2000 that there was no difference between Bush and the Democratic candidates. It is much more difficult to make that argument this year when you look at the results of a Bush administration in foreign and domestic policy.</p>
+
+<p>Free speech rights protect intelligent and stupid speech equally, but that doesn&#8217;t mean that it&#8217;s a good idea to say dumb things or advocate foolish actions.</p>
+
+<p class="posted">posted by <a href="http://www.alevin.com/weblog">Adina Levin</a> at February  5, 2004 02:45 PM <a href="#c479">#</a></p>
+
+</div><div id="c480">
+
+<p>Aaron wrote: <i>My point was that if a Nader-less Florida would have gone to Bush, then you should complain to Nader-voting Floridians, not Nader.</i></p>
+
+<p>Personally, I have a hard time blaming a citizen for voting his conscience.  That he can screw himself over by doing so is to me an indictment of the system, not the voter.</p>
+
+<p class="posted">posted by Tom at February  5, 2004 02:54 PM <a href="#c480">#</a></p>
+
+</div><div id="c481">
+
+<p>The problem is that states don&#8217;t allocate their 
+electoral college candidates proportionally.  My 
+understanding is that they could (i.e., it&#8217;s up to the states how they do this), so why don&#8217;t they?  <em>That&#8217;s</em> the real problem with the US system for electing the President.  </p>
+
+<p>It would have completely removed the problem with the Florida count, and it would have perhaps allowed some number of Naderites to go to the college.  Once there, they would presumably have cut a deal with the Democrats and voted with them for Gore.</p>
+
+<p>It would also mean there was some sense in voting for a candidate even if you were living in a state that was “safe” for the other side.  In the last elections, Republican votes in California and Democrat votes in Florida made no impact on the result.  Is that fair?</p>
+
+<p class="posted">posted by <a href="http://corollary.artefact.org.nz">Michael Norrish</a> at February  5, 2004 04:18 PM <a href="#c481">#</a></p>
+
+</div><div id="c482">
+
+<p>Aaron, I think the argument that criticism of Nader somehow infringes on his First Amendment rights is so silly that it is far beneath you.</p>
+
+<p>It&#8217;s so silly that I <a HREF="http://peterb.telerama.com/weblog/archives/000011.html">wrote a rejoinder.</a></p>
+
+<p class="posted">posted by <a href="http://peterb.telerama.com/weblog">Peter Berger</a> at February  5, 2004 07:14 PM <a href="#c482">#</a></p>
+
+</div><div id="c483">
+
+<p>Since both Peter Berger and Jeff Bone somehow misread me, let me be clear:</p>
+
+<p>I do not think criticizing Nader or asking him not to run infringes his First Amendment rights.</p>
+
+<p class="posted">posted by <a href="http://www.aaronsw.com/">Aaron Swartz</a> at February  5, 2004 07:23 PM <a href="#c483">#</a></p>
+
+</div><div id="c484">
+
+<p>I&#8217;ve edited the post to make this more clear.</p>
+
+<p class="posted">posted by <a href="http://www.aaronsw.com/">Aaron Swartz</a> at February  5, 2004 08:46 PM <a href="#c484">#</a></p>
+
+</div><div id="c487">
+
+<p>[I posted this on Lessig&#8217;s blog, but I suppose it&#8217;s worth posting here too]</p>
+
+<p>Many straws go into breaking a camel&#8217;s back. And each individual straw can say:</p>
+
+<p>&#8220;Who me? Wasn&#8217;t me. I&#8217;m just one straw! What sort of a big strong camel is this, if he can&#8217;t deal with one more straw on his back? The solution is to get a better camel!&#8221;</p>
+
+<p>Media smears such as the <a href="http://sethf.com/gore/">Al Gore &#8220;invented the Internet&#8221;</a> fabrication were one straw. <a href="http://observer.guardian.co.uk/business/story/0,6903,409137,00.html">ChoicePoint was another straw</a>. And <a href="http://www.abc.net.au/worldtoday/s206942.htm">Ralph Nader was yet another straw</a>.</p>
+
+<p>In collective action, how do you allocate responsibility for the <a href="http://www.fec.gov/pubrec/fe2000/prespop.htm">end result</a>?</p>
+
+<p>It&#8217;s certainly true that <em>some</em> Nader voters wouldn&#8217;t be Gore voters. But I think it strains credibility to argue that overall, Nader voters would prefer Bush over Gore!</p>
+
+<p class="posted">posted by <a href="http://censorware.net/articles/01/07/19/0540233.shtml">Seth Finkelstein</a> at February  5, 2004 09:48 PM <a href="#c487">#</a></p>
+
+</div><div id="c488">
+
+<p>The problem is not nader per se. The real problem is the &#8216;plurality&#8217; voting system. It is widely regarded by political scienists as the most &#8216;unfair&#8217; voting system at representing the &#8216;will of the voters&#8217;. There are MANY better systems which would work well and allow third++ party candidates to run valid campaigns. Two of the best include Instant Runoff (IRV) and the Borda Count.</p>
+
+<p>Google them. Get the word out. I&#8217;m serious, this needs to be a major issue nationwide.</p>
+
+<p class="posted">posted by <a href="mailto:bhines@alumni.ucsd.edu">Ben Hines</a> at February  5, 2004 10:27 PM <a href="#c488">#</a></p>
+
+</div><div id="c490">
+
+<p>There&#8217;s also a causation probelm, assumed away by the first commenter&#8217;s opening sentence:</p>
+
+<p>&#8220;If Nader hadn’t run, Gore would have gotten enough votes for an uncontestable victory in Florida and a majority of the electoral votes. Period.&#8221;</p>
+
+<p>Not necessarily.  There were a lot of Nader supporters who regarded Gore as not much different from Bush, and without Nader to draw them to the polls, they would have stayed home.  There&#8217;s also a small percentage of Nader voters who might have voted for Bush over Gore.  The assumption that all of Nader&#8217;s votes would have gone to Gore is provably false.  </p>
+
+<p>The Sonoma County Green Party cites a couple of exit polls upending this fallacy: </p>
+
+<p>&#8220;According to various exit polls (USA Today, The Oregonian, others), second choice among Nader voters was not always Gore, as some Democrats assume.  Polls asked: if Nader were not in the race, whom would you have voted for? Answer: Gore: 43-47%, Bush: 21-23%, neither: 30-36% &#8220;</p>
+
+<p>Link:  http://216.239.39.104/search?q=cache:ssFZUWjj-dAJ:www.sonomagreenparty.org/pdfs/stillblaiming.pdf+nader+voters+second+choice&amp;hl=en&amp;ie=UTF-8</p>
+
+<p>So, as in any negligence case, causation must be proven; here, it seems highly suspect.</p>
+
+<p class="posted">posted by <a href="http://perpetualbeta.com/">Mike</a> at February  6, 2004 10:47 AM <a href="#c490">#</a></p>
+
+</div><div id="c491">
+
+<p>Aaron wrote: &#8220;As Nader has explained (in his book on the race), that was not his choice to make. Numerous people had poured their money and energy into his campaign, he couldn?t throw that all away when they still cared so much.</p>
+
+<p>But Lessig?s analysis ignores the hardworking campaign staff, campaign contributors, and the voters in his analysis. Instead, all it sees is a zero-sum battle of titans. And when three people on that stage cause problems, he wants to narrow the field to two. And neither the people nor the First Amendment seem to stand in the way.&#8221;</p>
+
+<p>As noted by many others, throwing the First Amendment into the discussion is rather pointless because it&#8217;s irrelevant to the real issues and gets picked up by non-lawyers as a rallying point (kinda like how Bush/Ashcroft use the term &#8220;unpatriotic&#8221;).  As a lawyer (an extremely good one, too) Nader should&#8217;ve known better than to bring the First A. into the mix.</p>
+
+<p>My real problem is with the premise that Nader owed it to his supporters to run in 2000 &amp; didn&#8217;t have the option of dropping out.  Are the progressives that supported Nader really better off now that they&#8217;re subject to the Patriot Act &amp; are having their tax dollars spent on an illegal war &amp; occupation?  I don&#8217;t think Lessig&#8217;s analysis is flawed for ignoring Nader&#8217;s supporters.  Under Lessig&#8217;s theory, Nader&#8217;s supporters&#8217; efforts &amp; feelings are insignificant compared to the devastation that was caused by the Bush regime, which the Nader candidacy helped to place into power.  The notion that Nader didn&#8217;t have a choice about running is patently preposterous!! (nuff said about that).</p>
+
+<p>As the candidate, it was Nader&#8217;s responsibility to assess what affect his candidacy would have upon the election.  Obviously, individual voters also bore the responsibility to vote responsibly.  Despite the fact that I have been a Nader-supporter and have previously voted for Nader, I voted for Gore in 2000 cuz I recognized the obvious threat that Bush represented.  Unfortunately, not everyone recognized that threat &amp; it would&#8217;ve been stupid to have assumed that everyone would.  Nader should have recognized that the threat posed by Bush outweighed the goals that he and the Green Party were attempting to achieve by his candidacy (it&#8217;s not like there weren&#8217;t tons of people warning him about it throughout the campaign).  Regardless of whether Nader&#8217;s candidacy actually caused Bush&#8217;s election, Nader still had the responsibility to at least attempt to prevent Bush&#8217;s election by dropping out of the race.  By failing to do his part, Nader royally screwed the pooch &amp; did a great disservice to his country, his supporters, his political causes, and his legacy.</p>
+
+<p class="posted">posted by Paul at February  6, 2004 11:32 AM <a href="#c491">#</a></p>
+
+</div><div id="c492">
+
+<p>The fact is first past the post voting just doesn&#8217;t work. It disregards the choices of a fair percentage of voters. There&#8217;s umpteen systems of proportional representation out there that could and should be applied, be it Single Transferrable Vote or some other system.</p>
+
+<p>If the electoral colleges was abolished, and a straight nationwide vote was taken using PR, the outcome would have more closely resembled the actual preferences of the people.</p>
+
+<p class="posted">posted by <a href="http://talideon.com/">Keith Gaughan</a> at February  6, 2004 01:53 PM <a href="#c492">#</a></p>
+
+</div><div id="c493">
+
+<p>America&#8217;s voting system sucks. It&#8217;s true.</p>
+
+<p>But what are you going to <em>do about it?</em></p>
+
+<p>Elections are about power. Winners have power and can push their agenda. Losers don&#8217;t have power. Period.</p>
+
+<p>I&#8217;m a strong advocate for IRV. But to get IRV, we have to work through the electoral system we have now, because there&#8217;s no other way to change the laws.</p>
+
+<p>So if you support alternate voting systems:</p>
+
+<ol>
+<li>Show up to vote</li>
+<li>Vote in the primaries, including off years</li>
+<li>Work within the two major parties to raise the issue of IRV</li>
+</ol>
+
+<p>Otherwise, nothing will get done. Voting for third parties that can&#8217;t win won&#8217;t get IRV to the forefront. You have to control one or both of the parties to put it on the agenda. </p>
+
+<p class="posted">posted by <a href="http://www.bushout.tv">Luke Francl</a> at February  6, 2004 02:19 PM <a href="#c493">#</a></p>
+
+</div><div id="c494">
+
+<p>Mike:</p>
+
+<p>&#8220;So, as in any negligence case, causation must be proven; here, it seems highly suspect.&#8221;</p>
+
+<p>I would say that an exit poll analysis that:</p>
+
+<ul>
+<li>was sponsored by the least objective party imagineable</li>
+<li>claims over 20% of Nader voters had Bush as their second choice</li>
+<li>is based on bizarre and misleading statistical manipulations</li>
+</ul>
+
+<p>is also highly suspect.</p>
+
+<p class="posted">posted by <a href="http://www.joegrossberg.com">Joe Grossberg</a> at February  6, 2004 02:31 PM <a href="#c494">#</a></p>
+
+</div><div id="c495">
+
+<p>The founders never wanted a party system but it just happened (Jefferson, who once wrote he wouldn&#8217;t go to heaven with a party, essentially formed the first one to oppose Hamilton&#8217;s federalist faction). But what was reactionary has become ingrained and Nader was right in trying to pry the system apart. But he ignored the implications.</p>
+
+<p>I think Nader noted the negligible difference between the Republicans and Democrats (the same moneys control both, which is almost as bad as money having <em>any</em> influence in a republic). So, in some senses, he was aware of his choice: choose me because these two guys suck.</p>
+
+<p>Still, he wasn&#8217;t trying to syphon support, he was trying to get his party recognition and place on future ballots. But drawing support from Gore was not unanticipated. And there is a sure difference between a Gore presidency and the one Bush has had. </p>
+
+<p>It&#8217;s Adam Smith vs. John Nash: Instead of thinking what would (in my estimation) be second best for himself (Gore), Nader chose what would be best for himself (5% to get his party on the ticket). But, because of his individualistic choices, he got neither and got a worse outcome (not the worst, probably, Buchannon was running, after all). </p>
+
+<p class="posted">posted by <a href="http://braxtonian.com">Ry Rivard</a> at February  7, 2004 10:34 PM <a href="#c495">#</a></p>
+
+</div><div id="c496">
+
+<p>Lessig is not punishing Nader, he is just doing what Nader did, expressing what he thinks.  As you suggested, it is the voters that may do the punishing in the upcoming election.  As for me, Nader is not getting a vote from anyone I can sway.</p>
+
+<p class="posted">posted by <a href="http://www.docuverse.com/blog/donpark">Don Park</a> at February  8, 2004 04:42 AM <a href="#c496">#</a></p>
+
+</div><div id="c498">
+
+<p>Joe G.:</p>
+
+<p>I would agree with you if your assumption was true, but it&#8217;s not.  The exit polls were NOT sponsored by the Green Party; they, like almost all exit polls, were sponsored by major media outlets, whose sole interest in exit polls is to get fast snapshots of what&#8217;s truly going to happen once the votes are counted.</p>
+
+<p class="posted">posted by <a href="http://perpetualbeta.com/">Mike</a> at February  9, 2004 01:36 PM <a href="#c498">#</a></p>
+
+</div><div id="c536">
+
+<p>I agree with your position. Asking someone to not run sounds very undemocratic. Remember, Saddam persuaded his opponents not to run and he got a 100% of the votes. Also Ross Perot &#8220;took away&#8221; votes from Bush senior, causing Clinton to win. I don&#8217;t hear any democrats regret that.</p>
+
+<p class="posted">posted by <a href="http://www.geocities.com/churchoffandel">Ricky Vandal</a> at February 14, 2004 02:55 PM <a href="#c536">#</a></p>
+
+</div><div id="c546">
+
+<p>Lessig&#8217;s just saying that Nader should understand the role he played in the election. He&#8217;s not saying Nader should be fined or put in jail.</p>
+
+<p class="posted">posted by <a href="mailto:pb@pb.com">pb</a> at February 16, 2004 10:19 PM <a href="#c546">#</a></p>
+
+</div><div id="c609">
+
+<p>What I want to know is how much is Bush paying Nader to run Block for him?????????????????????? </p>
+
+<p class="posted">posted by <a href="mailto:jerr159@sofnet.com">Terry</a> at February 23, 2004 12:26 PM <a href="#c609">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/001160.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/mt-comments.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1160" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /><br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

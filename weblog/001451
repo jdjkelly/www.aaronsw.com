@@ -1,0 +1,210 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Stanford: Day 42 (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001451.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001450" title="Philip Zimbardo on the Psychology of Evil" />	<link rel="next" href="001452" title="Stanford: Day 43" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Stanford: Day 42</h1>
+</div>
+
+<div class="content">
+<p>The famed computer scientist Donald Knuth is giving a talk today, &#8220;Hooray for Probability Theory!&#8221;. He walks through the audience to the stage wearing blue jeans and two unmatched shirts. On the one hand, he walks among us, dressed like a regular guy. On the other hand, he seems taller than everyone else, as if he floats above mere mortals. His limbs are lanky overlong, swinging through the air like a giant&#8217;s.</p>
+
+<p>He sits down on the desk at an angle, facing one of the cameras taping the event. The pose looks creepily calculated, like a President trying to make you feel like he&#8217;s a regular guy, sitting on his desk, as he opens an instructional film. Knuth opens with a metajoke before explaining he is here to tell us how probability theories quickly solved some problems he&#8217;d been stuck on for a long time (although &#8220;for me a long time is two weeks&#8221;, he says). </p>
+
+<p>He is clearly getting old. He seems a little shaky and stutters when speaking, as if his audio track has cut out, and yet his hands continue gesturing even without the words. He takes his seat behind the desk to begin his talk and an overhead cam projects the contents of his desk onto a large screen next to him. He works by writing his mathematical symbols with a large pen onto a pad of paper, the equations just flowing out of him like water.</p>
+
+<p>Still, the giant hands are disconcerting, the effect is like something out of <em>Being John Malkovich</em> &#8212; it&#8217;s as if you&#8217;re inside Knuth&#8217;s head, seeing what he sees.</p>
+
+<p>Knuth makes a connection between his Faith and his work &#8212; he says he knew he should keep working because &#8220;God wouldn&#8217;t have wanted there to be no easy way to prove [X about] Stirling numbers&#8221;.</p>
+
+<hr />
+
+<p>It&#8217;s time for a Guest Perspective. In an article headlined <a href="http://daily.stanford.edu/tempo?page=content&amp;id=15085&amp;repository=0001_article">Full Moon fun not Absolute, but close</a> the <em>Stanford Daily</em> reported:</p>
+
+<blockquote>
+  <p>Associate Dean of Students and Office of Student Activities Director Nancy Howe said that there were only two incidents of intoxication that required “emergency responses,” down from five last year.</p>
+  
+  <p>[&#8230;]</p>
+  
+  <p>While many students enjoyed the festivities, others felt somewhat alienated by the atmosphere.</p>
+  
+  <p>“It can be off-putting, having a naked girl squeeze your stomach,” said sophomore Matt Smith. “Everyone’s definitely friendly, but there seems to be a little bit of shallowness to it all.”</p>
+</blockquote>
+
+<p>For comparison: <a href="http://www.aaronsw.com/weblog/001448">my report</a>.</p>
+
+<p class="posted">posted October 31, 2004 12:19 PM (<a class="category" href="cat_education">Education</a>) (<a href="#comments">4 comments</a>) <a href="001451" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001450" title="Philip Zimbardo on the Psychology of Evil">&laquo; prev</a> | <a href="./">up</a> | <a href="001452" title="Stanford: Day 43">next &raquo;</a></p>
+
+<p><a href="001445">The Politics of Lying</a><br />
+<a href="001446">Stanford: Day 39</a><br />
+<a href="001448">Stanford: Day 40</a><br />
+<a href="001449">Stanford: Day 41</a><br />
+<a href="001450">Philip Zimbardo on the Psychology of Evil</a><br />
+<strong>Stanford: Day 42</strong><br />
+<a href="001452">Stanford: Day 43</a><br />
+<a href="001454">November Surprise: The Votemaster is Andrew Tanenbaum</a><br />
+<a href="001457">Money and Politics</a><br />
+<a href="001458">The Facts About Money and Politics</a><br />
+<a href="001459">Stanford: Day 45</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c3289">
+
+<p>The great thing about Don Knuth is his faith. If a man of his stature and intelligence has it, that should be a sign to many others that it isn&#8217;t a weakness to have faith in a higher power.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.clrsql.com/weblog" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3289">Randy H.</a> at October 31, 2004 12:33 PM <a href="#c3289">#</a></p>
+
+</div><div id="c3298">
+
+<p>&#8220;If a man of his stature and intelligence has it, that should be a sign to many others that it isn’t a weakness to have faith in a higher power.&#8221;</p>
+
+<p>Ahh, yes, the good old appeal to authority logical fallacy.</p>
+
+<p>Dear God, save me from religious people and their love for logical fallacies. Amen.</p>
+
+<p class="posted">posted by George at November  1, 2004 04:42 AM <a href="#c3298">#</a></p>
+
+</div><div id="c3310">
+
+<p>I wonder what Don Knuth would say about these two comments.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://zooko.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3310">Zooko</a> at November  1, 2004 09:58 AM <a href="#c3310">#</a></p>
+
+</div><div id="c3328">
+
+<p>George:</p>
+
+<p>How&#8217;s this an &#8220;appeal to authority&#8221; logical fallacy?  Randy didn&#8217;t say, &#8220;Knuth believes, and Knuth is smart, so that proves that God exists&#8221;.  Rather, he said (paraphrasing) that &#8220;Knuth believes, and Knuth is smart, so that demonstrates that faith isn&#8217;t necessarily about weakness&#8230;  Even smart people profess to have it.&#8221;  Not proves, or is logically rock solid, or even airtight.  It&#8217;s an observation.</p>
+
+<p>If he&#8217;d said (in a different context) that (1) Kerry is Catholic, and (2) Kerry is the kind of guy that should be running our country, so (3) Catholics must not all be bad, I&#8217;ll bet you wouldn&#8217;t have said a word.</p>
+
+<p>Yet, because Randy&#8217;s talking about real faith (not the made-up babble that Kerry adopted late in his campaign, to win over the people who don&#8217;t see right through his shallowness), you take offense.</p>
+
+<p>Why is that?</p>
+
+<p class="posted">posted by Somebody Anonymous at November  2, 2004 07:59 PM <a href="#c3328">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001451.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1451" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

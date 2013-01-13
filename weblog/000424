@@ -1,0 +1,53 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Reflections on the Keynote (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000423" title="empty jaguar-skin wallet" />	<link rel="next" href="000425" title="i&#8217;m not dead yet" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Reflections on the Keynote</h1>
+</div>
+
+<div class="content">
+<p>Today was a very interesting keynote. There wasn&#8217;t a lot of hardware, but I&#8217;m much more interested in the software anyway. It&#8217;s great to see <a href="http://www.apple.com/ical/">someone finally making Web calendaring a possibility</a>. I really think we&#8217;ll start seeing iCal versions on conferences and other events now that there&#8217;s a client app like this. I think <a href="http://www.apple.com/itunes/">Smart Playlists</a> (aka vFolders) are a great idea, although it&#8217;s a little strange they should first be debuted in iTunes. The <a href="http://www.audible.com/mac/offer">Robin Williams / John Lassetter interview you can get for free</a> is pretty cool too.</p>
+
+<p>More generally, I think that it would be great to have some general base and APIs for the stuff in the iApps. They all are doing some attribute-based storage with fast indexing. I can imagine a lot of apps that could benefit from APIs to do this. (I wonder if hiring the BeFS guy will make this happen, since attribute-based storage is exactly what BeFS did.) It&#8217;d also be cool to have folders and Smart Folders (vFolders) available to all these applications as a component with little custom code. This kind of general data store repository is exactly what I want to do with Memesh, providing specialized views with good interfaces like the iApps provide. But what&#8217;s needed is something to hook them together and make linking easy.</p>
+
+<p><a href="http://www.apple.com/macosx/">Jaguar</a> is incredibly awesome, if expensive. My machine is still under warranty, I should get it free! Oh well, I&#8217;m sure we&#8217;ll buy it any way. It&#8217;s interesting how much Apple is stealing, like great artists do. Sherlock 3 is <a href="http://www.apple.com/macosx/gems/watson.html">Watson</a>, the junk mail filter is SpamAssassin, Address Book and iCal look like Entourage cousins (not to mention <a href="http://www.apple.com/macosx/gems/sbook.html">SBook</a>), Fast Finder was in SNAX or whatever it&#8217;s called, the Windows network viewer is DAVE, iChat is <a href="http://www.adiumx.com/">Adium</a>, Backup is somewhat like Retrospect. I feel bad for the developers they&#8217;re stealing from (couldn&#8217;t they send them some cash with $4.2B in the bank?), but it&#8217;s clear that they will swallow any decent OS X apps. I wonder if I can get a job there. Working on a team like that would really be something. It&#8217;d be interesting to see if Apple does anything to sponsor innovative OS X app development, because there&#8217;s obviously a lot of good complementary ideas. Unfortunately I get the feeling that they&#8217;ll just encourage it vaguely and then steal the ideas. :-(</p>
+
+<p>[BTW, <a href="http://www.apple.com/macosx/feedback/">send them feedback</a> requesting that <a href="http://razor.sourceforge.net/">Razor</a> be integrated with Mail.app. I think it&#8217;s a better long-term solution than latent semantic analysis heuristics.]</p>
+
+<p>I admit that I shelled out the $49 for <a href="http://www.mac.com/">.mac</a> while I was still under the RDF. I wanted the Backup software and Anti-Virus but they turned out to be badly-done Cocoa shims over some UNIX tools (tar, gzip and cp in the case of Backup). <a href="http://www.mac.com/1/mac_newfeatures.html">iCal and screen saver sharing</a> have some appeal to me, but I already have an AIM account. I guess having some WebDAV space is good, since I haven&#8217;t found anything I can install on my Debian GNU/Linux server (let me know if you have suggestions).</p>
+
+<p>Anyway, I applaude Apple on their beautiful user interfaces, clever implementations of ideas, and innovations in products. I just wish they&#8217;d do something to help out the rest of us.</p>
+
+<p class="posted">posted July 17, 2002 08:48 PM (<a class="category" href="cat_technology">Technology</a>)  <a href="000424" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000423" title="empty jaguar-skin wallet">&laquo; prev</a> | <a href="./">up</a> | <a href="000425" title="i&#8217;m not dead yet">next &raquo;</a></p>
+
+<p><a href="000418">the circle of life continues</a><br />
+<a href="000420">temperature rising</a><br />
+<a href="000421">confessions of a time-waster</a><br />
+<a href="000422">MacWorld Keynote Coverage</a><br />
+<a href="000423">empty jaguar-skin wallet</a><br />
+<strong>Reflections on the Keynote</strong><br />
+<a href="000425">i&#8217;m not dead yet</a><br />
+<a href="000429">you may already have one</a><br />
+<a href="000431">loose clothes == loose morals</a><br />
+<a href="000432">A cure for nearsightedness?</a><br />
+<a href="000433">[insert something witty here]</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

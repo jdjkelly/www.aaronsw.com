@@ -1,0 +1,99 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+  <title>How to Do Version Control with CVS</title>
+  <link rel="stylesheet" type="text/css" href="/style.css" />
+</head><body>
+
+<p><a href="/">Aaron Swartz</a><br />
+<a href="./">How to Do Stuff</a></p>
+
+<h1>How to Do Version Control with CVS</h1>
+
+<p>Pick a directory to put the CVS repository (where all the file history is stored). For concreteness, we&#8217;ll say /Users/joe/Documents/cvsroot/</p>
+
+<pre>$ cvs -d /Users/joe/Documents/cvsroot init</pre>
+
+<p>This initializes the repository. Now you&#8217;re ready to put stuff in it.</p>
+
+<p>Enter the directory you want to be CVS controlled:</p>
+
+<pre>$ cd ~/Projects/MyProject</pre>
+
+<p>Now you can import the current directory (the one you&#8217;re in) into CVS:</p>
+
+<pre>$ cvs -d /Users/joe/Documents/cvsroot import -m "initial import" myproject me initial</pre>
+
+<p>Each CVS version of a file has a message, or comment attached to it. Most people use these to note what changes were made in that checkin. Here we use -m "initial import" to say that the message used for this the first version of all these files should be "initial import".</p>
+
+<p>Each CVS repository holds several different modules (projects) which can be checked out individually. In this command line, &#8216;myproject&#8217; is what you want the module containing the current directory to be named. (&#8216;me&#8217; and &#8216;initial&#8217; are vendor and release tags, respectively, and nobody I know ever uses them so it doesn&#8217;t matter what they&#8217;re named.)</p>
+
+<p>OK, so now you&#8217;ve got a CVS repository set up. The next thing to do is to "check out" an instance of it:</p>
+
+<pre>$ mkdir ~/VersionControlledProjects
+$ cd ~/VersionControlledProjects
+$ cvs -d /Users/joe/Documents/cvsroot checkout myproject
+(`myproject' is the module name we assigned above.)</pre>
+
+<p>Now CVS will make a lot of noise and create a directory named &#8216;myproject&#8217; which contains all the files the directory you checked in did (hopefully). This directory is &#8220;controlled&#8221; by CVS.</p>
+
+<p>Now you can edit these files using whatever program you want. When you&#8217;ve finished making a change and want it to be archived, you can checkin the current state of the code with cvs:</p>
+
+<pre>$ cd ~/VersionControlledProjects/myproject
+$ cvs checkin -m "added the fobnitz component"
+(assuming the change you made was adding the frobnitz component)</pre>
+
+<p>CVS will check the files you have against the version archived in the directory, and take all the differences and archive those as a new version. CVS will say something like:</p>
+
+<pre>new revision: 1.2; previous revision: 1.1</pre>
+
+<p>1.2 is the version number of this new modified file.</p>
+
+<p>If you create a new file, CVS won&#8217;t automatically check it in. You have to do:</p>
+
+<pre>$ cvs add newfile</pre>
+
+<p>and then it will be checked in the next time you run cvs checkin (cvs commit, cvs ci, and cvs checkin are all the same thing).</p>
+
+<p>If you or someone else checks in a change from another directory, it won&#8217;t automatically propagate to your directory. To get CVS to look for new updates and apply them to your files, run:</p>
+
+<pre>$ cvs update -Pd</pre>
+
+<h2>Variant: Running CVS over a network</h2>
+
+<p>If you want to run CVS over a network, everything is the same as the instructions above except for a few changes. First, pick the computer (the server) you want to have the CVS repository. For concreteness, say this is cvsmac. Run an SSH server on cvsmac. (On Mac OS X, you can do this by going to System Preferences/Sharing/Services and checking the Remote Login box.) You also need an account on cvsmac. For concreteness, say it&#8217;s named joe.</p>
+
+<p>Now in every session before you run CVS, run:</p>
+
+<pre>$ export CVS_RSH=ssh</pre>
+
+<p>(To automate this, add it to your .profile.)</p>
+
+<p>Now, instead of running:</p>
+
+<pre>$ cvs -d /Users/joe/Documents/cvsroot  (some command)</pre>
+
+<p>in the commands above, run:</p>
+
+<pre>$ cvs -d:ext:joe@cvsmac: /Users/joe/Documents/cvsroot/  (some command)</pre>
+
+<p>CVS will ask you for your password and connect over the network to execute the command on the other machine. (But checkouts will create a directory on the machine you&#8217;re connecting from.)</p>
+
+<h2>Recovering files from CVS</h2>
+
+<p>To recover version 1.7 of criticalfile, just run:</p>
+
+<pre>$ cvs update -r 1.7 criticalfile</pre>
+
+<p>(You can also do -D date to specify a date instead of a version.)</p>
+
+<p>Running:</p>
+
+<pre>$ cvs diff criticalfile</pre>
+
+<p>will show the changes you made since you last checkin critical file.</p>
+
+<pre>$ rm criticalfile
+$ cvs update criticalfile</pre>
+
+<p>will delete criticalfile and replace it with the last checked in version. (You&#8217;ll lose any changes you&#8217;ve made!)</p>
+
+</body></html>

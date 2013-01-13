@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Products That Should Exist (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Products That Should Exist</h1>
+
+<p><strong>A free Gmail clone.</strong> A lot of people I know use Gmail for email. It&#8217;s not because they don&#8217;t have access to servers or can&#8217;t afford a couple gigabytes of disk space. It&#8217;s because Gmail is simply the best interface for email out there right now. It&#8217;d be even better if it was free software, though.</p>
+
+<p>The biggest problem with Gmail is that you can&#8217;t run it offline. But if it was free software, you could run it on your local machine and use it even when not connected to the net. This would also have the nice benefit of making it much faster for the user. Some synchronization code would be necessary, but it&#8217;d be worth it.</p>
+
+<p>Gmail isn&#8217;t all that complicated; this really shouldn&#8217;t be that hard.</p>
+
+<p><strong>A nice OS X Tor interface.</strong> I&#8217;ve talked to a bunch of people who would like to use Tor, but find it just too complicated. Ideally, the interface should be very simple. You download the Tor binary and double-click it to start using Tor and quit out to stop. And so that you know it&#8217;s working, it&#8217;ll have a little window that will show you the names of servers you&#8217;re connected to.</p>
+
+<p>OS X has APIs for changing the system preferences; just use those to set the SOCKS server properly. Tor has APIs for finding out when you connect to a server, use those to set the display. For a decent Mac programmer, this can&#8217;t be more than a day&#8217;s worth of work, but it&#8217;d make Tor vastly more usable.</p>
+
+<p><strong>Decent backup software.</strong> I&#8217;ve <a href="http://www.aaronsw.com/weblog/lazybackup">already written about this</a>. It still hasn&#8217;t happened.</p>
+
+<p>If anyone&#8217;s interested in building any of these, <a href="mailto:me@aaronsw.com">let me know</a> and perhaps we can work something out.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">December 29, 2006</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>It depends on which aspects of gmail you are interested in. Depending on that you might be looking for roundcube or zoe.
+http://www.roundcube.net/
+http://zoe.nu/itstories/home.php?data=stories</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.sencer.de">Sencer</a>
+ on December 29, 2006 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>Your second idea exists, although I agree a better product can be made.</p>
+
+<p>http://vidalia-project.net/screenshots.php</p>
+
+<p class="posted">posted by jj
+ on December 29, 2006 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>An important part of Gmail is the server farm on which it&#8217;s running. Thunderbird, the default free software mail client, coupled with an IMAP server, provides most of the features the people like in Gmail (though admittedly not the user interface). Still, on my powerful desktop machine it&#8217;s barely usable, with the amounts of mail I&#8217;m dealing with, and I had to make a pragmatic choice to forward everything to Gmail. Most of the things folks like about Gmail are not easy to reproduce as client software - it&#8217;s stuff like the excellent (collective) spam filtering, the reliability of the service, the integration with Google&#8217;s other web services. The user interface is just a nice added bonus. Still it really is a shame that Gmail is not free software, and making a free clone might convince Google to release their code (in the same way the projects like Harmony convinced Sun to release the Java sources code).</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://intellectronica.net/">Tom Berger</a>
+ on December 29, 2006 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>Backup software should be invisible. You should never have to think about it - it should just work. Time Machine in Leopard may be what you&#8217;re looking for. Leopard also has ZFS, which maintains snapshots and can revert to previous versions.</p>
+
+<p>Right now I use Deja Vu, which runs in the background and automatically backs up my home folder to my Linux server every night.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.mcdevzone.com/">Mike Cohen</a>
+ on December 29, 2006 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>For the last goddamn time, Leopard <em>does not</em> have any ZFS support. It is not there in the latest developer seeds. The disk utility screenshots are either fake or internal. I talked to Apple&#8217;s Developer Relations crew, and they said that the entirety of the ZFS rumor comes from one guy who works at Apple that posted to the ZFS mailing list to see if people might be interested.</p>
+
+<p>There is nobody at Apple working on it for 10.5.0. Time Machine has nothing to do with ZFS — it uses a new HFS+ feature for hard linking to directories, that&#8217;s it.</p>
+
+<p>Seamless backup will likely never be a solved problem. ZFS goes a long way towards getting us there, but it is not magic. Don&#8217;t treat it as such.</p>
+
+<p class="posted">posted by Fred
+ on December 29, 2006 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c6">
+<p>I certainly don&#8217;t see the UI as a nice added bonus. It&#8217;s definitely not reliable and doesn&#8217;t integrate well at all with the other services.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on December 29, 2006 <a href="#c6" rel="bookmark">#</a></p>
+</div>
+<div id="c7">
+<p>jj: Vidalia does not do <em>any</em> of those things.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on December 29, 2006 <a href="#c7" rel="bookmark">#</a></p>
+</div>
+<div id="c8">
+<p>Aaron: it sure does, you just don&#8217;t know how to use it.. try again and you&#8217;ll see.</p>
+
+<p class="posted">posted by jj
+ on December 29, 2006 <a href="#c8" rel="bookmark">#</a></p>
+</div>
+<div id="c9">
+<p><i>I certainly don&#8217;t see the UI as a nice added bonus</i></p>
+
+<p>The gmail UI is good, but you could think of so many better UI solutions for an email client.</p>
+
+<p><i>It&#8217;s definitely not reliable</i></p>
+
+<p>It&#8217;s not as a reliable as you would expect from a rich company like Google. It&#8217;s much more reliable than what I can afford to maintain (and I&#8217;m a relatively advanced user - most users can afford much less than that).</p>
+
+<p><i>and doesn&#8217;t integrate well at all with the other services</i></p>
+
+<p>It integrates much better than any other option. Jabber is built in and you can search your chat history using the same interface. You can open attachments using Writely. You get notifications directly to your personal portal, including to the mobile phone version. I think there&#8217;s more.</p>
+
+<p>My point is, the reason people use Gmail is not because they are unable to run the same software locally. If your proposed compatible clone will be able to back to Gmail by default I&#8217;d probably use it, though - it would be nice to run my own client and be able to extend it, but still use Gmail when I don&#8217;t have access to my customized version.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://intellectronica.net/">Tom Berger</a>
+ on December 29, 2006 <a href="#c9" rel="bookmark">#</a></p>
+</div>
+<div id="c10">
+<p>I don&#8217;t know what you use Tor for, but there&#8217;s always <a href="https://addons.mozilla.org/firefox/2464/" rel="nofollow">FoxyProxy</a> for using Tor while browsing.  It&#8217;s a Firefox extension with zero-configuration Tor usage.  Pretty nifty.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://avinashv.net">Avinash</a>
+ on December 29, 2006 <a href="#c10" rel="bookmark">#</a></p>
+</div>
+<div id="c11">
+<p>You can think of them but nobody&#8217;s implemented them decently. My own email certainly has had far better uptime than my Gmail.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on December 29, 2006 <a href="#c11" rel="bookmark">#</a></p>
+</div>
+<div id="c12">
+<p>&#8220;Gmail isn&#8217;t all that complicated; this really shouldn&#8217;t be that hard.&#8221;</p>
+
+<p>careful there, I&#8217;ve heard clients say that one before. Simple UI != Easy App to Clone.</p>
+
+<p class="posted">posted by Sam
+ on December 29, 2006 <a href="#c12" rel="bookmark">#</a></p>
+</div>
+<div id="c13">
+<p>To again deploy the aphorism I completely stand by, Gmail is fine for amateurs and top-posters (almost the same people), but not very useful for anyone else. Eudora does a million things Gmail doesn&#8217;t.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://joeclark.org/weblogs/">Joe Clark</a>
+ on December 29, 2006 <a href="#c13" rel="bookmark">#</a></p>
+</div>
+<div id="c14">
+<p>My backup isn&#8217;t fully automated, but that&#8217;s fine for me because I have to plug in the disks anyways. But it is incremental, quickly restorable, and keeps all Mac metadata (supposedly; it keeps all the  metadata I&#8217;ve found or been able to conjure up).</p>
+
+<p>What I do is this: I use SuperDuper to clone my laptop&#8217;s drive to a NAS, which also contains a bunch of files that aren&#8217;t on the internal drive. Then, I use rdiff-backup to incrementally backup the NAS to a USB disk.</p>
+
+<p>The advantages of doing this instead of just rdiff-backuping my internal drive are that rdiff-backup misses a lot of Mac metadata, first, and second, it becomes ludicrously slow for lots of small files. rdiff-backup is much happier finding diffs in a huge disk image file than it is comparing thousands of one-block files. Furthermore, I have a disk image that I can easily restore and boot from using ASR.</p>
+
+<p class="posted">posted by David McCabe
+ on December 29, 2006 <a href="#c14" rel="bookmark">#</a></p>
+</div>
+<div id="c15">
+<p>Aaron: What email setup do you have that is so reliable? Another thing I would like to know your secrets about :) Back before webmail got real, I had a debian box behind the sofa. But the mail software wedged itself on a bi-monthly basis and I had to use voodoo to make it work again.</p>
+
+<p class="posted">posted by David McCabe
+ on December 29, 2006 <a href="#c15" rel="bookmark">#</a></p>
+</div>
+<div id="c16">
+<p>David: Using rdiff-backup on disk images sounds like a genius idea! That way I can keep more than a few dated copies of backups.</p>
+
+<p>I&#8217;ve long given up on fully avoiding top-posting. The noobs get confused, and so does the threading in many email clients. I just end up trimming the bulk of the bottom-quoted materiel. I manage to live with myself.</p>
+
+<p class="posted">posted by Fred
+ on December 29, 2006 <a href="#c16" rel="bookmark">#</a></p>
+</div>
+<div id="c17">
+<p>Kelllan wrote about the GMail part of this more than a year ago: http://www.laughingmeme.org/articles/2005/09/07/gmail-like-open-source-imap-client</p>
+
+<p>You might want to send him an email. Perhaps he&#8217;s found something.</p>
+
+<p>Synchronization code exists. You could do it over IMAP or just use OfflineIMAP or one of the other pieces of software with very similar functionality.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://mako.cc">mako</a>
+ on December 30, 2006 <a href="#c17" rel="bookmark">#</a></p>
+</div>
+<div id="c18">
+<p>It&#8217;s not quite there yet, but have you looked at Zimbra as a gmail clone? It&#8217;s open source&#8230;</p>
+
+<p>It&#8217;s basically a imap mail server using postfix and mysql, but with calendaring and contacts built in and a nice ajax web client.</p>
+
+<p>http://www.zimbra.com</p>
+
+<p class="posted">posted by Norman
+ on December 30, 2006 <a href="#c18" rel="bookmark">#</a></p>
+</div>
+<div id="c19">
+<p>Aaron, in regard to a seamless backup system, it there anything particularly wrong with using cron and a revision control system like darcs?</p>
+
+<p class="posted">posted by eric leons
+ on December 31, 2006 <a href="#c19" rel="bookmark">#</a></p>
+</div>
+<div id="c20">
+<p>Hey, What happened to your post about google&#8217;s infantile tactics ? Seems to have dissapeared !</p>
+
+<p class="posted">posted by Anonymous Howard
+ on January  1, 2007 <a href="#c20" rel="bookmark">#</a></p>
+</div>
+<div id="c21">
+<p>http://www.aaronsw.com/weblog/googlife</p>
+
+<p class="posted">posted by It's still there and continuing 
+ on January  2, 2007 <a href="#c21" rel="bookmark">#</a></p>
+</div>
+<div id="c22">
+<p>Fred: You are wrong.  The DTS people are out of the loop and the latest Leopard seeds have ZFS support.</p>
+
+<p class="posted">posted by itistoday
+ on January  5, 2007 <a href="#c22" rel="bookmark">#</a></p>
+</div>
+<div id="c23">
+<p>I&#8217;ve been waiting for decent backup software as well.  Hopefully Google&#8217;s GDrive, if and when it is released, will realize that hope of decent backup software.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://searchforquality.blogspot.com">ryan</a>
+ on January  9, 2007 <a href="#c23" rel="bookmark">#</a></p>
+</div>
+<div id="c24">
+<p>Sam is right.</p>
+
+<p>As a developer (not the founder) of another webmail 2.0 app (for small businesses) &#8212; Mailroom &#8212; I can confirm that building an ajax-based email client is no simple task.</p>
+
+<p>Building one well, that&#8217;s darn-near an impossible task.</p>
+
+<p>Also &#8212; don&#8217;t look to open source for bleeding edge UI and simplicity design.  You&#8217;re much more likely to find quick hacks and poorly done UIs from the open-source world, as I&#8217;m sure you well know.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://onwebapps.com/">Shanti Braford</a>
+ on January 10, 2007 <a href="#c24" rel="bookmark">#</a></p>
+</div>
+<div id="c25">
+<p>Brad Fitzpatrick, the livejournal guy, is working on a good backup tool called Brackup.</p>
+
+<p>http://brad.livejournal.com/tag/brackup</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://foobarbazbax.livejournal.com">jay</a>
+ on January 13, 2007 <a href="#c25" rel="bookmark">#</a></p>
+</div>
+<div id="c26">
+<p>I&#8217;m with you on all three fronts, particularly gmail.  It would be wonderful to be able to run it out of a browser locally and maybe store the data in some kind of sqlite thing.  Anyone contact you on this?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://allthingsalceste.com">Dan Steingart</a>
+ on January 15, 2007 <a href="#c26" rel="bookmark">#</a></p>
+</div>
+<div id="c27">
+<p>It&#8217;s not Tor, but there is a HamachiX:</p>
+
+<p>http://hamachix.spaceants.net/</p>
+
+<p class="posted">posted by david mathers
+ on January 15, 2007 <a href="#c27" rel="bookmark">#</a></p>
+</div>
+<div id="c28">
+<p>I have 50 gmail invites left so anyone who wants an account email me at zdav27@gmail.com also follow the link below and join up
+http://www.cherrytap.com/join.php?friend=583974</p>
+
+<p class="posted">posted by 
+ on January 19, 2007 <a href="#c28" rel="bookmark">#</a></p>
+</div>
+<div id="c29">
+<p>I&#8217;m working on a text-based MUA that steals many GMail features: sup.rubyforge.org.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="sup.rubyforge.org">William</a>
+ on January 25, 2007 <a href="#c29" rel="bookmark">#</a></p>
+</div>
+<div id="c30">
+<p>mozy(.com) works how you describe your lazy backup. The first 2GB is free, unlimited for $5. sits in the background uploading to an encrypted server (you can supply your own key if you want).</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://amasan.co.uk">Sander</a>
+ on January 28, 2007 <a href="#c30" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="buildme" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

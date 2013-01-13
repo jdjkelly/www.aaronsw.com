@@ -1,0 +1,358 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>The Media vs. The Facts (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/001143.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001142" title="Freedom of Speech, or The DeCSS Haiku" />	<link rel="next" href="001144" title="Trippi Dumps Dean" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>The Media vs. The Facts</h1>
+</div>
+
+<div class="content">
+<p>THE MEDIA: Dean has an extremely short temper. When he didn&#8217;t come in first in Iowa, he went crazy and started screaming at his supporters.</p>
+
+<p>THE FACTS: Dean was addressing a crowd of 3500 supporters, many of which had left their homes, families, and jobs to come to Iowa to help Dean win. But neither Dean nor the crowd were upset &#8212; compared to when the campaign was just getting started (the reference point Dean adopted) they&#8217;d done phenomenally well, and they had a long campaign ahead of them (and lots of cash).</p>
+
+<p>Dean was happy &#8212; you can clearly see he&#8217;s smiling &#8212; and his supporters were too. He was rallying the crowd, and he had to scream to be heard over the noise and excitement in the room. To the people actually there, his infamous yawlp was barely audible. (<a href="http://www.idiomstudio.com/">source</a>)</p>
+
+<p>The yawlp, by the way, was was a campaign war cry &#8212; everybody was doing it that night. (<a href="http://archive.scripting.com/2004/01/23#theFamousDeanRant">source</a>)</p>
+
+<p>THE MEDIA: Clark&#8217;s best friends with Michael Moore, a crazy conspiracy theorist who claims President Bush is a deserter.</p>
+
+<p>THE FACTS: Moore was intorducing Clark at a campaign rally. After a long list of Clark&#8217;s positions on the issues, Moore concludes by noting &#8220;Wouldn&#8217;t you like to see that debate? The General vs. The Deserter.&#8221; He doesn&#8217;t go into detail on the point, only using it as shorthand to draw the contrast between Clark and Bush. Clark did not endorse the statement. (<a href="http://www.michaelmoore.com/special/deserter.php">source</a>)</p>
+
+<p>Bush got out of the draft through an easy weekend Air Force National Guard job, which he probably got thanks to his Dad. Then, one day, he stopped showing up and did not serve again for 17 months. (<a href="http://www.michaelmoore.com/words/message/">source</a>) Certainly Bush was AWOL (absent without leave) for an outrageously long period of time, which while perhaps not meeting the precise military definition of &#8220;desertion&#8221;, is certainly close enough for use in public discussion.</p>
+
+<p>Furthermore, Bush publicly commented that he decided to give up flying. Under the Uniform Code of Military Justice, <em>he may well be guilty of desertion</em>, which requires &#8220;shirk[ing] important service [with the] intent to avoid a certain duty [that is] hazardous [&#8230;] or important.&#8221;</p>
+
+<p>THE MEDIA: We&#8217;re an honest and reliable source of news, while the Internet is a wasteland of untrustworthy information.</p>
+
+<p>THE FACTS: The media has continued to insist on things that are absolutely not true, repeat harmful stereotypes about certain candidates, and run biased and false statements from partisans without correction or qualification.</p>
+
+<p>The Internet has uncovered the truth with documented evidence every time.</p>
+
+<p class="posted">posted January 28, 2004 01:18 AM (<a class="category" href="cat_politics">Politics</a>) (<a href="#comments">19 comments</a>) <a href="001143" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001142" title="Freedom of Speech, or The DeCSS Haiku">&laquo; prev</a> | <a href="./">up</a> | <a href="001144" title="Trippi Dumps Dean">next &raquo;</a></p>
+
+<p><a href="001133">Liberate Libertarianism</a><br />
+<a href="001136">Visiting Libertopia: The Magical Power of Property</a><br />
+<a href="001138">Aaron Swartz: The Interview</a><br />
+<a href="001141">Why Raise Children?</a><br />
+<a href="001142">Freedom of Speech, or The DeCSS Haiku</a><br />
+<strong>The Media vs. The Facts</strong><br />
+<a href="001144">Trippi Dumps Dean</a><br />
+<a href="001148">rss2email</a><br />
+<a href="001149">The Trippi Story</a><br />
+<a href="001158">The Furious Rise of the Anonymous Writer</a><br />
+<a href="001160">Nader&#8217;s Negligence</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c385">
+
+<p>Are you telling me that I can&#8217;t trust mass media?  The same media that&#8217;s owned by a handful of corporations that own just about everything, and like to give the Bush Administration handjobs whenever they can?  Sounds like crazy talk to me.  And quit trying to get me to think, it hurts my head.</p>
+
+<p class="posted">posted by <a href="http://blog.jonhenshaw.com/">Jon Henshaw</a> at January 28, 2004 01:56 AM <a href="#c385">#</a></p>
+
+</div><div id="c386">
+
+<p>Great summary, Aaron. </p>
+
+<p>[Note: While I&#8217;m not an American, and cannot vote, the presidency of the USA affects everyone, everywhere, especially in the 53rd State, the UK]</p>
+
+<p>I have to say though, while I like Michael Moore, read his books etc., he does have a habit of coming across as more extreme than neccessary. Does Dean not realise that this could be harmful to him?</p>
+
+<p class="posted">posted by <a href="http://insom.me.uk/blog/">Aaron Brady</a> at January 28, 2004 04:51 AM <a href="#c386">#</a></p>
+
+</div><div id="c387">
+
+<p>What do you <em>mean</em>, the campaign was &#8220;just getting started&#8221;? The Iowa caucus was <em>over.</em> That means it&#8217;s all sewn up, its done, stick a fork in it.</p>
+
+<p>Dean is obviously an idiot who couldn&#8217;t even tell when he was beaten!</p>
+
+<p class="posted">posted by <a href="http://mccarthy.vg/">Jamie McCarthy</a> at January 28, 2004 08:59 AM <a href="#c387">#</a></p>
+
+</div><div id="c389">
+
+<p>You&#8217;re using these three incidents to claim repeated <em>right-leaning</em> bias?  Whoa.</p>
+
+<p class="posted">posted by <a href="http://gfmorris.com/">Geof</a> at January 28, 2004 09:28 AM <a href="#c389">#</a></p>
+
+</div><div id="c390">
+
+<p>Read again, Jamie: <br />“ But neither Dean nor the crowd were upset — COMPARED TO WHEN THE CAMPAIGN WAS JUST GETTING STARTED (the reference point Dean adopted) they’d done phenomenally well, and they had a long campaign ahead of them (and lots of cash). ”</p>
+
+<p class="posted">posted by <a href="mailto:satellio.box@laposte.net">satellio</a> at January 28, 2004 09:53 AM <a href="#c390">#</a></p>
+
+</div><div id="c391">
+
+<p>Combine Dean with a little GW and you get - WE ARE GONNA GO TO AL-QUEDA, THE MIDDLE EAST, THE WORLD AND KILL THE TERRORISTS - YEAAHHHHHH!</p>
+
+<p>Dean is just a little too emotional for the average person. Its not just the media that is giving him grief for his little outrage.</p>
+
+<p>And it least GWB did go to the Air Force National Guard&#8230;Dean dodged the draft because of his &#8220;back&#8221;.</p>
+
+<p>The media does twist things, but there is still truth behind it.</p>
+
+<p class="posted">posted by Matt at January 28, 2004 10:34 AM <a href="#c391">#</a></p>
+
+</div><div id="c392">
+
+<p>Aaron Brady: Moore endorsed Clark, not Dean. But yes, it&#8217;s obviously that extremism they&#8217;re trying to play off of.</p>
+
+<p>Geof: Well I do believe the media has a strong right-leaning bias (at least on political issues), I didn&#8217;t mean these episodes as proof. I&#8217;ve changed conservatives to partisans.</p>
+
+<p>Matt: Did you read the article? He wasn&#8217;t outraged. Dean didn&#8217;t dodge the draft &#8212; they kicked him out! I&#8217;m pretty sure it&#8217;s illegal to conceal a preexisting condition from the military.</p>
+
+<p class="posted">posted by <a href="http://www.aaronsw.com/">Aaron Swartz</a> at January 28, 2004 11:00 AM <a href="#c392">#</a></p>
+
+</div><div id="c393">
+
+<p>&#8220;Dean is just a little too emotional for the average person.&#8221;  I don&#8217;t know.  My experience with the man only comes with what I&#8217;ve seen in the last year.  Maciej Ceglowski has been a Vermonter for some time, and <a href="http://www.idlewords.com/2004/01/howard_dean_in_plymouth_nh.htm">to hear him tell it</a>:</p>
+
+<blockquote>For a speech two days before the primary, Dean seemed strangely calm and measured. I had been conditioned by the press to see a liberal firebrand, but there instead was our good old Governor, sounding just like he did back in the Vermont radio days - respectful, slightly didactic, low-key. Dean has a nice way of holding a crowd that he must have cultivated in his doctor days - he tells you what the trouble is, explains the symptoms, and leaves you waiting in suspense to hear the perscription.</blockquote>
+
+<p>I&#8217;m prone to taking Maciej at face-value.</p>
+
+<p class="posted">posted by <a href="http://gfmorris.com/">Geof</a> at January 28, 2004 11:03 AM <a href="#c393">#</a></p>
+
+</div><div id="c394">
+
+<p>Aaron:</p>
+
+<p>&#8220;Well I do believe the media has a strong right-leaning bias (at least on political issues)&#8221;</p>
+
+<p>As I said to you via email, I think it&#8217;s really hard [I&#8217;d say disingenuous, but that&#8217;s rankling rhetoric] to broadbrush all media as leaning one way or the other.  I&#8217;d be hard-pressed to figure out which way the collective was leaning; it&#8217;d take all my free time just to read it all.</p>
+
+<p class="posted">posted by <a href="http://gfmorris.com/">Geof</a> at January 28, 2004 11:27 AM <a href="#c394">#</a></p>
+
+</div><div id="c395">
+
+<p>The Media has a vested interest in maintaining the false dichotomy of Republican vs Democrat. As long as we are distracted by this illusion, we&#8217;ll be forced to choose between two sets of politicians motivated primarily in defending their &#8220;base&#8221;.<p>
+The real dichotomy of note is between ideologically grounded politicians (who defend a Dogma without question, such as GWB/Tax Cuts/Empire), and progressives, who look at the hard data, and try to find the long term right thing to do.<p>
+Those of us participating in the emergent democracy of the internet are already starting to ween ourselves from the realtime lies of CNN. We&#8217;re discussing and debating the issues, and trying to arrive a real concensous, and real solutions. We are taking action, and making the world a better place, bit by bit, piece by piece.<p>
+&#8212;Mike&#8212;</p></p></p></p>
+
+<p class="posted">posted by <a href="http://warot.com">Mike Warot</a> at January 28, 2004 12:00 PM <a href="#c395">#</a></p>
+
+</div><div id="c399">
+
+<p>Aaron - Dean did dodge the draft - he admitted he hoped to avoid the war&#8230;and his supposed &#8220;preexisting condition&#8221; with his back wasn&#8217;t that bad because he went skiing for the next ten months! He even told the New York Times that he could have served in the war&#8230;</p>
+
+<p class="posted">posted by Matt at January 29, 2004 09:44 AM <a href="#c399">#</a></p>
+
+</div><div id="c403">
+
+<p>It sounds like Matt has a problem with the military&#8217;s doctors, not Dean. If Dean was willing and able to serve, but wasn&#8217;t allowed to, I don&#8217;t see how that&#8217;s his fault at all.</p>
+
+<p class="posted">posted by <a href="http://www.aaronsw.com/">Aaron Swartz</a> at January 29, 2004 11:28 AM <a href="#c403">#</a></p>
+
+</div><div id="c407">
+
+<p>Dean wasn&#8217;t willing to serve. He cried about his bad back - dodging the draft - and then went off and had a great time skiing while Clark and fellow Americans put their lives on the line, because they were called to do so. Dean, 33 years later, now admits he was well enough to fight but used his back as an excuse.</p>
+
+<p>How is that the doctor&#8217;s fault? Once again, it comes down to personal responsibility - and the lack of it on Dean&#8217;s part.</p>
+
+<p class="posted">posted by Matt at January 29, 2004 01:37 PM <a href="#c407">#</a></p>
+
+</div><div id="c410">
+
+<p>Maybe Matt knows something I don&#8217;t, but as far as I can tell the facts are this:</p>
+
+<p>Dean was called to see a draft doctor. Dean told the doctor about his preexisting condition and provided X-rays. The doctor told Dean he could not serve.</p>
+
+<p>I really can&#8217;t see what Dean should have done different here. Should he have concealed his preexisting condition? Hid relevant evidence? Bribed the doctor? </p>
+
+<p>Dean now says he thinks he could have served, but that&#8217;s not exactly his call to make. And the person whose job it was to make that call said no. Again, how is this Dean&#8217;s fault?</p>
+
+<p class="posted">posted by <a href="http://www.aaronsw.com/">Aaron Swartz</a> at January 29, 2004 02:17 PM <a href="#c410">#</a></p>
+
+</div><div id="c411">
+
+<p>Okay - the doctor said no. Doctor&#8217;s fault&#8230;</p>
+
+<p>But do you give you any responsibility to Dean what-so-ever? He found a loop-hole, presented the evidence, and then took a vacation. He could have gone, but choose not too - with the help of a doctor.</p>
+
+<p>I guess its how you look at it. But I do give Dean credit for being honest about trying to avoid the war.</p>
+
+<p class="posted">posted by  at January 29, 2004 03:07 PM <a href="#c411">#</a></p>
+
+</div><div id="c414">
+
+<p>I&#8217;d have to disagree on your analysis of the &#8220;deserter&#8221; charge. </p>
+
+<p>Moore&#8217;s basis for the charge is that Bush&#8217;s 7-month absence (at best) is more than the 31-day mininum period of being AWOL in the definition of a deserter in the US Army. </p>
+
+<p>However, <b>(1)</b> Bush was not AWOL from active duty, he was on reserve, 
+and <b>(2)</b> he wasn&#8217;t serving in the US Army, he was in the National Guard. Vive la difference. </p>
+
+<p>I recommend checking out the 
+<a href="http://www.factcheck.org/article.aspx?docID=131">report</a>
+ on this matter at the Annenberg Public Policy Center, or 
+<a href="http://www.donaldsensing.com/2004_01_01_archive.html#107495313186595111">Donald Sensing&#8217;s</a> post, either of which are very informative.</p>
+
+<p class="posted">posted by Jason at January 29, 2004 09:34 PM <a href="#c414">#</a></p>
+
+</div><div id="c415">
+
+<p>Aaron: Dean is not &#8220;angry&#8221; and the press that tells you so is lying.</p>
+
+<p>Fact: Dean lost Iowa because he shouted down an Iowa farmer during a campaign Q&amp;A session, saying &#8220;George Bush is not my neighbor&#8221; and going off on a three-minute rant. That had <em>nothing</em> to do with the scream. And of the reports that I read about the scream, I cannot recall any advancing the sense that Dean was <em>angry.</em> Rather, the frame I saw advanced was that he lost control. Big difference, there, Aaron.</p>
+
+<p>By the way, I notice that you summarize what the media said, but fail to provide us with any links or excerpts. Could it be that you&#8217;re playing just as fast and loose with the facts as the media is?</p>
+
+<p class="posted">posted by <a href="http://www.arguewithsigns.net/mt/">Bryan</a> at January 30, 2004 06:07 AM <a href="#c415">#</a></p>
+
+</div><div id="c450">
+
+<p>This situation with the media makes me physically ill.  I&#8217;d like to boycott the media, but then how would we know what shenanigans they&#8217;re up to&#8230;</p>
+
+<p class="posted">posted by <a href="http://www.hopemarino.com/blog/">Hope</a> at February  4, 2004 12:38 AM <a href="#c450">#</a></p>
+
+</div><div id="c469">
+
+<p>Media spindown of WMD</p>
+
+<p>The NY Times appears to be helping the administration launch a new spin on those missing WMD.  The operative euphemism is &#8220;unconventional weapons.&#8221; </p>
+
+<p>It looks like the NYTimes is weaning its readers. Off those nasty WMD and onto leaner,healthier (less destructive) unconventional weapons. </p>
+
+<p>I first noticed it, Jan 30th, in a Times syndicate piece in my local newspaper: &#8220;Rice leading White House counterattack&#8221;, http://www.startribune.com/stories/1762/4347986.html  </p>
+
+<p>In this article each of the two lead paragraphs refer to Iraq&#8217;s &#8220;unconventional weapons program.&#8221;   NOTE - these aren&#8217;t spin-bites culled from the White House, but the writing of the Times reporter.  </p>
+
+<p>Turns out, the Times also did it in their own Editorial too. On Jan 29, &#8220;Tony Blair, vindicated &#8221; they refer in the lead paragraph to the refutation of charges that Blair?s administration had &#8220;knowingly manipulated intelligence about Iraqi weapons.&#8221;, http://www.nytimes.com/2004/01/29/opinion/29THU1.html</p>
+
+<p>They wrap-up their spin nicely in the final paragraph when they bring us back to &#8220;Iraq&#8217;s unconventional weapons threat.&#8221;  </p>
+
+<p>And, Feb. 2, in &#8220;U.S. intelligence inquiry to go beyond data on Iraq&#8221;. http://www.startribune.com/stories/484/4352371.html</p>
+
+<p>In this lengthy 1100 word story, the NY Times tells us in the first paragraph, that  President Bush will soon name a commission to study, among other things, &#8220;the misjudgments about Iraq&#8217;s unconventional weapons.&#8221;  WMD are never mentioned, vanished from the issue. No matter, because nine-hundred words later, we&#8217;re reminded, of the object of the long search by the &#8220;Iraq Survey Group, which was asked to find Iraq&#8217;s unconventional weapons and which [David] Kay led until last month.&#8221;  </p>
+
+<p>David Kay, isn&#8217;t that the same guy Bush asked to find Iraq&#8217;s WMD?   I think the editors of our newspapers should be called out on this. If WMD was good enough for Bush to say Iraq had them, then WMD should be good enough for him to admit Iraq doesn&#8217;t have them.</p>
+
+<p class="posted">posted by <a href="http://turnonthenews.com">dick brooks</a> at February  4, 2004 07:48 PM <a href="#c469">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/2002/001143.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/mt-comments.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1143" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /><br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

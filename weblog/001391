@@ -1,0 +1,196 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Press Clipping (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001391.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001379" title="Web Development Restarts" />	<link rel="next" href="001392" title="Hackers and Painters: How to Think Like a Computer Millionaire" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Press Clipping</h1>
+</div>
+
+<div class="content">
+<p>Adam L. Penenberg (a character in <cite>Shattered Glass</cite>) has an excellent article up about how the <cite>New York Times</cite> doesn&#8217;t get the Web. (And oh yeah, part of it&#8217;s based on an interview with me&#8230;)</p>
+
+<p>Wired: <a title="Wired News: Searching for The New York Times" href="http://www.wired.com/news/culture/0,1284,64110-2,00.html">Searching for <cite>The New York Times</cite></a></p>
+
+<p class="posted">posted July 14, 2004 10:09 AM (<a class="category" href="cat_personal">Personal</a>) (<a href="#comments">4 comments</a>) <a href="001391" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001379" title="Web Development Restarts">&laquo; prev</a> | <a href="./">up</a> | <a href="001392" title="Hackers and Painters: How to Think Like a Computer Millionaire">next &raquo;</a></p>
+
+<p><a href="001374">Four Myths About Politics</a><br />
+<a href="001375">Fahrenheit 9/11 Transcript: The Saudi Flights</a><br />
+<a href="001376">Stupid Criticisms of Fahrenheit 9/11</a><br />
+<a href="001377">Fact Check</a><br />
+<a href="001379">Web Development Restarts</a><br />
+<strong>Press Clipping</strong><br />
+<a href="001392">Hackers and Painters: How to Think Like a Computer Millionaire</a><br />
+<a href="001393">Who would bin Laden vote for?</a><br />
+<a href="001394">Wolf Blitzer Distorts</a><br />
+<a href="001395">Press Clipping</a><br />
+<a href="001397">Why is Big Media losing viewers? Because it sucks</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c2554">
+
+<p>You: &#8220;weblogs could thoroughly compare modern political coverage with coverage from 1996 or 2000,&#8221;</p>
+
+<p>They could. But who would? I mean, how many articles are published that would be falsified by a brief fact-checking?</p>
+
+<p>Penenberg: &#8220;The permanence of its reporting and extension of its brand name in cyberspace would more than compensate for the paltry amount of money it would lose from its paid archive.&#8221;</p>
+
+<p>Unfortunately, that&#8217;s speculation, not self-evident truth.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://sethf.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2554">Seth Finkelstein</a> at July 14, 2004 10:41 AM <a href="#c2554">#</a></p>
+
+</div><div id="c2555">
+
+<p><em>They could. But who would? I mean, how many articles are published that would be falsified by a brief fact-checking?</em></p>
+
+<p>Most of them.  Such analyses are difficult and time-consuming, and even the good ones are often wrong in various ways.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://slashdot.org/~pudge/journal" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2555">pudge</a> at July 14, 2004 11:20 AM <a href="#c2555">#</a></p>
+
+</div><div id="c2556">
+
+<p>The real problem is that their product does not have all that much value on the web. The light to medium analysis they offer  is not much of an improvement on wire services. Their breadth of coverage is hardly an advantage in competing with the whole web. In many casses their market posiion is shot to pieces by a whol range of people who in print would be but gnats. The WSJ and FT have to compete with Bloomberg and Reuters. Everyone has to compete with the BBC and CNN.</p>
+
+<p>While there is less visible value on the web newspapers will be tied to their print output and won&#8217;t be easily persuaded to be very web friendly. To fully exploit the web would take a change in editorial practice not necessarily compatible with the newspaper business.</p>
+
+<p>To make matters worse, in general circulations are falling. While this might make the need to do something more urgent in practice it just means tight budgets and over caution. You shouldn&#8217;t undersetimate the amount newspapers have spent on the web.  That fact makes them much more consrevative now.</p>
+
+<p>The current situation is not very exciting, hobbles the usefulness of content and is at best marginally profitable for the papers (and that&#8217;s freeriding on the content). However they will struggle to do much different while they have print offerings to run and will not necessarily be the ones filling the gap they fill in the future.</p>
+
+<p>If you do have an idea how newspapers could make money online, rather than just be a cool thing, let me know!.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://elephantstrunk.net" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2556">Jack</a> at July 14, 2004 03:06 PM <a href="#c2556">#</a></p>
+
+</div><div id="c2559">
+
+<p>The article says, &#8220;A far more sensible position for the Times would be to charge for new news, not old news. Can you imagine the possibilities if it opened up its archive?&#8221;</p>
+
+<p>For over a year, our newspapers that have paid web access do exactly that, charge for new news, not old news. When implemented none of the hundreds of thousands of newspaper stories listed in google were lost and traffic actually went up!</p>
+
+<p>Here&#8217;s the initial report I wrote: http://www.our-hometown.com/paid/</p>
+
+<p class="posted">posted by <a target="_blank" title="http:www.our-hometown.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2559">Stephen Larson</a> at July 15, 2004 01:02 PM <a href="#c2559">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001391.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1391" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

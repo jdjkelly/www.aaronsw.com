@@ -1,0 +1,87 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>after a busy day of overthrowing governments&#8230; (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000408" title="locked up all alone" />	<link rel="next" href="000410" title="Glorious Linkfulness" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>after a busy day of overthrowing governments&#8230;</h1>
+</div>
+
+<div class="content">
+<p>I find it pretty funny that <a href="http://www.google.com/search?q=aaronsw.com%2Fpgp">Google thinks my PGP key is in German</a> and offers to translate.</p>
+
+<p>I know you&#8217;re really here for <a href="http://instinct.org/cows/">the cows</a>.</p>
+
+<p>Nat: <a href="http://prometheus.frii.com/~gnat/yapc/2000-advocacy/slide9.html">&#8220;NOTHING pisses me off more than those endless futile arguments with Python advocates.&#8221;</a> It goes both ways of course. I&#8217;ve been trying to rid myself of my zealotry/advocacy tendencies for a while now. (I think it&#8217;s a lot better, even though it&#8217;s still pretty bad.) [via <a href="http://www.perl.com/pub/a/2000/12/advocacy.html">Why I Hate Advocacy</a> by M.J. (Plover)]</p>
+
+<p>Plover gives awesome talks like <a href="http://perl.plover.com/yak/#mjudo">Mailing List Judo</a> (how to get your patches accepted into Perl). There&#8217;s also the thought-provoking <a href="http://perl.plover.com/yak/#design">Design Patterns Aren&#8217;t</a> and the hilarious <a href="http://perl.plover.com/yak/Identity/">Identity Function</a>.</p>
+
+<p>Plover: <a href="http://perl.plover.com/Questions.html">Why Questions Go Unanswered</a> (I think <a href="http://groups.google.com/groups?selm=1991May10.210452.28889%40ux1.cso.uiuc.<br />
+edu">this is the correct answer</a> to the hard-link question.)<br />
+Raymond: <a href="http://www.tuxedo.org/~esr/faqs/smart-questions.html">How To Ask Questions The Smart Way</a><br />
+Raymond: <a href="http://www.tuxedo.org/~esr/faqs/hacker-howto.html">How To Become A Hacker</a><br />
+Google: <a href="http://www.google.com/search?q=hack">hack</a> (notice how they all use the &#8220;proper definition&#8221;)</p>
+
+<p>Hot Corners: I want a way to activate the screen saver purposefully, but my mouse falls into the corners way too often accidentally (<a href="http://www.asktog.com/columns/022DesignedToGiveFitts.html">Fitt&#8217;s Law</a>). Maybe a gesture or a keyboard command would be better.</p>
+
+<p><a href="http://www.oscom.org/">OSCOM: Open Source COntent Management</a>. Too bad I can&#8217;t make it. It&#8217;d be nice to tell them about baking and good URIs and HTTP principles and such. Another reason to go to Berkeley. (As if one was needed with the anarchists and <a href="http://www.cryptorights.org/cypherpunks/meetingpunks.html">meetingpunks</a> around.)</p>
+
+<p><a href="http://www.pyzine.com/">Py: A hip Python zine</a> [<a href="http://kode-fu.com/geek/2002_07_07_archive.shtml#85236489">Joey</a>]</p>
+
+<p><a href="http://kode-fu.com/geek/images/2002_07/get_your_pyth_on.gif">Get your Pyth on!</a> a funny (does everything have to be hilarious) <a href="http://www.mnftiu.cc/mnftiu.cc/war.html">Get Your War On</a> parody for Pythonistas. (includes cussin&#8217;) [<a href="http://kode-fu.com/geek/2002_07_07_archive.shtml#85236489">Joey</a>]</p>
+
+<p><a href="http://sourceforge.net/projects/peekabooty">Peek-a-Booty source is available! Take that, censorware.</a> (<a href="http://www.peek-a-booty.org/">official site</a>, <a href="http://boingboing.net/2002_07_01_archive.html#85241400">boingboing</a>) Peek-a-Booty lets people who get thru to censored sites by letting them go thru other peers who run Peek-a-Booty.</p>
+
+<p><a href="http://kode-fu.com/shame/2002_07_07_archive.shtml#85234840">Joey&#8217;s open letter to Gene Kan.</a></p>
+
+<p><a href="http://kode-fu.com/shame/2002_07_07_archive.shtml#85236715">Joey explains the meaning</a> of my <a href="http://www.aaronsw.com/weblog/000405">train dream</a>. <a href="http://imperialviolet.org/page5.html#e97">agl comments on it too.</a> Is uk:crumbs a bad thing?</p>
+
+<p><a href="http://66.139.73.165/">Help stress-test BitTorrent.</a> <a href="http://bitconjurer.org/BitTorrent/">BitTorrent</a> makes large downloads faster by letting you download from other people downloading. (You can download a file without looking at it. Sheesh, some people.)</p>
+
+<p>What?! You haven&#8217;t <a href="http://not.invisible.net/MT/mt-comments.cgi?entry_id=55;add=1">pledged your support</a> for the <a href="http://trusted.resource.org/">IMS/ISC .org proposal</a>? Be sure to <a href="http://not.invisible.net/dot/">spread the dot</a> while you&#8217;re at it. Look at <a href="http://not.invisible.net/dot/spread/">all those dots waiting to be lit up</a>! If nothing else, do it for <a href="http://not.invisible.net/signals/usr/bot/id.shtml">bot</a>.</p>
+
+<p><a href="http://markBernstein.org/Jun0201.html#note_17853">Bernstein on Baking</a>. <em>Tinderbox tracks dependencies cleverly, but looks like it rebakes each time.</em> Nice, it&#8217;s done a good job of making this invisible. </p>
+
+<p>I was thinking that DNS should be signed, so it could be mirrored easily and securely and found <a href="http://www.google.com/search?q=DNSSEC">DNSSEC</a>. How widely is this deployed? Karl Auerback (the voted-in ICANN board member) has put together some <a href="http://www.cavebear.com/rw/steps-to-protect-dns.htm">Steps to Protect DNS</a> from evil hax0r t3rr0r1sts.</p>
+
+<p><a href="http://salon.com/comics/boll/2002/07/11/boll/print.html">Corporate Crime Explained in comic form</a> by <a href="http://dir.salon.com/topics/ruben_bolling/">Tom the Dancing Bug</a> (<a href="http://www.ucomics.com/tomthedancingbug/">also at uComics</a>). Also check out <a href="http://www.salon.com/comics/boll/2002/06/13/boll/print.html">his explanation why everything that can go wrong will go wrong with essential computers systems</a>. You may know him from the hilarious <a href="http://salon.com/comics/boll/2000/08/24/boll/print.html">Library System Terrorizes Publishing Industry</a> (<a href="http://pw1.netcom.com/~dplourde/cartoons/ttdb20000826.html">text description</a>). [<a href="http://boingboing.net/2002_07_01_archive.html#85237879">BoingBoing</a>]</p>
+
+<p>My TiBook is back. <em>Woohoo!</em> Now, what to do with it&#8230; Apple was awesome. Even though it was out of warrantee they basically replaced the entire computer ($2200 or so) for only $300. They also replaced a bum AirPort card literally overnight for free, since the computer I used it in was still under warranty. </p>
+
+<p><a href="http://www.cis.upenn.edu/~farber/farism.htm">Farberisms</a> are interesting turns of phrase by <a href="http://www.cis.upenn.edu/~farber/">Dave Farber</a> of <a href="http://www.interesting-people.org/archives/interesting-people/">Interesting People</a>, the <a href="http://www.eff.org/">EFF</a> (<a href="http://www.eff.org/perl/join">donate now!</a> &#8212; <a href="http://www.templetons.com/brad/eff.html">Brad explains why (it&#8217;ll change the world!)</a>) and potentially the accidental grandfather of Microsoft&#8217;s Palladium DRM system.</p>
+
+<p><a href="http://tool-man.org/">Tim &#8220;the tool man&#8221; Taylor has an extreme webpage.</a> (very short) [Bugzilla]</p>
+
+<p><a href="http://www.gnu.org/philosophy/categories">Free or Proprietary? The Free Software Foundation explains all.</a></p>
+
+<p class="posted">posted July 11, 2002 07:49 PM (<a class="category" href="cat_others">Others</a>)  <a href="000409" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000408" title="locked up all alone">&laquo; prev</a> | <a href="./">up</a> | <a href="000410" title="Glorious Linkfulness">next &raquo;</a></p>
+
+<p><a href="000402">Gnutella Pioneer Gene Kan Dies at 25</a><br />
+<a href="000404">Bake, Don&#8217;t Fry</a><br />
+<a href="000405">Train Dream</a><br />
+<a href="000406">Building Baked Sites</a><br />
+<a href="000408">locked up all alone</a><br />
+<strong>after a busy day of overthrowing governments&#8230;</strong><br />
+<a href="000410">Glorious Linkfulness</a><br />
+<a href="000411">Writing Useful Web Content</a><br />
+<a href="000412">OSCON Key Signing Party</a><br />
+<a href="000413">today&#8217;s featured superhero: Seth Schoen</a><br />
+<a href="000414">Public Speaking and Writing</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

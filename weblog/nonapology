@@ -1,0 +1,875 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>A Non-Programmer's Apology (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>A Non-Programmer&#8217;s Apology</h1>
+
+<p>In his classic <em>A Mathematicians Apology</em>, published 65 years ago, the great mathematician G. H. Hardy wrote that &#8220;A man who sets out to justify his existence and his activities&#8221; has only one real defense, namely that &#8220;I do what I do because it is the one and only thing that I can do at all well.&#8221; &#8220;I am not suggesting,&#8221; he added,</p>
+
+<blockquote>
+  <p>that this is a defence which can be made by most people, since most people can do nothing at all well. But it is impregnable when it can be made without absurdity &#8230; If a man has any genuine talent he should be ready to make almost any sacrifice in order to cultivate it to the full.</p>
+</blockquote>
+
+<p>Reading such comments one cannot help but apply them to oneself, and so I did. Let us eschew humility for the sake of argument and suppose that I am a great programmer. By Hardy&#8217;s suggestion, the responsible thing for me to do would be to cultivate and use my talents in that field, to spend my life being a great programmer. And that, I have to say, is a prospect I look upon with no small amount of dread.</p>
+
+<hr />
+
+<p>It was not always quite this way. For quite a while programming was basically my life. And then, somehow, I drifted away. At first it was small steps &#8212; discussing programming instead of doing it, then discussing things <em>for</em> programmers, and then discussing other topics altogether. By the time I reached the end of my first year in college, when people were asking me to program for them over the summer, I hadn&#8217;t programmed in so long that I wasn&#8217;t even sure I really could. I certainly did not think of myself as a particularly good programmer.</p>
+
+<p>Ironic, considering Hardy writes that</p>
+
+<blockquote>
+  <p>Good work is not done by &#8216;humble&#8217; men. It is one of the first duties of a professor, for example, in any subject, to exaggerate a little both the importance of his subject and his own importance in it. A man who is always asking &#8216;Is what I do worthwhile?&#8217; and &#8216;Am I the right person to do it?&#8217; will always be ineffective himself and a discouragement to others. He must shut his eyes a little and think a little more of his subject and himself than they deserve. This is not too difficult: it is harder not to make his subject and himself ridiculous by shutting his eyes too tightly.</p>
+</blockquote>
+
+<p>Perhaps, after spending so much time not programming, the blinders had worn off. Or perhaps it was the reverse: that I had to convince myself that I was good at what I was doing now, and, since that thing was not programming, by extension, that I was not very good at programming.</p>
+
+<p>Whatever the reason, I looked upon the task of actually having to program for three months with uncertainty and trepidation. For days, if I recall correctly, I dithered. Thinking myself incapable of serious programming, I thought to wait until my partner arrived and instead spend my time assisting him. But days passed and I realized it would be weeks before he would appear, and I finally decided to try to program something in the meantime.</p>
+
+<p>To my shock, it went amazingly well and I have since become convinced that I&#8217;m a pretty good programmer, if lacking in most other areas. But now I find myself faced with this dilemma: it is those other areas I would much prefer to work in.</p>
+
+<hr />
+
+<p>The summer before college <a href="http://www.aaronsw.com/weblog/epiphany">I learned something</a> that struck me as incredibly important and yet known by very few. It seemed clear to me that the only responsible way to live my life would be to do something that would only be done by someone who knew this thing &#8212; after all, there were few who did and many who didn&#8217;t, so it seemed logical to leave most other tasks to the majority.</p>
+
+<p>I concluded that the best thing to do would be to attempt to explain this thing I&#8217;d learned to others. Any specific task I could do with the knowledge would be far outweighed by the tasks done by those I&#8217;d explained the knowledge to.<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> It was only after I&#8217;d decided on this course of action (and perhaps this is the blinders once again) that it struck me that explaining complicated ideas was actually something I&#8217;d always loved doing and was really pretty good at.</p>
+
+<p>That aside, having spent the morning reading David Foster Wallace<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup>, it is plain that I am no great writer. And so, reading Hardy, I am left wondering whether my decision is somehow irresponsible.</p>
+
+<p>I am saved, I think, because it appears that Hardy&#8217;s logic to some extent parallels mine. Why is it important for the man who &#8220;can bat unusually well&#8221; to become &#8220;a professional cricketer&#8221;? It is, presumably, because those who can bat unusually well are in short supply and so the few who are gifted with that talent should do us all the favor of making use of it. If those whose &#8220;judgment of the markets is quick and sound&#8221; become cricketers, while the good batters become stockbrokers, we will end up with mediocre cricketers and mediocre stockbrokers. Better for all of us if the reverse is the case.</p>
+
+<p>But this, of course, is awfully similar to the logic I myself employed. It is important for me to spend my life explaining what I&#8217;d learned because people who had learned it are in short supply &#8212; much shorter supply, in fact (or so it appears), than people who can bat well.</p>
+
+<hr />
+
+<p>However, there is also an assumption hidden in that statement. It only makes sense to decide what to become based on what you can presently do if you believe that abilities are somehow granted innately and can merely be cultivated, not created in themselves. This is a fairly common view, although rarely consciously articulated (as indeed Hardy takes it for granted), but not one that I subscribe to.</p>
+
+<p>Instead, it seems plausible that talent is made through practice, that those who are good batters are that way after spending enormous quantities of time batting as a kid.<sup id="fnref:3"><a href="#fn:3" rel="footnote">3</a></sup> Mozart, for example, was the son of &#8220;one of Europe&#8217;s leading musical teachers&#8221;<sup id="fnref:4"><a href="#fn:4" rel="footnote">4</a></sup> and said teacher began music instruction at age three. While I am plainly no Mozart, several similarities do seem apparent. My father had a computer programming company and he began showing me how to use the computer as far back as I can remember.</p>
+
+<p>The extreme conclusion from the theory that there is no innate talent is that there is no difference between people and thus, as much as possible, we should get people to do the most important tasks (writing, as opposed to cricket, let&#8217;s say). But in fact this does not follow.</p>
+
+<p>Learning is like compound interest. A little bit of knowledge makes it easier to pick up more. Knowing what addition is and how to do it, you can then read a wide variety of things that use addition, thus knowing even more and being able to use that knowledge in a similar manner.<sup id="fnref:5"><a href="#fn:5" rel="footnote">5</a></sup> And so, the growth in knowledge accelerates.<sup id="fnref:6"><a href="#fn:6" rel="footnote">6</a></sup> This is why children who get started on something at a young age, as Mozart did, grow up to have such an advantage.</p>
+
+<p>And even if (highly implausibly) we were able to control the circumstances in which all children grew up so as to maximize their ability to perform the most important tasks, that still would not be enough, since in addition to aptitude there is also interest.</p>
+
+<p>Imagine the three sons of a famous football player. All three are raised similarly, with athletic activity from their earliest days, and thus have an equal aptitude for playing football. Two of them pick up this task excitedly, while one, despite being good at it, is uninterested<sup id="fnref:7"><a href="#fn:7" rel="footnote">7</a></sup> and prefers to read books.<sup id="fnref:8"><a href="#fn:8" rel="footnote">8</a></sup> It would not only be unfair to force him to use his aptitude and play football, it would also be unwise. Someone whose heart isn&#8217;t in it is unlikely to spend the time necessary to excel.</p>
+
+<hr />
+
+<p>And this, in short<sup id="fnref:9"><a href="#fn:9" rel="footnote">9</a></sup>, is the position I find myself in. I don&#8217;t <em>want</em> to be a programmer. When I look at programming books, I am more tempted to mock them than to read them. When I go to programmer conferences, I&#8217;d rather skip out and talk politics than programming. And writing code, although it can be enjoyable, is hardly something I want to spend my life doing.</p>
+
+<p>Perhaps, I fear, this decision deprives society of one great programmer in favor of one mediocre writer. And let&#8217;s not hide behind the cloak of uncertainty, let&#8217;s say we know that it does. Even so, I would make it. The writing is too important, the programming too unenjoyable.</p>
+
+<p>And for that, I apologize.</p>
+
+<h3>Notes</h3>
+
+<div class="footnotes">
+<hr />
+<ol>
+
+<li id="fn:1">
+<p>Explaining what that knowledge is, naturally, a larger project and must wait for another time.&#160;<a href="#fnref:1" rev="footnote">&#8617;</a></p>
+</li>
+
+<li id="fn:2">
+<p>You can probably see DFW&#8217;s influence on this piece, not least of which in these footnotes.&#160;<a href="#fnref:2" rev="footnote">&#8617;</a></p>
+</li>
+
+<li id="fn:3">
+<p>Indeed, this apparently parallels the views of the psychologists who have studied the question. Anders Ericsson, a psychology professor who studies &#8220;expert performance&#8221;, told the <em>New York Times Magazine</em> that &#8220;the most general claim&#8221; in his work &#8220;is that a lot of people believe there are some inherent limits they were born with. But there is surprisingly little hard evidence &#8230; .&#8221; The conclusion that follows, the <em>NYTM</em> notes, is that &#8220;when it comes to choosing a life path, you should do what you love &#8212; because if you don&#8217;t love it, you are unlikely to work hard enough to get very good. Most people naturally don&#8217;t like to do things they aren&#8217;t &#8216;good&#8217; at. So they often give up, telling themselves they simply don&#8217;t possess the talent for math or skiing or the violin. But what they really lack is the desire to be good and to undertake the deliberate practice that would make them better.&#8221;<a href="http://www.nytimes.com/2006/05/07/magazine/07wwln_freak.html?ex=1148875200&amp;en=611751da74b96d1b&amp;ei=5070">†</a>&#160;<a href="#fnref:3" rev="footnote">&#8617;</a></p>
+</li>
+
+<li id="fn:4">
+<p>The quote is <a href="http://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart">from Wikipedia</a> where, indeed, the other facts are drawn from as well, the idea having been suggested by Stephen Jay Gould&#8217;s essay &#8220;Mozart and Modularity&#8221;, collected in his book <em>Eight Little Piggies</em>.&#160;<a href="#fnref:4" rev="footnote">&#8617;</a></p>
+</li>
+
+<li id="fn:5">
+<p>I&#8217;ve always thought that this was the reason kids (or maybe just me) especially disliked history. Every other field &#8212; biology, math, art &#8212; had at least some connection to the present and thus kids had some foundational knowledge to build on. But history? We simply weren&#8217;t there and thus know absolutely nothing of it.&#160;<a href="#fnref:5" rev="footnote">&#8617;</a></p>
+</li>
+
+<li id="fn:6">
+<p>It was tempting to write that &#8220;the rate of growth&#8221; accelerates, but that would mean something rather different.&#160;<a href="#fnref:6" rev="footnote">&#8617;</a></p>
+</li>
+
+<li id="fn:7">
+<p>Many people, of course, are uninterested in such things precisely because they aren&#8217;t very good at them. There&#8217;s nothing like repeated failures to turn you way from an activity. Perhaps this is another reason to start young &#8212; young children might be less stung by failure, as little is expected from them.&#160;<a href="#fnref:7" rev="footnote">&#8617;</a></p>
+</li>
+
+<li id="fn:8">
+<p>I apologize for the clichédness of this example.&#160;<a href="#fnref:8" rev="footnote">&#8617;</a></p>
+</li>
+
+<li id="fn:9">
+<p>Well, shorter than most DFW.&#160;<a href="#fnref:9" rev="footnote">&#8617;</a></p>
+</li>
+
+</ol>
+</div>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">May 27, 2006</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>This was an interesting read, Aaron, and I&#8217;m largely sympathetic with your line of reasoning and with Hardy&#8217;s too.</p>
+
+<p>I cannot begin to comprehend the loss I would feel personally if Bach had been a baker instead of a musician &#8212; and one could erase my memory of the music but not memory of my feelings about the music. At the same time, who is inhuman enough to say that a Mozart who hates music and for whom the continuing practice of music is an existential torture should be forced to continue for the benefit of all?</p>
+
+<p>You mention Mozart (W. A.) and that he began instruction at age 3 (actually, it probably began in the womb given his father&#8217;s position), but say nothing of the millions of children who have piano teacher parents, begin music lessons before in infancy, and yet never grow up to be a Mozart, however much they try to make it happen. For every child that grows up to be a Glenn Gould (piano teacher parent, read music before language), there are thousands in the same situation that just don&#8217;t learn as quickly and hit a plateau somewhere between competency and mastery. Lots of children take music lessons and have musician parents, but few will ever be great musicians. Consider Josef Hoffman, who practiced 20-30 minutes daily as a child, and never more than 2 hours a day late in his musical education, and consider the millions of children now who practice 2 to 3 times as much for the same period of time. It just does not make sense to say that it&#8217;s purely a matter of learning. Some people&#8217;s learning slope is always steeper than that of others, and some people &#8212; in the music world, at least &#8212; have attained greater mastery at 8 years of age  (Hoffman, Gould, Mozart) than others will ever attain.</p>
+
+<p>On the subject of programming, I am a programmer, and I often interview programmers for work. From my experience, the better programmers that I interview are not necessarily those who have the most experience. Most of the fresh-out-of-college people I interview have been programming since they were quite young, and very few of them have any kind of insight into the craft of programming. Most have knowledge of programming &#8212; some have lots &#8212; but very few have wisdom. Fast forward 10 years or so, and look at programmers who have been crafting their skills professionally for 10 year or so. How many Bill Joys do you think there will be? Maybe we should wait another 10 years? Still no Bill Joys. Most professional programmers are mediocre, and all the practice in the world does not change that. In my experience, few have the passion and talent required. Passion, talent, environment, and practice are necessary but not sufficient causes.</p>
+
+<p>As to your distaste for programming, I&#8217;ll quote Dijkstra: programming is to computer science as telescopes are to astronomy. Do you have the same distaste and aversion for computer science?</p>
+
+<p>If you decide you want to be a writer, then don&#8217;t be too critical at first. The writers you read and admire honed their talents for years before they were able to write the kind of prose that makes us all feel inadequate. You may or may not have talent, but it will take at least a few years to know for sure.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://studentsfororwell.org">Jospeh Knecht</a>
+ on May 28, 2006 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>A man who sets out to justify his existence and his activities needs no defense. I do what I do because I want to - and need no other reason.</p>
+
+<p>Hardy could not always do mathematics well and so there must have been a time when he did mathematics for another reason. I&#8217;m sure that someone of Hardy&#8217;s stature became good at maths at a fairly young age, but if we only extend an exemption to the young (who don&#8217;t know what they are good at yet) he is precluding the possibility of ever switching.</p>
+
+<p>As you suggest, people who want to do something are probably going to become good at it over time. If it&#8217;s true that &#8220;it takes at least ten years of concentrated study and practice to become an expert&#8221;[1] then switching comes at a high cost. Like yourself and Mozart I&#8217;ve followed the profession of my father and I believe that my current competence owes a lot to living 10 miles away from school and friends while growing up, leaving lots of time for practice.</p>
+
+<p>But you don&#8217;t owe the world a great programmer and, although you aren&#8217;t going to be a great writer by next week, you should start guilt free.</p>
+
+<p>(and I wish you well)</p>
+
+<p>[1] Deep Smarts: How to Cultivate and Transfer Enduring Business Wisdom  (Harv. Bus. School 2005, pg. 49)</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.imperialviolet.org">Adam Langley</a>
+ on May 28, 2006 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>Dude, you&#8217;re a writer. Of code, of prose. You&#8217;ve got it; now, it&#8217;s up to you to choose what to work at and make stronger.</p>
+
+<p>I&#8217;d advise that you avoid kicking yourself for working on whichever of the two you choose to work on, on any given day.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.gibberish.com">misuba</a>
+ on May 28, 2006 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>Much here &#8230;</p>
+
+<p>There&#8217;s a difference between being a &#8220;great X&#8221;, and having &#8220;skill at X&#8221;. And it&#8217;s even possible to do great things even if you&#8217;re only &#8220;skilled at X&#8221;, by either accident, or intense work - but they are not the <em>same</em>. As to the nature/nurture argument, I believe the effects of nurture are commonly underestimated and nature is often used as an excuse for inadequate nuture. However, there are some indications that while it&#8217;s not clear what exactly makes a &#8220;great X&#8221;, at some point, it&#8217;s pretty clear if you&#8217;re <em>NOT</em> going to be one.</p>
+
+<p>But in any case, if you can be a great X, but you&#8217;d rather be a mediocre Y, because you hate doing X, and like doing Y, it seems like you&#8217;re taking a very long route to simply say that Hardy is wrong because if you don&#8217;t like X, you won&#8217;t be a great X in the first place (which is kind of a straw-man rebuttal - I assume Hardy knows that argument, and believes you should do your best at X, even if you don&#8217;t like it).</p>
+
+<p>Regarding &#8220;the best thing to do would be to attempt to explain this thing I&#8217;d learned to others.&#8221;, well, the problem is that it&#8217;s a really tough road. I&#8217;ve been down it, and whether it&#8217;s a flaw in my character or not, I&#8217;ve very much given it up. It sounds good, but it&#8217;s a lot easier said than done. You might even be over-estimating your ability to follow it, especially in the face of the backlashes. Though I am well-known to be extremely bitter on this point.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://sethf.com/">Seth Finkelstein</a>
+ on May 28, 2006 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>&#8220;and he begun showing me how to use the computer as far back as I can remember.&#8221;</p>
+
+<p>Sigh&#8230;and, yet, despite a mother who was an editor/writer and BEGAN teaching you proper grammar as far back as you should be able to remember, it never seems to stick.  ;-P</p>
+
+<p>Seems to me you carry genes for both programming and writing  and should make the most of both of them&#8230;why should you have to choose one or the other?  Work at both; hone both your skills.  Hell, hone all your skills Renaissance Man!</p>
+
+<p class="posted">posted by Susan
+ on May 28, 2006 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c6">
+<p>What you&#8217;re encountering is that while you might be good at programming, so are a lot of other people; you&#8217;re also good at other things (of which writing I think is a symptom and not a cause), and there are comparatively fewer people who are also good at those &#8216;other things.&#8217;</p>
+
+<p>I say writing is a symptom not a cause because I think writing is simply the channel you&#8217;ve been using to express great ideas that you want to put into more concrete action.  This is all theorycraft, however ;)</p>
+
+<p>In any case, I&#8217;ve always been of the opinion that one should do what one loves in life, and thus I&#8217;d heartily encourage you to pursue those &#8216;other things&#8217; with all your heart, soul and body.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://dominik.net/">Dominik Rabiej</a>
+ on May 28, 2006 <a href="#c6" rel="bookmark">#</a></p>
+</div>
+<div id="c7">
+<p>Writing books is easier than writing code because you don&#8217;t have to stand the test of reality.</p>
+
+<p class="posted">posted by pierre
+ on May 28, 2006 <a href="#c7" rel="bookmark">#</a></p>
+</div>
+<div id="c8">
+<p>First off, if you truly have unwavering passion and energy for writing (or whatever), you can probably be great at it.  That is more important that innate skill, assuming a basic level of competence.</p>
+
+<p>Second, concerning your epiphany:  You may eventually come to believe that the media is a normal business, and that the news is demand driven.  Why are there endless reports about issues like Terry Shiavo?  Because they are cheap to produce, and people pay attention, and then look at the accompanying ads.</p>
+
+<p>But if the media product is just a function of public demand, the way to solve the problem is to change the public, not the system.  There is probably no way that we can structure media organizations to produce good news with a public that is asleep at the wheel.  Spending your life trying to correct <em>that</em> problem might appear much less enticing.</p>
+
+<p class="posted">posted by justin
+ on May 28, 2006 <a href="#c8" rel="bookmark">#</a></p>
+</div>
+<div id="c9">
+<p>Susan sounds just like my mom&#8230;.and I agree with her.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://mikebaas.org">Mike Baas</a>
+ on May 28, 2006 <a href="#c9" rel="bookmark">#</a></p>
+</div>
+<div id="c10">
+<p>As a music teacher (albeit a new one), I have a fair amount of empirical evidence that while there is such a thing as innate ability, it is far outweighed by interest, attitude, and/or work ethic.  My top student out of this year&#8217;s beginners just gets things more easily than anyone else, but my second-best student is perfectly average and surpasses all but one of her peers, many of them more talented, by just practicing daily.</p>
+
+<p class="posted">posted by Ken
+ on May 28, 2006 <a href="#c10" rel="bookmark">#</a></p>
+</div>
+<div id="c11">
+<p>I think life is gangly &#8230; it hairs away from you.  That is, it will hair away from (diverge from) your rationalizations of what you intend to do.  Then if you look at your reasons a couple decades after you concocted them, you will certainly laugh.  Reason more accurately falls after the fact and there too it finds no more value that before.  But go ahead &#8230; reason away &#8230; for that appears to be what you do :) Have you considered being a politician or a lawyer?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://fastblogit.com/seth">Seth Russell</a>
+ on May 28, 2006 <a href="#c11" rel="bookmark">#</a></p>
+</div>
+<div id="c12">
+<p>Like my friend&#8217;s dad was fond of saying, &#8220;Do what you love.  Just don&#8217;t expect that other people will pay you to do it.&#8221;</p>
+
+<p class="posted">posted by Archetypal dad
+ on May 28, 2006 <a href="#c12" rel="bookmark">#</a></p>
+</div>
+<div id="c13">
+<p>Funny, I went through the opposite transition.</p>
+
+<p>During high school and my first few years of college I was completely into politics.  I volunteered for political campaigns, interned in Congress, and worked in city hall.  I combed libraries for books ranging from Plato to Ayn Rand, Rush Limbaugh to Noam Chomsky.    But midway through college I got bored with too much talk and too much theory.  It&#8217;s easy to read a couple of books and think that you have found some great new insight, and that if everyone would just listen the world would make itself right.  I&#8217;ve been there too.  But political realities, human nature, and the forces of intertia make change much more difficult in practice.  I started getting much more into programming and startups because you have the ability to create something that is of actual value.  Results are measurable instead of endlessly debatable.  I do hope to return to politics later on in life when I have more experience (and money!), but for now, I want to do something concrete, not just talk.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.fitzblog.com">Patrick Fitzsimmons</a>
+ on May 28, 2006 <a href="#c13" rel="bookmark">#</a></p>
+</div>
+<div id="c14">
+<p>Aaron: I went through a similar crisis two years ago and chose math over programming (after trying economics for a while). The decision was easier for me because I was only a decent programmer. But both of us were young coders and know how quickly it may be learned. You may as well ditch it for a few years and see what happens. My experience is that I can learn a topic well enough to know if I&#8217;ll be good at it in one year (as with politics, economics, computer science and math). So the 10 year investment to become an &#8220;expert&#8221; is only a 9 year investment considered with much more information.</p>
+
+<p>That writing is a symptom of programming and not a cause (as Dominik said) is also true of math. Fortunately math has objective measures of skill, and I knew that I liked and was good at it immediately. The more difficult decision, only recently apparent, is whether I want the lifestyle of a mathematician.</p>
+
+<p>Worrying about being &#8220;great&#8221; at what you do is a waste of time. You are smart enough to be &#8220;very good&#8221; at whatever you choose, but predicting the next G. H. Hardy is not possible. My original ambition was to be a &#8220;great&#8221; mathematician, but it has faded as I&#8217;ve realized the joy in doing math anyways. (That I will be able to make money off of it makes the decision easier).</p>
+
+<p>Could your decision not to code be the result of burnout? As exams ended two weeks ago I never wanted to do math again. But after relaxing I feel much better about it. My observation is that despite your skill, you have had difficulties getting your company off the ground. I don&#8217;t think this is entirely a reaction, but you should think about it.</p>
+
+<p class="posted">posted by Jeremiah Rogers
+ on May 28, 2006 <a href="#c14" rel="bookmark">#</a></p>
+</div>
+<div id="c15">
+<p>So&#8230; i started college studying computer science and ended college addicted to and with a degree in philosophy.  Blame it on my evangelical christian upbringing.  This morning (at age 29) i&#8217;m sitting with my wife at a coffee shop, reading a book on Kierkegaard and thinking about how I need to keep coding strong so the startup I&#8217;m involved with will succeed.  Luckily my net connection at home is down so i can justify sitting here reading with my coffee for a couple more hours.  Nonetheless, i find that my interest in coding and my interest in writing/philosophy are both constants in my life.  Maybe you&#8217;ll find your drive to write doesn&#8217;t end up excluding programming.  I had to spend a number of years avoiding the computer just to clarify my position on my own existence but once I had delved deeply enough I found a place where my widely divergent interests could co-exist.  All that is just to say that I doubt you will totally forget programming, you might just need to put it down for a while.</p>
+
+<p>Kindest Regards,</p>
+
+<p>Mike</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://mikearagua.com/">Mike</a>
+ on May 28, 2006 <a href="#c15" rel="bookmark">#</a></p>
+</div>
+<div id="c16">
+<blockquote>
+  <p>You may eventually come to believe that the media is a normal business, and that the news is demand driven.</p>
+</blockquote>
+
+<p>No, I <em>used</em> to believe that. But after looking at the evidence, it&#8217;s pretty clearly false.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on May 28, 2006 <a href="#c16" rel="bookmark">#</a></p>
+</div>
+<div id="c17">
+<p>I have seen similar things and have been programming since I was young too.  Now I am older and I am not saying I am a master or not.  But, it seems like with such a large life investment you would really be recognized and make a mark on history.  But, programming seems difficult to really get your thoughts out there.  Even look at some of the greats; Knuth, Norvig.  These guys are geniuses but outside the circle on their respective domains they probably wouldn&#8217;t even get a nod.  But, I thought computer science was important?  Worse yet, think about Dan Brown; his book sold some 40 million copies of his Da Vinci Code and I think it was mediocre at best (that is being nice).  Angelina Jolie just had a baby and you would think she cured cancer.</p>
+
+<p>You want to get your name out there as well.  And programming probably won&#8217;t get you there.  So you have looked at other avenues.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.newspiritcompany.com">Berlin Brown</a>
+ on May 28, 2006 <a href="#c17" rel="bookmark">#</a></p>
+</div>
+<div id="c18">
+<p>&#8220;All work is an act of philosophy.&#8221; (Ayn Rand)</p>
+
+<p>Programming can be as much an creative work of self-expression as it can be a mundane &#8220;code-monkey&#8221; kind of work. Especially when you decide that crafting your own tools is the main part of the job.</p>
+
+<p>What I don&#8217;t get is that there should be a discrepancy between &#8220;doing what you would enjoy doing most&#8221; and &#8220;doing what you are best at&#8221;. I always thought that the former, preference regarding work (doing what one enjoys most), derives from the latter, i.e. everyone automatically enjoys most what he is best at (whether that may be actual skill and crafted ability or some own potential that one is confident one can reach). So yes, my thinking went, do what you love, implying &#8220;because what you love is what you&#8217;re best at&#8221;. A bit simplistic perhaps, just my own interpretation of my individual situation&#8230;</p>
+
+<p>&#8220;Don&#8217;t feel guilty if you don&#8217;t know what you want to do with your life. The most interesting people I know didn&#8217;t know at 22 what they wanted to do with their lives. Some of the most interesting 40-year-olds I know still don&#8217;t.&#8221;</p>
+
+<p>http://www.jamesshuggins.com/h/tek1/sunscreentext.htm</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://dualogy.blogs.com">Philipp Schumann</a>
+ on May 28, 2006 <a href="#c18" rel="bookmark">#</a></p>
+</div>
+<div id="c19">
+<p>One more comment.  You should also read on
+&#8216;A Beautiful Mind&#8217; not the movie but the book on John Nash, pretty enlightening.  The movie is basically a fraud where as the book goes more in depth into Nash&#8217;s genius and also his struggle.</p>
+
+<p class="posted">posted by Berlin Brown
+ on May 28, 2006 <a href="#c19" rel="bookmark">#</a></p>
+</div>
+<div id="c20">
+<p>Having seen your code, I&#8217;m pretty sure the world can find another self-styled genius to take care of web.py so you can devote more time to your blog.</p>
+
+<p class="posted">posted by StarkFist
+ on May 28, 2006 <a href="#c20" rel="bookmark">#</a></p>
+</div>
+<div id="c21">
+<p>I think ideas can change the world if enough people read them, but technology can really change the world, because it is the invention of new tools.</p>
+
+<p>It&#8217;s hard to say the world hasn&#8217;t changed since the invention of the personal computer, and the Visicalc spreadsheet.</p>
+
+<p>Personally, I write fiction to escape, but I write code to change the world.</p>
+
+<p class="posted">posted by Jeremy
+ on May 28, 2006 <a href="#c21" rel="bookmark">#</a></p>
+</div>
+<div id="c22">
+<blockquote>
+  <p>I&#8217;ve always thought that this was the reason kids
+  (or maybe just me) especially disliked history. 
+  Every other field &#8212; biology, math, art &#8212; had at 
+  least some connection to the present and thus kids
+  had some foundational knowledge to build on. But
+  history? We simply weren&#8217;t there and thus know
+  absolutely nothing of it.</p>
+</blockquote>
+
+<p>I wonder if we could teach history backwards?</p>
+
+<p>Douglas</p>
+
+<p class="posted">posted by Douglas
+ on May 28, 2006 <a href="#c22" rel="bookmark">#</a></p>
+</div>
+<div id="c23">
+<p>Is there a way to express yourself in code?</p>
+
+<p>i.e. RMS or Mark Shuttlesworth; both political programmers.</p>
+
+<p class="posted">posted by Sean Cavanagh
+ on May 28, 2006 <a href="#c23" rel="bookmark">#</a></p>
+</div>
+<div id="c24">
+<p>David Foster Wallace is not a great writer. But if you like him (and footnotes) and want to emulate someone, read some Nicholson Baker. The Mezzanine is a good book of his.</p>
+
+<p class="posted">posted by Mitch
+ on May 28, 2006 <a href="#c24" rel="bookmark">#</a></p>
+</div>
+<div id="c25">
+<p>I&#8217;ve been debating the link between passion and greatness myself.  Unlike you, I have never been a great programmer - I&#8217;d gotten by for several years as one solely on my aptitude for making computers do what I want.  I never coded in my free time, I never liked coding, but it was easy work (for me) that paid well, so I did it.  But I eventually realized I would never be great at it unless I deeply cared about it.  And I didn&#8217;t.</p>
+
+<p>Don&#8217;t let aptitude define you.  Find what you love and follow it.  If I step back and pay attention to the things I&#8217;m actually excited about, that get me animated and talking fast and waving my arms, it&#8217;s pretty clear what I should be doing.  In my case, it&#8217;s management, or at least the process of creating a viable corporate community, so I&#8217;m in the process of launching my third career.  We&#8217;ll see if I continue to care about it as I get more into it.</p>
+
+<p>Good luck!</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.nehrlich.com/blog">Eric Nehrlich</a>
+ on May 28, 2006 <a href="#c25" rel="bookmark">#</a></p>
+</div>
+<div id="c26">
+<blockquote>
+<blockquote>
+    You may eventually come to believe that the media is a normal business, and that the news is demand driven.
+
+</blockquote>
+No, I used to believe that. But after looking at the evidence, it&#8217;s pretty clearly false.
+</blockquote>
+
+<p>You will believe it again.  The situation is muddied by issues such as that it is easier to just report what is in the daily white house press briefing than to do true investigative journalism, and that reporting certain things leads to alienation from the government, but it is true.  That is basically what is said in Manufacturing Consent, but phrased in a way that doesn&#8217;t pretend that nothing is the population&#8217;s fault.</p>
+
+<p class="posted">posted by justin
+ on May 29, 2006 <a href="#c26" rel="bookmark">#</a></p>
+</div>
+<div id="c27">
+<p>Most businesses aren&#8217;t demand-driven. Does Ford come out with new, only slightly-modified cars because people are demanding new, only slightly-modified cars? Not at all; they change them slightly and then run tons of absurd ads of people driving over mountains to <em>create</em> demand. Same thing with knockoff drugs and other big industries. It&#8217;s pretty absurd to blame to people for this one; they don&#8217;t exactly have a choice. The only thing they can do is stop watching the news &#8212; and indeed they have.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on May 29, 2006 <a href="#c27" rel="bookmark">#</a></p>
+</div>
+<div id="c28">
+<p>Also, a demand-driven argument can&#8217;t explain the kinds of biases <a href="http://mediamatters.org/items/200605260016" rel="nofollow">described in this week&#8217;s <em>Media Matters</em></a> in which the press heavily investigates scandals&#8212;but only when they involve Democrats.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on May 29, 2006 <a href="#c28" rel="bookmark">#</a></p>
+</div>
+<div id="c29">
+<blockquote>Does Ford come out with new, only slightly-modified cars because people are demanding new, only slightly-modified cars? Not at all; they change them slightly and then run tons of absurd ads of people driving over mountains to create demand.</blockquote>
+
+<p>(For the sake of discussion, I am ignoring the fact here that Ford may be a failind company.)  I see this differently.  Ford creates crap products and runs lots of ads because <em>that is what the public demands</em> (where we let their behavior speak for their demands).  If running lots of ads is effective, a company that created quality cars and didn&#8217;t waste money on advertising would be immediately run out of business by a crap-car high-advertising company.  This certainly isn&#8217;t the company&#8217;s fault: the only blame can lie on the population.</p>
+
+<blockquote>Also, a demand-driven argument can&#8217;t explain the kinds of biases described in this week&#8217;s Media Matters in which the press heavily investigates scandals&#8212;but only when they involve Democrats.</blockquote>
+
+<p>Again, I really have to disagree.</p>
+
+<p>I admit that it is an oversimplification to say that it is a demand-driven situation.  I am sure that in the modern DC climate, reporting scandals involving Republicans has much higher costs, in a nn-monetary sense, than reporting scandals involving Democrats.</p>
+
+<p>However, the fact is that if people demanded better news <em>they would get it</em>.  Slight changes in the cost to produce different types of news would be totally overwhelmed by demand if people turned their ad-watching eyeballs towards news that gave a better picture of reality.</p>
+
+<p class="posted">posted by justin
+ on May 29, 2006 <a href="#c29" rel="bookmark">#</a></p>
+</div>
+<div id="c30">
+<p>So, if advertisers or the media have the power to brainwash people, how come they don&#8217;t get all of them to buy Ford cars?</p>
+
+<p>The way I see it, using the Ford example, is this: they appeal / reach out (by ads) to that portion of the population that values the Ford brand for sentimental or other reasons, and driving across mountains, over car quality or total-newness. That is, they want to capture and serve as much of the existing demand for these values as they can. So does any other business. Is there something I&#8217;m missing here? I don&#8217;t buy the hypnotisation-by-pictures-or-words-rather-than-real-drugs theory until convinced.  ;)</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://dualogy.blogs.com">Philipp Schumann</a>
+ on May 29, 2006 <a href="#c30" rel="bookmark">#</a></p>
+</div>
+<div id="c31">
+<p>By justin&#8217;s logic, if Ford went around putting guns to people&#8217;s heads and forcing them to buy cars, it&#8217;d still be the population&#8217;s fault, because people fell for it and Ford has to do whatever people fall for to stay competitive. If people really had a problem with it, after all, they&#8217;d get the government to take away the guns. Meanwhile, Philipp would say that Ford is simply doing their best to capture the afraid-of-death market. See? The corporations aren&#8217;t responsible no matter what they do; it&#8217;s always the public&#8217;s fault at bottom.</p>
+
+<p>It&#8217;s so nice having a religion, it saves a lot of time when you can just ignore the facts.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on May 29, 2006 <a href="#c31" rel="bookmark">#</a></p>
+</div>
+<div id="c32">
+<p>Hey, I think you&#8217;re both right about the media. It&#8217;s demand-driven by the customers, and the real customers are advertisers purchasing eyeballs. Now let&#8217;s hug and make up. ;)</p>
+
+<p>Similar thoughts struck me when I was at a recent programmers&#8217; conference, the Lisp thing in Hamburg. I spent the first dinner mostly talking politics with a cool fella from Turkey; as the night wore on, I felt kinda ashamed and searched out people to talk about Proper programming topics.</p>
+
+<p>The next day, I felt like such an outsider, and I didn&#8217;t want to spend my entire day with a bunch of men talking about programming. Whenever I opened my mouth, it seemed like&#8230; all I had to say was garbage. Started seeing them as the technocrats who had an unusual understanding of how society&#8217;s institutions worked, as they automated much of it [1]; but outside their job roles didn&#8217;t have more influence than anyone else. (So for example, they might worry about the environment, but had to pretend to desire discussing sports at the oil companies they worked at. Many of them even hid their Lisp usage, for Christ&#8217;s sake! Their power was only magnified when they were rowing in the right direction.)</p>
+
+<p>[1] - Adam Smith <a href="http://www.econlib.org/library/Smith/smWN20.html#B.V,%20Ch.1,%20Of%20the%20Expences%20of%20the%20Sovereign%20or%20Commonwealth" rel="nofollow">discussed</a> the &#8220;drowsy stupidity&#8221; which most of us fall into in modern society due to overspecialization, with only a lucky few who escape it:</p>
+
+<blockquote>&#8220;These varied occupations present an almost infinite variety of objects to the contemplation of those few, who, being attached to no particular occupation themselves, have leisure and inclination to examine the occupations of other people. The contemplation of so great a variety of objects necessarily exercises their minds in endless comparisons and combinations, and renders their understandings, in an extraordinary degree, both acute and comprehensive. Unless those few, however, happen to be placed in some very particular situations, their great abilities, though honourable to themselves, may contribute very little to the good government or happiness of their society. Notwithstanding the great abilities of those few, all the nobler parts of the human character may be, in a great measure, obliterated and extinguished in the great body of the people.&#8221;</blockquote>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.democracynow.org/">Tayssir John Gabbour</a>
+ on May 29, 2006 <a href="#c32" rel="bookmark">#</a></p>
+</div>
+<div id="c33">
+<p>If Ford would go for the guns, you would be right, but it remains to be shown convincingly (maybe that is what Chomsky did?) that for example advertising (i.e. trying to persuade by some kind of argument or statement, rather than by force), is actually something similarly forceful that people invariably &#8220;fall for&#8221; like for a drug.</p>
+
+<p>The people who believe this try to construct an argument that advertising is inherently fraudulent, and if it were, the analogy with guns would hold and advertising should rightly be opposed and met with contempt. However, I fail to see an inherently fraudulent nature in advertising. Just as environmentalist protesters with banners or union workers at a strike, it is someone with a proposition asking us for our attention. Correspondingly, just as with other works of fiction, a great many people tend to treat advertising and the media with a grain of salt, and stick what corresponds to their set of values and opinions, in my opinion.</p>
+
+<p>Surely this kind of reasoning, although my own and maybe not justin&#8217;s, cannot be dismissed as a &#8220;religion&#8221; with the entity pursuing an action being the sole ethical standard of value (i.e. whatever that entity, say companies or bureaucrats or intellectuals, choose to do is &#8220;good&#8221; because they are the ones doing it, even if they threaten to kill someone not belonging to that class of entities). Nothing could justify the fact that a company tried forcing others to deal with them. I just don&#8217;t see how advertising would be an initiation of force.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://dualogy.blogs.com">Philipp Schumann</a>
+ on May 29, 2006 <a href="#c33" rel="bookmark">#</a></p>
+</div>
+<div id="c34">
+<p>&#8220;A man&#8217;s got to do what a man&#8217;s got to do.&#8221; &#8212; movie &#8220;Shane&#8221; (1953)</p>
+
+<p>&#8220;Follow your bliss.&#8221; &#8212; Joseph Campbell</p>
+
+<p class="posted">posted by mclaren
+ on May 29, 2006 <a href="#c34" rel="bookmark">#</a></p>
+</div>
+<div id="c35">
+<p>I would go with Susan. She sounds like my mother too. Besides, it&#8217;s plain common sense.</p>
+
+<p class="posted">posted by iagree
+ on May 29, 2006 <a href="#c35" rel="bookmark">#</a></p>
+</div>
+<div id="c36">
+<blockquote>By justin&#8217;s logic, if Ford went around putting guns to people&#8217;s heads and forcing them to buy cars, it&#8217;d still be the population&#8217;s fault, because people fell for it and Ford has to do whatever people fall for to stay competitive.</blockquote>
+
+<p>That&#8217;s exactly right.  <em>Why *doesn&#8217;t</em> Ford put guns to people&#8217;s heads, do you think*?  Because they are too nice for that?  Corporations cannot have other goals than making money because if they did, competing corporations more singlemindedly focused on making money would displace them.  If corporations are to behave decently, it can only be because we structure the system so that being decent is profitable.</p>
+
+<p>The other alternative is getting rid of corporations.  Putting aside if that is a good idea, how would it be done?  The population would have to demand it of their leaders.</p>
+
+<blockquote>It&#8217;s so nice having a religion, it saves a lot of time when you can just ignore the facts.</blockquote>
+
+<p>That&#8217;s insulting and beneath you.</p>
+
+<p class="posted">posted by justin
+ on May 29, 2006 <a href="#c36" rel="bookmark">#</a></p>
+</div>
+<div id="c37">
+<p>Oh yeah, some of us might enjoy the following book to consider&#8230; <a href="http://disciplined-minds.com/" rel="nofollow">Jeff Schmidt&#8217;s _Disciplined Minds_</a>. He was ironically fired for writing this book by the American Institute of Physics, and recently won a settlement. It discusses how to identify (and fight) the ideological discipline in many professions.</p>
+
+<p>(There&#8217;s links on that page to download podcasts of someone who read it out on her radio show&#8230;)</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.democracynow.org/">Tayssir John Gabbour</a>
+ on May 29, 2006 <a href="#c37" rel="bookmark">#</a></p>
+</div>
+<div id="c38">
+<p>In the last few posts you&#8217;ve written in a spooky, quasi-religous voice about a fad diet, Noam Chomsky, and implied that David Foster Wallace is a great writer.</p>
+
+<p>I&#8217;m thinking you need to get outside in the sunshine, and possibly make some friends.</p>
+
+<p>Luckily these are writers and topics that often grip the mind of impressionable college students. (I personally was a zen-buddhist vegan into Wittgenstein from age 19 to 22.)</p>
+
+<p>It takes a while to get your critical thinking skills back on track after being exposed to these sorts of things, especially if you&#8217;re a typical lonely programmer working on something that&#8217;s not very intellectually challenging.</p>
+
+<p>However, if you keep it up, you&#8217;re headed down the road to kook-dom. From my own experience, I wouldn&#8217;t suggest trading your Silicon Valley connections for the Shangri-La McSweeney&#8217;s Media Consipracy crowd. It takes longer than you think to get back into a world where people actually DO stuff.</p>
+
+<p class="posted">posted by StarkFist
+ on May 29, 2006 <a href="#c38" rel="bookmark">#</a></p>
+</div>
+<div id="c39">
+<p>Wow, people really don&#8217;t like David Foster Wallace.  Really? He seems consistently amazing to me, and I can understand the feeling of inadequacy after reading his books/stories/scribbles on napkins&#8230;.</p>
+
+<p class="posted">posted by joey
+ on May 29, 2006 <a href="#c39" rel="bookmark">#</a></p>
+</div>
+<div id="c40">
+<p>I think you downplay your writing ability (though I don&#8217;t care for Wallace so maybe that&#8217;s not the endorsement you were looking for.  I&#8217;d suggest reading Gore Vidal instead, if you haven&#8217;t yet, check out United States, Creation, and the American Empire series.) and while I don&#8217;t much care for the radical vision you want to deliver, I say go for it.  I trust that you will bring an intelligent and critical mind to the proceedings and will discover the flaws in that program soon enough, allowing you to move on to writing about more interesting topics.  In fact, maybe you can build a publishing platform for writing like yours, allowing you to dabble in some programming while you focus on your writing.  The web allows for a lot of creativity in changing the medium of publishing, which hasn&#8217;t really been leveraged yet (blogs are only the first step).</p>
+
+<p class="posted">posted by Ajay
+ on May 29, 2006 <a href="#c40" rel="bookmark">#</a></p>
+</div>
+<div id="c41">
+<p>I believe you are both a good programmer and a good writer. OK, so you prefer to write. It&#8217;s great to be able to earn a living by doing what you like best. But I think you should consider the fact that, for people who can do both things well, writing is easier than coding. I know a lot of people won&#8217;t agree with this, so give it some thought and see what you think.</p>
+
+<p>When you program, you normally have a definite goal in mind, and the job is done when the program finally does what you wanted it to do. Pretty objective.</p>
+
+<p>Writing, on the other hand, is totally subjective. No compilers to tell you you are missing a dot in line 42. We all expect to find plenty of bugs in early stages of software developing, but we are less inclined to accept that our drafts are also full of bugs. Soaring with them.</p>
+
+<p>The difference is that an article that is 60% well written makes quite a good read, whereas code that is 60% good is no good at all. A bad writer will go much further than a bad programmer, and what&#8217;s worse: bad writing passes for good writing more easily.</p>
+
+<p>No matter how severe you are with yourself, you will be more demanding with your code than with your prose. You will push your limits harder, learning all the way through. You can spend some hours writing a decent essay, and you will get a feeling of satisfaction in the end. It takes a lot more to write satisfactory code. You can even convince someone (e.g. yourself) that a piece of writing is good. Try that with a program that doesn&#8217;t work.</p>
+
+<p>Summing up: your writing is buggy. [Note: I&#8217;m obviously not saying that mine is better, especially since English is not my mother tongue.] I&#8217;m sure you know this and you accept it because you are young and it takes a lot of time to become a great writer, etc. That&#8217;s a type of self-delusion that you are much less likely to confront when programming.</p>
+
+<p>These are only some of the reasons that make writing easier than coding, there are many more, different for each person (and of course you could also argue that programming is harder than writing for many reasons as well). I just wanted to ask you: Are you sure (<em>really</em> sure) that you are not choosing to write just because it is easier?</p>
+
+<p>As Terry Pratchett said: If you stay true to yourself, follow your dreams, reach for the stars and never stop wishing&#8230; you&#8217;ll still get beaten by the people who got off their butts and worked hard.</p>
+
+<p class="posted">posted by Su
+ on May 29, 2006 <a href="#c41" rel="bookmark">#</a></p>
+</div>
+<div id="c42">
+<p>talking about this overe here &#8230; :</p>
+
+<p>http://discuss.joelonsoftware.com/default.asp?joel.3.348065.12</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.engoi.com">revert my buffer</a>
+ on May 29, 2006 <a href="#c42" rel="bookmark">#</a></p>
+</div>
+<div id="c43">
+<p>I guess I could have worded the question without implying there was a problem.</p>
+
+<p>&#8220;What is wrong with Aaron?&#8221;</p>
+
+<p class="posted">posted by Berlin Brown
+ on May 30, 2006 <a href="#c43" rel="bookmark">#</a></p>
+</div>
+<div id="c44">
+<p>(Correction: Speaking of drowsy stupidity, I left out a single word in my post &#8212; Smith claimed that drowsy stupdity <em>can</em> happen in civilized society due to certain tendencies, not that I think most of us are drooling morons. Typos like this is what I get for all-nighters since Wednesday; excuse me.)</p>
+
+<p class="posted">posted by Tayssir
+ on May 30, 2006 <a href="#c44" rel="bookmark">#</a></p>
+</div>
+<div id="c45">
+<p>Su says: <i>When you program, you normally have a definite goal in mind, and the job is done when the program finally does what you wanted it to do. Pretty objective. Writing, on the other hand, is totally subjective. No compilers to tell you you are missing a dot in line 42.</i></p>
+
+<p>I disagree: good writing is never &#8220;totally subjective.&#8221; While it&#8217;s true that fiction tends to be more subjective than non-, it&#8217;s not as if either is without form.  In good writing, you tend to present an idea (or character) before fleshing it out, which strikes me as analogous to declaring variables or limiting their scope.  Likewise, your reference to compilers refers simply to your choice of grammar and spelling, which can both be perfect and yet still be pointless.</p>
+
+<p>On the other side of the question, let&#8217;s not underestimate the creative choices programmers often face.  There&#8217;s usually no single way to accomplish a lot of interesting tasks. Instead, you typically have to strike a subjective balance between code that&#8217;s the easiest to express and maintain, the fastest to execute, the most abstract and easily extensible, indeed which language serves you best. Syntax checkers and debuggers only go so far as programming tools. They can&#8217;t tell you, for example, that a chunk of the code you just wrote is a waste of time because there&#8217;s already a library available that does the job more efficiently, or conversely that that library is buggy and you can do it better yourself. I guess that&#8217;s why a lot of programmers are drawn to attend conferences and yak about these things with each other, and instead wind up in the other room talking politics.</p>
+
+<p class="posted">posted by Mike Sierra
+ on May 30, 2006 <a href="#c45" rel="bookmark">#</a></p>
+</div>
+<div id="c46">
+<p>&#8220;It seemed clear to me that the only responsible way to live my life would be to do something that would only be done by someone who knew this thing &#8212; after all, there were few who did and many who didn&#8217;t, so it seemed logical to leave most other tasks to the majority.&#8221;</p>
+
+<p>I think you&#8217;re mistaking disbelief for ignorance. Plenty of people read Chomsky and don&#8217;t find his arguments very compelling. justin, for example, made some reasonable arguments against what Chomsky says, and you responded with petulant sarcasm. I hope this isn&#8217;t a sampling of the important writing you&#8217;re talking about doing instead of programming.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://weblog.randomchaos.com/">Scott Reynen</a>
+ on May 31, 2006 <a href="#c46" rel="bookmark">#</a></p>
+</div>
+<div id="c47">
+<p>In one sense, maybe there&#8217;s not so much difference between writing and coding.</p>
+
+<p>It&#8217;s programmers who&#8217;re inventing new tools for writing, new genres of writing, and who are actually sitting down and test driving them and learning the skills to use them.</p>
+
+<p>Udell is pretty good on this here :</p>
+
+<p>http://www.oreillynet.com/pub/a/network/2005/04/22/primetime.html</p>
+
+<p>Beyond this, both writing and coding are about organizing thoughts using some kind of language. Clearly the type and expressivity of language is different. But if you&#8217;re in the game of political writing, a large amount of what you want to do is describing how things are (representing it as a data-structure) and outlining steps for how to change things (a program).</p>
+
+<p>Looked at from a high enough level, programming is about using language to organize the world. A computer scientist like Herbert Simon studied organizational psychology and computer science in parallel, cross-pollinating between them. Most non-fictional writing has, as its objective, to organize and co-ordinate people in some way, whether it&#8217;s law, business, politics, marketing you write to create an effect.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.synaesmedia.net">phil jones</a>
+ on May 31, 2006 <a href="#c47" rel="bookmark">#</a></p>
+</div>
+<div id="c48">
+<p>BTW : off-topic but I see you&#8217;re here Tayssir.</p>
+
+<p>Are you up for a chat? If you are, mail me. (Don&#8217;t have any contact for you.)</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.synaesmedia.net">phil jones</a>
+ on May 31, 2006 <a href="#c48" rel="bookmark">#</a></p>
+</div>
+<div id="c49">
+<p>While i don&#8217;t have the answers (i have struggles of my own), i suggest you read &#8220;Flow: The psychology of optimal experience&#8221;. It&#8217;s not directly related to answering the question, but i have this gut feeling it&#8217;d be a nice piece of the puzzle you&#8217;re putting together.</p>
+
+<p class="posted">posted by Jaime Herazo B.
+ on June  6, 2006 <a href="#c49" rel="bookmark">#</a></p>
+</div>
+<div id="c50">
+<p>StarkFist: As for the diet, fortunately there will soon be clinical trials to see who is right. I&#8217;m not sure how to test whether DFW is actually a good writer, but you&#8217;re welcome to take the Chomsky Challenge.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on June  6, 2006 <a href="#c50" rel="bookmark">#</a></p>
+</div>
+<div id="c51">
+<p>Took the chomsky challenge back at MIT. His books are interesting (both linguistics and politics) but not something that changed my life as it seems to change others&#8217;. Maybe I&#8217;m part of the problem?</p>
+
+<p>Regarding diet, the Shangri-La diet is just a calorie restriction diet, using shots of olive oil as an appetite supressant. The &#8220;set point&#8221; theory is interesting, and I suppose that concept might be worthy of further study. However, you can achieve the same result with healthy eating and exercise.</p>
+
+<p>I&#8217;m six foot one and am slim/athletic. I put on about 50 pounds during my first startup (up to 211 from 165) , and lost 30 of it simply by going for an hour bike ride every day, and giving up beer and soda - things I needed to do anyway.</p>
+
+<p>The next 20 required a bit more effort, but at six-one/180, the remaining weight loss was more about vanity rather than health.</p>
+
+<p>Regarding authors, DFW is too boring for my tastes, although he wrote a good article for the Atlantic a long time ago about being on a cruise ship, or something. Personally I&#8217;d suggest Paul Theroux, Gordimer, Coetzee, V.S. Naipaul, Murakami, Chandler, etc.</p>
+
+<p class="posted">posted by starkfist
+ on June 11, 2006 <a href="#c51" rel="bookmark">#</a></p>
+</div>
+<div id="c52">
+<p>I faced a similar dilemma in college.  Ten years on, I guess I&#8217;m still dealing with it.  I was born with a talent for visual art which was cultivated throughout my education.  By my mid-twenties, I had the right degrees, connections, etc., to pursue a career in art, even if only to teach at the college level.  But I had lost seeing the value in it.  A Klimt painting sold for some $130M+ last week, but I wouldn&#8217;t pay more than a few hundred bucks for any painting.  And I didn&#8217;t feel that I shared concerns in common with the professional art community &#8212; they can&#8217;t even agree on what art is.</p>
+
+<p>That said, perhaps life is too short to worry about your obligation to your talent or even the worth of your talent to society.  You&#8217;re not a packaged good, are you?  If you could take a pill that would restore your interest in and dedication to programming, would you accept it as an alternative solution to your problem?  Would you be happy if you didn&#8217;t become a great writer?  If you have the ability to do something you like, by all means don&#8217;t hesitate.  Ironically, I became a programmer, albeit not an exceptionally passionate or capable one.  Worse, I got an MBA.  I had a lot more fun creating images.</p>
+
+<p>BTW, Ford is most definately a demand driven company, although one that struggles to respond to demand.  Toyota has developed organizational capabilities that allow it to respond to demand much faster than its competitors, which in turn reduces inventory costs, commands a higher premium, etc.  But flexibility is expensive.  Toyota&#8217;s workers are actually paid quite well &#8212; more than GM&#8217;s in some instances.  Furthermore, Ford and GM are now well aware of what Toyota does, but cultures are much harder to change than machinery.</p>
+
+<p class="posted">posted by ab3nnion
+ on June 21, 2006 <a href="#c52" rel="bookmark">#</a></p>
+</div>
+<div id="c53">
+<p>I believe in getting up each day with the intent on trying to be creative in a new media. You don&#8217;t have to chose one and spend your life trying to perfect it. Cut some shapes out of potatoes, slap some paint on it and go crazy on some blank canvas. When finished go sign up for a marathon.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://feckingeejit.com">Ray Hogan</a>
+ on June 21, 2006 <a href="#c53" rel="bookmark">#</a></p>
+</div>
+<div id="c56">
+<p>You should not be too hard on yourself about writing,</p>
+
+<p>I came across this article, and found it excellent a really good read.  I have had similar feelings myself, but I do not think I could begin to express my thoughts as well as you have.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://braddet.kicks-ass.net">Brad Detchevery</a>
+ on October 31, 2006 <a href="#c56" rel="bookmark">#</a></p>
+</div>
+<div id="c57">
+<p>&#8221;[&#8230;] But I think you should consider the fact that, for people who can do both things well, writing is easier than coding.&#8221;</p>
+
+<p>Why, exactly, is it that only something that&#8217;s complicated is worth doing?  People always love to over-complicate things and thus don&#8217;t see the simplicity.
+(Writing something like &#8220;Siddhartha&#8221; [Hesse] is definitely not &#8220;easy&#8221;.  Especially when you look at when this book was published, it&#8217;s amazing that a western man understood the culture and philosophy of the far east so well.)</p>
+
+<p>&#8220;I just wanted to ask you: Are you sure (really sure) that you are not choosing to write just because it is easier?&#8221;</p>
+
+<p>There is a difference in just &#8220;writing something&#8221;, e.g., a technical document, and writing a novel.  In Kafka&#8217;s diary is an amazing entry about how he wrote &#8220;The Judgement&#8221;.
+It&#8217;s not just about documenting some API.
+You need to be talented&#8212;-just like writers as Kafka were&#8212;-to write a really great novel.  The way Kafka, Walser (Robert), Novalis, Eichendorff and many more used the german language is impressive.  Einstein, after returning a Kafka novel loaned to him by Thomas Mann, said that, &#8220;I couldn’t read it for its perversity. The human mind isn’t complicated enough.&#8221;
+There were many people who tried to copy Kafka or Mann or other famous authors, but in the end, they were just copies.  Only few people&#8212;-if at all&#8212;-use the german language that well nowadays.  Especially today where language has no value anymore, it&#8217;s even harder to be&#8212;-stylistically&#8212;-as good as all those writers back then.</p>
+
+<p>Writing isn&#8217;t something that you can do &#8220;along the way&#8221; to later return to your programming.  You have to dedicate your life to it, and all the great writers did.  Peter Handke&#8217;s story &#8220;Nachmittag eines Schriftstellers&#8221; (A writer&#8217;s afternoon) is exactly about this: how you think and feel as a writer.  Writers are always occupied with words, with transforming what they see into words.  Not just when they write, but all the time.  If you look at manuscripts of Hermann Hesse, you&#8217;ll see that there are almost no corrections, almost no crossed words or even sentences; that&#8217;s something many writers can only dream about: to be able to &#8220;write in your mind&#8221;, constructing your whole novel in your mind and then, only then, write it down.  &#8220;The Glass Bead Game&#8221; is a masterpiece.</p>
+
+<p>It&#8217;s more or less the same with programmers and mathematicians: thinking about some specific problem all the time.</p>
+
+<p>&#8220;As Terry Pratchett said: If you stay true to
+yourself, follow your dreams, reach for the stars and never stop wishing&#8230; you&#8217;ll still get beaten by the people who got off their butts and worked hard.&#8221;</p>
+
+<p>I think it&#8217;s exactly the opposite: stop wishing, become wishless.  Can you really do nothing?  It&#8217;s so easy and yet so hard.
+You always have to be talented, you always need something you are good at, otherwise you&#8217;re worth nothing.  That&#8217;s really sad and I am glad that the works of people like Laozi, Krishnamurti, Lun Yu, etc, got translated, am glad that we have people practicing Zen and Daoism.  You certainly don&#8217;t change the world with code.  The best way to change the world is not to change it.  It will change automatically the moment you change yourself; the moment you change the way you think, the way you treat people, the moment you begin to love everything, every human, every tree, every bird, even an empty plastic bag flying through the wind: everything&#8217;s just beautiful.</p>
+
+<p>Writers, philosophers, &#8220;gurus&#8221; just had and have a way greater impact on the way I think, the way I live, the way I act.  &#8216;vi&#8217; never had such a great impact on me, the BSDs never had such a great impact on me.  You just can&#8217;t compare it, can&#8217;t compare anything.</p>
+
+<p class="posted">posted by Hiroko
+ on November 22, 2006 <a href="#c57" rel="bookmark">#</a></p>
+</div>
+<div id="c60">
+<blockquote>
+Writing isn&#8217;t something that you can do &#8220;along the way&#8221; to later return to your programming. You have  to dedicate your life to it, and all the great writers did.
+</blockquote>
+
+<p>This is totally false. Among &#8220;great&#8221; writers William Carlos Williams (doctor) and Wallace Stevens (VP for Hartford Insurance) come to mind; there are many others. Donald Knuth is a remarkable writer who doesn&#8217;t usually work for a mass audience, but his lucid style is inextricable from his excellence as a computer scientist. And Oliver Sacks is highly competent both as a neurologist and writer.</p>
+
+<p>Writer and Programmer are superclasses. Multiple inheritance can lead to complexity, but it can be pretty handy, too (or so I&#8217;ve heard; I mostly program in XSLT).</p>
+
+<p class="posted">posted by Paul
+ on November 30, 2006 <a href="#c60" rel="bookmark">#</a></p>
+</div>
+<div id="c62">
+<p>Funny, I think I am not good at anything.  When I sat down and tried to write a book, I failed.  It was just too hard for me, especially with having all those books in mind that touched me.  I guess I am just to illiterate for that stuff.</p>
+
+<p>This also reminded me of Jeff Dike, author of User Mode Linux, who said that &#8220;[f]or me, writing the book was much harder than writing code. Writing prose comes much less naturally to me than writing code. On top of that, writing a book comes with other constraints such as meeting a schedule and making sure that everything you write is well-structured at all levels, from correct spelling and grammar to the manuscript being a consistent and coherent whole.&#8221; (See http://linuxhelp.blogspot.com/2006/06/interview-with-jeff-dike-creator-of.html)</p>
+
+<p>I think that if one lacks the motivation, anything  one tries out, like writing, painting, coding, &#8230;, is doomed to fail.  At least that&#8217;s what my experience says.</p>
+
+<p>Somewhat belated: all the best for 2007 to you all!</p>
+
+<p class="posted">posted by Michael
+ on January 10, 2007 <a href="#c62" rel="bookmark">#</a></p>
+</div>
+<div id="c66">
+<p>Hi Aaron this is a verry interesting article. I know you descripe the real live. Thank you and greets from germany.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.webdesign-hannover.cc">Sven Fischer</a>
+ on January 26, 2007 <a href="#c66" rel="bookmark">#</a></p>
+</div>
+<div id="c67">
+<p>The combination of both is probably THE way to go in the 21st century.
+It would not be off to think that some of the most groundbreaking people of the near future will incorporate the qualities and will have to make the choices you describe.
+Way to go!</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.laptopkarten.de/">Petr Nemec</a>
+ on February  2, 2007 <a href="#c67" rel="bookmark">#</a></p>
+</div>
+<div id="c99">
+<p>Why would you care what Godfrey Hardy thinks?  I think he just wants to stand people up on pedestals and say &#8220;Oh look, a great dead white European male!  Adulate!&#8221;  But what&#8217;s the point of adulating?  It really just begs the question.</p>
+
+<p>Why would you want to be great anything?  Someone somewhere along the line will have issues with whether you were great or not and in the end it will all end up in some textbook read to teenagers bored out of their minds with having to learn about American history (American history just isn&#8217;t bloody enough to be worth learning!).  Why not just do what you want?</p>
+
+<p>Or what I&#8217;m suggesting is that what a person truly wants is probably a better measure of what they should be doing than what is considered &#8220;great.&#8221;</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.connellybarnes.com/">Connelly Barnes</a>
+ on April  2, 2007 <a href="#c99" rel="bookmark">#</a></p>
+</div>
+<div id="c100">
+<p>I like writing too, especially fiction.  I thought programming would be more &#8216;powerful&#8217; in some sense than it ended up being; 16 years later I found out that it wasn&#8217;t as good as I originally thought it would be.  But it&#8217;s still nice for solving certain problems and helping do research or whatever; I mean it&#8217;s not a total loss.  Whereas writing is the universal solvent, it&#8217;s beautiful.</p>
+
+<p>Now I guess I personally don&#8217;t quit programming because I also like programming and if I had all the time in the world to spend on writing I&#8217;d still want to do some programming!  (The logic being that the grass is always greener and when you&#8217;re worn out with one thing, something else looks more fun, so to avoid oscillating I just choose both).</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.connellybarnes.com/">Connelly Barnes</a>
+ on April  2, 2007 <a href="#c100" rel="bookmark">#</a></p>
+</div>
+<div id="c101">
+<p>It&#8217;s tangential, but I couldn&#8217;t pass this up - the first commenter, Joseph Knecht, writes:</p>
+
+<p>&#8220;As to your distaste for programming, I&#8217;ll quote Dijkstra: programming is to computer science as telescopes are to astronomy. Do you have the same distaste and aversion for computer science?&#8221;</p>
+
+<p>This analogy seems sorely flawed to me.  Computer science facilitates programming; if there were no programs to be written, there would be no need of CS.  Telescopes, OTOH, facilitate astronomy.  Without telescopes it would be very, very hard to do astronomy.  Programming is to CS much more as composition is to music theory.</p>
+
+<p>Which is not to say that programmers are &#8216;better&#8217; than computer scientists (or that music theorists are redundant) or that programming is what Aaron should do, like it or not.  Just that programming is not really at all like a telescope.</p>
+
+<p class="posted">posted by Alex Broadhead
+ on April  3, 2007 <a href="#c101" rel="bookmark">#</a></p>
+</div>
+<div id="c104">
+<p>Hey Aaron, your articles are very interesting. Especially that one. Can I translate this article and insert it in my German website? Keep up the good work! Greetings, Markus</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.gutscheinauskunft.de">Markus</a>
+ on April 22, 2007 <a href="#c104" rel="bookmark">#</a></p>
+</div>
+<div id="c107">
+<p>I think ideas can change the world if enough people read them, but technology can really change the world, because it is the invention of new tools.</p>
+
+<p>It&#8217;s hard to say the world hasn&#8217;t changed since the invention of the personal computer, and the Visicalc spreadsheet.</p>
+
+<p>Personally, I write fiction to escape, but I write code to change the world.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://car-hire-now.blogspot.com/">Car Hire</a>
+ on May  7, 2007 <a href="#c107" rel="bookmark">#</a></p>
+</div>
+<div id="c112">
+<p>Well sure, if you put bad words in Hardy&#8217;s mouth, he sounds bad. But I&#8217;m pretty sure &#8220;cultivate [your talent] to the full&#8221; doesn&#8217;t mean &#8220;become detached from reality, rude to everyone around you, and obsessed with your self-image&#8221;.</p>
+
+<p>Nor does &#8220;exaggerat[ing] a little&#8221; mean lie.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on May 10, 2007 <a href="#c112" rel="bookmark">#</a></p>
+</div>
+<div id="c124">
+<p>Hi Aaron,
+this was an interesting reading, thanks! As I read your text and the<br />
+comments, this words of Arthur Schopenhauer came to my mind: &#8220;Talent<br />
+hits a target no one else can hit; Genius hits a target no one else<br />
+can see.&#8221;
+Well, and what about the others of us? Is focusing on things that we<br />
+can do well good enough? Or is it only a kind of noise?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.spielkartenwelt.de">Darius</a>
+ on May 16, 2007 <a href="#c124" rel="bookmark">#</a></p>
+</div>
+<div id="c127">
+<p>Auf dieser Seite werden Kommentatoren nicht willkommen. Achtung! Automatisches &#8220;rel=nofollow&#8221;!</p>
+
+<p class="posted">posted by Post
+ on May 17, 2007 <a href="#c127" rel="bookmark">#</a></p>
+</div>
+<div id="c136">
+<p>Neither you nor Hardy need justify yourselves to the world.  You are both graces upon the world, even if you do nothing for your entire lives.</p>
+
+<p>&#8220;We can live in a shack and feel secure; conversely, we can live in a mansion and be filled with fear and insecurity. Real security, the kind that will last a lifetime regardless of job status or bank balance, comes from facing up to our fears and mastering them.&#8221; - D. JoAnne Swanson</p>
+
+<p>So long as one believes in failure and success one will find oneself driven by fear.  To be driven by fear is to be the slave of fear.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.connellybarnes.com/">Connelly Barnes</a>
+ on May 23, 2007 <a href="#c136" rel="bookmark">#</a></p>
+</div>
+<div id="c152">
+<p>I agree - I think it&#8217;s exactly the opposite: stop wishing, become wishless. Can you really do nothing? It&#8217;s so easy and yet so hard. You always have to be talented, you always need something you are good at, otherwise you&#8217;re worth nothing. That&#8217;s really sad and I am glad that the works of people like Laozi, Krishnamurti, Lun Yu, etc, got translated, am glad that we have people practicing Zen and Daoism. You certainly don&#8217;t change the world with code. The best way to change the world is not to change it. It will change automatically the moment you change yourself; the moment you change the way you think, the way you treat people, the moment you begin to love everything, every human, every tree, every bird, even an empty plastic bag flying through the wind: everything&#8217;s just beautiful.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.koduj.pl">Richard Fentris</a>
+ on June  5, 2007 <a href="#c152" rel="bookmark">#</a></p>
+</div>
+<div id="c471">
+<p>Just do what you love. Period. I&#8217;ve had times in my life when that was programming - and it got me a long way, and I loved doing it while I did it. Then I felt the challenge of learning how to build a business. So I made a choice, and stepped away from coding, and started pursuing my passion of building businesses. There&#8217;s nothing wrong with your passions changing - think of it as opportunities to learn new skills.</p>
+
+<p>One of the funny (paradoxical?) results of this is that I&#8217;ve had my eyes opened on things that I&#8217;d love to code. So, I&#8217;ve gotten passionate about programming again. Ain&#8217;t life funny?</p>
+
+<p>You don&#8217;t need to apologize for being honest and self-examining - you only need to apologize if you aren&#8217;t following your love and passion.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.sifry.com/alerts/">David Sifry</a>
+ on March  5, 2011 <a href="#c471" rel="bookmark">#</a></p>
+</div>
+<div id="c473">
+<blockquote>
+  <p>Learning is like compound interest. A little bit of knowledge makes it easier to pick up more. Knowing what addition is and how to do it, you can then read a wide variety of things that use addition, thus knowing even more and being able to use that knowledge in a similar manner.5 And so, the growth in knowledge accelerates.</p>
+</blockquote>
+
+<p>By the way, if you want to cite some authority for this, Richard Hamming has some almost identical paragraphs in his essay &#8216;You and Your Research&#8217; http://www.cs.virginia.edu/~robins/YouAndYourResearch.html</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.gwern.net/">gwern</a>
+ on March  5, 2011 <a href="#c473" rel="bookmark">#</a></p>
+</div>
+<div id="c474">
+<p>Mozart was also well documented as having perfect pitch at the age of three.  The vast majority of full-time professional musicians <i>never</i> attain that after any number of year&#8217;s training.</p>
+
+<p>You can bury your head in the sand, but that doesn&#8217;t mean that talent doesn&#8217;t exist:  http://news.bbc.co.uk/2/hi/health/1209186.stm</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://logicmason.com/">Mark</a>
+ on March  5, 2011 <a href="#c474" rel="bookmark">#</a></p>
+</div>
+<div id="c475">
+<blockquote>
+  <p>Mozart was also well documented as having perfect pitch at the age of three.  The vast majority of full-time professional musicians <i>never</i> attain that after any number of year&#8217;s training.</p>
+</blockquote>
+
+<p>This is total nonsense. Everyone who grows up speaking Chinese has perfect pitch because it&#8217;s a tonal language. Genetics has nothing to do with it.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on March  8, 2011 <a href="#c475" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="nonapology" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

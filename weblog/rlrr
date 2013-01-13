@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Release Late, Release Rarely (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Release Late, Release Rarely</h1>
+
+<p>When you look at something you&#8217;re working on, no matter what it is, you can&#8217;t help but see past the actual thing to the ideas that inspired it, your plans for extending it, the emotions you&#8217;ve tied to it. But when others look at it, all they see is a piece of junk.</p>
+
+<p>You only get one chance to make a first impression; why have it be &#8220;junk&#8221;? Once that&#8217;s associated with your name or project, it&#8217;s tough to scrape off. Even people who didn&#8217;t see it themselves may have heard about it second-hand. And once they hear about it, they&#8217;re not likely to see for themselves. Life&#8217;s too short to waste it on junk.</p>
+
+<p>But when you release late, after everything has been carefully polished, you can share something of genuine quality. Apple, for example, sometimes releases stupid stuff, but it always looks good. Even when they flub, people give them the benefit of the doubt. &#8220;Well, it looks great but I don&#8217;t really like it&#8221; is a lot better then &#8220;it&#8217;s a piece of junk&#8221;.</p>
+
+<p>Still, you can do better. Releasing means showing it to the world. There&#8217;s nothing wrong with showing it to friends or experts or even random people in a coffee shop. The friends will give you the emotional support you would have gotten from actual users, without the stress. The experts will point out most of the errors the world would have found, without the insults. And random people will not only give you most of the complaints the public would, they&#8217;ll also tell you why the public gave up even before bothering to complain.</p>
+
+<p>This is why &#8220;release early, release often&#8221; works in &#8220;open source&#8221;: you&#8217;re releasing to a community of insiders. Programmers know what it&#8217;s like to write programs and they don&#8217;t mind using things that are unpolished. They can see what you&#8217;re going to do next and maybe help you get there.</p>
+
+<p>The public isn&#8217;t like that. Don&#8217;t treat them like they are.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">July  5, 2006</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>I&#8217;m a bit confused about this post. It seems like it is in stark contrast to the strategy taken with Infogami. Am I missing something? The thinking there seemed to be release something very early, and incrementally improve it with feedback from the public. Or do you consider those early users &#8220;experts&#8221;?</p>
+
+<p>http://infogami.com/blog/introduction</p>
+
+<p class="posted">posted by confused
+ on July  5, 2006 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>I tend to disagree. It&#8217;s better to get something out there that solves some demand and works reasonably well.</p>
+
+<p>Apple is a bad example on both sides of the spectrum: 1) it&#8217;s released stuff early that doesn&#8217;t work very well and 2) it&#8217;s really not a good proxy for anything in the first place. Neither is Microsoft.</p>
+
+<p class="posted">posted by pwb
+ on July  5, 2006 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>Is this something you feel you&#8217;ve learned with Infogami?  Or another of your projects?  I&#8217;d like to know what inspired this thought!</p>
+
+<p>Do you think that if you can tough it out then perhaps &#8220;Release Early, Have A Thick Skin, Come Back With Something Better&#8221; might be a good strategy?  It&#8217;s the taking of the criticism and using it to improve the thing that can be tough, or impossible.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://bluebones.net/">Thomas David Baker</a>
+ on July  5, 2006 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>There were a lot of different things going on with infogami that helped force my hand, but if none of those existed and I had the chance to act again, I&#8217;d probably follow this strategy.</p>
+
+<p>I don&#8217;t think having a thick skin helps. The problem is not that your feelings get hurt, it&#8217;s that your reputation does.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on July  5, 2006 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>This reminds me of this essay by Joel Spolsky, 
+http://www.joelonsoftware.com/printerFriendly/articles/VC.html
+where he talks about the rate of growth of various things, and discusses several failure modes of the form one outpaces the other, including this one, where PR outpaces quality of code.</p>
+
+<p class="posted">posted by Douglas Knight
+ on July  5, 2006 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c6">
+<p>Perfect is the enemy of done.</p>
+
+<p class="posted">posted by PJ
+ on July  6, 2006 <a href="#c6" rel="bookmark">#</a></p>
+</div>
+<div id="c7">
+<p>Dualisms are easy, especially to initiate discussions&#8230; early/late, high/low, public/private, programmers/non-programmers&#8230; these are generalizations one should really try to understand and then finally give up on. <em>Zenish</em></p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://tommi.raivio.net">Tommi</a>
+ on July  7, 2006 <a href="#c7" rel="bookmark">#</a></p>
+</div>
+<div id="c8">
+<p>Eh? Then again, Microsoft likes to release stuff that&#8217;s junk <em>and</em> that doesn&#8217;t look good. And Microsoft&#8217;s still as big and bad as ever.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://zompower.tk/">bi</a>
+ on July  7, 2006 <a href="#c8" rel="bookmark">#</a></p>
+</div>
+<div id="c9">
+<p>Aaron, I wonder what would happen if you posted your &#8220;Release Late, Release Early&#8221; article on Auran&#8217;s TRAINZ Simulator web site?  People have been complaining that SP1 is way overdue ever since the 2006 Edition came out.</p>
+
+<p>(Personally, I feel that good things are worth waiting for - although I also use agile approaches when appropriate.  Perhaps the key is having a toolbox that includes both ends of the spectrum combined with the wisdom of when to use each.)</p>
+
+<p class="posted">posted by Russ Schwartz
+ on July  7, 2006 <a href="#c9" rel="bookmark">#</a></p>
+</div>
+<div id="c10">
+<p>You can&#8217;t really compare Apple to a smaller development firm who&#8217;s using agile practices.  Apple has tons of developers for each project, all of which work in concert towards one goal.  If you&#8217;re using agile development, the release early/release often isn&#8217;t that you release your product to customers which would purchase it out of your web store in that state.  You release software to your client (i.e. someone who comissioned a piece of software or someone that has a specific, urgent need for that software that you will be selling).  I don&#8217;t think any software house would ever release something they knew wasn&#8217;t polished enough for release and expect it to sell.  I do think they would release something that is polished and usable with the expectation of improving on it (which, one could argue, is the Apple Way), but never something they knew was a pile of crap.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://mrneighborly.com">Jeremy McAnally</a>
+ on July  7, 2006 <a href="#c10" rel="bookmark">#</a></p>
+</div>
+<div id="c11">
+<p>infogami is  full of &#8220;barely started&#8221; wiki&#8217;s. This is party because its soo half-baked. It just downt provide some of the tools necessary to build the kind of sites it claims to help build. Now if you had released the source, others would&#8217;ve (maybe) contributed and offered suggestions. tbh infogami generated much exitement, because there are many who need a good bliki. but one which would work with third party tools (metaweblog/blogger API??), maybe google sitemaps, paid features (space for images,db,webpy scipts) etc. as for apple software dev, read mark pilgrim switch story.</p>
+
+<p class="posted">posted by Deidre
+ on July  7, 2006 <a href="#c11" rel="bookmark">#</a></p>
+</div>
+<div id="c12">
+<p>The comment on Microsoft was the DUMBEST one on this page.</p>
+
+<p>The fact is that Microsoft makes products that can be used by the average human being and not something that only techno-weenies can use.</p>
+
+<p>The proof is in the pudding &#8212; what is microsoft&#8217;s market share in the OS market?</p>
+
+<p class="posted">posted by du
+ on July  7, 2006 <a href="#c12" rel="bookmark">#</a></p>
+</div>
+<div id="c13">
+<p>Releasing early &amp; often means you get a reputation for producing concrete things &amp; for constantly improving them.</p>
+
+<p>Releasing late &amp; rarely means that you get a reputation for vaporware &amp; that your products almost always disappoint the customer (or investor). (Who notices every little flaw.)</p>
+
+<p>Unless you have the resources to develop a complete, polished application without having to hype it up to potential customers or investors&#8230;</p>
+
+<p>In my experience, even non-technical customers will respect you&#8212;in the long run if not before&#8212;if you develop a reputation of regularly delivering improvements.</p>
+
+<p>Indeed, look at Apple. Mac OS X, iLife, the MacBook Pros&#8230;they&#8217;ve released stuff that was half-baked, but they&#8217;ve also developed a reputation of constant improvements.</p>
+
+<p>Yeah, they get the pretty in up-front, but that&#8217;s relatively easy. (&amp; creates the old problem of the manager/customer thinking the application is close to being feature complete simply because the UI <em>looks</em> complete.)</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://robert.infogami.com/">Robert Fisher</a>
+ on July  7, 2006 <a href="#c13" rel="bookmark">#</a></p>
+</div>
+<div id="c14">
+<p>I see a good case for having your first release as late as your funding and competitiors will allow. But once you have a community of users to support, you need to support them with timely improvements.</p>
+
+<p class="posted">posted by Dvd Avins
+ on July  7, 2006 <a href="#c14" rel="bookmark">#</a></p>
+</div>
+<div id="c15">
+<p>When you talk of suburban population, you said you don&#8217;t have sympathy for them but they can&#8217;t be blamed, because they weren&#8217;t the ones who put themselves into that bandwagon.</p>
+
+<p>But when it comes to &#8216;public&#8217; from the standpoint of  &#8216;set up by my father&#8217; or &#8216;well, by all means, I&#8217;m very talented&#8217; computer geek, you just put down &#8216;public&#8217;.</p>
+
+<p>Usually if it&#8217;s this segmented, you need some emotional experience to follow through bit more and connect things in your head bit more.</p>
+
+<p>Douglas Engelbart really didn&#8217;t have much vision for putting computation in public use. He thought about probably layered, and porous model. Experts first use it but experts would be public-issues minded, so they&#8217;d make something good for public (this is my asumption.)</p>
+
+<p>Steve Jobs looked at Xerox Parc&#8217;s system (Alto?) and then later said he kind of made mistakes at just introducing only GUIs to public - and couldn&#8217;t take in ideas like network, teamwork with PCs. He tried to make excuse for utterly failing delivering &#8216;the system&#8217;. (and now sells ipods and stuff&#8230;) He just makes money out of public.</p>
+
+<p>We don&#8217;t even know how he use Apple machines and softwares to be really creative. Does he program? Ouch. Aaron. He doesn&#8217;t. And probably he won&#8217;t even he had 5 or 10 years of free time in his life. He&#8217;d have better things to do in his limited life time&#8230;What this means? (I&#8217;d be surprised one day Apple release how Jobs use computers&#8230;in genius way&#8230;)</p>
+
+<p>Alan Kay (according to Howard Rheingold?) said Doug&#8217;s system was too complex for him, so he went for Logo/Squeak apporach of popularizing computation among human population.</p>
+
+<p>And I know - I think I know, even open source world&#8217;s people or freeware people don&#8217;t really look into these episodes. Despite the root fact that we probably owe much to more &#8216;integrated&#8217; figure such as JCR Licklider, who worked for actualizing internet and PBS(Narrow Cast System?) - ethos and history of 20th century American tech&amp;sci communities.</p>
+
+<p>True, things become diluted, and thiner and often it&#8217;s even hard to find the way back to its roots, or springs.</p>
+
+<p class="posted">posted by a.kusaka
+ on July  7, 2006 <a href="#c15" rel="bookmark">#</a></p>
+</div>
+<div id="c16">
+<p>Infogami failed because you released early, but then failed to release often. People saw it and tried it early on the assumption that it would get better, and then you let it flop. What you should be saying is that one shouldn&#8217;t release early and then forget about it, because then people will remember you for releasing an alpha product, having people try it, and then abandoning it.</p>
+
+<p class="posted">posted by 
+ on July  8, 2006 <a href="#c16" rel="bookmark">#</a></p>
+</div>
+<div id="c17">
+<p>Very nice.  It is so hard though in this fast paced world.  We live by speed.  But, I agree with you.  What if we all live to 75-80 and spent our time on 2-3 of our favorite projects.  Can you imagine what kind of quality we could generate?  We would be considered Picasso&#8217;s or Da Vinci&#8217;s.  But,  I am sure many of us start a project, work on it for a month and then we are bored with it.  Even from a business perspective; we may see interest in a project for a while but to really turn something into quality.  It seems like a rare thing these days.</p>
+
+<p>STEPHEN R. COVEY and his habit books have some things to say about this.  To your original comment, it is all about mental programming.  And some of us have some bugs in that regard.  Me being one of them.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.newspiritcompany">Berlin Brown</a>
+ on July  8, 2006 <a href="#c17" rel="bookmark">#</a></p>
+</div>
+<div id="c18">
+<p>Re vaporware: I didn&#8217;t state this explicitly, but I was assuming you didn&#8217;t publish any details about what you were doing until you released.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.aaronsw.com/">Aaron Swartz</a>
+ on July 10, 2006 <a href="#c18" rel="bookmark">#</a></p>
+</div>
+<div id="c19">
+<p>Re vaporware: But my point was that in the software business&#8212;at least for most of us&#8212;you <em>have</em> to give details to <em>somebody</em> before you&#8217;re ready for a release. Having a good reputation with your investors is as important as having a good reputation with customers.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://robert.infogami.com/">Robert Fisher</a>
+ on July 13, 2006 <a href="#c19" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="rlrr" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

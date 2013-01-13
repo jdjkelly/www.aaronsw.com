@@ -1,0 +1,51 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Small is Beautiful (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000825" title="Activity Log" />	<link rel="next" href="000828" title="Attention State Employees" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Small is Beautiful</h1>
+</div>
+
+<div class="content">
+<p>I&#8217;ve been working on a book called <cite>Small is Beautiful: The Unix Philosophy</cite>, to be serialized in <a href="http://www.tekka.net/">Tekka</a>. It&#8217;s been a lot of fun.</p>
+
+<p>It&#8217;s a book I think needs writing. It discusses the Unix model of small one-task tools, simple human-readable formats, etc. not just listing the requirements, but arguing for them in a tight and witty style.</p>
+
+<p>(Eric Raymond has a book called <a href="http://www.catb.org/~esr/writings/taoup/">The Art of Unix Programming</a> but he doesn&#8217;t seem to know what he&#8217;s talking about. Mike Gancarz has a book called <cite>The Unix Philosophy</cite> but it was pretty uninteresting.)</p>
+
+<p>I&#8217;m not really the best person to write this book, so I want your help. If you&#8217;re the kind of Unix geek who uses <a href="http://cr.yp.to/software.html">software by djb</a> whenever possible, or finds a sort of abstract beauty in being able to do great things from small programs, or tries to write small and elegant programs instead of big and powerful ones, I need your help. </p>
+
+<p>Whether it&#8217;s in writing some stuff, editing what I&#8217;ve written, or just reading it and telling me what you think, any help you can provide would be greatly appreciated. If you&#8217;re interested, <a href="mailto:unixphil@aaronsw.com">send a note to unixphil@aaronsw.com with your background and qualifications</a>.</p>
+
+<p class="posted">posted January 27, 2003 04:09 PM (<a class="category" href="cat_technology">Technology</a>)  <a href="000826" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000825" title="Activity Log">&laquo; prev</a> | <a href="./">up</a> | <a href="000828" title="Attention State Employees">next &raquo;</a></p>
+
+<p><a href="000820">Tolkien&#8217;s Lawyers Harass Small Publisher</a><br />
+<a href="000821">Between Iraq and a Hard Place</a><br />
+<a href="000823">Happy Birthday, Weblog!</a><br />
+<a href="000824">War Tax</a><br />
+<a href="000825">Activity Log</a><br />
+<strong>Small is Beautiful</strong><br />
+<a href="000828">Attention State Employees</a><br />
+<a href="000829">Why &#8220;Intellectual Property&#8221; is not Property</a><br />
+<a href="000831">Enabling IPv6 on OS X</a><br />
+<a href="000834">explain it to me</a><br />
+<a href="000838">News Update</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

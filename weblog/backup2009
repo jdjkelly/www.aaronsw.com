@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>A Backup Solution? (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>A Backup Solution?</h1>
+
+<p>For years I&#8217;ve wanted a backup solution that just works. (<a href="http://www.aaronsw.com/weblog/lazybackup">Here&#8217;s a blog post from 2006 asking for it.</a>) The recent Coding Horror disaster got me thinking that this year I should take another look.</p>
+
+<p>There have been some great strides in backup software in recent years. For Unix, there&#8217;s rdiff-backup , duplicity, brackup, and tarsnap. For Macs, there&#8217;s Time Machine (which doesn&#8217;t support remote backups), BackBlaze, Mozy, and Carbonite (which don&#8217;t do full-disk backups). None of them seem to just work.</p>
+
+<p>It seems amazing to me how bandwidth and disk drives have gotten huge in recent years, while backup software has gotten more conservative and efficiency-obsessed. If you want to make regular copies of your entire disk, the best program is still old-fashioned <code>dump</code>, a program written in the era of tape drives. All the state-of-the-art stuff is designed to run on particular folders.</p>
+
+<p>But then I found <a href="http://b9.crashplan.com/consumer/index.html">CrashPlan</a>. For $100, you can back up all your machines to it as often as you like. The installation process is super-simple, it runs in the background without killing your net connection (BackBlaze would always slow my machine and my network down), and it works on Macs as well as Unix. It even makes it easy to control remote headless servers &#8212; just open an SSH tunnel to the machine you want to configure and you can use your local client to configure the remote machine.</p>
+
+<p>The only trouble is that it <a href="https://crashplan.zendesk.com/forums/30387/entries/29297">doesn&#8217;t support bare-metal restores</a> or <a href="http://support.crashplan.com/doku.php/articles/supported_metadata">xattr</a>. I don&#8217;t understand why and hope that&#8217;ll be fixed.</p>
+
+<p>Does anyone know of a better solution?</p>
+
+<p><strong>Update:</strong> Everyone hates Mozy. <a href="https://spideroak.com/">SpiderOak</a> seems interesting, but is even less designed for full-disk backup.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">January  3, 2010</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>Not sure if it&#8217;s comparable or what you&#8217;re looking for but have you looked into Mozy?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://clichereality.com/">Mike</a>
+ on January  3, 2010 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>FYI: Time Machine just works.</p>
+
+<p class="posted">posted by Sérgio Nunes
+ on January  3, 2010 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>I would agree that Time Machine just works. For full disk backup on the Mac, SuperDuper is the way to go.</p>
+
+<p class="posted">posted by Hendrik
+ on January  3, 2010 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>Oh, and I finally uninstalled Mozy a few months into the yearly subscription I paid for. My advice: stay away.</p>
+
+<p class="posted">posted by Hendrik
+ on January  3, 2010 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>Mozy is awful; stay away is right.</p>
+
+<p class="posted">posted by Brian
+ on January  3, 2010 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c6">
+<p>What&#8217;s wrong with Tarsnap, aside from (a) needing an explicit &#8212;exclude /proc until I release the next version, and (b) not being shipped with a cron job?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.tarsnap.com/">Colin Percival</a>
+ on January  4, 2010 <a href="#c6" rel="bookmark">#</a></p>
+</div>
+<div id="c7">
+<p>Arq Backup is backup for the Mac that just works, and seems to meet all your 2006 post&#8217;s criteria.
+It backs up your stuff to your own Amazon S3 account, so you don&#8217;t have to worry about a startup disappearing with your backups.
+You give it a size limit and it thins old backups similar to the way Time Machine does, deleting the oldest backups to stay within the limit.
+It has bandwidth throttling.
+It backs up every single piece of Mac metadata, passing all backup-bouncer tests (http://www.n8gray.org/code/backup-bouncer/).
+Get it at http://www.haystacksoftware.com/arq/</p>
+
+<p>But it&#8217;s online backup. If you wanted just local (external-disk) backup, Time Machine works fine. It doesn&#8217;t pass all the backup-bouncer tests, but the ones it fails (restoring hard links, devices and FIFOs) may not matter for you.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.haystacksoftware.com">Stefan</a>
+ on January  4, 2010 <a href="#c7" rel="bookmark">#</a></p>
+</div>
+<div id="c8">
+<p>I used Mozy for a while on the PC, then for a while on the Mac, and finally gave up. Too much system load, often when there isn&#8217;t a backup running. Lots of &#8220;preparing&#8221; in which it appears to pointlessly store encrypted data as temp files prior to transferring. Software fails in stupid ways from time to time. Not recommended.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://kylecordes.com">Kyle Cordes</a>
+ on January  4, 2010 <a href="#c8" rel="bookmark">#</a></p>
+</div>
+<div id="c9">
+<p>I love CrashPlan.  I have been using it for ~3 months on mac to backup my drobo - it is the only s/w that backs up external drives AND doesn&#8217;t delete the data if the external drive goes away.</p>
+
+<p>I paid $125 for a 3 year plan for one computer, worth the price.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.anands.net">Anand Sankaran</a>
+ on January  4, 2010 <a href="#c9" rel="bookmark">#</a></p>
+</div>
+<div id="c10">
+<p>I just ran into the same issue on my Mac - I wanted very reliable backups. I also chose CrashPlan for my incremental (non-OS) backups after having been a Mozy user since their beta. Mozy had become totally unreliable for me. CrashPlan just works a lot better.</p>
+
+<p>As for OS-level backups, I take a weekly image to an external drive using SuperDuper. I have a current image as well as a base re-install image. Both are bootable, and SuperDuper refreshes the current without any intervention.</p>
+
+<p>I setup my mom recently, and instead of SuperDuper, I used Carbon Copy Cloner for her Mac. It seems to work just as well as SuperDuper, but it&#8217;s free. On the other hand, I don&#8217;t have a few years of success with it, so YMMV.</p>
+
+<p class="posted">posted by Dave
+ on January  4, 2010 <a href="#c10" rel="bookmark">#</a></p>
+</div>
+<div id="c11">
+<p>Hybir Backup is interessting. It is windows only for now. It supports full backups and bare metal restores and has some unique performance advantages. Check out the screen casts here:</p>
+
+<p>http://www.hybir.com/Action/HybirBackupAction.html</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.hybir.com">Rasch</a>
+ on January  4, 2010 <a href="#c11" rel="bookmark">#</a></p>
+</div>
+<div id="c12">
+<p>MozyHome works pretty well for me – on both Mac and Windows. If you ever need it, their 2nd level support is good.</p>
+
+<p>Use the following link to get 20% more space (512 Mb) on a free MozyHome 2 Gb account:</p>
+
+<p>https://mozy.com/?code=D685JF</p>
+
+<p class="posted">posted by ChiliPepr
+ on January  4, 2010 <a href="#c12" rel="bookmark">#</a></p>
+</div>
+<div id="c13">
+<p>Call me a crochety old man, but cloud backup just seems to compound one&#8217;s oh-frak-my-disk-crashed problems. Call me when network bandwidth has caught up to, say, Firewire, and I can boot my local machine from the cloud image.</p>
+
+<p>After some close calls with a more conservative system, I decided to stop screwing around: I use SuperDuper, a Voyager Q, and three 1.5TB Hitachi drives ($99 each) in rotation. One is always at work, and the other always at home. I back up all my computers to those drives.</p>
+
+<p>SuperDuper is.</p>
+
+<p class="posted">posted by Clay Bridges
+ on January  4, 2010 <a href="#c13" rel="bookmark">#</a></p>
+</div>
+<div id="c14">
+<p>There is another option to backup data to cloud storage powered by Amazon S3. Check out CloudBerry Backup http://cloudberrydrive.com/ . It is one time fee and the rest what you pay for Amazon S3</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://backup.cloudberrylab.com">Andy</a>
+ on January  4, 2010 <a href="#c14" rel="bookmark">#</a></p>
+</div>
+<div id="c15">
+<p>I too have longed for a backup system that &#8220;simply worked&#8221;. I have found it in BackupPC, a Linux package available for most distros.</p>
+
+<p>It uses rsync to work it&#8217;s flawless magic. It will manage snapshots for you and allow you to archive them to a portable drive. I use this feature once a week to write snapshots off to an encrypted disk partition and store it at my neighbor&#8217;s house for DR.</p>
+
+<p>Recovery is a point and click no brainer via it&#8217;s web interface. Works every time I&#8217;ve needed it.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.toshfamily.info">Julian Tosh</a>
+ on January  4, 2010 <a href="#c15" rel="bookmark">#</a></p>
+</div>
+<div id="c16">
+<p>I have been using &#8220;Jungle Disk&#8221; (http://www.jungledisk.com) for quite awhile and I really like it. It uses S3 and there are Mac, PC, and Linux versions. They have worked a lot of the bugs out and it is really nice. You can set it to run late at night/early in the morning too.</p>
+
+<p>I also think Crash Plan is pretty good too but I scripted a simpler version of it using RSync and have been using that for quite a while locally.</p>
+
+<p class="posted">posted by John Seals
+ on January  4, 2010 <a href="#c16" rel="bookmark">#</a></p>
+</div>
+<div id="c18">
+<p>I had a bad experience with Mozy. I&#8217;m currently using a program I wrote myself. It compares disk A with disk B and changes disk B to match disk A. My PC has 2 disks of the same size and the 2nd acts as a backup of the first. How well does it work? I actually don&#8217;t know because I haven&#8217;t had a hard drive crash since I started this. But theoretically if my main hard disk crashed, I could swap in the 2nd disk, and boot up.</p>
+
+<p class="posted">posted by Wayne
+ on January  5, 2010 <a href="#c18" rel="bookmark">#</a></p>
+</div>
+<div id="c19">
+<p>My (debian linux) server uses duplicity to back itself up to S3.  A copy of the necessary ssh and PGP keys is on an SD card in a folder in my files.</p>
+
+<p>My (ubuntu) laptop backs itself up to SpiderOak(.com) using their tools (which are updated via an ubuntu repo like the rest of the OS).  Cheaper than CrashPlan, it sounds like, but also available to restore with just a username/password (stored in hardcopy in my wallet).  Also does folder-sync between multiple machines and dropbox kinds of things.</p>
+
+<p>I haven&#8217;t had to think about backups in a couple of <em>years</em>.</p>
+
+<p class="posted">posted by pjz
+ on January  5, 2010 <a href="#c19" rel="bookmark">#</a></p>
+</div>
+<div id="c20">
+<p>I&#8217;m also a current user of JungleDisk, their biggest advantages:</p>
+
+<ul>
+<li><p>simple backup combined with network drive</p></li>
+<li><p>Allows S3 or Rackspace storage</p></li>
+</ul>
+
+<p>I&#8217;m thinking on moving to SpiderOak if they go open source. I&#8217;ve written my own take on desktop backup here:
+http://shmichael.com/2009/12/desktop-backup-traditional-and-torrent-like/</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://shmichael.com">Michael Shynar</a>
+ on January  6, 2010 <a href="#c20" rel="bookmark">#</a></p>
+</div>
+<div id="c21">
+<p>JungleDisk used to be awesome, but now has a $2/mo &#8216;because we can&#8217; fee whereas you used to just pay Amazon for the storage on S3.</p>
+
+<p class="posted">posted by eyafb
+ on January  6, 2010 <a href="#c21" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="backup2009" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

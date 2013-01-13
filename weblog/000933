@@ -1,0 +1,57 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Charging Society (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000932" title="Your Mission, Should You Choose to Accept It" />	<link rel="next" href="000934" title="Dave Winer Keynote" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Charging Society</h1>
+</div>
+
+<div class="content">
+<p>Mark Bernstein, who should know better, <a href="http://markbernstein.org/May0301.html#note_34865">argues that software should be charged for</a>. I hear this a lot, but it ignores the underlying reality of how software is made. (In fact, it reminds me of the people who argue that the Internet should be pay-per-bit because, hey, look at all those bits being used up!) Producing software only costs a bunch of time, once.</p>
+
+<p>There are a number of ways you can get that time: the author could already have a living (a lot of the best software is written this way, by professors or by programmers in their free time), his salary can be paid by some or all of the users who commission the software, or the software can be written speculatively and the cost can be paid back slowly by individual users.</p>
+
+<p>All of these are perfectly valid ways of getting to write software, yet Mark (and others) imply that the first two (free time and commissioned) are somehow less valid than others.</p>
+
+<p>I would argue (rather controversially) that the last might be less valid. It allows authors of popular things to make far more money than those who make less popular ones, even if they put in the same amount of work. </p>
+
+<p>We don’t see this outside of the creative world: the man who paves the LA freeway makes roughly the same as the man who paves the little dead-end street outside my house, even though the LA freeway is used a great deal more often.</p>
+
+<p>What’s the benefit of society paying all this extra money? The traditional one seems to be to offset the costs of speculation. The author of speculative software takes the risk that no one will buy it, and he’ll lose everything he spent creating it. In exchange, he gets the reward that if it’s really popular he’ll make far more then he spent to create it, hopefully enough to subsidize his failures.</p>
+
+<p>This seems like a realy stupid and inefficient system to me, and while I’m not sure how to replace it in every case, it seems like it should be avoided when possible. That’s why I don’t understand it when Mark denigrates the systems we’ve come up with for replacing it. If anything, it’s the system of speculation (and its high costs to society) that should be denigrated.</p>
+
+<p>Mark, as someone developing software speculatively, may not want to call attention to the money he could be unfairly taking from society through this system. But Mark’s software seems to be exactly the niche product which would benefit from an alternate system. So what keeps him attached to this one? Is it the dream of writing the Great American Program and striking it rich?</p>
+
+<p class="posted">posted May 26, 2003 10:03 AM (<a class="category" href="cat_technology">Technology</a>)  <a href="000933" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000932" title="Your Mission, Should You Choose to Accept It">&laquo; prev</a> | <a href="./">up</a> | <a href="000934" title="Dave Winer Keynote">next &raquo;</a></p>
+
+<p><a href="000924">1201 Hearings</a><br />
+<a href="000929">Joss Quest</a><br />
+<a href="000930">RFC: Annals of Planet Hacking</a><br />
+<a href="000931">PowerPoint Remix</a><br />
+<a href="000932">Your Mission, Should You Choose to Accept It</a><br />
+<strong>Charging Society</strong><br />
+<a href="000934">Dave Winer Keynote</a><br />
+<a href="000935">Like Father Like Son</a><br />
+<a href="000936">Something&#8217;s Coming</a><br />
+<a href="000938">Joss Update</a><br />
+<a href="000939">Eldred Petition</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

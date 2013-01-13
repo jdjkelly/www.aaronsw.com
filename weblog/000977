@@ -1,0 +1,80 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>A Clean, Well-Lighted Place for Specs (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000972" title="Ask Dr. Law: Piercings and the First Amendment" />	<link rel="next" href="000978" title="The Voice of America" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>A Clean, Well-Lighted Place for Specs</h1>
+</div>
+
+<div class="content">
+<p>Dave Winer says <a href="http://backend.userland.com/2003/06/14#a227">Movable Type’s RSS is funky</a> because <a href="http://notabug.com/blankblog/">an out-of-the-box MT blog</a> comes with an RSS 1.0 and an RSS 2.0 feed. He says “UserLand clearly moved first in RSS in blogging tools, and it’s up to the people who are following, to do so with respect.” Here’s what I understand this to mean:</p>
+
+<ul>
+  <li>UserLand was the first to support RSS.</li>
+  <li>If you want to do something differently, you need to get permission for the person who did it first.</li>
+</ul>
+
+<p>Respectfully, I disagree with both of these. (So feel free to correct me!)</p>
+
+<p>Here’s the history:</p>
+
+<ul>
+  <li><a href="http://davenet.userland.com/1997/12/15/scriptingNewsInXML">Dave introduced the scriptingNews format</a>.</li>
+  <li><a href="http://web.archive.org/web/20001208063100/http://my.netscape.com/publish/help/quickstart.html">Netscape released RSS 0.90</a>, which was based on RDF.</li>
+  <li><a href="http://my.userland.com/stories/storyReader$11">Dave introduced scriptingNews 2.0b1</a>, which didn’t use RDF, and <a href="http://davenet.userland.com/1999/06/16/aFaceOffWithNetscape">tried to get Netscape to use it.</li>
+  <li>Netscape took some of Dave suggestions and <a href="http://web.archive.org/web/20001109153100/http://my.netscape.com/publish/help/mnn20/quickstart.html">released RSS 0.91</a>, which didn’t use RDF anymore.</li>
+</ul>
+
+<p>After a while it became obvious that Netscape was no longer maintaining RSS, so: </p>
+
+<ul>
+  <li>An independent group of people <a href="http://lists.xml.org/archives/xml-dev/200008/msg00396.html">released RSS 1.0</a>, which extended the RDF-based original RSS 0.90 format.</li>
+  <li>Dave released <a href="http://backend.userland.com/rss092">RSS 0.92</a> and then <a href="http://backend.userland.com/rss">RSS 2.0</a>, claiming that because Netscape took some of his suggestions, he should be in charge of RSS now that they were gone.</li>
+</ul>
+
+<p>(Thanks to <a href="http://bitsko.slc.ut.us/blog/2003/06/11/rss-links-0dot3">bitsko’s RSS links</a> for the links.)</p>
+
+<p>So by Dave’s theory, we need to get permission from Netscape to innovate. Netscape’s not around to give permission, so I guess we’re all stuck with RSS 0.90 and 0.91.</p>
+
+<p>But Dave’s theory is wrong too. If we followed it, it would severely hamper innovation. Imagine if Microsoft had moved first in RSS. (Oh wait, <a href="http://www.wired.com/news/technology/0,1282,2538,00.html">they did</a>, only they called it CDF, not RSS.) Do we have to get permission from Microsoft to innovate? Do you really think Microsoft is going to let you innovate and take away their users? The effect would be to end innovation in RSS, which would be bad for everyone</p>
+
+<p>Dave claims that the respecting him (and dampening innovation) is necessary for interop. This is also silly. When I wrote an RSS aggregator, way back in the day, it took me two lines of code to add support for the RDF-based version of RSS. (Slashdot used it, and I wanted to read Slashdot.) The other place Dave has used his respect argument (weblog APIs), he’s complained about some minor changes like changing names and the positions of arguments, things that also only take a couple lines of code to fix. Does Dave really think that saving a couple lines of code is more important than innovation?</p>
+
+<p>Now I like Dave, and I don’t mean to flame him, but I just can’t sit by while he repeatedly asks Movable Type to stop innovating. However, I do agree that it would be good to have a common base of weblog standards which are supported by everyone and are easily extensible.</p>
+
+<p>I’ve got a proposal (RSS 2.0 + HTTP POST) but more important than any single proposal is establishing an framework for mutual innovation and support. There’s a lot of improvements that can be made here, and we need a safe place to make them. Any suggestions?</p>
+
+<p><strong>Update:</strong> Sam Ruby is trying an experiment. He’s started <a href="http://www.intertwingly.net/wiki/pie/">a wiki for discussing what makes a well-formed  log entry</a>.</p>
+
+<p class="posted">posted June 16, 2003 12:42 PM (<a class="category" href="cat_technology">Technology</a>)  <a href="000977" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000972" title="Ask Dr. Law: Piercings and the First Amendment">&laquo; prev</a> | <a href="./">up</a> | <a href="000978" title="The Voice of America">next &raquo;</a></p>
+
+<p><a href="000938">Joss Update</a><br />
+<a href="000939">Eldred Petition</a><br />
+<a href="000940">Recording Industry v. Deep, John (The Aimster Case)</a><br />
+<a href="000970">Guilty Pleasures</a><br />
+<a href="000972">Ask Dr. Law: Piercings and the First Amendment</a><br />
+<strong>A Clean, Well-Lighted Place for Specs</strong><br />
+<a href="000978">The Voice of America</a><br />
+<a href="000981">Algorithm for Determining Imagination from Reality</a><br />
+<a href="000985">Time for Forward Motion</a><br />
+<a href="000986">Google AdSense</a><br />
+<a href="000987">Trip Announcement</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

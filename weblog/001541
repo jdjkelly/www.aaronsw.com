@@ -1,0 +1,166 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Stanford: Friday, December 3 (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001541.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001540" title="Stanford: Thursday, December 2" />	<link rel="next" href="001542" title="Stanford: Saturday, December 4" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Stanford: Friday, December 3</h1>
+</div>
+
+<div class="content">
+<p>ASIMO, the walking Honda robot, is here to visit as part of some sort of tour. They&#8217;ve put together an expensive and technicolored set on our stage. Honda guards are posted all over and Honda posters and things are all over the walls.</p>
+
+<p>ASIMO is first introduced by a man from the Alliance for Innovative Manufacturing here at Stanford. He speaks with such an unmanufacturingly-like enthusiasm and precision that I wonder if, in addition to the set, the posters, and the guards, Honda actually went to the trouble of training the local person to introduce them &#8212; or worse, hiring a professional announcer to join the Alliance for Innovative Manufacturing.</p>
+
+<p>[<strong>UPDATE:</strong> John Aney, the fellow from the Alliance wrote in soon after I posted this. &#8220;I know your blog is read pretty widely,&#8221; he writes &#8212; apparently it&#8217;s read more widely than I thought. He explains his enthusiasm by saying he&#8217;s an actor and thanks me for plugging <a href="http://www.stanford.edu/group/AIM">AIM</a> (not to be confused with <a href="http://the-op.com/media/image2.php?oid=2&amp;i=98&amp;cat=6200">AOM</a>).]</p>
+
+<p>Then the even more enthusiastic and precise Honda guy runs on the stage, lauding ASIMO as &#8220;an <em>amazing</em> technological achievement&#8221;, with the kind of easily-mocked enthusiastic-announcer emphasis on <em>amazing</em> that you&#8217;d expect. The whole show is very professional, with timed lighting and multiple plasma screen displays and projectors and so on. The guy shows us a movie entitled about how ASIMO&#8217;s history, entitled the &#8220;Power of Dreams&#8221;. The lighting on stage even changes in sync with the film. We see how ASIMO is so famous, he&#8217;s even been on <em>South Park</em>.</p>
+
+<p>Then it&#8217;s time for the main event. ASIMO comes out in a huge rockstar entrance, with smoke and loads of applause while &#8220;Walking on Sunshine&#8221; plays. The emotional pitch is perfect; you can&#8217;t help but love the little robot. ASIMO shows us his adorable hula hoop and disco moves. Then comes the big deal &#8212; he walks up stairs. (ASIMO can only walk up stairs which have been pre-measured and specially marked.)</p>
+
+<p>I can&#8217;t help but wonder where the got the money for all this silliness. The Japanese government must have paid them, I guess.</p>
+
+<p class="posted">posted February 04, 2005 05:03 PM (<a class="category" href="cat_education">Education</a>) (<a href="#comments">1 comments</a>) <a href="001541" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001540" title="Stanford: Thursday, December 2">&laquo; prev</a> | <a href="./">up</a> | <a href="001542" title="Stanford: Saturday, December 4">next &raquo;</a></p>
+
+<p><a href="001533">Keeping Up with the Rosses</a><br />
+<a href="001536">Stanford: Monday, November 29</a><br />
+<a href="001537">Stanford: Tuesday, November 30</a><br />
+<a href="001538">Stanford: Wednesday, December 1</a><br />
+<a href="001540">Stanford: Thursday, December 2</a><br />
+<strong>Stanford: Friday, December 3</strong><br />
+<a href="001542">Stanford: Saturday, December 4</a><br />
+<a href="001545">Your Congress is a Bunch of Idiots</a><br />
+<a href="001546">Stanford: Sunday, December 5</a><br />
+<a href="001547">George Ryan on the Penalty of Death</a><br />
+<a href="001548">Stanford: Tuesday, December 7</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c3895">
+
+<p>I love this little robot I sad that I missed such a disply at your school. I hope things are going well and that you are learning alot I see that you have won alot of awardsat at a young age.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.globaladvancedmedia.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=3895">Mike</a> at February  6, 2005 01:19 PM <a href="#c3895">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001541.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1541" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

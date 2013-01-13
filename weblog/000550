@@ -1,0 +1,51 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>IMS/ISC Takes their Case to the BOGSAAT (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000549" title="Am I Insane or Not?" />	<link rel="next" href="000551" title="The Emergent Internet" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>IMS/ISC Takes their Case to the BOGSAAT</h1>
+</div>
+
+<div class="content">
+<p>IMS/ISC: <a href="http://www.icann.org/tlds/org/applicant-comments/ims-isc-29aug02.htm">Comments on .org Preliminary Evaluation Report</a>.</p><blockquote><p>The analysis was an impressive display of committee logistics and resulted in three different rating algorithms, which fed a staff meta-algorithm, which in turn produced a summary result. Unfortunately, your code didn&#8217;t compile on our systems:</p><ul><li>There was no technical due diligence conducted as part of the evaluation. Past performance claims are not documented and no examination of code, logs, or configurations was conducted.</li><li>The evaluation was all theory and no practice. Since the distance between theory and practice is so much smaller in theory than in practice, it is no surprise that the evaluations were able to boil complex problems down to simple metrics.</li></blockquote><p>ICANNWatch: <a href="http://www.icannwatch.org/article.php?sid=927">Old Internet Thinking RIP</a>. &#8220;See, the problem is that Malamud&#8217;s entire essay is consumed with irrelevant Old Internet considerations like running code, technical merit, and whether it makes sense to evaluate a program without ever looking at it. This IETF-style approach to the problem of finding reasonable solutions to problems has no place in the Brave New Internet of today where expensive consulting firms decide that proposals produced by expensive consulting firms have the most merit, where merit is defined as producing familiar-looking paper.&#8221;</p>
+
+<p><a href="http://www.icann.org/tlds/org/applicant-comments/switch-29aug02.pdf">SWITCH Comments</a>: &#8220;This evaluation process was an All-American play.&#8221;</p>
+
+<p><a href="http://www.icann.org/tlds/org/applicant-comments/dotorgfoundation-29aug02.htm">DotOrg Foundation Comments</a>: &#8220;Our spreadsheets demonstrate what happens when one or more errors are corrected. Scoring can shift to a startling degree.&#8221;</p>
+
+<p><a href="http://www.icann.org/tlds/org/applicant-comments/orgfoundation-29aug02.htm">.Org Foundation Comments</a>: &#8220;The NCDNHC Report stated on page 20 that The .Org Foundation &#8220;did not respond to the NCDNHC questions, nor to any other substantive questions on the list&#8221;. This is a completely false and highly prejudicial statement.&#8221; &#8220;Based on the significant inaccuracies stated as justification for our low ranking we hereby request that Gartner or the ICANN Staff re-evaluate our proposal and publish the findings.&#8221;</p>
+
+<p><a href="http://www.icann.org/tlds/org/applicant-comments/organic-29aug02.pdf">Organic Names Comments</a>: &#8220;Emails that appeared to be from the subcommittees (whose identities were not known to Organic Names) were referred to ICANN to determine whether ICANN wished us to answer them. In each case, the answer was ‘no’.&#8221;</p>
+
+<p class="posted">posted August 31, 2002 09:04 PM (<a class="category" href="cat_politics">Politics</a>)  <a href="000550" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000549" title="Am I Insane or Not?">&laquo; prev</a> | <a href="./">up</a> | <a href="000551" title="The Emergent Internet">next &raquo;</a></p>
+
+<p><a href="000544">Transform Your Mac with CandyBar</a><br />
+<a href="000545">IMS Gets Mad, Even</a><br />
+<a href="000547">This is TrackBack. Blosxom, do you copy?</a><br />
+<a href="000548">Spring has Sprung!</a><br />
+<a href="000549">Am I Insane or Not?</a><br />
+<strong>IMS/ISC Takes their Case to the BOGSAAT</strong><br />
+<a href="000551">The Emergent Internet</a><br />
+<a href="000553">Books Consume Life</a><br />
+<a href="000554">got spam?</a><br />
+<a href="000557">MJD&#8217;s File of Good Advice</a><br />
+<a href="000558">There&#8217;s Only One Way To Do It</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Blast from the Past (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Blast from the Past</h1>
+
+<p>I was reorganizing some of my files when I came across <a href="http://www.aaronsw.com/soapbox/">this website</a>, a proto-blog kind of thing I apparently made aroun 1999 (to judge from the content). There, too, I wrote a review of two books about our educational system, and it was interesting to look at how my writing style and views have changed.</p>
+
+<p>While the writing style is certainly childish and poorly-edited, it&#8217;s not unreadable (certainly not as unreadable as some academic writers) and the content is still reasonably sophisticated (with a bit of rewriting, the content could have passed for a blog post last week). And the web design is not too bad either, all things considered.</p>
+
+<p>So, for this week&#8217;s Sunday Bonus Post, here&#8217;s <a href="http://www.aaronsw.com/soapbox/compclass.html">an excerpt</a>:</p>
+
+<blockquote>
+  <p>Teachers spend more time teaching students how to do research instead of teaching them research skills [&#8230;]. One project put on by teachers at the North Shore Country Day School [the school I attended at the time] asks students to rate the quality of life for different countries. The students were eager to get into a discussion of the most important factors in a measurement of quality of life and the proper way to compare radically different countries. However, the teachers required that the students make these decisions quickly so that more time could be spent on learning computer research skills. Students were also not allowed to use factors that could not be found on the Internet. With projects like this, time is taken away from exciting discussions and debates to spend more time using the computer.</p>
+  
+  <p>One teacher assigned supplemental work for students to do on the computer. &#8220;Isn&#8217;t this just extraneous busywork?&#8221; one astute student asked. &#8220;Yes,&#8221; the teacher replied, &#8220;but it practices computer skills.&#8221; Computer skills must be very important for students to learn. So many teachers and schools dedicate so much time to their learning &#8212; some schools even have classes dedicated to them. &#8220;The computer is a tool,&#8221; the schools explain, &#8220;one that students must learn to use properly.&#8221; However, a pencil is also a tool which must be used properly, yet how many schools have classes on the proper use of pencils? Students are expected to learn usage of such tools on their own or at a younger age. Yet the computer demands constant education and instruction on its usage. This instruction is far more than that demanded by any other tool.</p>
+</blockquote>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">October 15, 2006</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>Oh, neat, an archeological find. Nothing like it to quell any sense of making no progress.</p>
+
+<p>As Alan Kay says, the computer is like the piano; A piano can help you express the music inside you, or, by poor instruction, it can crush your musical sense altogether. Computer teaching in schools is so misguided I wouldn&#8217;t know where to start if I tried to explain how.</p>
+
+<p>Unfortunately or fortunately, all my old works were lost in a disk crash (except for a few rather embarrassing mailing list posts, which you can google for if you want a glimpse into the mind of a child of pentecostal christians).</p>
+
+<p class="posted">posted by David McCabe
+ on October 15, 2006 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="schooltool" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

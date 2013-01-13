@@ -1,0 +1,642 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Misreading Jefferson is Sinful and Tyrannical (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/xml/001224.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001223" title="Where&#8217;s Okrent? The End of the Times" />	<link rel="next" href="001225" title="[REDACTED]" />
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Misreading Jefferson is Sinful and Tyrannical</h1>
+</div>
+
+<div class="content">
+<p>&#8220;To compel a man to furnish contributions of money for the propagation of opinions which he disbelieves is sinful and tyrannical.&#8221;</p>
+
+<ul>
+<li>Thomas Jefferson</li>
+</ul>
+
+<p>Ever heard that quote? Some people, usually conservatives and libertarians, love to use it to imply that Jefferson would have frowned upon using tax money to fund contrasting opinions. They apply this to government funding of political campaigns, government-funded ad campaigns, NPR, PBS, C-SPAN, telephones, television, radio, town halls, soapboxes, street corners, sidewalks, or whatever else is making them grumpy that day.</p>
+
+<p>For one thing, it&#8217;s not hard to see that the interpretation is absurd. Following that rule, we couldn&#8217;t pay congressmen or judges with tax money (they might say something a taxpayer disagrees with), nor could the government publish records of legislative debate (a legislator might say something disagreeable), or even laws (might make a disagreeable claim!).</p>
+
+<p>Second, it&#8217;s not too hard to see this probably isn&#8217;t what Jefferson meant. He says &#8220;furnish contributions of money&#8221;. Not &#8220;spend another man&#8217;s money&#8221;, but instead something which sounds like forcing a specific directed contribution, not simply using general tax revenue. He also says &#8220;opinions which he disebelieves&#8221;. Not things which he disagrees with, but things which he <em>disbelieves</em>. Hm, sounds like Jefferson has something specific in mind&#8230;</p>
+
+<p>From context, we can see exactly what Jefferson meant. He was talking about religious freedom! The quote is from a draft of the &#8220;The Virginia Act For Establishing Religious Freedom&#8221;. In it, Jefferson repeatedly apparently uses &#8220;opinions&#8221; as we might use &#8220;beliefs&#8221;, meaning &#8220;religious beliefs&#8221;. Continuing the very same thought in the same sentence, Jefferson says that even compelling a man to contribute money to &#8220;this or that teacher of his own religious persuasion&#8221; is wrong &#8212; clearly implying that he was talking about religious opinions before.</p>
+
+<p>Finally, Jefferson concludes his discussion of what&#8217;s wrong and what&#8217;s right by ruling that &#8220;no man shall be compelled to frequent or support any religious worship, place, or ministry whatsoever,&#8221; a position we&#8217;d find quite reasonable and widely accepted today. Jefferson was simply arguing that people shouldn&#8217;t be forced to send money to a state church, especially one they don&#8217;t agree with! Hardly the blanket claim that his abusers tried to misquote him as saying.</p>
+
+<p>So, from context and conclusion, it appears what Jefferson really meant was:</p>
+
+<p>&#8220;To force a man to donate to a religious organization whose beliefs he disagrees with is sinful and tyrannical.&#8221;</p>
+
+<p>Much harder to argue with that.</p>
+
+<p class="posted">posted May 05, 2004 05:06 PM (<a class="category" href="cat_politics">Politics</a>) (<a href="#comments">26 comments</a>) <a href="001224" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001223" title="Where&amp;#8217;s Okrent? The End of the Times">&laquo; prev</a> | <a href="./">up</a> | <a href="001225" title="[REDACTED]">next &raquo;</a></p>
+
+<p><a href="001207">Presidential Candidate Bob Williams, part 3: Newspaper Headlines</a><br />
+<a href="001215">Presidential Candidate Bob Williams, part 4: Political Debate</a><br />
+<a href="001218">Presidential Candidate Bob Williams, part 5: The Verdict of History</a><br />
+<a href="001222">Physics&#8217;s Puzzle</a><br />
+<a href="001223">Where&#8217;s Okrent? The End of the Times</a><br />
+<strong>Misreading Jefferson is Sinful and Tyrannical</strong><br />
+<a href="001225">[REDACTED]</a><br />
+<a href="001226">All News is Bad News</a><br />
+<a href="001228">Big Bad Bundle Blog</a><br />
+<a href="001229">I Hate Books</a><br />
+<a href="001230">Completely Outrageous</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c982">
+
+<p>As for the title, aren&#8217;t these misreaders compelling Jefferson to furnish a contribution (the quote) for the propagation of opinions which he disbelieves?</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=982">Aaron Swartz</a> at May  5, 2004 06:19 PM <a href="#c982">#</a></p>
+
+</div><div id="c983">
+
+<p>Your first point clearly misses the point of the people who use Jefferson&#8217;s quote.  They do not &#8212; most of them &#8212; claim people who receive government funding should not express opinions, but that government funds should not be used for the sole purpose of someone&#8217;s expression.</p>
+
+<p>Your second point is, at best, a distinction without a difference.  Do you think Jefferson would have approved of using taxpayer monies for the same goals he was denouncing?  I don&#8217;t.</p>
+
+<p>As to religion: I think Jefferson was speaking specifically about religion, but that some of his statements, such as the one you quoted, were intended to be more broad truths.</p>
+
+<p>For example, I could be writing about what Kerry said about the Vietnam War in 1971, defending his right to free speech, and say, &#8220;To complain that a man spoke the words written on his heart is un-American.&#8221;  Some might say I was only talking about words one speaks about war, or government, when really, I was speaking a larger truth that I accept and applying it to a more specific circumstance.</p>
+
+<p>Was that his intent?  I dunno. Could be.</p>
+
+<p>Anyway, moving along, I personally don&#8217;t distinguish between religion and other beliefs.  I am not sure how that could be done.  What is it about Christianity that makes it somehow distinct from atheism?  Humanism?  Is it wrong to put Luther on a courthouse wall, but OK to put Sartre up there?  I don&#8217;t see how one is more damaging or inappropriate than the other.</p>
+
+<p>Anyway, I don&#8217;t have a problem with government funding opinions directly related to government (e.g., C-SPAN, and campaigns), but more than that is superfluous and at best a waste of money.  That includes NPR, PBS, and the NEA.  Don&#8217;t get me wrong, I love certain parts of PBS (News Hour, John McLaughlin, some of the kids shows, the occasional documentary or music program).  And as soon as my tax dollars stop funding it, I&#8217;ll contribute to it myself.</p>
+
+<p>NPR kills me because almost all of the people who listen to it are in the top half of income earners, and they have the gall to tax people for it.  Not that my argument would change otherwise, because a lot of low-income earners watch PBS, and I want it to get the axe too.  :-)</p>
+
+<p>I know this is a small part of the budget.  And I am not saying what I say because of the content; as I said, I like PBS.  I watch it every day.  It&#8217;s the principle of the thing, which has a lot less to do with Jefferson&#8217;s opinion (which I agree with) and more to do with the fact that such things are not an enumerated power of the federal government, nor an implied power, and therefore &#8212; as per the 10th Amendment &#8212; are reserved to the states and to the people, respectively.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://slashdot.org/~pudge/journal" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=983">pudge</a> at May  5, 2004 06:29 PM <a href="#c983">#</a></p>
+
+</div><div id="c984">
+
+<p>Isn&#8217;t the sole purpose of paying judges and congressmen so they can express their opinions (whether through speeches or voting or writing or other means)? I mean, I guess occasionally they might write out actual facts, but we usually reserve that for jury and staff.</p>
+
+<p>However, I totally agree with you about restricting the government to its enumerated powers. In fact, I&#8217;m working on a summary of Randy Barnett&#8217;s excellent <em>Restoring the Lost Constitution: The Presumption of Liberty</em>, which argues for a very strong view of enumerated powers, right now.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=984">Aaron Swartz</a> at May  5, 2004 06:40 PM <a href="#c984">#</a></p>
+
+</div><div id="c985">
+
+<p>But I don&#8217;t think simply spending money on things which have no regulatory effect, like the NEA or universal health care, violates Congress&#8217;s enumerated powers &#8212; &#8220;The Congress shall have power to &#8230; collect taxes &#8230; to &#8230; provide for the &#8230; general welfare of the United States&#8221;. Now I&#8217;m not sure precisely what &#8220;general welfare&#8221; meant back then, but it sounds pretty broad, and I&#8217;d bet the NEA would count. (Obviously universal health care would!)</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=985">Aaron Swartz</a> at May  5, 2004 06:58 PM <a href="#c985">#</a></p>
+
+</div><div id="c986">
+
+<p><em>Isn’t the sole purpose of paying judges and congressmen so they can express their opinions (whether through speeches or voting or writing or other means)?</em></p>
+
+<p>No.  A congressman legislates, and a judge adjudicates.  Part of the process of legislating and adjudicating is expressing an opinion, certainly, but it is not the main point.  It&#8217;s just something that is part of the process.</p>
+
+<p>Even still, if you want to consider their primary purpose to express opinions, I&#8217;ll disagree quietly.  Since they are enumerated powers, it won&#8217;t affect my view of the issue.  :-)</p>
+
+<p class="posted">posted by <a target="_blank" title="http://slashdot.org/~pudge/journal" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=986">pudge</a> at May  5, 2004 07:03 PM <a href="#c986">#</a></p>
+
+</div><div id="c987">
+
+<p><em>But I don’t think simply spending money on things which have no regulatory effect, like the NEA or universal health care, violates Congress’s enumerated powers — “The Congress shall have power to … collect taxes … to … provide for the … general welfare of the United States”. Now I’m not sure precisely what “general welfare” meant back then, but it sounds pretty broad, and I’d bet the NEA would count. (Obviously universal health care would!)</em></p>
+
+<p>That broad interpretation of I.8.1 would render the 10th Amendment meaningless.  I am convinced &#8220;general welfare&#8221; was setting up the following clauses, which defined what the &#8220;general welfare&#8221; was.</p>
+
+<p>Note the phrase is &#8220;common defense and general welfare.&#8221;  What else do we see in Section 8?  &#8220;To declare war, grant letters of marque and reprisal, and make rules concerning captures on land and water; To raise and support armies, but no appropriation of money to that use shall be for a longer term than two years; To provide and maintain a navy; etc.&#8221;</p>
+
+<p>There is a whole lot there describing the specific powers the Congress has in regard to the common defense of the U.S.  If &#8220;general welfare&#8221; grants powers above and beyond what is enumerated in Section 8, then surely &#8220;common defense&#8221; must as well, which forces us to ask two questions:</p>
+
+<ol>
+<li>Why bother to enumerate all those powers Congress has in regard to the common defense of the U.S.?</li>
+<li>Why have courts upheld that Congress has no additional powers regarding the military, but what is enumerated or implied in Section 8?</li>
+</ol>
+
+<p>We must interpret &#8220;common defense&#8221; and &#8220;general welfare&#8221; in the same way if we are to have any respect for the English language, and it has always been the case that &#8220;common defense&#8221; is referring to what follows, and is not itself a general power.  &#8220;General welfare&#8221; must be likewise interpreted.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://slashdot.org/~pudge/journal" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=987">pudge</a> at May  5, 2004 07:16 PM <a href="#c987">#</a></p>
+
+</div><div id="c988">
+
+<p>A religious leader leads his congregation. Part of the process is expressing his opinion, but it is not the main point. </p>
+
+<p>But obviously Jefferson intends for his statement to at least include religious people, so I don&#8217;t see how that sort of reasoning can work.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=988">Aaron Swartz</a> at May  5, 2004 07:16 PM <a href="#c988">#</a></p>
+
+</div><div id="c989">
+
+<p><em>A religious leader leads his congregation. Part of the process is expressing his opinion, but it is not the main point.</em></p>
+
+<p>But the primary purpose of a church &#8212; where the leader works &#8212; is to encourage people in a particular belief system.  GOTCHA!</p>
+
+<p class="posted">posted by <a target="_blank" title="http://slashdot.org/~pudge/journal" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=989">pudge</a> at May  5, 2004 07:22 PM <a href="#c989">#</a></p>
+
+</div><div id="c990">
+
+<p><em>That broad interpretation of I.8.1 would render the 10th Amendment meaningless.</em></p>
+
+<p>Huh? The vast majority of government power (and the part I suspect the authors of the Tenth Amendment were really worried about) involves the use of force, not the purse. The Tenth Amendment still has a great deal of meaning.</p>
+
+<p><em>Why bother to enumerate all those powers Congress has in regard to the common defense of the U.S.?</em></p>
+
+<p>The first power only allows Congress to spend money on the common defense. This means they can make missiles, walls, cannons, and other cool stuff. The other defense-related powers (declaring war, armies, and navies) involve more than just throwing money at the problem. </p>
+
+<p>You&#8217;ll notice that this is true of all the other enumerated powers (lending further consistency to my view). They all require the government to use it&#8217;s special powers.</p>
+
+<p>The only one that seems anomalous is the power to create post offices. But back then, post offices were understood as a monopoly, and creating a monopoly requires government force.</p>
+
+<p>(Under your interpretation, the government could create post offices and post roads, but couldn&#8217;t pay anyone to deliver the mail. What sense does that make?)</p>
+
+<p><em>Why have courts upheld that Congress has no additional powers regarding the military, but what is enumerated or implied in Section 8?</em></p>
+
+<p>I don&#8217;t think the Courts have ever overturned laws spending money on SDIs or missiles or other things because they were outside the army or navy either. Is there a specific Court case you have in mind?</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=990">Aaron Swartz</a> at May  5, 2004 08:00 PM <a href="#c990">#</a></p>
+
+</div><div id="c991">
+
+<p><em>(Under your interpretation, the government could create post offices and post roads, but couldn’t pay anyone to deliver the mail. What sense does that make?)</em></p>
+
+<p>You are ignoring implied powers.  They argue paying for the delivery is implied in what is enumerated.  Same thing with SDI etc., including the establishment of the Air Force itself.  What implies funding for NPR?</p>
+
+<p class="posted">posted by <a target="_blank" title="http://slashdot.org/~pudge/journal" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=991">pudge</a> at May  5, 2004 08:05 PM <a href="#c991">#</a></p>
+
+</div><div id="c992">
+
+<p>How do you decide what&#8217;s implied? If a post office implies delivering mail (so that the office gets used), maybe Congress&#8217;s copyright power implies PBS (so that the copyrights get used). Are there any clear rules or is it just a connect-the-dots free-for-all?</p>
+
+<p>(Under my scheme, of course, PBS is pure spending so it falls under the general welfare purse power.)</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=992">Aaron Swartz</a> at May  5, 2004 09:21 PM <a href="#c992">#</a></p>
+
+</div><div id="c993">
+
+<p><em>How do you decide what’s implied?</em></p>
+
+<p>The courts do it, as they&#8217;ve been doing since McCulloch v. Maryland in 1819, where Hamilton argued the establishment of a national bank was allowed, not because it was for the general welfare (which it was), but because it naturally grew from the right to regulate interstate commerce, as per clause 18 of section 8:</p>
+
+<p>&#8220;[The Congress shall have Power] &#8230; [t]o make all Laws which shall be necessary and proper for carrying into Execution the foregoing Powers and all other Powers vested by this Constitution in the Government of the United States, or in any Department or Officer thereof.&#8221;</p>
+
+<p>The key words are &#8220;necessary and proper for carrying into execution.&#8221;</p>
+
+<p><em>(Under my scheme, of course, PBS is pure spending so it falls under the general welfare purse power.)</em></p>
+
+<p>Your dichotomy between spending and other powers is a false one.  Spending <em>is</em> a power, and falls under the 10th Amendment, just as every other power does.  The point you&#8217;re glossing over is that clause 1 says how they can get their money and briefly mentions what it will be spent on, and the rest of the clauses go into detail about those things the money can be spent on.</p>
+
+<p>James Madison &#8212; who wrote the 10th Amendment, instructed the aforementioned Marshall on the interpretation of the Constitution, etc. &#8212; wrote:</p>
+
+<p>&#8220;If Congress can employ money indefinitely to the general welfare, and are the sole and supreme judges of the general welfare, they may take the care of religion into their Own hands; they may a point teachers in every state, county, and parish, and pay them out of their public treasury; they may take into their own hands the education of children, establishing in like manner schools throughout the Union; they may assume the provision for the poor; they may undertake the regulation of all roads other than post-roads; in short, every thing, from the highest object of state legislation down to the most minute object of police, would be thrown under the power of Congress; for every object I have mentioned would admit of the application of money, and might be called, if Congress pleased, provisions for the general welfare. &#8230; I venture to declare it as my opinion, that, were the power of Congress to be established in the latitude contended for, it would subvert the very foundations, and transmute the very nature of the limited government established by the people of America &#8230;&#8221;</p>
+
+<p>And on a separate occasion: &#8220;If Congress can do whatever in their discretion can be done by money, and will promote the General Welfare, the Government is no longer a limited one, possessing enumerated powers, but an indefinite one, subject to particular exceptions.&#8221;</p>
+
+<p>Madison here is fighting for the very principles the Constitution he argued for stood for, the original intent, as he argued in Federalist 45:</p>
+
+<p>&#8220;The powers delegated by the proposed Constitution to the federal government are few and defined. Those which are to remain in the State governments are numerous and indefinite. The former will be exercised principally on external objects, as war, peace, negotiation, and foreign commerce; with which last the power of taxation will, for the most part, be connected. The powers reserved to the several States will extend to all the objects which, in the ordinary course of affairs, concern the lives, liberties, and properties of the people, and the internal order, improvement, and prosperity of the State.&#8221;</p>
+
+<p>Article I, Section 8 of the Constitution, with Amendment X emphasizing the point, say we should have limited government, and that it should only do what is said it should do, including &#8212; even broadly defined &#8212; implied powers.  But there is nothing implied about NPR or the NEA, and you are arguing for no limits at all on spending, in what one of the definers of the meaning of the Constitution flatly contradicted as valid.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://slashdot.org/~pudge/journal" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=993">pudge</a> at May  5, 2004 10:00 PM <a href="#c993">#</a></p>
+
+</div><div id="c994">
+
+<p>So, uh, we have a system of limited powers, but the Courts can decide what&#8217;s implied. Well, buddy, the Courts have spoken, and they&#8217;ve ruled everything short of outlawing guns at schools acceptable. Either the Courts don&#8217;t get to decide whatever they like, or PBS is OK. Which is it?</p>
+
+<p><em>The point you’re glossing over is that clause 1 says how they can get their money and briefly mentions what it will be spent on, and the rest of the clauses go into detail about those things the money can be spent on.</em></p>
+
+<p>I&#8217;m not glossing over, I&#8217;m disagreeing. I read clause one as including both a grant of power to collect taxes, and a grant of power to spend them. It may not be the only reading of the clause, but as far as I can tell, it is a perfectly consistent and reasonable one.</p>
+
+<p>So our choice is between your system, where Courts may permit any laws they like, and mine, where Congress must hew closely to their enumerated powers, but can spend money on things as they please. Since mine is a proper subset of yours, mine is the more limited view of government, and thus  preferable by Jefferson&#8217;s rules.</p>
+
+<p>As for Madison&#8217;s prophecies, I should first note that they&#8217;ve all come true. Except religion is barred by the First Amendment, and regulating roads is regulation&#8212;not spending. Madison seems to be discussing a test where Congress may address any object that &#8220;admit[s] the application of money&#8221;. I agree that such a test would &#8220;transmute the very nature of the limited government&#8221;. My test is that Congress may do things which consist <em>only</em> of spending money, and not using any of the other powers of a government.</p>
+
+<p>And don&#8217;t consider Madison your savior &#8212; he flatly contradicted your implied powers nonsense as well. As he wrote on the subject of the bank you mention:</p>
+
+<blockquote>
+  <p>Mark the reasoning on which the validity of the bill depends. To borrow money is made the end and the accumulation of capitals, implied as the means. The accumulation of capitals is then the end, and a bank implied as the means. The bank is then the end, and a charter of incorporation, a monopoly, capital punishments, &amp;c. implied as the means.</p>
+  
+  <p>If implications, thus remote and thus multiplied, can be linked together, a chain may be formed that will reach every object of legislation, every object within the whole compass of political economy.</p>
+</blockquote>
+
+<p>(from <a href="http://press-pubs.uchicago.edu/founders/documents/a1_8_18s9.html">Madison on the Bank Bill</a>)</p>
+
+<p>He goes on to give several examples of powers that could easily have been implied, yet were explicitly enumerated.</p>
+
+<p>Madison argued for a world where Congress was so limited that they could build post offices and post roads, but could not deliver the mail (nor pay another to). I don&#8217;t think a government so limited is what the Constitution meant. </p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=994">Aaron Swartz</a> at May  5, 2004 10:50 PM <a href="#c994">#</a></p>
+
+</div><div id="c995">
+
+<p><em>So, uh, we have a system of limited powers, but the Courts can decide what’s implied. Well, buddy, the Courts have spoken, and they’ve ruled everything short of outlawing guns at schools acceptable. Either the Courts don’t get to decide whatever they like, or PBS is OK. Which is it?</em></p>
+
+<p>Well, your inaccurate characterization aside, who should I choose?  The courts get to decide, and I think they are incorrect, just as I think their decision in Eldred was incorrect.</p>
+
+<p><em>It may not be the only reading of the clause, but as far as I can tell, it is a perfectly consistent and reasonable one.</em></p>
+
+<p>Not according to Madison.</p>
+
+<p><em>So our choice is between your system, where Courts may permit any laws they like</em></p>
+
+<p>Huh?  I have been arguing the opposite of that.  I think you are confused.</p>
+
+<p><em>As for Madison’s prophecies, I should first note that they’ve all come true.</em></p>
+
+<p>Unfortunately.</p>
+
+<p><em>My test is that Congress may do things which consist only of spending money, and not using any of the other powers of a government.</em></p>
+
+<p>That distinction is a fantasy.</p>
+
+<p><em>And don’t consider Madison your savior — he flatly contradicted your implied powers nonsense as well.</em></p>
+
+<p>No, he didn&#8217;t.  He was not arguing against any implied powers &#8212; and how you can call John Marshall&#8217;s longstanding doctrine of implied powers nonsense is beyond me &#8212; he is arguing against certain ways of fudging to make something look implied (&#8220;remote&#8221; implications).</p>
+
+<p><em>He goes on to give several examples of powers that could easily have been implied, yet were explicitly enumerated.</em></p>
+
+<p>Yes, so?  He certainly wasn&#8217;t arguing there are no implied powers.  He was a proponent of the Constitution, which clearly DOES include implied powers.  His threshold of &#8220;proper and necessary&#8221; may be lower than yours and mine, or even Marshall&#8217;s, but that doesn&#8217;t mean he doesn&#8217;t recognize they exist.</p>
+
+<p>Madison is arguing there that the end of the implied power, the purpose, the goal, must be in order to support the execution of one of the enumerated powers.  Which is what I am saying.</p>
+
+<p><em>Madison argued for a world where Congress was so limited that they could build post offices and post roads, but could not deliver the mail (nor pay another to).</em></p>
+
+<p>Perhaps, though that&#8217;s speculation.  But I agree with him about the treaties: who is to say Congress should make treaties?  Or that the US should engage in treaties at all?</p>
+
+<p class="posted">posted by <a target="_blank" title="http://slashdot.org/~pudge/journal" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=995">pudge</a> at May  5, 2004 11:14 PM <a href="#c995">#</a></p>
+
+</div><div id="c996">
+
+<p>Madison said that he disagreed with a purse power and thought it would do away with much of limited government, not that it was inconsistent with the Constitution. (He later appears to have argued that it was inconsistent with the records of the convention, but he also said that we should ignore the records of the convention when trying to interpret the Constitution.)</p>
+
+<p>Madison&#8217;s test was that an implied power must be <em>necessary</em> to the government, <em>proper</em> to the rights of the people, <em>required</em> to use the explicit power, and <em>incident</em> to the nature of the explicit power. I agree with his test, not Marshall&#8217;s elastic one. I agree with him about treaties too.</p>
+
+<p>Do you really feel that distinguishing between spending money and using government power is a fantasy? Because, as far as I can tell, average citizens can spend money, but they can&#8217;t use any other government powers. So the distinction seems to work pretty well (average citizens haven&#8217;t completely taken over the world yet).</p>
+
+<p>Now, true, average citizens can do quite a bit. And my reading lets the government do almost all of that. But to say that it does away with limited government and leaves no powers for the states or the people seems like an exaggeration. It lets the government become quite large, true, but at least it carefully protects our liberty.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=996">Aaron Swartz</a> at May  5, 2004 11:50 PM <a href="#c996">#</a></p>
+
+</div><div id="c997">
+
+<p><em>Madison said that he disagreed with a purse power and thought it would do away with much of limited government, not that it was inconsistent with the Constitution.  (He later appears to have argued that it was inconsistent with the records of the convention &#8230;</em></p>
+
+<p>It was inconsistent with the Constitution itself, as he described it: </p>
+
+<p>“If Congress can do whatever in their discretion can be done by money, and will promote the General Welfare, the Government is no longer a limited one, possessing enumerated powers, but an indefinite one, subject to particular exceptions.”</p>
+
+<p>vs.</p>
+
+<p>“The powers delegated by the proposed Constitution to the federal government are few and defined.&#8221;</p>
+
+<p>I think it is quite safe to say he believed it to be inconsistent with the Constitution, and quite unreasonable to say he believed otherwise.</p>
+
+<p><em>I agree with [Madison&#8217;s] test</em></p>
+
+<p>Only because you disagree with him about the power to spend; but his views on implied powers cannot be reasonably separated from his views on spending.</p>
+
+<p><em>Do you really feel that distinguishing between spending money and using government power is a fantasy?</em></p>
+
+<p>Of course.  Spending money is a power like any other.  One the one hand, the Constitution makes no real distinction between them, except in the same sense it treats post roads and treaties differently (i.e., they are listed separately).</p>
+
+<p>But perhaps more conceretely, the power to spend is the power to regulate.  Take roads, for example: the federal government withholds road money from the states if they don&#8217;t agree to make certain laws.  This is, often, money the state paid to the federal government in the first place.</p>
+
+<p><em>Because, as far as I can tell, average citizens can spend money, but they can’t use any other government powers.</em></p>
+
+<p>This government power is not &#8220;spend money,&#8221; but &#8220;lay and collect taxes, duties, imposts and excises, to pay the debts and provide for the common defense and general welfare of the United States,&#8221; which the average citizen cannot do.</p>
+
+<p><em>And my reading lets the government do almost all of that.</em></p>
+
+<p>And your reading ignores the intent of the Constitution, and is therefore invalid.</p>
+
+<p><em>But to say that it does away with limited government and leaves no powers for the states or the people seems like an exaggeration.</em></p>
+
+<p>Perhaps, but not much of one.  The government is not limited by 1787 standards, and has usurped far more powers than the framers of and voters for the Constitution believed it ever should.</p>
+
+<p><em>It lets the government become quite large, true, but at least it carefully protects our liberty.</em></p>
+
+<p>That&#8217;s unpossible.  Every power the federal government usurps is less liberty I have, by definition.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://slashdot.org/~pudge/journal" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=997">pudge</a> at May  6, 2004 12:28 AM <a href="#c997">#</a></p>
+
+</div><div id="c1001">
+
+<p>OK, two issues here. The first is whether your scheme of implied powers does away with enumerated rights. Since you do away with Madison&#8217;s NPRI (necessary, proper, required, and incident) test and let judges decide whatever they like, and the judges have in fact decided whatever they like, it does appear that your system leaves us with no implied powers. Congress can not only spend money on whatever they want, but they can also use the implications to regulate everything from human cloning to who you let into your private club, to how you build your house!</p>
+
+<p>This is exactly what Madison warns of: now the only thing the Feds can&#8217;t do, is that which violates a specific bill of rights exception. </p>
+
+<p>So which is it going to be? Either you need a more stringent test than &#8220;whatever judges feel like&#8221; or you need to stop pretending you&#8217;re in favor of strictly enumerated powers.</p>
+
+<p>The second issue is whether my purse power addition does away with enumerated powers. I understand (and agree) that it does to away with a &#8220;limited&#8221; government. The Federal government could grow to the same huge octopus it is now, taking lots of our money and spending it. I&#8217;ll grant you limited government is out.</p>
+
+<p>But enumerated powers? Usurping our liberty? I don&#8217;t understand how it does that. It leads Congress to take away our money, but they already had the power to do that. Otherwise, they&#8217;re just spending money, like any citizen can.</p>
+
+<p>You argue the power is not to spend money, but the power at issue here is. The discussion is over an alternative reading of clause one which grants two powers:</p>
+
+<ol>
+<li>to lay and collect taxes, duties, imposts and excises</li>
+<li>to pay the debts and provide for the common defense and general welfare of the United States</li>
+</ol>
+
+<p>We all agree Congress has the first power. The question is over the second. How does giving Congress the second power take away any of our liberty, let alone all of it? It just lets them do what any multitrillionaire can.</p>
+
+<p>Now true, because it&#8217;s tax money, it should have some special safeguards and restrictions on spending the money, and sure enough it does. The government can&#8217;t pay people to bow down to Rev. Moon, while Richard Mellon Scaife can.</p>
+
+<p>But this second power seems perfectly consistent with the rest of the text of the Constitution to me. It doesn&#8217;t make redundant any enumerated powers (unlike your scheme), it doesn&#8217;t violate the tenth amendment, and it doesn&#8217;t let the government tell us how to run our lives. The Constitution is not only Madison&#8217;s.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=1001">Aaron Swartz</a> at May  6, 2004 11:40 AM <a href="#c1001">#</a></p>
+
+</div><div id="c1002">
+
+<p><em>OK, two issues here. The first is whether your scheme of implied powers does away with enumerated rights.</em></p>
+
+<p>Not my scheme.  It&#8217;s the one that has been doctrine since the early 1800s.  I&#8217;d be slightly less permissive than Marshall, but whatever.</p>
+
+<p><em>Since you do away with Madison’s NPRI (necessary, proper, required, and incident) test and let judges decide whatever they like</em></p>
+
+<p>The first is not true, and the second is uninteresting.</p>
+
+<p><em>and the judges have in fact decided whatever they like</em></p>
+
+<p>It could not possibly be any other way, including under any plan you devise.  The courts interpret the Constitution.  Unless you are planning to do away with the Constitution &#8230;</p>
+
+<p><em>it does appear that your system leaves us with no implied powers</em></p>
+
+<p>That makes no sense whatever.  If anything, you should be saying my view is that any power could be said to be implied which is not enumerated, not that none are implied.  But that is not what I am saying either.</p>
+
+<p>You seem to be overly confused by my statement that courts decide in the end.  That is, again, a given under any system.  It&#8217;s clear from what I&#8217;ve been writing that I don&#8217;t mean there is no standard, only that in the end, the courts make the final verdict, as with everything.</p>
+
+<p><em>Congress can not only spend money on whatever they want, but they can also use the implications to regulate everything from human cloning to who you let into your private club, to how you build your house!</em></p>
+
+<p>If the courts allow it, yes.  I&#8217;d not support any justice who would.</p>
+
+<p><em>But enumerated powers? Usurping our liberty? I don’t understand how it does that. It leads Congress to take away our money, but they already had the power to do that. Otherwise, they’re just spending money, like any citizen can.</em></p>
+
+<p>This whole thing about comparing it to citizens is completely irrelevant and muddlesome, so I will ignore the several times you bring it up in this post.</p>
+
+<p>As to usurping power: do you honestly not understand this?  If they have the power to pay for NPR, then that means I have less power to spend my money the way I wish to, because they took it from me to pay for it.  How is this difficult to grok?</p>
+
+<p><em>We all agree Congress has the first power. The question is over the second.</em></p>
+
+<p>No.  We all agree the Congress has that power.  We disagree on what the power <em>is</em>.  You say it is a blanket power, but you have offered not one shred of evidence from the people who wrote the Constitution supporting that, while I have provided an abundance of evidence denying it.</p>
+
+<p><em>It doesn’t make redundant any enumerated powers (unlike your scheme)</em></p>
+
+<p>That isn&#8217;t remotely accurate.</p>
+
+<p><em>it doesn’t violate the tenth amendment</em></p>
+
+<p>It absolutely does.</p>
+
+<p><em>and it doesn’t let the government tell us how to run our lives</em></p>
+
+<p>It absolutely does: it tells us we have to give more of our money to the government.  Why you can&#8217;t see this is beyond me.</p>
+
+<p><em>The Constitution is not only Madison’s.</em></p>
+
+<p>Yes, but he is its most important interpreter, bar none.  And you&#8217;ve not provided one contemporary counterexample.
+</p>
+
+<p class="posted">posted by <a target="_blank" title="http://slashdot.org/~pudge/journal" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=1002">pudge</a> at May  6, 2004 12:21 PM <a href="#c1002">#</a></p>
+
+</div><div id="c1004">
+
+<p>Correction: When I said no implied powers, I meant no unimplied powers.</p>
+
+<p>First you say you&#8217;d be slightly less permissive than Marshall, then you say you&#8217;d use Madison&#8217;s NPRI test, then you say you have you have a standard. So, what precisely is your standard? Please tell me the test, and give some examples of things implied and not implied.</p>
+
+<p><em>[D]o you honestly not understand this? If they have the power to pay for NPR, then that means I have less power to spend my money the way I wish to, because they took it from me to pay for it.</em></p>
+
+<p>I honestly don&#8217;t understand. Congress has the power to take your money of it irrespective of whether they can spend it on NPR or not. There&#8217;s no limit on how much of your money they can take either way. </p>
+
+<p>Now, there might be a practical difference, in that they&#8217;ll take more money if they can use it on stuff like NPR. (Obviously a practical difference like this wouldn&#8217;t have a Constitutional impact, e.g. for Tenth Amendment analysis.) But I tend to think that they&#8217;ll take the same amount either way, the only difference is that if they can&#8217;t spend it on NPR, they&#8217;ll spend it on pork barrel supersize post offices and post superhighways (an explicit enumerated power). </p>
+
+<p>Me: It doesn’t make redundant any enumerated powers (unlike your scheme)<br />
+You: That isn’t remotely accurate.</p>
+
+<p>Which enumerated powers does it make redundant?</p>
+
+<p>How does the reading (which delegates a purse power to Congress) violate the tenth amendment (which bans Congress from using a power not delegated to it)?</p>
+
+<p>As for how to interpret the Constitution, Hamilton agrees with me:</p>
+
+<blockquote>
+  <p>The power to raise money is plenary, and indefinite; and the objects to which it may be appropriated are &#8230; comprehensive, The terms &#8220;general Welfare&#8221; were doubtless intended to signify more than was expressed or imported in those which Preceded; otherwise numerous exigencies incident to the affairs of a Nation would have been left without a provision. </p>
+  
+  <p>The only qualification of the generallity of the Phrase in question, which seems to be admissible, is this&#8212;That the object to which an appropriation of money is to be made be General and not local; its operation extending in fact, or by possibility, throughout the Union, and not being confined to a particular spot.</p>
+</blockquote>
+
+<ul>
+<li><a href="http://press-pubs.uchicago.edu/founders/documents/a1_8_1s21.html">Alexander Hamilton, Secretary of the Treasury, Report on Manufactures</a></li>
+</ul>
+
+<p>Famed commentator and Madison-appointed Supreme Court Justice Joseph Story, in his commentaries:</p>
+
+<blockquote>
+  <p>The argument in favour of the [purse] power is derived, in the first place, from the language of the clause, conferring the power, (which it is admitted in its literal terms covers it;) secondly, from the nature of the power, which renders it in the highest degree expedient, if not indispensable for the due operations of the national government; thirdly, from the early, constant and decided maintenance of it by the government and its functionaries, as well as by many of our ablest statesmen from the very commencement of the constitution. So, that it has the language and intent of the text, and the practice of the government to sustain it against an artificial doctrine, set up on the other side.</p>
+  
+  <p>The argument derived from the words and intent has been so fully considered already, that it cannot need repetition. It is summed up with great force in the report of the secretary of the treasury on manufactures, in 1791&#8230; .</p>
+</blockquote>
+
+<ul>
+<li><a href="http://press-pubs.uchicago.edu/founders/documents/a1_8_1s28.html">Commentaries on the Constitution</a></li>
+</ul>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=1004">Aaron Swartz</a> at May  6, 2004 05:14 PM <a href="#c1004">#</a></p>
+
+</div><div id="c1007">
+
+<p>Good debate. But, what is this fixation with the exact meaning of the words of Jefferson? They certainly influence our thinking and the thinking of our legislators and judges but they have no particular or immediate impact on our governance. Who cares what he meant? The powers of Congress to spend, and the items on which it can spend have been essentially settled by law and precedent. If we can fund the New Deal it would seem unreasonable to base a refusal to fund NPR, PBS etc. on constitutional grounds. The only area in which debate seems possible is the funding of religious, quasi-religious and “faith-based” initiatives. It is only here that the constitution makes a distinction between secular and religious belief systems (the First Amendment). Although it is a reasonable philosophical position to consider all belief systems equivalent, the framers were clear in their intentions to separate the religious from the secular. Or were they? And what is the extent of the separation? And&#8230;. there’s the wiggle room. </p>
+
+<p class="posted">posted by KJO at May  7, 2004 06:34 AM <a href="#c1007">#</a></p>
+
+</div><div id="c1008">
+
+<p>I, and I suspect pudge, think that we should restore the lost Constitution, so that we can replace the bizarre one the judges have put into place. Understanding the full ramifications of such a swap is the first step.</p>
+
+<p>Why use the original Constitution? I&#8217;ll be making a full argument soon, but the original Constitution was far more protective of our liberty and following it is far more legitimate than simply throwing it out and doing whatever judges feel like.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=1008">Aaron Swartz</a> at May  7, 2004 09:25 AM <a href="#c1008">#</a></p>
+
+</div><div id="c1020">
+
+<p>I don&#8217;t see the point in majoring on an interpretation of Jefferson per se. It&#8217;s not as if we can dig him up and ask him to sort out our differences  - and if you did you might not like his views on, say, slavery, female emancipation and so on. </p>
+
+<p>What&#8217;s this quibbling over preferred histories for? It doesn&#8217;t give you argument any more clout.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.cloudsoup.com" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=1020">David Jones</a> at May  9, 2004 08:33 PM <a href="#c1020">#</a></p>
+
+</div><div id="c2380">
+
+<p>Your reply to me got filtered as spam for some reason.  I just recovered it.</p>
+
+<p>Anyway, I don&#8217;t want to drudge all this up again, but to answer your most salient points:</p>
+
+<p><em>Congress has the power to take your money of it irrespective of whether they can spend it on NPR or not. There&#8217;s no limit on how much of your money they can take either way.</em></p>
+
+<p>I am not talking about taking money, I am talking about spending.  Congress does not have the right to spend money on anything it wishes to.  Its power to spend is limited to what is enumerated and implied.</p>
+
+<p><em>How does the reading (which delegates a purse power to Congress) violate the tenth amendment (which bans Congress from using a power not delegated to it)?</em></p>
+
+<p>I re-quote Madison: “If Congress can do whatever in their discretion can be done by money, and will promote the General Welfare, the Government is no longer a limited one, possessing enumerated powers, but an indefinite one, subject to particular exceptions.”</p>
+
+<p class="posted">posted by <a target="_blank" title="http://slashdot.org/~pudge/journal" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2380">pudge</a> at June 22, 2004 01:16 AM <a href="#c2380">#</a></p>
+
+</div><div id="c2383">
+
+<p>It is not clear to me that Madison is saying an indefinite government would not also possess enumerated powers. Instead, he appears to be talking about the defining features of the government&#8217;s scope:</p>
+
+<p>A limited government would only do work in those areas explicitly enumerated; an indefinite government would work everywhere except those prohibited to it by the bill of rights and such.</p>
+
+<p>This is not to say the second does not also have enumerated powers, but only to say that those powers would no longer define its scope.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://www.aaronsw.com/" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2383">Aaron Swartz</a> at June 22, 2004 09:34 AM <a href="#c2383">#</a></p>
+
+</div><div id="c2394">
+
+<p><em>It is not clear to me that Madison is saying an indefinite government would not also possess enumerated powers.</em></p>
+
+<p>What he is saying is that this indefinite government can do anything it wants (subject to particular exemptions).  I don&#8217;t think he could be any more clear on this point.</p>
+
+<p>I don&#8217;t know what you mean about enumerated powers.  Of course, the government would still have enumerated powers, but the question is not what is enumerated, but what is exercised.</p>
+
+<p>It&#8217;s the difference between having the power to do as you wish except where specifically prohibited, and having the power to do only what is specifically allowed.</p>
+
+<p class="posted">posted by <a target="_blank" title="http://slashdot.org/~pudge/journal" href="http://notabug.com/mt/gorsnikat.cgi?__mode=red;id=2394">pudge</a> at June 22, 2004 02:49 PM <a href="#c2394">#</a></p>
+
+</div><div id="c3930">
+
+<p>How about this.  You say yours are opinions, I say that secular humanism and materialism are not science, but religion.  Atheism is, in fact religion &#8212; particularly as practiced by humanists of today - they say, in fact, on both secular humanist main websites both the American Humanist and British Humanist ones, that: &#8220;The only God of man is man himself.&#8221;  Blatantly religious in nature, that.  </p>
+
+<p>For atheists who further believe that homosexuality, for example, is their right to press upon my children, under their world view &#8212; their God is their own sex organ.  </p>
+
+<p>And so, I absolutely refuse to support Planned Parenthood, or Gay and Straight Alliance clubs, or Kwanza with my taxes, under the principle which Jefferson espouses in the quote which is in view - regardless of your interpretation of it!</p>
+
+<p>On the other hand, Jefferson was clear in his liberal use of Jesus&#8217; philosophy, and in fact made it clear that it, to him was not even a point of debate that we are endowed by our Creator (capital C, you notice) with the rights we hold dear.  It was self-evident.</p>
+
+<p>I rest my case.</p>
+
+<p class="posted">posted by Jeff White at February  8, 2005 02:23 PM <a href="#c3930">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/xml/001224.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/gorsnikat.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1224" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /> (used only to send you my reply, never published or spammed)<br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

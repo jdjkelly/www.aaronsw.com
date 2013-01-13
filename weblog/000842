@@ -1,0 +1,61 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>The Wireless Future (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/index.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000838" title="News Update" />	<link rel="next" href="000848" title="Just My Luck" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>The Wireless Future</h1>
+</div>
+
+<div class="content">
+<p>Let me tell you how it will go:</p>
+
+<p>Apple gets tired of releasing new, faster wireless hardware (AirPort, AirPort Extreme, AirPort Insane, AirPort Illegal). So they release one box, software upgradeable to use whatever new protocols and frequencies become available. As consumers clamor for more bandwidth the FCC opens up more spectrum, making the adjustable boxes more valuable.</p>
+
+<p>Meanwhile the boxes are getting stronger too, able to push bits for farther distances. They’re cheap and popular enough that all of San Francisco is covered a forest of overlapping wireless. It’s time to unify them. The next software upgrade turns this collection of hub-and-spoke networks into one large mesh, letting packets bounce from one base station to another, perhaps stopping at a few laptops in between.</p>
+
+<p>This giant network becomes the home to a high-bandwidth file sharing network. The RIAA and MPAA look on in horror. There’s no ISP to go after, if they shut down one node the packets just bounce thru a different path. “At least it’s just San Francisco,” they think.</p>
+
+<p>Brewster buys a faster Internet connection and opens it up to this giant wireless network. Everyone in SF cancels their cruddy cable and DSL service, and uses real high-speed two-way Internet connections, running their email and web servers from home, like the creators intended.</p>
+
+<p>The ISPs are furious; they look for an excuse to cut off Brewster’s Internet connection. Perhaps it’s all the file sharing going on over it, or maybe someone in the mesh is distributing child porn. Whatever. They cut it off.</p>
+
+<p>San Francisco revolts, pressuring their lawmakers to require ISPs give them access. Maybe it’s national; maybe it’s just for California. Whatever. The ISPs plead with the lawmakers to stop, but every congressman knows they won’t get reelected for cutting off free Internet connections. High bandwidth wireless broadcasting boxes are installed at all the ISPs, who look on in horror. “At least it’s just San Francisco,” they think.</p>
+
+<p>Other cities follow SF’s lead. First New York, then Boston. The same process repeats itself. “It wasn’t just San Francisco,” they realize.</p>
+
+<p>By then it is too late. The people own the Internet now. When there is censorship, the software routes around it. As long as there is a client and a server, they can communicate. No more DMCA takedown notices, no more Carnivore boxes, no more $40/mo., no more “capped upstream”, no more “running servers is not permitted”. The Internet is remade in its original image.</p>
+
+<p>Just thought I should let you know.</p>
+
+<p class="posted">posted February 18, 2003 05:14 PM (<a class="category" href="cat_technology">Technology</a>)  <a href="000842" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000838" title="News Update">&laquo; prev</a> | <a href="./">up</a> | <a href="000848" title="Just My Luck">next &raquo;</a></p>
+
+<p><a href="000828">Attention State Employees</a><br />
+<a href="000829">Why &#8220;Intellectual Property&#8221; is not Property</a><br />
+<a href="000831">Enabling IPv6 on OS X</a><br />
+<a href="000834">explain it to me</a><br />
+<a href="000838">News Update</a><br />
+<strong>The Wireless Future</strong><br />
+<a href="000848">Just My Luck</a><br />
+<a href="000849">Notes from the DRM Conference: Impacts of DRMs on flows of information</a><br />
+<a href="000850">Trip Report</a><br />
+<a href="000852">Trip Report (cont.)</a><br />
+<a href="000857">Valenti Remix</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

@@ -1,0 +1,53 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>2003 Redesign: [viewed best in gill sans] (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/000704.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="000699" title="won&#8217;t anyone think of the starving?" />	<link rel="next" href="000715" title="Announcing Decisions" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>2003 Redesign: [viewed best in gill sans]</h1>
+</div>
+
+<div class="content">
+<p>As you can probably already see (if not, force-reload or <a href="http://www.aaronsw.com/">visit the site</a>), my new redesign is up. My birthday&#8217;s coming up too, you know.</p>
+
+<p>The design is my own (although it takes inspiration from Tufte, the CSS WG and others). It was implemented entirely by changing the stylesheets. Some of the more advanced features (like parenthesizing the subheaders) only work in up-to-standards browsers like Mozilla. Others (like Gill Sans) only work on OS X.</p>
+
+<p><em>Goals: more content, more whitespace, more Gill Sans, more clarity.</em></p>
+
+<p><a href="http://www.aaronsw.com/">My homepage</a> has also been rewritten, providing a clearer focus on what I&#8217;ve done, who I am, how to talk to me and what I&#8217;m doing.</p>
+
+<p>I&#8217;ve also put up <a href="http://www.aaronsw.com/history/">a retrospective of my homepages</a>, going back to <a href="http://www.aaronsw.com/history/1999/">my disgusting 1999 affair</a>. (Thanks, <a href="http://web.archive.org/">Web Archive</a>!)</p>
+
+<p>I think everything should still be working, but if you notice any glitches <a href="mailto:redesign@aaronsw.com">let me know</a>. I am in desperate need of a button that says &#8220;Viewed Best in Gill Sans&#8221;, set in Gill Sans (of course!).</p>
+
+<p class="posted">posted October 29, 2002 11:14 AM (<a class="category" href="cat_personal">Personal</a>)  <a href="000704" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="000699" title="won&#8217;t anyone think of the starving?">&laquo; prev</a> | <a href="./">up</a> | <a href="000715" title="Announcing Decisions">next &raquo;</a></p>
+
+<p><a href="000689">books for reading at the Eldred victory party (or if you move to australia)</a><br />
+<a href="000690">patently &#8220;fair use&#8221;</a><br />
+<a href="000691">new arguments</a><br />
+<a href="000694">IMMINENT END OF NET PREDICTED (source code at 11)</a><br />
+<a href="000699">won&#8217;t anyone think of the starving?</a><br />
+<strong>2003 Redesign: [viewed best in gill sans]</strong><br />
+<a href="000715">Announcing Decisions</a><br />
+<a href="000716">i&#8217;ve got the jitterbug</a><br />
+<a href="000717">Quality Software</a><br />
+<a href="000718">Official Argument Transcripts</a><br />
+<a href="000720">The Case for Source Code Escrow</a><br /></p>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

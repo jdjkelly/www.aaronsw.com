@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Help Wanted: Programmers for Startup (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Help Wanted: Programmers for Startup</h1>
+
+<p>Are you a good programmer? Willing to join a small startup? Think you can get along with me?</p>
+
+<p>We&#8217;re looking people to join out startup if it gets funded, possibly as a co-founder. We&#8217;re building a web-based application.</p>
+
+<p>Email me: <a href="mailto:startup@aaronsw.com">startup@aaronsw.com</a>.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">July 14, 2005</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>hi,
+this is vinodhsen from india.
+i have 8 years of experience out of which 
+5 years java,j2ee experience .i worked in 
+usa as well.please advise if you have freelance work.i will send my resume
+regards
+vinodhsen
+919881255357</p>
+
+<p class="posted">posted by vinodhsen
+ on August 12, 2005 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>hi, this is vijaya from india i have 18yrs experience in programming. my experience is in VB, SQLServer, ASP.net, VB.NET. i am working in india as a freelancer.</p>
+
+<p>regards and thanks 
+vijaya
+22/11/2006</p>
+
+<p class="posted">posted by Vijaya  R.
+ on November 22, 2006 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>hi, this is suresh from india i have 15yrs experience in programming. my experience is in VB, SQLServer, ASP.net, VB.NET, JAVA, J2ee. i am working in india as a freelancer.</p>
+
+<p>thanks and regards
+Suresh</p>
+
+<p class="posted">posted by Suresh. V
+ on November 22, 2006 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>my expreience is 4 years in visual basci 6</p>
+
+<p class="posted">posted by Nagaraja
+ on January 31, 2007 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>Three exprience in VB Sql Server</p>
+
+<p class="posted">posted by Nagaraja
+ on January 31, 2007 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c12">
+<p>I am a student, can say fresher but willing to work with you. DO you need experienced programmers or good programers. I know HTML, Java, VB.net and sql Db  these are my strong skill sets. I have learend c++ too. I am good at coding and have designed best sites for my project works. if you wish we can talk further. Please e-mail me.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://earnfun.blogspot.com">mansha</a>
+ on March 15, 2007 <a href="#c12" rel="bookmark">#</a></p>
+</div>
+<div id="c47">
+<p>I like it too. nice analysis !. .</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.buy-photo.eu">Bank zdjec</a>
+ on July 19, 2007 <a href="#c47" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="helpwanted" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

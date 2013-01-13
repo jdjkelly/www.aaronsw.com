@@ -1,0 +1,205 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Suspected Terrorist (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/001125.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001120" title="The Clinton-Gore Plan to Stop Al-Qaeda: Would 9-11 have happened?" />	<link rel="next" href="001129" title="TV Update: Monk back, 24 bad, American Beauty great, Zim good" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Suspected Terrorist</h1>
+</div>
+
+<div class="content">
+<p style="text-align: center"><a href="http://www.aaronsw.com/2002/suspectedTerrorist/"><img src="http://www.aaronsw.com/2002/suspectedTerrorist/button-400.png" alt="Suspected Terrorist Button" /></a></p>
+
+<p class="posted">posted January 18, 2004 04:24 PM (<a class="category" href="cat_politics">Politics</a>) (<a href="#comments">8 comments</a>) <a href="001125" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001120" title="The Clinton-Gore Plan to Stop Al-Qaeda: Would 9-11 have happened?">&laquo; prev</a> | <a href="./">up</a> | <a href="001129" title="TV Update: Monk back, 24 bad, American Beauty great, Zim good">next &raquo;</a></p>
+
+<p><a href="001115">Jefferson: Nature Wants Information to Be Free </a><br />
+<a href="001117">C-SPAN Crossfire</a><br />
+<a href="001118">Shorter George Lakoff: The Framing of Politics</a><br />
+<a href="001119">Bush Fear</a><br />
+<a href="001120">The Clinton-Gore Plan to Stop Al-Qaeda: Would 9-11 have happened?</a><br />
+<strong>Suspected Terrorist</strong><br />
+<a href="001129">TV Update: Monk back, 24 bad, American Beauty great, Zim good</a><br />
+<a href="001131">Unintelligent Design</a><br />
+<a href="001132">Shorter State of the Union</a><br />
+<a href="001133">Liberate Libertarianism</a><br />
+<a href="001136">Visiting Libertopia: The Magical Power of Property</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c296">
+
+<p>I want one!</p>
+
+<p class="posted">posted by <a href="mailto:dogmatix@tmbg.org">Ratan</a> at January 18, 2004 08:18 PM <a href="#c296">#</a></p>
+
+</div><div id="c297">
+
+<p>I don&#8217;t need one, I&#8217;m French !!</p>
+
+<p class="posted">posted by <a href="mailto:marc.albaret@free.fr">marcalba</a> at January 18, 2004 09:30 PM <a href="#c297">#</a></p>
+
+</div><div id="c298">
+
+<p>I don&#8217;t think it&#8217;s possible for me to stopped MORE often when travelling (and I&#8217;m South African, but living in Britain) so I probably don&#8217;t need one either! ;-)</p>
+
+<p>Where did you find it, Aaron?</p>
+
+<p class="posted">posted by <a href="http://blog.meriwilliams.com">Meri</a> at January 19, 2004 04:59 AM <a href="#c298">#</a></p>
+
+</div><div id="c299">
+
+<p>Yes Aaron, do tell, where do we get one?</p>
+
+<p class="posted">posted by <a href="http://pswansen.typepad.com">Paul W. Swansen</a> at January 19, 2004 09:00 AM <a href="#c299">#</a></p>
+
+</div><div id="c303">
+
+<p>Feel like getting arrested?  Handing these out at the airport would probably do it.  Not that there&#8217;s anything actually illegal about doing so, afaict.  but IANAL, so proceed at your own risk.  Maybe someone should talk Gilmore into trying it.</p>
+
+<p class="posted">posted by <a href="mailto:pj@place.org">PJ</a> at January 19, 2004 09:52 AM <a href="#c303">#</a></p>
+
+</div><div id="c304">
+
+<p>If you click on the button, you&#8217;ll find out more.</p>
+
+<p>You can buy <a href="http://www.confluere.com/store/button-antiracism.html">an older version from Emi</a> and <a href="http://armandfrasco.typepad.com/armandele/">Armand</a> might sell you this one.</p>
+
+<p class="posted">posted by <a href="http://www.aaronsw.com/">Aaron Swartz</a> at January 19, 2004 10:23 AM <a href="#c304">#</a></p>
+
+</div><div id="c306">
+
+<p>If it makes anyone feel any better, I work for an airline and I have to go through the same crap as everyone else. Everyone that has a name that&#8217;s on the terrorist watch list. Gone are the days when I can just go to the airport and walk up to a gate and get on a plane to fly somewhere at the spur of the moment on my day off. I know thanks to corporate security of the airline that I work for, I happen to have a name that is on the watch list, so I have to be cleared by them every time I want to travel. It is a comfort knowing that Ozzie and Harriet&#8217;s (no I&#8217;m not old enough to remember them, just a curse of my name) son David and I share a name that puts us under extra scrutiny when we travel.</p>
+
+<p class="posted">posted by <a href="http://www.queermusings.net">David</a> at January 20, 2004 03:52 AM <a href="#c306">#</a></p>
+
+</div><div id="c315">
+
+<p>How soon they forget!  Even if you can&#8217;t find the button anywhere, all you have to do is carry around a copy of the Old Farmer&#8217;s Almanac.  :-)</p>
+
+<p class="posted">posted by Russ Schwartz at January 21, 2004 06:33 AM <a href="#c315">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/001125.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/mt-comments.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1125" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /><br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

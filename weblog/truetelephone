@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>The True Story of the Telephone (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>The True Story of the Telephone</h1>
+
+<p><em>I grew up in Highland Park, Illinois, just down the street from where the telephone was invented. I now live in Cambridge, Massachusetts, just down the street from where it was stolen. Seth Shulman&#8217;s recent book</em> <a href="http://books.theinfo.org/go/039333368X">The Telephone Gambit</a> <em>lays out the clearest case yet of how it all happened. Here&#8217;s the summary:</em></p>
+
+<p>Alexander Graham Bell (or Aleck Bell, as he was then called) was the son of Alexander Melville Bell, the inventor of a system of phonic notation called Visible Speech. The elder Bell would use Aleck as an assistant in his demonstrations: After sending Aleck to wait in another room, Mr. Bell would ask the audience for a word or strange noise then write it in Visible Speech. Aleck would return and reproduce the sound from the writing alone. Voila.</p>
+
+<p>As a child growing up like this, he played at inventing machines that could talk and telegraphs that could listen. But he found his career in tutoring the deaf &#8212; by teaching them to pronounce the phonemes of Visible Speech, he eventually succeeded in teaching them to talk and read lips.</p>
+
+<p>One of his students was Mabel Hubbard, daughter of prominent Boston lawyer Gardiner Greene Hubbard. Son of a Massachusetts Supreme Court Justice, Hubbard established water and gas and trolley utilities for Cambridge, Mass. &#8212; some of the first in the nation. He also fervently lobbied Congress to replace Western Union&#8217;s monopoly on the telegraph with a new corporation, the US Postal Telegraph Company, that would contract with the government Post Office.</p>
+
+<p>At the time, telegraph wires blanketed the skies of Boston, hanging in a dense web above the buildings. Many desperately wished for someone to develop a telegraph that could send multiple messages over the same wire, so that many wires could be replaced with just one. The theory was that if one could transmit the messages using different tones, they would &#8220;harmonize&#8221; instead of interfere, leading the idea to be called the &#8220;harmonic telegraph&#8221;. Naturally, Alexander Graham Bell turned his tinkering to this problem and persuaded Hubbard (as well as Thomas Sanders, another father of a Bell student) to finance his research in exchange for a share of any future US profits. Further complicating matters, Bell had fallen in love with his student, Mabel Hubbard. Mr. Hubbard made it clear he did not approve of such a marriage unless Bell made a profitable discovery.</p>
+
+<p>But Bell was simply a hobbyist, the real research was being done by a man named Elisha Gray. Gray ran Western Electric, the leading supplier of technical expertise to telegraph monopoly Western Union. From his lab in Highland Park, Illinois, he and his assistants worked feverishly at new discoveries. Bell was well aware of this and considered himself to be in a race with Gray to invent the harmonic telegraph first.</p>
+
+<p>In 1875, Bell made a breakthrough in his work on the harmonic telegraph. But he was a crafty fellow &#8212; his deal with Gardiner and Sanders was only about splitting <em>US</em> profits; it said nothing about profits overseas. British law at the time granted patents only to inventions not patented elsewhere first, so Bell drew up several copies of his harmonic telegraph patent and sent some to be filed in Britain first. The rest were sent to DC to be filed as soon as word got back from Britain.</p>
+
+<p>On February 14, 1876, while the lawyers were waiting in DC to file Bell&#8217;s patent, Gray filed a patent of his own. Bell&#8217;s lawyers were close to the patent officers and had asked to be tipped off if Gray tried to file something, so they could file Bell&#8217;s patent first. When Gray&#8217;s patent was placed in the patent office&#8217;s inbox, Bell&#8217;s lawyers hand-delivered Bell&#8217;s patent to the examiner, so they could claim he&#8217;d received Bell&#8217;s first.</p>
+
+<p>The patent examiner, Zenas Fisk Wilber, had fought in the civil war with Bell&#8217;s attorney, Marcellus Bailey. Wilber was an alcoholic and owed Bailey money (a serious Patent Office ethics violation). To pay his friend back, he showed him Gray&#8217;s application. Bailey was startled to find it wasn&#8217;t a patent on a harmonic telegraph at all &#8212; it was a patent for a telephone, capable of transmitting all the sounds of human speech and music. He called for Bell to come to DC at once.</p>
+
+<p>Bell did, and examiner Wilber showed him Gray&#8217;s patent as well, taking time to explain how it worked. Bell thanked him and returned that afternoon with $100 for his trouble. Bell then quickly scribbled an addition to his patent in the margin, adding that it should also cover &#8220;transmitting vocal or other sounds telegraphically&#8221; (this addition does not appear in any of the other copies).</p>
+
+<p>Contravening much standard practice at the time, Bell&#8217;s (modified) patent was quickly granted, while Gray&#8217;s was denied. It was issued the same day Bell returned home from DC, March 7, 1876. The following day, Bell drew in his lab notebook a copy of the diagram he had seen in Elisha Gray&#8217;s patent:</p>
+
+<p><img src="http://upload.wikimedia.org/wikipedia/commons/2/27/Bell-gray-smoking-gun.png" width="500" alt="Diagram showing the similarity between Gray's patent and Bell's notebook" /></p>
+
+<p>It took Bell several days of tinkering, but soon he was able to replicate Gray&#8217;s device. On March 10, he made that now-famous call: &#8220;Watson &#8212; come here &#8212; I want to see you.&#8221; Both Bell and his assistant Watson recorded the event that night in their notebooks.</p>
+
+<p>But Bell didn&#8217;t want to simply duplicate Gray&#8217;s work; he wanted to invent a telephone of his own. He spent many months trying to develop a telephone that worked on a different principle, but never succeeded in getting it to clearly transmit audible speech. Bell was always extraordinarily reluctant to demonstrate his telephone, for fear that Gray would learn it was a simple copy. Mabel had to trick him into attending the Centennial Exposition, where he was supposed to demonstrate his work to a group of engineers, including Elisha Gray. On one occasion, Bell&#8217;s telephone patent was set to be annulled unless Bell would swear under oath that the invention was truly his. Bell fled the country, testifying only at the last minute after desperate pleading from Mabel.</p>
+
+<p>The legal conniving a success, Bell and Mabel were soon married. Feeling guilty, Bell gave all but ten of his shares in the Bell Telephone Company to her and swore to never work in telephony again. The company was operated by Gardiner and others while Bell went back to working with the deaf. He always said he was more proud of his work for the deaf than of the telephone.</p>
+
+<p>It took Gray a long time to realize that Bell&#8217;s patent was a fraud. For one thing, he was still focused on the harmonic telegraph; his customers at Western Union couldn&#8217;t imagine running telephone wires to every house and thus couldn&#8217;t see how talking over wires was particularly useful. For another, it took years for the story to leak out, through numerous court battles and Congressional hearings. <a href="http://upload.wikimedia.org/wikipedia/commons/c/c8/Zenas-fisk-wilber-affidavit.png">Zenas Fisk Wilber&#8217;s affidavit</a> confessing to what he&#8217;d done did not appear until 1886, a decade later. Bell&#8217;s notebooks, making clear the blatant copy, were not made public until the <em>1990s</em>.</p>
+
+<p>Bell&#8217;s biographers have gone to heroic lengths to explain away all the evidence. Refusing credit for the telephone just showed Bell&#8217;s humility; not being involved in the corporation showed his dedication to pure research. The fact that both patents were filed on the same day is a grand historic coincidence &#8212; or perhaps <em>Gray</em> stole the idea from Bell.</p>
+
+<p>As a result, Gray is forgotten and Bell is remembered as one of history&#8217;s great inventors &#8212; not as he should be: a hobbyist and a fraud, forced by love into stealing one of the greatest inventions of all time.</p>
+
+<p><em>Now playing: Regina Spector - &#8220;On The Radio&#8221;</em></p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">January  5, 2009</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>Interesting story, but Phillip Reis was the one who invented the Telephone first - and Bell saw it, and copied some of his work.</p>
+
+<p class="posted">posted by Pete
+ on January  6, 2009 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>Interesting story here , unfortunately its not an isolated case , few year back i read a similar article written by Gladwel about Philio Fransworth  , unsung inventor of Television . you can see same   story with Nichola Tesla . more recently gary killdall was the REAL guy behind DOS but Bill G exploited it .</p>
+
+<p>such cases makes me wonder is their a correlation between invention a technology  and providing wide scale commercial acceptance of technology . is inventor ALWAYS right guy to do that ?</p>
+
+<p>i am NOT AT ALL saying that there shouldn&#8217;t be attribution /accredition of inventor&#8217;s work or they shouldn&#8217;t be rewarded financially but when we see a lot many such example we need to think if our perception of  end to end ownership ( invention to commercialization ) of a new tech needs a revision . 
+Gladwells article is here http://gladwell.com/2002/2002_05_27_a_televisionary.htm</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.knowprashant.blogspot.com">Prashant Singh</a>
+ on January 11, 2009 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+<div id="c7">
+<p>@Prashant Fransworth invented the first fully electric TV, it was Baird who invented the first <em>working</em> TV (albeit electro-mechanical). Gladwell&#8217;s article is incorrect on this. And I don&#8217;t think BillG ever claimed he &#8220;invented&#8221; DOS; it&#8217;s common knowledge that MS purchased Paterson&#8217;s QDOS, and that was only developed because SCP didn&#8217;t know when CP/M was going to be ported to the 8086. Besides, IBM went to DRI first and MS second.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://talideon.com/">Keith Gaughan</a>
+ on January 29, 2009 <a href="#c7" rel="bookmark">#</a></p>
+</div>
+<div id="c8">
+<p>I find it funny that Bell is well known for the invention of the telephone after all the research I have done on it. Ever since i was probably about eight years old I have always been under the impression that Alexander Graham Bell was in fact responsible for this new technology. I&#8217;m currently 16 years old and find this article to be an eye opener for people/kids who are in my same position. Now after doing my research I have found that Bell didn&#8217;t even finish the invention. He was only able to come up with the receiver and couldn&#8217;t produce a microphone with the abilities to clearly produce sounds that were equivalent to the human voice. I knew that Gray had also invented the telephone but, I had no idea that theories like this are going around. It sounds like a pretty credible story and quite frankly I wouldnt be surprised at all if it was 100% true seeing as though Bell couldn&#8217;t even finish his invention. I picked this subject for my research paper because I thought it would be a challenging subject to write so much on but evidently now I&#8217;m able to come up with a 20 page story about not the history of the telephone but the controversy of the telephone.</p>
+
+<p class="posted">posted by Casey Bouton
+ on March  9, 2009 <a href="#c8" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="truetelephone" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

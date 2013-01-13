@@ -1,0 +1,673 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<title>Bush Fear (Aaron Swartz: The Weblog)</title>
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aaronsw.com/weblog/001119.xml" />
+	<link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />	<link rel="prev" href="001118" title="Shorter George Lakoff: The Framing of Politics" />	<link rel="next" href="001120" title="The Clinton-Gore Plan to Stop Al-Qaeda: Would 9-11 have happened?" />
+<!--
+
+-->
+
+</head>
+<body>	
+<div id="banner">
+	<h1>Bush Fear</h1>
+</div>
+
+<div class="content">
+<p>Conservatives use fear to keep the populace complacent and submissive so they can stay in power. &#8220;You might want some of those liberal programs,&#8221; they say, &#8220;but when it comes down to it, isn&#8217;t safety more important?&#8221; They slander and distort the records of more liberal candidates. And they promise that they&#8217;ll do liberal things too, if elected, but forget these promises as soon as they&#8217;re in office.</p>
+
+<p>Sound familiar? But I&#8217;m not talking about the Republicans. I&#8217;m talking about the Democrats.</p>
+
+<p>When Nader ran, Democrats told us that if we voted for him and got Bush elected, we would be consigned to a world where &#8220;private-school vouchers have drained away public funds for education,&#8221; &#8220;women start dying of back-alley abortions, [&#8230;] national parks become oil fields, [&#8230;] we return to the &#8216;good old days&#8217; of Reagan-style national debt, [] our public schools crumble, [and] any notion of corporate environmental responsibility flies out the window.&#8221;</p>
+
+<p>Well, uh, I guess they&#8217;re looking pretty foolish now. There&#8217;s been no voucher plan, abortions have only been curtailed slightly, most of our national parks are doing pretty well, our deficit is large but not unfixable, our public schools still stand (improved according to some), and Bush has continued to <em>improve</em> the environment. (Even <a href="http://www.newyorker.com/talk/content/?030929ta&#95;talk&#95;kolbert" title="The New Yorker: Clouding The Air">the New Yorker, in attacking Bush&#8217;s environmental policy</a> has admitted that &#8220;the initiative, if approved, would reduce power-plant emissions by seventy per cent by the year 2018&#8221; &#8212; of course, without the initiative this would happen even sooner.)</p>
+
+<p>What would the country look like under timid Gore? Well, <a href="http://www.aaronsw.com/weblog/001120" title="The Clinton-Gore Plan to Stop Al-Qaeda: Would 9-11 have happened?">9/11 may not have happened</a> but we&#8217;d still be in Afghanistan, and perhaps even on a humanitarian mission to Iraq. There certainly wouldn&#8217;t be an obvious significant improvement in our daily livese (especially with a Republican Congress).</p>
+
+<p>The fact is, this country is so liberal that Bush isn&#8217;t that bad. Even when Bush hasn&#8217;t improved things, he&#8217;s had to pretend he was trying (No Child Left Behind, Healthy Forests, Clear Skies Initiative, etc.). Why would he coopt the liberal rhetoric in this way except to placate a country which, deep down, is actually rather liberal. Tolerance is widely-acknowledge as something to be strived for, if not always achieved. Debates on Social Security are about how to improve it, not whether about how to get rid of it. We discuss how to improve public schools, not how to replace them. The Bush administration, while perhaps not for the best reasons, publicly proposes humanitarian interventions abroad, expensive expeditions to space, immunity for illegal immigrants, funding for renewable energy research, and aid to stop AIDS. This is the conservative nightmare world?</p>
+
+<p>Now I&#8217;m not saying I&#8217;d vote for Bush, but you have to ask yourself, would four more years of this be so bad that we should give up our chance for <em>real</em> change? </p>
+
+<p>How about a world where special interests don&#8217;t control the government, we take the war on poverty seriously, workers all make a living wage, we eliminate corporate crime, we take care of our children, we start actually using renewable energy, we eliminate homelessness and highway congestion, and we democratize the media?</p>
+
+<p><a href="http://naderexplore04.org/">Isn&#8217;t that worth risking something for?</a></p>
+
+<p class="posted">posted January 16, 2004 11:25 AM (<a class="category" href="cat_politics">Politics</a>) (<a href="#comments">25 comments</a>) <a href="001119" rel="bookmark">#</a></p>
+</div>
+
+<div class="box">
+<h2>Nearby</h2>
+<p class="menu"><a href="001118" title="Shorter George Lakoff: The Framing of Politics">&laquo; prev</a> | <a href="./">up</a> | <a href="001120" title="The Clinton-Gore Plan to Stop Al-Qaeda: Would 9-11 have happened?">next &raquo;</a></p>
+
+<p><a href="001113">Cat in the Hat: Harmful to Minors?</a><br />
+<a href="001114">Shorter Paul O&#8217;Neill</a><br />
+<a href="001115">Jefferson: Nature Wants Information to Be Free </a><br />
+<a href="001117">C-SPAN Crossfire</a><br />
+<a href="001118">Shorter George Lakoff: The Framing of Politics</a><br />
+<strong>Bush Fear</strong><br />
+<a href="001120">The Clinton-Gore Plan to Stop Al-Qaeda: Would 9-11 have happened?</a><br />
+<a href="001125">Suspected Terrorist</a><br />
+<a href="001129">TV Update: Monk back, 24 bad, American Beauty great, Zim good</a><br />
+<a href="001131">Unintelligent Design</a><br />
+<a href="001132">Shorter State of the Union</a><br /></p>
+</div>
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'www.aaronsw.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<h2 id="comments">Comments</h2>
+
+<div id="c260">
+
+<p><i>&#8220;Well, 9/11 probably wouldn’t have happened so we wouldn’t be in Afghanistan or Iraq&#8230;&#8221;</i></p>
+
+<p>Umm, do you have anything other than a hunch to support this statement (9/11)? I don&#8217;t quite follow that since Bush was president, Al Qaeda attacked us. The O&#8217;Neill stuff suggested that Bush&#8217;s eyes were on the Iraq ball rather than the Al Qaeda ball early in the game, but that doesn&#8217;t mean (at least to me) that Gore would have done anything differently about it. It&#8217;s like saying that if Bush I was elected in 1992, Tim McVeigh wouldn&#8217;t have blown up a lot of people in Oklahoma.</p>
+
+<p>Good points otherwise though, I doubt that Nader will ever be the man to take the country you are suggesting. Too much entrenched powers and too many people that identify him with the radical left.</p>
+
+<p>(Also, apologies if I&#8217;m posting too much here. Despite my many disagreements with you on many things, your site has been having the more interesting conversations online. Kudos.)</p>
+
+<p class="posted">posted by <a href="http://aetherial.nu">Chris Karr</a> at January 16, 2004 11:40 AM <a href="#c260">#</a></p>
+
+</div><div id="c261">
+
+<p>The debt has increased 1.5 trillion dollars to 7 trillion under Bush. You&#8217;re right that this fixable, but only if each and every U.S. citizen forks over $24,000. Personally, I don&#8217;t have that kind of money. And I can&#8217;t see the government writing a check any time soon.</p>
+
+<p>And how has Bush improved the environment in any demonstrable way? By attempting to cripple the clean air act? Easing restrictions on arsenic in the water? Refusing to sign the Kyoto Treaty?</p>
+
+<p class="posted">posted by Lurker at January 16, 2004 11:57 AM <a href="#c261">#</a></p>
+
+</div><div id="c262">
+
+<p>Clinton&#8217;s team had prepared a comprehensive plan for completely dismantling Al-Qaeda, they were going to execute it if Gore had been elected, but they thought it would be rude to hand Bush what would essentially be a war on his first day in office. Bush, of course, ignored the plan and did not carry it out.</p>
+
+<p>I believe this is all described in <a href="http://www.time.com/time/archive/preview/from_redirect/0,10987,1101020812-333890,00.html">this Time Magazine article</a>.</p>
+
+<p class="posted">posted by <a href="http://www.aaronsw.com/">Aaron Swartz</a> at January 16, 2004 11:58 AM <a href="#c262">#</a></p>
+
+</div><div id="c263">
+
+<p>Lurker, Bush isn&#8217;t crippling the Clean Air Act &#8212; he&#8217;s just slowing the rate of environmental improvement. I&#8217;m not going to defend Bush (although many do &#8212; I&#8217;ve heard that the Kyoto treaty would be expensive and ineffective and that the arsenic thing was much ado about nothing) but I think it&#8217;s clear that this isn&#8217;t a world of back-alley abortions and oil wells in national parks.</p>
+
+<p class="posted">posted by <a href="http://www.aaronsw.com/">Aaron Swartz</a> at January 16, 2004 12:02 PM <a href="#c263">#</a></p>
+
+</div><div id="c264">
+
+<p>Aaron, they&#8217;ve had to close several schools in this area because the state can&#8217;t pay for them and the Feds aren&#8217;t helping. The debt has increased to the highest amount in history, and all we&#8217;re hearing is more tales of spending. </p>
+
+<p>Several crucial environmental protection acts are being undermined, and now even the ranchers in the west, normally Republican, are pushing back because of possible oil well drilling in states such as Colorado. </p>
+
+<p>The only reason we don&#8217;t have more oil wells in national parks is because even the Republicans are having to draw a line with Bush&#8217;s horrid environmental policies. </p>
+
+<p>This country liberal? Perhaps where you live, but I think its time you got from behind your computer and saw the rest of this country, rather than pontificating on things you have no idea about. </p>
+
+<p>Bush not all that bad in a liberal country&#8230;indeed.</p>
+
+<p class="posted">posted by <a href="http://weblog.burnigbird.net">Shelley</a> at January 16, 2004 12:10 PM <a href="#c264">#</a></p>
+
+</div><div id="c265">
+
+<p>I think the fact that Republicans are trying to protect the environment helps my claim that this country is pretty liberal. Even if Bush hasn&#8217;t actually had to improve things, he&#8217;s had to pretend he has (No Child Left Behind, Healthy Forests, Clear Skies Initiative, etc.) &#8212; why would he do that if the country was so conservative?</p>
+
+<p class="posted">posted by <a href="http://www.aaronsw.com/">Aaron Swartz</a> at January 16, 2004 12:20 PM <a href="#c265">#</a></p>
+
+</div><div id="c266">
+
+<p>Hmm, taking these at face value (not sure if any are strawmen):</p>
+
+<blockquote>
+	<p>women start dying of back-alley abortions, </p>
+</blockquote>
+
+<p>Nope</p>
+
+<blockquote>
+	<p>national parks become oil fields, </p>
+</blockquote>
+
+<p>Superceded by all that&#8217;s going on in Iraq AND the rest of the Middle East</p>
+
+<blockquote>
+	<p>we return to the &#8220;good old days&#8221; of Reagan-style national debt</p>
+</blockquote>
+
+<p>Absolutely true - &#8220;fixable&#8221; is not denying this. </p>
+
+<blockquote>
+	<p>our public schools crumble, </p>
+</blockquote>
+
+<p>Arguable - saying that &#8220;still stand&#8221; is being over-literal. Definitely been under attack in some important ways.</p>
+
+<blockquote>
+	<p>any notion of corporate environmental responsibility flies out the window.</p>
+</blockquote>
+
+<p>Yup. Not the arsenic nonstory, but e.g. the Clean Air Act.
+<a href="http://www.newyorker.com/talk/content/?030929ta_talk_kolbert">http://www.newyorker.com/talk/content/?030929ta<em>talk</em>kolbert</a></p>
+
+<p>All in all, taking into account <em>some</em> hyperbole of politics, I&#8217;d say it&#8217;s more true than not - certainly not &#8220;looking pretty foolish&#8221;, but looking pretty right.</p>
+
+<p class="posted">posted by <a href="http://sethf.com/">Seth Finkelstein</a> at January 16, 2004 12:24 PM <a href="#c266">#</a></p>
+
+</div><div id="c267">
+
+<p>Even that New Yorker article admits &#8220;the initiative, if approved, would reduce power-plant emissions by seventy per cent by the year 2018&#8221;!</p>
+
+<p class="posted">posted by <a href="http://www.aaronsw.com/">Aaron Swartz</a> at January 16, 2004 12:28 PM <a href="#c267">#</a></p>
+
+</div><div id="c268">
+
+<p>Aaron, you have been posting some excellent stuff recently, so when I saw this one I thought you were either being ultimately ironic or that someone had hacked your site and was trying to discredit you. The environment may not be suffering as much as people were warning it would under Bush, but it is pretty bad and he is about as anti-environment as I can imagine anyone actually getting away with these days. The only serious argument with Kyoto is that it does not go far enough, but it is a small first step and Bush was not even willing to take that. Then of course there is the fact that he has polluted large areas of Iraq and Afganistan with DU.</p>
+
+<p>As far as the US being liberal, wtf?? People being arrested for wearing a T-shirt that says &#8220;give peace a chance&#8221; etc..</p>
+
+<p class="posted">posted by <a href="http://www.zenatode.org.uk/ian/">Ian Gregory</a> at January 16, 2004 12:33 PM <a href="#c268">#</a></p>
+
+</div><div id="c269">
+
+<p>when I first read this, I thought someone had hijacked Aaron&#8217;s weblog: something this uncritical and bland didn&#8217;t seem in character.  </p>
+
+<p>I agree with the poster above that Nader is unpalatable to far too many to ever become the people&#8217;s choice: a lot of reframing would have to go into making a consumer advocate a viable national political figure. </p>
+
+<p class="posted">posted by <a href="http://www.paulbeard.org/movabletype">paul beard</a> at January 16, 2004 12:33 PM <a href="#c269">#</a></p>
+
+</div><div id="c271">
+
+<p>You should check out Al Franken&#8217;s book&#8230; it&#8217;s a hoot.  Loved the Lakoff post&#8230; </p>
+
+<p class="posted">posted by <a href="http://pobox.com/~joehall/nqb/">joe</a> at January 16, 2004 01:21 PM <a href="#c271">#</a></p>
+
+</div><div id="c272">
+
+<p>In response to comments calling this piece bland, I&#8217;ve done some rewriting. <a href="001119-old">The older version is still available.</a></p>
+
+<p class="posted">posted by <a href="http://www.aaronsw.com/">Aaron Swartz</a> at January 16, 2004 01:29 PM <a href="#c272">#</a></p>
+
+</div><div id="c273">
+
+<p>Bush not so bad? You must be living on the moon already. Hitler was a good guy too before he went bad.</p>
+
+<p class="posted">posted by <a href="http://radio.weblogs.com/0116902/">Hetty</a> at January 16, 2004 01:50 PM <a href="#c273">#</a></p>
+
+</div><div id="c275">
+
+<p>I was wondering when someone would violate (or is it enforce?) Godwin&#8217;s Law.</p>
+
+<p>Saying that this country is &#8220;liberal&#8221; invites the question &#8220;compared to what?&#8221; Compared to Canada? No.</p>
+
+<p>Much of the animosity towards the Bush administration is not just because of what they do but also how they do it. Secret energy-policy meetings with criminals like Enron&#8217;s top brass where they discuss&#8230;well, I don&#8217;t know what they discuss because it&#8217;s a secret, but one might guess they discussed carving up the ANWR and Iraq. Using national paranoia to get the Congress to give the President a blank check on Iraq (and Congress has much to answer for on that). That&#8217;s gone really well.</p>
+
+<p class="posted">posted by <a href="http://crossroads.net/a">Adam Rice</a> at January 16, 2004 02:17 PM <a href="#c275">#</a></p>
+
+</div><div id="c279">
+
+<p>Nice post Aaron, the middle is where you actually have to think and consider. It&#8217;s a lot harder to choose policy when you don&#8217;t have a checklist to follow like most Democrats and Republicans do.</p>
+
+<p>I voted for Gore last time but now I&#8217;m not so sure.</p>
+
+<p>Iraq good/ pro choice good.
+Environment good/ Free Trade good.
+etc.</p>
+
+<p>Who was it I was supposed to vote for again? Unless its Lieberman, I&#8217;m leaning for Bush.</p>
+
+<p>Too much hysterical fear of Bush. People are really silly in the degree that they personalize things.</p>
+
+<p class="posted">posted by Adam at January 16, 2004 03:51 PM <a href="#c279">#</a></p>
+
+</div><div id="c280">
+
+<p>Did you even read the New Yorker article?? It completely bashes Bush and right before she gives that statistic, she says, &#8220;the new N.S.R. regulations would let the Monroe plant emit about forty thousand additional tons of sulfur dioxide a year&#8221;. Bush has taken us years backwards in environmental protection among many other things. This country is definitely not liberal- considering Bush was elected. </p>
+
+<p>And where are you reading that Bush has improved the environment? From the studies and reports that his administration had changed because they would make the govt look really bad? There&#8217;s an article explaining all of that (with quotations from Senate Hearings and insiders so I don&#8217;t think they&#8217;re just making it up) in one of the recent issues of Rolling Stone. It&#8217;s written by JFK Jr I think&#8230; it&#8217;s interesting. Even if you agree with Bush&#8217;s policies, it&#8217;s an eye-opener.</p>
+
+<p>I don&#8217;t understand why you say in your comment that his &#8220;No Child Left behind&#8221; and environmental regulations (which, if put into effect, would be GOOD) show that this country is liberal. I think most people, whether conservative or liberal, dont&#8217; want their children left behind and want to preserve the environment for those children. Is it really better to pretend to do good then do bad while no one&#8217;s looking, or stand behind your horrible ideas and go forth with them?</p>
+
+<p class="posted">posted by <a href="mailto:emc630@rcn.com">Emily </a> at January 16, 2004 09:58 PM <a href="#c280">#</a></p>
+
+</div><div id="c281">
+
+<p>Aaron, I believe you should examine the New Yorker article more closely.</p>
+
+<p>You write:</p>
+
+<blockquote>
+(Even the New Yorker, in attacking Bush&#8217;s environmental policy has admitted that &#8220;the initiative, if approved, would reduce power-plant emissions by seventy per cent by the year 2018&#8221;.)
+</blockquote>
+
+<p>Whereas <a href="http://www.newyorker.com/printable/?talk/030929ta_talk_kolbert">the actual quote</a> is:</p>
+
+<blockquote>
+The Administration likes to assert that the initiative, if approved, would reduce power-plant emissions by seventy per cent by the year 2018. In fact, the initiative weakens several laws that are already on the books, and that would reduce the same pollutants by a greater amount in a shorter period of time.
+</blockquote>
+
+<p>That is, you are presenting what is at best a <em>delay</em> from Bush, and at worst a ficticious
+assertion, exactly in-line with corporate favor, as if it were somehow a pro-environment achievement!</p>
+
+<p class="posted">posted by <a href="http://sethf.com/">Seth Finkelstein</a> at January 16, 2004 11:22 PM <a href="#c281">#</a></p>
+
+</div><div id="c284">
+
+<p>What if Nader becomes president&#8230;</p>
+
+<p>2004-11-02
+Nader earns 270 electoral votes.
+Bush earns 268 electoral votes.</p>
+
+<p>2005-01-20
+Nader becomes the President.</p>
+
+<p>2005-01-21
+Minimum wage increases to $10.00 per hour.
+Costs of goods increase to cover the increase in minimum wage.
+Some employees are laid off.
+Nader establishes universal health insurance.
+Nader sets up the following federal tax rate:
+Less than $25,000.00        0%
+$25,000.00 to $50,000.00   10%
+$50,000.01 to $100,000.00  25%
+More than $100,000.00      50%
+Nader imposes 1% sales tax on all goods to pay national debt.</p>
+
+<p>2005-02-01
+Nader orders troops to withdraw from Iraq and Afghanistan.
+Unemployment rate increases to 5%.</p>
+
+<p>2005-02-15
+Nader breaks up media monopolies.</p>
+
+<p>2005-02-16
+Nader expands the school system by increasing the size
+of budget for education.</p>
+
+<p>2005-02-17
+Nader requires that all new cars run on electric that
+costs more than gas.  This causes people to keep their
+old cars longer and avoid buying new cars.</p>
+
+<p>2005-02-18
+Nader increases the size of federal budget to cover the
+public financing of public elections.</p>
+
+<p>2005-03-01
+Nader cuts the size of budget for defense to $300 billion
+to cover universal health insurance and to increase the
+welfare system.  As the result, the size of troops decreases
+300,000.</p>
+
+<p>2005-05-01
+Nader outlaws file-sharing software to stop copyright
+infringment so that the artists and authors can get
+their money, with the hope that they will be brought
+out of poverty.</p>
+
+<p>2005-06-01
+Unemployment rate increases to 6%</p>
+
+<p>2005-06-15
+Seeing that Nader is a wimp, China invades Taiwan.
+Nader, as usual, appeals to United Nations for help
+but United Nations, as usual, can&#8217;t do anything.</p>
+
+<p>2005-07-01
+Minimum wage increases to $11.00 per hour to fight against poverty.
+Costs of goods increase to cover the increase in minimum wage.
+Some employees are laid off as the result.
+National debt decreases to $6,000,000,000,000.00.</p>
+
+<p>2005-07-04
+First assassination attempt on Nader fails.</p>
+
+<p>2005-11-01
+Unemployment rate jumps to 10%.
+Personal bankrupt increases by 10%.
+Home ownership rate decreases to 60%.</p>
+
+<p>2005-11-15
+Second assassination attempt on Nader fails.</p>
+
+<p>2006-01-01
+Unemployment rate increases to 11%.
+Minimum wage increases to $13.00 per hour to fight against poverty.
+Costs of goods increase to cover the increase in minimum wage.
+Some employees are laid off as the result.
+Nader increases the following federal tax rate:
+Less than $25,000.00        0% <br />
+$25,000.00 to $50,000.00   20%
+$50,000.01 to $100,000.00  40%
+More than $100,000.00      60%
+National debt decreases to $5,500,000,000,000.00.</p>
+
+<p>2006-02-01
+Nader increases copyright term to 200 years and
+patent term to 50 years so that artists, authors,
+inventors, and their estates can get money, with
+the hope that they will be brought out of poverty.</p>
+
+<p>2006-03-01
+Nader cuts the size of budget for defense to $200 billion
+to cover universal health insurance and to increase the
+welfare system.  As the result, the size of troops decreases
+200,000.</p>
+
+<p>2006-03-02
+Third assassination attempt on Nader fails.</p>
+
+<p>2006-05-01 
+Poverty still exists.
+Personal bankrupt increases by 10%.
+Home ownership rate decreases to 40%.</p>
+
+<p>2006-06-01
+Nader cuts the size of budget for defense to $100 billion
+to cover universal health insurance and to increase the
+welfare system to fight against poverty.  As the result,
+the size of troops decreases 100,000.</p>
+
+<p>2007-01-01
+Unemployment rate jumps to 15%.
+Minimum wage increases to $15.00 per hour to fight against poverty.
+Costs of goods increase to cover the increase in minimum wage.
+Some employees are laid off as the result.
+Nader increases the following federal tax rate:
+Less than $25,000.00        0%
+$25,000.00 to $50,000.00   25%
+$50,000.01 to $100,000.00  50%
+More than $100,000.00      70%
+National debt decreases to $5,000,000,000,000.00.</p>
+
+<p>2007-02-02 <br />
+Fourth assassination attempt on Nader fails.</p>
+
+<p>2007-06-01
+Poverty still exists.
+Nader increases the following federal tax rate:
+Less than $25,000.00        0%
+$25,000.00 to $50,000.00   25%
+$50,000.01 to $100,000.00  70%
+More than $100,000.00      95%</p>
+
+<p>2007-06-02
+Fifth assassination attempt on Nader fails.</p>
+
+<p>2008-01-01
+Unemployment rate flirts with 20%.
+Personal bankrupt increases by 20%.
+Home ownership rate decreases to 30%.
+National debt decreases to $4,500,000,000,000.00.</p>
+
+<p>2008-11-04
+Nader earns no electroal vote.
+Conservative Joe earns 538 electoral votes.
+2008-11-05
+Sixth assassination attempt on Nader fails.</p>
+
+<p>2008-11-06
+Seventh assassination attempt on Nader fails.</p>
+
+<p>2008-11-07
+Eighth assassination attempt on Nader fails.</p>
+
+<p>2008-11-08
+Ninth assassination attempt on Nader fails.</p>
+
+<p>2008-11-09
+Tenth assassination attempt on Nader fails.
+(Many more assassination attempts occur but they will
+not be mentioned here.)</p>
+
+<p>2009-01-01
+National debt decreases to $4,000,000,000,000.00.</p>
+
+<p>2009-01-20   7:00 <br />
+Secret agents can&#8217;t find Nader.</p>
+
+<p>2009-01-20  11:59
+Nader is still not seen anywhere.</p>
+
+<p>2009-01-20  12:00
+Conservative Joe becomes the President.</p>
+
+<p>2009-01-20  12:01
+People learn that Nader has escaped to China
+and says, &#8220;I am never an American, I am always
+a socialist, communist, Marxist at heart.  China
+is my true home!&#8221;</p>
+
+<p>2009-01-20  12:02
+People all over the U.S. who voted for Nader
+get mad and grind their teeth.</p>
+
+<p>:-)</p>
+
+<p>Joseph Pietro Riolo <br />
+&lt;riolo@voicenet.com&gt;</p>
+
+<p>Public domain notice:  I put all of my expressions in
+this comment in the public domain.</p>
+
+<p class="posted">posted by <a href="mailto:riolo@voicenet.com">Joseph Pietro Riolo</a> at January 17, 2004 10:55 AM <a href="#c284">#</a></p>
+
+</div><div id="c285">
+
+<p>Your piece is pretty absurd, but I guess I should post some minor quibbles:</p>
+
+<p>I doubt Nader would outlaw file sharing software, he&#8217;s also against copyright extension. </p>
+
+<p>I don&#8217;t see why unemployment and personal bankruptcy would be so high &#8212; previous experience has show that such tax cuts for the middle class have a very good effect on the economy and employment.</p>
+
+<p>Employees will probably not be laid off to cover the increase in minimum wage, but CEOs might have to take less pay in salary. (Nader would probably regulate that to make sure.)</p>
+
+<p>I don&#8217;t see why a 25% reduction in defense spending would lead to an 85% cut in troops, especially when the majority of that money would likely go to expensive and silly programs like big plans and ships and Star Wars.</p>
+
+<p>So, unless you have some reason for your comments, I think you&#8217;re being irrational.</p>
+
+<p class="posted">posted by <a href="http://www.aaronsw.com/">Aaron Swartz</a> at January 17, 2004 06:04 PM <a href="#c285">#</a></p>
+
+</div><div id="c287">
+
+<p>In response to Aaron&#8217;s comment:</p>
+
+<p>I am aware that there are a lot of exaggerations
+in my totally fictional scenario in case Nader
+becomes the President of the U.S.</p>
+
+<p>Based on what I have read your weblog, you are
+too idealistic that you are not able to see what
+could have gone wrong if Nader becomes the
+President.  All you have to say about him
+is good, positive things to the point that
+you are a cheerleader for him.  In other words,
+you are not too realistic.  Does that make
+you irrational?</p>
+
+<p>There is a president that Nader strongly
+reminds me of.  That president is Carter.
+You did not exist when he was the President
+but I was about your age during his term.
+There is no point in explaining what hardship
+he had done to the nation and people
+including my parents&#8217; family.</p>
+
+<p>Nader should stay out of the politics
+and work in the area that he is
+an expert in - encouraging the common
+people to be proactive and make
+a difference.</p>
+
+<p>Joseph Pietro Riolo
+&lt;riolo@voicenet.com&gt;</p>
+
+<p>Public domain notice:  I put all of my
+expressions in this comment in the public
+domain. </p>
+
+<p class="posted">posted by <a href="mailto:riolo@voicenet.com">Joseph Pietro Riolo</a> at January 18, 2004 08:18 AM <a href="#c287">#</a></p>
+
+</div><div id="c288">
+
+<p>AFAIK, there were no assassination attempts again Jimmy Carter, unlike, say, Reagan. And, <a href="http://www.whitehouse.gov/history/presidents/jc39.html">according to the White House</a>, Carter created eight million new jobs! So I&#8217;m not sure what you&#8217;re complaining about.</p>
+
+<p class="posted">posted by <a href="http://www.aaronsw.com/">Aaron Swartz</a> at January 18, 2004 08:58 AM <a href="#c288">#</a></p>
+
+</div><div id="c289">
+
+<p>Being a European who spent this past summer in the US the US is far from being &#8220;so liberal&#8221;. In fact what&#8217;s considered liberal in the states (Howard Dean) would be barely centrist in Europe!</p>
+
+<p class="posted">posted by <a href="http://davesrants.com">Dave</a> at January 18, 2004 09:00 AM <a href="#c289">#</a></p>
+
+</div><div id="c291">
+
+<p>Aaron, this is the most sensible thing I&#8217;ve seen you write yet. It&#8217;s not totally one sided, but actually tries to take a look across the broader spectrum. </p>
+
+<p>DISCLAIMER: I&#8217;m an independant and consider myself to be a liberal conservative. </p>
+
+<p>A couple of points:</p>
+
+<p>1) This country has continued to become more and more liberal over the years. Not as liberal as some european countries, but arguably heading that way if things continue the way they are. Personally, that&#8217;s not something I&#8217;m looking forward to.</p>
+
+<p>2) Bush didn&#8217;t loose 600,000 jobs like the media wants you to believe. He inherited a huge mess from the Clinton administration and if anything, he&#8217;s slowed the economic downturn and turned it around. GDP is up 8.5% and increasing. The media will even admit to that.</p>
+
+<p>2a) The economy was in a downward spiral at the end of the Clinton administration. The dot.com bubble had burst and unemployment was increasing. How quickly we all forget that. </p>
+
+<p>3) NCLB (No Child Left Behind) is a very good start at improving our school systems, which I&#8217;m sure we&#8217;ll all agree that we need. For those who are slamming it, take a closer look. It&#8217;s not perfect, but then again, no plan is. However, it&#8217;s got a pretty solid foundation - improve the teachers who teach our kids and thereby increase the education of our kids. I know, I&#8217;ve been doing research for a couple of applications for NCLB for the past six months and have dealt with school systems in NC, CA, and NY during my research. </p>
+
+<p>4) The environment isn&#8217;t that bad. We&#8217;ve yet to have any President who&#8217;s made a real impact on it. How about we take some responsibility for it ourselves instead of blaming everyone else? Of all the people who are b*tching about the environment, who of you recycle on a regular basis? Composte? Keep your trash to a minimum? Carpool? Drive a more fuel efficient vehicle? Walk instead of drive? </p>
+
+<p>5) The deficit is up - personally, I think that&#8217;s a bad thing, but you&#8217;re correct, it&#8217;s not unfixable.</p>
+
+<p>6) Mars and the Moon - personallly, I think it&#8217;s a waste of money. We should cut back on these programs and put more into social medicine and education, where we need it. Fix the home first, then you can think about building a second one.</p>
+
+<p>7) Illegal aliens - personally, again, I don&#8217;t agree with Bush on this one. Instead of allowing Mexicans to take jobs that Americans don&#8217;t want, how about putting some of those people on Welfare onto these jobs? Make them work for the Welfare, not sit around waiting on government handouts. Now, I know a lot of you liberals might get pissed at this idea, but someone explain to me why we should be a liberal country of handouts? I&#8217;m not saying make them all work heavily,  but set up a system that has Welfare recipients working 10-40 hours a week, based on needs and ability (children, health, etc. should be taken into consideration). I&#8217;m sure we can all agree that this would be a better plan that what we have now. </p>
+
+<p class="posted">posted by <a href="mailto:twarfel@mac.com">Todd Warfel</a> at January 18, 2004 09:38 AM <a href="#c291">#</a></p>
+
+</div><div id="c294">
+
+<p>If corporate control of government is the problem, then it is nowhere more obviously demonstrated than the Bush administration. They <em>lied</em> to <em>everybody</em> in order to <em>invade another sovereign nation</em> simply to <em>profit from the war.</em> They are <em>war profiteers.</em></p>
+
+<p>If you&#8217;d rather vote for Nader, that&#8217;s your choice, but Bush is a danger to the US and the world, and needs to be voted out of office, regardless of who replaces him. If he gets reelected, then the world will know that the majority of voters in the US are OK with everything Smirk has done. That would be disastrous.</p>
+
+<p class="posted">posted by <a href="mailto:paul@mile23.com">Paul</a> at January 18, 2004 05:59 PM <a href="#c294">#</a></p>
+
+</div><div id="c305">
+
+<p>Interesting proposition, but I have this question.</p>
+
+<p>If you admit that the country is liberally biased, and that GW must claim hitherto liberal programs in order to seem like he is accomplishing something, don&#8217;t you think that <em>that&#8217;s</em> exactly the problem?</p>
+
+<p>Don&#8217;t you think that we would be better off with <em>real</em> debate from varied viewpoints rather than politicians floating balloons to appeal to the lowest common denominator?  (Why <em>aren&#8217;t</em> we debating about eliminating Social Security.  I&#8217;m certainly better at investing my money than our government.)</p>
+
+<p class="posted">posted by <a href="mailto:JimPAX@operamail.com">Jim Leesch</a> at January 19, 2004 06:01 PM <a href="#c305">#</a></p>
+
+</div>
+
+<p><a href="feed:http://www.aaronsw.com/weblog/001119.xml">Subscribe to comments on this post.</a></p>
+
+<h3 id="postcomment">Add Your Comment</h3>
+
+<p>If you don't want to post a comment, you can always <a href="mailto:weblog@aaronsw.com">send me your thoughts by email</a>.</p>
+
+<form method="post" action="http://notabug.com/mt/mt-comments.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="1119" />
+
+<p><label for="author">Name:</label><input tabindex="1" id="author" name="author" /><br />
+<label for="email">Email:</label><input tabindex="2" id="email" name="email" /><br />
+<label for="url">URL:</label><input tabindex="3" id="url" name="url" /></p>
+
+<p>Remember personal info? <input type="radio" id="bakecookie" name="bakecookie" /><label for="bakecookie">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" /></p>
+
+<p><label for="text">Comments:</label><br />
+<textarea tabindex="4" id="text" name="text" rows="10" cols="50"></textarea></p>
+
+<p><strong>Note:</strong> I may edit or delete your comment. (<a href="commentPolicy">More...</a>)</p>
+
+<p><input type="submit" name="preview" value="Preview" /></p>
+
+</form>
+
+<script type="text/javascript" language="javascript">
+<!--
+document.comments_form.email.value = getCookie("mtcmtmail");
+document.comments_form.author.value = getCookie("mtcmtauth");
+document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+</div>
+
+<address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</body>
+</html>

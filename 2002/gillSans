@@ -1,0 +1,31 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+  <title>Gill Sans Test</title>
+  <link rel="stylesheet" type="text/css" href="/style.css" />
+</head>
+<body>
+<div id="banner">
+  <h1>Gill Sans Test</h1>
+</div>
+<div class="content">
+<p>Here's what it should look like:</p>
+<img src="gillSans-pic" />
+<p>Here's what it does look like:</p>
+<p style='font-size: 14pt; font-family: "Gill Sans"; margin-left: 7px'>
+<span style="font-weight: 100">This is Gill Sans Light.</span><br />
+<span>This is Gill Sans.</span><br />
+<span style="font-weight: 800">This is Gill Sans Bold.</span><br />
+</p>
+
+<h2>Results</h2>
+<p>Safari up to v62 displays Plain as Light.<br />
+Safari v64 displays Light as Plain.<br />
+OmniWeb 4.1 displays Plain as Light.<br />
+Chimera 2002-02-12 displays Light as Plain.<br />
+IE 5.1 displays Light as Plain.
+</p>
+</div>
+<div class="footer">
+  <address><a href="http://www.aaronsw.com/">Aaron Swartz</a> (<a href="mailto:me@aaronsw.com">me@aaronsw.com</a>)</address>
+</div></body>
+</html>

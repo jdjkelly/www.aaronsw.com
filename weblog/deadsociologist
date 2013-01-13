@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Slaves of Some Dead Sociologist (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Slaves of Some Dead Sociologist</h1>
+
+<p>Imagine you were suddenly put in charge of Google. What would you spend your time doing? Branding? The Google brand is pretty important, but it&#8217;s not really something you can control directly; it&#8217;s more of a side-effect of the other decisions you make. (If your legal team decides to give up the names of Chinese dissidents to the secret police, that&#8217;s going to hurt your brand.) Product design? Clearly this is also important, but at a company the size of Google it&#8217;s too big a job for one person &#8212; most of Google&#8217;s innovative new products are designed by rank-and-file engineers. Strategy? This is a good one, and probably what Google&#8217;s current rulers spend most of their time on, but I&#8217;m skeptical as to how good anyone can really be at long-term strategy with such a huge company. Hiring? Obviously hiring is pretty important, but even the greatest group of people aren&#8217;t going to save your company if they waste their time once their inside.</p>
+
+<p>No, I think the most important thing a person in charge of a large company can work on is sociology &#8212; designing the social structure of the company. It&#8217;s the sociology that determines who gets hired, what their life is like, how much freedom they have, what sorts of things they work on, etc. Clearly these structures determine an enormous amount about the corporation. And yet, strikingly, I&#8217;ve never heard of a single corporation that has a high-level group devoted to studying and improving them.</p>
+
+<p>&#8220;Practical men,&#8221; Keynes famously wrote at <a href="http://www.marxists.org/reference/subject/economics/keynes/general-theory/ch24.htm">the end of his <em>General Theory</em></a>,  &#8220;who believe themselves to be quite exempt from any intellectual influences, are usually the slaves of some defunct economist.&#8221; And sociology seems to have worked out much the same way. <a href="http://www.aaronsw.com/weblog/visiblehand">Chandler claims</a> that the modern command-and-control corporation was worked out just about identically by several different people around the same time and its military methods have been with us ever since.</p>
+
+<p>Despite enormous changes in the kinds of things big companies do as well as in the way that they do them, the actual structure of the large corporation (with very few exceptions) has hardly changed at all. It&#8217;s gotten to the point where even tinkering with the cubicle seems radical.</p>
+
+<p>Since such questions are so alien, let me give a sense of the questions I mean. For example, how do you hire? Right now, it appears that at Google each team gets to hire people for its projects and then once you&#8217;re inside Google you get to switch to another project if you like. Why not have a team dedicated to hiring which tries to find the best way to pick the best people as well as making sure they match a particular company culture?</p>
+
+<p>Also, how do projects get picked? Do you have a command-and-control structure deciding what things need to get worked on from the top? Do you let everybody work on what they like? Do you let the company vote on what its priorities should be?</p>
+
+<p>What do you do with people who don&#8217;t work out? Do you have performance reviews? Bonus pay? Three-strikes firing offenses? Or do all these systems just make working more frightening and problematic?</p>
+
+<p>It seems to me any reasonable company ought to have a whole department dedicated to working on these issues, studying the systems that are in place, studying the kinds of things that others have tried, and doing their own experiments to see if they can do things better. And yet, to my knowledge, no one does. Even the handful of companies that do something innovative with their corporate structure did it as a one-off &#8212; they have no team dedicated to coming up with and trying new such innovations.</p>
+
+<p>Now normally when you discover that everyone else is doing something wrong, there&#8217;s an opportunity for you to get ahead by doing it right. But that&#8217;s much more difficult here, because these questions only really make sense for large organizations and very few of us find ourselves in charge of large organizations. For example, its arguable that <a href="http://www.fogcreek.com/About.html">Fog Creek</a> has done some things along these lines, but it&#8217;s pretty difficult to tell since they&#8217;ve never had more than a couple dozen people.</p>
+
+<p>Instead, the real innovation hasn&#8217;t come from companies, but the online peer-production projects, like GNU/Linux, that take contributions from a distributed set of volunteer contributors. But such groups solve the problem largely through eliminating it &#8212; they don&#8217;t have to worry about who to hire and how to treat them because they don&#8217;t hire anyone.</p>
+
+<p>Instead, most of the people who work on GNU/Linux are hired by other companies where they must contend with the antiquated social structures that those companies provide. And since those are the brutal facts that most humans must contend with, it would be nice if more people were thinking about alternatives.</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">April 15, 2008</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>I have been thinking about this kind of a thing a lot as of late, too. Have you heard of Ricardo Semler and his book Maverick? I&#8217;m not sure it is worth the read, yet, but to get a gist:</p>
+
+<p>http://youtube.com/watch?v=gJkOPxJCN1w
+http://youtube.com/watch?v=gG3HPX0D2mU</p>
+
+<p>What do you think about such approaches to managing (software) companies?</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://metarz.net/blog">rz</a>
+ on April 15, 2008 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>This probably gets lumped into the strategy category a lot.</p>
+
+<p>There is a lot of variety in corporate structure. Goldman Sachs is a (recently and historically successful) example, their organization does not have many levels of management, &#8220;Usually there have been no more than two layers to the top&#8221; from http://www.simonsays.com/content/book.cfm?pid=411146&amp;tab=25&amp;agid=2</p>
+
+<p>Another strategy is Napoleon style decentralization, which is not new obviously, Walmart got a lot of praise for its hurricane Katrina response, compared to FEMA which is organized more conventionally.</p>
+
+<p>A major demotivator is risk. The more risk a company takes the more expensive capital is, so the more money they have to make to stay afloat. I think there are a lot of people out there that are happy just to have a decent job that pays the bills.</p>
+
+<p class="posted">posted by 15801703843
+ on April 15, 2008 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>aaron,</p>
+
+<p>most people who get to in charge of large organizations are very focused and have lots of energy, and have spent their whole lives proving it. Then they get those first couple of really big jobs &#8212; dean, president, whatever, and their same &#8220;<em>I</em>-will-be-the-one-to-fix-it&#8221; attitude can&#8217;t let them believe they can&#8217;t change the culture of the place. A year or two later, most of them admit they failed to change the culture of the institution and they try to recover and make some small, focused changes. I have seen it happen again and again. Most often the ones who do manage to make a change tend verge on luck: the right ambition in the right job at the right time. The bottom line is, no matter how important the CEO is, he&#8217;s not very important compared to 10,000 other people. He&#8217;s just not. The best ones, I think, have been the ones who dug in and made changes at the funding level, but I have also seen such folks taken down by bitter infighting.</p>
+
+<p>As for the experimentation: what do you think the Human Resources department does? The popularized employee interface with HR as an employee is the interface a rat has with the scientist: you&#8217;re in the experiment. The HR senior management, especially in larger organizations, is in the role of scientist. I&#8217;ve run the data on some of those experiments.</p>
+
+<p>As for alternatives, check out Chris Algyris and some of the industrial efficiency experts. These people were driven by data and I think you&#8217;ll find that their best insights have been overlooked by the easy-to-understand ideas that got popularized, much to their authors&#8217; chagrin.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://nielsolson.us">Niels Olson</a>
+ on April 16, 2008 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c5">
+<p>I&#8217;ve also been thinking quite a lot recently about what it takes to build a great/lasting company.  I sort of got stuck on the hiring good people part, because to me even that is a quite difficult task.  Everyone is motivated and excited by different things, and the best people are harder to motivate and excite than others, so finding and keeping them is a daunting task.</p>
+
+<p>Having a team of people asking the questions you discuss here is a brilliant idea.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://kortina.net">Kortina</a>
+ on April 18, 2008 <a href="#c5" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="deadsociologist" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>

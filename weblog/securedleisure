@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Secured Leisure (Aaron Swartz's Raw Thought)</title>
+  <link rel="home" href="http://www.aaronsw.com/weblog/" title="Home" />
+  <link rel="stylesheet" href="oldstyle.css" type="text/css" />
+</head>
+<body>	
+<h1 class="title"><a href="./" class="hilite" title="by Aaron Swartz">Raw Thought</a></h1>	
+<p class="byline" style="float: right">by <a href="/">Aaron Swartz</a></p>
+
+<div class="content">
+<h1>Secured Leisure</h1>
+
+<blockquote>
+  <p>When I was disengaged myself, as above mentioned, from private business, I flattered myself that, by the sufficient though moderate fortune I had acquired, had secured leisure during the rest of my life for philosophical studies and amusements. I purchased all Dr. Spence&#8217;s apparatus, who had come from England to lecture in Philadelphia, and I proceeded in my electrical experiments with great alacrity; but the public, now considering me as a man of leisure, laid hold of me for their purposes; every part of our civil government—and almost at the same time&#8212;imposing some duty upon me. The Governor put me into the commission of the peace; the corporation of the city chose me one of the common council, and soon after alderman; and the citizens at large elected me a burgess to represent them in the Assembly.</p>
+</blockquote>
+
+<p>(Benjamin Franklin, <em>Autobiography</em>)</p>
+
+
+<p><i>You should follow me on twitter <a href="http://twitter.com/aaronsw">here</a>.</i></p>
+<p class="posted">April 22, 2007</p>
+
+<script type="text/javascript"><!--
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<style type="text/css">#comments_body { display: none}</style>');
+}
+//--></script>
+
+<div id="comments_body">
+
+
+<h2 id="comments">Comments</h2>
+
+<div id="c1">
+<p>Improved ecommerce for public benefit?</p>
+
+<p>Someone with computer skills and leisure might take a look at a project that could make new business models feasible &#8212; especially for musicians, artists, and other small businesses selling digital content at low prices.</p>
+
+<p>By lucky accident I explored possible uses for online financial accounts that could REPRODUCE through any number of generations, inherit many services, options, and methods through family trees, and evolve in community use. It&#8217;s new and appears revolutionary, but hasn&#8217;t received much attention.</p>
+
+<p>My overview at www.smart-accounts.org may look too good to be true. But if it won&#8217;t work, then somebody who&#8217;s bright could figure that out quickly. I&#8217;ve looked for a showstopper for two years and haven&#8217;t found one.</p>
+
+<p>This idea needs both commercial and open-source development. It should be available for all, not locked away in some corporation&#8217;s patent collection. I published it quietly for just that purpose, and have no proprietary claims.</p>
+
+<p>John S. James, Philadelphia</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.smart-accounts.org">John S. James</a>
+ on April 24, 2007 <a href="#c1" rel="bookmark">#</a></p>
+</div>
+<div id="c2">
+<p>I get it!  You think you&#8217;re comparing yourself to Ben Franklin!</p>
+
+<p class="posted">posted by captainObvious
+ on April 25, 2007 <a href="#c2" rel="bookmark">#</a></p>
+</div>
+<div id="c3">
+<p>Aaron, you should get business cards printed up that say &#8220;International man of leisure&#8221;.  It&#8217;ll get the point across.  Works with the ladies too, I hear.</p>
+
+<p class="posted">posted by James Head
+ on May  3, 2007 <a href="#c3" rel="bookmark">#</a></p>
+</div>
+<div id="c4">
+<p>That&#8217;s cool.  I&#8217;m sure you can do incredible things with such free time.</p>
+
+<p class="posted">posted by <a rel="nofollow" href="http://www.connellybarnes.com/">Connelly Barnes</a>
+ on May  5, 2007 <a href="#c4" rel="bookmark">#</a></p>
+</div>
+<div id="c6">
+<p>Stop deleting the posts, mate.</p>
+
+<p class="posted">posted by Bot
+ on June 11, 2007 <a href="#c6" rel="bookmark">#</a></p>
+</div>
+
+<p>You can also <a href="mailto:weblog@aaronsw.com">send comments by email</a>.</p> 
+
+<form action="code/comment.cgi" method="post">
+<input type="hidden" name="eid" value="securedleisure" />
+<table>
+<tr><th>Name</th><td> <input type="text" name="name" /></td></tr>
+<tr><th>Site</th><td><input type="text" name="url" value="http://" /></td></tr>
+<tr><th>Email</th><td><input type="text" name="email" /> (only used for direct replies)</td></tr>
+<tr><td colspan="2"><textarea name="content" rows="10" cols="50"></textarea></td></tr>
+<tr><td colspan="2"><input type="submit" value="Publish" /> <em>Comments may be edited for length and content.</em></td></tr>
+</table>
+</form>
+<p></p>
+
+</div>
+
+<script type="text/javascript"><!--
+function showComments() {
+  document.getElementById('comments_show').style.display='none';
+  document.getElementById('comments_body').style.display='block';
+  return false;
+}
+if (document.location.hash.substring(0, 2) != '#c') {
+  document.write('<p id="comments_show"><a href="#comments" onclick="return showComments();">Read comments.</a></p>');
+}
+//--></script>
+
+</div> 
+
+<p class="footertag"><a href="http://theinfo.org/">Powered by theinfo.org.</a></p>
+
+</body> 
+</html>
